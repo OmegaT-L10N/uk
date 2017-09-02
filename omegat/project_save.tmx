@@ -358,13 +358,9 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="x-auto">auto</prop>
       <note>Чому OmegaT чол. р.? Напевно, доцільніше «програма OmegaT», тоді з родом усе зрозуміло.</note>
       <tuv lang="EN">
         <seg>OmegaT has chosen option 'Yes' automatically.</seg>
-      </tuv>
-      <tuv lang="UK-UA" changeid="Julia" changedate="20170424T144700Z" creationid="Julia" creationdate="20170424T144700Z">
-        <seg>OmegaT автоматично обрав варіант "Так".</seg>
       </tuv>
     </tu>
     <tu>
