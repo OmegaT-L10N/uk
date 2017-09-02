@@ -5,6 +5,440 @@
   <body>
 <!-- Default translations -->
     <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="EN">
+        <seg>&amp;Editor...</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20170902T144746Z" creationid="Kos Ivantsov" creationdate="20170902T144746Z">
+        <seg>&amp;Вікно редагування...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="EN">
+        <seg>&amp;File</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20170427T120329Z" creationid="Kos Ivantsov" creationdate="20170427T120329Z">
+        <seg>&amp;Файл</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="EN">
+        <seg>&amp;Glossary</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20170902T144816Z" creationid="Kos Ivantsov" creationdate="20170902T144816Z">
+        <seg>&amp;Глосарій</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;Insert</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20170902T163513Z" creationid="Kos Ivantsov" creationdate="20170902T163513Z">
+        <seg>&amp;Вставити</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="EN">
+        <seg>&amp;Open Script...</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20170427T120349Z" creationid="Kos Ivantsov" creationdate="20170427T120349Z">
+        <seg>&amp;Відкрити скрипт...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="EN">
+        <seg>&amp;Run</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20170427T120442Z" creationid="Kos Ivantsov" creationdate="20170427T120442Z">
+        <seg>&amp;Виконати</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="EN">
+        <seg>--/--</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20170427T115523Z" creationid="Kos Ivantsov" creationdate="20170427T115523Z">
+        <seg>--/--</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="EN">
+        <seg>--/-- (--/--, --)</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20170427T115525Z" creationid="Kos Ivantsov" creationdate="20170427T115525Z">
+        <seg>--/-- (--/--, --)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="EN">
+        <seg>--mode=[console-translate|console-pseudotranslatetmx|console-align]
+		Specify a mode other than default (GUI).</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20170902T144621Z" creationid="Kos Ivantsov" creationdate="20170902T144621Z">
+        <seg>--режим=[console-translate|console-pseudotranslatetmx|console-align]
+		Вказати режим, відмінний від стандартного (GUI).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="EN">
+        <seg>--remote-project
+		Download an omegat.project file from the URL given as &lt;project
+		path&gt; and load the project.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20170902T144013Z" creationid="Kos Ivantsov" creationdate="20170902T144013Z">
+        <seg>--remote-project
+		Стягнути файл omegat.project з URL-адреси, вказаної у параметрі &lt;шлях
+		до проекту&gt;, та завантажити проект.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="EN">
+        <seg>-h, --help
+		Show usage information.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="TranslatorOne" changedate="20170413T141037Z" creationid="TranslatorOne" creationdate="20170413T141037Z">
+        <seg>-h, --help
+		Показати інформацію про використання.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="EN">
+        <seg>50%-74%:</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20170427T115627Z" creationid="Kos Ivantsov" creationdate="20170427T115627Z">
+        <seg>50 %—74 %:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="EN">
+        <seg>75%-84%:</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20170427T115621Z" creationid="Kos Ivantsov" creationdate="20170427T115621Z">
+        <seg>75 %—84 %:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="EN">
+        <seg>85%-94%:</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20170427T115615Z" creationid="Kos Ivantsov" creationdate="20170427T115615Z">
+        <seg>85 %—94 %:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="EN">
+        <seg>95%-100%:</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20170427T115607Z" creationid="Kos Ivantsov" creationdate="20170427T115607Z">
+        <seg>95 %—100 %:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="EN">
+        <seg>&lt;EMPTY&gt;</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20170427T120310Z" creationid="Kos Ivantsov" creationdate="20170427T120301Z">
+        <seg>&lt;Порожній переклад&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="EN">
+        <seg>Cancel</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20170427T120453Z" creationid="Kos Ivantsov" creationdate="20170427T120453Z">
+        <seg>Скасувати</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="EN">
+        <seg>Commands:
+	-h, --help
+		Show usage information.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20170418T175806Z" creationid="Kos Ivantsov" creationdate="20170418T175806Z">
+        <seg>Команди:
+-h, --help
+		Показати інформацію про використання.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="EN">
+        <seg>Display Font</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20170902T145111Z" creationid="Kos Ivantsov" creationdate="20170902T145111Z">
+        <seg>Шрифт</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="EN">
+        <seg>Do you really want to quit?</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20170902T144828Z" creationid="Kos Ivantsov" creationdate="20170902T144828Z">
+        <seg>Завершити роботу?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="EN">
+        <seg>Error</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Julia" changedate="20170424T144532Z" creationid="Julia" creationdate="20170424T144532Z">
+        <seg>Помилка</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="EN">
+        <seg>File &amp;Filters...</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20170902T144719Z" creationid="Kos Ivantsov" creationdate="20170902T144719Z">
+        <seg>Фільтри &amp;файлів...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="EN">
+        <seg>File {0}: {1}</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20170427T115657Z" creationid="Kos Ivantsov" creationdate="20170427T115657Z">
+        <seg>Файл {0}: {1}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="EN">
+        <seg>Font</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20170427T115535Z" creationid="Kos Ivantsov" creationdate="20170427T115535Z">
+        <seg>Шрифт</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="EN">
+        <seg>Insert Tag {0}</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20170418T175821Z" creationid="Kos Ivantsov" creationdate="20170418T175821Z">
+        <seg>Вставити теґ {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="EN">
+        <seg>Invoke `team -h` for details.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20170902T144521Z" creationid="Kos Ivantsov" creationdate="20170902T144521Z">
+        <seg>Детальнішу інформацію можна отримати, запустивши програму з параметром «team -h».</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="EN">
+        <seg>Last modified by {0}</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20170902T145030Z" creationid="Kos Ivantsov" creationdate="20170902T145030Z">
+        <seg>Востаннє змінено користувачем {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="EN">
+        <seg>Mac&amp;hine Translate</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20170902T144805Z" creationid="Kos Ivantsov" creationdate="20170902T144805Z">
+        <seg>&amp;Машинний переклад</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="EN">
+        <seg>No match:</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20170427T115631Z" creationid="Kos Ivantsov" creationdate="20170427T115631Z">
+        <seg>Без збігів:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="EN">
+        <seg>OmegaT</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20170413T140603Z" creationid="Kos Ivantsov" creationdate="20170413T140603Z">
+        <seg>OmegaT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <note>Чому OmegaT чол. р.? Напевно, доцільніше «програма OmegaT», тоді з родом усе зрозуміло.</note>
+      <tuv lang="EN">
+        <seg>OmegaT has chosen option 'Yes' automatically.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Julia" changedate="20170424T144700Z" creationid="Julia" creationdate="20170424T144700Z">
+        <seg>OmegaT автоматично обрав варіант "Так".</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="EN">
+        <seg>Options:
+	None: Launch GUI
+	Project path only: Launch GUI and load specified project
+	team
+		Team project tool.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20170902T144429Z" creationid="Julia" creationdate="20170424T144202Z">
+        <seg>Параметри:
+	Не вказано: Запустити GUI
+	Лише шлях до проекту: Запустити GUI та завантажити вказаний проект
+	team
+		Інструмент для роботи з командними проектами.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="EN">
+        <seg>Project is Empty</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Julia" changedate="20170424T144443Z" creationid="Julia" creationdate="20170424T144443Z">
+        <seg>Проект порожній</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="EN">
+        <seg>Remove translation</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20170418T175830Z" creationid="Kos Ivantsov" creationdate="20170418T175830Z">
+        <seg>Вилучити переклад</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="EN">
+        <seg>Script &amp;Language</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20170427T120422Z" creationid="Kos Ivantsov" creationdate="20170427T120422Z">
+        <seg>&amp;Мова скрипту</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="EN">
+        <seg>Scripting</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20170427T120323Z" creationid="Kos Ivantsov" creationdate="20170427T120323Z">
+        <seg>Скрипти</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="EN">
+        <seg>See below for details.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20170902T144645Z" creationid="Kos Ivantsov" creationdate="20170902T144645Z">
+        <seg>Докладніше див. нижче.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="EN">
+        <seg>Set empty translation</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20170418T175858Z" creationid="Kos Ivantsov" creationdate="20170418T175837Z">
+        <seg>Зробити переклад порожнім</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="EN">
+        <seg>Size</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20170427T115541Z" creationid="Kos Ivantsov" creationdate="20170427T115541Z">
+        <seg>Розмір</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="EN">
+        <seg>Source/translation lengths (characters)</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20170902T144859Z" creationid="Kos Ivantsov" creationdate="20170902T144859Z">
+        <seg>Довжина оригіналу/перекладу (в символах)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="EN">
+        <seg>This is the way text will look when displayed.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20170902T145124Z" creationid="Kos Ivantsov" creationdate="20170902T145124Z">
+        <seg>Так виглядатиме текст на екрані.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="EN">
+        <seg>Total:</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20170427T115637Z" creationid="Kos Ivantsov" creationdate="20170427T115637Z">
+        <seg>Всього:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="EN">
+        <seg>Translation last modified by {0} on {1} at {2}</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20170902T145016Z" creationid="Kos Ivantsov" creationdate="20170902T145016Z">
+        <seg>Переклад востаннє змінений користувачем {0}, {1} о {2}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="EN">
+        <seg>Unable to read project file!</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20170418T175659Z" creationid="Kos Ivantsov" creationdate="20170418T175659Z">
+        <seg>Не вдалося прочитати файл проекту!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="EN">
+        <seg>Usage: java -jar OmegaT.jar [&lt;options&gt;] [&lt;project path&gt;]</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="TranslatorOne" changedate="20170413T142133Z" creationid="TranslatorOne" creationdate="20170413T142133Z">
+        <seg>Використання: java -jar OmegaT.jar [&lt;параметри&gt;] [&lt;шлях до проекту&gt;]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="EN">
+        <seg>Warning</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Julia" changedate="20170424T144522Z" creationid="Julia" creationdate="20170424T144522Z">
+        <seg>Увага</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN">
         <seg>http://tech.groups.yahoo.com/group/OmegaT/</seg>
       </tuv>
@@ -18,6 +452,78 @@
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20170902T154012Z" creationid="Kos Ivantsov" creationdate="20170902T154012Z">
         <seg>http://www.omegat.org/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="EN">
+        <seg>segment 0000</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20170902T144944Z" creationid="Kos Ivantsov" creationdate="20170902T144944Z">
+        <seg>сегмент 0000</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="EN">
+        <seg>unknown</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20170902T145054Z" creationid="Kos Ivantsov" creationdate="20170902T145054Z">
+        <seg>невідомо</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="EN">
+        <seg>{0}</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20170418T175736Z" creationid="Kos Ivantsov" creationdate="20170418T175736Z">
+        <seg>{0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="EN">
+        <seg>{0} ({1} left) / {2} ({3} left), {4}</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20170902T144931Z" creationid="Kos Ivantsov" creationdate="20170902T144931Z">
+        <seg>{0} (залишилося: {1}) / {2} (залишилося: {3}), {4}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="EN">
+        <seg>{0} {1}</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20170413T160336Z" creationid="Kos Ivantsov" creationdate="20170413T160336Z">
+        <seg>{0} {1}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="EN">
+        <seg>{0} {1}_{2}</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20170413T160343Z" creationid="Kos Ivantsov" creationdate="20170413T160343Z">
+        <seg>{0} {1}_{2}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="EN">
+        <seg>{0}-{1}_{2}_{3}</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20170413T160319Z" creationid="Kos Ivantsov" creationdate="20170413T160319Z">
+        <seg>{0}-{1}_{2}_{3}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="EN">
+        <seg>{0}_{1}_{2}</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20170413T160328Z" creationid="TranslatorOne" creationdate="20170413T160215Z">
+        <seg>{0}_{1}_{2}</seg>
       </tuv>
     </tu>
 <!-- Alternative translations -->
