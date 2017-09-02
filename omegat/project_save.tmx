@@ -81,6 +81,14 @@
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN">
+        <seg>&amp;Quit</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20170902T165754Z" creationid="Kos Ivantsov" creationdate="20170902T165754Z">
+        <seg>&amp;Вийти</seg>
+      </tuv>
+    </tu>
+    <tu>
       <prop type="x-auto">auto</prop>
       <tuv lang="EN">
         <seg>&amp;Run</seg>
