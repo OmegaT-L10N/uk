@@ -404,6 +404,14 @@
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN">
+        <seg>Error while trying to edit the project!</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20170902T184519Z" creationid="Kos Ivantsov" creationdate="20170902T184519Z">
+        <seg>Сталась помилка під час редагування проекту!</seg>
+      </tuv>
+    </tu>
+    <tu>
       <prop type="x-auto">auto</prop>
       <tuv lang="EN">
         <seg>File &amp;Filters...</seg>
