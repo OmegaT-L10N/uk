@@ -1,0 +1,2 @@
+# uk
+Ukrainian OmegaT Localisation
