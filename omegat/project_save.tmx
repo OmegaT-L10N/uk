@@ -66,6 +66,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Open...</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20170902T164630Z" creationid="Kos Ivantsov" creationdate="20170902T164630Z">
+        <seg>&amp;Відкрити...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;Project</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20170902T164542Z" creationid="Kos Ivantsov" creationdate="20170902T164542Z">
