@@ -113,7 +113,8 @@
             </row>
 
             <row>
-              <entry><guimenuitem>Скопіювати документи до теки з файлами оригіналу...</guimenuitem></entry>
+              <entry><guimenuitem>Copy Files to Source
+              Folder...</guimenuitem></entry>
 
               <entry/>
 
@@ -639,7 +640,7 @@
             </row>
 
             <row>
-              <entry><guimenuitem>Зробити переклад порожнім</guimenuitem></entry>
+              <entry><guimenuitem>Set empty translation</guimenuitem></entry>
 
               <entry/>
 

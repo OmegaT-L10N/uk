@@ -180,7 +180,7 @@
           </row>
 
           <row>
-            <entry>Скопіювати документи до теки з файлами оригіналу...</entry>
+            <entry>Copy Files to Source Folder...</entry>
 
             <entry/>
 
@@ -576,7 +576,7 @@
           </row>
 
           <row>
-            <entry>Вилучити переклад</entry>
+            <entry>Remove translation</entry>
 
             <entry/>
 
@@ -584,7 +584,7 @@
           </row>
 
           <row>
-            <entry>Зробити переклад порожнім</entry>
+            <entry>Set empty translation</entry>
 
             <entry/>
 
