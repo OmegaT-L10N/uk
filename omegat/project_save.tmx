@@ -440,6 +440,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Go To Segment</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20170902T184554Z" creationid="Kos Ivantsov" creationdate="20170902T184554Z">
+        <seg>Перейти до сегменту</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>In order for the changes to take effect OmegaT needs to close and then open the project.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20170902T183436Z" creationid="Kos Ivantsov" creationdate="20170902T183436Z">
