@@ -81,6 +81,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Last Changes...</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20170902T183514Z" creationid="Kos Ivantsov" creationdate="20170902T183514Z">
+        <seg>&amp;Останні зміни...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;Match Statistics</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20170902T182741Z" creationid="Kos Ivantsov" creationdate="20170902T182734Z">
