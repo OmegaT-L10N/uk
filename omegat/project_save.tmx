@@ -218,6 +218,14 @@
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN">
+        <seg>Copy Files to Source Folder...</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20170902T164802Z" creationid="Kos Ivantsov" creationdate="20170902T164802Z">
+        <seg>Скопіювати документи в теку з файлами оригіналу...</seg>
+      </tuv>
+    </tu>
+    <tu>
       <prop type="x-auto">auto</prop>
       <tuv lang="EN">
         <seg>Display Font</seg>
