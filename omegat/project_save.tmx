@@ -633,6 +633,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Reopen the project?</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20170902T184531Z" creationid="Kos Ivantsov" creationdate="20170902T184531Z">
+        <seg>Перезавантажити проект?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Restore De&amp;faults</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20170902T163530Z" creationid="Kos Ivantsov" creationdate="20170902T163530Z">
