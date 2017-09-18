@@ -144,7 +144,7 @@
         <files sourceFilenameMask="*.rc" targetFilenamePattern="${filename}"/>
     </filter>
     <filter className="org.omegat.filters2.text.bundles.ResourceBundleFilter" enabled="true">
-        <files sourceFilenameMask="*.properties" targetFilenamePattern="${nameOnly}_uk.${extension}" sourceEncoding="US-ASCII" targetEncoding="US-ASCII"/>
+        <files sourceFilenameMask="*.properties" targetFilenamePattern="${nameOnly}.${extension}" sourceEncoding="US-ASCII" targetEncoding="US-ASCII"/>
     </filter>
     <filter className="org.omegat.filters2.text.dokuwiki.DokuWikiFilter" enabled="true">
         <files sourceFilenameMask="*.txt" targetFilenamePattern="${filename}" sourceEncoding="UTF-8" targetEncoding="UTF-8"/>
