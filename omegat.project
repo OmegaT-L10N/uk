@@ -31,16 +31,16 @@
                 <mapping local="source/doc_src/" repository="/"/>
             </repository>
             <repository type="http" url="https://svn.code.sf.net/p/omegat/svn/trunk/">
-                <mapping local="source/Bundle_uk.properties" repository="src/org/omegat/Bundle.properties"/>
+                <mapping local="source/Bundle.properties" repository="src/org/omegat/Bundle.properties"/>
                 <mapping local="source/readme_uk.txt" repository="release/readme.txt"/>
                 <mapping local="source/release/win32-specific/CustomMessages.ini" repository="release/win32-specific/CustomMessages.ini"/>
-                <mapping local="source/scripts/check_rules_uk.properties" repository="scripts/properties/check_rules.properties"/>
-                <mapping local="source/scripts/spellcheck_uk.properties" repository="scripts/properties/spellcheck.properties"/>
-                <mapping local="source/scripts/svn_cleanup_selected_uk.properties" repository="scripts/properties/svn_cleanup_selected.properties"/>
-                <mapping local="source/scripts/search_replace_uk.properties" repository="scripts/properties/search_replace.properties"/>
-                <mapping local="source/scripts/replace_strip_tags_uk.properties" repository="scripts/properties/replace_strip_tags.properties"/>
-                <mapping local="source/scripts/strip_bidi_marks_uk.properties" repository="scripts/properties/strip_bidi_marks.properties"/>
-                <mapping local="source/scripts/nbsp_uk.properties" repository="scripts/properties/nbsp.properties"/>
+                <mapping local="source/scripts/check_rules.properties" repository="scripts/properties/check_rules.properties"/>
+                <mapping local="source/scripts/spellcheck.properties" repository="scripts/properties/spellcheck.properties"/>
+                <mapping local="source/scripts/svn_cleanup_selected.properties" repository="scripts/properties/svn_cleanup_selected.properties"/>
+                <mapping local="source/scripts/search_replace.properties" repository="scripts/properties/search_replace.properties"/>
+                <mapping local="source/scripts/replace_strip_tags.properties" repository="scripts/properties/replace_strip_tags.properties"/>
+                <mapping local="source/scripts/strip_bidi_marks.properties" repository="scripts/properties/strip_bidi_marks.properties"/>
+                <mapping local="source/scripts/nbsp.properties" repository="scripts/properties/nbsp.properties"/>
             </repository>
             <repository type="http" url="https://svn.code.sf.net/p/omegat/svn/trunk/release/mac-specific/OmegaT.app/Contents/Resources/en.lproj/">
                 <mapping local="source/release/mac-specific/Localizable.strings" repository="Localizable.strings"/>
