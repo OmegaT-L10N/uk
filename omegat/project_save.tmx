@@ -284,6 +284,14 @@
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN">
+        <seg>About</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20170918T163054Z" creationid="Kos Ivantsov" creationdate="20170918T163054Z">
+        <seg>Про програму...</seg>
+      </tuv>
+    </tu>
+    <tu>
       <prop type="x-auto">auto</prop>
       <tuv lang="EN">
         <seg>Cancel</seg>
