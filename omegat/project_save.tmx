@@ -63,6 +63,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Filter</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20170929T122924Z" creationid="Kos Ivantsov" creationdate="20170929T122924Z">
+        <seg>&amp;Фільтр</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;Fix All</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20170902T163524Z" creationid="Kos Ivantsov" creationdate="20170902T163524Z">
