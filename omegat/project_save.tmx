@@ -970,6 +970,16 @@ published by the Free Software Foundation, either version 3 of the License, or
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>You can find the text of the license in
+/docs/OmegaT-license.txt.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20170929T122409Z" creationid="Kos Ivantsov" creationdate="20170929T122409Z">
+        <seg>Текст ліцензії подано у файлі
+/docs/OmegaT-license.txt.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>You must enter a number between 1 and {0}.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20170902T184458Z" creationid="Kos Ivantsov" creationdate="20170902T184458Z">
