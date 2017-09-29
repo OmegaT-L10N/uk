@@ -6,6 +6,14 @@
 <!-- Default translations -->
     <tu>
       <tuv lang="EN">
+        <seg>${translationNotice}</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20170929T121632Z" creationid="Kos Ivantsov" creationdate="20170929T121632Z">
+        <seg>Переклад: Кость Іванцов</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;About...</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20170902T183854Z" creationid="Kos Ivantsov" creationdate="20170902T183841Z">
