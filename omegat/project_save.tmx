@@ -684,6 +684,16 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>OmegaT is a free and open source multiplatform Computer Assisted Translation
+tool with fuzzy matching, translation memory, keyword search, glossaries, and
+translation leveraging into updated projects.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20170929T122009Z" creationid="Kos Ivantsov" creationdate="20170929T122009Z">
+        <seg>OmegaT — це вільна програма з відкритим джерельним кодом, призначена для автоматизованого перекладу, що має серед іншого такі функції: робота з нечіткими збігами, пам’ять перекладів, пошук за ключовими словами, робота з глосаріями та використання попередніх перекладів при роботі з оновленими файлами оригіналу.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Open Recent Pro&amp;ject</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20170902T164647Z" creationid="Kos Ivantsov" creationdate="20170902T164647Z">
