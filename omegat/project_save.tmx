@@ -293,6 +293,21 @@
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN">
+        <seg>--resource-bundle=&lt;path&gt;
+		A Java .properties file to use for interface text
+	--config-dir=&lt;path&gt;
+		The directory to read/write OmegaT configuration files from/to.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20171003T223852Z" creationid="Kos Ivantsov" creationdate="20171003T223852Z">
+        <seg>--resource-bundle=&lt;path&gt;
+		Файл Java .properties, який має бути використаний для локалізації інтерфейсу
+--config-dir=&lt;path&gt;
+		Тека для читання та запису файлів з налаштуваннями OmegaT.
+</seg>
+      </tuv>
+    </tu>
+    <tu>
       <prop type="x-auto">auto</prop>
       <tuv lang="EN">
         <seg>-h, --help
