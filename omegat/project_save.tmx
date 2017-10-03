@@ -263,9 +263,9 @@
         <seg>--config-file=&lt;path&gt;
 		A Java .properties file from which to load default settings.</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20171003T223631Z" creationid="Kos Ivantsov" creationdate="20171003T223618Z">
+      <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20171003T223902Z" creationid="Kos Ivantsov" creationdate="20171003T223618Z">
         <seg>--config-file=&lt;path&gt;
-Файл Java .properties з налаштуваннями, які будуть використанні як стандартні.</seg>
+		Файл Java .properties з налаштуваннями, які будуть використанні як стандартні.</seg>
       </tuv>
     </tu>
     <tu>
