@@ -811,6 +811,14 @@ published by the Free Software Foundation, either version 3 of the License, or
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN">
+        <seg>Project Files ({0})</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20171003T224240Z" creationid="Kos Ivantsov" creationdate="20171003T224240Z">
+        <seg>Файли проекту ({0})</seg>
+      </tuv>
+    </tu>
+    <tu>
       <prop type="x-auto">auto</prop>
       <tuv lang="EN">
         <seg>Project is Empty</seg>
