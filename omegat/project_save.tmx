@@ -841,6 +841,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>External Search</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="nessyk" changedate="20171025T183444Z" creationid="nessyk" creationdate="20171025T183444Z">
+        <seg>Зовнішній пошук</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>File</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="nessyk" changedate="20171025T175936Z" creationid="nessyk" creationdate="20171025T175936Z">
