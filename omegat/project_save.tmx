@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="ОмегаТ-3.6.0" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.2_2_10096:10098" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -260,6 +260,26 @@
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20171003T223902Z" creationid="Kos Ivantsov" creationdate="20171003T223618Z">
         <seg>--config-file=&lt;path&gt;
 		Файл Java .properties з налаштуваннями, які будуть використанні як стандартні.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>--disable-location-save
+		Do not remember the last directory opened in the file picker.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Маринка" changedate="20171025T163959Z" creationid="Маринка" creationdate="20171025T163959Z">
+        <seg>--disable-location-save
+		Do not remember the last directory opened in the file picker.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>--disable-project-locking
+		Do not attempt to lock the project's omegat.project file.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Маринка" changedate="20171025T164158Z" creationid="Маринка" creationdate="20171025T163726Z">
+        <seg>Не намагйтеся блокувати файл проекту omegat.project f. --disable-project-locking
+		Do not attempt to lock the project's omegat.project file.</seg>
       </tuv>
     </tu>
     <tu>
