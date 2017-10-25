@@ -1825,8 +1825,8 @@ Exact searches match the whole search string.</seg>
       <tuv lang="EN">
         <seg>URL does not contain "{0}"</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="nessyk" changedate="20171025T185908Z" creationid="nessyk" creationdate="20171025T185908Z">
-        <seg>URL- адреса не містить "{0}"</seg>
+      <tuv lang="UK-UA" changeid="nessyk" changedate="20171025T190022Z" creationid="nessyk" creationdate="20171025T185908Z">
+        <seg>URL-адреса не містить "{0}"</seg>
       </tuv>
     </tu>
     <tu>
@@ -1839,10 +1839,18 @@ Exact searches match the whole search string.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>URL is missing encoding</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="nessyk" changedate="20171025T190056Z" creationid="nessyk" creationdate="20171025T190013Z">
+        <seg>URL-адреса не містить кодування </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>URL is missing target</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="nessyk" changedate="20171025T185929Z" creationid="nessyk" creationdate="20171025T185929Z">
-        <seg>URL -адреса </seg>
+      <tuv lang="UK-UA" changeid="nessyk" changedate="20171025T190026Z" creationid="nessyk" creationdate="20171025T185929Z">
+        <seg>URL-адреса не містить об'єкт </seg>
       </tuv>
     </tu>
     <tu>
