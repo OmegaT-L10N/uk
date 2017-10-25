@@ -929,6 +929,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Items</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="nessyk" changedate="20171025T183256Z" creationid="nessyk" creationdate="20171025T183256Z">
+        <seg>Елемени</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Jumping to last edited segment...</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20170914T170202Z" creationid="Kos Ivantsov" creationdate="20170914T170202Z">
@@ -1450,6 +1458,14 @@ The scope of a search is by default the project and can be set to be any files l
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Shortcut</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="nessyk" changedate="20171025T183151Z" creationid="nessyk" creationdate="20171025T183151Z">
+        <seg>Найкоротший спосіб</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Shortcut:</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="nessyk" changedate="20171025T182505Z" creationid="nessyk" creationdate="20171025T182505Z">
@@ -1502,6 +1518,14 @@ The scope of a search is by default the project and can be set to be any files l
       </tuv>
       <tuv lang="UK-UA" changeid="nessyk" changedate="20171025T180639Z" creationid="nessyk" creationdate="20171025T180548Z">
         <seg>Роз'єднати</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Summary</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="nessyk" changedate="20171025T183221Z" creationid="nessyk" creationdate="20171025T183221Z">
+        <seg>Зміст</seg>
       </tuv>
     </tu>
     <tu>
