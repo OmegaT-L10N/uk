@@ -286,6 +286,20 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>--ITokenizer=&lt;classname&gt;
+	--ITokenizerTarget=&lt;classname&gt;
+		Source- or target-language tokenizer to use (overrides project
+		settings).</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Маринка" changedate="20171025T174418Z" creationid="Маринка" creationdate="20171025T174418Z">
+        <seg>--ITokenizer=&lt;classname&gt;
+	--ITokenizerTarget=&lt;classname&gt;
+		Source- or target-language tokenizer to use (overrides project
+		settings).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>--config-file=&lt;path&gt;
 		A Java .properties file from which to load default settings.</seg>
       </tuv>
@@ -328,9 +342,8 @@
         <seg>--no-team
 		Disable team project functionality.</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="Маринка" changedate="20171025T174404Z" creationid="Маринка" creationdate="20171025T170501Z">
-        <seg>--no-team                              Вимкнути функціональність групового проекту.
-		Disable team project functionality.</seg>
+      <tuv lang="UK-UA" changeid="Маринка" changedate="20171025T174435Z" creationid="Маринка" creationdate="20171025T170501Z">
+        <seg>--no-team                              Вимкнути функціональність групового проекту.</seg>
       </tuv>
     </tu>
     <tu>
