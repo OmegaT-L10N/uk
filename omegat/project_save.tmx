@@ -587,8 +587,8 @@
       <tuv lang="EN">
         <seg>Command is missing command string</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="nessyk" changedate="20171025T183723Z" creationid="nessyk" creationdate="20171025T183723Z">
-        <seg>Command is missing command string</seg>
+      <tuv lang="UK-UA" changeid="nessyk" changedate="20171025T184611Z" creationid="nessyk" creationdate="20171025T183723Z">
+        <seg>В команді вітсутній командний рядок </seg>
       </tuv>
     </tu>
     <tu>
@@ -979,8 +979,8 @@
       <tuv lang="EN">
         <seg>Go to Preferences &gt; External Search to enable.</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="nessyk" changedate="20171025T183841Z" creationid="nessyk" creationdate="20171025T183841Z">
-        <seg>Перейдіть у розділ Параметри&gt; щоб увімкнути зовнішній пошук.</seg>
+      <tuv lang="UK-UA" changeid="nessyk" changedate="20171025T184643Z" creationid="nessyk" creationdate="20171025T183841Z">
+        <seg>Перейдіть у розділ "параметри&gt; щоб увімкнути зовнішній пошук.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1021,6 +1021,14 @@
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20170902T144521Z" creationid="Kos Ivantsov" creationdate="20170902T144521Z">
         <seg>Детальнішу інформацію можна отримати, запустивши програму з параметром «team -h».</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Item has neither URLs nor commands.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="nessyk" changedate="20171025T184637Z" creationid="nessyk" creationdate="20171025T184637Z">
+        <seg>Item has neither URLs nor commands.</seg>
       </tuv>
     </tu>
     <tu>
