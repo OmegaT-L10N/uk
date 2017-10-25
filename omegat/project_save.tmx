@@ -505,6 +505,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Close</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="nessyk" changedate="20171025T180358Z" creationid="nessyk" creationdate="20171025T180358Z">
+        <seg>Закрити</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Commands:
 	-h, --help
 		Show usage information.</seg>
@@ -653,6 +661,14 @@
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20170902T184623Z" creationid="Kos Ivantsov" creationdate="20170902T184623Z">
         <seg>Повтори сегмента: {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Edit</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="nessyk" changedate="20171025T180417Z" creationid="nessyk" creationdate="20171025T180400Z">
+        <seg>Редагувати</seg>
       </tuv>
     </tu>
     <tu>
@@ -851,10 +867,42 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Mark Accepted</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="nessyk" changedate="20171025T180717Z" creationid="nessyk" creationdate="20171025T180717Z">
+        <seg>Mark Accepted</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Match Statistics per &amp;File</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20170902T182822Z" creationid="Kos Ivantsov" creationdate="20170902T182822Z">
         <seg>Статистика збігів в окреми&amp;х файлах</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Merge</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="nessyk" changedate="20171025T180622Z" creationid="nessyk" creationdate="20171025T180622Z">
+        <seg>Об'єднати </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Move Down</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="nessyk" changedate="20171025T180525Z" creationid="nessyk" creationdate="20171025T180525Z">
+        <seg>Рухатись вниз </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Move Up</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="nessyk" changedate="20171025T180458Z" creationid="nessyk" creationdate="20171025T180401Z">
+        <seg>Рухатись вгору </seg>
       </tuv>
     </tu>
     <tu>
@@ -1072,6 +1120,14 @@ published by the Free Software Foundation, either version 3 of the License, or
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Reload</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="nessyk" changedate="20171025T180351Z" creationid="nessyk" creationdate="20171025T180351Z">
+        <seg>Перезавантажити</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Remove translation</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20170418T175830Z" creationid="Kos Ivantsov" creationdate="20170418T175830Z">
@@ -1222,6 +1278,14 @@ The scope of a search is by default the project and can be set to be any files l
       </tuv>
       <tuv lang="UK-UA" changeid="Лера9764" changedate="20171025T175950Z" creationid="Лера9764" creationdate="20171025T175950Z">
         <seg>Іспанська</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Split</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="nessyk" changedate="20171025T180639Z" creationid="nessyk" creationdate="20171025T180548Z">
+        <seg>Роз'єднати</seg>
       </tuv>
     </tu>
     <tu>
