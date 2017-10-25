@@ -1097,6 +1097,14 @@ published by the Free Software Foundation, either version 3 of the License, or
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Reset</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="nessyk" changedate="20171025T180327Z" creationid="nessyk" creationdate="20171025T180327Z">
+        <seg>Скинути</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Restore De&amp;faults</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20170902T163530Z" creationid="Kos Ivantsov" creationdate="20170902T163530Z">
