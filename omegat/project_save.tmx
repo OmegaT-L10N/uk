@@ -705,10 +705,34 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Ed&amp;it</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="nessyk" changedate="20171025T181847Z" creationid="nessyk" creationdate="20171025T181847Z">
+        <seg>Редагувати</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Edit</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="nessyk" changedate="20171025T180417Z" creationid="nessyk" creationdate="20171025T180400Z">
         <seg>Редагувати</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Edit External Search Command</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="nessyk" changedate="20171025T181742Z" creationid="nessyk" creationdate="20171025T181742Z">
+        <seg>Редагувати команду зовнішнього пошуку</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Edit External Search URL</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="nessyk" changedate="20171025T181828Z" creationid="nessyk" creationdate="20171025T181800Z">
+        <seg>Редагувати URL-адресу зовнішнього пошуку</seg>
       </tuv>
     </tu>
     <tu>
@@ -965,8 +989,8 @@
       <tuv lang="EN">
         <seg>Name:</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="Лера9764" changedate="20171025T181955Z" creationid="Лера9764" creationdate="20171025T181955Z">
-        <seg>Ім'я:</seg>
+      <tuv lang="UK-UA" changeid="nessyk" changedate="20171025T181940Z" creationid="nessyk" creationdate="20171025T181940Z">
+        <seg>Назва:</seg>
       </tuv>
     </tu>
     <tu>
@@ -1192,6 +1216,14 @@ published by the Free Software Foundation, either version 3 of the License, or
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Remo&amp;ve</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="nessyk" changedate="20171025T181903Z" creationid="nessyk" creationdate="20171025T181903Z">
+        <seg>Видалити</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Remove translation</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20170418T175830Z" creationid="Kos Ivantsov" creationdate="20170418T175830Z">
@@ -1362,6 +1394,14 @@ The scope of a search is by default the project and can be set to be any files l
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Specify a mnemonic with "&amp;": "F&amp;oobar" to use O</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="nessyk" changedate="20171025T182404Z" creationid="nessyk" creationdate="20171025T182404Z">
+        <seg>Specify a mnemonic with "&amp;": "F&amp;oobar" to use O</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Split</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="nessyk" changedate="20171025T180639Z" creationid="nessyk" creationdate="20171025T180548Z">
@@ -1467,6 +1507,14 @@ Exact searches match the whole search string.</seg>
       <tuv lang="UK-UA" changeid="nessyk" changedate="20171025T174944Z" creationid="nessyk" creationdate="20171025T174944Z">
         <seg>Types:
 Exact searches match the whole search string.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>URL:</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="nessyk" changedate="20171025T181815Z" creationid="nessyk" creationdate="20171025T181703Z">
+        <seg>URL-адреса:</seg>
       </tuv>
     </tu>
     <tu>
