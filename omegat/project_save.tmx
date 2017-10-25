@@ -1251,6 +1251,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Not Set</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="nessyk" changedate="20171025T185626Z" creationid="nessyk" creationdate="20171025T185626Z">
+        <seg>Не встановлено </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Number of matching segments:</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="nessyk" changedate="20171025T175151Z" creationid="nessyk" creationdate="20171025T175151Z">
