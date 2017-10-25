@@ -277,8 +277,8 @@
         <seg>--disable-project-locking
 		Do not attempt to lock the project's omegat.project file.</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="Маринка" changedate="20171025T170527Z" creationid="Маринка" creationdate="20171025T163726Z">
-        <seg> Не намагайтеся блокувати файл проекту omegat.project. --disable-project-locking </seg>
+      <tuv lang="UK-UA" changeid="Маринка" changedate="20171025T172459Z" creationid="Маринка" creationdate="20171025T163726Z">
+        <seg>  --disable-project-locking  Не намагайтеся блокувати файл проекту omegat.project. </seg>
       </tuv>
     </tu>
     <tu>
