@@ -46,6 +46,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Close</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Лера9764" changedate="20171025T175814Z" creationid="Лера9764" creationdate="20171025T175814Z">
+        <seg>&amp;Закрити</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;Edit</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20170902T165813Z" creationid="Kos Ivantsov" creationdate="20170902T165813Z">
@@ -429,6 +437,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>About OmegaT</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Лера9764" changedate="20171025T175911Z" creationid="Лера9764" creationdate="20171025T175911Z">
+        <seg>Про програму OmegaT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Cancel</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20170427T120453Z" creationid="Kos Ivantsov" creationdate="20170427T120453Z">
@@ -449,6 +465,14 @@
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20170902T182719Z" creationid="Kos Ivantsov" creationdate="20170902T182719Z">
         <seg>Пошук помилок у поточному &amp;документі</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Chinese</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Лера9764" changedate="20171025T180025Z" creationid="Лера9764" creationdate="20171025T180025Z">
+        <seg>Китайська</seg>
       </tuv>
     </tu>
     <tu>
@@ -585,6 +609,14 @@
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20170902T184623Z" creationid="Kos Ivantsov" creationdate="20170902T184623Z">
         <seg>Повтори сегмента: {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>English</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Лера9764" changedate="20171025T175944Z" creationid="Лера9764" creationdate="20171025T175944Z">
+        <seg>Англійська</seg>
       </tuv>
     </tu>
     <tu>
@@ -1004,6 +1036,14 @@ published by the Free Software Foundation, either version 3 of the License, or
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Russian</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Лера9764" changedate="20171025T180017Z" creationid="Лера9764" creationdate="20171025T180017Z">
+        <seg>Російська</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Sample Text</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20170902T184137Z" creationid="Kos Ivantsov" creationdate="20170902T184137Z">
@@ -1054,6 +1094,14 @@ The scope of a search is by default the project and can be set to be any files l
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Search in</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Лера9764" changedate="20171025T175745Z" creationid="Лера9764" creationdate="20171025T175745Z">
+        <seg>Шукати в</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>See below for details.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20170902T144645Z" creationid="Kos Ivantsov" creationdate="20170902T144645Z">
@@ -1090,6 +1138,14 @@ The scope of a search is by default the project and can be set to be any files l
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20170902T144859Z" creationid="Kos Ivantsov" creationdate="20170902T144859Z">
         <seg>Довжина оригіналу/перекладу (в символах)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Spanish</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Лера9764" changedate="20171025T175950Z" creationid="Лера9764" creationdate="20171025T175950Z">
+        <seg>Іспанська</seg>
       </tuv>
     </tu>
     <tu>
