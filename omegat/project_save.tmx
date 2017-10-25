@@ -307,11 +307,10 @@
 		Source- or target-language tokenizer to use (overrides project
 		settings).</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="Маринка" changedate="20171025T174418Z" creationid="Маринка" creationdate="20171025T174418Z">
+      <tuv lang="UK-UA" changeid="Маринка" changedate="20171025T180555Z" creationid="Маринка" creationdate="20171025T174418Z">
         <seg>--ITokenizer=&lt;classname&gt;
 	--ITokenizerTarget=&lt;classname&gt;
-		Source- or target-language tokenizer to use (overrides project
-		settings).</seg>
+		Використати токенізатор вихідної чи цільової мови (скасування параметрів проекту).</seg>
       </tuv>
     </tu>
     <tu>
