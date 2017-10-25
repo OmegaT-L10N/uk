@@ -473,6 +473,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>ASCII Only</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="nessyk" changedate="20171025T184210Z" creationid="nessyk" creationdate="20171025T184210Z">
+        <seg>ASCII Only</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>About</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20170918T163104Z" creationid="Kos Ivantsov" creationdate="20170918T163054Z">
@@ -533,6 +541,14 @@
       </tuv>
       <tuv lang="UK-UA" changeid="Лера9764" changedate="20171025T180025Z" creationid="Лера9764" creationdate="20171025T180025Z">
         <seg>Китайська</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Clear</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="nessyk" changedate="20171025T184137Z" creationid="nessyk" creationdate="20171025T184137Z">
+        <seg>Очистити</seg>
       </tuv>
     </tu>
     <tu>
@@ -701,6 +717,14 @@
       </tuv>
       <tuv lang="UK-UA" changeid="Лера9764" changedate="20171025T180128Z" creationid="Лера9764" creationdate="20171025T180128Z">
         <seg>Вирізати</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Default</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="nessyk" changedate="20171025T184202Z" creationid="nessyk" creationdate="20171025T184202Z">
+        <seg>За замовчуванням</seg>
       </tuv>
     </tu>
     <tu>
@@ -877,6 +901,14 @@
       </tuv>
       <tuv lang="UK-UA" changeid="Лера9764" changedate="20171025T180152Z" creationid="Лера9764" creationdate="20171025T180152Z">
         <seg>Помилка {0}: {1}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Escape</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="nessyk" changedate="20171025T184208Z" creationid="nessyk" creationdate="20171025T184208Z">
+        <seg>Вийти</seg>
       </tuv>
     </tu>
     <tu>
@@ -1167,6 +1199,14 @@
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20170427T115631Z" creationid="Kos Ivantsov" creationdate="20170427T115631Z">
         <seg>Без збігів:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>None</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="nessyk" changedate="20171025T184245Z" creationid="nessyk" creationdate="20171025T184245Z">
+        <seg>Жодний </seg>
       </tuv>
     </tu>
     <tu>
