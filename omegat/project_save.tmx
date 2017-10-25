@@ -577,6 +577,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Command is missing target</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="nessyk" changedate="20171025T183708Z" creationid="nessyk" creationdate="20171025T183708Z">
+        <seg>В команді відсутній об'єкт </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Command:</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="nessyk" changedate="20171025T181655Z" creationid="nessyk" creationdate="20171025T181655Z">
