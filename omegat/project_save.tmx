@@ -545,6 +545,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Command</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="nessyk" changedate="20171025T182749Z" creationid="nessyk" creationdate="20171025T182749Z">
+        <seg>Command</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Command:</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="nessyk" changedate="20171025T181655Z" creationid="nessyk" creationdate="20171025T181655Z">
@@ -649,6 +657,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Delimiter</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="nessyk" changedate="20171025T182713Z" creationid="nessyk" creationdate="20171025T182713Z">
+        <seg>Delimiter</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Delimiter:</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="nessyk" changedate="20171025T181326Z" creationid="nessyk" creationdate="20171025T181326Z">
@@ -749,6 +765,14 @@
       </tuv>
       <tuv lang="UK-UA" changeid="nessyk" changedate="20171025T181828Z" creationid="nessyk" creationdate="20171025T181800Z">
         <seg>Редагувати URL-адресу зовнішнього пошуку</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Encoding</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="nessyk" changedate="20171025T182747Z" creationid="nessyk" creationdate="20171025T182747Z">
+        <seg>Кодування</seg>
       </tuv>
     </tu>
     <tu>
@@ -1450,6 +1474,14 @@ The scope of a search is by default the project and can be set to be any files l
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Target</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="nessyk" changedate="20171025T182740Z" creationid="nessyk" creationdate="20171025T182740Z">
+        <seg>Об'єкт</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Target:</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="nessyk" changedate="20171025T181607Z" creationid="nessyk" creationdate="20171025T181607Z">
@@ -1547,6 +1579,14 @@ Exact searches match the whole search string.</seg>
       <tuv lang="UK-UA" changeid="nessyk" changedate="20171025T174944Z" creationid="nessyk" creationdate="20171025T174944Z">
         <seg>Types:
 Exact searches match the whole search string.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>URL</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="nessyk" changedate="20171025T182727Z" creationid="nessyk" creationdate="20171025T182727Z">
+        <seg>URL-адреса</seg>
       </tuv>
     </tu>
     <tu>
