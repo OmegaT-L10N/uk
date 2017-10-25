@@ -286,6 +286,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Show in Editor context menu</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="nessyk" changedate="20171025T182431Z" creationid="nessyk" creationdate="20171025T182431Z">
+        <seg>&amp;Показати в контекстному меню редактора</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;Statistics</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20170927T204551Z" creationid="Kos Ivantsov" creationdate="20170927T204551Z">
@@ -541,6 +549,14 @@
       </tuv>
       <tuv lang="UK-UA" changeid="nessyk" changedate="20171025T181655Z" creationid="nessyk" creationdate="20171025T181655Z">
         <seg>Команда:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Commands</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="nessyk" changedate="20171025T182609Z" creationid="nessyk" creationdate="20171025T182609Z">
+        <seg>Commands</seg>
       </tuv>
     </tu>
     <tu>
@@ -1338,6 +1354,14 @@ The scope of a search is by default the project and can be set to be any files l
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Se&amp;t</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="nessyk" changedate="20171025T182510Z" creationid="nessyk" creationdate="20171025T182510Z">
+        <seg>Se&amp;t</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Search in</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Лера9764" changedate="20171025T175745Z" creationid="Лера9764" creationdate="20171025T175745Z">
@@ -1366,6 +1390,14 @@ The scope of a search is by default the project and can be set to be any files l
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20170418T175858Z" creationid="Kos Ivantsov" creationdate="20170418T175837Z">
         <seg>Зробити переклад порожнім</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Shortcut:</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="nessyk" changedate="20171025T182505Z" creationid="nessyk" creationdate="20171025T182505Z">
+        <seg>Найкоротший спосіб:</seg>
       </tuv>
     </tu>
     <tu>
@@ -1523,6 +1555,14 @@ Exact searches match the whole search string.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="nessyk" changedate="20171025T181815Z" creationid="nessyk" creationdate="20171025T181703Z">
         <seg>URL-адреса:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>URLs</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="nessyk" changedate="20171025T182517Z" creationid="nessyk" creationdate="20171025T182517Z">
+        <seg>URL-адреси</seg>
       </tuv>
     </tu>
     <tu>
