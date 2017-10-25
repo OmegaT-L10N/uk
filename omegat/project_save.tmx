@@ -897,6 +897,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>In Editor</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="nessyk" changedate="20171025T183129Z" creationid="nessyk" creationdate="20171025T183129Z">
+        <seg>В меню редактора</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>In order for the changes to take effect OmegaT needs to close and then open the project.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20170902T183436Z" creationid="Kos Ivantsov" creationdate="20170902T183436Z">
