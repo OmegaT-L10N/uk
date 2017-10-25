@@ -761,6 +761,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Edit External Search Item</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="nessyk" changedate="20171025T182927Z" creationid="nessyk" creationdate="20171025T182927Z">
+        <seg>Редагувати зовнішній елемент пошуку</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Edit External Search URL</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="nessyk" changedate="20171025T181828Z" creationid="nessyk" creationdate="20171025T181800Z">
