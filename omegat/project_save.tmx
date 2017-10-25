@@ -553,6 +553,30 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Command delimiter is empty</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="nessyk" changedate="20171025T183522Z" creationid="nessyk" creationdate="20171025T183522Z">
+        <seg>Командний розділювач порожній</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Command is missing delimiter</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="nessyk" changedate="20171025T183611Z" creationid="nessyk" creationdate="20171025T183611Z">
+        <seg>В команді відсутній розділювач</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Command is missing encoding</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="nessyk" changedate="20171025T183630Z" creationid="nessyk" creationdate="20171025T183630Z">
+        <seg>В команді відсутне кодування</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Command:</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="nessyk" changedate="20171025T181655Z" creationid="nessyk" creationdate="20171025T181655Z">
