@@ -537,6 +537,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Command:</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="nessyk" changedate="20171025T181655Z" creationid="nessyk" creationdate="20171025T181655Z">
+        <seg>Команда:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Commands:
 	-h, --help
 		Show usage information.</seg>
@@ -701,6 +709,14 @@
       </tuv>
       <tuv lang="UK-UA" changeid="nessyk" changedate="20171025T180417Z" creationid="nessyk" creationdate="20171025T180400Z">
         <seg>Редагувати</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Encoding:</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="nessyk" changedate="20171025T181521Z" creationid="nessyk" creationdate="20171025T181427Z">
+        <seg>Кодування:</seg>
       </tuv>
     </tu>
     <tu>
@@ -1170,8 +1186,8 @@ published by the Free Software Foundation, either version 3 of the License, or
       <tuv lang="EN">
         <seg>Reopen the project now?</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20170902T183420Z" creationid="Kos Ivantsov" creationdate="20170902T183420Z">
-        <seg>Перезавантажити проект зараз?</seg>
+      <tuv lang="UK-UA" changeid="nessyk" changedate="20171025T181459Z" creationid="Kos Ivantsov" creationdate="20170902T183420Z">
+        <seg>ерезавантажити проект зараз?</seg>
       </tuv>
     </tu>
     <tu>
@@ -1326,6 +1342,14 @@ The scope of a search is by default the project and can be set to be any files l
       </tuv>
       <tuv lang="UK-UA" changeid="nessyk" changedate="20171025T180639Z" creationid="nessyk" creationdate="20171025T180548Z">
         <seg>Роз'єднати</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Target:</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="nessyk" changedate="20171025T181607Z" creationid="nessyk" creationdate="20171025T181607Z">
+        <seg>Об'єкт:</seg>
       </tuv>
     </tu>
     <tu>
