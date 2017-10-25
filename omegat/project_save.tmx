@@ -296,8 +296,8 @@
         <seg>--no-team
 		Disable team project functionality.</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="Маринка" changedate="20171025T170501Z" creationid="Маринка" creationdate="20171025T170501Z">
-        <seg>--no-team
+      <tuv lang="UK-UA" changeid="Маринка" changedate="20171025T174404Z" creationid="Маринка" creationdate="20171025T170501Z">
+        <seg>--no-team                              Вимкнути функціональність групового проекту.
 		Disable team project functionality.</seg>
       </tuv>
     </tu>
