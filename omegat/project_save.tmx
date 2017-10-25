@@ -785,6 +785,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Enable project-specific commands</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="nessyk" changedate="20171025T183052Z" creationid="nessyk" creationdate="20171025T183052Z">
+        <seg>Увімкнути команди, специфічні для проекту</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Encoding</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="nessyk" changedate="20171025T182747Z" creationid="nessyk" creationdate="20171025T182747Z">
