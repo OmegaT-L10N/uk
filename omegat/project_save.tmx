@@ -955,6 +955,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Name</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Лера9764" changedate="20171025T182020Z" creationid="Лера9764" creationdate="20171025T182020Z">
+        <seg>Ім'я</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Name:</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Лера9764" changedate="20171025T181955Z" creationid="Лера9764" creationdate="20171025T181955Z">
@@ -1326,6 +1334,14 @@ The scope of a search is by default the project and can be set to be any files l
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20170427T115541Z" creationid="Kos Ivantsov" creationdate="20170427T115541Z">
         <seg>Розмір</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Skip</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Лера9764" changedate="20171025T182203Z" creationid="Лера9764" creationdate="20171025T182203Z">
+        <seg>Пропустити</seg>
       </tuv>
     </tu>
     <tu>
