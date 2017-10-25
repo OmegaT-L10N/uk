@@ -601,6 +601,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Context Menu Priority:</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="nessyk" changedate="20171025T183005Z" creationid="nessyk" creationdate="20171025T183005Z">
+        <seg>Пріоритет контекстного меню:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Cop&amp;y Files to Source Folder...</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20170902T164810Z" creationid="Kos Ivantsov" creationdate="20170902T164735Z">
