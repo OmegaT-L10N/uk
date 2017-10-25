@@ -1035,8 +1035,8 @@
       <tuv lang="EN">
         <seg>Item is missing scope</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="nessyk" changedate="20171025T185344Z" creationid="nessyk" creationdate="20171025T185344Z">
-        <seg>Item is missing scope</seg>
+      <tuv lang="UK-UA" changeid="nessyk" changedate="20171025T185811Z" creationid="nessyk" creationdate="20171025T185344Z">
+        <seg>Об'єкт поза областю видимості</seg>
       </tuv>
     </tu>
     <tu>
@@ -1819,6 +1819,30 @@ Exact searches match the whole search string.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="nessyk" changedate="20171025T182727Z" creationid="nessyk" creationdate="20171025T182727Z">
         <seg>URL-адреса</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>URL does not contain "{0}"</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="nessyk" changedate="20171025T185908Z" creationid="nessyk" creationdate="20171025T185908Z">
+        <seg>URL- адреса не містить "{0}"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>URL is missing URL string</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="nessyk" changedate="20171025T185937Z" creationid="nessyk" creationdate="20171025T185852Z">
+        <seg>В URL-адресі відсутний URL-рядок </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>URL is missing target</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="nessyk" changedate="20171025T185929Z" creationid="nessyk" creationdate="20171025T185929Z">
+        <seg>URL -адреса </seg>
       </tuv>
     </tu>
     <tu>
