@@ -230,6 +230,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Segment Number...</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="nessyk" changedate="20171025T175031Z" creationid="nessyk" creationdate="20171025T175031Z">
+        <seg>&amp;Segment Number...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;Segmentation...</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20170927T204625Z" creationid="Kos Ivantsov" creationdate="20170927T204625Z">
@@ -315,6 +323,16 @@
       <tuv lang="UK-UA" changeid="Маринка" changedate="20171025T174404Z" creationid="Маринка" creationdate="20171025T170501Z">
         <seg>--no-team                              Вимкнути функціональність групового проекту.
 		Disable team project functionality.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>--pseudotranslatetype=[equal|empty]
+		What to fill the pseudotranslated TMX with.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="nessyk" changedate="20171025T174658Z" creationid="nessyk" creationdate="20171025T174658Z">
+        <seg>--pseudotranslatetype=[equal|empty]
+		What to fill the pseudotranslated TMX with.</seg>
       </tuv>
     </tu>
     <tu>
@@ -443,6 +461,18 @@
         <seg>Команди:
 -h, --help
 		Показати інформацію про використання.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Console-pseudotranslatetmx mode:
+	--pseudotranslatetmx=&lt;path&gt;
+		The output pseudotranslated TMX file.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="nessyk" changedate="20171025T174708Z" creationid="nessyk" creationdate="20171025T174708Z">
+        <seg> Console-pseudotranslatetmx mode:
+	--pseudotranslatetmx=&lt;path&gt;
+		The output pseudotranslated TMX file.</seg>
       </tuv>
     </tu>
     <tu>
@@ -615,6 +645,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>ID</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="nessyk" changedate="20171025T175759Z" creationid="nessyk" creationdate="20171025T175720Z">
+        <seg>Ідентифікатор</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>In order for the changes to take effect OmegaT needs to close and then open the project.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20170902T183436Z" creationid="Kos Ivantsov" creationdate="20170902T183436Z">
@@ -761,6 +799,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Number of matching segments:</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="nessyk" changedate="20171025T175151Z" creationid="nessyk" creationdate="20171025T175151Z">
+        <seg>Number of matching segments:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>OmegaT</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Tetiana21" changedate="20171016T161523Z" creationid="Kos Ivantsov" creationdate="20170413T140603Z">
@@ -838,6 +884,14 @@ published by the Free Software Foundation, either version 3 of the License, or
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Parsewise</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="nessyk" changedate="20171025T175722Z" creationid="nessyk" creationdate="20171025T175722Z">
+        <seg>Parsewise</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Previous No&amp;te</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20170902T182518Z" creationid="Kos Ivantsov" creationdate="20170902T170721Z">
@@ -878,6 +932,14 @@ published by the Free Software Foundation, either version 3 of the License, or
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Project searches are by default performed on the source and target, reference TMs, glossaries, notes and comments of the project.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="nessyk" changedate="20171025T174917Z" creationid="nessyk" creationdate="20171025T174917Z">
+        <seg>Project searches are by default performed on the source and target, reference TMs, glossaries, notes and comments of the project.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Re&amp;move Filter</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20170929T123033Z" creationid="Kos Ivantsov" creationdate="20170929T123033Z">
@@ -890,6 +952,14 @@ published by the Free Software Foundation, either version 3 of the License, or
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20170929T123118Z" creationid="Kos Ivantsov" creationdate="20170929T123118Z">
         <seg>Замінити &amp;усе</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Register Identical Translation</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="nessyk" changedate="20171025T175643Z" creationid="nessyk" creationdate="20171025T175643Z">
+        <seg>Register Identical Translation</seg>
       </tuv>
     </tu>
     <tu>
@@ -938,6 +1008,16 @@ published by the Free Software Foundation, either version 3 of the License, or
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20170902T184542Z" creationid="Kos Ivantsov" creationdate="20170902T184542Z">
         <seg>Йде збереження проекту…</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Scope:
+The scope of a search is by default the project and can be set to be any files located in a specified folder hierarchy.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="nessyk" changedate="20171025T175427Z" creationid="nessyk" creationdate="20171025T174913Z">
+        <seg>Scope:
+The scope of a search is by default the project and can be set to be any files located in a specified folder hierarchy.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1006,6 +1086,16 @@ published by the Free Software Foundation, either version 3 of the License, or
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The configuration folder will be used
+instead.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="nessyk" changedate="20171025T175527Z" creationid="nessyk" creationdate="20171025T175527Z">
+        <seg>The configuration folder will be used
+instead.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The license of each library is mentionned
 in /lib/licenses/Licenses.txt.</seg>
       </tuv>
@@ -1055,6 +1145,16 @@ in /lib/licenses/Licenses.txt.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Types:
+Exact searches match the whole search string.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="nessyk" changedate="20171025T174944Z" creationid="nessyk" creationdate="20171025T174944Z">
+        <seg>Types:
+Exact searches match the whole search string.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Unable to read project file!</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20170418T175659Z" creationid="Kos Ivantsov" creationdate="20170418T175659Z">
@@ -1075,6 +1175,14 @@ in /lib/licenses/Licenses.txt.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20170902T182913Z" creationid="Kos Ivantsov" creationdate="20170902T182902Z">
         <seg>Використовувати TAB для пере&amp;ходу до наступного сегмента</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Viterbi</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="nessyk" changedate="20171025T175747Z" creationid="nessyk" creationdate="20171025T175747Z">
+        <seg>Viterbi</seg>
       </tuv>
     </tu>
     <tu>
