@@ -22,6 +22,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Add</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Лера9764" changedate="20171025T180855Z" creationid="Лера9764" creationdate="20171025T180855Z">
+        <seg>&amp;Додати</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;Align Files...</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20170902T182831Z" creationid="Kos Ivantsov" creationdate="20170902T182831Z">
@@ -226,6 +234,14 @@
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20170902T165754Z" creationid="Kos Ivantsov" creationdate="20170902T165754Z">
         <seg>&amp;Вийти</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;Remove</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Лера9764" changedate="20171025T180911Z" creationid="Лера9764" creationdate="20171025T180911Z">
+        <seg>&amp;Вилучити</seg>
       </tuv>
     </tu>
     <tu>
@@ -469,6 +485,14 @@
       </tuv>
       <tuv lang="UK-UA" changeid="Лера9764" changedate="20171025T175911Z" creationid="Лера9764" creationdate="20171025T175911Z">
         <seg>Про програму OmegaT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Add</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Лера9764" changedate="20171025T180849Z" creationid="Лера9764" creationdate="20171025T180849Z">
+        <seg>Додати</seg>
       </tuv>
     </tu>
     <tu>
