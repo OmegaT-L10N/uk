@@ -561,6 +561,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Command is missing command string</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="nessyk" changedate="20171025T183723Z" creationid="nessyk" creationdate="20171025T183723Z">
+        <seg>Command is missing command string</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Command is missing delimiter</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="nessyk" changedate="20171025T183611Z" creationid="nessyk" creationdate="20171025T183611Z">
@@ -965,6 +973,14 @@
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20170902T144521Z" creationid="Kos Ivantsov" creationdate="20170902T144521Z">
         <seg>Детальнішу інформацію можна отримати, запустивши програму з параметром «team -h».</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Item name is empty or missing</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="nessyk" changedate="20171025T183754Z" creationid="nessyk" creationdate="20171025T183754Z">
+        <seg>Назва об'єкта порожня або пропущена </seg>
       </tuv>
     </tu>
     <tu>
