@@ -46,6 +46,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Browse Online</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="nessyk" changedate="20171026T174457Z" creationid="nessyk" creationdate="20171026T174457Z">
+        <seg>&amp;В інтернет</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;Cancel</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20170929T122909Z" creationid="Kos Ivantsov" creationdate="20170929T122909Z">
@@ -1488,6 +1496,14 @@ published by the Free Software Foundation, either version 3 of the License, or
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Plugins</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="nessyk" changedate="20171026T174432Z" creationid="nessyk" creationdate="20171026T174432Z">
+        <seg>Плагіни</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Preferences</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="nessyk" changedate="20171026T174208Z" creationid="nessyk" creationdate="20171026T173930Z">
@@ -1977,6 +1993,14 @@ in /lib/licenses/Licenses.txt.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20170929T122757Z" creationid="Kos Ivantsov" creationdate="20170929T122757Z">
         <seg>У файлі /docs/OmegaT-license.txt названо ліцензії, відповідно до яких розповсюджується кожна бібліотека.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>There are many plugins available for OmegaT online.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="nessyk" changedate="20171026T174648Z" creationid="nessyk" creationdate="20171026T174648Z">
+        <seg>Є багато палгінів, доступних для OmegaT онлайн.</seg>
       </tuv>
     </tu>
     <tu>
