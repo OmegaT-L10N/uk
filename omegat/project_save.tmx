@@ -515,8 +515,8 @@
       <tuv lang="EN">
         <seg>Appearance</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="nessyk" changedate="20171026T171621Z" creationid="nessyk" creationdate="20171026T171621Z">
-        <seg>Appearance</seg>
+      <tuv lang="UK-UA" changeid="nessyk" changedate="20171026T171629Z" creationid="nessyk" creationdate="20171026T171621Z">
+        <seg>Вигляд</seg>
       </tuv>
     </tu>
     <tu>
@@ -1315,6 +1315,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>OmegaT encrypts sensitive passwords and API keys with a master password.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="nessyk" changedate="20171026T171844Z" creationid="nessyk" creationdate="20171026T171844Z">
+        <seg>OmegaT encrypts sensitive passwords and API keys with a master password.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>OmegaT has chosen option 'Yes' automatically.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20170902T165839Z">
@@ -1654,6 +1662,14 @@ The scope of a search is by default the project and can be set to be any files l
       </tuv>
       <tuv lang="UK-UA" changeid="Лера9764" changedate="20171025T175745Z" creationid="Лера9764" creationdate="20171025T175745Z">
         <seg>Шукати в</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Secure Store</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="nessyk" changedate="20171026T171842Z" creationid="nessyk" creationdate="20171026T171842Z">
+        <seg>Безпечний магазин</seg>
       </tuv>
     </tu>
     <tu>
