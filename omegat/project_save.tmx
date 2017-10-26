@@ -246,6 +246,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Reset Master Password</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="nessyk" changedate="20171026T172944Z" creationid="nessyk" creationdate="20171026T172944Z">
+        <seg>&amp;Скинути майстер паролів </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;Run</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20170427T120442Z" creationid="Kos Ivantsov" creationdate="20170427T120442Z">
