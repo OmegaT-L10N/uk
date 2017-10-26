@@ -270,6 +270,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Root</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Маринка" changedate="20171026T191143Z" creationid="Маринка" creationdate="20171026T191143Z">
+        <seg>&amp;Root</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;Run</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20170427T120442Z" creationid="Kos Ivantsov" creationdate="20170427T120442Z">
@@ -314,6 +322,14 @@
       </tuv>
       <tuv lang="UK-UA" changeid="nessyk" changedate="20171025T182431Z" creationid="nessyk" creationdate="20171025T182431Z">
         <seg>&amp;Показати в контекстному меню редактора</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;Source Files</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Маринка" changedate="20171026T191159Z" creationid="Маринка" creationdate="20171026T191159Z">
+        <seg>&amp;Файли вихідної мови</seg>
       </tuv>
     </tu>
     <tu>
@@ -455,6 +471,16 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>--tag-validation=[abort|warn]
+		Validate tags.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Маринка" changedate="20171026T190922Z" creationid="Маринка" creationdate="20171026T190922Z">
+        <seg>--tag-validation=[abort|warn]
+		Перевірити теги.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>-h, --help
 		Show usage information.</seg>
       </tuv>
@@ -517,6 +543,14 @@
       </tuv>
       <tuv lang="UK-UA" changeid="nessyk" changedate="20171025T185529Z" creationid="nessyk" creationdate="20171025T184210Z">
         <seg>Тільки ASCII </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Abort: Exit with an error if tags invalid.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Маринка" changedate="20171026T191042Z" creationid="Маринка" creationdate="20171026T191042Z">
+        <seg>Скасувати: вийти, якщо виникла помилка з неправильним тегом.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2259,6 +2293,14 @@ Exact searches match the whole search string.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="nessyk" changedate="20171025T175747Z" creationid="nessyk" creationdate="20171025T175747Z">
         <seg>Viterbi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Warn: Report invalid tags to stdout.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Маринка" changedate="20171026T191048Z" creationid="Маринка" creationdate="20171026T191048Z">
+        <seg>Warn: Report invalid tags to stdout.</seg>
       </tuv>
     </tu>
     <tu>
