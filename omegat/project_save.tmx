@@ -1826,6 +1826,14 @@ The scope of a search is by default the project and can be set to be any files l
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Select Issue Types</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="nessyk" changedate="20171026T175844Z" creationid="nessyk" creationdate="20171026T175844Z">
+        <seg>Обрати тип проблеми</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Select a Category</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="nessyk" changedate="20171026T174239Z" creationid="nessyk" creationdate="20171026T174239Z">
