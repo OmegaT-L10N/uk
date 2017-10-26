@@ -521,10 +521,26 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>All preferences protected by the master password will be reset.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="nessyk" changedate="20171026T173252Z" creationid="nessyk" creationdate="20171026T173252Z">
+        <seg>Всі параметри, які захищені основним паролем, буде скинуто.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Appearance</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="nessyk" changedate="20171026T171629Z" creationid="nessyk" creationdate="20171026T171621Z">
         <seg>Вигляд</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Are you sure you want to reset the master password?</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="nessyk" changedate="20171026T173158Z" creationid="nessyk" creationdate="20171026T173158Z">
+        <seg>Ви впевнені, що хочете скинути майстер паролів?</seg>
       </tuv>
     </tu>
     <tu>
@@ -1588,6 +1604,14 @@ published by the Free Software Foundation, either version 3 of the License, or
       </tuv>
       <tuv lang="UK-UA" changeid="nessyk" changedate="20171025T180327Z" creationid="nessyk" creationdate="20171025T180327Z">
         <seg>Скинути</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Reset Master Password</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="nessyk" changedate="20171026T173118Z" creationid="nessyk" creationdate="20171026T173118Z">
+        <seg>Скинути майстер паролів</seg>
       </tuv>
     </tu>
     <tu>
