@@ -1472,6 +1472,22 @@ published by the Free Software Foundation, either version 3 of the License, or
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Preferences</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="nessyk" changedate="20171026T174208Z" creationid="nessyk" creationdate="20171026T173930Z">
+        <seg>Переваги</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Preferences - {0}</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="nessyk" changedate="20171026T174215Z" creationid="nessyk" creationdate="20171026T173933Z">
+        <seg>Переваги - {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Press the keyboard shortcut you wish to assign, then click OK.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="nessyk" changedate="20171025T184108Z" creationid="nessyk" creationdate="20171025T184108Z">
