@@ -1429,8 +1429,8 @@
       <tuv lang="EN">
         <seg>OmegaT encrypts sensitive passwords and API keys with a master password.</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="nessyk" changedate="20171026T172621Z" creationid="nessyk" creationdate="20171026T171844Z">
-        <seg>OmegaT шифрує чутливі паролі та API-ключі за допомогою майстра поролів.</seg>
+      <tuv lang="UK-UA" changeid="nessyk" changedate="20171026T180527Z" creationid="nessyk" creationdate="20171026T171844Z">
+        <seg>OmegaT шифрує чутливі паролі та API-ключі за допомогою майстра-паролю.</seg>
       </tuv>
     </tu>
     <tu>
