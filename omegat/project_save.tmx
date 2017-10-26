@@ -717,6 +717,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Confirm:</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="nessyk" changedate="20171026T180651Z" creationid="nessyk" creationdate="20171026T180651Z">
+        <seg>Підтвердити:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Console-pseudotranslatetmx mode:
 	--pseudotranslatetmx=&lt;path&gt;
 		The output pseudotranslated TMX file.</seg>
@@ -1536,6 +1544,22 @@ published by the Free Software Foundation, either version 3 of the License, or
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Please double-check.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="nessyk" changedate="20171026T180816Z" creationid="nessyk" creationdate="20171026T180816Z">
+        <seg>Будь ласка, перевірте ще раз.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Please enter your password again for confirmation.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="nessyk" changedate="20171026T180740Z" creationid="nessyk" creationdate="20171026T180740Z">
+        <seg>Будь ласка, ведіть свій пароль знову для підтвердження.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Plugins</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="nessyk" changedate="20171026T174432Z" creationid="nessyk" creationdate="20171026T174432Z">
@@ -2061,10 +2085,26 @@ in /lib/licenses/Licenses.txt.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The password cannot be empty.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="nessyk" changedate="20171026T180709Z" creationid="nessyk" creationdate="20171026T180709Z">
+        <seg>Пароль не може бути порожнім.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The password you entered did not match.</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="nessyk" changedate="20171026T180359Z" creationid="nessyk" creationdate="20171026T180359Z">
-        <seg>The password you entered did not match.</seg>
+      <tuv lang="UK-UA" changeid="nessyk" changedate="20171026T180910Z" creationid="nessyk" creationdate="20171026T180359Z">
+        <seg>Введений пароль не підходить.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The passwords don't match.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="nessyk" changedate="20171026T180754Z" creationid="nessyk" creationdate="20171026T180754Z">
+        <seg>Паролі не співпадають.</seg>
       </tuv>
     </tu>
     <tu>
