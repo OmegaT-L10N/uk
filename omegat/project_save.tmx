@@ -38,6 +38,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Automatically fetch translations</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="nessyk" changedate="20171026T174759Z" creationid="nessyk" creationdate="20171026T174732Z">
+        <seg>&amp;Автоматично завантажувати переклади</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;Back</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20170929T123131Z" creationid="Kos Ivantsov" creationdate="20170929T123131Z">
@@ -703,8 +711,8 @@
       <tuv lang="EN">
         <seg>Con&amp;figure</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="nessyk" changedate="20171025T190225Z" creationid="nessyk" creationdate="20171025T190225Z">
-        <seg>Con&amp;figure</seg>
+      <tuv lang="UK-UA" changeid="nessyk" changedate="20171026T174741Z" creationid="nessyk" creationdate="20171025T190225Z">
+        <seg>Налаштувати</seg>
       </tuv>
     </tu>
     <tu>
