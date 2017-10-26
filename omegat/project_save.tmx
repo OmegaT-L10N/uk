@@ -873,6 +873,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Enabled</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="nessyk" changedate="20171026T133023Z" creationid="nessyk" creationdate="20171026T133023Z">
+        <seg>Enabled</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Encoding</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="nessyk" changedate="20171025T182747Z" creationid="nessyk" creationdate="20171025T182747Z">
@@ -973,6 +981,14 @@
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20170427T115535Z" creationid="Kos Ivantsov" creationdate="20170427T115535Z">
         <seg>Шрифт</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>General</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="nessyk" changedate="20171026T133031Z" creationid="nessyk" creationdate="20171026T133031Z">
+        <seg>General</seg>
       </tuv>
     </tu>
     <tu>
@@ -1891,6 +1907,14 @@ Exact searches match the whole search string.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20170418T175659Z" creationid="Kos Ivantsov" creationdate="20170418T175659Z">
         <seg>Не вдалося прочитати файл проекту!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Untranslated segments &amp;only</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="nessyk" changedate="20171026T133048Z" creationid="nessyk" creationdate="20171026T133048Z">
+        <seg>Лише неперекладені сегмети&amp;only</seg>
       </tuv>
     </tu>
     <tu>
