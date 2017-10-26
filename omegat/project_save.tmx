@@ -318,6 +318,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Undo Changes</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="nessyk" changedate="20171026T174301Z" creationid="nessyk" creationdate="20171026T174301Z">
+        <seg>&amp;Відмінити зміни</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>--/--</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20170427T115523Z" creationid="Kos Ivantsov" creationdate="20170427T115523Z">
@@ -477,6 +485,14 @@
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20170427T120310Z" creationid="Kos Ivantsov" creationdate="20170427T120301Z">
         <seg>&lt;Порожній переклад&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>A restart is required in order to apply these changes</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="nessyk" changedate="20171026T174351Z" creationid="nessyk" creationdate="20171026T174351Z">
+        <seg>Щоб застосувати ці зміни, потрібен перезапуск</seg>
       </tuv>
     </tu>
     <tu>
@@ -1648,6 +1664,14 @@ published by the Free Software Foundation, either version 3 of the License, or
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Restore &amp;Defaults</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="nessyk" changedate="20171026T174333Z" creationid="nessyk" creationdate="20171026T174333Z">
+        <seg>Відновити значення за замовчуванням</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Restore De&amp;faults</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20170902T163530Z" creationid="Kos Ivantsov" creationdate="20170902T163530Z">
@@ -1936,6 +1960,14 @@ instead.</seg>
       <tuv lang="UK-UA" changeid="nessyk" changedate="20171025T175527Z" creationid="nessyk" creationdate="20171025T175527Z">
         <seg>The configuration folder will be used
 instead.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The current project must be reloaded in order to apply these changes</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="nessyk" changedate="20171026T174415Z" creationid="nessyk" creationdate="20171026T174415Z">
+        <seg>Поточний проект необхідно перезавантажити, щоб застосувати ці зміни</seg>
       </tuv>
     </tu>
     <tu>
