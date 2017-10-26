@@ -1123,6 +1123,22 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Failed to compile project files!</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Маринка" changedate="20171026T191647Z" creationid="Маринка" creationdate="20171026T191647Z">
+        <seg>Не вдалося упорядкувати документи проекту!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Failed to load specified project!</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Маринка" changedate="20171026T191556Z" creationid="Маринка" creationdate="20171026T191556Z">
+        <seg>Не вдалося завантажити вказаний проект!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Failed to load translation memory {0} for project!</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Маринка" changedate="20171026T191532Z" creationid="Маринка" creationdate="20171026T191532Z">
@@ -1255,6 +1271,14 @@
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20170902T144521Z" creationid="Kos Ivantsov" creationdate="20170902T144521Z">
         <seg>Детальнішу інформацію можна отримати, запустивши програму з параметром «team -h».</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>It was not possible to create translated documents, because some tags are missing or damaged.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Маринка" changedate="20171026T191716Z" creationid="Маринка" creationdate="20171026T191716Z">
+        <seg>Не вдалося створити перекладені документи, оскільки деякі теги відсутні або пошкоджені.</seg>
       </tuv>
     </tu>
     <tu>
