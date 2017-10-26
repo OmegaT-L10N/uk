@@ -849,6 +849,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Don't ask before checking issues</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="nessyk" changedate="20171026T180033Z" creationid="nessyk" creationdate="20171026T180033Z">
+        <seg>Don't ask before checking issues</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Download &amp;Team Project...</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20170902T164622Z" creationid="Kos Ivantsov" creationdate="20170902T164622Z">
@@ -969,6 +977,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Enter your master password.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="nessyk" changedate="20171026T180349Z" creationid="nessyk" creationdate="20171026T180349Z">
+        <seg>Введіть ваш майстер-пароль</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Error</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Julia" changedate="20170424T144532Z" creationid="Julia" creationdate="20170424T144532Z">
@@ -1085,6 +1101,14 @@
       </tuv>
       <tuv lang="UK-UA" changeid="nessyk" changedate="20171025T175759Z" creationid="nessyk" creationdate="20171025T175720Z">
         <seg>Ідентифікатор</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If issue checking is slow, try disabling some of the optional checks.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="nessyk" changedate="20171026T180013Z" creationid="nessyk" creationdate="20171026T180013Z">
+        <seg>Якщо перевірка проблеми виконується повільно, спробуйте вимкнути деякі додаткові перевірки.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1247,6 +1271,14 @@
       </tuv>
       <tuv lang="UK-UA" changeid="nessyk" changedate="20171025T180717Z" creationid="nessyk" creationdate="20171025T180717Z">
         <seg>Mark Accepted</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Master Password</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="nessyk" changedate="20171026T180046Z" creationid="nessyk" creationdate="20171026T180046Z">
+        <seg>Майстер паролів</seg>
       </tuv>
     </tu>
     <tu>
@@ -1874,6 +1906,14 @@ The scope of a search is by default the project and can be set to be any files l
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Set a master password to protect your private data.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="nessyk" changedate="20171026T180120Z" creationid="nessyk" creationdate="20171026T180120Z">
+        <seg>Встановіть майстер паролів для захисту ваших особистих даних.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Set empty translation</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20170418T175858Z" creationid="Kos Ivantsov" creationdate="20170418T175837Z">
@@ -2213,6 +2253,14 @@ Exact searches match the whole search string.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20170902T184458Z" creationid="Kos Ivantsov" creationdate="20170902T184458Z">
         <seg>Необхідно вказати число від 1 до {0}.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You will be prompted to enter this password every time you launch OmegaT.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="nessyk" changedate="20171026T180144Z" creationid="nessyk" creationdate="20171026T180144Z">
+        <seg>Вам буде запропоновано ввести цей пароль кожного разу, коли ви запускаєте OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
