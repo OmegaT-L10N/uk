@@ -875,8 +875,8 @@
       <tuv lang="EN">
         <seg>Enabled</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="nessyk" changedate="20171026T133023Z" creationid="nessyk" creationdate="20171026T133023Z">
-        <seg>Enabled</seg>
+      <tuv lang="UK-UA" changeid="nessyk" changedate="20171026T171522Z" creationid="nessyk" creationdate="20171026T133023Z">
+        <seg>Дозволено</seg>
       </tuv>
     </tu>
     <tu>
@@ -987,8 +987,8 @@
       <tuv lang="EN">
         <seg>General</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="nessyk" changedate="20171026T133031Z" creationid="nessyk" creationdate="20171026T133031Z">
-        <seg>General</seg>
+      <tuv lang="UK-UA" changeid="nessyk" changedate="20171026T171559Z" creationid="nessyk" creationdate="20171026T133031Z">
+        <seg>Загальні положення</seg>
       </tuv>
     </tu>
     <tu>
@@ -1476,6 +1476,14 @@ published by the Free Software Foundation, either version 3 of the License, or
       </tuv>
       <tuv lang="UK-UA" changeid="nessyk" changedate="20171025T174917Z" creationid="nessyk" creationdate="20171025T174917Z">
         <seg>Project searches are by default performed on the source and target, reference TMs, glossaries, notes and comments of the project.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Provider</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="nessyk" changedate="20171026T171437Z" creationid="nessyk" creationdate="20171026T171437Z">
+        <seg>Постачальник</seg>
       </tuv>
     </tu>
     <tu>
