@@ -38,6 +38,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Always Confirm Quit</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Маринка" changedate="20171026T191337Z" creationid="Маринка" creationdate="20171026T191337Z">
+        <seg>&amp;Завжди підтверджуйте вихід</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;Automatically fetch translations</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="nessyk" changedate="20171026T174759Z" creationid="nessyk" creationdate="20171026T174732Z">
@@ -74,6 +82,14 @@
       </tuv>
       <tuv lang="UK-UA" changeid="Лера9764" changedate="20171025T175814Z" creationid="Лера9764" creationdate="20171025T175814Z">
         <seg>&amp;Закрити</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;Current Source Document</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Маринка" changedate="20171026T191221Z" creationid="Маринка" creationdate="20171026T191221Z">
+        <seg>&amp;Current Source Document</seg>
       </tuv>
     </tu>
     <tu>
@@ -154,6 +170,14 @@
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20170902T163513Z" creationid="Kos Ivantsov" creationdate="20170902T163513Z">
         <seg>&amp;Вставити</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;Insert Match or Selection</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Маринка" changedate="20171026T191308Z" creationid="Маринка" creationdate="20171026T191308Z">
+        <seg>&amp;Insert Match or Selection</seg>
       </tuv>
     </tu>
     <tu>
@@ -270,6 +294,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Restore Main Window</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Маринка" changedate="20171026T191357Z" creationid="Маринка" creationdate="20171026T191357Z">
+        <seg>&amp;Оновити головне вікно</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;Root</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Маринка" changedate="20171026T191143Z" creationid="Маринка" creationdate="20171026T191143Z">
@@ -342,6 +374,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Target Files</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Маринка" changedate="20171026T191208Z" creationid="Маринка" creationdate="20171026T191208Z">
+        <seg>&amp;Файли цільової мови</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;Tools</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20170902T182654Z" creationid="Kos Ivantsov" creationdate="20170902T182654Z">
@@ -354,6 +394,14 @@
       </tuv>
       <tuv lang="UK-UA" changeid="nessyk" changedate="20171026T174301Z" creationid="nessyk" creationdate="20171026T174301Z">
         <seg>&amp;Відмінити зміни</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;User's Manual...</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Маринка" changedate="20171026T191428Z" creationid="Маринка" creationdate="20171026T191428Z">
+        <seg>&amp;Посібник користувача...</seg>
       </tuv>
     </tu>
     <tu>
@@ -575,6 +623,14 @@
       </tuv>
       <tuv lang="UK-UA" changeid="Лера9764" changedate="20171025T175911Z" creationid="Лера9764" creationdate="20171025T175911Z">
         <seg>Про програму OmegaT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Access Configurat&amp;ion Folder</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Маринка" changedate="20171026T191418Z" creationid="Маринка" creationdate="20171026T191418Z">
+        <seg>Access Configurat&amp;ion Folder</seg>
       </tuv>
     </tu>
     <tu>
@@ -1067,6 +1123,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Failed to load translation memory {0} for project!</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Маринка" changedate="20171026T191532Z" creationid="Маринка" creationdate="20171026T191532Z">
+        <seg>Не вдалося завантажити пам'ять перекладу {0} для проекта!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>File</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="nessyk" changedate="20171025T175936Z" creationid="nessyk" creationdate="20171025T175936Z">
@@ -1127,6 +1191,14 @@
       </tuv>
       <tuv lang="UK-UA" changeid="nessyk" changedate="20171025T185352Z" creationid="nessyk" creationdate="20171025T183841Z">
         <seg>Перейдіть у розділ "параметри"&gt; щоб увімкнути зовнішній пошук.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>History</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Маринка" changedate="20171026T191313Z" creationid="Маринка" creationdate="20171026T191313Z">
+        <seg>історія</seg>
       </tuv>
     </tu>
     <tu>
@@ -1748,8 +1820,8 @@ published by the Free Software Foundation, either version 3 of the License, or
       <tuv lang="EN">
         <seg>Reopen the project now?</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="nessyk" changedate="20171025T181459Z" creationid="Kos Ivantsov" creationdate="20170902T183420Z">
-        <seg>ерезавантажити проект зараз?</seg>
+      <tuv lang="UK-UA" changeid="Маринка" changedate="20171026T191440Z" creationid="Kos Ivantsov" creationdate="20170902T183420Z">
+        <seg>Перезавантажити проект зараз?</seg>
       </tuv>
     </tu>
     <tu>
@@ -1872,6 +1944,14 @@ The scope of a search is by default the project and can be set to be any files l
       </tuv>
       <tuv lang="UK-UA" changeid="nessyk" changedate="20171026T174221Z" creationid="nessyk" creationdate="20171026T174221Z">
         <seg>Пошук ({0})</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Search and Replace...</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Маринка" changedate="20171026T191230Z" creationid="Маринка" creationdate="20171026T191230Z">
+        <seg>Знайти та замінити...</seg>
       </tuv>
     </tu>
     <tu>
