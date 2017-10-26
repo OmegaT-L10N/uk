@@ -264,8 +264,8 @@
       <tuv lang="EN">
         <seg>&amp;Reset Master Password</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="nessyk" changedate="20171026T172944Z" creationid="nessyk" creationdate="20171026T172944Z">
-        <seg>&amp;Скинути майстер паролів </seg>
+      <tuv lang="UK-UA" changeid="nessyk" changedate="20171026T180438Z" creationid="nessyk" creationdate="20171026T172944Z">
+        <seg>&amp;Скинути майстер-пароль </seg>
       </tuv>
     </tu>
     <tu>
@@ -571,8 +571,8 @@
       <tuv lang="EN">
         <seg>Are you sure you want to reset the master password?</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="nessyk" changedate="20171026T173158Z" creationid="nessyk" creationdate="20171026T173158Z">
-        <seg>Ви впевнені, що хочете скинути майстер паролів?</seg>
+      <tuv lang="UK-UA" changeid="nessyk" changedate="20171026T180502Z" creationid="nessyk" creationdate="20171026T173158Z">
+        <seg>Ви впевнені, що хочете скинути майстер-пароль?</seg>
       </tuv>
     </tu>
     <tu>
@@ -1714,8 +1714,8 @@ published by the Free Software Foundation, either version 3 of the License, or
       <tuv lang="EN">
         <seg>Reset Master Password</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="nessyk" changedate="20171026T173118Z" creationid="nessyk" creationdate="20171026T173118Z">
-        <seg>Скинути майстер паролів</seg>
+      <tuv lang="UK-UA" changeid="nessyk" changedate="20171026T180450Z" creationid="nessyk" creationdate="20171026T173118Z">
+        <seg>Скинути майстер-пароль</seg>
       </tuv>
     </tu>
     <tu>
@@ -1908,8 +1908,8 @@ The scope of a search is by default the project and can be set to be any files l
       <tuv lang="EN">
         <seg>Set a master password to protect your private data.</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="nessyk" changedate="20171026T180120Z" creationid="nessyk" creationdate="20171026T180120Z">
-        <seg>Встановіть майстер паролів для захисту ваших особистих даних.</seg>
+      <tuv lang="UK-UA" changeid="nessyk" changedate="20171026T180408Z" creationid="nessyk" creationdate="20171026T180120Z">
+        <seg>Встановіть майстер-пароль для захисту ваших особистих даних.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2057,6 +2057,14 @@ in /lib/licenses/Licenses.txt.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20170929T122757Z" creationid="Kos Ivantsov" creationdate="20170929T122757Z">
         <seg>У файлі /docs/OmegaT-license.txt названо ліцензії, відповідно до яких розповсюджується кожна бібліотека.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The password you entered did not match.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="nessyk" changedate="20171026T180359Z" creationid="nessyk" creationdate="20171026T180359Z">
+        <seg>The password you entered did not match.</seg>
       </tuv>
     </tu>
     <tu>
