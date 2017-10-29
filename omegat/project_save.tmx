@@ -1331,6 +1331,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>LanguageTool</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="nessyk" changedate="20171029T225441Z" creationid="nessyk" creationdate="20171029T225441Z">
+        <seg>Мовний інструмент</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Languages</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20170918T163047Z" creationid="Kos Ivantsov" creationdate="20170918T163047Z">
