@@ -587,6 +587,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;html&gt;Place the caret at the location where you want to split the text.&lt;/html&gt;</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="nessyk" changedate="20171030T173003Z" creationid="nessyk" creationdate="20171030T173003Z">
+        <seg>&lt;html&gt;Поставте курсор в місце, де потрібно розділити текст.&lt;/html&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>A restart is required in order to apply these changes</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="nessyk" changedate="20171026T174351Z" creationid="nessyk" creationdate="20171026T174351Z">
@@ -1095,6 +1103,14 @@
       </tuv>
       <tuv lang="UK-UA" changeid="nessyk" changedate="20171025T181828Z" creationid="nessyk" creationdate="20171025T181800Z">
         <seg>Редагувати URL-адресу зовнішнього пошуку</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Edit Highlight Pattern</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="nessyk" changedate="20171030T172759Z" creationid="nessyk" creationdate="20171030T172759Z">
+        <seg>Редагувати виділений шаблон</seg>
       </tuv>
     </tu>
     <tu>
@@ -2010,6 +2026,14 @@ published by the Free Software Foundation, either version 3 of the License, or
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Save changes to segmentation rules?</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="nessyk" changedate="20171030T173053Z" creationid="nessyk" creationdate="20171030T173053Z">
+        <seg>Зберегти зміни до даних сегментації?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Saving project...</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20170902T184542Z" creationid="Kos Ivantsov" creationdate="20170902T184542Z">
@@ -2240,6 +2264,14 @@ The scope of a search is by default the project and can be set to be any files l
       </tuv>
       <tuv lang="UK-UA" changeid="nessyk" changedate="20171025T180639Z" creationid="nessyk" creationdate="20171025T180548Z">
         <seg>Роз'єднати</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Split Text</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="nessyk" changedate="20171030T172839Z" creationid="nessyk" creationdate="20171030T172839Z">
+        <seg>Розділити текст</seg>
       </tuv>
     </tu>
     <tu>
