@@ -302,6 +302,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Replace</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Лера9764" changedate="20171030T181359Z" creationid="Лера9764" creationdate="20171030T181359Z">
+        <seg>&amp;Замінити</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;Reset Master Password</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="nessyk" changedate="20171026T180438Z" creationid="nessyk" creationdate="20171026T172944Z">
