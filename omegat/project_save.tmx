@@ -723,6 +723,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Character</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="nessyk" changedate="20171030T173648Z" creationid="nessyk" creationdate="20171030T173648Z">
+        <seg>Character</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Check &amp;Issues...</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20170902T182709Z" creationid="Kos Ivantsov" creationdate="20170902T182709Z">
@@ -1291,6 +1299,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Forward-Backward</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="nessyk" changedate="20171030T173522Z" creationid="nessyk" creationdate="20171030T173522Z">
+        <seg>Вперед-назад</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>General</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="nessyk" changedate="20171026T171559Z" creationid="nessyk" creationdate="20171026T133031Z">
@@ -1661,6 +1677,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Normal</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="nessyk" changedate="20171030T173540Z" creationid="nessyk" creationdate="20171030T173540Z">
+        <seg>Середне значення</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Not Set</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="nessyk" changedate="20171025T185626Z" creationid="nessyk" creationdate="20171025T185626Z">
@@ -1822,6 +1846,14 @@ published by the Free Software Foundation, either version 3 of the License, or
       </tuv>
       <tuv lang="UK-UA" changeid="nessyk" changedate="20171026T174432Z" creationid="nessyk" creationdate="20171026T174432Z">
         <seg>Плагіни</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Poisson</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="nessyk" changedate="20171030T173645Z" creationid="nessyk" creationdate="20171030T173645Z">
+        <seg>Poisson</seg>
       </tuv>
     </tu>
     <tu>
@@ -2603,8 +2635,8 @@ Exact searches match the whole search string.</seg>
       <tuv lang="EN">
         <seg>Viterbi</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="nessyk" changedate="20171025T175747Z" creationid="nessyk" creationdate="20171025T175747Z">
-        <seg>Viterbi</seg>
+      <tuv lang="UK-UA" changeid="nessyk" changedate="20171030T173456Z" creationid="nessyk" creationdate="20171025T175747Z">
+        <seg>Вітербі</seg>
       </tuv>
     </tu>
     <tu>
@@ -2629,6 +2661,14 @@ Exact searches match the whole search string.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20170929T121648Z" creationid="Kos Ivantsov" creationdate="20170929T121648Z">
         <seg>Що таке OmegaT?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Word</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="nessyk" changedate="20171030T173727Z" creationid="nessyk" creationdate="20171030T173647Z">
+        <seg>Слово</seg>
       </tuv>
     </tu>
     <tu>
