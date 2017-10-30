@@ -406,6 +406,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>,</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="nessyk" changedate="20171030T172110Z" creationid="nessyk" creationdate="20171030T172110Z">
+        <seg>,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>--/--</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20170427T115523Z" creationid="Kos Ivantsov" creationdate="20170427T115523Z">
@@ -655,6 +663,14 @@
       </tuv>
       <tuv lang="UK-UA" changeid="nessyk" changedate="20171026T171629Z" creationid="nessyk" creationdate="20171026T171621Z">
         <seg>Вигляд</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Apply &amp;Fix</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="nessyk" changedate="20171030T172255Z" creationid="nessyk" creationdate="20171030T172255Z">
+        <seg>Apply &amp;Fix</seg>
       </tuv>
     </tu>
     <tu>
@@ -919,6 +935,14 @@
       </tuv>
       <tuv lang="UK-UA" changeid="nessyk" changedate="20171025T181326Z" creationid="nessyk" creationdate="20171025T181326Z">
         <seg>Розділювач:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Disable rule “{0}”</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="nessyk" changedate="20171030T171904Z" creationid="nessyk" creationdate="20171030T171904Z">
+        <seg>Відключити правило“{0}”</seg>
       </tuv>
     </tu>
     <tu>
@@ -2164,6 +2188,14 @@ The scope of a search is by default the project and can be set to be any files l
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Tags</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="nessyk" changedate="20171030T172036Z" creationid="nessyk" creationdate="20171030T172036Z">
+        <seg>Теги</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Target</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="nessyk" changedate="20171025T182740Z" creationid="nessyk" creationdate="20171025T182740Z">
@@ -2190,8 +2222,8 @@ The scope of a search is by default the project and can be set to be any files l
       <tuv lang="EN">
         <seg>Terminology Issues</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="nessyk" changedate="20171029T225336Z" creationid="nessyk" creationdate="20171029T225336Z">
-        <seg>Terminology Issues</seg>
+      <tuv lang="UK-UA" changeid="nessyk" changedate="20171030T171925Z" creationid="nessyk" creationdate="20171029T225336Z">
+        <seg>Термінологічні проблеми</seg>
       </tuv>
     </tu>
     <tu>
@@ -2543,6 +2575,14 @@ Exact searches match the whole search string.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Лера9764" changedate="20171025T180223Z" creationid="Лера9764" creationdate="20171025T180223Z">
         <seg>{0} завантажено.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>{0} x{1}</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="nessyk" changedate="20171030T172059Z" creationid="nessyk" creationdate="20171030T172059Z">
+        <seg>Пропущено{0} x{1}</seg>
       </tuv>
     </tu>
     <tu>
