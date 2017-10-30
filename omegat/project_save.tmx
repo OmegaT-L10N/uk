@@ -182,6 +182,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Jump To Segment</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="nessyk" changedate="20171030T173847Z" creationid="nessyk" creationdate="20171030T173812Z">
+        <seg>&amp;Перейти до сегменту</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;Last Changes...</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20170902T183514Z" creationid="Kos Ivantsov" creationdate="20170902T183514Z">
@@ -278,6 +286,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Refresh</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="nessyk" changedate="20171030T173917Z" creationid="nessyk" creationdate="20171030T173917Z">
+        <seg>&amp;Оновити</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;Remove</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Лера9764" changedate="20171025T180911Z" creationid="Лера9764" creationdate="20171025T180911Z">
@@ -346,6 +362,14 @@
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20170927T204625Z" creationid="Kos Ivantsov" creationdate="20170927T204625Z">
         <seg>&amp;Сегментація…</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;Show All</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="nessyk" changedate="20171030T173858Z" creationid="nessyk" creationdate="20171030T173858Z">
+        <seg>&amp;Показати все</seg>
       </tuv>
     </tu>
     <tu>
@@ -725,8 +749,8 @@
       <tuv lang="EN">
         <seg>Character</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="nessyk" changedate="20171030T173648Z" creationid="nessyk" creationdate="20171030T173648Z">
-        <seg>Character</seg>
+      <tuv lang="UK-UA" changeid="nessyk" changedate="20171030T173810Z" creationid="nessyk" creationdate="20171030T173648Z">
+        <seg>Характеризувати</seg>
       </tuv>
     </tu>
     <tu>
@@ -1399,6 +1423,30 @@
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20170902T144521Z" creationid="Kos Ivantsov" creationdate="20170902T144521Z">
         <seg>Детальнішу інформацію можна отримати, запустивши програму з параметром «team -h».</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Issues</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="nessyk" changedate="20171030T173925Z" creationid="nessyk" creationdate="20171030T173925Z">
+        <seg>Issues</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Issues ({0})</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="nessyk" changedate="20171030T173939Z" creationid="nessyk" creationdate="20171030T173939Z">
+        <seg>Загальна кількість помилок ({0})</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Issues for {0} ({1})</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="nessyk" changedate="20171030T173953Z" creationid="nessyk" creationdate="20171030T173953Z">
+        <seg>Проблема з файлом {0} ({1})</seg>
       </tuv>
     </tu>
     <tu>
@@ -2667,8 +2715,8 @@ Exact searches match the whole search string.</seg>
       <tuv lang="EN">
         <seg>Word</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="nessyk" changedate="20171030T173727Z" creationid="nessyk" creationdate="20171030T173647Z">
-        <seg>Слово</seg>
+      <tuv lang="UK-UA" changeid="nessyk" changedate="20171030T173819Z" creationid="nessyk" creationdate="20171030T173647Z">
+        <seg>Описати</seg>
       </tuv>
     </tu>
     <tu>
