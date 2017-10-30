@@ -693,8 +693,16 @@
       <tuv lang="EN">
         <seg>Add To Dictionary: “{0}”</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="nessyk" changedate="20171030T172409Z" creationid="nessyk" creationdate="20171030T172409Z">
-        <seg>Add To Dictionary: “{0}”</seg>
+      <tuv lang="UK-UA" changeid="nessyk" changedate="20171030T174458Z" creationid="nessyk" creationdate="20171030T172409Z">
+        <seg>Додати до словника : “{0}”</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>All</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="nessyk" changedate="20171030T174312Z" creationid="nessyk" creationdate="20171030T174312Z">
+        <seg>Все</seg>
       </tuv>
     </tu>
     <tu>
@@ -775,6 +783,14 @@
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20170902T182719Z" creationid="Kos Ivantsov" creationdate="20170902T182719Z">
         <seg>Пошук помилок у поточному &amp;документі</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Check {0}</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="nessyk" changedate="20171030T174343Z" creationid="nessyk" creationdate="20171030T174343Z">
+        <seg>Перевірка  {0}</seg>
       </tuv>
     </tu>
     <tu>
@@ -1079,6 +1095,14 @@
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20170918T163109Z" creationid="Kos Ivantsov" creationdate="20170918T163109Z">
         <seg>Документація</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Don't Ask What to Check First</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="nessyk" changedate="20171030T174403Z" creationid="nessyk" creationdate="20171030T174403Z">
+        <seg>Не питати, що треба перевірити спочатку</seg>
       </tuv>
     </tu>
     <tu>
@@ -1407,6 +1431,14 @@
       </tuv>
       <tuv lang="UK-UA" changeid="nessyk" changedate="20171026T180013Z" creationid="nessyk" creationdate="20171026T180013Z">
         <seg>Якщо перевірка проблеми виконується повільно, спробуйте вимкнути деякі додаткові перевірки.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Ignore: “{0}”</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="nessyk" changedate="20171030T174521Z" creationid="nessyk" creationdate="20171030T174521Z">
+        <seg>Пропустити: “{0}”</seg>
       </tuv>
     </tu>
     <tu>
@@ -2428,6 +2460,22 @@ The scope of a search is by default the project and can be set to be any files l
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Spelling</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="nessyk" changedate="20171030T174441Z" creationid="nessyk" creationdate="20171030T174441Z">
+        <seg>Правопис</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Spelling Issues</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="nessyk" changedate="20171030T174446Z" creationid="nessyk" creationdate="20171030T174422Z">
+        <seg>Проблеми з правописом</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Split</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="nessyk" changedate="20171025T180639Z" creationid="nessyk" creationdate="20171025T180548Z">
@@ -2454,8 +2502,8 @@ The scope of a search is by default the project and can be set to be any files l
       <tuv lang="EN">
         <seg>Tag Issues</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="nessyk" changedate="20171030T172347Z" creationid="nessyk" creationdate="20171030T172347Z">
-        <seg>Tag Issues</seg>
+      <tuv lang="UK-UA" changeid="nessyk" changedate="20171030T174538Z" creationid="nessyk" creationdate="20171030T172347Z">
+        <seg>Проблеми з тегами</seg>
       </tuv>
     </tu>
     <tu>
@@ -2863,6 +2911,14 @@ Exact searches match the whole search string.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20170902T144931Z" creationid="Kos Ivantsov" creationdate="20170902T144931Z">
         <seg>{0} (залишилося: {1}) / {2} (залишилося: {3}), {4}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>{0} ({1})</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="nessyk" changedate="20171030T174329Z" creationid="nessyk" creationdate="20171030T174329Z">
+        <seg>Тип тегу{0} ({1})</seg>
       </tuv>
     </tu>
     <tu>
