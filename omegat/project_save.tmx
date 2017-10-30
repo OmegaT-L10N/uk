@@ -611,6 +611,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;html&gt;&lt;center&gt;Loading...&lt;br&gt;&lt;br&gt;Tip: Enable/disable checks at any time from the Options menu.&lt;/center&gt;&lt;/html&gt;</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="nessyk" changedate="20171030T174212Z" creationid="nessyk" creationdate="20171030T174212Z">
+        <seg>&lt;html&gt;&lt;center&gt;Loading...&lt;br&gt;&lt;br&gt;Tip: Увімкнути / вимкнути перевірку можна  в будь-який час в меню «Параметри».&lt;/center&gt;&lt;/html&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;html&gt;Place the caret at the location where you want to split the text.&lt;/html&gt;</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="nessyk" changedate="20171030T173003Z" creationid="nessyk" creationdate="20171030T173003Z">
@@ -1027,6 +1035,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Description</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="nessyk" changedate="20171030T174307Z" creationid="nessyk" creationdate="20171030T174307Z">
+        <seg>Опис</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Disable rule “{0}”</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="nessyk" changedate="20171030T171904Z" creationid="nessyk" creationdate="20171030T171904Z">
@@ -1429,8 +1445,16 @@
       <tuv lang="EN">
         <seg>Issues</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="nessyk" changedate="20171030T173925Z" creationid="nessyk" creationdate="20171030T173925Z">
-        <seg>Issues</seg>
+      <tuv lang="UK-UA" changeid="nessyk" changedate="20171030T174103Z" creationid="nessyk" creationdate="20171030T173925Z">
+        <seg>Помилки</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Issues ({0} of {1})</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="nessyk" changedate="20171030T174046Z" creationid="nessyk" creationdate="20171030T174020Z">
+        <seg>Кількість помилок  ({0} of {1})</seg>
       </tuv>
     </tu>
     <tu>
@@ -1439,6 +1463,14 @@
       </tuv>
       <tuv lang="UK-UA" changeid="nessyk" changedate="20171030T173939Z" creationid="nessyk" creationdate="20171030T173939Z">
         <seg>Загальна кількість помилок ({0})</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Issues for {0} ({1} of {2})</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="nessyk" changedate="20171030T174130Z" creationid="nessyk" creationdate="20171030T174040Z">
+        <seg>Кількість помилок у файлі </seg>
       </tuv>
     </tu>
     <tu>
@@ -1697,6 +1729,14 @@
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20170902T182615Z" creationid="Kos Ivantsov" creationdate="20170902T182615Z">
         <seg>&amp;Наступна примітка</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>No Issues Found</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="nessyk" changedate="20171030T174225Z" creationid="nessyk" creationdate="20171030T174225Z">
+        <seg>Помилок не найдено</seg>
       </tuv>
     </tu>
     <tu>
@@ -2244,6 +2284,14 @@ The scope of a search is by default the project and can be set to be any files l
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Segment</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="nessyk" changedate="20171030T174230Z" creationid="nessyk" creationdate="20171030T174230Z">
+        <seg>Сегмент</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Segment {0,number,#}</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20170902T184729Z" creationid="Kos Ivantsov" creationdate="20170902T184729Z">
@@ -2579,6 +2627,14 @@ in /lib/licenses/Licenses.txt.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20170902T145016Z" creationid="Kos Ivantsov" creationdate="20170902T145016Z">
         <seg>Переклад востаннє змінений користувачем {0}, {1} о {2}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Type</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="nessyk" changedate="20171030T174255Z" creationid="nessyk" creationdate="20171030T174255Z">
+        <seg>Модель</seg>
       </tuv>
     </tu>
     <tu>
