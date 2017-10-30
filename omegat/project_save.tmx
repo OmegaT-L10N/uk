@@ -855,6 +855,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Confirm</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="nessyk" changedate="20171030T173250Z" creationid="nessyk" creationdate="20171030T173250Z">
+        <seg>Підтвердити</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Confirm:</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="nessyk" changedate="20171026T180651Z" creationid="nessyk" creationdate="20171026T180651Z">
@@ -887,6 +895,14 @@
       </tuv>
       <tuv lang="UK-UA" changeid="nessyk" changedate="20171025T183005Z" creationid="nessyk" creationdate="20171025T183005Z">
         <seg>Пріоритет контекстного меню:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Continue anyway?</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="nessyk" changedate="20171030T173239Z" creationid="nessyk" creationdate="20171030T173239Z">
+        <seg>Ви впенені, що хочете продовжити?</seg>
       </tuv>
     </tu>
     <tu>
@@ -1295,6 +1311,14 @@
       </tuv>
       <tuv lang="UK-UA" changeid="nessyk" changedate="20171025T185352Z" creationid="nessyk" creationdate="20171025T183841Z">
         <seg>Перейдіть у розділ "параметри"&gt; щоб увімкнути зовнішній пошук.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Heapwise</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="nessyk" changedate="20171030T173252Z" creationid="nessyk" creationdate="20171030T173252Z">
+        <seg>Heapwise</seg>
       </tuv>
     </tu>
     <tu>
@@ -1756,8 +1780,8 @@ published by the Free Software Foundation, either version 3 of the License, or
       <tuv lang="EN">
         <seg>Parsewise</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="nessyk" changedate="20171025T175722Z" creationid="nessyk" creationdate="20171025T175722Z">
-        <seg>Parsewise</seg>
+      <tuv lang="UK-UA" changeid="nessyk" changedate="20171030T173308Z" creationid="nessyk" creationdate="20171025T175722Z">
+        <seg>Розділити</seg>
       </tuv>
     </tu>
     <tu>
@@ -2026,6 +2050,14 @@ published by the Free Software Foundation, either version 3 of the License, or
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Save changes to filter settings?</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="nessyk" changedate="20171030T173127Z" creationid="nessyk" creationdate="20171030T173127Z">
+        <seg>Зберегти зміни для налаштування фільтра?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Save changes to segmentation rules?</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="nessyk" changedate="20171030T173053Z" creationid="nessyk" creationdate="20171030T173053Z">
@@ -2232,6 +2264,14 @@ The scope of a search is by default the project and can be set to be any files l
       </tuv>
       <tuv lang="UK-UA" changeid="Лера9764" changedate="20171025T182203Z" creationid="Лера9764" creationdate="20171025T182203Z">
         <seg>Пропустити</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Some alignments still need review.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="nessyk" changedate="20171030T173214Z" creationid="nessyk" creationdate="20171030T173214Z">
+        <seg>Деякі рядки елайменту (вирівнювання) ще потребують перегляду.</seg>
       </tuv>
     </tu>
     <tu>
