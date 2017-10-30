@@ -24,8 +24,16 @@
       <tuv lang="EN">
         <seg>&amp;Add</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="Лера9764" changedate="20171025T180855Z" creationid="Лера9764" creationdate="20171025T180855Z">
+      <tuv lang="UK-UA" changeid="Лера9764" changedate="20171030T181449Z" creationid="Лера9764" creationdate="20171025T180855Z">
         <seg>&amp;Додати</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;Add...</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Лера9764" changedate="20171030T181428Z" creationid="Лера9764" creationdate="20171030T181428Z">
+        <seg>&amp;Додати...</seg>
       </tuv>
     </tu>
     <tu>
@@ -102,6 +110,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Edit...</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Лера9764" changedate="20171030T181433Z" creationid="Лера9764" creationdate="20171030T181433Z">
+        <seg>&amp;Редагувати...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;Editor...</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20170927T204634Z" creationid="Kos Ivantsov" creationdate="20170902T144746Z">
@@ -130,6 +146,14 @@
       </tuv>
       <tuv lang="UK-UA" changeid="Лера9764" changedate="20171025T180304Z" creationid="Лера9764" creationdate="20171025T180304Z">
         <seg>&amp;Знайти...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;Finish</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Лера9764" changedate="20171030T181522Z" creationid="Лера9764" creationdate="20171030T181522Z">
+        <seg>&amp;Завершити</seg>
       </tuv>
     </tu>
     <tu>
@@ -302,10 +326,26 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Remove Filter</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Лера9764" changedate="20171030T181532Z" creationid="Лера9764" creationdate="20171030T181532Z">
+        <seg>&amp;Вилучити фільтр</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;Replace</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Лера9764" changedate="20171030T181359Z" creationid="Лера9764" creationdate="20171030T181359Z">
         <seg>&amp;Замінити</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;Replace Next</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Лера9764" changedate="20171030T181517Z" creationid="Лера9764" creationdate="20171030T181517Z">
+        <seg>&amp;Замінити наступний</seg>
       </tuv>
     </tu>
     <tu>
@@ -358,6 +398,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Search</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Лера9764" changedate="20171030T181413Z" creationid="Лера9764" creationdate="20171030T181413Z">
+        <seg>&amp;Пошук</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;Segment Number...</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="nessyk" changedate="20171025T175031Z" creationid="nessyk" creationdate="20171025T175031Z">
@@ -386,6 +434,14 @@
       </tuv>
       <tuv lang="UK-UA" changeid="nessyk" changedate="20171025T182431Z" creationid="nessyk" creationdate="20171025T182431Z">
         <seg>&amp;Показати в контекстному меню редактора</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;Skip</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Лера9764" changedate="20171030T181504Z" creationid="Лера9764" creationdate="20171030T181504Z">
+        <seg>&amp;Пропустити</seg>
       </tuv>
     </tu>
     <tu>
@@ -639,6 +695,14 @@
       </tuv>
       <tuv lang="UK-UA" changeid="nessyk" changedate="20171026T174351Z" creationid="nessyk" creationdate="20171026T174351Z">
         <seg>Щоб застосувати ці зміни, потрібен перезапуск</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>A&amp;dd</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Лера9764" changedate="20171030T181454Z" creationid="Лера9764" creationdate="20171030T181454Z">
+        <seg>До&amp;дати</seg>
       </tuv>
     </tu>
     <tu>
@@ -2082,6 +2146,14 @@ published by the Free Software Foundation, either version 3 of the License, or
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>R&amp;emove</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Лера9764" changedate="20171030T181424Z" creationid="Лера9764" creationdate="20171030T181424Z">
+        <seg>Ви&amp;лучити</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Re&amp;move Filter</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20170929T123033Z" creationid="Kos Ivantsov" creationdate="20170929T123033Z">
@@ -2344,6 +2416,14 @@ The scope of a search is by default the project and can be set to be any files l
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20170902T184729Z" creationid="Kos Ivantsov" creationdate="20170902T184729Z">
         <seg>Сегмент {0,номер,#}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Select</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Лера9764" changedate="20171030T181409Z" creationid="Лера9764" creationdate="20171030T181409Z">
+        <seg>Вибрати</seg>
       </tuv>
     </tu>
     <tu>
@@ -2855,6 +2935,14 @@ Exact searches match the whole search string.</seg>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20170929T122409Z" creationid="Kos Ivantsov" creationdate="20170929T122409Z">
         <seg>Текст ліцензії подано у файлі
 /docs/OmegaT-license.txt.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You may try to solve this problem in one of the following ways:</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Лера9764" changedate="20171030T181620Z" creationid="Лера9764" creationdate="20171030T181620Z">
+        <seg>Ви можете спробувати вирішити цю проблему одним із цих способів:</seg>
       </tuv>
     </tu>
     <tu>
