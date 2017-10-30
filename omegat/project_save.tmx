@@ -667,6 +667,22 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>An error occurred when saving the TMX.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="nessyk" changedate="20171030T172640Z" creationid="nessyk" creationdate="20171030T172640Z">
+        <seg>Виникла помилка при збереженні TMX.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>An item of the name "{0}" already exists at this location.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="nessyk" changedate="20171030T172552Z" creationid="nessyk" creationdate="20171030T172552Z">
+        <seg>Елемент з ім'ям "{0}" вже існує в цьому місці.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Appearance</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="nessyk" changedate="20171026T171629Z" creationid="nessyk" creationdate="20171026T171621Z">
@@ -867,6 +883,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Continue?</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="nessyk" changedate="20171030T172723Z" creationid="nessyk" creationdate="20171030T172723Z">
+        <seg>Продовжити?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Cop&amp;y Files to Source Folder...</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20170902T164810Z" creationid="Kos Ivantsov" creationdate="20170902T164735Z">
@@ -971,6 +995,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Do you want to overwrite it?</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="nessyk" changedate="20171030T172611Z" creationid="nessyk" creationdate="20171030T172611Z">
+        <seg>Ви хочете переписати його?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Documentation</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20170918T163109Z" creationid="Kos Ivantsov" creationdate="20170918T163109Z">
@@ -1063,6 +1095,14 @@
       </tuv>
       <tuv lang="UK-UA" changeid="nessyk" changedate="20171025T181828Z" creationid="nessyk" creationdate="20171025T181800Z">
         <seg>Редагувати URL-адресу зовнішнього пошуку</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Edit Text</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="nessyk" changedate="20171030T172739Z" creationid="nessyk" creationdate="20171030T172739Z">
+        <seg>Редагувати текст?</seg>
       </tuv>
     </tu>
     <tu>
@@ -2347,6 +2387,14 @@ in /lib/licenses/Licenses.txt.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20170902T145124Z" creationid="Kos Ivantsov" creationdate="20170902T145124Z">
         <seg>Так виглядатиме текст на екрані.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This will discard all changes you have made so far.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="nessyk" changedate="20171030T172715Z" creationid="nessyk" creationdate="20171030T172715Z">
+        <seg>Це відхилить всі внесені вами зміни до цього часу.</seg>
       </tuv>
     </tu>
     <tu>
