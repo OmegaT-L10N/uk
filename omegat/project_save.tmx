@@ -651,6 +651,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Add To Dictionary: “{0}”</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="nessyk" changedate="20171030T172409Z" creationid="nessyk" creationdate="20171030T172409Z">
+        <seg>Add To Dictionary: “{0}”</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>All preferences protected by the master password will be reset.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="nessyk" changedate="20171026T173252Z" creationid="nessyk" creationdate="20171026T173252Z">
@@ -1363,6 +1371,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>LanguageTool Issues</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="nessyk" changedate="20171030T172314Z" creationid="nessyk" creationdate="20171030T172314Z">
+        <seg>Проблеми з мовним інструментом</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Languages</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20170918T163047Z" creationid="Kos Ivantsov" creationdate="20170918T163047Z">
@@ -1946,6 +1962,14 @@ published by the Free Software Foundation, either version 3 of the License, or
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Save Alignment Results</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="nessyk" changedate="20171030T172439Z" creationid="nessyk" creationdate="20171030T172439Z">
+        <seg>Зберегти результати елайменту </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Saving project...</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20170902T184542Z" creationid="Kos Ivantsov" creationdate="20170902T184542Z">
@@ -2184,6 +2208,14 @@ The scope of a search is by default the project and can be set to be any files l
       </tuv>
       <tuv lang="UK-UA" changeid="nessyk" changedate="20171025T183221Z" creationid="nessyk" creationdate="20171025T183221Z">
         <seg>Зміст</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Tag Issues</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="nessyk" changedate="20171030T172347Z" creationid="nessyk" creationdate="20171030T172347Z">
+        <seg>Tag Issues</seg>
       </tuv>
     </tu>
     <tu>
