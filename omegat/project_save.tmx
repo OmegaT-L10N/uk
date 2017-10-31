@@ -134,6 +134,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Empty lines</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Лера9764" changedate="20171031T070233Z" creationid="Лера9764" creationdate="20171031T070233Z">
+        <seg>&amp;Порожні рядки</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;Exact search</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Лера9764" changedate="20171031T065953Z" creationid="Лера9764" creationdate="20171031T065953Z">
@@ -1813,6 +1821,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Line length:</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Лера9764" changedate="20171031T070247Z" creationid="Лера9764" creationdate="20171031T070247Z">
+        <seg>Довжина рядку:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Loading TMX files...</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20170905T224122Z" creationid="Kos Ivantsov" creationdate="20170905T224122Z">
@@ -1889,6 +1905,14 @@
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20170902T182822Z" creationid="Kos Ivantsov" creationdate="20170902T182822Z">
         <seg>Статистика збігів в окреми&amp;х файлах</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Maximum line length:</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Лера9764" changedate="20171031T070306Z" creationid="Лера9764" creationdate="20171031T070306Z">
+        <seg>Максимальна довжина рядку:</seg>
       </tuv>
     </tu>
     <tu>
