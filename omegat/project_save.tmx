@@ -1171,6 +1171,22 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Dictionar&amp;y</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Лера9764" changedate="20171031T065242Z" creationid="Лера9764" creationdate="20171031T065242Z">
+        <seg>Словни&amp;к</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Dictionary</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Лера9764" changedate="20171031T065247Z" creationid="Лера9764" creationdate="20171031T065247Z">
+        <seg>Словник</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Disable rule “{0}”</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="nessyk" changedate="20171030T171904Z" creationid="nessyk" creationdate="20171030T171904Z">
@@ -1461,8 +1477,16 @@
       <tuv lang="EN">
         <seg>Filename</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="briac" changedate="20171011T130105Z" creationid="briac" creationdate="20171011T130105Z">
-        <seg>Filename</seg>
+      <tuv lang="UK-UA" changeid="Лера9764" changedate="20171031T065344Z" creationid="briac" creationdate="20171011T130105Z">
+        <seg>Ім'я файлу</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Filter</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Лера9764" changedate="20171031T065327Z" creationid="Лера9764" creationdate="20171031T065327Z">
+        <seg>Фільтр</seg>
       </tuv>
     </tu>
     <tu>
@@ -1945,6 +1969,14 @@
       </tuv>
       <tuv lang="UK-UA" changeid="nessyk" changedate="20171025T175151Z" creationid="nessyk" creationdate="20171025T175151Z">
         <seg>Number of matching segments:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Number of unique segments</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Лера9764" changedate="20171031T065449Z" creationid="Лера9764" creationdate="20171031T065449Z">
+        <seg>Кількість унікальних сегментів</seg>
       </tuv>
     </tu>
     <tu>
@@ -2859,6 +2891,14 @@ in /lib/licenses/Licenses.txt.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="nessyk" changedate="20171030T172715Z" creationid="nessyk" creationdate="20171030T172715Z">
         <seg>Це відхилить всі внесені вами зміни до цього часу.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Total number of segments</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Лера9764" changedate="20171031T065422Z" creationid="Лера9764" creationdate="20171031T065422Z">
+        <seg>Загальна кількість сегментів</seg>
       </tuv>
     </tu>
     <tu>
