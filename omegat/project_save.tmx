@@ -424,8 +424,8 @@
       <tuv lang="EN">
         <seg>&amp;Segment Number...</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="nessyk" changedate="20171025T175031Z" creationid="nessyk" creationdate="20171025T175031Z">
-        <seg>&amp;Segment Number...</seg>
+      <tuv lang="UK-UA" changeid="Лера9764" changedate="20171031T065104Z" creationid="nessyk" creationdate="20171025T175031Z">
+        <seg>&amp;Номер сегменту...</seg>
       </tuv>
     </tu>
     <tu>
@@ -1491,6 +1491,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Glossary</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Лера9764" changedate="20171031T065228Z" creationid="Лера9764" creationdate="20171031T065228Z">
+        <seg>Глосарій</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Go To Segment</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20170902T184604Z" creationid="Kos Ivantsov" creationdate="20170902T184554Z">
@@ -1873,6 +1881,14 @@
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20170902T182615Z" creationid="Kos Ivantsov" creationdate="20170902T182615Z">
         <seg>&amp;Наступна примітка</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Next Uni&amp;que Segment</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Лера9764" changedate="20171031T065204Z" creationid="Лера9764" creationdate="20171031T065204Z">
+        <seg>Наступний уні&amp;кальний сегмент</seg>
       </tuv>
     </tu>
     <tu>
