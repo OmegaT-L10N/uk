@@ -1243,6 +1243,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Do you want to continue?</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Лера9764" changedate="20171031T070116Z" creationid="Лера9764" creationdate="20171031T070116Z">
+        <seg>Бажаєте продовжити?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Do you want to overwrite it?</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="nessyk" changedate="20171030T172611Z" creationid="nessyk" creationdate="20171030T172611Z">
@@ -1503,6 +1511,14 @@
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20170927T204643Z" creationid="Kos Ivantsov" creationdate="20170902T144719Z">
         <seg>Фільтри &amp;файлів…</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>File Format</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Лера9764" changedate="20171031T070155Z" creationid="Лера9764" creationdate="20171031T070155Z">
+        <seg>Формат файлу</seg>
       </tuv>
     </tu>
     <tu>
@@ -3109,6 +3125,14 @@ Exact searches match the whole search string.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20170902T182913Z" creationid="Kos Ivantsov" creationdate="20170902T182902Z">
         <seg>Використовувати TAB для пере&amp;ходу до наступного сегмента</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Version: {0}</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Лера9764" changedate="20171031T070128Z" creationid="Лера9764" creationdate="20171031T070128Z">
+        <seg>Версія: {0}</seg>
       </tuv>
     </tu>
     <tu>
