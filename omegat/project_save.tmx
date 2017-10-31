@@ -867,6 +867,22 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Characters (including spaces)</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Лера9764" changedate="20171031T065733Z" creationid="Лера9764" creationdate="20171031T065733Z">
+        <seg>Знаків (з пробілами)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Characters (without spaces)</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Лера9764" changedate="20171031T065721Z" creationid="Лера9764" creationdate="20171031T065721Z">
+        <seg>Знаків (без пробілів)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Check &amp;Issues...</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20170902T182709Z" creationid="Kos Ivantsov" creationdate="20170902T182709Z">
@@ -2540,6 +2556,14 @@ The scope of a search is by default the project and can be set to be any files l
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Segments</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Лера9764" changedate="20171031T065737Z" creationid="Лера9764" creationdate="20171031T065642Z">
+        <seg>Сегментів</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Select</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Лера9764" changedate="20171030T181409Z" creationid="Лера9764" creationdate="20171030T181409Z">
@@ -3099,8 +3123,8 @@ Exact searches match the whole search string.</seg>
       <tuv lang="EN">
         <seg>Words</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="Лера9764" changedate="20171025T175500Z" creationid="Лера9764" creationdate="20171025T175500Z">
-        <seg>Слова</seg>
+      <tuv lang="UK-UA" changeid="Лера9764" changedate="20171031T065802Z" creationid="Лера9764" creationdate="20171025T175500Z">
+        <seg>Слів</seg>
       </tuv>
     </tu>
     <tu>
