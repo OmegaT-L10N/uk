@@ -134,6 +134,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Exact search</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Лера9764" changedate="20171031T065953Z" creationid="Лера9764" creationdate="20171031T065953Z">
+        <seg>&amp;Точний пошук</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;File</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20170427T120329Z" creationid="Kos Ivantsov" creationdate="20170427T120329Z">
@@ -1123,6 +1131,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Create New Project</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Лера9764" changedate="20171031T065812Z" creationid="Лера9764" creationdate="20171031T065812Z">
+        <seg>Створити новий проект</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Creating translated documents: {0}</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20170905T224143Z" creationid="Kos Ivantsov" creationdate="20170905T224143Z">
@@ -1295,6 +1311,14 @@
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20170902T184623Z" creationid="Kos Ivantsov" creationdate="20170902T184623Z">
         <seg>Повтори сегмента: {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>ERROR: {0}</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Лера9764" changedate="20171031T065935Z" creationid="Лера9764" creationdate="20171031T065935Z">
+        <seg>ПОМИЛКА: {0}</seg>
       </tuv>
     </tu>
     <tu>
@@ -2070,6 +2094,14 @@ published by the Free Software Foundation, either version 3 of the License, or
       </tuv>
       <tuv lang="UK-UA" changeid="Лера9764" changedate="20171030T193551Z" creationid="Лера9764" creationdate="20171030T193551Z">
         <seg>Відкрити MED Проект...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Open Project</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Лера9764" changedate="20171031T065819Z" creationid="Лера9764" creationdate="20171031T065819Z">
+        <seg>Відкрити проект</seg>
       </tuv>
     </tu>
     <tu>
