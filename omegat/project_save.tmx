@@ -995,6 +995,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Clo&amp;se</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Маринка" changedate="20171101T205711Z" creationid="Маринка" creationdate="20171101T205711Z">
+        <seg>Clo&amp;se</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Close</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="nessyk" changedate="20171025T180358Z" creationid="nessyk" creationdate="20171025T180358Z">
@@ -1731,6 +1739,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Filter:</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Маринка" changedate="20171101T205706Z" creationid="Маринка" creationdate="20171101T205647Z">
+        <seg>Фільтер:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Filters...</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="nessyk" changedate="20171101T183829Z" creationid="nessyk" creationdate="20171101T183829Z">
@@ -2175,8 +2191,16 @@
       <tuv lang="EN">
         <seg>Move &amp;First</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="Маринка" changedate="20171101T205520Z" creationid="Маринка" creationdate="20171101T205520Z">
-        <seg>Вернутися до першого</seg>
+      <tuv lang="UK-UA" changeid="Маринка" changedate="20171101T205653Z" creationid="Маринка" creationdate="20171101T205520Z">
+        <seg>Перейти до першого</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Move &amp;Last</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Маринка" changedate="20171101T205645Z" creationid="Маринка" creationdate="20171101T205536Z">
+        <seg>Перейти до останнього</seg>
       </tuv>
     </tu>
     <tu>
@@ -2414,6 +2438,22 @@ published by the Free Software Foundation, either version 3 of the License, or
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20170902T164647Z" creationid="Kos Ivantsov" creationdate="20170902T164647Z">
         <seg>Відкрити &amp;недавній проект</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Open Source File</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Маринка" changedate="20171101T205721Z" creationid="Маринка" creationdate="20171101T205721Z">
+        <seg>Відкрити вихідний файл</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Open {0} Source Files</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Маринка" changedate="20171101T205932Z" creationid="Маринка" creationdate="20171101T205745Z">
+        <seg>Відкрити {0} вихідні файли</seg>
       </tuv>
     </tu>
     <tu>
@@ -3521,6 +3561,14 @@ Exact searches match the whole search string.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Unique segments</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Маринка" changedate="20171101T205548Z" creationid="Маринка" creationdate="20171101T205548Z">
+        <seg>Унікальні сегменти</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Untranslated segments &amp;only</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="nessyk" changedate="20171026T133048Z" creationid="nessyk" creationdate="20171026T133048Z">
@@ -3605,6 +3653,16 @@ Exact searches match the whole search string.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Лера9764" changedate="20171031T065802Z" creationid="Лера9764" creationdate="20171025T175500Z">
         <seg>Слів</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You can find detailed statistic information in the file:
+{0}</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Маринка" changedate="20171101T205621Z" creationid="Маринка" creationdate="20171101T205621Z">
+        <seg>Ви можете знайти деталізовану інформацію про статистуику у файлі:
+{0}</seg>
       </tuv>
     </tu>
     <tu>
