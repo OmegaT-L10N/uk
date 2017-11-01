@@ -1603,6 +1603,22 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Error creating project!</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Маринка" changedate="20171101T214932Z" creationid="Маринка" creationdate="20171101T214932Z">
+        <seg>Помилка у створенні файлу!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Error saving project file!</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Маринка" changedate="20171101T214921Z" creationid="Маринка" creationdate="20171101T214921Z">
+        <seg>Помилка у збереженні файлу!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Error while trying to edit the project!</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20170902T184519Z" creationid="Kos Ivantsov" creationdate="20170902T184519Z">
@@ -1671,6 +1687,14 @@
       </tuv>
       <tuv lang="UK-UA" changeid="Маринка" changedate="20171026T191532Z" creationid="Маринка" creationdate="20171026T191532Z">
         <seg>Не вдалося завантажити пам'ять перекладу {0} для проекта!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Fatal error encountered - saving project file with '.recover' backup extension.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Маринка" changedate="20171101T214955Z" creationid="Маринка" creationdate="20171101T214955Z">
+        <seg>Fatal error encountered - saving project file with '.recover' backup extension.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2081,6 +2105,22 @@
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20170905T224122Z" creationid="Kos Ivantsov" creationdate="20170905T224122Z">
         <seg>Завантаження файлів TMX…</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Loading glossaries</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Маринка" changedate="20171101T214906Z" creationid="Маринка" creationdate="20171101T214906Z">
+        <seg>Завантаження глосаріїв</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Loading project...</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Маринка" changedate="20171101T214849Z" creationid="Маринка" creationdate="20171101T214849Z">
+        <seg>Завантаження проекту...</seg>
       </tuv>
     </tu>
     <tu>
@@ -2582,6 +2622,18 @@ published by the Free Software Foundation, either version 3 of the License, or
       </tuv>
       <tuv lang="UK-UA" changeid="nessyk" changedate="20171101T184144Z" creationid="nessyk" creationdate="20171101T184017Z">
         <seg>Цільовий елаймент (вирівнювання): оберіть відповідну комірку</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Please consult the documentation about your recovery options and
+return the information below to the software manufacturer with
+a description of how this error was produced.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Маринка" changedate="20171101T215118Z" creationid="Маринка" creationdate="20171101T215118Z">
+        <seg>Будь ласка, ознайомтеся з документацією про параметри відновлення та
+надайте  виробнику програмного забезпечення
+опис того, як ця помилка була здійснена.</seg>
       </tuv>
     </tu>
     <tu>
