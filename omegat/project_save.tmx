@@ -1079,6 +1079,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Committing source files</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Маринка" changedate="20171101T205016Z" creationid="Маринка" creationdate="20171101T205016Z">
+        <seg>Підключення до вихідних файлів</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Comparison Mode:</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="nessyk" changedate="20171101T183752Z" creationid="nessyk" creationdate="20171101T183752Z">
@@ -1591,6 +1599,14 @@
       </tuv>
       <tuv lang="UK-UA" changeid="Маринка" changedate="20171101T204720Z" creationid="Маринка" creationdate="20171101T204720Z">
         <seg>Не вдалося підключитися до вихідного файлу!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Failed to commit target files!</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Маринка" changedate="20171101T204823Z" creationid="Маринка" creationdate="20171101T204823Z">
+        <seg>Не вдалося підключитися до цільових файлів!!</seg>
       </tuv>
     </tu>
     <tu>
