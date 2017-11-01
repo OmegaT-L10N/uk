@@ -811,6 +811,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Align</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="nessyk" changedate="20171101T183635Z" creationid="nessyk" creationdate="20171101T183635Z">
+        <seg>Елаймент(вирівнювання)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>All</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="nessyk" changedate="20171030T174312Z" creationid="nessyk" creationdate="20171030T174312Z">
@@ -1539,6 +1547,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>File Filters...</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="nessyk" changedate="20171101T183615Z" creationid="nessyk" creationdate="20171101T183615Z">
+        <seg>Фільтри файлів...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>File Format</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Лера9764" changedate="20171031T070155Z" creationid="Лера9764" creationdate="20171031T070155Z">
@@ -1623,6 +1639,14 @@
       </tuv>
       <tuv lang="UK-UA" changeid="nessyk" changedate="20171030T173252Z" creationid="nessyk" creationdate="20171030T173252Z">
         <seg>Heapwise</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Highlight</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="nessyk" changedate="20171101T183535Z" creationid="nessyk" creationdate="20171101T183535Z">
+        <seg>Highlight</seg>
       </tuv>
     </tu>
     <tu>
@@ -2410,6 +2434,14 @@ published by the Free Software Foundation, either version 3 of the License, or
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Remove Tags</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="nessyk" changedate="20171101T183543Z" creationid="nessyk" creationdate="20171101T183543Z">
+        <seg>Вилучити теги</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Remove translation</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20170418T175830Z" creationid="Kos Ivantsov" creationdate="20170418T175830Z">
@@ -2640,6 +2672,14 @@ The scope of a search is by default the project and can be set to be any files l
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20170902T184729Z" creationid="Kos Ivantsov" creationdate="20170902T184729Z">
         <seg>Сегмент {0,номер,#}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Segmentation Rules...</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="nessyk" changedate="20171101T183558Z" creationid="nessyk" creationdate="20171101T183558Z">
+        <seg>Правила сегментації..</seg>
       </tuv>
     </tu>
     <tu>
@@ -3173,6 +3213,14 @@ Exact searches match the whole search string.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Лера9764" changedate="20171031T070128Z" creationid="Лера9764" creationdate="20171031T070128Z">
         <seg>Версія: {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>View</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="nessyk" changedate="20171101T183533Z" creationid="nessyk" creationdate="20171101T183533Z">
+        <seg>View</seg>
       </tuv>
     </tu>
     <tu>
