@@ -1087,6 +1087,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Committing target files</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Маринка" changedate="20171101T205104Z" creationid="Маринка" creationdate="20171101T205104Z">
+        <seg>Підключення до цільових файлів</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Comparison Mode:</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="nessyk" changedate="20171101T183752Z" creationid="nessyk" creationdate="20171101T183752Z">
@@ -1547,6 +1555,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Enter the segment number:</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Маринка" changedate="20171101T205136Z" creationid="Маринка" creationdate="20171101T205136Z">
+        <seg>Введіть номер сегмента:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Enter your master password.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="nessyk" changedate="20171026T180349Z" creationid="nessyk" creationdate="20171026T180349Z">
@@ -1671,6 +1687,14 @@
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20170427T115657Z" creationid="Kos Ivantsov" creationdate="20170427T115657Z">
         <seg>Файл {0}: {1}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>File: translated / number of segments (project: unique translated / unique, total number of segments)</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Маринка" changedate="20171101T205345Z" creationid="Маринка" creationdate="20171101T205345Z">
+        <seg>Файл: перекладений / кількість сегментів (проект: унікально перекладені / унікальна, загальна кількість oсегментів</seg>
       </tuv>
     </tu>
     <tu>
@@ -2113,6 +2137,14 @@
       </tuv>
       <tuv lang="UK-UA" changeid="nessyk" changedate="20171025T180622Z" creationid="nessyk" creationdate="20171025T180622Z">
         <seg>Об'єднати </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>More</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Маринка" changedate="20171101T205146Z" creationid="Маринка" creationdate="20171101T205146Z">
+        <seg>Більше</seg>
       </tuv>
     </tu>
     <tu>
@@ -3060,6 +3092,14 @@ The scope of a search is by default the project and can be set to be any files l
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Source files committed</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Маринка" changedate="20171101T205031Z" creationid="Маринка" creationdate="20171101T205031Z">
+        <seg>Вихідні файли підключені</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Source/translation lengths (characters)</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20170902T144859Z" creationid="Kos Ivantsov" creationdate="20170902T144859Z">
@@ -3168,6 +3208,14 @@ The scope of a search is by default the project and can be set to be any files l
       </tuv>
       <tuv lang="UK-UA" changeid="nessyk" changedate="20171025T182740Z" creationid="nessyk" creationdate="20171025T182740Z">
         <seg>Об'єкт</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Target files committed</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Маринка" changedate="20171101T205115Z" creationid="Маринка" creationdate="20171101T205115Z">
+        <seg>Цільові файли підключені</seg>
       </tuv>
     </tu>
     <tu>
