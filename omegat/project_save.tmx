@@ -1587,6 +1587,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Failed to commit source files!</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Маринка" changedate="20171101T204720Z" creationid="Маринка" creationdate="20171101T204720Z">
+        <seg>Не вдалося підключитися до вихідного файлу!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Failed to compile project files!</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Маринка" changedate="20171026T191647Z" creationid="Маринка" creationdate="20171026T191647Z">
@@ -2382,6 +2390,14 @@ published by the Free Software Foundation, either version 3 of the License, or
       </tuv>
       <tuv lang="UK-UA" changeid="nessyk" changedate="20171101T184144Z" creationid="nessyk" creationdate="20171101T184017Z">
         <seg>Цільовий елаймент (вирівнювання): оберіть відповідну комірку</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Please correct the tag issues before using again Create Translated Documents.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Маринка" changedate="20171101T204507Z" creationid="Маринка" creationdate="20171101T204507Z">
+        <seg>Будь ласка, виправте проблеми із тегами перед використанням  "Створення перекладених документів".</seg>
       </tuv>
     </tu>
     <tu>
