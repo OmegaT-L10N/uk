@@ -1675,6 +1675,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Failed to create project!</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Маринка" changedate="20171101T215310Z" creationid="Маринка" creationdate="20171101T215310Z">
+        <seg>Не вдалося створити проект!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Failed to load specified project!</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Маринка" changedate="20171026T191556Z" creationid="Маринка" creationdate="20171026T191556Z">
@@ -1783,6 +1791,14 @@
       </tuv>
       <tuv lang="UK-UA" changeid="nessyk" changedate="20171101T183829Z" creationid="nessyk" creationdate="20171101T183829Z">
         <seg>Фільтри...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Folder {0} was automatically created for team mode project</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Маринка" changedate="20171101T215200Z" creationid="Маринка" creationdate="20171101T215200Z">
+        <seg>Папка {0} була автоматично створена для проекту командного режиму</seg>
       </tuv>
     </tu>
     <tu>
@@ -2710,6 +2726,14 @@ a description of how this error was produced.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Problem encountered loading project file!</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Маринка" changedate="20171101T215338Z" creationid="Маринка" creationdate="20171101T215338Z">
+        <seg>Проблема виникла при завантаженні файлу проекта!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Project &amp;Files...</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Лера9764" changedate="20171030T193612Z" creationid="Лера9764" creationdate="20171030T193612Z">
@@ -3288,6 +3312,14 @@ The scope of a search is by default the project and can be set to be any files l
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Source file loading complete</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Маринка" changedate="20171101T215226Z" creationid="Маринка" creationdate="20171101T215226Z">
+        <seg>Завантаження вихідних файлів здійснено</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Source files committed</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Маринка" changedate="20171101T205031Z" creationid="Маринка" creationdate="20171101T205031Z">
@@ -3665,6 +3697,14 @@ Exact searches match the whole search string.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="nessyk" changedate="20171025T182517Z" creationid="nessyk" creationdate="20171025T182517Z">
         <seg>URL-адреси</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Unable to build new TMX file!</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Маринка" changedate="20171101T215246Z" creationid="Маринка" creationdate="20171101T215246Z">
+        <seg>Не вдається створити новий файл TMX!</seg>
       </tuv>
     </tu>
     <tu>
