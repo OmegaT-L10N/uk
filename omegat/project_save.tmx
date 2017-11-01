@@ -1299,6 +1299,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Distance</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="nessyk" changedate="20171101T184230Z" creationid="nessyk" creationdate="20171101T184211Z">
+        <seg>Відстань</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Do you really want to quit?</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20170902T144828Z" creationid="Kos Ivantsov" creationdate="20170902T144828Z">
@@ -1867,6 +1875,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Keep</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="nessyk" changedate="20171101T184213Z" creationid="nessyk" creationdate="20171101T184213Z">
+        <seg>Keep</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>L&amp;og...</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20170902T183914Z" creationid="Kos Ivantsov" creationdate="20170902T183356Z">
@@ -2306,6 +2322,14 @@ published by the Free Software Foundation, either version 3 of the License, or
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Pinpoint Align: Select corresponding cell</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="nessyk" changedate="20171101T184144Z" creationid="nessyk" creationdate="20171101T184017Z">
+        <seg>Цільовий елаймент (вирівнювання): оберіть відповідну комірку</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Please double-check.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="nessyk" changedate="20171026T180816Z" creationid="nessyk" creationdate="20171026T180816Z">
@@ -2566,6 +2590,14 @@ published by the Free Software Foundation, either version 3 of the License, or
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20170902T163530Z" creationid="Kos Ivantsov" creationdate="20170902T163530Z">
         <seg>Відновити &amp;стандартні налаштування</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Row</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="nessyk" changedate="20171101T184210Z" creationid="nessyk" creationdate="20171101T184140Z">
+        <seg>Рядок</seg>
       </tuv>
     </tu>
     <tu>
@@ -2982,8 +3014,16 @@ The scope of a search is by default the project and can be set to be any files l
       <tuv lang="EN">
         <seg>Step 1: Adjust alignment parameters</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="nessyk" changedate="20171101T183906Z" creationid="nessyk" creationdate="20171101T183906Z">
-        <seg>Step 1: Adjust alignment parameters</seg>
+      <tuv lang="UK-UA" changeid="nessyk" changedate="20171101T183953Z" creationid="nessyk" creationdate="20171101T183906Z">
+        <seg>Крок 1. Налаштуйте параметри елайменту (вирівнювання)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Step 2: Make manual corrections</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="nessyk" changedate="20171101T184022Z" creationid="nessyk" creationdate="20171101T184016Z">
+        <seg>Крок 2. Виконайте коригування вручну </seg>
       </tuv>
     </tu>
     <tu>
