@@ -907,6 +907,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Cancel Pinpoint Align</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="nessyk" changedate="20171101T185050Z" creationid="nessyk" creationdate="20171101T185032Z">
+        <seg>Відмінити ціловий елаймент (вирівнювання)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Character</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="nessyk" changedate="20171030T173810Z" creationid="nessyk" creationdate="20171030T173648Z">
@@ -1515,6 +1523,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>End Pinpoint Align</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="nessyk" changedate="20171101T185023Z" creationid="nessyk" creationdate="20171101T185023Z">
+        <seg>Закінчити ціловий елаймент (вирівнювання)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>English</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Лера9764" changedate="20171025T175944Z" creationid="Лера9764" creationdate="20171025T175944Z">
@@ -1719,6 +1735,14 @@
       </tuv>
       <tuv lang="UK-UA" changeid="nessyk" changedate="20171101T183843Z" creationid="nessyk" creationdate="20171101T183535Z">
         <seg>Виділення</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Highlight Pattern...</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="nessyk" changedate="20171101T185114Z" creationid="nessyk" creationdate="20171101T185114Z">
+        <seg>Виділеннний шаблон...</seg>
       </tuv>
     </tu>
     <tu>
@@ -3060,6 +3084,14 @@ The scope of a search is by default the project and can be set to be any files l
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Start Pinpoint Align</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="nessyk" changedate="20171101T185005Z" creationid="nessyk" creationdate="20171101T185005Z">
+        <seg>Почати цільвий елаймент (вирівнювання)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Step 1: Adjust alignment parameters</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="nessyk" changedate="20171101T183953Z" creationid="nessyk" creationdate="20171101T183906Z">
@@ -3403,8 +3435,8 @@ Exact searches match the whole search string.</seg>
       <tuv lang="EN">
         <seg>View</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="nessyk" changedate="20171101T183533Z" creationid="nessyk" creationdate="20171101T183533Z">
-        <seg>View</seg>
+      <tuv lang="UK-UA" changeid="nessyk" changedate="20171101T185055Z" creationid="nessyk" creationdate="20171101T183533Z">
+        <seg>Вид</seg>
       </tuv>
     </tu>
     <tu>
