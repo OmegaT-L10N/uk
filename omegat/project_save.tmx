@@ -54,6 +54,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Apply this font to tabular data (project files, statistics, etc.)</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Маринка" changedate="20171101T205449Z" creationid="Маринка" creationdate="20171101T205449Z">
+        <seg>&amp;Застосувати цей шрифт до табличних даних (файли проекту, статистики тощо).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;Automatically fetch translations</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="nessyk" changedate="20171026T174759Z" creationid="nessyk" creationdate="20171026T174732Z">
@@ -1699,6 +1707,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>File: unique translated % (unique left) / project: unique translated % (unique left), total number of segments</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Маринка" changedate="20171101T205404Z" creationid="Маринка" creationdate="20171101T205404Z">
+        <seg>Файл: unique translated % (unique left) / project: unique translated % (unique left), total number of segments</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Filename</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Лера9764" changedate="20171031T065344Z" creationid="briac" creationdate="20171011T130105Z">
@@ -2145,6 +2161,30 @@
       </tuv>
       <tuv lang="UK-UA" changeid="Маринка" changedate="20171101T205146Z" creationid="Маринка" creationdate="20171101T205146Z">
         <seg>Більше</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Move &amp;Down</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Маринка" changedate="20171101T205533Z" creationid="Маринка" creationdate="20171101T205533Z">
+        <seg>Вниз</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Move &amp;First</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Маринка" changedate="20171101T205520Z" creationid="Маринка" creationdate="20171101T205520Z">
+        <seg>Вернутися до першого</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Move &amp;Up</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Маринка" changedate="20171101T205525Z" creationid="Маринка" creationdate="20171101T205525Z">
+        <seg>Вверх</seg>
       </tuv>
     </tu>
     <tu>
