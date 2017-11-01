@@ -2450,10 +2450,58 @@ published by the Free Software Foundation, either version 3 of the License, or
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Open Source File Location</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Маринка" changedate="20171101T205959Z" creationid="Маринка" creationdate="20171101T205959Z">
+        <seg>Відрити папку вихідного файлу</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Open Target File</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Маринка" changedate="20171101T210040Z" creationid="Маринка" creationdate="20171101T210040Z">
+        <seg>Відрити цільовий файл</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Open Target File Location</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Маринка" changedate="20171101T210104Z" creationid="Маринка" creationdate="20171101T210104Z">
+        <seg>Відкрити папку цільового файлу</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Open {0} Source Files</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Маринка" changedate="20171101T205932Z" creationid="Маринка" creationdate="20171101T205745Z">
         <seg>Відкрити {0} вихідні файли</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Open {0} Source Files' Locations</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Маринка" changedate="20171101T210023Z" creationid="Маринка" creationdate="20171101T210023Z">
+        <seg>Відкрити {0} папки вихідних файлів</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Open {0} Target Files</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Маринка" changedate="20171101T210052Z" creationid="Маринка" creationdate="20171101T210052Z">
+        <seg>Відкрити {0} цільовий файл</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Open {0} Target Files' Locations</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Маринка" changedate="20171101T210129Z" creationid="Маринка" creationdate="20171101T210129Z">
+        <seg>Відкрити {0} папки цільових файлів</seg>
       </tuv>
     </tu>
     <tu>
