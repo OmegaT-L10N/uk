@@ -811,6 +811,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Algorithm:</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="nessyk" changedate="20171101T183641Z" creationid="nessyk" creationdate="20171101T183641Z">
+        <seg>Алгоритм:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Align</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="nessyk" changedate="20171101T183635Z" creationid="nessyk" creationdate="20171101T183635Z">
@@ -871,6 +879,22 @@
       </tuv>
       <tuv lang="UK-UA" changeid="nessyk" changedate="20171026T180502Z" creationid="nessyk" creationdate="20171026T173158Z">
         <seg>Ви впевнені, що хочете скинути майстер-пароль?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Average Score: {0}</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="nessyk" changedate="20171101T183807Z" creationid="nessyk" creationdate="20171101T183807Z">
+        <seg>Середній бал: {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Calculator:</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="nessyk" changedate="20171101T183719Z" creationid="nessyk" creationdate="20171101T183719Z">
+        <seg>Калькулятор:</seg>
       </tuv>
     </tu>
     <tu>
@@ -1039,6 +1063,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Comparison Mode:</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="nessyk" changedate="20171101T183752Z" creationid="nessyk" creationdate="20171101T183752Z">
+        <seg>Режим порівняння:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Con&amp;figure</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="nessyk" changedate="20171026T174741Z" creationid="nessyk" creationdate="20171025T190225Z">
@@ -1091,6 +1123,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Continue</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="nessyk" changedate="20171101T183913Z" creationid="nessyk" creationdate="20171101T183905Z">
+        <seg>Продовжити</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Continue anyway?</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="nessyk" changedate="20171030T173239Z" creationid="nessyk" creationdate="20171030T173239Z">
@@ -1127,6 +1167,14 @@
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20170902T164818Z" creationid="Kos Ivantsov" creationdate="20170902T164802Z">
         <seg>Скопіювати документи до теки з файлами оригіналу...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Counter:</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="nessyk" changedate="20171101T183737Z" creationid="nessyk" creationdate="20171101T183737Z">
+        <seg>Лічильник:</seg>
       </tuv>
     </tu>
     <tu>
@@ -1587,6 +1635,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Filters...</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="nessyk" changedate="20171101T183829Z" creationid="nessyk" creationdate="20171101T183829Z">
+        <seg>Фільтри...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Font</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20170427T115535Z" creationid="Kos Ivantsov" creationdate="20170427T115535Z">
@@ -1645,8 +1701,8 @@
       <tuv lang="EN">
         <seg>Highlight</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="nessyk" changedate="20171101T183535Z" creationid="nessyk" creationdate="20171101T183535Z">
-        <seg>Highlight</seg>
+      <tuv lang="UK-UA" changeid="nessyk" changedate="20171101T183843Z" creationid="nessyk" creationdate="20171101T183535Z">
+        <seg>Виділення</seg>
       </tuv>
     </tu>
     <tu>
@@ -2242,6 +2298,14 @@ published by the Free Software Foundation, either version 3 of the License, or
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Pattern...</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="nessyk" changedate="20171101T183850Z" creationid="nessyk" creationdate="20171101T183850Z">
+        <seg>Шаблон...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Please double-check.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="nessyk" changedate="20171026T180816Z" creationid="nessyk" creationdate="20171026T180816Z">
@@ -2506,6 +2570,14 @@ published by the Free Software Foundation, either version 3 of the License, or
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Rules...</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="nessyk" changedate="20171101T183822Z" creationid="nessyk" creationdate="20171101T183813Z">
+        <seg>Правила...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Russian</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Лера9764" changedate="20171025T180017Z" creationid="Лера9764" creationdate="20171025T180017Z">
@@ -2534,6 +2606,14 @@ published by the Free Software Foundation, either version 3 of the License, or
       </tuv>
       <tuv lang="UK-UA" changeid="nessyk" changedate="20171030T172439Z" creationid="nessyk" creationdate="20171030T172439Z">
         <seg>Зберегти результати елайменту </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Save TMX...</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="nessyk" changedate="20171101T183901Z" creationid="nessyk" creationdate="20171101T183901Z">
+        <seg>ЗберегтиTMX...</seg>
       </tuv>
     </tu>
     <tu>
@@ -2896,6 +2976,14 @@ The scope of a search is by default the project and can be set to be any files l
       </tuv>
       <tuv lang="UK-UA" changeid="nessyk" changedate="20171030T172839Z" creationid="nessyk" creationdate="20171030T172839Z">
         <seg>Розділити текст</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Step 1: Adjust alignment parameters</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="nessyk" changedate="20171101T183906Z" creationid="nessyk" creationdate="20171101T183906Z">
+        <seg>Step 1: Adjust alignment parameters</seg>
       </tuv>
     </tu>
     <tu>
@@ -3415,6 +3503,22 @@ Exact searches match the whole search string.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20170413T160328Z" creationid="TranslatorOne" creationdate="20170413T160215Z">
         <seg>{0}_{1}_{2}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>▲</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="nessyk" changedate="20171101T183810Z" creationid="nessyk" creationdate="20171101T183810Z">
+        <seg>▲</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>▼</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="nessyk" changedate="20171101T183812Z" creationid="nessyk" creationdate="20171101T183812Z">
+        <seg>▼</seg>
       </tuv>
     </tu>
 <!-- Alternative translations -->
