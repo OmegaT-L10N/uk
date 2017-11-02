@@ -270,6 +270,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Leave the segment empty</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Лера9764" changedate="20171102T163321Z" creationid="Лера9764" creationdate="20171102T163321Z">
+        <seg>&amp;Залишити сегмент порожнім</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;Match Statistics</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20170902T182741Z" creationid="Kos Ivantsov" creationdate="20170902T182734Z">
@@ -1543,6 +1551,14 @@
       </tuv>
       <tuv lang="UK-UA" changeid="nessyk" changedate="20171030T172739Z" creationid="nessyk" creationdate="20171030T172739Z">
         <seg>Редагувати текст?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Editor</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Лера9764" changedate="20171102T163251Z" creationid="Лера9764" creationdate="20171102T163251Z">
+        <seg>Вікно редагування</seg>
       </tuv>
     </tu>
     <tu>
@@ -3833,6 +3849,14 @@ Exact searches match the whole search string.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="nessyk" changedate="20171101T185055Z" creationid="nessyk" creationdate="20171101T183533Z">
         <seg>Вид</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>View Options</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Лера9764" changedate="20171102T163405Z" creationid="Лера9764" creationdate="20171102T163405Z">
+        <seg>Перегляд налаштувань</seg>
       </tuv>
     </tu>
     <tu>
