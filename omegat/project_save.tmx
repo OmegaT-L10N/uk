@@ -3979,6 +3979,14 @@ Exact searches match the whole search string.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>You may also copy the files to your project's 'source' folder using your favorite file manager and reload the project by calling Reload from the Project menu.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Лера9764" changedate="20171102T184912Z" creationid="Лера9764" creationdate="20171102T184912Z">
+        <seg>Ви також можете скопіювати файли в папку "source" вашого проекту за допомогою вашого улюбленого менеджера файлів і перезавантажувати проект, вибравши "Перезавантажити" в меню "Проект".</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>You may try to solve this problem in one of the following ways:</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Лера9764" changedate="20171030T181620Z" creationid="Лера9764" creationdate="20171030T181620Z">
