@@ -1693,6 +1693,14 @@ To add files to the project, click on the Copy Files to Source Folder... button 
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Exact &amp;match</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Лера9764" changedate="20171102T191805Z" creationid="Лера9764" creationdate="20171102T191805Z">
+        <seg>Точний&amp;збіг</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>External Search</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="nessyk" changedate="20171025T183444Z" creationid="nessyk" creationdate="20171025T183444Z">
@@ -3274,10 +3282,34 @@ The scope of a search is by default the project and can be set to be any files l
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Select &amp;Next Match</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Лера9764" changedate="20171102T185405Z" creationid="Лера9764" creationdate="20171102T185405Z">
+        <seg>Вибрати &amp;наступний збіг</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Select &amp;Previous Match</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Лера9764" changedate="20171102T185417Z" creationid="Лера9764" creationdate="20171102T185417Z">
+        <seg>Вибрати &amp;попередній збіг</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Select Issue Types</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="nessyk" changedate="20171026T175844Z" creationid="nessyk" creationdate="20171026T175844Z">
         <seg>Обрати тип проблеми</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Select Mat&amp;ch</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Лера9764" changedate="20171102T185345Z" creationid="Лера9764" creationdate="20171102T185345Z">
+        <seg>Вибрати збі&amp;г</seg>
       </tuv>
     </tu>
     <tu>
