@@ -3913,6 +3913,14 @@ Exact searches match the whole search string.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>href (URL of &amp;links)</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Лера9764" changedate="20171102T161350Z" creationid="Лера9764" creationdate="20171102T161350Z">
+        <seg>href (URL &amp;посилання)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>http://tech.groups.yahoo.com/group/OmegaT/</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20170902T154027Z" creationid="Kos Ivantsov" creationdate="20170902T154027Z">
@@ -3933,6 +3941,14 @@ Exact searches match the whole search string.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20170902T144944Z" creationid="Kos Ivantsov" creationdate="20170902T144944Z">
         <seg>сегмент 0000</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>src (URL of &amp;images)</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Лера9764" changedate="20171102T161334Z" creationid="Лера9764" creationdate="20171102T161334Z">
+        <seg>src (URL &amp;зображення)</seg>
       </tuv>
     </tu>
     <tu>
