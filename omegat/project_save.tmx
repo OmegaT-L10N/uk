@@ -1843,6 +1843,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>German</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Лера9764" changedate="20171102T163146Z" creationid="Лера9764" creationdate="20171102T163146Z">
+        <seg>Німецька</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Glossary</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Лера9764" changedate="20171031T065228Z" creationid="Лера9764" creationdate="20171031T065228Z">
@@ -2015,6 +2023,14 @@
       </tuv>
       <tuv lang="UK-UA" changeid="Маринка" changedate="20171026T191716Z" creationid="Маринка" creationdate="20171026T191716Z">
         <seg>Не вдалося створити перекладені документи, оскільки деякі теги відсутні або пошкоджені.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Italian</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Лера9764" changedate="20171102T163154Z" creationid="Лера9764" creationdate="20171102T163154Z">
+        <seg>Італійська</seg>
       </tuv>
     </tu>
     <tu>
@@ -2722,6 +2738,14 @@ a description of how this error was produced.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="nessyk" changedate="20171030T173645Z" creationid="nessyk" creationdate="20171030T173645Z">
         <seg>Poisson</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Polish</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Лера9764" changedate="20171102T163202Z" creationid="Лера9764" creationdate="20171102T163202Z">
+        <seg>Польська</seg>
       </tuv>
     </tu>
     <tu>
