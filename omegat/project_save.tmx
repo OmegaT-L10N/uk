@@ -835,6 +835,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Add To Dictionary</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Лера9764" changedate="20171102T164221Z" creationid="Лера9764" creationdate="20171102T164221Z">
+        <seg>Додати до словника</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Add To Dictionary: “{0}”</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="nessyk" changedate="20171030T174458Z" creationid="nessyk" creationdate="20171030T172409Z">
@@ -3719,6 +3727,14 @@ in /lib/licenses/Licenses.txt.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20170902T145016Z" creationid="Kos Ivantsov" creationdate="20170902T145016Z">
         <seg>Переклад востаннє змінений користувачем {0}, {1} о {2}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Translation:</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Лера9764" changedate="20171102T164145Z" creationid="Лера9764" creationdate="20171102T164145Z">
+        <seg>Переклад:</seg>
       </tuv>
     </tu>
     <tu>
