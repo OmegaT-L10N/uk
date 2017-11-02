@@ -550,6 +550,16 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>(In the user's manual, see 'Files to translate' &gt; 'File formats' for a list of supported file formats.)
+To add files to the project, click on the Copy Files to Source Folder... button in the Project Files window or call this action from the Project menu and select the source files you want to copy.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Лера9764" changedate="20171102T184657Z" creationid="Лера9764" creationdate="20171102T184657Z">
+        <seg>(У посібнику користувача дивіться "Файли для перекладу"&gt; "Формати файлів" для списку підтримуваних форматів файлів.)
+Щоб додати файли до проекту, натисність Скопіювати файли до Кореневої папки... в вікні Файли проекту або виконайте ці дії в меню "Проект" та виберіть вихідні файли, які потрібно скопіювати.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>,</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="nessyk" changedate="20171030T172110Z" creationid="nessyk" creationdate="20171030T172110Z">
@@ -3989,6 +3999,14 @@ Exact searches match the whole search string.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="nessyk" changedate="20171026T180144Z" creationid="nessyk" creationdate="20171026T180144Z">
         <seg>Вам буде запропоновано ввести цей пароль кожного разу, коли ви запускаєте OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Your project does not contain any files in a supported file format.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Лера9764" changedate="20171102T184130Z" creationid="Лера9764" creationdate="20171102T184130Z">
+        <seg>Формат файлів вашого проекту не підтримується.</seg>
       </tuv>
     </tu>
     <tu>
