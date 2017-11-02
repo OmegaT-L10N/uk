@@ -877,6 +877,14 @@ To add files to the project, click on the Copy Files to Source Folder... button 
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Align Files</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="nessyk" changedate="20171102T210110Z" creationid="nessyk" creationdate="20171102T210110Z">
+        <seg>Align Files</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>All</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="nessyk" changedate="20171030T174312Z" creationid="nessyk" creationdate="20171030T174312Z">
@@ -1173,6 +1181,14 @@ To add files to the project, click on the Copy Files to Source Folder... button 
         <seg>Команди:
 -h, --help
 		Показати інформацію про використання.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Comment</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="nessyk" changedate="20171102T210116Z" creationid="nessyk" creationdate="20171102T210116Z">
+        <seg>Comment</seg>
       </tuv>
     </tu>
     <tu>
