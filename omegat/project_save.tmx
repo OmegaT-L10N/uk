@@ -46,6 +46,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Always</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Лера9764" changedate="20171102T161308Z" creationid="Лера9764" creationdate="20171102T161308Z">
+        <seg>&amp;Завжди</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;Always Confirm Quit</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Маринка" changedate="20171026T191337Z" creationid="Маринка" creationdate="20171026T191337Z">
@@ -1859,6 +1867,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>HTML and XHTML</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Лера9764" changedate="20171102T161252Z" creationid="Лера9764" creationdate="20171102T161252Z">
+        <seg>HTML і XHTML</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Heapwise</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="nessyk" changedate="20171030T173252Z" creationid="nessyk" creationdate="20171030T173252Z">
@@ -3332,6 +3348,14 @@ The scope of a search is by default the project and can be set to be any files l
       </tuv>
       <tuv lang="UK-UA" changeid="nessyk" changedate="20171101T184302Z" creationid="nessyk" creationdate="20171101T184232Z">
         <seg>Ресурс</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Source Filename Pattern:</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Лера9764" changedate="20171102T161229Z" creationid="Лера9764" creationdate="20171102T161229Z">
+        <seg>Шаблон назви вихідного файлу:</seg>
       </tuv>
     </tu>
     <tu>
