@@ -893,6 +893,14 @@ To add files to the project, click on the Copy Files to Source Folder... button 
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>An error occurred when loading the source files.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="nessyk" changedate="20171102T205950Z" creationid="nessyk" creationdate="20171102T205950Z">
+        <seg>Під час завантаження вихідних файлів сталася помилка.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>An error occurred when saving the TMX.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="nessyk" changedate="20171030T172640Z" creationid="nessyk" creationdate="20171030T172640Z">
@@ -945,6 +953,14 @@ To add files to the project, click on the Copy Files to Source Folder... button 
       </tuv>
       <tuv lang="UK-UA" changeid="Маринка" changedate="20171101T210345Z" creationid="Маринка" creationdate="20171101T210345Z">
         <seg>Бармен кричить голосно: &lt;p&gt; Ваша сторінка не може бути знайдена, парубче &lt;p&gt; Купи інший напій.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Browse...</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="nessyk" changedate="20171102T205822Z" creationid="nessyk" creationdate="20171102T205822Z">
+        <seg>Browse...</seg>
       </tuv>
     </tu>
     <tu>
@@ -1025,6 +1041,22 @@ To add files to the project, click on the Copy Files to Source Folder... button 
       </tuv>
       <tuv lang="UK-UA" changeid="Лера9764" changedate="20171025T180025Z" creationid="Лера9764" creationdate="20171025T180025Z">
         <seg>Китайська</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Choose Source File</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="nessyk" changedate="20171102T210023Z" creationid="nessyk" creationdate="20171102T210004Z">
+        <seg>Обрати вихідний документ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Choose Target File</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="nessyk" changedate="20171102T210027Z" creationid="nessyk" creationdate="20171102T210017Z">
+        <seg>Обрати цільовий документ</seg>
       </tuv>
     </tu>
     <tu>
@@ -3570,6 +3602,14 @@ The scope of a search is by default the project and can be set to be any files l
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Supported Files</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="nessyk" changedate="20171102T210040Z" creationid="nessyk" creationdate="20171102T210019Z">
+        <seg>Підтримувані файли</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Tag Issues</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="nessyk" changedate="20171030T174538Z" creationid="nessyk" creationdate="20171030T172347Z">
@@ -3668,6 +3708,14 @@ instead.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The file "{0}" is not supported.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="nessyk" changedate="20171102T205846Z" creationid="nessyk" creationdate="20171102T205820Z">
+        <seg>Файл такого типу  "{0}"не підтримується.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The license of each library is mentionned
 in /lib/licenses/Licenses.txt.</seg>
       </tuv>
@@ -3697,6 +3745,14 @@ in /lib/licenses/Licenses.txt.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="nessyk" changedate="20171026T180754Z" creationid="nessyk" creationdate="20171026T180754Z">
         <seg>Паролі не співпадають.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The specified files are not supported.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="nessyk" changedate="20171102T205925Z" creationid="nessyk" creationdate="20171102T205925Z">
+        <seg>Вказані файли не підтримуються.</seg>
       </tuv>
     </tu>
     <tu>
