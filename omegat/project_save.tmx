@@ -1063,8 +1063,8 @@ To add files to the project, click on the Copy Files to Source Folder... button 
       <tuv lang="EN">
         <seg>Backed up preferences to {0}</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="Tetiana21" changedate="20171105T164710Z" creationid="Tetiana21" creationdate="20171105T164710Z">
-        <seg>Backed up preferences to {0}</seg>
+      <tuv lang="UK-UA" changeid="Tetiana21" changedate="20171105T164951Z" creationid="Tetiana21" creationdate="20171105T164710Z">
+        <seg>Резервне копіювання для {0}</seg>
       </tuv>
     </tu>
     <tu>
@@ -3092,6 +3092,14 @@ published by the Free Software Foundation, either version 3 of the License, or
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Parse error encountered reading preferences file!</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Tetiana21" changedate="20171105T165059Z" creationid="Tetiana21" creationdate="20171105T165059Z">
+        <seg>Parse error encountered reading preferences file!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Parsewise</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="nessyk" changedate="20171030T173308Z" creationid="nessyk" creationdate="20171025T175722Z">
@@ -4489,8 +4497,8 @@ Exact searches match the whole search string.</seg>
       <tuv lang="EN">
         <seg>Unable to read file</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="Tetiana21" changedate="20171105T164712Z" creationid="Tetiana21" creationdate="20171105T164712Z">
-        <seg>Unable to read file</seg>
+      <tuv lang="UK-UA" changeid="Tetiana21" changedate="20171105T165012Z" creationid="Tetiana21" creationdate="20171105T164712Z">
+        <seg>Не вдається прочитати файл</seg>
       </tuv>
     </tu>
     <tu>
@@ -4507,6 +4515,14 @@ Exact searches match the whole search string.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Маринка" changedate="20171101T205548Z" creationid="Маринка" creationdate="20171101T205548Z">
         <seg>Унікальні сегменти</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Unsupported file encoding</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Tetiana21" changedate="20171105T165041Z" creationid="Tetiana21" creationdate="20171105T165041Z">
+        <seg>Непідтримуваний формат файлу</seg>
       </tuv>
     </tu>
     <tu>
