@@ -1965,6 +1965,14 @@ To add files to the project, click on the Copy Files to Source Folder... button 
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>External TMX Options</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Tetiana21" changedate="20171105T190133Z" creationid="Tetiana21" creationdate="20171105T190133Z">
+        <seg>Зовнішні налаштування ТМХ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Failed to back up preferences file.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Tetiana21" changedate="20171105T164655Z" creationid="Tetiana21" creationdate="20171105T164642Z">
