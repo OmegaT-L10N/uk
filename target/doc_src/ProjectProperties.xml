@@ -105,7 +105,7 @@
       </varlistentry>
 
       <varlistentry>
-        <term><guibutton>File Filters...</guibutton><indexterm class="singular">
+        <term><guibutton>Фільтри файлів...</guibutton><indexterm class="singular">
             <primary>File filters</primary>
 
             <secondary>global vs project file filters</secondary>
@@ -150,7 +150,7 @@
       </varlistentry>
 
       <varlistentry>
-        <term>Remove Tags</term>
+        <term>Вилучити теги</term>
 
         <listitem>
           <para>When enabled, all the formatting tags are removed from source

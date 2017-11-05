@@ -1,4 +1,4 @@
-Переклад: Кость Іванцов
+@TRANSLATION_NOTICE@
 
 
 Що таке OmegaT?
@@ -187,7 +187,7 @@ The most current info about OmegaT can be found at:
 User support, at the Yahoo user group (multilingual), where the archives are
 searchable without subscription:
 
-   http://tech.groups.yahoo.com/group/OmegaT/
+   https://groups.yahoo.com/neo/groups/OmegaT/info
 
 Requests for Enhancements (in English), at the SourceForge site:
 

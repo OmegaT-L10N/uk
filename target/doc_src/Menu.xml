@@ -38,7 +38,7 @@
 
             <entry><guimenuitem>Go to</guimenuitem></entry>
 
-            <entry><guimenuitem>View</guimenuitem></entry>
+            <entry><guimenuitem>Вид</guimenuitem></entry>
 
             <entry><guimenuitem>Tools</guimenuitem></entry>
 
@@ -551,7 +551,7 @@
             </row>
 
             <row>
-              <entry><guimenuitem>Search and Replace...</guimenuitem></entry>
+              <entry><guimenuitem>Знайти та замінити...</guimenuitem></entry>
 
               <entry><keycombo>
                   <keycap>Ctrl</keycap>
@@ -834,7 +834,7 @@
     </section>
 
     <section id="submenu.View">
-      <title>View<indexterm class="singular">
+      <title>Вид<indexterm class="singular">
           <primary>Menu</primary>
 
           <secondary>View</secondary>
@@ -1113,7 +1113,7 @@
             </row>
 
             <row>
-              <entry><guimenuitem>Glossary</guimenuitem></entry>
+              <entry><guimenuitem>Глосарій</guimenuitem></entry>
 
               <entry>The <guimenuitem>Display Context Description for TBX
               Glossaries</guimenuitem> option allows to show or hide
@@ -1195,7 +1195,7 @@
             </row>
 
             <row>
-              <entry><guimenuitem>File Filters...</guimenuitem></entry>
+              <entry><guimenuitem>Фільтри файлів...</guimenuitem></entry>
 
               <entry>Displays the <link linkend="chapter.file.filters">File
               filters</link> dialog to configure file handling and
