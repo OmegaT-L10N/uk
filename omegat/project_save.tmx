@@ -2511,6 +2511,14 @@ To add files to the project, click on the Copy Files to Source Folder... button 
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>List View</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Tetiana21" changedate="20171105T155847Z" creationid="Tetiana21" creationdate="20171105T155847Z">
+        <seg>Вид списку</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Loading TMX files...</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20170905T224122Z" creationid="Kos Ivantsov" creationdate="20170905T224122Z">
@@ -3706,6 +3714,14 @@ The scope of a search is by default the project and can be set to be any files l
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Segment Properties</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Tetiana21" changedate="20171105T160151Z" creationid="Tetiana21" creationdate="20171105T160151Z">
+        <seg>Властивості сегменту</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Segment {0,number,#}</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20170902T184729Z" creationid="Kos Ivantsov" creationdate="20170902T184729Z">
@@ -4054,6 +4070,14 @@ The scope of a search is by default the project and can be set to be any files l
       </tuv>
       <tuv lang="UK-UA" changeid="nessyk" changedate="20171102T210040Z" creationid="nessyk" creationdate="20171102T210019Z">
         <seg>Підтримувані файли</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Table View</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Tetiana21" changedate="20171105T155916Z" creationid="Tetiana21" creationdate="20171105T155916Z">
+        <seg>Вигляд таблиці</seg>
       </tuv>
     </tu>
     <tu>
