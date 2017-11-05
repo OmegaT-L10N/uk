@@ -781,6 +781,14 @@ To add files to the project, click on the Copy Files to Source Folder... button 
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;p0&gt;Plugins&lt;/p0&gt; &lt;s1&gt;LanguageTool&lt;/s1&gt;</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Tetiana21" changedate="20171105T131515Z" creationid="Tetiana21" creationdate="20171105T131515Z">
+        <seg>&lt;p0&gt;Plugins&lt;/p0&gt; &lt;s1&gt;LanguageTool&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>A restart is required in order to apply these changes</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="nessyk" changedate="20171026T174351Z" creationid="nessyk" creationdate="20171026T174351Z">
@@ -2221,6 +2229,14 @@ To add files to the project, click on the Copy Files to Source Folder... button 
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Keyboard shortcuts in the editor</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Tetiana21" changedate="20171105T131521Z" creationid="Tetiana21" creationdate="20171105T131521Z">
+        <seg>Keyboard shortcuts in the editor</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>L&amp;og...</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20170902T183914Z" creationid="Kos Ivantsov" creationdate="20170902T183356Z">
@@ -2257,6 +2273,14 @@ To add files to the project, click on the Copy Files to Source Folder... button 
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20170902T145030Z" creationid="Kos Ivantsov" creationdate="20170902T145030Z">
         <seg>Востаннє змінено користувачем {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Learn to use OmegaT in 5 minutes!</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Tetiana21" changedate="20171105T131614Z" creationid="Tetiana21" creationdate="20171105T131614Z">
+        <seg>Learn to use OmegaT in 5 minutes!</seg>
       </tuv>
     </tu>
     <tu>
@@ -2539,6 +2563,14 @@ To add files to the project, click on the Copy Files to Source Folder... button 
       </tuv>
       <tuv lang="UK-UA" changeid="nessyk" changedate="20171025T185554Z" creationid="nessyk" creationdate="20171025T185430Z">
         <seg>Тільки не ASCII </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Non-breaking space</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Tetiana21" changedate="20171105T131556Z" creationid="Tetiana21" creationdate="20171105T131556Z">
+        <seg>Non-breaking space</seg>
       </tuv>
     </tu>
     <tu>
@@ -3144,6 +3176,14 @@ a description of how this error was produced.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Reviews of OmegaT</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Tetiana21" changedate="20171105T131552Z" creationid="Tetiana21" creationdate="20171105T131552Z">
+        <seg>Reviews of OmegaT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Row</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="nessyk" changedate="20171101T184210Z" creationid="nessyk" creationdate="20171101T184140Z">
@@ -3254,6 +3294,14 @@ The scope of a search is by default the project and can be set to be any files l
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20170427T120323Z" creationid="Kos Ivantsov" creationdate="20170427T120323Z">
         <seg>Скрипти</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Scripts</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Tetiana21" changedate="20171105T131532Z" creationid="Tetiana21" creationdate="20171105T131532Z">
+        <seg>Scripts</seg>
       </tuv>
     </tu>
     <tu>
@@ -3558,6 +3606,14 @@ The scope of a search is by default the project and can be set to be any files l
       </tuv>
       <tuv lang="UK-UA" changeid="Маринка" changedate="20171101T205031Z" creationid="Маринка" creationdate="20171101T205031Z">
         <seg>Вихідні файли підключені</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Source segmentation</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Tetiana21" changedate="20171105T131601Z" creationid="Tetiana21" creationdate="20171105T131601Z">
+        <seg>Source segmentation</seg>
       </tuv>
     </tu>
     <tu>
