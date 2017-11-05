@@ -254,6 +254,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;In translation</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Tetiana21" changedate="20171105T183321Z" creationid="Tetiana21" creationdate="20171105T183321Z">
+        <seg>&amp;У перекладі</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;Insert</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20170902T163513Z" creationid="Kos Ivantsov" creationdate="20170902T163513Z">
@@ -578,6 +586,14 @@
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20170902T182654Z" creationid="Kos Ivantsov" creationdate="20170902T182654Z">
         <seg>&amp;Інструменти</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;Translated</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Tetiana21" changedate="20171105T183222Z" creationid="Tetiana21" creationdate="20171105T183222Z">
+        <seg>&amp;Перекладений текст</seg>
       </tuv>
     </tu>
     <tu>
@@ -2277,6 +2293,14 @@ To add files to the project, click on the Copy Files to Source Folder... button 
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>In so&amp;urce</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Tetiana21" changedate="20171105T183313Z" creationid="Tetiana21" creationdate="20171105T183313Z">
+        <seg>У джерелі </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Insert Tag {0}</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20170418T175821Z" creationid="Kos Ivantsov" creationdate="20170418T175821Z">
@@ -2835,6 +2859,14 @@ To add files to the project, click on the Copy Files to Source Folder... button 
       </tuv>
       <tuv lang="UK-UA" changeid="nessyk" changedate="20171025T185554Z" creationid="nessyk" creationdate="20171025T185430Z">
         <seg>Тільки не ASCII </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Non-breakable spaces</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Tetiana21" changedate="20171105T183144Z" creationid="Tetiana21" creationdate="20171105T183144Z">
+        <seg>Non-breakable spaces</seg>
       </tuv>
     </tu>
     <tu>
@@ -3484,6 +3516,14 @@ a description of how this error was produced.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="nessyk" changedate="20171101T183543Z" creationid="nessyk" creationdate="20171101T183543Z">
         <seg>Вилучити теги</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Remove text target</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Tetiana21" changedate="20171105T183131Z" creationid="Tetiana21" creationdate="20171105T183131Z">
+        <seg>Remove text target</seg>
       </tuv>
     </tu>
     <tu>
@@ -4373,6 +4413,14 @@ in /lib/licenses/Licenses.txt.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Trans&amp;lated or untranslated</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Tetiana21" changedate="20171105T183337Z" creationid="Tetiana21" creationdate="20171105T183337Z">
+        <seg>&amp;Перекладений або неперекладений</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Translated document created</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20170905T224200Z" creationid="Kos Ivantsov" creationdate="20170905T224200Z">
@@ -4451,6 +4499,14 @@ Exact searches match the whole search string.</seg>
       <tuv lang="UK-UA" changeid="nessyk" changedate="20171025T174944Z" creationid="nessyk" creationdate="20171025T174944Z">
         <seg>Types:
 Exact searches match the whole search string.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>U&amp;ntranslated</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Tetiana21" changedate="20171105T183239Z" creationid="Tetiana21" creationdate="20171105T183239Z">
+        <seg>&amp;Неперекладений текст</seg>
       </tuv>
     </tu>
     <tu>
