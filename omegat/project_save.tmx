@@ -4133,6 +4133,14 @@ in /lib/licenses/Licenses.txt.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Translation is fuzzy</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Tetiana21" changedate="20171105T150740Z" creationid="Tetiana21" creationdate="20171105T150740Z">
+        <seg>Переклад некоректний</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Translation last modified by {0} on {1} at {2}</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20170902T145016Z" creationid="Kos Ivantsov" creationdate="20170902T145016Z">
@@ -4275,6 +4283,14 @@ Exact searches match the whole search string.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Лера9764" changedate="20171102T164123Z" creationid="Лера9764" creationdate="20171102T164123Z">
         <seg>Ім'я користувача:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Value</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Tetiana21" changedate="20171105T150853Z" creationid="Tetiana21" creationdate="20171105T150853Z">
+        <seg>Значення</seg>
       </tuv>
     </tu>
     <tu>
