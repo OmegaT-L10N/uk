@@ -2937,8 +2937,8 @@ To add files to the project, click on the Copy Files to Source Folder... button 
       <tuv lang="EN">
         <seg>Number of matching segments:</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="nessyk" changedate="20171025T175151Z" creationid="nessyk" creationdate="20171025T175151Z">
-        <seg>Number of matching segments:</seg>
+      <tuv lang="UK-UA" changeid="Tetiana21" changedate="20171105T183904Z" creationid="nessyk" creationdate="20171025T175151Z">
+        <seg>Кількість відповідних сегментів:</seg>
       </tuv>
     </tu>
     <tu>
@@ -4314,6 +4314,22 @@ The scope of a search is by default the project and can be set to be any files l
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Text Replace</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Tetiana21" changedate="20171105T183759Z" creationid="Tetiana21" creationdate="20171105T183759Z">
+        <seg>Заміна тексту</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Text Search</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Tetiana21" changedate="20171105T183723Z" creationid="Tetiana21" creationdate="20171105T183723Z">
+        <seg>Пошук тексту</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The URL must include "{target}", which will be replaced with the search text.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="nessyk" changedate="20171025T180906Z" creationid="nessyk" creationdate="20171025T180906Z">
@@ -4779,6 +4795,14 @@ Exact searches match the whole search string.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Лера9764" changedate="20171031T065802Z" creationid="Лера9764" creationdate="20171025T175500Z">
         <seg>Слів</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You are going to modify {0} segments.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Tetiana21" changedate="20171105T183840Z" creationid="Tetiana21" creationdate="20171105T183840Z">
+        <seg>Ви збираєтеся змінити {0} сегменти.</seg>
       </tuv>
     </tu>
     <tu>
