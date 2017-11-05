@@ -1433,6 +1433,14 @@ To add files to the project, click on the Copy Files to Source Folder... button 
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Connection available, the project is in team project mode.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Tetiana21" changedate="20171105T211638Z" creationid="Tetiana21" creationdate="20171105T211638Z">
+        <seg>Connection available, the project is in team project mode.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Console-pseudotranslatetmx mode:
 	--pseudotranslatetmx=&lt;path&gt;
 		The output pseudotranslated TMX file.</seg>
@@ -2955,6 +2963,14 @@ To add files to the project, click on the Copy Files to Source Folder... button 
       </tuv>
       <tuv lang="UK-UA" changeid="nessyk" changedate="20171030T174225Z" creationid="nessyk" creationdate="20171030T174225Z">
         <seg>Помилок не найдено</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>No connection available, the project is in offline mode.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Tetiana21" changedate="20171105T211726Z" creationid="Tetiana21" creationdate="20171105T211635Z">
+        <seg>Немає підключення, проект перебуває в режимі оффлайн.</seg>
       </tuv>
     </tu>
     <tu>
