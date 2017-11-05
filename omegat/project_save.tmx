@@ -454,6 +454,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Reset Options</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Лера9764" changedate="20171105T155027Z" creationid="Лера9764" creationdate="20171105T155027Z">
+        <seg>&amp;Скинути налаштування</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;Restore Main Window</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Маринка" changedate="20171026T191357Z" creationid="Маринка" creationdate="20171026T191357Z">
@@ -596,6 +604,14 @@ To add files to the project, click on the Copy Files to Source Folder... button 
       <tuv lang="UK-UA" changeid="Лера9764" changedate="20171102T184657Z" creationid="Лера9764" creationdate="20171102T184657Z">
         <seg>(У посібнику користувача дивіться "Файли для перекладу"&gt; "Формати файлів" для списку підтримуваних форматів файлів.)
 Щоб додати файли до проекту, натисність Скопіювати файли до Кореневої папки... в вікні Файли проекту або виконайте ці дії в меню "Проект" та виберіть вихідні файли, які потрібно скопіювати.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>+{0} more</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Лера9764" changedate="20171105T154943Z" creationid="Лера9764" creationdate="20171105T154943Z">
+        <seg>+{0} більше</seg>
       </tuv>
     </tu>
     <tu>
@@ -3192,6 +3208,14 @@ a description of how this error was produced.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Pro&amp;ject</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Лера9764" changedate="20171105T154923Z" creationid="Лера9764" creationdate="20171105T154923Z">
+        <seg>Про&amp;ект</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Problem encountered loading project file!</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Маринка" changedate="20171101T215338Z" creationid="Маринка" creationdate="20171101T215338Z">
@@ -4631,6 +4655,14 @@ Exact searches match the whole search string.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="nessyk" changedate="20171030T174329Z" creationid="nessyk" creationdate="20171030T174329Z">
         <seg>Тип тегу{0} ({1})</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>{0} +{1} more</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Лера9764" changedate="20171105T154951Z" creationid="Лера9764" creationdate="20171105T154951Z">
+        <seg>{0} +{1} більше</seg>
       </tuv>
     </tu>
     <tu>
