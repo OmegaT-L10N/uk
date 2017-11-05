@@ -2823,6 +2823,14 @@ To add files to the project, click on the Copy Files to Source Folder... button 
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Notify Me When a Segment Has "{0}"</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Tetiana21" changedate="20171105T155623Z" creationid="Tetiana21" creationdate="20171105T155623Z">
+        <seg>Повідомте мене, коли сегмент  "{0}"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Number of matching segments:</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="nessyk" changedate="20171025T175151Z" creationid="nessyk" creationdate="20171025T175151Z">
@@ -3870,6 +3878,14 @@ The scope of a search is by default the project and can be set to be any files l
       </tuv>
       <tuv lang="UK-UA" changeid="nessyk" changedate="20171025T184312Z" creationid="nessyk" creationdate="20171025T182505Z">
         <seg>Комбінація клавіш:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Show Raw Key Names</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Tetiana21" changedate="20171105T155815Z" creationid="Tetiana21" creationdate="20171105T155815Z">
+        <seg>Показати недопрацьовані ключові імена</seg>
       </tuv>
     </tu>
     <tu>
