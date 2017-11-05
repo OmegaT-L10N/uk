@@ -2125,6 +2125,14 @@ To add files to the project, click on the Copy Files to Source Folder... button 
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Insert the &amp;source text</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Tetiana21" changedate="20171105T135230Z" creationid="Tetiana21" creationdate="20171105T135230Z">
+        <seg>Вставка &amp;вихідного тексту</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Invoke `team -h` for details.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20170902T144521Z" creationid="Kos Ivantsov" creationdate="20170902T144521Z">
