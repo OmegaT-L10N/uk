@@ -1621,6 +1621,14 @@ To add files to the project, click on the Copy Files to Source Folder... button 
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Display:</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Tetiana21" changedate="20171105T183354Z" creationid="Tetiana21" creationdate="20171105T183354Z">
+        <seg>Дисплей:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Distance</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="nessyk" changedate="20171101T184230Z" creationid="nessyk" creationdate="20171101T184211Z">
@@ -2615,6 +2623,14 @@ To add files to the project, click on the Copy Files to Source Folder... button 
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Location</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Tetiana21" changedate="20171105T183533Z" creationid="Tetiana21" creationdate="20171105T183533Z">
+        <seg>Місце</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Mac&amp;hine Translate</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20170902T144805Z" creationid="Kos Ivantsov" creationdate="20170902T144805Z">
@@ -3322,8 +3338,8 @@ a description of how this error was produced.</seg>
       <tuv lang="EN">
         <seg>Pro&amp;ject</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="Лера9764" changedate="20171105T154923Z" creationid="Лера9764" creationdate="20171105T154923Z">
-        <seg>Про&amp;ект</seg>
+      <tuv lang="UK-UA" changeid="Tetiana21" changedate="20171105T183635Z" creationid="Лера9764" creationdate="20171105T154923Z">
+        <seg>&amp;Проект</seg>
       </tuv>
     </tu>
     <tu>
@@ -3468,6 +3484,14 @@ a description of how this error was produced.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="nessyk" changedate="20171101T184742Z" creationid="nessyk" creationdate="20171101T184742Z">
         <seg>Очукує редагування </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Recursi&amp;ve search</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Tetiana21" changedate="20171105T183710Z" creationid="Tetiana21" creationdate="20171105T183623Z">
+        <seg>&amp;Рекурсивний пошук</seg>
       </tuv>
     </tu>
     <tu>
@@ -3886,6 +3910,14 @@ The scope of a search is by default the project and can be set to be any files l
       </tuv>
       <tuv lang="UK-UA" changeid="Лера9764" changedate="20171102T185417Z" creationid="Лера9764" creationdate="20171102T185417Z">
         <seg>Вибрати &amp;попередній збіг</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Select Fol&amp;der</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Tetiana21" changedate="20171105T183606Z" creationid="Tetiana21" creationdate="20171105T183606Z">
+        <seg>Вибрати папку</seg>
       </tuv>
     </tu>
     <tu>
@@ -4823,6 +4855,22 @@ Exact searches match the whole search string.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="nessyk" changedate="20171027T154248Z" creationid="nessyk" creationdate="20171027T154248Z">
         <seg>[{0}] “{1}” in source; expected “{2}” in target</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>all matching segments</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Tetiana21" changedate="20171105T183449Z" creationid="Tetiana21" creationdate="20171105T183449Z">
+        <seg>усі відповідні сегменти</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>file names</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Tetiana21" changedate="20171105T183502Z" creationid="Tetiana21" creationdate="20171105T183502Z">
+        <seg>імена файлів</seg>
       </tuv>
     </tu>
     <tu>
