@@ -1259,8 +1259,8 @@ To add files to the project, click on the Copy Files to Source Folder... button 
       <tuv lang="EN">
         <seg>Comment</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="nessyk" changedate="20171102T210116Z" creationid="nessyk" creationdate="20171102T210116Z">
-        <seg>Comment</seg>
+      <tuv lang="UK-UA" changeid="Tetiana21" changedate="20171105T145440Z" creationid="nessyk" creationdate="20171102T210116Z">
+        <seg>Коментар</seg>
       </tuv>
     </tu>
     <tu>
@@ -2181,6 +2181,14 @@ To add files to the project, click on the Copy Files to Source Folder... button 
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Is duplicate</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Tetiana21" changedate="20171105T145603Z" creationid="Tetiana21" creationdate="20171105T145603Z">
+        <seg>Дуплікат</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Issues</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="nessyk" changedate="20171030T174103Z" creationid="nessyk" creationdate="20171030T173925Z">
@@ -2683,6 +2691,14 @@ To add files to the project, click on the Copy Files to Source Folder... button 
       </tuv>
       <tuv lang="UK-UA" changeid="nessyk" changedate="20171025T185626Z" creationid="nessyk" creationdate="20171025T185626Z">
         <seg>Не встановлено </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Note</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Tetiana21" changedate="20171105T145459Z" creationid="Tetiana21" creationdate="20171105T145459Z">
+        <seg>Примітка</seg>
       </tuv>
     </tu>
     <tu>
