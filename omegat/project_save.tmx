@@ -2421,6 +2421,14 @@ To add files to the project, click on the Copy Files to Source Folder... button 
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>JAR files</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Tetiana21" changedate="20171105T174432Z" creationid="Tetiana21" creationdate="20171105T174432Z">
+        <seg>Файли JAR </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Jumping to last edited segment...</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20170914T170202Z" creationid="Kos Ivantsov" creationdate="20170914T170202Z">
@@ -2595,6 +2603,14 @@ To add files to the project, click on the Copy Files to Source Folder... button 
       </tuv>
       <tuv lang="UK-UA" changeid="nessyk" changedate="20171025T190224Z" creationid="nessyk" creationdate="20171025T190224Z">
         <seg>Машинний переклад</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Manually defined rules</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Tetiana21" changedate="20171105T174618Z" creationid="Tetiana21" creationdate="20171105T174618Z">
+        <seg>Вручну встановлені правила</seg>
       </tuv>
     </tu>
     <tu>
