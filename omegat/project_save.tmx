@@ -3762,6 +3762,14 @@ The scope of a search is by default the project and can be set to be any files l
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Team</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Tetiana21" changedate="20171105T133445Z" creationid="Tetiana21" creationdate="20171105T133445Z">
+        <seg>Команда</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Terminology</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="nessyk" changedate="20171027T154258Z" creationid="nessyk" creationdate="20171027T154258Z">
