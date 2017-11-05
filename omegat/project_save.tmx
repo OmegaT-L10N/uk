@@ -1069,6 +1069,14 @@ To add files to the project, click on the Copy Files to Source Folder... button 
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Changed on</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Tetiana21" changedate="20171105T145929Z" creationid="Tetiana21" creationdate="20171105T145909Z">
+        <seg>Змінений на основі</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Character</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="nessyk" changedate="20171030T173810Z" creationid="nessyk" creationdate="20171030T173648Z">
@@ -1417,6 +1425,22 @@ To add files to the project, click on the Copy Files to Source Folder... button 
       </tuv>
       <tuv lang="UK-UA" changeid="Лера9764" changedate="20171031T065812Z" creationid="Лера9764" creationdate="20171031T065812Z">
         <seg>Створити новий проект</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Created by</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Tetiana21" changedate="20171105T145904Z" creationid="Tetiana21" creationdate="20171105T145904Z">
+        <seg>Створений </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Created on</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Tetiana21" changedate="20171105T145913Z" creationid="Tetiana21" creationdate="20171105T145855Z">
+        <seg>Створений на основі </seg>
       </tuv>
     </tu>
     <tu>
@@ -3268,6 +3292,14 @@ a description of how this error was produced.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="nessyk" changedate="20171026T180450Z" creationid="nessyk" creationdate="20171026T173118Z">
         <seg>Скинути майстер-пароль</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Resource name</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Tetiana21" changedate="20171105T145712Z" creationid="Tetiana21" creationdate="20171105T145712Z">
+        <seg>Ім'я ресурсу</seg>
       </tuv>
     </tu>
     <tu>
