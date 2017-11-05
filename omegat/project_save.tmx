@@ -1069,6 +1069,14 @@ To add files to the project, click on the Copy Files to Source Folder... button 
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Attribute:</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Tetiana21" changedate="20171105T201253Z" creationid="Tetiana21" creationdate="20171105T201253Z">
+        <seg>Символ:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Aut&amp;hor:</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Лера9764" changedate="20171105T154858Z" creationid="Лера9764" creationdate="20171105T154858Z">
@@ -2149,6 +2157,14 @@ To add files to the project, click on the Copy Files to Source Folder... button 
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Finished</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Tetiana21" changedate="20171105T201453Z" creationid="Tetiana21" creationdate="20171105T201453Z">
+        <seg>Завершений</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Folder {0} was automatically created for team mode project</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Маринка" changedate="20171101T215200Z" creationid="Маринка" creationdate="20171101T215200Z">
@@ -2337,6 +2353,14 @@ To add files to the project, click on the Copy Files to Source Folder... button 
       </tuv>
       <tuv lang="UK-UA" changeid="Tetiana21" changedate="20171105T200700Z" creationid="Tetiana21" creationdate="20171105T200700Z">
         <seg>Інформація</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Initializing</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Tetiana21" changedate="20171105T201330Z" creationid="Tetiana21" creationdate="20171105T201330Z">
+        <seg>Ініціалізація</seg>
       </tuv>
     </tu>
     <tu>
@@ -4322,6 +4346,22 @@ The scope of a search is by default the project and can be set to be any files l
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Tag validation failed</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Tetiana21" changedate="20171105T201412Z" creationid="Tetiana21" creationdate="20171105T201412Z">
+        <seg>Перерівка тегу не виконана</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Tag:</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Tetiana21" changedate="20171105T201205Z" creationid="Tetiana21" creationdate="20171105T201205Z">
+        <seg>Тег:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Tags</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="nessyk" changedate="20171030T172036Z" creationid="nessyk" creationdate="20171030T172036Z">
@@ -4561,6 +4601,14 @@ in /lib/licenses/Licenses.txt.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Лера9764" changedate="20171031T065507Z" creationid="Лера9764" creationdate="20171031T065507Z">
         <seg>Перекладені унікальні сегменти</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Translating Project</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Tetiana21" changedate="20171105T201433Z" creationid="Tetiana21" creationdate="20171105T201433Z">
+        <seg>Переклад проекту</seg>
       </tuv>
     </tu>
     <tu>
