@@ -288,8 +288,8 @@
       <tuv lang="EN">
         <seg>&amp;Minimal similarity:</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="Tetiana21" changedate="20171105T143757Z" creationid="Tetiana21" creationdate="20171105T143757Z">
-        <seg>&amp;Minimal similarity:</seg>
+      <tuv lang="UK-UA" changeid="Tetiana21" changedate="20171105T143807Z" creationid="Tetiana21" creationdate="20171105T143757Z">
+        <seg>&amp;Мінімальна схожість:</seg>
       </tuv>
     </tu>
     <tu>
@@ -354,6 +354,14 @@
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20170902T182841Z" creationid="Kos Ivantsov" creationdate="20170902T182841Z">
         <seg>&amp;Налаштування</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;Prefix:</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Tetiana21" changedate="20171105T143834Z" creationid="Tetiana21" creationdate="20171105T143834Z">
+        <seg>&amp;Префікс:</seg>
       </tuv>
     </tu>
     <tu>
@@ -4287,6 +4295,14 @@ Exact searches match the whole search string.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Лера9764" changedate="20171102T184130Z" creationid="Лера9764" creationdate="20171102T184130Z">
         <seg>Формат файлів вашого проекту не підтримується.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>[fuzzy]</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Tetiana21" changedate="20171105T144447Z" creationid="Tetiana21" creationdate="20171105T144447Z">
+        <seg>[fuzzy]</seg>
       </tuv>
     </tu>
     <tu>
