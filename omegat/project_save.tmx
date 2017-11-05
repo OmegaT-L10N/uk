@@ -454,6 +454,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Replace...</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Tetiana21" changedate="20171105T200839Z" creationid="Tetiana21" creationdate="20171105T200839Z">
+        <seg>&amp;Замінити...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;Reset Master Password</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="nessyk" changedate="20171026T180438Z" creationid="nessyk" creationdate="20171026T172944Z">
@@ -2317,6 +2325,14 @@ To add files to the project, click on the Copy Files to Source Folder... button 
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Info</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Tetiana21" changedate="20171105T200700Z" creationid="Tetiana21" creationdate="20171105T200700Z">
+        <seg>Інформація</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Insert Tag {0}</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20170418T175821Z" creationid="Kos Ivantsov" creationdate="20170418T175821Z">
@@ -2465,6 +2481,14 @@ To add files to the project, click on the Copy Files to Source Folder... button 
       </tuv>
       <tuv lang="UK-UA" changeid="Tetiana21" changedate="20171105T174432Z" creationid="Tetiana21" creationdate="20171105T174432Z">
         <seg>Файли JAR </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Java: {0} ver.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Tetiana21" changedate="20171105T200749Z" creationid="Tetiana21" creationdate="20171105T200749Z">
+        <seg>Java: {0} ver.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5039,6 +5063,14 @@ Exact searches match the whole search string.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20170413T160328Z" creationid="TranslatorOne" creationdate="20170413T160215Z">
         <seg>{0}_{1}_{2}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>{1}, executed from '{2}'</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Tetiana21" changedate="20171105T200816Z" creationid="Tetiana21" creationdate="20171105T200816Z">
+        <seg>{1}, executed from '{2}'</seg>
       </tuv>
     </tu>
     <tu>
