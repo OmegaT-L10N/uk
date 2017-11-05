@@ -2221,6 +2221,14 @@ To add files to the project, click on the Copy Files to Source Folder... button 
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Goto &amp;Line...</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Tetiana21" changedate="20171105T200903Z" creationid="Tetiana21" creationdate="20171105T200903Z">
+        <seg>Goto &amp;Line...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>HTML and XHTML</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Лера9764" changedate="20171102T161252Z" creationid="Лера9764" creationdate="20171102T161252Z">
@@ -3304,6 +3312,14 @@ a description of how this error was produced.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Please translate this plural as plural form #{0}.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Tetiana21" changedate="20171105T201147Z" creationid="Tetiana21" creationdate="20171105T201147Z">
+        <seg>Будь ласка, перекладіть це формою множини #{0}.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Plugins</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="nessyk" changedate="20171026T174432Z" creationid="nessyk" creationdate="20171026T174432Z">
@@ -3532,6 +3548,14 @@ a description of how this error was produced.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Tetiana21" changedate="20171105T183710Z" creationid="Tetiana21" creationdate="20171105T183623Z">
         <seg>&amp;Рекурсивний пошук</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>References:</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Tetiana21" changedate="20171105T201109Z" creationid="Tetiana21" creationdate="20171105T201109Z">
+        <seg>Посилання:</seg>
       </tuv>
     </tu>
     <tu>
@@ -4070,6 +4094,14 @@ The scope of a search is by default the project and can be set to be any files l
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20170418T175858Z" creationid="Kos Ivantsov" creationdate="20170418T175837Z">
         <seg>Зробити переклад порожнім</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Sets</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Tetiana21" changedate="20171105T201047Z" creationid="Tetiana21" creationdate="20171105T201047Z">
+        <seg>Sets</seg>
       </tuv>
     </tu>
     <tu>
