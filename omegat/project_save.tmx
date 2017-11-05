@@ -757,6 +757,14 @@ To add files to the project, click on the Copy Files to Source Folder... button 
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;e0&gt;Translation memory:&lt;/e0&gt;&lt;a1&gt; OmegaT&lt;/a1&gt; stores your translations in a translation memory file.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Tetiana21" changedate="20171105T130456Z" creationid="Tetiana21" creationdate="20171105T130456Z">
+        <seg>&lt;e0&gt;Translation memory:&lt;/e0&gt;&lt;a1&gt; OmegaT&lt;/a1&gt; stores your translations in a translation memory file.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;html&gt;&lt;center&gt;Loading...&lt;br&gt;&lt;br&gt;Tip: Enable/disable checks at any time from the Options menu.&lt;/center&gt;&lt;/html&gt;</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="nessyk" changedate="20171030T174212Z" creationid="nessyk" creationdate="20171030T174212Z">
