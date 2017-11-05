@@ -3264,6 +3264,14 @@ a description of how this error was produced.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Please select how tags of non-OmegaT TMXs should be displayed.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Tetiana21" changedate="20171105T190151Z" creationid="Tetiana21" creationdate="20171105T190151Z">
+        <seg>Please select how tags of non-OmegaT TMXs should be displayed.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Please select what text you would like to be inserted into the segment that is not translated yet, when you move to it.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Tetiana21" changedate="20171105T135123Z" creationid="Tetiana21" creationdate="20171105T134345Z">
