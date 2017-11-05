@@ -2125,6 +2125,14 @@ To add files to the project, click on the Copy Files to Source Folder... button 
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Insert the &amp;best fuzzy match</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Tetiana21" changedate="20171105T143247Z" creationid="Tetiana21" creationdate="20171105T143247Z">
+        <seg>Insert the &amp;best fuzzy match</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Insert the &amp;source text</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Tetiana21" changedate="20171105T135230Z" creationid="Tetiana21" creationdate="20171105T135230Z">
