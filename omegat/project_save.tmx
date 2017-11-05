@@ -1061,6 +1061,14 @@ To add files to the project, click on the Copy Files to Source Folder... button 
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Backed up preferences to {0}</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Tetiana21" changedate="20171105T164710Z" creationid="Tetiana21" creationdate="20171105T164710Z">
+        <seg>Backed up preferences to {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Bartender yells loud:&lt;p&gt;Your page cannot be found, boy&lt;p&gt;Buy another drink.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Маринка" changedate="20171101T210345Z" creationid="Маринка" creationdate="20171101T210345Z">
@@ -1929,6 +1937,14 @@ To add files to the project, click on the Copy Files to Source Folder... button 
       </tuv>
       <tuv lang="UK-UA" changeid="Лера9764" changedate="20171105T154715Z" creationid="Лера9764" creationdate="20171105T154715Z">
         <seg>Зовнішній пошук...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Failed to back up preferences file.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Tetiana21" changedate="20171105T164655Z" creationid="Tetiana21" creationdate="20171105T164642Z">
+        <seg>Не вдалося створити резервну копію файлу.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4471,6 +4487,14 @@ Exact searches match the whole search string.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Unable to read file</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Tetiana21" changedate="20171105T164712Z" creationid="Tetiana21" creationdate="20171105T164712Z">
+        <seg>Unable to read file</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Unable to read project file!</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20170418T175659Z" creationid="Kos Ivantsov" creationdate="20170418T175659Z">
@@ -4483,6 +4507,14 @@ Exact searches match the whole search string.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Маринка" changedate="20171101T205548Z" creationid="Маринка" creationdate="20171101T205548Z">
         <seg>Унікальні сегменти</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Unsupported project file version ({0})!</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Tetiana21" changedate="20171105T164508Z" creationid="Tetiana21" creationdate="20171105T164508Z">
+        <seg>Непідтримувана версія файлу проекту ({0})!</seg>
       </tuv>
     </tu>
     <tu>
