@@ -2639,6 +2639,14 @@ To add files to the project, click on the Copy Files to Source Folder... button 
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Next</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Tetiana21" changedate="20171105T150449Z" creationid="Tetiana21" creationdate="20171105T150449Z">
+        <seg>Наступний</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Next &amp;Translated Segment</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20170902T182540Z" creationid="Kos Ivantsov" creationdate="20170902T182540Z">
@@ -2972,6 +2980,14 @@ published by the Free Software Foundation, either version 3 of the License, or
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Path</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Tetiana21" changedate="20171105T150419Z" creationid="Tetiana21" creationdate="20171105T150419Z">
+        <seg>Шлях</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Pattern...</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="nessyk" changedate="20171101T183850Z" creationid="nessyk" creationdate="20171101T183850Z">
@@ -3092,6 +3108,14 @@ a description of how this error was produced.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="nessyk" changedate="20171025T184108Z" creationid="nessyk" creationdate="20171025T184108Z">
         <seg>Натисніть бажану  комбінацію клавіш, і натисніть кнопку ОК.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Previous</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Tetiana21" changedate="20171105T150441Z" creationid="Tetiana21" creationdate="20171105T150441Z">
+        <seg>Попередній</seg>
       </tuv>
     </tu>
     <tu>
@@ -4097,6 +4121,14 @@ in /lib/licenses/Licenses.txt.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Лера9764" changedate="20171031T065507Z" creationid="Лера9764" creationdate="20171031T065507Z">
         <seg>Перекладені унікальні сегменти</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Translation</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Tetiana21" changedate="20171105T150534Z" creationid="Tetiana21" creationdate="20171105T150534Z">
+        <seg>Переклад</seg>
       </tuv>
     </tu>
     <tu>
