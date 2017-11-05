@@ -943,8 +943,8 @@ To add files to the project, click on the Copy Files to Source Folder... button 
       <tuv lang="EN">
         <seg>Align Files</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="nessyk" changedate="20171102T210110Z" creationid="nessyk" creationdate="20171102T210110Z">
-        <seg>Align Files</seg>
+      <tuv lang="UK-UA" changeid="Tetiana21" changedate="20171105T144933Z" creationid="nessyk" creationdate="20171102T210110Z">
+        <seg>Вирівняти файли</seg>
       </tuv>
     </tu>
     <tu>
@@ -2055,8 +2055,8 @@ To add files to the project, click on the Copy Files to Source Folder... button 
       <tuv lang="EN">
         <seg>Heapwise</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="nessyk" changedate="20171030T173252Z" creationid="nessyk" creationdate="20171030T173252Z">
-        <seg>Heapwise</seg>
+      <tuv lang="UK-UA" changeid="Tetiana21" changedate="20171105T144905Z" creationid="nessyk" creationdate="20171030T173252Z">
+        <seg>0Heapwise</seg>
       </tuv>
     </tu>
     <tu>
@@ -2483,6 +2483,14 @@ To add files to the project, click on the Copy Files to Source Folder... button 
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20170902T182822Z" creationid="Kos Ivantsov" creationdate="20170902T182822Z">
         <seg>Статистика збігів в окреми&amp;х файлах</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Match type</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Tetiana21" changedate="20171105T145233Z" creationid="Tetiana21" creationdate="20171105T145233Z">
+        <seg>Модель збігу</seg>
       </tuv>
     </tu>
     <tu>
