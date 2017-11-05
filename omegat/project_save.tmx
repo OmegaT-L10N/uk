@@ -286,6 +286,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Name/ID:</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Tetiana21" changedate="20171105T133509Z" creationid="Tetiana21" creationdate="20171105T133509Z">
+        <seg>&amp;Name/ID:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;New Script</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Лера9764" changedate="20171025T180249Z" creationid="Лера9764" creationdate="20171025T180249Z">
@@ -1669,6 +1677,14 @@ To add files to the project, click on the Copy Files to Source Folder... button 
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Editor Options</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Tetiana21" changedate="20171105T133511Z" creationid="Tetiana21" creationdate="20171105T133511Z">
+        <seg>Editor Options</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Enable project-specific commands</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="nessyk" changedate="20171025T183052Z" creationid="nessyk" creationdate="20171025T183052Z">
@@ -2153,6 +2169,14 @@ To add files to the project, click on the Copy Files to Source Folder... button 
       </tuv>
       <tuv lang="UK-UA" changeid="nessyk" changedate="20171030T173953Z" creationid="nessyk" creationdate="20171030T173953Z">
         <seg>Проблема з файлом {0} ({1})</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>It is used to mark your translations.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Tetiana21" changedate="20171105T134036Z" creationid="Tetiana21" creationdate="20171105T133506Z">
+        <seg>Це здійснюється для відмічення ваших перекладів.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2884,6 +2908,14 @@ a description of how this error was produced.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="nessyk" changedate="20171026T180816Z" creationid="nessyk" creationdate="20171026T180816Z">
         <seg>Будь ласка, перевірте ще раз.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Please enter your name/ID.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Tetiana21" changedate="20171105T133548Z" creationid="Tetiana21" creationdate="20171105T133453Z">
+        <seg>Будь ласка, введіть своє ім'я/ID.</seg>
       </tuv>
     </tu>
     <tu>
