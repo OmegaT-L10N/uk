@@ -1965,6 +1965,14 @@ To add files to the project, click on the Copy Files to Source Folder... button 
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>File Name</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Лера9764" changedate="20171105T154403Z" creationid="Лера9764" creationdate="20171105T154403Z">
+        <seg>Ім'я файлу</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>File {0}: {1}</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20170427T115657Z" creationid="Kos Ivantsov" creationdate="20170427T115657Z">
@@ -3176,6 +3184,14 @@ a description of how this error was produced.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Project Statistics</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Лера9764" changedate="20171105T154339Z" creationid="Лера9764" creationdate="20171105T154339Z">
+        <seg>Статистика проекту</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Project commands are disabled for security reasons.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="nessyk" changedate="20171025T183923Z" creationid="nessyk" creationdate="20171025T183923Z">
@@ -3870,6 +3886,14 @@ The scope of a search is by default the project and can be set to be any files l
       </tuv>
       <tuv lang="UK-UA" changeid="nessyk" changedate="20171101T185005Z" creationid="nessyk" creationdate="20171101T185005Z">
         <seg>Почати цільвий елаймент (вирівнювання)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Statistics</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Лера9764" changedate="20171105T154440Z" creationid="Лера9764" creationdate="20171105T154440Z">
+        <seg>Статистика</seg>
       </tuv>
     </tu>
     <tu>
