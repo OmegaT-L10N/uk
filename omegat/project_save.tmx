@@ -2429,6 +2429,14 @@ To add files to the project, click on the Copy Files to Source Folder... button 
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Keep Other</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Tetiana21" changedate="20171105T160216Z" creationid="Tetiana21" creationdate="20171105T160216Z">
+        <seg>Keep Other</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Keyboard shortcuts in the editor</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Tetiana21" changedate="20171105T131521Z" creationid="Tetiana21" creationdate="20171105T131521Z">
