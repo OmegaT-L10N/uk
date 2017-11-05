@@ -182,6 +182,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Files</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Лера9764" changedate="20171105T154916Z" creationid="Лера9764" creationdate="20171105T154916Z">
+        <seg>&amp;Файли</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;Filter</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20170929T122924Z" creationid="Kos Ivantsov" creationdate="20170929T122924Z">
@@ -1017,6 +1025,14 @@ To add files to the project, click on the Copy Files to Source Folder... button 
       </tuv>
       <tuv lang="UK-UA" changeid="nessyk" changedate="20171026T180502Z" creationid="nessyk" creationdate="20171026T173158Z">
         <seg>Ви впевнені, що хочете скинути майстер-пароль?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Aut&amp;hor:</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Лера9764" changedate="20171105T154858Z" creationid="Лера9764" creationdate="20171105T154858Z">
+        <seg>Ав&amp;тор:</seg>
       </tuv>
     </tu>
     <tu>
@@ -2815,6 +2831,14 @@ To add files to the project, click on the Copy Files to Source Folder... button 
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>OmegaT Project Files</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Лера9764" changedate="20171105T154740Z" creationid="Лера9764" creationdate="20171105T154740Z">
+        <seg>Файли проекту OmegaT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>OmegaT can generate and store a master password so you don't have to enter it each time, but this is much less secure.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="nessyk" changedate="20171026T173404Z" creationid="nessyk" creationdate="20171026T173404Z">
@@ -3320,6 +3344,22 @@ a description of how this error was produced.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Remote Repositories</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Лера9764" changedate="20171105T154811Z" creationid="Лера9764" creationdate="20171105T154811Z">
+        <seg>Вилучити репозиторії</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Remove</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Лера9764" changedate="20171105T154757Z" creationid="Лера9764" creationdate="20171105T154757Z">
+        <seg>Вилучити</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Remove Tags</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="nessyk" changedate="20171101T183543Z" creationid="nessyk" creationdate="20171101T183543Z">
@@ -3356,6 +3396,22 @@ a description of how this error was produced.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Лера9764" changedate="20171030T193719Z" creationid="Лера9764" creationdate="20171030T193719Z">
         <seg>Замінити &amp;машинним перекладом</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Repository</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Лера9764" changedate="20171105T154822Z" creationid="Лера9764" creationdate="20171105T154822Z">
+        <seg>Репозиторій</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Repository {0} unknown</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Лера9764" changedate="20171105T154843Z" creationid="Лера9764" creationdate="20171105T154843Z">
+        <seg>Репозиторій {0} невідомий</seg>
       </tuv>
     </tu>
     <tu>
