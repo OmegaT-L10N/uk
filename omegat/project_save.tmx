@@ -1005,6 +1005,14 @@ To add files to the project, click on the Copy Files to Source Folder... button 
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Align project against {0}</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Tetiana21" changedate="20171105T202010Z" creationid="Tetiana21" creationdate="20171105T202010Z">
+        <seg>Align project against {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>All</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="nessyk" changedate="20171030T174312Z" creationid="nessyk" creationdate="20171030T174312Z">
@@ -1521,6 +1529,14 @@ To add files to the project, click on the Copy Files to Source Folder... button 
       </tuv>
       <tuv lang="UK-UA" changeid="Лера9764" changedate="20171031T065812Z" creationid="Лера9764" creationdate="20171031T065812Z">
         <seg>Створити новий проект</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Create pseudo-translate TMX</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Tetiana21" changedate="20171105T201843Z" creationid="Tetiana21" creationdate="20171105T201820Z">
+        <seg>Створити псевдо-переклад TMX</seg>
       </tuv>
     </tu>
     <tu>
@@ -4601,6 +4617,14 @@ in /lib/licenses/Licenses.txt.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20170905T224151Z" creationid="Kos Ivantsov" creationdate="20170905T224151Z">
         <seg>Перекладені документи створено</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Translated files location not defined</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Tetiana21" changedate="20171105T201949Z" creationid="Tetiana21" creationdate="20171105T201949Z">
+        <seg>Місцезнаходження перекладеного файлу не знайдено </seg>
       </tuv>
     </tu>
     <tu>
