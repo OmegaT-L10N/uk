@@ -1869,10 +1869,26 @@ To add files to the project, click on the Copy Files to Source Folder... button 
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Exact match:</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Лера9764" changedate="20171105T154617Z" creationid="Лера9764" creationdate="20171105T154617Z">
+        <seg>Точний збіг:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>External Search</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="nessyk" changedate="20171025T183444Z" creationid="nessyk" creationdate="20171025T183444Z">
         <seg>Зовнішній пошук</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>External Search...</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Лера9764" changedate="20171105T154715Z" creationid="Лера9764" creationdate="20171105T154715Z">
+        <seg>Зовнішній пошук...</seg>
       </tuv>
     </tu>
     <tu>
@@ -2041,6 +2057,14 @@ To add files to the project, click on the Copy Files to Source Folder... button 
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20170427T115535Z" creationid="Kos Ivantsov" creationdate="20170427T115535Z">
         <seg>Шрифт</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>For all files:</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Лера9764" changedate="20171105T154632Z" creationid="Лера9764" creationdate="20171105T154632Z">
+        <seg>Для всіх файлів:</seg>
       </tuv>
     </tu>
     <tu>
