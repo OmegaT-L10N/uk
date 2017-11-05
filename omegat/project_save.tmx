@@ -2173,6 +2173,14 @@ To add files to the project, click on the Copy Files to Source Folder... button 
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Is alternative</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Tetiana21" changedate="20171105T145314Z" creationid="Tetiana21" creationdate="20171105T145314Z">
+        <seg>Альтернатива</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Issues</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="nessyk" changedate="20171030T174103Z" creationid="nessyk" creationdate="20171030T173925Z">
