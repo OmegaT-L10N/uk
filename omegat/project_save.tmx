@@ -4437,6 +4437,14 @@ in /lib/licenses/Licenses.txt.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Type in new rule ID</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Tetiana21" changedate="20171105T183059Z" creationid="Tetiana21" creationdate="20171105T183059Z">
+        <seg>Type in new rule ID</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Types:
 Exact searches match the whole search string.</seg>
       </tuv>
