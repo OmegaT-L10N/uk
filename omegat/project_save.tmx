@@ -430,6 +430,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Redo Last Action</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Маринка" changedate="20171106T203613Z" creationid="Маринка" creationdate="20171106T203613Z">
+        <seg>&amp;Повторити останню дію</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;Refresh</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="nessyk" changedate="20171030T173917Z" creationid="nessyk" creationdate="20171030T173917Z">
@@ -538,6 +546,14 @@
       </tuv>
       <tuv lang="UK-UA" changeid="Лера9764" changedate="20171030T181413Z" creationid="Лера9764" creationdate="20171030T181413Z">
         <seg>&amp;Пошук</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;Search Project...</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Маринка" changedate="20171106T203630Z" creationid="Маринка" creationdate="20171106T203630Z">
+        <seg>&amp;Шукати проект...</seg>
       </tuv>
     </tu>
     <tu>
@@ -1837,6 +1853,14 @@ To add files to the project, click on the Copy Files to Source Folder... button 
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>E&amp;xport Selection</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Маринка" changedate="20171106T203839Z" creationid="Маринка" creationdate="20171106T203839Z">
+        <seg>E&amp;xport Selection</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>ERROR: {0}</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Лера9764" changedate="20171031T065935Z" creationid="Лера9764" creationdate="20171031T065935Z">
@@ -2385,6 +2409,14 @@ To add files to the project, click on the Copy Files to Source Folder... button 
       </tuv>
       <tuv lang="UK-UA" changeid="nessyk" changedate="20171026T173928Z" creationid="nessyk" creationdate="20171026T173928Z">
         <seg>I Зрозуміло; Робіть це в будь-якому випадку</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>I&amp;nsert Source</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Маринка" changedate="20171106T203822Z" creationid="Маринка" creationdate="20171106T203811Z">
+        <seg>Вставити текст</seg>
       </tuv>
     </tu>
     <tu>
@@ -3648,6 +3680,14 @@ a description of how this error was produced.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>R&amp;eplace with Match or Selection</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Маринка" changedate="20171106T203750Z" creationid="Маринка" creationdate="20171106T203750Z">
+        <seg>R&amp;eplace with Match or Selection</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Re&amp;move Filter</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20170929T123033Z" creationid="Kos Ivantsov" creationdate="20170929T123033Z">
@@ -3660,6 +3700,14 @@ a description of how this error was produced.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20170929T123118Z" creationid="Kos Ivantsov" creationdate="20170929T123118Z">
         <seg>Замінити &amp;усе</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Re&amp;place with Source</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Маринка" changedate="20171106T203833Z" creationid="Маринка" creationdate="20171106T203818Z">
+        <seg>Замінити вибраним текстом</seg>
       </tuv>
     </tu>
     <tu>
