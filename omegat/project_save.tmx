@@ -3263,6 +3263,30 @@ To add files to the project, click on the Copy Files to Source Folder... button 
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Matches Changed</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="nessyk" changedate="20171106T225657Z" creationid="nessyk" creationdate="20171106T225657Z">
+        <seg>Змінені збіги</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Matches Inserted Active</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="nessyk" changedate="20171106T225800Z" creationid="nessyk" creationdate="20171106T225800Z">
+        <seg>Обрані збіги активні</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Matches Unchanged</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="nessyk" changedate="20171106T225711Z" creationid="nessyk" creationdate="20171106T225711Z">
+        <seg>Незмінені збіги</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Maximum line length:</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Лера9764" changedate="20171031T070306Z" creationid="Лера9764" creationdate="20171031T070306Z">
@@ -4948,8 +4972,8 @@ The scope of a search is by default the project and can be set to be any files l
       <tuv lang="EN">
         <seg>Spellcheck</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="nessyk" changedate="20171106T225438Z" creationid="nessyk" creationdate="20171106T225438Z">
-        <seg>Spellcheck</seg>
+      <tuv lang="UK-UA" changeid="nessyk" changedate="20171106T225610Z" creationid="nessyk" creationdate="20171106T225438Z">
+        <seg>Перевірка орфографії</seg>
       </tuv>
     </tu>
     <tu>
@@ -5313,6 +5337,14 @@ in /lib/licenses/Licenses.txt.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Tetiana21" changedate="20171105T183337Z" creationid="Tetiana21" creationdate="20171105T183337Z">
         <seg>&amp;Перекладений або неперекладений</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>TransTips</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="nessyk" changedate="20171106T225514Z" creationid="nessyk" creationdate="20171106T225514Z">
+        <seg>Перекладацькі підказки</seg>
       </tuv>
     </tu>
     <tu>
