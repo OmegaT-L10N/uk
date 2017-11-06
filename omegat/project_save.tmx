@@ -941,6 +941,14 @@ To add files to the project, click on the Copy Files to Source Folder... button 
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;html&gt;&lt;i&gt;Preferences&lt;/i&gt; &amp;gt; &lt;i&gt;General&lt;/i&gt; &amp;gt; &lt;i&gt;Use TAB to Advance&lt;/i&gt; is checked&lt;/html&gt;</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="nessyk" changedate="20171106T221218Z" creationid="nessyk" creationdate="20171106T221045Z">
+        <seg>&lt;html&gt;&lt;i&gt;Налаштування&lt;/i&gt; &amp;gt; &lt;i&gt;Основне&lt;/i&gt; &amp;gt; &lt;i&gt;Використовуйте TAB для руху вперед&lt;/i&gt; перевіряється&lt;/html&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;html&gt;Place the caret at the location where you want to split the text.&lt;/html&gt;</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="nessyk" changedate="20171030T173003Z" creationid="nessyk" creationdate="20171030T173003Z">
@@ -1425,6 +1433,14 @@ To add files to the project, click on the Copy Files to Source Folder... button 
       </tuv>
       <tuv lang="UK-UA" changeid="nessyk" changedate="20171025T180358Z" creationid="nessyk" creationdate="20171025T180358Z">
         <seg>Закрити</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Colours</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="nessyk" changedate="20171106T221049Z" creationid="nessyk" creationdate="20171106T221044Z">
+        <seg>Кольори</seg>
       </tuv>
     </tu>
     <tu>
@@ -3640,6 +3656,14 @@ a description of how this error was produced.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Please restart the application to correctly display the new colours.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="nessyk" changedate="20171106T221038Z" creationid="nessyk" creationdate="20171106T221038Z">
+        <seg>Будь ласка, перезапустіть програму, щоб правильно відображати нові кольори.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Please select how tags of non-OmegaT TMXs should be displayed.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Tetiana21" changedate="20171105T190151Z" creationid="Tetiana21" creationdate="20171105T190151Z">
@@ -4893,6 +4917,14 @@ in /lib/licenses/Licenses.txt.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The new colours have been saved.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="nessyk" changedate="20171106T221015Z" creationid="nessyk" creationdate="20171106T221015Z">
+        <seg>Нові кольори були збережені.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The password cannot be empty.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="nessyk" changedate="20171026T180709Z" creationid="nessyk" creationdate="20171026T180709Z">
@@ -5583,6 +5615,14 @@ Exact searches match the whole search string.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Лера9764" changedate="20171025T180223Z" creationid="Лера9764" creationdate="20171025T180223Z">
         <seg>{0} завантажено.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>{0} toggles orientation between LTR, RTL, and language-dependent</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="nessyk" changedate="20171106T221300Z" creationid="nessyk" creationdate="20171106T221200Z">
+        <seg>{0} перемикає орієнтацію між LTR, RTL і залежить від мови</seg>
       </tuv>
     </tu>
     <tu>
