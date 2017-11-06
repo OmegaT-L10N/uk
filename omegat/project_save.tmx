@@ -22,6 +22,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Access Project Contents</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Маринка" changedate="20171106T202238Z" creationid="Маринка" creationdate="20171106T202238Z">
+        <seg>&amp;Доступ до змісту проекту</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;Add</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Лера9764" changedate="20171030T181449Z" creationid="Лера9764" creationdate="20171025T180855Z">
@@ -120,8 +128,8 @@
       <tuv lang="EN">
         <seg>&amp;Current Source Document</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="Маринка" changedate="20171026T191221Z" creationid="Маринка" creationdate="20171026T191221Z">
-        <seg>&amp;Current Source Document</seg>
+      <tuv lang="UK-UA" changeid="Маринка" changedate="20171106T202323Z" creationid="Маринка" creationdate="20171026T191221Z">
+        <seg>&amp;Поточний вихідний документ</seg>
       </tuv>
     </tu>
     <tu>
@@ -402,6 +410,14 @@
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20170902T164542Z" creationid="Kos Ivantsov" creationdate="20170902T164542Z">
         <seg>&amp;Проект</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;Properties...</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Маринка" changedate="20171106T202209Z" creationid="Маринка" creationdate="20171106T202209Z">
+        <seg>&amp;Віластивості...</seg>
       </tuv>
     </tu>
     <tu>
@@ -861,6 +877,14 @@ To add files to the project, click on the Copy Files to Source Folder... button 
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;p0&gt;OmegaT&lt;/p0&gt; &lt;s1&gt;Team projects&lt;/s1&gt; &lt;s2&gt;Team projects&lt;/s2&gt;</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Маринка" changedate="20171106T202045Z" creationid="Маринка" creationdate="20171106T202045Z">
+        <seg>&lt;p0&gt;OmegaT&lt;/p0&gt; &lt;s1&gt;Team projects&lt;/s1&gt; &lt;s2&gt;Team projects&lt;/s2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;p0&gt;Plugins&lt;/p0&gt; &lt;s1&gt;LanguageTool&lt;/s1&gt;</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Tetiana21" changedate="20171105T131515Z" creationid="Tetiana21" creationdate="20171105T131515Z">
@@ -1137,6 +1161,14 @@ To add files to the project, click on the Copy Files to Source Folder... button 
       </tuv>
       <tuv lang="UK-UA" changeid="nessyk" changedate="20171102T205822Z" creationid="nessyk" creationdate="20171102T205822Z">
         <seg>Browse...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>C&amp;urrent Target Document</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Маринка" changedate="20171106T202246Z" creationid="Маринка" creationdate="20171106T202246Z">
+        <seg>C&amp;urrent Target Document</seg>
       </tuv>
     </tu>
     <tu>
@@ -1529,6 +1561,14 @@ To add files to the project, click on the Copy Files to Source Folder... button 
       </tuv>
       <tuv lang="UK-UA" changeid="Лера9764" changedate="20171030T193528Z" creationid="Лера9764" creationdate="20171030T193528Z">
         <seg>Створити &amp;Перекладені документи</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Create Current Translated &amp;Document</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Маринка" changedate="20171106T202120Z" creationid="Маринка" creationdate="20171106T202120Z">
+        <seg>Create Current Translated &amp;Document</seg>
       </tuv>
     </tu>
     <tu>
@@ -3103,6 +3143,14 @@ To add files to the project, click on the Copy Files to Source Folder... button 
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>OmegaT has an inline spelling checker.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Маринка" changedate="20171106T202050Z" creationid="Маринка" creationdate="20171106T202050Z">
+        <seg>OmegaT has an inline spelling checker.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>OmegaT has chosen option 'Yes' automatically.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20170902T165839Z">
@@ -3256,6 +3304,14 @@ published by the Free Software Foundation, either version 3 of the License, or
 	Лише шлях до проекту: Запустити GUI та завантажити вказаний проект
 	team
 		Інструмент для роботи з командними проектами.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Other OmegaT resources</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Маринка" changedate="20171106T202045Z" creationid="Маринка" creationdate="20171106T202045Z">
+        <seg>Other OmegaT resources</seg>
       </tuv>
     </tu>
     <tu>
@@ -4202,6 +4258,14 @@ The scope of a search is by default the project and can be set to be any files l
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Shortcuts customization</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Маринка" changedate="20171106T202040Z" creationid="Маринка" creationdate="20171106T202040Z">
+        <seg>Shortcuts customization</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Show Raw Key Names</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Tetiana21" changedate="20171105T155815Z" creationid="Tetiana21" creationdate="20171105T155815Z">
@@ -4577,6 +4641,14 @@ in /lib/licenses/Licenses.txt.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="nessyk" changedate="20171102T205925Z" creationid="nessyk" creationdate="20171102T205925Z">
         <seg>Вказані файли не підтримуються.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The tokenizer plug-in was integrated into OmegaT in version 3.0.0.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Маринка" changedate="20171106T202046Z" creationid="Маринка" creationdate="20171106T202046Z">
+        <seg>The tokenizer plug-in was integrated into OmegaT in version 3.0.0.</seg>
       </tuv>
     </tu>
     <tu>
