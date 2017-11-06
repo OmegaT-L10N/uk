@@ -5663,6 +5663,14 @@ Exact searches match the whole search string.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Whitespaces</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="nessyk" changedate="20171106T224930Z" creationid="nessyk" creationdate="20171106T224930Z">
+        <seg>Проміжки</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Word</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="nessyk" changedate="20171030T173819Z" creationid="nessyk" creationdate="20171030T173647Z">
