@@ -310,6 +310,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Make the segmentation rules project specific</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Маринка" changedate="20171106T204606Z" creationid="Маринка" creationdate="20171106T204606Z">
+        <seg>&amp;Виберіть конкретні правила сегментації проекту</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;Match Statistics</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20170902T182741Z" creationid="Kos Ivantsov" creationdate="20170902T182734Z">
@@ -610,6 +618,14 @@
       </tuv>
       <tuv lang="UK-UA" changeid="Маринка" changedate="20171026T191159Z" creationid="Маринка" creationdate="20171026T191159Z">
         <seg>&amp;Файли вихідної мови</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;Source Files Language:</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Маринка" changedate="20171106T204840Z" creationid="Маринка" creationdate="20171106T204840Z">
+        <seg>&amp;Source Files Language:</seg>
       </tuv>
     </tu>
     <tu>
@@ -2245,6 +2261,14 @@ To add files to the project, click on the Copy Files to Source Folder... button 
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>File locations</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Маринка" changedate="20171106T204524Z" creationid="Маринка" creationdate="20171106T204524Z">
+        <seg>Розташування файлів</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>File {0}: {1}</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20170427T115657Z" creationid="Kos Ivantsov" creationdate="20170427T115657Z">
@@ -2361,6 +2385,14 @@ To add files to the project, click on the Copy Files to Source Folder... button 
       </tuv>
       <tuv lang="UK-UA" changeid="Лера9764" changedate="20171031T065228Z" creationid="Лера9764" creationdate="20171031T065228Z">
         <seg>Глосарій</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Glossary Folder:</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Маринка" changedate="20171106T204658Z" creationid="Маринка" creationdate="20171106T204653Z">
+        <seg>Папка глосарія:</seg>
       </tuv>
     </tu>
     <tu>
@@ -4434,6 +4466,14 @@ The scope of a search is by default the project and can be set to be any files l
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Source Files Folder:</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Маринка" changedate="20171106T204631Z" creationid="Маринка" creationdate="20171106T204631Z">
+        <seg>Папка вихідних файлів:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Source file loading complete</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Маринка" changedate="20171101T215226Z" creationid="Маринка" creationdate="20171101T215226Z">
@@ -4837,6 +4877,14 @@ in /lib/licenses/Licenses.txt.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Translated Files Folder:</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Маринка" changedate="20171106T204643Z" creationid="Маринка" creationdate="20171106T204643Z">
+        <seg>Папка перекладених файлів:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Translated document created</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20170905T224200Z" creationid="Kos Ivantsov" creationdate="20170905T224200Z">
@@ -4881,6 +4929,14 @@ in /lib/licenses/Licenses.txt.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Tetiana21" changedate="20171105T150534Z" creationid="Tetiana21" creationdate="20171105T150534Z">
         <seg>Переклад</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Translation Memory Folder:</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Маринка" changedate="20171106T204731Z" creationid="Маринка" creationdate="20171106T204731Z">
+        <seg>Папка пам'яті перекладу:</seg>
       </tuv>
     </tu>
     <tu>
@@ -5187,6 +5243,14 @@ Exact searches match the whole search string.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Лера9764" changedate="20171031T065802Z" creationid="Лера9764" creationdate="20171025T175500Z">
         <seg>Слів</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Writeable Glossary File:</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Маринка" changedate="20171106T204655Z" creationid="Маринка" creationdate="20171106T204655Z">
+        <seg>Writeable Glossary File:</seg>
       </tuv>
     </tu>
     <tu>
