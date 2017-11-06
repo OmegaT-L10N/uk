@@ -1173,6 +1173,14 @@ To add files to the project, click on the Copy Files to Source Folder... button 
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>An existing translation was changed to something different from what you chose.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="nessyk" changedate="20171106T221956Z" creationid="nessyk" creationdate="20171106T221956Z">
+        <seg>Існуючий переклад був змінений на щось, що відрізняється від того, що ви обрали</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>An item named "{0}" already exists in this location.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="nessyk" changedate="20171106T221601Z" creationid="nessyk" creationdate="20171106T221601Z">
@@ -2925,6 +2933,14 @@ To add files to the project, click on the Copy Files to Source Folder... button 
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Keep Mine</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="nessyk" changedate="20171106T222133Z" creationid="nessyk" creationdate="20171106T222133Z">
+        <seg>Зберегти моє</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Keep None</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="nessyk" changedate="20171101T184914Z" creationid="nessyk" creationdate="20171101T184806Z">
@@ -2935,8 +2951,8 @@ To add files to the project, click on the Copy Files to Source Folder... button 
       <tuv lang="EN">
         <seg>Keep Other</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="Tetiana21" changedate="20171105T160216Z" creationid="Tetiana21" creationdate="20171105T160216Z">
-        <seg>Keep Other</seg>
+      <tuv lang="UK-UA" changeid="nessyk" changedate="20171106T222141Z" creationid="Tetiana21" creationdate="20171105T160216Z">
+        <seg>Зберегти інше</seg>
       </tuv>
     </tu>
     <tu>
@@ -3171,6 +3187,14 @@ To add files to the project, click on the Copy Files to Source Folder... button 
       </tuv>
       <tuv lang="UK-UA" changeid="nessyk" changedate="20171025T180622Z" creationid="nessyk" creationdate="20171025T180622Z">
         <seg>Об'єднати </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Mine</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="nessyk" changedate="20171106T222058Z" creationid="nessyk" creationdate="20171106T222025Z">
+        <seg>Моє</seg>
       </tuv>
     </tu>
     <tu>
@@ -3600,6 +3624,14 @@ published by the Free Software Foundation, either version 3 of the License, or
 	Лише шлях до проекту: Запустити GUI та завантажити вказаний проект
 	team
 		Інструмент для роботи з командними проектами.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Other</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="nessyk" changedate="20171106T222113Z" creationid="nessyk" creationdate="20171106T222113Z">
+        <seg>Інше</seg>
       </tuv>
     </tu>
     <tu>
@@ -5459,6 +5491,14 @@ Exact searches match the whole search string.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20170929T121648Z" creationid="Kos Ivantsov" creationdate="20170929T121648Z">
         <seg>Що таке OmegaT?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Which version do you want to keep?</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="nessyk" changedate="20171106T222023Z" creationid="nessyk" creationdate="20171106T222023Z">
+        <seg>Яку версію ви хочете зберегти?</seg>
       </tuv>
     </tu>
     <tu>
