@@ -1157,6 +1157,14 @@ To add files to the project, click on the Copy Files to Source Folder... button 
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Aligner "Accepted" Group</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="nessyk" changedate="20171106T231724Z" creationid="nessyk" creationdate="20171106T230118Z">
+        <seg>Елайнер "Прийнята" група</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>All</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="nessyk" changedate="20171030T174312Z" creationid="nessyk" creationdate="20171030T174312Z">
@@ -3577,8 +3585,8 @@ To add files to the project, click on the Copy Files to Source Folder... button 
       <tuv lang="EN">
         <seg>Notification (flash)</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="nessyk" changedate="20171106T230112Z" creationid="nessyk" creationdate="20171106T230112Z">
-        <seg>Сповіщення  (змінне)</seg>
+      <tuv lang="UK-UA" changeid="nessyk" changedate="20171106T230122Z" creationid="nessyk" creationdate="20171106T230112Z">
+        <seg>Сповіщення (змінне)</seg>
       </tuv>
     </tu>
     <tu>
