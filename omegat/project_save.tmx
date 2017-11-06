@@ -1061,6 +1061,38 @@ To add files to the project, click on the Copy Files to Source Folder... button 
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Active segment source</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="nessyk" changedate="20171106T222651Z" creationid="nessyk" creationdate="20171106T222651Z">
+        <seg>Активний ресурс сегмента</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Active segment source text</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="nessyk" changedate="20171106T222729Z" creationid="nessyk" creationdate="20171106T222729Z">
+        <seg>Активний вихідний текст сегмента</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Active segment target</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="nessyk" changedate="20171106T222616Z" creationid="nessyk" creationdate="20171106T222616Z">
+        <seg>Активна ціль сегмента</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Active segment target text</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="nessyk" changedate="20171106T222625Z" creationid="nessyk" creationdate="20171106T222625Z">
+        <seg>Active segment target text</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Add</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Лера9764" changedate="20171025T180849Z" creationid="Лера9764" creationdate="20171025T180849Z">
@@ -4958,6 +4990,14 @@ The scope of a search is by default the project and can be set to be any files l
       </tuv>
       <tuv lang="UK-UA" changeid="nessyk" changedate="20171025T181022Z" creationid="nessyk" creationdate="20171025T181022Z">
         <seg>Спроба</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Text</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="nessyk" changedate="20171106T222630Z" creationid="nessyk" creationdate="20171106T222630Z">
+        <seg>Текст</seg>
       </tuv>
     </tu>
     <tu>
