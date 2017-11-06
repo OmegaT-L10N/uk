@@ -1317,6 +1317,14 @@ To add files to the project, click on the Copy Files to Source Folder... button 
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Bidirectional control characters</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="nessyk" changedate="20171106T225150Z" creationid="nessyk" creationdate="20171106T225150Z">
+        <seg>Двонаправлені контрольні символи</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Browse</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Маринка" changedate="20171106T204931Z" creationid="Маринка" creationdate="20171106T204931Z">
