@@ -1589,6 +1589,14 @@ To add files to the project, click on the Copy Files to Source Folder... button 
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Create &amp;Glossary Entry...</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Маринка" changedate="20171106T204101Z" creationid="Маринка" creationdate="20171106T204101Z">
+        <seg>Створити та увійти у глосарій...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Create &amp;Translated Documents</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Лера9764" changedate="20171030T193528Z" creationid="Лера9764" creationdate="20171030T193528Z">
@@ -2489,6 +2497,22 @@ To add files to the project, click on the Copy Files to Source Folder... button 
       </tuv>
       <tuv lang="UK-UA" changeid="Tetiana21" changedate="20171105T201330Z" creationid="Tetiana21" creationdate="20171105T201330Z">
         <seg>Ініціалізація</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Insert Missing Source &amp;Tags</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Маринка" changedate="20171106T203956Z" creationid="Маринка" creationdate="20171106T203907Z">
+        <seg>Вставити відсутні джерела та теґи</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Insert Next Missing Tag</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Маринка" changedate="20171106T203950Z" creationid="Маринка" creationdate="20171106T203925Z">
+        <seg>Вставити наступний відсутній теґ </seg>
       </tuv>
     </tu>
     <tu>
