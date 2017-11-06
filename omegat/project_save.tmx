@@ -1357,6 +1357,14 @@ To add files to the project, click on the Copy Files to Source Folder... button 
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Choose MED project</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Маринка" changedate="20171106T205359Z" creationid="Маринка" creationdate="20171106T205359Z">
+        <seg>Відкрити MED Проект</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Choose Source File</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="nessyk" changedate="20171102T210023Z" creationid="nessyk" creationdate="20171102T210004Z">
@@ -1672,6 +1680,14 @@ To add files to the project, click on the Copy Files to Source Folder... button 
         <seg>Create New Project</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Лера9764" changedate="20171031T065812Z" creationid="Лера9764" creationdate="20171031T065812Z">
+        <seg>Створити новий проект</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Create a New Project</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Маринка" changedate="20171106T205335Z" creationid="Маринка" creationdate="20171106T205335Z">
         <seg>Створити новий проект</seg>
       </tuv>
     </tu>
@@ -2473,6 +2489,14 @@ To add files to the project, click on the Copy Files to Source Folder... button 
       </tuv>
       <tuv lang="UK-UA" changeid="Tetiana21" changedate="20171105T144905Z" creationid="nessyk" creationdate="20171030T173252Z">
         <seg>0Heapwise</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Here you may also specify custom location of project folders.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Маринка" changedate="20171106T205317Z" creationid="Маринка" creationdate="20171106T205317Z">
+        <seg>Тут ви можете конкретизувати розташування папок проекту.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3604,6 +3628,14 @@ a description of how this error was produced.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Tetiana21" changedate="20171105T190151Z" creationid="Tetiana21" creationdate="20171105T190151Z">
         <seg>Please select how tags of non-OmegaT TMXs should be displayed.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Please select the language of your source files and the target language you would like to translate to.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Маринка" changedate="20171106T205233Z" creationid="Маринка" creationdate="20171106T205233Z">
+        <seg>Виберіть, будь ласка, мови вихідних  та цільових файлів, якими ви хотіли б перекладати. </seg>
       </tuv>
     </tu>
     <tu>
@@ -5375,6 +5407,14 @@ Exact searches match the whole search string.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Лера9764" changedate="20171102T184130Z" creationid="Лера9764" creationdate="20171102T184130Z">
         <seg>Формат файлів вашого проекту не підтримується.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>ZIP files</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Маринка" changedate="20171106T205406Z" creationid="Маринка" creationdate="20171106T205406Z">
+        <seg>ZIP-файли</seg>
       </tuv>
     </tu>
     <tu>
