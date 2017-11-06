@@ -2725,6 +2725,14 @@ To add files to the project, click on the Copy Files to Source Folder... button 
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Hyperlinks</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="nessyk" changedate="20171106T225906Z" creationid="nessyk" creationdate="20171106T225906Z">
+        <seg>Гіперпосилання</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>I Understand; Do It Anyway</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="nessyk" changedate="20171026T173928Z" creationid="nessyk" creationdate="20171026T173928Z">
@@ -3271,10 +3279,34 @@ To add files to the project, click on the Copy Files to Source Folder... button 
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Matches Deleted Active</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="nessyk" changedate="20171106T225837Z" creationid="nessyk" creationdate="20171106T225837Z">
+        <seg>Видаленні збіги активні</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Matches Deleted Inactive</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="nessyk" changedate="20171106T225843Z" creationid="nessyk" creationdate="20171106T225843Z">
+        <seg>Видаленні збіги неактивні</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Matches Inserted Active</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="nessyk" changedate="20171106T225800Z" creationid="nessyk" creationdate="20171106T225800Z">
         <seg>Обрані збіги активні</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Matches Inserted Inactive</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="nessyk" changedate="20171106T225815Z" creationid="nessyk" creationdate="20171106T225815Z">
+        <seg>Обрані збіги неактивні</seg>
       </tuv>
     </tu>
     <tu>
@@ -3539,6 +3571,22 @@ To add files to the project, click on the Copy Files to Source Folder... button 
       </tuv>
       <tuv lang="UK-UA" changeid="Tetiana21" changedate="20171105T145459Z" creationid="Tetiana21" creationdate="20171105T145459Z">
         <seg>Примітка</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Notification (flash)</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="nessyk" changedate="20171106T230112Z" creationid="nessyk" creationdate="20171106T230112Z">
+        <seg>Сповіщення  (змінне)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Notification (steady)</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="nessyk" changedate="20171106T225954Z" creationid="nessyk" creationdate="20171106T225954Z">
+        <seg>Сповіщення (зафіксоване)</seg>
       </tuv>
     </tu>
     <tu>
