@@ -1295,8 +1295,8 @@ To add files to the project, click on the Copy Files to Source Folder... button 
       <tuv lang="EN">
         <seg>Browse...</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="nessyk" changedate="20171102T205822Z" creationid="nessyk" creationdate="20171102T205822Z">
-        <seg>Browse...</seg>
+      <tuv lang="UK-UA" changeid="nessyk" changedate="20171106T222333Z" creationid="nessyk" creationdate="20171102T205822Z">
+        <seg>Пошук...</seg>
       </tuv>
     </tu>
     <tu>
@@ -2589,6 +2589,14 @@ To add files to the project, click on the Copy Files to Source Folder... button 
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Has note</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="nessyk" changedate="20171106T222304Z" creationid="nessyk" creationdate="20171106T222304Z">
+        <seg>Має примітку</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Heapwise</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Tetiana21" changedate="20171105T144905Z" creationid="nessyk" creationdate="20171030T173252Z">
@@ -2783,8 +2791,8 @@ To add files to the project, click on the Copy Files to Source Folder... button 
       <tuv lang="EN">
         <seg>Is alternative</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="Tetiana21" changedate="20171105T145314Z" creationid="Tetiana21" creationdate="20171105T145314Z">
-        <seg>Альтернатива</seg>
+      <tuv lang="UK-UA" changeid="nessyk" changedate="20171106T222314Z" creationid="Tetiana21" creationdate="20171105T145314Z">
+        <seg>Є альтернативою</seg>
       </tuv>
     </tu>
     <tu>
@@ -3401,8 +3409,8 @@ To add files to the project, click on the Copy Files to Source Folder... button 
       <tuv lang="EN">
         <seg>Notify Me When a Segment Has "{0}"</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="Tetiana21" changedate="20171105T155623Z" creationid="Tetiana21" creationdate="20171105T155623Z">
-        <seg>Повідомте мене, коли сегмент  "{0}"</seg>
+      <tuv lang="UK-UA" changeid="nessyk" changedate="20171106T222211Z" creationid="Tetiana21" creationdate="20171105T155623Z">
+        <seg>Повідомте мене, коли сегмент  матиме "{0}"</seg>
       </tuv>
     </tu>
     <tu>
