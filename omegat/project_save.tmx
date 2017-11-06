@@ -518,6 +518,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Reset This Colour</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="nessyk" changedate="20171106T220859Z" creationid="nessyk" creationdate="20171106T220859Z">
+        <seg>&amp;Скинути цей колір</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;Restore Main Window</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Маринка" changedate="20171026T191357Z" creationid="Маринка" creationdate="20171026T191357Z">
@@ -1169,6 +1177,14 @@ To add files to the project, click on the Copy Files to Source Folder... button 
       </tuv>
       <tuv lang="UK-UA" changeid="nessyk" changedate="20171030T175326Z" creationid="nessyk" creationdate="20171030T172255Z">
         <seg>Підтвердити &amp; виправити</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Are you sure you want to reset all custom colours?</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="nessyk" changedate="20171106T220959Z" creationid="nessyk" creationdate="20171106T220959Z">
+        <seg>Ви впевнені, що хочете скинути всі власні кольори?</seg>
       </tuv>
     </tu>
     <tu>
@@ -4044,6 +4060,14 @@ a description of how this error was produced.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="nessyk" changedate="20171025T180327Z" creationid="nessyk" creationdate="20171025T180327Z">
         <seg>Скинути</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Reset &amp;All Colours</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="nessyk" changedate="20171106T220914Z" creationid="nessyk" creationdate="20171106T220914Z">
+        <seg>Скинути &amp;Всі кольори</seg>
       </tuv>
     </tu>
     <tu>
