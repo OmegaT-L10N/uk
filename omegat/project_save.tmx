@@ -590,6 +590,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Show relevant suggestions automatically</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Маринка" changedate="20171106T204326Z" creationid="Маринка" creationdate="20171106T204326Z">
+        <seg>&amp;Показати відповідні пропозиції автоматично</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;Skip</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Лера9764" changedate="20171030T181504Z" creationid="Лера9764" creationdate="20171030T181504Z">
@@ -1161,6 +1169,14 @@ To add files to the project, click on the Copy Files to Source Folder... button 
       </tuv>
       <tuv lang="UK-UA" changeid="Лера9764" changedate="20171105T154858Z" creationid="Лера9764" creationdate="20171105T154858Z">
         <seg>Ав&amp;тор:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Auto-Completion</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Маринка" changedate="20171106T204252Z" creationid="Маринка" creationdate="20171106T204252Z">
+        <seg>Автоматичне завершення</seg>
       </tuv>
     </tu>
     <tu>
@@ -2409,6 +2425,22 @@ To add files to the project, click on the Copy Files to Source Folder... button 
       </tuv>
       <tuv lang="UK-UA" changeid="Маринка" changedate="20171026T191313Z" creationid="Маринка" creationdate="20171026T191313Z">
         <seg>історія</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>History Completion</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Маринка" changedate="20171106T204237Z" creationid="Маринка" creationdate="20171106T204237Z">
+        <seg>Завершення історії</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>History Prediction</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Маринка" changedate="20171106T204239Z" creationid="Маринка" creationdate="20171106T204239Z">
+        <seg>History Prediction</seg>
       </tuv>
     </tu>
     <tu>
@@ -4534,6 +4566,14 @@ The scope of a search is by default the project and can be set to be any files l
       </tuv>
       <tuv lang="UK-UA" changeid="nessyk" changedate="20171102T210040Z" creationid="nessyk" creationdate="20171102T210019Z">
         <seg>Підтримувані файли</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Switch views with {0} and {1}</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Маринка" changedate="20171106T204425Z" creationid="Маринка" creationdate="20171106T204425Z">
+        <seg>Switch views with {0} and {1}</seg>
       </tuv>
     </tu>
     <tu>
