@@ -86,6 +86,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Apply to all</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="nessyk" changedate="20171106T221722Z" creationid="nessyk" creationdate="20171106T221722Z">
+        <seg>&amp;Застосовувати до всіх</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;Auto-propagation of Translations</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Маринка" changedate="20171106T204850Z" creationid="Маринка" creationdate="20171106T204850Z">
@@ -1157,6 +1165,22 @@ To add files to the project, click on the Copy Files to Source Folder... button 
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>An error occurred while opening the item.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="nessyk" changedate="20171106T221810Z" creationid="nessyk" creationdate="20171106T221810Z">
+        <seg>Під час відкриття елемента сталася помилка.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>An item named "{0}" already exists in this location.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="nessyk" changedate="20171106T221601Z" creationid="nessyk" creationdate="20171106T221601Z">
+        <seg>Елемент з ім'ям "{0}" вже існує в цьому місці.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>An item of the name "{0}" already exists at this location.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="nessyk" changedate="20171030T172552Z" creationid="nessyk" creationdate="20171030T172552Z">
@@ -1897,6 +1921,14 @@ To add files to the project, click on the Copy Files to Source Folder... button 
       </tuv>
       <tuv lang="UK-UA" changeid="nessyk" changedate="20171030T172611Z" creationid="nessyk" creationdate="20171030T172611Z">
         <seg>Ви хочете переписати його?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Do you want to replace it with the one you're moving?</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="nessyk" changedate="20171106T221642Z" creationid="nessyk" creationdate="20171106T221642Z">
+        <seg>Ви хочете замінити його одним кліком?</seg>
       </tuv>
     </tu>
     <tu>
@@ -4132,6 +4164,14 @@ a description of how this error was produced.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="nessyk" changedate="20171026T180450Z" creationid="nessyk" creationdate="20171026T173118Z">
         <seg>Скинути майстер-пароль</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Resolve Conflicts</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="nessyk" changedate="20171106T221830Z" creationid="nessyk" creationdate="20171106T221830Z">
+        <seg>Вирішити проблеми</seg>
       </tuv>
     </tu>
     <tu>
