@@ -1957,6 +1957,38 @@ To add files to the project, click on the Copy Files to Source Folder... button 
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Drop TMX files here to add them to the project.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="nessyk" changedate="20171106T221508Z" creationid="nessyk" creationdate="20171106T221415Z">
+        <seg>Перетягніть TMX файли, що додати їх до проекту.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Drop a project here to open it.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="nessyk" changedate="20171106T221525Z" creationid="nessyk" creationdate="20171106T221525Z">
+        <seg>Перетягніть проект сюди, щоб відкрити</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Drop files here to add them to the project.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="nessyk" changedate="20171106T221336Z" creationid="nessyk" creationdate="20171106T221336Z">
+        <seg>Перетягніть файли сюди, щоб додати їх до проекту.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Drop glossary files here to add them to the project.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="nessyk" changedate="20171106T221430Z" creationid="nessyk" creationdate="20171106T221402Z">
+        <seg>Перетягніть файли глосарію сюди, щоб додати їх до проекту.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Duplicate segments: {0}</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20170902T184623Z" creationid="Kos Ivantsov" creationdate="20170902T184623Z">
