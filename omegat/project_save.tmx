@@ -1087,8 +1087,8 @@ To add files to the project, click on the Copy Files to Source Folder... button 
       <tuv lang="EN">
         <seg>Active segment target text</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="nessyk" changedate="20171106T222625Z" creationid="nessyk" creationdate="20171106T222625Z">
-        <seg>Active segment target text</seg>
+      <tuv lang="UK-UA" changeid="nessyk" changedate="20171106T222820Z" creationid="nessyk" creationdate="20171106T222625Z">
+        <seg>Активний цільовий текст сегмента</seg>
       </tuv>
     </tu>
     <tu>
@@ -4490,6 +4490,22 @@ The scope of a search is by default the project and can be set to be any files l
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Segment marker background</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="nessyk" changedate="20171106T222937Z" creationid="nessyk" creationdate="20171106T222913Z">
+        <seg>Фрагмент маркеру сегмента</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Segment marker text</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="nessyk" changedate="20171106T222926Z" creationid="nessyk" creationdate="20171106T222856Z">
+        <seg>Текст маркеру сегмента</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Segment {0,number,#}</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20170902T184729Z" creationid="Kos Ivantsov" creationdate="20170902T184729Z">
@@ -4782,6 +4798,14 @@ The scope of a search is by default the project and can be set to be any files l
       </tuv>
       <tuv lang="UK-UA" changeid="Tetiana21" changedate="20171105T131601Z" creationid="Tetiana21" creationdate="20171105T131601Z">
         <seg>Source segmentation</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Source segments</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="nessyk" changedate="20171106T223031Z" creationid="nessyk" creationdate="20171106T222919Z">
+        <seg>Джерела сегментів</seg>
       </tuv>
     </tu>
     <tu>
