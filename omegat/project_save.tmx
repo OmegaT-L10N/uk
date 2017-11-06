@@ -4024,6 +4024,14 @@ a description of how this error was produced.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Repository Mapping</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Маринка" changedate="20171106T205509Z" creationid="Маринка" creationdate="20171106T205509Z">
+        <seg>Repository Mapping</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Repository {0} unknown</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Лера9764" changedate="20171105T154843Z" creationid="Лера9764" creationdate="20171105T154843Z">
@@ -5139,6 +5147,22 @@ Exact searches match the whole search string.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Маринка" changedate="20171101T215246Z" creationid="Маринка" creationdate="20171101T215246Z">
         <seg>Не вдається створити новий файл TMX!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Unable to convert project!</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Маринка" changedate="20171106T205432Z" creationid="Маринка" creationdate="20171106T205432Z">
+        <seg>Не вдалося конвертувати проект!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Unable to download team project!</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Маринка" changedate="20171106T205449Z" creationid="Маринка" creationdate="20171106T205449Z">
+        <seg>Не вдалося завантажити груповий проект!</seg>
       </tuv>
     </tu>
     <tu>
