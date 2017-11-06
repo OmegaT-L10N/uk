@@ -86,6 +86,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Auto-propagation of Translations</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Маринка" changedate="20171106T204850Z" creationid="Маринка" creationdate="20171106T204850Z">
+        <seg>&amp;Auto-propagation of Translations</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;Automatically fetch translations</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="nessyk" changedate="20171026T174759Z" creationid="nessyk" creationdate="20171026T174732Z">
@@ -1221,6 +1229,14 @@ To add files to the project, click on the Copy Files to Source Folder... button 
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Browse</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Маринка" changedate="20171106T204931Z" creationid="Маринка" creationdate="20171106T204931Z">
+        <seg>Browse</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Browse...</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="nessyk" changedate="20171102T205822Z" creationid="nessyk" creationdate="20171102T205822Z">
@@ -1773,6 +1789,14 @@ To add files to the project, click on the Copy Files to Source Folder... button 
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Dictionary Folder:</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Маринка" changedate="20171106T204847Z" creationid="Маринка" creationdate="20171106T204847Z">
+        <seg>Папка словника:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Disable rule “{0}”</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="nessyk" changedate="20171030T171904Z" creationid="nessyk" creationdate="20171030T171904Z">
@@ -2125,6 +2149,14 @@ To add files to the project, click on the Copy Files to Source Folder... button 
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>External Post-processing Command:</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Маринка" changedate="20171106T204918Z" creationid="Маринка" creationdate="20171106T204918Z">
+        <seg>External Post-processing Command:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>External Search</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="nessyk" changedate="20171025T183444Z" creationid="nessyk" creationdate="20171025T183444Z">
@@ -2385,6 +2417,14 @@ To add files to the project, click on the Copy Files to Source Folder... button 
       </tuv>
       <tuv lang="UK-UA" changeid="Лера9764" changedate="20171031T065228Z" creationid="Лера9764" creationdate="20171031T065228Z">
         <seg>Глосарій</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Glossary Files Folder</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Маринка" changedate="20171106T204946Z" creationid="Маринка" creationdate="20171106T204946Z">
+        <seg>Glossary Files Folder</seg>
       </tuv>
     </tu>
     <tu>
@@ -3888,6 +3928,14 @@ a description of how this error was produced.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Remove Ta&amp;gs</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Маринка" changedate="20171106T204901Z" creationid="Маринка" creationdate="20171106T204901Z">
+        <seg>Замінити те&amp;ги</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Remove Tags</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="nessyk" changedate="20171101T183543Z" creationid="nessyk" creationdate="20171101T183543Z">
@@ -5303,6 +5351,14 @@ Exact searches match the whole search string.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20170902T184458Z" creationid="Kos Ivantsov" creationdate="20170902T184458Z">
         <seg>Необхідно вказати число від 1 до {0}.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You should specify their new location or recreate them.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Маринка" changedate="20171106T205113Z" creationid="Маринка" creationdate="20171106T205113Z">
+        <seg>Ви маєте конкретизувати їх нове розташування або заново створити. </seg>
       </tuv>
     </tu>
     <tu>
