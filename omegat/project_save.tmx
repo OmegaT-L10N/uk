@@ -2557,6 +2557,38 @@ To add files to the project, click on the Copy Files to Source Folder... button 
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>From 100% memory</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="nessyk" changedate="20171106T225306Z" creationid="nessyk" creationdate="20171106T225234Z">
+        <seg>З пам'яті 100% </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>From ICE memory</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="nessyk" changedate="20171106T225252Z" creationid="nessyk" creationdate="20171106T225228Z">
+        <seg>З пам'яті ICE </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>From auto memory</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="nessyk" changedate="20171106T225330Z" creationid="nessyk" creationdate="20171106T225330Z">
+        <seg>З автоматичної пам'яті</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>From memory</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="nessyk" changedate="20171106T225225Z" creationid="nessyk" creationdate="20171106T225225Z">
+        <seg>З пам'яті</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>General</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="nessyk" changedate="20171026T171559Z" creationid="nessyk" creationdate="20171026T133031Z">
@@ -3017,6 +3049,14 @@ To add files to the project, click on the Copy Files to Source Folder... button 
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20170902T183914Z" creationid="Kos Ivantsov" creationdate="20170902T183356Z">
         <seg>&amp;Журнал...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Language Checker</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="nessyk" changedate="20171106T225400Z" creationid="nessyk" creationdate="20171106T225400Z">
+        <seg>Перевірка мови</seg>
       </tuv>
     </tu>
     <tu>
@@ -4224,6 +4264,14 @@ a description of how this error was produced.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Replace</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="nessyk" changedate="20171106T225337Z" creationid="nessyk" creationdate="20171106T225337Z">
+        <seg>Замінити</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Replace with &amp;Machine Translation</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Лера9764" changedate="20171030T193719Z" creationid="Лера9764" creationdate="20171030T193719Z">
@@ -4894,6 +4942,14 @@ The scope of a search is by default the project and can be set to be any files l
       </tuv>
       <tuv lang="UK-UA" changeid="nessyk" changedate="20171025T182404Z" creationid="nessyk" creationdate="20171025T182404Z">
         <seg>Specify a mnemonic with "&amp;": "F&amp;oobar" to use O</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Spellcheck</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="nessyk" changedate="20171106T225438Z" creationid="nessyk" creationdate="20171106T225438Z">
+        <seg>Spellcheck</seg>
       </tuv>
     </tu>
     <tu>
