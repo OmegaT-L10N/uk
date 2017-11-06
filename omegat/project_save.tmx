@@ -3239,6 +3239,14 @@ To add files to the project, click on the Copy Files to Source Folder... button 
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Modification info</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="nessyk" changedate="20171106T223857Z" creationid="nessyk" creationdate="20171106T223857Z">
+        <seg>Інформація про модифікацію</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>More</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Маринка" changedate="20171101T205146Z" creationid="Маринка" creationdate="20171101T205146Z">
@@ -3403,6 +3411,22 @@ To add files to the project, click on the Copy Files to Source Folder... button 
       </tuv>
       <tuv lang="UK-UA" changeid="Tetiana21" changedate="20171105T131556Z" creationid="Tetiana21" creationdate="20171105T131556Z">
         <seg>Non-breaking space</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Non-unique segments</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="nessyk" changedate="20171106T223548Z" creationid="nessyk" creationdate="20171106T223548Z">
+        <seg>Не унікальні сегменти</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Non-unique segments background</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="nessyk" changedate="20171106T223605Z" creationid="nessyk" creationdate="20171106T223605Z">
+        <seg>Не унікальні фони сегментів</seg>
       </tuv>
     </tu>
     <tu>
@@ -5249,6 +5273,22 @@ in /lib/licenses/Licenses.txt.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Tetiana21" changedate="20171105T202030Z" creationid="Tetiana21" creationdate="20171105T201949Z">
         <seg>Місцерозташування перекладеного файлу не знайдено </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Translated segments</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="nessyk" changedate="20171106T223527Z" creationid="nessyk" creationdate="20171106T223455Z">
+        <seg>Переклдені сегменти </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Translated segments text</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="nessyk" changedate="20171106T223522Z" creationid="nessyk" creationdate="20171106T223522Z">
+        <seg>Текст перекладеного сегмента </seg>
       </tuv>
     </tu>
     <tu>
