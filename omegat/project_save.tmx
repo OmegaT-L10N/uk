@@ -326,6 +326,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Load...</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Лера9764" changedate="20171107T200109Z" creationid="Лера9764" creationdate="20171107T200109Z">
+        <seg>&amp;Завантажити...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;Make the segmentation rules project specific</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Маринка" changedate="20171106T204606Z" creationid="Маринка" creationdate="20171106T204606Z">
