@@ -662,6 +662,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Source Language Tokenizer:</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Маринка" changedate="20171107T195351Z" creationid="Маринка" creationdate="20171107T195351Z">
+        <seg>&amp;Токанайзер вихідної мови:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;Statistics</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20170927T204551Z" creationid="Kos Ivantsov" creationdate="20170927T204551Z">
@@ -678,6 +686,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Target Language Tokenizer:</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Маринка" changedate="20171107T195403Z" creationid="Маринка" creationdate="20171107T195403Z">
+        <seg>&amp;Токанайзер цільової мови:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;Tools</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20170902T182654Z" creationid="Kos Ivantsov" creationdate="20170902T182654Z">
@@ -690,6 +706,14 @@
       </tuv>
       <tuv lang="UK-UA" changeid="Tetiana21" changedate="20171105T183222Z" creationid="Tetiana21" creationdate="20171105T183222Z">
         <seg>&amp;Перекладений текст</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;Translated Files Language:</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Маринка" changedate="20171107T195334Z" creationid="Маринка" creationdate="20171107T195334Z">
+        <seg>&amp;Перекладені файли мови:</seg>
       </tuv>
     </tu>
     <tu>
@@ -1933,6 +1957,14 @@ To add files to the project, click on the Copy Files to Source Folder... button 
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Dictionary Files Folder</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Маринка" changedate="20171107T195536Z" creationid="Маринка" creationdate="20171107T195536Z">
+        <seg>Папка файлів словника</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Dictionary Folder:</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Маринка" changedate="20171106T204847Z" creationid="Маринка" creationdate="20171106T204847Z">
@@ -2349,6 +2381,14 @@ To add files to the project, click on the Copy Files to Source Folder... button 
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Exclude Pattern</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Маринка" changedate="20171107T195652Z" creationid="Маринка" creationdate="20171107T195652Z">
+        <seg>Exclude Pattern</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>External Post-processing Command:</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Маринка" changedate="20171106T204918Z" creationid="Маринка" creationdate="20171106T204918Z">
@@ -2671,8 +2711,8 @@ To add files to the project, click on the Copy Files to Source Folder... button 
       <tuv lang="EN">
         <seg>Glossary Files Folder</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="Маринка" changedate="20171106T204946Z" creationid="Маринка" creationdate="20171106T204946Z">
-        <seg>Glossary Files Folder</seg>
+      <tuv lang="UK-UA" changeid="Маринка" changedate="20171107T195508Z" creationid="Маринка" creationdate="20171106T204946Z">
+        <seg>Папка глосарія</seg>
       </tuv>
     </tu>
     <tu>
@@ -3251,6 +3291,14 @@ To add files to the project, click on the Copy Files to Source Folder... button 
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20170905T224027Z" creationid="Kos Ivantsov" creationdate="20170905T224027Z">
         <seg>Завантаження: {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Local File/Folder</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Маринка" changedate="20171107T195601Z" creationid="Маринка" creationdate="20171107T195601Z">
+        <seg>Локальний файл/папка</seg>
       </tuv>
     </tu>
     <tu>
@@ -4368,6 +4416,14 @@ a description of how this error was produced.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Remote File/Folder</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Маринка" changedate="20171107T195617Z" creationid="Маринка" creationdate="20171107T195617Z">
+        <seg>Remote File/Folder</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Remote Repositories</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Лера9764" changedate="20171105T154811Z" creationid="Лера9764" creationdate="20171105T154811Z">
@@ -5050,6 +5106,14 @@ The scope of a search is by default the project and can be set to be any files l
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Source Files Folder</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Маринка" changedate="20171107T195445Z" creationid="Маринка" creationdate="20171107T195445Z">
+        <seg>Папка вихідних файлів</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Source Files Folder:</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Маринка" changedate="20171106T204631Z" creationid="Маринка" creationdate="20171106T204631Z">
@@ -5557,6 +5621,14 @@ in /lib/licenses/Licenses.txt.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Translated Files Folder</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Маринка" changedate="20171107T195458Z" creationid="Маринка" creationdate="20171107T195458Z">
+        <seg>Папка перекладених файлів</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Translated Files Folder:</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Маринка" changedate="20171106T204643Z" creationid="Маринка" creationdate="20171106T204643Z">
@@ -5625,6 +5697,14 @@ in /lib/licenses/Licenses.txt.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Tetiana21" changedate="20171105T150534Z" creationid="Tetiana21" creationdate="20171105T150534Z">
         <seg>Переклад</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Translation Memory Files Folder</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Маринка" changedate="20171107T195526Z" creationid="Маринка" creationdate="20171107T195526Z">
+        <seg>Папка файлів памйяті перекладу</seg>
       </tuv>
     </tu>
     <tu>
@@ -5995,6 +6075,14 @@ Exact searches match the whole search string.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Лера9764" changedate="20171031T065802Z" creationid="Лера9764" creationdate="20171025T175500Z">
         <seg>Слів</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Writeable Glossary File</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Маринка" changedate="20171107T195552Z" creationid="Маринка" creationdate="20171107T195552Z">
+        <seg>Writeable Glossary File</seg>
       </tuv>
     </tu>
     <tu>
