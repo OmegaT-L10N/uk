@@ -1421,6 +1421,14 @@ To add files to the project, click on the Copy Files to Source Folder... button 
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Change date</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Лера9764" changedate="20171107T195708Z" creationid="Лера9764" creationdate="20171107T195708Z">
+        <seg>Змінити дату</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Changed by</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Tetiana21" changedate="20171105T145939Z" creationid="Tetiana21" creationdate="20171105T145939Z">
@@ -3603,6 +3611,14 @@ To add files to the project, click on the Copy Files to Source Folder... button 
       </tuv>
       <tuv lang="UK-UA" changeid="Лера9764" changedate="20171031T065204Z" creationid="Лера9764" creationdate="20171031T065204Z">
         <seg>Наступний уні&amp;кальний сегмент</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Next →</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Лера9764" changedate="20171107T195726Z" creationid="Лера9764" creationdate="20171107T195726Z">
+        <seg>Наступний →</seg>
       </tuv>
     </tu>
     <tu>
@@ -6351,6 +6367,14 @@ Exact searches match the whole search string.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Tetiana21" changedate="20171105T200816Z" creationid="Tetiana21" creationdate="20171105T200816Z">
         <seg>{1}, executed from '{2}'</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>← Back</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Лера9764" changedate="20171107T195741Z" creationid="Лера9764" creationdate="20171107T195741Z">
+        <seg>← Попередній</seg>
       </tuv>
     </tu>
     <tu>
