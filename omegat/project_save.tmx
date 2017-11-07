@@ -3639,6 +3639,14 @@ To add files to the project, click on the Copy Files to Source Folder... button 
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Note: All of the segmentation rule sets with a matching Language Pattern are applied in the given order.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Маринка" changedate="20171107T194805Z" creationid="Маринка" creationdate="20171107T194805Z">
+        <seg>Примітка: Усі правила сегментації, що встановлюються з відповідним шаблоном мови, виконуються у вказаному порядку.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Notification (flash)</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="nessyk" changedate="20171106T230122Z" creationid="nessyk" creationdate="20171106T230112Z">
@@ -5437,6 +5445,14 @@ in /lib/licenses/Licenses.txt.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Then while translating from Canadian French your project will use all the rules defined for all the language chain in the correct order.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Маринка" changedate="20171107T195112Z" creationid="Маринка" creationdate="20171107T195112Z">
+        <seg>Потім під час перекладу з канадського французького вашого проекту будуть використані всі правила, які визначені для всього мовного ланцюга у правильному порядку.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>There are many plugins available for OmegaT online.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="nessyk" changedate="20171026T174648Z" creationid="nessyk" creationdate="20171026T174648Z">
@@ -5457,6 +5473,14 @@ in /lib/licenses/Licenses.txt.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="nessyk" changedate="20171030T172715Z" creationid="nessyk" creationdate="20171030T172715Z">
         <seg>Це відхилить всі внесені вами зміни до цього часу.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Thus, for example, rules for Canadian French (FR-CA) should be higher than rules for French (FR.*), and higher than Default (.*) ones.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Маринка" changedate="20171107T194904Z" creationid="Маринка" creationdate="20171107T194904Z">
+        <seg>Так, наприклад, правила для канадського французького (FR-CA) повинні бути вищими, ніж правила для французької (FR. *) і вище, ніж за замовчуванням (*.).</seg>
       </tuv>
     </tu>
     <tu>
