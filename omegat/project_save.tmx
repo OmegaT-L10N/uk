@@ -2085,6 +2085,14 @@ To add files to the project, click on the Copy Files to Source Folder... button 
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Dutch</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Маринка" changedate="20171107T194505Z" creationid="Маринка" creationdate="20171107T194505Z">
+        <seg>Датська</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>E&amp;xport Selection</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Маринка" changedate="20171106T203839Z" creationid="Маринка" creationdate="20171106T203839Z">
@@ -2533,6 +2541,14 @@ To add files to the project, click on the Copy Files to Source Folder... button 
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Finnish</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Маринка" changedate="20171107T194434Z" creationid="Маринка" creationdate="20171107T194429Z">
+        <seg>Фінська</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Folder {0} was automatically created for team mode project</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Маринка" changedate="20171101T215200Z" creationid="Маринка" creationdate="20171101T215200Z">
@@ -2561,6 +2577,14 @@ To add files to the project, click on the Copy Files to Source Folder... button 
       </tuv>
       <tuv lang="UK-UA" changeid="nessyk" changedate="20171030T173522Z" creationid="nessyk" creationdate="20171030T173522Z">
         <seg>Вперед-назад</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>French</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Маринка" changedate="20171107T194449Z" creationid="Маринка" creationdate="20171107T194431Z">
+        <seg>Французька</seg>
       </tuv>
     </tu>
     <tu>
@@ -2665,6 +2689,14 @@ To add files to the project, click on the Copy Files to Source Folder... button 
       </tuv>
       <tuv lang="UK-UA" changeid="Лера9764" changedate="20171102T161252Z" creationid="Лера9764" creationdate="20171102T161252Z">
         <seg>HTML і XHTML</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>HTML, XHTML, ODF and Infix segmentation</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Маринка" changedate="20171107T194613Z" creationid="Маринка" creationdate="20171107T194613Z">
+        <seg>HTML, XHTML, ODF та інфіксування сегментації</seg>
       </tuv>
     </tu>
     <tu>
@@ -2993,6 +3025,14 @@ To add files to the project, click on the Copy Files to Source Folder... button 
       </tuv>
       <tuv lang="UK-UA" changeid="Tetiana21" changedate="20171105T174432Z" creationid="Tetiana21" creationdate="20171105T174432Z">
         <seg>Файли JAR </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Japanese</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Маринка" changedate="20171107T194454Z" creationid="Маринка" creationdate="20171107T194454Z">
+        <seg>Японська</seg>
       </tuv>
     </tu>
     <tu>
@@ -4112,6 +4152,14 @@ a description of how this error was produced.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Project Specific Segmentation Setup</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Маринка" changedate="20171107T194709Z" creationid="Маринка" creationdate="20171107T194709Z">
+        <seg>Нашатування специфічної сегментації</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Project Statistics</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Лера9764" changedate="20171105T154339Z" creationid="Лера9764" creationdate="20171105T154339Z">
@@ -4690,6 +4738,14 @@ The scope of a search is by default the project and can be set to be any files l
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Segmentation Setup</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Маринка" changedate="20171107T194636Z" creationid="Маринка" creationdate="20171107T194636Z">
+        <seg>Налаштування сегментації</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Segmentation method: {0}</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Tetiana21" changedate="20171105T164230Z" creationid="Tetiana21" creationdate="20171105T164230Z">
@@ -5114,6 +5170,14 @@ The scope of a search is by default the project and can be set to be any files l
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Swedish</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Маринка" changedate="20171107T194512Z" creationid="Маринка" creationdate="20171107T194512Z">
+        <seg>Шведська</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Switch views with {0} and {1}</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Маринка" changedate="20171106T204425Z" creationid="Маринка" creationdate="20171106T204425Z">
@@ -5238,6 +5302,14 @@ The scope of a search is by default the project and can be set to be any files l
       </tuv>
       <tuv lang="UK-UA" changeid="Tetiana21" changedate="20171105T183723Z" creationid="Tetiana21" creationdate="20171105T183723Z">
         <seg>Пошук тексту</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Text files segmentation</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Маринка" changedate="20171107T194540Z" creationid="Маринка" creationdate="20171107T194540Z">
+        <seg>Сегментація текстових файлів</seg>
       </tuv>
     </tu>
     <tu>
