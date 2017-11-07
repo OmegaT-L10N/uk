@@ -606,6 +606,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Select</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Лера9764" changedate="20171107T195322Z" creationid="Лера9764" creationdate="20171107T195322Z">
+        <seg>&amp;Вибрати</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;Show All</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="nessyk" changedate="20171030T173858Z" creationid="nessyk" creationdate="20171030T173858Z">
@@ -1809,6 +1817,14 @@ To add files to the project, click on the Copy Files to Source Folder... button 
       </tuv>
       <tuv lang="UK-UA" changeid="Tetiana21" changedate="20171105T201843Z" creationid="Tetiana21" creationdate="20171105T201820Z">
         <seg>Створити псевдо-переклад TMX</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Create your own key then input it below.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Лера9764" changedate="20171107T195312Z" creationid="Лера9764" creationdate="20171107T195312Z">
+        <seg>Створіть власний ключ та введіть його нижче.</seg>
       </tuv>
     </tu>
     <tu>
