@@ -2733,6 +2733,14 @@ To add files to the project, click on the Copy Files to Source Folder... button 
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Glossary files folder entered does not exist!</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Маринка" changedate="20171107T195722Z" creationid="Маринка" creationdate="20171107T195722Z">
+        <seg>Glossary files folder entered does not exist!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Go To Segment</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20170902T184604Z" creationid="Kos Ivantsov" creationdate="20170902T184554Z">
@@ -2977,6 +2985,14 @@ To add files to the project, click on the Copy Files to Source Folder... button 
       </tuv>
       <tuv lang="UK-UA" changeid="Tetiana21" changedate="20171105T143305Z" creationid="Tetiana21" creationdate="20171105T135230Z">
         <seg>Вставте &amp;вихідний текст</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Invalid repository type: {0}</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Маринка" changedate="20171107T195704Z" creationid="Маринка" creationdate="20171107T195704Z">
+        <seg>Неправильний тип сховища: {0}</seg>
       </tuv>
     </tu>
     <tu>
@@ -4536,6 +4552,14 @@ a description of how this error was produced.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Repository {0} is already present</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Маринка" changedate="20171107T195711Z" creationid="Маринка" creationdate="20171107T195711Z">
+        <seg>Repository {0} is already present</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Repository {0} unknown</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Лера9764" changedate="20171105T154843Z" creationid="Лера9764" creationdate="20171105T154843Z">
@@ -5154,6 +5178,14 @@ The scope of a search is by default the project and can be set to be any files l
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Source files folder entered does not exist!</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Маринка" changedate="20171107T195912Z" creationid="Маринка" creationdate="20171107T195912Z">
+        <seg>Папка вихідних файлів не існує!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Source language: {0}</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Tetiana21" changedate="20171105T164132Z" creationid="Tetiana21" creationdate="20171105T164132Z">
@@ -5484,6 +5516,16 @@ instead.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The language code should be in the form xx-YY, xxx-YY, xx_YY or xxx_YY, where 
+xx or xxx is the language code and YY is the region or country code (optional).</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Маринка" changedate="20171107T195825Z" creationid="Маринка" creationdate="20171107T195825Z">
+        <seg>Мова коду має бути у форматі xx-yy, xxx-yy, xx_YY або xxx_YY, де
+xx або xxx - це код мови, а YY - регіон або код країни (необов'язково).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The license of each library is mentionned
 in /lib/licenses/Licenses.txt.</seg>
       </tuv>
@@ -5525,6 +5567,14 @@ in /lib/licenses/Licenses.txt.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The source file language entered is invalid!</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Маринка" changedate="20171107T195756Z" creationid="Маринка" creationdate="20171107T195756Z">
+        <seg>Введена мова вихідного файлу не дійсна!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The specified files are not supported.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="nessyk" changedate="20171102T205925Z" creationid="nessyk" creationdate="20171102T205925Z">
@@ -5537,6 +5587,14 @@ in /lib/licenses/Licenses.txt.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Маринка" changedate="20171106T202046Z" creationid="Маринка" creationdate="20171106T202046Z">
         <seg>The tokenizer plug-in was integrated into OmegaT in version 3.0.0.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The translated file language entered is invalid!</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Маринка" changedate="20171107T195724Z" creationid="Маринка" creationdate="20171107T195724Z">
+        <seg>The translated file language entered is invalid!</seg>
       </tuv>
     </tu>
     <tu>
@@ -5665,6 +5723,14 @@ in /lib/licenses/Licenses.txt.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20170905T224151Z" creationid="Kos Ivantsov" creationdate="20170905T224151Z">
         <seg>Перекладені документи створено</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Translated files folder entered does not exist!</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Маринка" changedate="20171107T195940Z" creationid="Маринка" creationdate="20171107T195940Z">
+        <seg>Папка перекладених файлів не існує!</seg>
       </tuv>
     </tu>
     <tu>
