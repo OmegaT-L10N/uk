@@ -310,6 +310,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Keyword search</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Маринка" changedate="20171107T200006Z" creationid="Маринка" creationdate="20171107T200006Z">
+        <seg>&amp;Пошук за ключевим словом</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;Last Changes...</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20170902T183514Z" creationid="Kos Ivantsov" creationdate="20170902T183514Z">
@@ -474,6 +482,14 @@
       </tuv>
       <tuv lang="UK-UA" changeid="nessyk" changedate="20171030T173917Z" creationid="nessyk" creationdate="20171030T173917Z">
         <seg>&amp;Оновити</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;Regular expressions</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Маринка" changedate="20171107T200022Z" creationid="Маринка" creationdate="20171107T200022Z">
+        <seg>&amp;Регулярні вирази</seg>
       </tuv>
     </tu>
     <tu>
@@ -1405,6 +1421,14 @@ To add files to the project, click on the Copy Files to Source Folder... button 
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>C&amp;ase sensitive</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Маринка" changedate="20171107T200136Z" creationid="Маринка" creationdate="20171107T200136Z">
+        <seg>C&amp;ase sensitive</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>C&amp;urrent Target Document</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Маринка" changedate="20171106T202337Z" creationid="Маринка" creationdate="20171106T202246Z">
@@ -1449,6 +1473,22 @@ To add files to the project, click on the Copy Files to Source Folder... button 
       </tuv>
       <tuv lang="UK-UA" changeid="Лера9764" changedate="20171107T195708Z" creationid="Лера9764" creationdate="20171107T195708Z">
         <seg>Змінити дату</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Changed &amp;before:</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Маринка" changedate="20171107T200132Z" creationid="Маринка" creationdate="20171107T200132Z">
+        <seg>Змінений &amp;до:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Changed after:</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Маринка" changedate="20171107T200120Z" creationid="Маринка" creationdate="20171107T200120Z">
+        <seg>Змінити після:</seg>
       </tuv>
     </tu>
     <tu>
@@ -2949,6 +2989,22 @@ To add files to the project, click on the Copy Files to Source Folder... button 
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>In comments</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Маринка" changedate="20171107T200055Z" creationid="Маринка" creationdate="20171107T200055Z">
+        <seg>У коментарях</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>In notes</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Маринка" changedate="20171107T200046Z" creationid="Маринка" creationdate="20171107T200046Z">
+        <seg>У примітках</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>In order for the changes to take effect OmegaT needs to close and then open the project.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20170902T183436Z" creationid="Kos Ivantsov" creationdate="20170902T183436Z">
@@ -3511,6 +3567,14 @@ To add files to the project, click on the Copy Files to Source Folder... button 
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Memor&amp;y</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Маринка" changedate="20171107T200202Z" creationid="Маринка" creationdate="20171107T200202Z">
+        <seg>Пам'ят&amp;ь</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Merge</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="nessyk" changedate="20171025T180622Z" creationid="nessyk" creationdate="20171025T180622Z">
@@ -3795,6 +3859,14 @@ To add files to the project, click on the Copy Files to Source Folder... button 
       </tuv>
       <tuv lang="UK-UA" changeid="nessyk" changedate="20171106T222211Z" creationid="Tetiana21" creationdate="20171105T155623Z">
         <seg>Повідомте мене, коли сегмент  матиме "{0}"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Now</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Маринка" changedate="20171107T200113Z" creationid="Маринка" creationdate="20171107T200113Z">
+        <seg>Зараз</seg>
       </tuv>
     </tu>
     <tu>
@@ -4568,6 +4640,14 @@ a description of how this error was produced.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Replace with:</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Маринка" changedate="20171107T195955Z" creationid="Маринка" creationdate="20171107T195955Z">
+        <seg>Замінити:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Repository</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Лера9764" changedate="20171105T154822Z" creationid="Лера9764" creationdate="20171105T154822Z">
@@ -4814,6 +4894,14 @@ The scope of a search is by default the project and can be set to be any files l
       </tuv>
       <tuv lang="UK-UA" changeid="Маринка" changedate="20171026T191230Z" creationid="Маринка" creationdate="20171026T191230Z">
         <seg>Знайти та замінити...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Search for:</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Маринка" changedate="20171107T195950Z" creationid="Маринка" creationdate="20171107T195950Z">
+        <seg>Шукати:</seg>
       </tuv>
     </tu>
     <tu>
@@ -5122,6 +5210,14 @@ The scope of a search is by default the project and can be set to be any files l
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Show Advanced &amp;Options</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Маринка" changedate="20171107T200109Z" creationid="Маринка" creationdate="20171107T200109Z">
+        <seg>Show Advanced &amp;Options</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Show Raw Key Names</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Tetiana21" changedate="20171105T155815Z" creationid="Tetiana21" creationdate="20171105T155815Z">
@@ -5390,6 +5486,14 @@ The scope of a search is by default the project and can be set to be any files l
       </tuv>
       <tuv lang="UK-UA" changeid="Маринка" changedate="20171106T204425Z" creationid="Маринка" creationdate="20171106T204425Z">
         <seg>Switch views with {0} and {1}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>T&amp;Ms</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Маринка" changedate="20171107T200209Z" creationid="Маринка" creationdate="20171107T200209Z">
+        <seg>T&amp;Ms</seg>
       </tuv>
     </tu>
     <tu>
