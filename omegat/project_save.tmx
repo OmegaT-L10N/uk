@@ -1069,6 +1069,14 @@ To add files to the project, click on the Copy Files to Source Folder... button 
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>API Key:</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="nessyk" changedate="20171109T202258Z" creationid="nessyk" creationdate="20171109T202258Z">
+        <seg>Ключ API :</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>ASCII Only</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="nessyk" changedate="20171025T185529Z" creationid="nessyk" creationdate="20171025T184210Z">
@@ -2445,6 +2453,14 @@ To add files to the project, click on the Copy Files to Source Folder... button 
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Error updating glossary file</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="nessyk" changedate="20171109T202156Z" creationid="nessyk" creationdate="20171109T202156Z">
+        <seg>Помилка оновлення файлу глосарію</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Error while trying to edit the project!</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20170902T184519Z" creationid="Kos Ivantsov" creationdate="20170902T184519Z">
@@ -2801,6 +2817,14 @@ To add files to the project, click on the Copy Files to Source Folder... button 
       </tuv>
       <tuv lang="UK-UA" changeid="Лера9764" changedate="20171102T163146Z" creationid="Лера9764" creationdate="20171102T163146Z">
         <seg>Німецька</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Get API Key</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="nessyk" changedate="20171109T202239Z" creationid="nessyk" creationdate="20171109T202218Z">
+        <seg>Отримати ключ API</seg>
       </tuv>
     </tu>
     <tu>
@@ -5538,6 +5562,30 @@ The scope of a search is by default the project and can be set to be any files l
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>TaaS</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="nessyk" changedate="20171109T202243Z" creationid="nessyk" creationdate="20171109T202243Z">
+        <seg>TaaS</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>TaaS API key not set.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="nessyk" changedate="20171109T202209Z" creationid="nessyk" creationdate="20171109T202209Z">
+        <seg>Ключ TaaS API не встановлено.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>TaaS Terminology</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="nessyk" changedate="20171109T202314Z" creationid="nessyk" creationdate="20171109T202314Z">
+        <seg>Термінологія TaaS </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Table View</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Tetiana21" changedate="20171105T155916Z" creationid="Tetiana21" creationdate="20171105T155916Z">
@@ -6391,6 +6439,14 @@ Exact searches match the whole search string.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Маринка" changedate="20171107T195229Z" creationid="Маринка" creationdate="20171106T204655Z">
         <seg>Файли словника, який можна змінити:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Wrong response format from TaaS service</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="nessyk" changedate="20171109T202131Z" creationid="nessyk" creationdate="20171109T202131Z">
+        <seg>Неправильний формат відповіді від служби TaaS</seg>
       </tuv>
     </tu>
     <tu>
