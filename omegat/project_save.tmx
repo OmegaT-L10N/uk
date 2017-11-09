@@ -734,6 +734,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;TaaS Terminology Lookup</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="nessyk" changedate="20171109T203627Z" creationid="nessyk" creationdate="20171109T203627Z">
+        <seg>&amp;Пош укTaaS термінології</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;Target Files</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Маринка" changedate="20171026T191208Z" creationid="Маринка" creationdate="20171026T191208Z">
@@ -5782,6 +5790,14 @@ The scope of a search is by default the project and can be set to be any files l
       </tuv>
       <tuv lang="UK-UA" changeid="nessyk" changedate="20171109T202209Z" creationid="nessyk" creationdate="20171109T202209Z">
         <seg>Ключ TaaS API не встановлено.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>TaaS Collections</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="nessyk" changedate="20171109T203635Z" creationid="nessyk" creationdate="20171109T203635Z">
+        <seg>Колекції TaaS </seg>
       </tuv>
     </tu>
     <tu>
