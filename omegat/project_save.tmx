@@ -1983,8 +1983,16 @@ To add files to the project, click on the Copy Files to Source Folder... button 
       <tuv lang="EN">
         <seg>Custom Colours</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="nessyk" changedate="20171109T201646Z" creationid="nessyk" creationdate="20171109T201224Z">
-        <seg>Кольорори користувача</seg>
+      <tuv lang="UK-UA" changeid="nessyk" changedate="20171109T201741Z" creationid="nessyk" creationdate="20171109T201224Z">
+        <seg>Спеціальні кольори</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Custom Colours Selection</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="nessyk" changedate="20171109T201730Z" creationid="nessyk" creationdate="20171109T201730Z">
+        <seg>Вибір спеціальних кольорів </seg>
       </tuv>
     </tu>
     <tu>
@@ -4696,6 +4704,14 @@ a description of how this error was produced.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Request error: {0}</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="nessyk" changedate="20171109T201813Z" creationid="nessyk" creationdate="20171109T201813Z">
+        <seg>Помилка запиту: {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Reset</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="nessyk" changedate="20171025T180327Z" creationid="nessyk" creationdate="20171025T180327Z">
@@ -5262,6 +5278,14 @@ The scope of a search is by default the project and can be set to be any files l
       </tuv>
       <tuv lang="UK-UA" changeid="nessyk" changedate="20171030T173214Z" creationid="nessyk" creationdate="20171030T173214Z">
         <seg>Деякі рядки елайменту (вирівнювання) ще потребують перегляду.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Something went wrong, please visit Tilde Terminology for details.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="nessyk" changedate="20171109T202056Z" creationid="nessyk" creationdate="20171109T202056Z">
+        <seg>Щось пішло не так, будь ласка, відвідайте Tilde Terminology, щоб дізнатись деталі.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6117,6 +6141,14 @@ Exact searches match the whole search string.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20170418T175659Z" creationid="Kos Ivantsov" creationdate="20170418T175659Z">
         <seg>Не вдалося прочитати файл проекту!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Unauthorized request to TaaS service.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="nessyk" changedate="20171109T201830Z" creationid="nessyk" creationdate="20171109T201830Z">
+        <seg>Неавторизований запит на обслуговування TaaS.</seg>
       </tuv>
     </tu>
     <tu>
