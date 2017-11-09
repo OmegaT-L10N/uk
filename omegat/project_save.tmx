@@ -158,6 +158,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Download</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="nessyk" changedate="20171109T202712Z" creationid="nessyk" creationdate="20171109T202712Z">
+        <seg>&amp;Завантажити</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;Edit</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20170902T165813Z" creationid="Kos Ivantsov" creationdate="20170902T165813Z">
@@ -1269,6 +1277,14 @@ To add files to the project, click on the Copy Files to Source Folder... button 
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>All domains</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="nessyk" changedate="20171109T202719Z" creationid="nessyk" creationdate="20171109T202719Z">
+        <seg>Всі домени</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>All preferences protected by the master password will be reset.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="nessyk" changedate="20171026T173252Z" creationid="nessyk" creationdate="20171026T173252Z">
@@ -2165,6 +2181,14 @@ To add files to the project, click on the Copy Files to Source Folder... button 
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Domains</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="nessyk" changedate="20171109T202703Z" creationid="nessyk" creationdate="20171109T202648Z">
+        <seg>Домени</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Don't Ask What to Check First</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="nessyk" changedate="20171030T174403Z" creationid="nessyk" creationdate="20171030T174403Z">
@@ -2209,6 +2233,14 @@ To add files to the project, click on the Copy Files to Source Folder... button 
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20170902T164851Z" creationid="Kos Ivantsov" creationdate="20170902T164851Z">
         <seg>Стягнути сторінку MediaWiki...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Download collection {0}</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="nessyk" changedate="20171109T202841Z" creationid="nessyk" creationdate="20171109T202841Z">
+        <seg>Завантажити колекцію {0}</seg>
       </tuv>
     </tu>
     <tu>
@@ -4832,6 +4864,22 @@ a description of how this error was produced.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Retrieve collection list...</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="nessyk" changedate="20171109T202742Z" creationid="nessyk" creationdate="20171109T202742Z">
+        <seg>Отримати список збірки...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Retrieve domain list...</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="nessyk" changedate="20171109T202815Z" creationid="nessyk" creationdate="20171109T202815Z">
+        <seg>Отримати список доменів...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Reviews of OmegaT</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Tetiana21" changedate="20171105T131552Z" creationid="Tetiana21" creationdate="20171105T131552Z">
@@ -5206,6 +5254,14 @@ The scope of a search is by default the project and can be set to be any files l
       </tuv>
       <tuv lang="UK-UA" changeid="Лера9764" changedate="20171030T193807Z" creationid="Лера9764" creationdate="20171030T193807Z">
         <seg>Вибрати збіг #&amp;5</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Select TaaS domain</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="nessyk" changedate="20171109T202759Z" creationid="nessyk" creationdate="20171109T202759Z">
+        <seg>Виберіть домен TaaS</seg>
       </tuv>
     </tu>
     <tu>
@@ -5670,6 +5726,14 @@ The scope of a search is by default the project and can be set to be any files l
       </tuv>
       <tuv lang="UK-UA" changeid="nessyk" changedate="20171025T182740Z" creationid="nessyk" creationdate="20171025T182740Z">
         <seg>Об'єкт</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Target count</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="nessyk" changedate="20171109T202645Z" creationid="nessyk" creationdate="20171109T202645Z">
+        <seg>Цільовий показник</seg>
       </tuv>
     </tu>
     <tu>
