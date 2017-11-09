@@ -1231,8 +1231,8 @@ To add files to the project, click on the Copy Files to Source Folder... button 
       <tuv lang="EN">
         <seg>Aligner "Accepted" Group</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="nessyk" changedate="20171106T231724Z" creationid="nessyk" creationdate="20171106T230118Z">
-        <seg>Елайнер "Прийнята" група</seg>
+      <tuv lang="UK-UA" changeid="nessyk" changedate="20171109T201210Z" creationid="nessyk" creationdate="20171106T230118Z">
+        <seg>"Прийнята" група</seg>
       </tuv>
     </tu>
     <tu>
@@ -1385,6 +1385,14 @@ To add files to the project, click on the Copy Files to Source Folder... button 
       </tuv>
       <tuv lang="UK-UA" changeid="Tetiana21" changedate="20171105T164951Z" creationid="Tetiana21" creationdate="20171105T164710Z">
         <seg>Резервне копіювання для {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Background</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="nessyk" changedate="20171109T201236Z" creationid="nessyk" creationdate="20171109T201222Z">
+        <seg>Фон</seg>
       </tuv>
     </tu>
     <tu>
@@ -1969,6 +1977,14 @@ To add files to the project, click on the Copy Files to Source Folder... button 
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20170902T184216Z" creationid="Kos Ivantsov" creationdate="20170902T184216Z">
         <seg>Курсор заблоковано</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Custom Colours</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="nessyk" changedate="20171109T201646Z" creationid="nessyk" creationdate="20171109T201224Z">
+        <seg>Кольорори користувача</seg>
       </tuv>
     </tu>
     <tu>
