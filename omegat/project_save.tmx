@@ -190,6 +190,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Enable TaaS terminology lookup</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="nessyk" changedate="20171109T202335Z" creationid="nessyk" creationdate="20171109T202335Z">
+        <seg>&amp; Увімкнути пошук термінології TaaS</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;Exact search</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Лера9764" changedate="20171031T065953Z" creationid="Лера9764" creationdate="20171031T065953Z">
@@ -1025,6 +1033,14 @@ To add files to the project, click on the Copy Files to Source Folder... button 
       </tuv>
       <tuv lang="UK-UA" changeid="nessyk" changedate="20171106T221218Z" creationid="nessyk" creationdate="20171106T221045Z">
         <seg>&lt;html&gt;&lt;i&gt;Налаштування&lt;/i&gt; &amp;gt; &lt;i&gt;Основне&lt;/i&gt; &amp;gt; &lt;i&gt;Використовуйте TAB для руху вперед&lt;/i&gt; перевіряється&lt;/html&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;html&gt;Add patterns using wildcards (Apache Ant style): &lt;code&gt;*&lt;/code&gt;, &lt;code&gt;?&lt;/code&gt;, &lt;code&gt;**&lt;/code&gt;&lt;br&gt;Example: &lt;code&gt;**/.svn/**&lt;/code&gt;&lt;/html&gt;</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="nessyk" changedate="20171109T202527Z" creationid="nessyk" creationdate="20171109T202527Z">
+        <seg>&lt;html&gt;Додати шаблони за допомогою символів підстановки(Apache Ant style): &lt;code&gt;*&lt;/code&gt;, &lt;code&gt;?&lt;/code&gt;, &lt;code&gt;**&lt;/code&gt;&lt;br&gt;Приклад: &lt;code&gt;**/.svn/**&lt;/code&gt;&lt;/html&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -2509,6 +2525,14 @@ To add files to the project, click on the Copy Files to Source Folder... button 
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Exclusion Patterns</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="nessyk" changedate="20171109T202406Z" creationid="nessyk" creationdate="20171109T202406Z">
+        <seg>Шаблони вилучення</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>External Post-processing Command:</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Маринка" changedate="20171106T204918Z" creationid="Маринка" creationdate="20171106T204918Z">
@@ -3523,6 +3547,14 @@ To add files to the project, click on the Copy Files to Source Folder... button 
       </tuv>
       <tuv lang="UK-UA" changeid="nessyk" changedate="20171101T184652Z" creationid="nessyk" creationdate="20171101T184652Z">
         <seg>Означення потребує прекладу</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Mask</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="nessyk" changedate="20171109T202454Z" creationid="nessyk" creationdate="20171109T202413Z">
+        <seg>Маскувати</seg>
       </tuv>
     </tu>
     <tu>
@@ -5308,8 +5340,8 @@ The scope of a search is by default the project and can be set to be any files l
       <tuv lang="EN">
         <seg>Something went wrong, please visit Tilde Terminology for details.</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="nessyk" changedate="20171109T202056Z" creationid="nessyk" creationdate="20171109T202056Z">
-        <seg>Щось пішло не так, будь ласка, відвідайте Tilde Terminology, щоб дізнатись деталі.</seg>
+      <tuv lang="UK-UA" changeid="nessyk" changedate="20171109T202423Z" creationid="nessyk" creationdate="20171109T202056Z">
+        <seg>Щось пішло не так, будь ласка, відвідайте термінологію Tilde, щоб дізнатись деталі.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5366,6 +5398,14 @@ The scope of a search is by default the project and can be set to be any files l
       </tuv>
       <tuv lang="UK-UA" changeid="Маринка" changedate="20171106T204631Z" creationid="Маринка" creationdate="20171106T204631Z">
         <seg>Папка вихідних файлів:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Source count</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="nessyk" changedate="20171109T202619Z" creationid="nessyk" creationdate="20171109T202619Z">
+        <seg>Кількість джерел</seg>
       </tuv>
     </tu>
     <tu>
