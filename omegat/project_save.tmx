@@ -126,6 +126,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Browse TaaS Collections...</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="nessyk" changedate="20171109T203438Z" creationid="nessyk" creationdate="20171109T203438Z">
+        <seg>&amp; Переглянути колекції TaaS...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;Cancel</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20170929T122909Z" creationid="Kos Ivantsov" creationdate="20170929T122909Z">
@@ -1229,6 +1237,14 @@ To add files to the project, click on the Copy Files to Source Folder... button 
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Added: {1}, Deleted: {2}, Modified: {3} (Conflicts: {0})</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="nessyk" changedate="20171109T203354Z" creationid="nessyk" creationdate="20171109T203332Z">
+        <seg>Додано: {1}, Видалено: {2}, Змінено: {3} (Конфлікти: {0})</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Algorithm:</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="nessyk" changedate="20171101T183641Z" creationid="nessyk" creationdate="20171101T183641Z">
@@ -2025,6 +2041,22 @@ To add files to the project, click on the Copy Files to Source Folder... button 
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20170905T224143Z" creationid="Kos Ivantsov" creationdate="20170905T224143Z">
         <seg>Створення перекладених документів: {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Creation date</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="nessyk" changedate="20171109T203228Z" creationid="nessyk" creationdate="20171109T203228Z">
+        <seg>Дата створення</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Creator</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="nessyk" changedate="20171109T203254Z" creationid="nessyk" creationdate="20171109T203254Z">
+        <seg>Автор</seg>
       </tuv>
     </tu>
     <tu>
@@ -3241,6 +3273,14 @@ To add files to the project, click on the Copy Files to Source Folder... button 
       </tuv>
       <tuv lang="UK-UA" changeid="nessyk" changedate="20171106T222314Z" creationid="Tetiana21" creationdate="20171105T145314Z">
         <seg>Є альтернативою</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Is default translation</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="nessyk" changedate="20171109T203320Z" creationid="nessyk" creationdate="20171109T203320Z">
+        <seg>Переклад за замовчуванням</seg>
       </tuv>
     </tu>
     <tu>
@@ -4856,6 +4896,14 @@ a description of how this error was produced.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Request to TaaS: {0}</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="nessyk" changedate="20171109T203408Z" creationid="nessyk" creationdate="20171109T203333Z">
+        <seg>Запит на TaaS: {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Reset</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="nessyk" changedate="20171025T180327Z" creationid="nessyk" creationdate="20171025T180327Z">
@@ -5310,6 +5358,14 @@ The scope of a search is by default the project and can be set to be any files l
       </tuv>
       <tuv lang="UK-UA" changeid="Лера9764" changedate="20171030T193807Z" creationid="Лера9764" creationdate="20171030T193807Z">
         <seg>Вибрати збіг #&amp;5</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Select TaaS Terminology &amp;Lookup Domain...</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="nessyk" changedate="20171109T203604Z" creationid="nessyk" creationdate="20171109T203604Z">
+        <seg>Обрати термінологіюTaaS &amp; Шукати домен ...</seg>
       </tuv>
     </tu>
     <tu>
