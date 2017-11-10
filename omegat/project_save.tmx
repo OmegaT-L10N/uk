@@ -830,6 +830,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>(+{0} more)</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Лера9764" changedate="20171110T193026Z" creationid="Лера9764" creationdate="20171110T193026Z">
+        <seg>(+{0} ще)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>(In the user's manual, see 'Files to translate' &gt; 'File formats' for a list of supported file formats.)
 To add files to the project, click on the Copy Files to Source Folder... button in the Project Files window or call this action from the Project menu and select the source files you want to copy.</seg>
       </tuv>
@@ -3117,6 +3125,14 @@ To add files to the project, click on the Copy Files to Source Folder... button 
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Hide '{0}'</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Лера9764" changedate="20171110T193007Z" creationid="Лера9764" creationdate="20171110T193007Z">
+        <seg>Згорнути '{0}'</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Highlight</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="nessyk" changedate="20171101T183843Z" creationid="nessyk" creationdate="20171101T183535Z">
@@ -5072,6 +5088,14 @@ a description of how this error was produced.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Rules</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Лера9764" changedate="20171110T193110Z" creationid="Лера9764" creationdate="20171110T193110Z">
+        <seg>Правила</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Rules...</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="nessyk" changedate="20171101T183822Z" creationid="nessyk" creationdate="20171101T183813Z">
@@ -6179,6 +6203,14 @@ in /lib/licenses/Licenses.txt.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20170902T145124Z" creationid="Kos Ivantsov" creationdate="20170902T145124Z">
         <seg>Так виглядатиме текст на екрані.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This project</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Лера9764" changedate="20171110T193023Z" creationid="Лера9764" creationdate="20171110T193023Z">
+        <seg>Цей проект</seg>
       </tuv>
     </tu>
     <tu>
