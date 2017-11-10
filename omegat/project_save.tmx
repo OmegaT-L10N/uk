@@ -1229,6 +1229,14 @@ To add files to the project, click on the Copy Files to Source Folder... button 
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Add Script</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Лера9764" changedate="20171110T192436Z" creationid="Лера9764" creationdate="20171110T192436Z">
+        <seg>Додати скрипт</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Add To Dictionary</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Лера9764" changedate="20171102T164221Z" creationid="Лера9764" creationdate="20171102T164221Z">
@@ -2593,6 +2601,14 @@ To add files to the project, click on the Copy Files to Source Folder... button 
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20170902T184519Z" creationid="Kos Ivantsov" creationdate="20170902T184519Z">
         <seg>Сталась помилка під час редагування проекту!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Error while trying to save script.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Лера9764" changedate="20171110T192404Z" creationid="Лера9764" creationdate="20171110T192404Z">
+        <seg>Сталася помилка під час збереження скрипту.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4800,6 +4816,14 @@ a description of how this error was produced.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Remove Script</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Лера9764" changedate="20171110T192450Z" creationid="Лера9764" creationdate="20171110T192450Z">
+        <seg>Вилучити скрипт</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Remove Ta&amp;gs</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Маринка" changedate="20171106T204901Z" creationid="Маринка" creationdate="20171106T204901Z">
@@ -5056,6 +5080,14 @@ a description of how this error was produced.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Save Script</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Лера9764" changedate="20171110T192324Z" creationid="Лера9764" creationdate="20171110T192324Z">
+        <seg>Зберегти скрипт</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Save TMX...</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="nessyk" changedate="20171101T183901Z" creationid="nessyk" creationdate="20171101T183901Z">
@@ -5094,6 +5126,14 @@ The scope of a search is by default the project and can be set to be any files l
       <tuv lang="UK-UA" changeid="nessyk" changedate="20171025T175427Z" creationid="nessyk" creationdate="20171025T174913Z">
         <seg>Scope:
 The scope of a search is by default the project and can be set to be any files located in a specified folder hierarchy.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Script "{0}" saved.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Лера9764" changedate="20171110T192416Z" creationid="Лера9764" creationdate="20171110T192416Z">
+        <seg>Скрипт "{0}" збережено.</seg>
       </tuv>
     </tu>
     <tu>
