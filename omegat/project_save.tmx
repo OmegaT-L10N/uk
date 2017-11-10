@@ -4528,6 +4528,14 @@ a description of how this error was produced.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Please try again.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Лера9764" changedate="20171110T193651Z" creationid="Лера9764" creationdate="20171110T193651Z">
+        <seg>Будь ласка, спробуйте ще.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Plugins</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="nessyk" changedate="20171026T174432Z" creationid="nessyk" creationdate="20171026T174432Z">
@@ -4828,6 +4836,14 @@ a description of how this error was produced.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="nessyk" changedate="20171025T181903Z" creationid="nessyk" creationdate="20171025T181903Z">
         <seg>Видалити</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Remote &amp;server</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Лера9764" changedate="20171110T193606Z" creationid="Лера9764" creationdate="20171110T193606Z">
+        <seg>Вилучити &amp;сервер</seg>
       </tuv>
     </tu>
     <tu>
