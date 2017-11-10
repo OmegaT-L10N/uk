@@ -342,6 +342,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Language Checker</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Лера9764" changedate="20171110T192835Z" creationid="Лера9764" creationdate="20171110T192835Z">
+        <seg>&amp;Перевірка мови</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;Last Changes...</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20170902T183514Z" creationid="Kos Ivantsov" creationdate="20170902T183514Z">
@@ -730,6 +738,14 @@
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20170927T204551Z" creationid="Kos Ivantsov" creationdate="20170927T204551Z">
         <seg>&amp;Статистика</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;Store for this session only</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Лера9764" changedate="20171110T192906Z" creationid="Лера9764" creationdate="20171110T192906Z">
+        <seg>&amp;Зберігати лише для цього сеансу</seg>
       </tuv>
     </tu>
     <tu>
@@ -1977,6 +1993,14 @@ To add files to the project, click on the Copy Files to Source Folder... button 
       </tuv>
       <tuv lang="UK-UA" changeid="Лера9764" changedate="20171030T193528Z" creationid="Лера9764" creationdate="20171030T193528Z">
         <seg>Створити &amp;Перекладені документи</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Create Alternative Translation</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Лера9764" changedate="20171110T192752Z" creationid="Лера9764" creationdate="20171110T192752Z">
+        <seg>Створити альтернативний переклад</seg>
       </tuv>
     </tu>
     <tu>
@@ -4880,6 +4904,14 @@ a description of how this error was produced.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Replace Translation with Text</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Лера9764" changedate="20171110T192731Z" creationid="Лера9764" creationdate="20171110T192731Z">
+        <seg>Замінити переклад текстом</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Replace with &amp;Machine Translation</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Лера9764" changedate="20171030T193719Z" creationid="Лера9764" creationdate="20171030T193719Z">
@@ -6565,6 +6597,14 @@ Exact searches match the whole search string.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20170902T182913Z" creationid="Kos Ivantsov" creationdate="20170902T182902Z">
         <seg>Використовувати TAB для пере&amp;ходу до наступного сегмента</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Use as Default Translation</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Лера9764" changedate="20171110T192821Z" creationid="Лера9764" creationdate="20171110T192821Z">
+        <seg>Використовувати як переклад за замовчуванням</seg>
       </tuv>
     </tu>
     <tu>
