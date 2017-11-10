@@ -5106,6 +5106,14 @@ The scope of a search is by default the project and can be set to be any files l
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Script Result</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Лера9764" changedate="20171110T192313Z" creationid="Лера9764" creationdate="20171110T192313Z">
+        <seg>Результат скрипту</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Scriptin&amp;g...</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20170902T182836Z" creationid="Kos Ivantsov" creationdate="20170902T182836Z">
