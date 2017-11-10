@@ -2677,6 +2677,14 @@ To add files to the project, click on the Copy Files to Source Folder... button 
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Extracted comments:</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Лера9764" changedate="20171110T155903Z" creationid="Лера9764" creationdate="20171110T155903Z">
+        <seg>Вилучені коментарі:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Failed to back up preferences file.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Tetiana21" changedate="20171105T164655Z" creationid="Tetiana21" creationdate="20171105T164642Z">
@@ -6295,6 +6303,14 @@ in /lib/licenses/Licenses.txt.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Translator comments:</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Лера9764" changedate="20171110T155837Z" creationid="Лера9764" creationdate="20171110T155837Z">
+        <seg>Коментарі перекладача:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Type</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="nessyk" changedate="20171030T174255Z" creationid="nessyk" creationdate="20171030T174255Z">
@@ -6787,6 +6803,14 @@ Exact searches match the whole search string.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Tetiana21" changedate="20171105T183449Z" creationid="Tetiana21" creationdate="20171105T183449Z">
         <seg>усі відповідні сегменти</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>extensions:</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Лера9764" changedate="20171110T160129Z" creationid="Лера9764" creationdate="20171110T160129Z">
+        <seg>розширення:</seg>
       </tuv>
     </tu>
     <tu>
