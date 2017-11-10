@@ -2277,6 +2277,14 @@ To add files to the project, click on the Copy Files to Source Folder... button 
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Do you want to create it?</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Лера9764" changedate="20171110T193828Z" creationid="Лера9764" creationdate="20171110T193828Z">
+        <seg>Хочете створити його?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Do you want to overwrite it?</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="nessyk" changedate="20171030T172611Z" creationid="nessyk" creationdate="20171030T172611Z">
@@ -6171,6 +6179,14 @@ in /lib/licenses/Licenses.txt.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Маринка" changedate="20171107T195756Z" creationid="Маринка" creationdate="20171107T195756Z">
         <seg>Введена мова вихідного файлу не дійсна!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The specified dictionary folder does not exist.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Лера9764" changedate="20171110T193944Z" creationid="Лера9764" creationdate="20171110T193944Z">
+        <seg>Вказана папка для словників не існує..</seg>
       </tuv>
     </tu>
     <tu>
