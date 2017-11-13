@@ -1037,6 +1037,14 @@ To add files to the project, click on the Copy Files to Source Folder... button 
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>1 conflict</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="nessyk" changedate="20171113T215811Z" creationid="nessyk" creationdate="20171113T215811Z">
+        <seg>1 конфлікт</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>1 segment</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Лера9764" changedate="20171107T195824Z" creationid="Лера9764" creationdate="20171107T195824Z">
@@ -2305,6 +2313,14 @@ To add files to the project, click on the Copy Files to Source Folder... button 
       </tuv>
       <tuv lang="UK-UA" changeid="nessyk" changedate="20171109T203145Z" creationid="nessyk" creationdate="20171109T203145Z">
         <seg>Детальний перегляд</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Details unavailable</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="nessyk" changedate="20171113T215827Z" creationid="nessyk" creationdate="20171113T215827Z">
+        <seg>Подробиці недоступні</seg>
       </tuv>
     </tu>
     <tu>
@@ -6937,6 +6953,30 @@ Exact searches match the whole search string.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Use all mine</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="nessyk" changedate="20171113T215845Z" creationid="nessyk" creationdate="20171113T215845Z">
+        <seg>Використати моє</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Use all original</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="nessyk" changedate="20171113T215854Z" creationid="nessyk" creationdate="20171113T215854Z">
+        <seg>Використати оригінал</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Use all updated</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="nessyk" changedate="20171113T215913Z" creationid="nessyk" creationdate="20171113T215913Z">
+        <seg>Використати оновлене </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Use as Default Translation</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Лера9764" changedate="20171110T192821Z" creationid="Лера9764" creationdate="20171110T192821Z">
@@ -7331,6 +7371,14 @@ Exact searches match the whole search string.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Лера9764" changedate="20171105T154951Z" creationid="Лера9764" creationdate="20171105T154951Z">
         <seg>{0} +{1} більше</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>{0} conflicts</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="nessyk" changedate="20171113T215803Z" creationid="nessyk" creationdate="20171113T215803Z">
+        <seg>{0} конфлікти</seg>
       </tuv>
     </tu>
     <tu>
