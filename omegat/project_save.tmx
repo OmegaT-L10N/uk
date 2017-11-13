@@ -3463,16 +3463,16 @@ To add files to the project, click on the Copy Files to Source Folder... button 
       <tuv lang="EN">
         <seg>If checked, the entries are sorted alphabetically.</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="nessyk" changedate="20171113T214301Z" creationid="nessyk" creationdate="20171113T214301Z">
-        <seg>Якщо встановленно, записи будуть відсортовані в алфавітному порядку.</seg>
+      <tuv lang="UK-UA" changeid="nessyk" changedate="20171113T220631Z" creationid="nessyk" creationdate="20171113T214301Z">
+        <seg>Якщо цю функцію обрано, записи будуть відсортовані в алфавітному порядку.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>If checked, the longer entries are placed on the list first.</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="nessyk" changedate="20171113T213904Z" creationid="nessyk" creationdate="20171113T213904Z">
-        <seg>If checked, the longer entries are placed on the list first.</seg>
+      <tuv lang="UK-UA" changeid="nessyk" changedate="20171113T220707Z" creationid="nessyk" creationdate="20171113T213904Z">
+        <seg>Якщо цю функцію обрано, довші записи будуть першими в списку.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5926,6 +5926,14 @@ The scope of a search is by default the project and can be set to be any files l
       </tuv>
       <tuv lang="UK-UA" changeid="Маринка" changedate="20171106T202040Z" creationid="Маринка" creationdate="20171106T202040Z">
         <seg>Shortcuts customization</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Show &amp;longer target terms first</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="nessyk" changedate="20171113T220746Z" creationid="nessyk" creationdate="20171113T220746Z">
+        <seg>Показати спочатку довші цільові терміни</seg>
       </tuv>
     </tu>
     <tu>
