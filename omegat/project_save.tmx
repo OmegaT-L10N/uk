@@ -3221,6 +3221,14 @@ To add files to the project, click on the Copy Files to Source Folder... button 
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If checked, the longer entries are placed on the list first.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="nessyk" changedate="20171113T213904Z" creationid="nessyk" creationdate="20171113T213904Z">
+        <seg>If checked, the longer entries are placed on the list first.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If issue checking is slow, try disabling some of the optional checks.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="nessyk" changedate="20171026T180013Z" creationid="nessyk" creationdate="20171026T180013Z">
@@ -5678,6 +5686,14 @@ The scope of a search is by default the project and can be set to be any files l
       </tuv>
       <tuv lang="UK-UA" changeid="Лера9764" changedate="20171107T195938Z" creationid="Лера9764" creationdate="20171107T195938Z">
         <seg>Сортувати з довжи&amp;ною</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Sort by source term &amp;alphabetically</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="nessyk" changedate="20171113T214101Z" creationid="nessyk" creationdate="20171113T214101Z">
+        <seg>Сортувати за вихідним терміном &amp; в алфавітному порядку</seg>
       </tuv>
     </tu>
     <tu>
