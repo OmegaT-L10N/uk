@@ -2821,6 +2821,14 @@ To add files to the project, click on the Copy Files to Source Folder... button 
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Error fixing tags</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="nessyk" changedate="20171113T221415Z" creationid="nessyk" creationdate="20171113T221415Z">
+        <seg>Помилка виправлення тегів</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Error saving project file!</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Маринка" changedate="20171101T214921Z" creationid="Маринка" creationdate="20171101T214921Z">
@@ -4672,6 +4680,14 @@ published by the Free Software Foundation, either version 3 of the License, or
 	Лише шлях до проекту: Запустити GUI та завантажити вказаний проект
 	team
 		Інструмент для роботи з командними проектами.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Orphaned</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="nessyk" changedate="20171113T221341Z" creationid="nessyk" creationdate="20171113T221341Z">
+        <seg>Втрачений</seg>
       </tuv>
     </tu>
     <tu>
@@ -7049,6 +7065,14 @@ Exact searches match the whole search string.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Unspecified</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="nessyk" changedate="20171113T221359Z" creationid="nessyk" creationdate="20171113T221359Z">
+        <seg>Невстановлений </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Unsupported file encoding</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Tetiana21" changedate="20171105T165041Z" creationid="Tetiana21" creationdate="20171105T165041Z">
@@ -7279,6 +7303,14 @@ Exact searches match the whole search string.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="nessyk" changedate="20171106T222023Z" creationid="nessyk" creationdate="20171106T222023Z">
         <seg>Яку версію ви хочете зберегти?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Whitespace</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="nessyk" changedate="20171113T221303Z" creationid="nessyk" creationdate="20171113T221303Z">
+        <seg>Пробіл </seg>
       </tuv>
     </tu>
     <tu>
