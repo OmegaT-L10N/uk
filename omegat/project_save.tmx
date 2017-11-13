@@ -3221,6 +3221,14 @@ To add files to the project, click on the Copy Files to Source Folder... button 
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If checked, the entries are sorted alphabetically.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="nessyk" changedate="20171113T214301Z" creationid="nessyk" creationdate="20171113T214301Z">
+        <seg>Якщо встановленно, записи будуть відсортовані в алфавітному порядку.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If checked, the longer entries are placed on the list first.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="nessyk" changedate="20171113T213904Z" creationid="nessyk" creationdate="20171113T213904Z">
@@ -5694,6 +5702,14 @@ The scope of a search is by default the project and can be set to be any files l
       </tuv>
       <tuv lang="UK-UA" changeid="nessyk" changedate="20171113T214101Z" creationid="nessyk" creationdate="20171113T214101Z">
         <seg>Сортувати за вихідним терміном &amp; в алфавітному порядку</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Sort tar&amp;get terms alphabetically</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="nessyk" changedate="20171113T214159Z" creationid="nessyk" creationdate="20171113T214159Z">
+        <seg>Сортувати цільові терміни в алфавітному порядку</seg>
       </tuv>
     </tu>
     <tu>
