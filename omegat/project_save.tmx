@@ -6671,6 +6671,14 @@ in /lib/licenses/Licenses.txt.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The translation has changed.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="nessyk" changedate="20171113T221429Z" creationid="nessyk" creationdate="20171113T221429Z">
+        <seg>Переклад був зміненний.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Then while translating from Canadian French your project will use all the rules defined for all the language chain in the correct order.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Маринка" changedate="20171107T195112Z" creationid="Маринка" creationdate="20171107T195112Z">
