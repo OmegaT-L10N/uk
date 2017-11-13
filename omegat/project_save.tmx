@@ -222,6 +222,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Enable character table</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="nessyk" changedate="20171113T215246Z" creationid="nessyk" creationdate="20171113T215246Z">
+        <seg>&amp;Увімкнути таблицю символів</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;Enable glossary suggestions</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="nessyk" changedate="20171113T214644Z" creationid="nessyk" creationdate="20171113T214644Z">
@@ -1301,6 +1309,14 @@ To add files to the project, click on the Copy Files to Source Folder... button 
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Add characters to the custom table by double-clicking, or by highlighting and pressing the Insert key.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="nessyk" changedate="20171113T215454Z" creationid="nessyk" creationdate="20171113T215454Z">
+        <seg>Додайте символи до спеціальної таблиці, двічі клацнувши, або виділивши та натиснувши клавішу Вставити.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Added: {1}, Deleted: {2}, Modified: {3} (Conflicts: {0})</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="nessyk" changedate="20171109T203354Z" creationid="nessyk" creationdate="20171109T203332Z">
@@ -1495,16 +1511,24 @@ To add files to the project, click on the Copy Files to Source Folder... button 
       <tuv lang="EN">
         <seg>Auto-text configuration</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="nessyk" changedate="20171113T214957Z" creationid="nessyk" creationdate="20171113T214957Z">
-        <seg>Кофігурація автоматичного тексту</seg>
+      <tuv lang="UK-UA" changeid="nessyk" changedate="20171113T215331Z" creationid="nessyk" creationdate="20171113T214957Z">
+        <seg>Кофігурація автотексту</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Auto-text file (*.autotext)</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="nessyk" changedate="20171113T215105Z" creationid="nessyk" creationdate="20171113T215105Z">
-        <seg>Файл автоматичного тексту (*.autotext)</seg>
+      <tuv lang="UK-UA" changeid="nessyk" changedate="20171113T215255Z" creationid="nessyk" creationdate="20171113T215105Z">
+        <seg>Файл автотексту (*.autotext)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Autotext</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="nessyk" changedate="20171113T215222Z" creationid="nessyk" creationdate="20171113T215222Z">
+        <seg>Автотекст</seg>
       </tuv>
     </tu>
     <tu>
@@ -1665,6 +1689,14 @@ To add files to the project, click on the Copy Files to Source Folder... button 
       </tuv>
       <tuv lang="UK-UA" changeid="nessyk" changedate="20171030T173810Z" creationid="nessyk" creationdate="20171030T173648Z">
         <seg>Характеризувати</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Character table auto-completer options</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="nessyk" changedate="20171113T215348Z" creationid="nessyk" creationdate="20171113T215348Z">
+        <seg>Параметри автоматичного заповнення таблиці символів</seg>
       </tuv>
     </tu>
     <tu>
@@ -2177,6 +2209,14 @@ To add files to the project, click on the Copy Files to Source Folder... button 
       </tuv>
       <tuv lang="UK-UA" changeid="nessyk" changedate="20171109T201730Z" creationid="nessyk" creationdate="20171109T201730Z">
         <seg>Вибір спеціальних кольорів </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Customize character &amp;table</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="nessyk" changedate="20171113T215422Z" creationid="nessyk" creationdate="20171113T215422Z">
+        <seg>Налаштувати символ &amp; таблицю</seg>
       </tuv>
     </tu>
     <tu>
@@ -3073,6 +3113,14 @@ To add files to the project, click on the Copy Files to Source Folder... button 
       </tuv>
       <tuv lang="UK-UA" changeid="nessyk" changedate="20171106T225225Z" creationid="nessyk" creationdate="20171106T225225Z">
         <seg>З пам'яті</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Full text</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="nessyk" changedate="20171113T215213Z" creationid="nessyk" creationdate="20171113T215213Z">
+        <seg>Повний текст</seg>
       </tuv>
     </tu>
     <tu>
