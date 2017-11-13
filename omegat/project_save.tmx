@@ -1493,6 +1493,22 @@ To add files to the project, click on the Copy Files to Source Folder... button 
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Auto-text configuration</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="nessyk" changedate="20171113T214957Z" creationid="nessyk" creationdate="20171113T214957Z">
+        <seg>Кофігурація автоматичного тексту</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Auto-text file (*.autotext)</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="nessyk" changedate="20171113T215105Z" creationid="nessyk" creationdate="20171113T215105Z">
+        <seg>Файл автоматичного тексту (*.autotext)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Average Score: {0}</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="nessyk" changedate="20171101T183807Z" creationid="nessyk" creationdate="20171101T183807Z">
@@ -2261,6 +2277,14 @@ To add files to the project, click on the Copy Files to Source Folder... button 
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Display</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="nessyk" changedate="20171113T215009Z" creationid="nessyk" creationdate="20171113T215009Z">
+        <seg>Показати </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Display Font</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20170902T184143Z" creationid="Kos Ivantsov" creationdate="20170902T145111Z">
@@ -2633,6 +2657,14 @@ To add files to the project, click on the Copy Files to Source Folder... button 
       </tuv>
       <tuv lang="UK-UA" changeid="nessyk" changedate="20171026T180349Z" creationid="nessyk" creationdate="20171026T180349Z">
         <seg>Введіть ваш майстер-пароль</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Entries</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="nessyk" changedate="20171113T215041Z" creationid="nessyk" creationdate="20171113T215013Z">
+        <seg>Записи</seg>
       </tuv>
     </tu>
     <tu>
@@ -5746,6 +5778,14 @@ The scope of a search is by default the project and can be set to be any files l
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Sort by &amp;full text, not shortcut</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="nessyk" changedate="20171113T214924Z" creationid="nessyk" creationdate="20171113T214924Z">
+        <seg>Сортувати за повним текстом, а не за скороченним</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Sort by len&amp;gth</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Лера9764" changedate="20171107T195938Z" creationid="Лера9764" creationdate="20171107T195938Z">
@@ -6685,6 +6725,14 @@ Exact searches match the whole search string.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20170418T175659Z" creationid="Kos Ivantsov" creationdate="20170418T175659Z">
         <seg>Не вдалося прочитати файл проекту!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Unable to save data.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="nessyk" changedate="20171113T215125Z" creationid="nessyk" creationdate="20171113T215125Z">
+        <seg>Не вдалося зберегти файл.</seg>
       </tuv>
     </tu>
     <tu>
