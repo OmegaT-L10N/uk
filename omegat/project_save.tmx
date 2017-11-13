@@ -1589,6 +1589,14 @@ To add files to the project, click on the Copy Files to Source Folder... button 
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Bad nesting</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="nessyk" changedate="20171113T220940Z" creationid="nessyk" creationdate="20171113T220940Z">
+        <seg>Bad nesting</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Bartender yells loud:&lt;p&gt;Your page cannot be found, boy&lt;p&gt;Buy another drink.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Маринка" changedate="20171101T210345Z" creationid="Маринка" creationdate="20171101T210345Z">
@@ -2589,6 +2597,14 @@ To add files to the project, click on the Copy Files to Source Folder... button 
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Duplicate</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="nessyk" changedate="20171113T220900Z" creationid="nessyk" creationdate="20171113T220900Z">
+        <seg>Дуплікат</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Duplicate segments: {0}</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20170902T184623Z" creationid="Kos Ivantsov" creationdate="20170902T184623Z">
@@ -2921,6 +2937,14 @@ To add files to the project, click on the Copy Files to Source Folder... button 
       </tuv>
       <tuv lang="UK-UA" changeid="Лера9764" changedate="20171110T155903Z" creationid="Лера9764" creationdate="20171110T155903Z">
         <seg>Вилучені коментарі:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Extraneous</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="nessyk" changedate="20171113T221052Z" creationid="nessyk" creationdate="20171113T221052Z">
+        <seg>Зовнішній</seg>
       </tuv>
     </tu>
     <tu>
@@ -4127,6 +4151,14 @@ To add files to the project, click on the Copy Files to Source Folder... button 
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Missing</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="nessyk" changedate="20171113T220946Z" creationid="nessyk" creationdate="20171113T220946Z">
+        <seg>Пропуск</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Missing tags</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="nessyk" changedate="20171113T220334Z" creationid="nessyk" creationdate="20171113T220334Z">
@@ -4656,6 +4688,14 @@ published by the Free Software Foundation, either version 3 of the License, or
       </tuv>
       <tuv lang="UK-UA" changeid="Маринка" changedate="20171106T202045Z" creationid="Маринка" creationdate="20171106T202045Z">
         <seg>Other OmegaT resources</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Out-of-order</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="nessyk" changedate="20171113T221240Z" creationid="nessyk" creationdate="20171113T221240Z">
+        <seg>Неправильне розташування</seg>
       </tuv>
     </tu>
     <tu>
@@ -6314,10 +6354,26 @@ The scope of a search is by default the project and can be set to be any files l
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Tab</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="nessyk" changedate="20171113T220825Z" creationid="nessyk" creationdate="20171113T220825Z">
+        <seg>Виділення</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Table View</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Tetiana21" changedate="20171105T155916Z" creationid="Tetiana21" creationdate="20171105T155916Z">
         <seg>Вигляд таблиці</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Tag</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="nessyk" changedate="20171113T220838Z" creationid="nessyk" creationdate="20171113T220829Z">
+        <seg>Тег</seg>
       </tuv>
     </tu>
     <tu>
@@ -6454,6 +6510,14 @@ The scope of a search is by default the project and can be set to be any files l
       </tuv>
       <tuv lang="UK-UA" changeid="Маринка" changedate="20171107T194540Z" creationid="Маринка" creationdate="20171107T194540Z">
         <seg>Сегментація текстових файлів</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Text to be removed</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="nessyk" changedate="20171113T220851Z" creationid="nessyk" creationdate="20171113T220832Z">
+        <seg>Текст буде видалено</seg>
       </tuv>
     </tu>
     <tu>
