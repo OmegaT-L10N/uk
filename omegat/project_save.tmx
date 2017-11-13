@@ -1101,6 +1101,14 @@ To add files to the project, click on the Copy Files to Source Folder... button 
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;No suggestions&gt;</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="nessyk" changedate="20171113T220148Z" creationid="nessyk" creationdate="20171113T220148Z">
+        <seg>&lt;Жодної підказки&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;a0&gt;OmegaT&lt;/a0&gt; is a free multi platform Computer Aided Translation tool, with the following highlights:</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Tetiana21" changedate="20171105T130329Z" creationid="Tetiana21" creationdate="20171105T130329Z">
@@ -4704,6 +4712,14 @@ a description of how this error was produced.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Please redo tag validation.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="nessyk" changedate="20171113T220057Z" creationid="nessyk" creationdate="20171113T220057Z">
+        <seg>Будь ласка,  перевірте тег повторно.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Please resolve the conflicts by choosing a translation for each segment below.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="nessyk" changedate="20171113T215753Z" creationid="nessyk" creationdate="20171113T215753Z">
@@ -4804,6 +4820,22 @@ a description of how this error was produced.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Лера9764" changedate="20171102T161121Z" creationid="Лера9764" creationdate="20171102T161121Z">
         <seg>Зберігати пробіли &amp;для всіх тегів</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Press &lt;u&gt;{0}&lt;/u&gt; to go to &lt;b&gt;{1}&lt;/b&gt; suggestions.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="nessyk" changedate="20171113T220309Z" creationid="nessyk" creationdate="20171113T220309Z">
+        <seg>Натисніть &lt;u&gt; {0} &lt;/ u&gt;, щоб перейти до підказок &lt;b&gt; {1} &lt;/ b&gt;..</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Press &lt;u&gt;{0}&lt;/u&gt; to return to &lt;b&gt;{1}&lt;/b&gt; suggestions.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="nessyk" changedate="20171113T220218Z" creationid="nessyk" creationdate="20171113T220218Z">
+        <seg>Натисніть &lt;u&gt; {0} &lt;/ u&gt;, щоб повернутися до підказки &lt;b&gt; {1} &lt;/ b&gt;.</seg>
       </tuv>
     </tu>
     <tu>
