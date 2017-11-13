@@ -2261,6 +2261,14 @@ To add files to the project, click on the Copy Files to Source Folder... button 
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Displays the entries as "&lt;target&gt; → &lt;source&gt;"</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="nessyk" changedate="20171113T214551Z" creationid="nessyk" creationdate="20171113T214551Z">
+        <seg>Відображає записи як "&lt;цільовий&gt;&gt; &lt;вихідний&gt;"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Distance</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="nessyk" changedate="20171101T184230Z" creationid="nessyk" creationdate="20171101T184211Z">
@@ -3057,6 +3065,14 @@ To add files to the project, click on the Copy Files to Source Folder... button 
       </tuv>
       <tuv lang="UK-UA" changeid="Маринка" changedate="20171106T204658Z" creationid="Маринка" creationdate="20171106T204653Z">
         <seg>Папка глосарія:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Glossary auto-completer options</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="nessyk" changedate="20171113T214426Z" creationid="nessyk" creationdate="20171113T214426Z">
+        <seg>Автоматично завершений варіант глосарію</seg>
       </tuv>
     </tu>
     <tu>
@@ -5630,6 +5646,14 @@ The scope of a search is by default the project and can be set to be any files l
       </tuv>
       <tuv lang="UK-UA" changeid="Маринка" changedate="20171106T202040Z" creationid="Маринка" creationdate="20171106T202040Z">
         <seg>Shortcuts customization</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Show &amp;target term first</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="nessyk" changedate="20171113T214502Z" creationid="nessyk" creationdate="20171113T214502Z">
+        <seg>Показати спочатку цільовий термін </seg>
       </tuv>
     </tu>
     <tu>
