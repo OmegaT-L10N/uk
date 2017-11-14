@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.2_2_10096:10098" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.2_3_10155M" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -3347,8 +3347,8 @@ To add files to the project, click on the Copy Files to Source Folder... button 
       <tuv lang="EN">
         <seg>Filename</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="Лера9764" changedate="20171031T065344Z" creationid="briac" creationdate="20171011T130105Z">
-        <seg>Ім'я файлу</seg>
+      <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20171114T231413Z" creationid="briac" creationdate="20171011T130105Z">
+        <seg>Ім’я файлу</seg>
       </tuv>
     </tu>
     <tu>
@@ -5446,8 +5446,8 @@ a description of how this error was produced.</seg>
       <tuv lang="EN">
         <seg>Project Files ({0} of {1})</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="briac" changedate="20171011T130027Z" creationid="briac" creationdate="20171011T130027Z">
-        <seg>Project Files ({0} of {1})</seg>
+      <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20171114T231357Z" creationid="briac" creationdate="20171011T130027Z">
+        <seg>Файли проекту ({0} з {1})</seg>
       </tuv>
     </tu>
     <tu>
