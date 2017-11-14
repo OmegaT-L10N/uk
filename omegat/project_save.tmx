@@ -1977,6 +1977,14 @@ To add files to the project, click on the Copy Files to Source Folder... button 
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Comments</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Лера9764" changedate="20171114T172629Z" creationid="Лера9764" creationdate="20171114T172629Z">
+        <seg>Коментарі</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Committing source files</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Маринка" changedate="20171101T205016Z" creationid="Маринка" creationdate="20171101T205016Z">
@@ -2728,6 +2736,14 @@ To add files to the project, click on the Copy Files to Source Folder... button 
         <seg>Editor</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Лера9764" changedate="20171102T163251Z" creationid="Лера9764" creationdate="20171102T163251Z">
+        <seg>Вікно редагування</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Editor - {0}</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Лера9764" changedate="20171114T172605Z" creationid="Лера9764" creationdate="20171114T172605Z">
         <seg>Вікно редагування</seg>
       </tuv>
     </tu>
@@ -3845,6 +3861,14 @@ To add files to the project, click on the Copy Files to Source Folder... button 
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Key:</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Лера9764" changedate="20171114T172619Z" creationid="Лера9764" creationdate="20171114T172619Z">
+        <seg>Ключ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Keyboard shortcuts in the editor</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Tetiana21" changedate="20171105T131521Z" creationid="Tetiana21" creationdate="20171105T131521Z">
@@ -4135,6 +4159,14 @@ To add files to the project, click on the Copy Files to Source Folder... button 
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Maximize</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Лера9764" changedate="20171114T172546Z" creationid="Лера9764" creationdate="20171114T172546Z">
+        <seg>Збільшити</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Maximum line length:</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Лера9764" changedate="20171031T070306Z" creationid="Лера9764" creationdate="20171031T070306Z">
@@ -4163,6 +4195,14 @@ To add files to the project, click on the Copy Files to Source Folder... button 
       </tuv>
       <tuv lang="UK-UA" changeid="nessyk" changedate="20171106T222058Z" creationid="nessyk" creationdate="20171106T222025Z">
         <seg>Моє</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Minimize</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Лера9764" changedate="20171114T172540Z" creationid="Лера9764" creationdate="20171114T172540Z">
+        <seg>Зменшити</seg>
       </tuv>
     </tu>
     <tu>
@@ -4465,8 +4505,16 @@ To add files to the project, click on the Copy Files to Source Folder... button 
       <tuv lang="EN">
         <seg>Notify Me When a Segment Has Comments</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="Лера9764" changedate="20171114T172356Z" creationid="Лера9764" creationdate="20171114T172356Z">
-        <seg>Повідомте мене, коли сегмент  матиме коментарі</seg>
+      <tuv lang="UK-UA" changeid="Лера9764" changedate="20171114T172700Z" creationid="Лера9764" creationdate="20171114T172356Z">
+        <seg>Повідомте мене, коли сегмент матиме коментарі</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Notify Me When a Segment Has Notes</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Лера9764" changedate="20171114T172650Z" creationid="Лера9764" creationdate="20171114T172644Z">
+        <seg>Повідомте мене, коли сегмент матиме примітки</seg>
       </tuv>
     </tu>
     <tu>
@@ -4775,6 +4823,14 @@ published by the Free Software Foundation, either version 3 of the License, or
         <seg>Path</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Tetiana21" changedate="20171105T150419Z" creationid="Tetiana21" creationdate="20171105T150419Z">
+        <seg>Шлях</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Path:</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Лера9764" changedate="20171114T172613Z" creationid="Лера9764" creationdate="20171114T172613Z">
         <seg>Шлях</seg>
       </tuv>
     </tu>
