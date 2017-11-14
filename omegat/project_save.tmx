@@ -1969,6 +1969,14 @@ To add files to the project, click on the Copy Files to Source Folder... button 
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Comment:</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Лера9764" changedate="20171114T172318Z" creationid="Лера9764" creationdate="20171114T172318Z">
+        <seg>Коментар:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Committing source files</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Маринка" changedate="20171101T205016Z" creationid="Маринка" creationdate="20171101T205016Z">
@@ -4455,6 +4463,14 @@ To add files to the project, click on the Copy Files to Source Folder... button 
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Notify Me When a Segment Has Comments</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Лера9764" changedate="20171114T172356Z" creationid="Лера9764" creationdate="20171114T172356Z">
+        <seg>Повідомте мене, коли сегмент  матиме коментарі</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Now</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Маринка" changedate="20171107T200113Z" creationid="Маринка" creationdate="20171107T200113Z">
@@ -5412,6 +5428,14 @@ a description of how this error was produced.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Tetiana21" changedate="20171105T145712Z" creationid="Tetiana21" creationdate="20171105T145712Z">
         <seg>Ім'я ресурсу</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Restore</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Лера9764" changedate="20171114T172434Z" creationid="Лера9764" creationdate="20171114T172434Z">
+        <seg>Відновити</seg>
       </tuv>
     </tu>
     <tu>
