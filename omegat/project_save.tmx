@@ -6,6 +6,14 @@
 <!-- Default translations -->
     <tu>
       <tuv lang="EN">
+        <seg>#Files</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Маринка" changedate="20171114T214450Z" creationid="Маринка" creationdate="20171114T214450Z">
+        <seg>#Файли</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>${translationNotice}</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20170929T121632Z" creationid="Kos Ivantsov" creationdate="20170929T121632Z">
@@ -2919,6 +2927,14 @@ To add files to the project, click on the Copy Files to Source Folder... button 
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Error monitoring external command!</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Маринка" changedate="20171114T214442Z" creationid="Маринка" creationdate="20171114T214442Z">
+        <seg>Помилка контролю за зовнішньої командою!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Error saving project file!</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Маринка" changedate="20171101T214921Z" creationid="Маринка" creationdate="20171101T214921Z">
@@ -3015,10 +3031,18 @@ To add files to the project, click on the Copy Files to Source Folder... button 
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Exit code {0}: "{1}"</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Маринка" changedate="20171114T214333Z" creationid="Маринка" creationdate="20171114T214333Z">
+        <seg>Код виходу{0}: "{1}"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Exit code: {0}</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="Маринка" changedate="20171114T214255Z" creationid="Маринка" creationdate="20171114T214255Z">
-        <seg>Exit code: {0}</seg>
+      <tuv lang="UK-UA" changeid="Маринка" changedate="20171114T214314Z" creationid="Маринка" creationdate="20171114T214255Z">
+        <seg>Код виходу: {0}</seg>
       </tuv>
     </tu>
     <tu>
@@ -3057,8 +3081,24 @@ To add files to the project, click on the Copy Files to Source Folder... button 
       <tuv lang="EN">
         <seg>External command completed.</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="Маринка" changedate="20171114T214253Z" creationid="Маринка" creationdate="20171114T214253Z">
-        <seg>Зовнішня команда виконанаю</seg>
+      <tuv lang="UK-UA" changeid="Маринка" changedate="20171114T214300Z" creationid="Маринка" creationdate="20171114T214253Z">
+        <seg>Зовнішня команда виконана.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>External command failed.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Маринка" changedate="20171114T214349Z" creationid="Маринка" creationdate="20171114T214349Z">
+        <seg>Не вдалося виконати зовнішню команду.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>External command was interrupted.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Маринка" changedate="20171114T214418Z" creationid="Маринка" creationdate="20171114T214418Z">
+        <seg>Зовнішня команда була перервана.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3715,6 +3755,14 @@ To add files to the project, click on the Copy Files to Source Folder... button 
       </tuv>
       <tuv lang="UK-UA" changeid="Tetiana21" changedate="20171105T183313Z" creationid="Tetiana21" creationdate="20171105T183313Z">
         <seg>У джерелі </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Individual File Statistics:</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Маринка" changedate="20171114T214541Z" creationid="Маринка" creationdate="20171114T214541Z">
+        <seg>Статистики індивідуальних файлів:</seg>
       </tuv>
     </tu>
     <tu>
@@ -5490,6 +5538,14 @@ a description of how this error was produced.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Remaining:</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Маринка" changedate="20171114T214504Z" creationid="Маринка" creationdate="20171114T214504Z">
+        <seg>Remaining:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Remo&amp;ve</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="nessyk" changedate="20171025T181903Z" creationid="nessyk" creationdate="20171025T181903Z">
@@ -7041,6 +7097,14 @@ in /lib/licenses/Licenses.txt.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Total Segments</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Маринка" changedate="20171114T214612Z" creationid="Маринка" creationdate="20171114T214612Z">
+        <seg>Усі сегменти</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Total number of segments</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Лера9764" changedate="20171031T065422Z" creationid="Лера9764" creationdate="20171031T065422Z">
@@ -7363,10 +7427,26 @@ Exact searches match the whole search string.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Unique Remaining:</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Маринка" changedate="20171114T214515Z" creationid="Маринка" creationdate="20171114T214515Z">
+        <seg>Унікальне Remaining:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Unique segments</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Маринка" changedate="20171101T205548Z" creationid="Маринка" creationdate="20171101T205548Z">
         <seg>Унікальні сегменти</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Unique:</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Маринка" changedate="20171114T214524Z" creationid="Маринка" creationdate="20171114T214524Z">
+        <seg>Унікальні:</seg>
       </tuv>
     </tu>
     <tu>
