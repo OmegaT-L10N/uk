@@ -4031,6 +4031,14 @@ To add files to the project, click on the Copy Files to Source Folder... button 
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Machine Translation Options</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Лера9764" changedate="20171114T172854Z" creationid="Лера9764" creationdate="20171114T172854Z">
+        <seg>Налаштування машинного перекладу</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Manually defined rules</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Tetiana21" changedate="20171105T174618Z" creationid="Tetiana21" creationdate="20171105T174618Z">
@@ -4479,6 +4487,14 @@ To add files to the project, click on the Copy Files to Source Folder... button 
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Notes</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Лера9764" changedate="20171114T172828Z" creationid="Лера9764" creationdate="20171114T172817Z">
+        <seg>Примітки</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Notification (flash)</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="nessyk" changedate="20171106T230122Z" creationid="nessyk" creationdate="20171106T230112Z">
@@ -4507,6 +4523,14 @@ To add files to the project, click on the Copy Files to Source Folder... button 
       </tuv>
       <tuv lang="UK-UA" changeid="Лера9764" changedate="20171114T172700Z" creationid="Лера9764" creationdate="20171114T172356Z">
         <seg>Повідомте мене, коли сегмент матиме коментарі</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Notify Me When a Segment Has Dictionary Entries</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Лера9764" changedate="20171114T172922Z" creationid="Лера9764" creationdate="20171114T172922Z">
+        <seg>Повідомте мене, коли сегмент матиме співпадіння у словнику</seg>
       </tuv>
     </tu>
     <tu>
