@@ -902,6 +902,16 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>'*' matches zero or more characters ('run*' matches 'run', 'runs', and'running', etc.)
+'?' matches exactly one character ('run?' matches 'runs' and 'rung', but not 'run' or 'running').</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Маринка" changedate="20171114T220239Z" creationid="Маринка" creationdate="20171114T220239Z">
+        <seg>'*' відповідає нулю чи більше символів ('run *' відповідає 'run', 'runs', and 'running' та ін.)
+'?' відповідає рівно одному символу ('run?' відповідає 'runs' і 'rung', але не 'run' ібо 'running').</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>(+{0} more)</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Лера9764" changedate="20171110T193026Z" creationid="Лера9764" creationdate="20171110T193026Z">
@@ -4127,6 +4137,14 @@ To add files to the project, click on the Copy Files to Source Folder... button 
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Keyword searches are not available in the search string.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Маринка" changedate="20171114T220421Z" creationid="Маринка" creationdate="20171114T220421Z">
+        <seg>Пошук за ключовими словами недоступний в пошуковому рядку.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Keyword searches match all the space-separated keywords regardless of their order.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Маринка" changedate="20171114T215911Z" creationid="Маринка" creationdate="20171114T215911Z">
@@ -7028,6 +7046,16 @@ The scope of a search is by default the project and can be set to be any files l
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Text Replace:
+The scope of a text replacement is the target segments of the project, whether they already have contents or not.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Маринка" changedate="20171114T220332Z" creationid="Маринка" creationdate="20171114T220332Z">
+        <seg>Заміна тексту:
+Обсяг текстової заміни є цільовими сегментами проекту, незалежно від того, чи є вони вже вмістом чи ні.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Text Search</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Tetiana21" changedate="20171105T183723Z" creationid="Tetiana21" creationdate="20171105T183723Z">
@@ -7929,6 +7957,14 @@ Exact searches match the whole search string.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="nessyk" changedate="20171113T220618Z" creationid="nessyk" creationdate="20171113T220618Z">
         <seg>Якщо цю функцію обрано, то елементи у глосарійному вікні автоматичного заповнення також міститимуть вихідний текст.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>When using regular expressions, the replacement string does not support references to groups defined in the search string.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Маринка" changedate="20171114T220448Z" creationid="Маринка" creationdate="20171114T220448Z">
+        <seg>При використанні регулярних виразів рядок заміни не підтримує посилання на групи, визначені в рядку пошуку.</seg>
       </tuv>
     </tu>
     <tu>
