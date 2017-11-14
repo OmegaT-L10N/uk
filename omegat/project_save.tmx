@@ -1017,12 +1017,22 @@ To add files to the project, click on the Copy Files to Source Folder... button 
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>--script=&lt;path&gt;
+		A script file to be executed on project events.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Маринка" changedate="20171114T213458Z" creationid="Маринка" creationdate="20171114T213458Z">
+        <seg>--script=&lt;path&gt;
+		A script file to be executed on project events.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>--tag-validation=[abort|warn]
 		Validate tags.</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="Маринка" changedate="20171026T190922Z" creationid="Маринка" creationdate="20171026T190922Z">
+      <tuv lang="UK-UA" changeid="Маринка" changedate="20171114T213515Z" creationid="Маринка" creationdate="20171026T190922Z">
         <seg>--tag-validation=[abort|warn]
-		Перевірити теги.</seg>
+		Первірте теги.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3581,6 +3591,14 @@ To add files to the project, click on the Copy Files to Source Folder... button 
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Importing Wiki Page Failed</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Маринка" changedate="20171114T213709Z" creationid="Маринка" creationdate="20171114T213551Z">
+        <seg>Не вдалося імпортувати Wiki-сторінку </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>In Editor</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="nessyk" changedate="20171025T183129Z" creationid="nessyk" creationdate="20171025T183129Z">
@@ -5028,6 +5046,14 @@ a description of how this error was produced.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Лера9764" changedate="20171110T193651Z" creationid="Лера9764" creationdate="20171110T193651Z">
         <seg>Будь ласка, спробуйте ще.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Please type or paste the URL of the mediawiki page</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Маринка" changedate="20171114T213625Z" creationid="Маринка" creationdate="20171114T213625Z">
+        <seg>Будь ласка, введіть або вставте URL-адресу сторінки mediawiki. </seg>
       </tuv>
     </tu>
     <tu>
