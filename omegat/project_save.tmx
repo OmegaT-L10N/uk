@@ -3805,6 +3805,14 @@ To add files to the project, click on the Copy Files to Source Folder... button 
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Item:</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Лера9764" changedate="20171114T174305Z" creationid="Лера9764" creationdate="20171114T174300Z">
+        <seg>Об'єкт:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Items</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="nessyk" changedate="20171025T183307Z" creationid="nessyk" creationdate="20171025T183256Z">
@@ -4311,10 +4319,26 @@ To add files to the project, click on the Copy Files to Source Folder... button 
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Move Do&amp;wn</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Лера9764" changedate="20171114T174225Z" creationid="Лера9764" creationdate="20171114T174225Z">
+        <seg>Рухатись вни&amp;з</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Move Down</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="nessyk" changedate="20171025T180525Z" creationid="nessyk" creationdate="20171025T180525Z">
         <seg>Рухатись вниз </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Move U&amp;p</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Лера9764" changedate="20171114T174214Z" creationid="Лера9764" creationdate="20171114T174214Z">
+        <seg>Рухатись вго&amp;ру</seg>
       </tuv>
     </tu>
     <tu>
