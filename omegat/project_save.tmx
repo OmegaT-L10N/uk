@@ -2173,6 +2173,14 @@ To add files to the project, click on the Copy Files to Source Folder... button 
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Create Glossary Entry</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Лера9764" changedate="20171114T173313Z" creationid="Лера9764" creationdate="20171114T173313Z">
+        <seg>Створити запис у глосарії</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Create MED Project...</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Лера9764" changedate="20171030T193559Z" creationid="Лера9764" creationdate="20171030T193559Z">
@@ -5196,6 +5204,22 @@ a description of how this error was produced.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="nessyk" changedate="20171026T171437Z" creationid="nessyk" creationdate="20171026T171437Z">
         <seg>Постачальник</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Proxy Login</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Лера9764" changedate="20171114T173224Z" creationid="Лера9764" creationdate="20171114T173224Z">
+        <seg>Проксі логін</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Proxy User and Password</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Лера9764" changedate="20171114T173209Z" creationid="Лера9764" creationdate="20171114T173209Z">
+        <seg>Ім'я користувача та пароль Проксі</seg>
       </tuv>
     </tu>
     <tu>
