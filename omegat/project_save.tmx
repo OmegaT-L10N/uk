@@ -5618,6 +5618,14 @@ a description of how this error was produced.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Regular expression searches match Java regular expressions as documented in the user manual.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Маринка" changedate="20171114T220000Z" creationid="Маринка" creationdate="20171114T220000Z">
+        <seg>Пошук регулярного виразу відповідає регулярним виразам Java, як це задокументовано в посібнику користувача.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Reload</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="nessyk" changedate="20171025T180351Z" creationid="nessyk" creationdate="20171025T180351Z">
@@ -7945,6 +7953,16 @@ Exact searches match the whole search string.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="nessyk" changedate="20171106T224930Z" creationid="nessyk" creationdate="20171106T224930Z">
         <seg>Проміжки</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Wildcards:
+Both exact and keyword searches support the wildcard characters * and ?.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Маринка" changedate="20171114T220122Z" creationid="Маринка" creationdate="20171114T220122Z">
+        <seg>Підстановки:
+Точні пошукові запити та за ключовими словами підтримують символи підстановки * та ?.</seg>
       </tuv>
     </tu>
     <tu>
