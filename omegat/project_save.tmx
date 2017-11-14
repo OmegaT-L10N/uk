@@ -502,6 +502,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Preferences...</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Маринка" changedate="20171114T213959Z" creationid="Маринка" creationdate="20171114T213959Z">
+        <seg>&amp;Переваги...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;Prefix:</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Tetiana21" changedate="20171105T143834Z" creationid="Tetiana21" creationdate="20171105T143834Z">
@@ -1697,8 +1705,16 @@ To add files to the project, click on the Copy Files to Source Folder... button 
       <tuv lang="EN">
         <seg>Cannot access glossary folder!</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="Маринка" changedate="20171105T131830Z" creationid="Маринка" creationdate="20171105T131830Z">
-        <seg>Cannot access glossary folder!</seg>
+      <tuv lang="UK-UA" changeid="Маринка" changedate="20171114T214047Z" creationid="Маринка" creationdate="20171105T131830Z">
+        <seg>Немає доступу до папки глосарія!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Cannot create folder for translated files:</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Маринка" changedate="20171114T214111Z" creationid="Маринка" creationdate="20171114T214111Z">
+        <seg>Не можна створити папку для перекладених файлів:</seg>
       </tuv>
     </tu>
     <tu>
@@ -2911,6 +2927,14 @@ To add files to the project, click on the Copy Files to Source Folder... button 
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Error starting external command: {0}</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Маринка" changedate="20171114T214231Z" creationid="Маринка" creationdate="20171114T214231Z">
+        <seg>Помилка при запуску зовнішньої команди: {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Error updating glossary file</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="nessyk" changedate="20171109T202156Z" creationid="nessyk" creationdate="20171109T202156Z">
@@ -2983,6 +3007,22 @@ To add files to the project, click on the Copy Files to Source Folder... button 
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Executing external command...</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Маринка" changedate="20171114T214159Z" creationid="Маринка" creationdate="20171114T214159Z">
+        <seg>Виконання зовнішньої команди...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Exit code: {0}</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Маринка" changedate="20171114T214255Z" creationid="Маринка" creationdate="20171114T214255Z">
+        <seg>Exit code: {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>External Post-processing Command:</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Маринка" changedate="20171106T204918Z" creationid="Маринка" creationdate="20171106T204918Z">
@@ -3011,6 +3051,14 @@ To add files to the project, click on the Copy Files to Source Folder... button 
       </tuv>
       <tuv lang="UK-UA" changeid="Tetiana21" changedate="20171105T190133Z" creationid="Tetiana21" creationdate="20171105T190133Z">
         <seg>Зовнішні налаштування ТМХ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>External command completed.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Маринка" changedate="20171114T214253Z" creationid="Маринка" creationdate="20171114T214253Z">
+        <seg>Зовнішня команда виконанаю</seg>
       </tuv>
     </tu>
     <tu>
@@ -4882,6 +4930,14 @@ published by the Free Software Foundation, either version 3 of the License, or
 	Лише шлях до проекту: Запустити GUI та завантажити вказаний проект
 	team
 		Інструмент для роботи з командними проектами.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Orphan segments</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Маринка" changedate="20171114T214135Z" creationid="Маринка" creationdate="20171114T214135Z">
+        <seg>Orphan segments</seg>
       </tuv>
     </tu>
     <tu>
