@@ -566,6 +566,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Reload</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Маринка" changedate="20171114T213750Z" creationid="Маринка" creationdate="20171114T213750Z">
+        <seg>&amp;Перезавантажити</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;Remove</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Лера9764" changedate="20171025T180911Z" creationid="Лера9764" creationdate="20171025T180911Z">
@@ -1995,6 +2003,22 @@ To add files to the project, click on the Copy Files to Source Folder... button 
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Commit Source Files</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Маринка" changedate="20171114T213811Z" creationid="Маринка" creationdate="20171114T213811Z">
+        <seg>Підключити вихідні файли</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Commit Target Files</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Маринка" changedate="20171114T213821Z" creationid="Маринка" creationdate="20171114T213821Z">
+        <seg>Підключити цільові файли</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Committing source files</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Маринка" changedate="20171101T205016Z" creationid="Маринка" creationdate="20171101T205016Z">
@@ -2177,8 +2201,8 @@ To add files to the project, click on the Copy Files to Source Folder... button 
       <tuv lang="EN">
         <seg>Create Current Translated &amp;Document</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="Маринка" changedate="20171106T202120Z" creationid="Маринка" creationdate="20171106T202120Z">
-        <seg>Create Current Translated &amp;Document</seg>
+      <tuv lang="UK-UA" changeid="Маринка" changedate="20171114T213841Z" creationid="Маринка" creationdate="20171106T202120Z">
+        <seg>Створити тільки перекладений &amp;документ</seg>
       </tuv>
     </tu>
     <tu>
@@ -3087,6 +3111,14 @@ To add files to the project, click on the Copy Files to Source Folder... button 
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>File Copy Failed</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Маринка" changedate="20171114T213735Z" creationid="Маринка" creationdate="20171114T213735Z">
+        <seg>Не вдалося скопіювати файл</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>File Filters</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Лера9764" changedate="20171105T155200Z" creationid="Лера9764" creationdate="20171105T155200Z">
@@ -3679,6 +3711,14 @@ To add files to the project, click on the Copy Files to Source Folder... button 
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Insert Unicode Control Character</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Маринка" changedate="20171114T213939Z" creationid="Маринка" creationdate="20171114T213939Z">
+        <seg>Вставити Unicode Control Character</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Insert the &amp;best fuzzy match</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Tetiana21" changedate="20171105T143330Z" creationid="Tetiana21" creationdate="20171105T143247Z">
@@ -3979,6 +4019,14 @@ To add files to the project, click on the Copy Files to Source Folder... button 
       </tuv>
       <tuv lang="UK-UA" changeid="Tetiana21" changedate="20171105T131614Z" creationid="Tetiana21" creationdate="20171105T131614Z">
         <seg>Learn to use OmegaT in 5 minutes!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Left-to-Right Mark (LRM U+200E)</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Маринка" changedate="20171114T213946Z" creationid="Маринка" creationdate="20171114T213946Z">
+        <seg>Left-to-Right Mark (LRM U+200E)</seg>
       </tuv>
     </tu>
     <tu>
@@ -5372,8 +5420,8 @@ a description of how this error was produced.</seg>
       <tuv lang="EN">
         <seg>Register Identical Translation</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="nessyk" changedate="20171025T175643Z" creationid="nessyk" creationdate="20171025T175643Z">
-        <seg>Register Identical Translation</seg>
+      <tuv lang="UK-UA" changeid="Маринка" changedate="20171114T213916Z" creationid="nessyk" creationdate="20171025T175643Z">
+        <seg>Збереження ідентичного перекладу</seg>
       </tuv>
     </tu>
     <tu>
