@@ -134,6 +134,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Browse</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Маринка" changedate="20171114T215228Z" creationid="Маринка" creationdate="20171114T215228Z">
+        <seg>&amp;Пошук</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;Browse Online</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="nessyk" changedate="20171026T174457Z" creationid="nessyk" creationdate="20171026T174457Z">
@@ -2719,6 +2727,14 @@ To add files to the project, click on the Copy Files to Source Folder... button 
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>E&amp;xclusions...</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Маринка" changedate="20171114T215230Z" creationid="Маринка" creationdate="20171114T215230Z">
+        <seg>E&amp;xclusions...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>E&amp;xport Selection</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Маринка" changedate="20171106T203839Z" creationid="Маринка" creationdate="20171106T203839Z">
@@ -2847,10 +2863,26 @@ To add files to the project, click on the Copy Files to Source Folder... button 
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Empty repository URL in the mapping</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Маринка" changedate="20171114T215428Z" creationid="Маринка" creationdate="20171114T215428Z">
+        <seg>Порожня URL-адреса сховища у відображеннях &lt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Enable project-specific commands</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="nessyk" changedate="20171025T183052Z" creationid="nessyk" creationdate="20171025T183052Z">
         <seg>Увімкнути команди, специфічні для проекту</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Enable them in &lt;b&gt;Preferences &gt; Saving and Output...&lt;/b&gt;.&lt;/html&gt;</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Маринка" changedate="20171114T215311Z" creationid="Маринка" creationdate="20171114T215311Z">
+        <seg>Додайте їх у розділ &lt;b&gt; Параметри&gt; Збереження та Вихід ...&lt;/b&gt;.&lt;/html&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -3475,6 +3507,14 @@ To add files to the project, click on the Copy Files to Source Folder... button 
       </tuv>
       <tuv lang="UK-UA" changeid="nessyk" changedate="20171109T202239Z" creationid="nessyk" creationdate="20171109T202218Z">
         <seg>Отримати ключ API</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Git</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Маринка" changedate="20171114T215433Z" creationid="Маринка" creationdate="20171114T215433Z">
+        <seg>Git</seg>
       </tuv>
     </tu>
     <tu>
@@ -5788,8 +5828,8 @@ a description of how this error was produced.</seg>
       <tuv lang="EN">
         <seg>Repository {0} is already present</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="Маринка" changedate="20171107T195711Z" creationid="Маринка" creationdate="20171107T195711Z">
-        <seg>Repository {0} is already present</seg>
+      <tuv lang="UK-UA" changeid="Маринка" changedate="20171114T215359Z" creationid="Маринка" creationdate="20171107T195711Z">
+        <seg>Репозиторій {0} уже в наявності</seg>
       </tuv>
     </tu>
     <tu>
@@ -6744,6 +6784,14 @@ The scope of a search is by default the project and can be set to be any files l
       </tuv>
       <tuv lang="UK-UA" changeid="nessyk" changedate="20171101T184022Z" creationid="nessyk" creationdate="20171101T184016Z">
         <seg>Крок 2. Виконайте коригування вручну </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Subversion</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Маринка" changedate="20171114T215435Z" creationid="Маринка" creationdate="20171114T215435Z">
+        <seg>Subversion</seg>
       </tuv>
     </tu>
     <tu>
