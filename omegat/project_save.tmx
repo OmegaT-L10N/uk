@@ -1183,6 +1183,14 @@ To add files to the project, click on the Copy Files to Source Folder... button 
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;html&gt;Per-project external commands are disabled and will not be executed.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Маринка" changedate="20171114T215215Z" creationid="Маринка" creationdate="20171114T215215Z">
+        <seg>&lt;html&gt;Per-project external commands are disabled and will not be executed.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;html&gt;Place the caret at the location where you want to split the text.&lt;/html&gt;</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="nessyk" changedate="20171030T173003Z" creationid="nessyk" creationdate="20171030T173003Z">
@@ -3055,10 +3063,18 @@ To add files to the project, click on the Copy Files to Source Folder... button 
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>External Post-processing Command (Disabled):</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Маринка" changedate="20171114T215151Z" creationid="Маринка" creationdate="20171114T215111Z">
+        <seg>Команда зовнішньої обробки після обробки (відключена):</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>External Post-processing Command:</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="Маринка" changedate="20171106T204918Z" creationid="Маринка" creationdate="20171106T204918Z">
-        <seg>External Post-processing Command:</seg>
+      <tuv lang="UK-UA" changeid="Маринка" changedate="20171114T215133Z" creationid="Маринка" creationdate="20171106T204918Z">
+        <seg>Зовнішнє командування після обробки:</seg>
       </tuv>
     </tu>
     <tu>
@@ -4305,10 +4321,26 @@ To add files to the project, click on the Copy Files to Source Folder... button 
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Match Statistics</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Маринка" changedate="20171114T214940Z" creationid="Маринка" creationdate="20171114T214940Z">
+        <seg>Статистика збігів</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Match Statistics per &amp;File</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20170902T182822Z" creationid="Kos Ivantsov" creationdate="20170902T182822Z">
         <seg>Статистика збігів в окреми&amp;х файлах</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Match Statistics per File</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Маринка" changedate="20171114T215009Z" creationid="Маринка" creationdate="20171114T215009Z">
+        <seg>Статистика збігів в окремих файлах</seg>
       </tuv>
     </tu>
     <tu>
@@ -5678,6 +5710,30 @@ a description of how this error was produced.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20170902T184531Z" creationid="Kos Ivantsov" creationdate="20170902T184531Z">
         <seg>Перезавантажити проект?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Repetitions from other files:</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Маринка" changedate="20171114T215100Z" creationid="Маринка" creationdate="20171114T215100Z">
+        <seg>Repetitions from other files:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Repetitions within this file:</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Маринка" changedate="20171114T215045Z" creationid="Маринка" creationdate="20171114T215045Z">
+        <seg>Попередній огляд цього файла:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Repetitions:</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Маринка" changedate="20171114T215022Z" creationid="Маринка" creationdate="20171114T215022Z">
+        <seg>Попередній огляд:</seg>
       </tuv>
     </tu>
     <tu>
