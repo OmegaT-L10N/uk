@@ -4127,6 +4127,14 @@ To add files to the project, click on the Copy Files to Source Folder... button 
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Keyword searches match all the space-separated keywords regardless of their order.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Маринка" changedate="20171114T215911Z" creationid="Маринка" creationdate="20171114T215911Z">
+        <seg>Пошук за ключовими словами відбувається незалежно від їх порядку.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>L&amp;og...</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20170902T183914Z" creationid="Kos Ivantsov" creationdate="20170902T183356Z">
@@ -5484,8 +5492,8 @@ a description of how this error was produced.</seg>
       <tuv lang="EN">
         <seg>Project searches are by default performed on the source and target, reference TMs, glossaries, notes and comments of the project.</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="nessyk" changedate="20171025T174917Z" creationid="nessyk" creationdate="20171025T174917Z">
-        <seg>Project searches are by default performed on the source and target, reference TMs, glossaries, notes and comments of the project.</seg>
+      <tuv lang="UK-UA" changeid="Маринка" changedate="20171114T215701Z" creationid="nessyk" creationdate="20171025T174917Z">
+        <seg>Пошуки проекту за замовчуванням виконуються на вихідні та цільові файли, посилання на термінологічні бази, глосарії, примітки та коментарі проекту.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7468,9 +7476,9 @@ in /lib/licenses/Licenses.txt.</seg>
         <seg>Types:
 Exact searches match the whole search string.</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="nessyk" changedate="20171025T174944Z" creationid="nessyk" creationdate="20171025T174944Z">
-        <seg>Types:
-Exact searches match the whole search string.</seg>
+      <tuv lang="UK-UA" changeid="Маринка" changedate="20171114T215751Z" creationid="nessyk" creationdate="20171025T174944Z">
+        <seg>Типи:
+Точні пошуки відповідають всьому пошуковому рядку.</seg>
       </tuv>
     </tu>
     <tu>
