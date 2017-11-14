@@ -1593,6 +1593,14 @@ To add files to the project, click on the Copy Files to Source Folder... button 
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Auto-sync with Editor</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Маринка" changedate="20171114T220514Z" creationid="Маринка" creationdate="20171114T220514Z">
+        <seg>Auto-sync with Editor</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Auto-text configuration</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="nessyk" changedate="20171113T215331Z" creationid="nessyk" creationdate="20171113T214957Z">
