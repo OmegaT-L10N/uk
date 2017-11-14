@@ -2653,6 +2653,14 @@ To add files to the project, click on the Copy Files to Source Folder... button 
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>E&amp;xport the segment to text files</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Лера9764" changedate="20171114T174022Z" creationid="Лера9764" creationdate="20171114T174022Z">
+        <seg>Ек&amp;спортувати сегмент до текстового файлу</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>ERROR: {0}</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Лера9764" changedate="20171031T065935Z" creationid="Лера9764" creationdate="20171031T065935Z">
