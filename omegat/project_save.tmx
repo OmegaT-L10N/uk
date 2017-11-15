@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.2_3_10155M" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.2_2_10096:10098" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -3531,8 +3531,8 @@ To add files to the project, click on the Copy Files to Source Folder... button 
       <tuv lang="EN">
         <seg>Git</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="Маринка" changedate="20171114T215433Z" creationid="Маринка" creationdate="20171114T215433Z">
-        <seg>Git</seg>
+      <tuv lang="UK-UA" changeid="Tetiana21" changedate="20171115T204249Z" creationid="Маринка" creationdate="20171114T215433Z">
+        <seg>Вхід</seg>
       </tuv>
     </tu>
     <tu>
@@ -6832,8 +6832,8 @@ The scope of a search is by default the project and can be set to be any files l
       <tuv lang="EN">
         <seg>Subversion</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="Маринка" changedate="20171114T215435Z" creationid="Маринка" creationdate="20171114T215435Z">
-        <seg>Subversion</seg>
+      <tuv lang="UK-UA" changeid="Tetiana21" changedate="20171115T204328Z" creationid="Маринка" creationdate="20171114T215435Z">
+        <seg>Диверсія</seg>
       </tuv>
     </tu>
     <tu>
