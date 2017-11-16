@@ -1545,6 +1545,14 @@ To add files to the project, click on the Copy Files to Source Folder... button 
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Apertium</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Tetiana21" changedate="20171116T195602Z" creationid="Tetiana21" creationdate="20171116T195602Z">
+        <seg>Apertium</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Appearance</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="nessyk" changedate="20171026T171629Z" creationid="nessyk" creationdate="20171026T171621Z">
@@ -2909,6 +2917,14 @@ To add files to the project, click on the Copy Files to Source Folder... button 
       </tuv>
       <tuv lang="UK-UA" changeid="Tetiana21" changedate="20171105T134326Z" creationid="Tetiana21" creationdate="20171105T133511Z">
         <seg>Редактор налаштувань</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Email:</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Tetiana21" changedate="20171116T195522Z" creationid="Tetiana21" creationdate="20171116T195522Z">
+        <seg>Email:</seg>
       </tuv>
     </tu>
     <tu>
@@ -4579,10 +4595,18 @@ To add files to the project, click on the Copy Files to Source Folder... button 
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Microsoft Translator</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Tetiana21" changedate="20171116T195604Z" creationid="Tetiana21" creationdate="20171116T195604Z">
+        <seg>Microsoft Translator</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Mine</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="nessyk" changedate="20171106T222058Z" creationid="nessyk" creationdate="20171106T222025Z">
-        <seg>Моє</seg>
+      <tuv lang="UK-UA" changeid="Tetiana21" changedate="20171116T195734Z" creationid="nessyk" creationdate="20171106T222025Z">
+        <seg>Мій проект</seg>
       </tuv>
     </tu>
     <tu>
