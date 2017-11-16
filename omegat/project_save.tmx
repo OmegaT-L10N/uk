@@ -3985,6 +3985,14 @@ To add files to the project, click on the Copy Files to Source Folder... button 
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Invalid file format</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Diman966" changedate="20171116T195901Z" creationid="Diman966" creationdate="20171116T195901Z">
+        <seg>Недійсний формат файлу Invalid file format</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Invalid repository type: {0}</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Маринка" changedate="20171107T195704Z" creationid="Маринка" creationdate="20171107T195704Z">
@@ -4651,6 +4659,14 @@ To add files to the project, click on the Copy Files to Source Folder... button 
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Monolingual</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Diman966" changedate="20171116T195736Z" creationid="Diman966" creationdate="20171116T195736Z">
+        <seg>Одномовний Monolingual</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>More</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Маринка" changedate="20171101T205146Z" creationid="Маринка" creationdate="20171101T205146Z">
@@ -5232,6 +5248,14 @@ published by the Free Software Foundation, either version 3 of the License, or
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>PDF Input</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Diman966" changedate="20171116T195957Z" creationid="Diman966" creationdate="20171116T195957Z">
+        <seg>PDF вкладення PDF Input</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Page slips through fingers&lt;p&gt;Pulse pounding hard and frantic&lt;p&gt;Vanishing like mist.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Маринка" changedate="20171101T214838Z" creationid="Маринка" creationdate="20171101T214838Z">
@@ -5252,6 +5276,14 @@ published by the Free Software Foundation, either version 3 of the License, or
       </tuv>
       <tuv lang="UK-UA" changeid="nessyk" changedate="20171030T173308Z" creationid="nessyk" creationdate="20171025T175722Z">
         <seg>Розділити</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Password-protected PDF files are not supported: {0}</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Diman966" changedate="20171116T200038Z" creationid="Diman966" creationdate="20171116T200038Z">
+        <seg>Захимт паролем файлу PDF не піддтримується Password-protected PDF files are not supported: {0}</seg>
       </tuv>
     </tu>
     <tu>
@@ -6930,6 +6962,14 @@ The scope of a search is by default the project and can be set to be any files l
       </tuv>
       <tuv lang="UK-UA" changeid="nessyk" changedate="20171030T172839Z" creationid="nessyk" creationdate="20171030T172839Z">
         <seg>Розділити текст</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Standard</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Diman966" changedate="20171116T195729Z" creationid="Diman966" creationdate="20171116T195729Z">
+        <seg>Стандарт Standard</seg>
       </tuv>
     </tu>
     <tu>
