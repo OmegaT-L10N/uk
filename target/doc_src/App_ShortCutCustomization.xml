@@ -416,7 +416,7 @@
           </row>
 
           <row>
-            <entry>Insert Next Missing Tag</entry>
+            <entry>Вставити наступний відсутній теґ </entry>
 
             <entry><keycap>Ctrl+T</keycap></entry>
 
@@ -432,7 +432,7 @@
           </row>
 
           <row>
-            <entry>Create Glossary Entry</entry>
+            <entry>Створити запис у глосарії</entry>
 
             <entry><keycap>Ctrl+Shift+G</keycap></entry>
 
@@ -560,7 +560,7 @@
           </row>
 
           <row>
-            <entry>Use as Default Translation</entry>
+            <entry>Використовувати як переклад за замовчуванням</entry>
 
             <entry/>
 
@@ -568,7 +568,7 @@
           </row>
 
           <row>
-            <entry>Create Alternative Translation</entry>
+            <entry>Створити альтернативний переклад</entry>
 
             <entry/>
 
@@ -592,7 +592,7 @@
           </row>
 
           <row>
-            <entry>Register Identical Translation</entry>
+            <entry>Збереження ідентичного перекладу</entry>
 
             <entry><keycap>Ctrl+Shift+S</keycap></entry>
 
@@ -892,7 +892,7 @@
           </row>
 
           <row>
-            <entry>Statistics</entry>
+            <entry>Статистика</entry>
 
             <entry/>
 
@@ -900,7 +900,7 @@
           </row>
 
           <row>
-            <entry>Match Statistics</entry>
+            <entry>Статистика збігів</entry>
 
             <entry/>
 
@@ -908,7 +908,7 @@
           </row>
 
           <row>
-            <entry>Match Statistics per File</entry>
+            <entry>Статистика збігів в окремих файлах</entry>
 
             <entry/>
 

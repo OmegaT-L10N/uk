@@ -462,8 +462,7 @@
             </row>
 
             <row>
-              <entry><guimenuitem>Insert Next Missing
-              Tag</guimenuitem></entry>
+              <entry><guimenuitem>Вставити наступний відсутній теґ </guimenuitem></entry>
 
               <entry><keycombo>
                   <keycap>Ctrl</keycap>
@@ -501,7 +500,7 @@
             </row>
 
             <row>
-              <entry><guimenuitem>Create Glossary Entry</guimenuitem></entry>
+              <entry><guimenuitem>Створити запис у глосарії</guimenuitem></entry>
 
               <entry><keycombo>
                   <keycap>Ctrl</keycap>
@@ -606,8 +605,7 @@
             </row>
 
             <row>
-              <entry><guimenuitem>Use as Default
-              Translation</guimenuitem></entry>
+              <entry><guimenuitem>Використовувати як переклад за замовчуванням</guimenuitem></entry>
 
               <entry/>
 
@@ -618,8 +616,7 @@
             </row>
 
             <row>
-              <entry><guimenuitem>Create Alternative
-              Translation</guimenuitem></entry>
+              <entry><guimenuitem>Створити альтернативний переклад</guimenuitem></entry>
 
               <entry/>
 
@@ -649,8 +646,7 @@
             </row>
 
             <row>
-              <entry><guimenuitem>Register Identical
-              Translation</guimenuitem></entry>
+              <entry><guimenuitem>Збереження ідентичного перекладу</guimenuitem></entry>
 
               <entry><keycombo>
                   <keycap>Ctrl</keycap>
@@ -1007,7 +1003,7 @@
             </row>
 
             <row>
-              <entry><guimenuitem>Statistics</guimenuitem></entry>
+              <entry><guimenuitem>Статистика</guimenuitem></entry>
 
               <entry>Opens a new window and displays the project statistics,
               i.e. the project totals and totals for every file in the
@@ -1015,7 +1011,7 @@
             </row>
 
             <row>
-              <entry><guimenuitem>Match Statistics</guimenuitem></entry>
+              <entry><guimenuitem>Статистика збігів</guimenuitem></entry>
 
               <entry>Displays the Match Statistics for the project: the number
               of repetitions, exact matches, fuzzy matches and no-matches, for
@@ -1023,8 +1019,7 @@
             </row>
 
             <row>
-              <entry><guimenuitem>Match Statistics per
-              File</guimenuitem></entry>
+              <entry><guimenuitem>Статистика збігів в окремих файлах</guimenuitem></entry>
 
               <entry>Displays the Match Statistics for each file of the
               project: the number of repetitions, exact matches, fuzzy matches
@@ -1145,7 +1140,7 @@
             </row>
 
             <row>
-              <entry><guimenuitem>TransTips</guimenuitem></entry>
+              <entry><guimenuitem>Перекладацькі підказки</guimenuitem></entry>
 
               <entry>Allows you to activate/deactivate <emphasis>TransTips
               </emphasis>feature and set its option<emphasis> Exact
@@ -1288,7 +1283,7 @@
             </row>
 
             <row>
-              <entry><guimenuitem>Language Checker</guimenuitem></entry>
+              <entry><guimenuitem>Перевірка мови</guimenuitem></entry>
 
               <entry>When selected, LanguageTool checks the translations, and
               underline potential issues in blue.</entry>
@@ -1393,7 +1388,7 @@
 
     <itemizedlist>
       <listitem>
-        <para>Other</para>
+        <para>Інше</para>
       </listitem>
     </itemizedlist>
 
@@ -1657,7 +1652,7 @@
             </row>
 
             <row>
-              <entry>Create Glossary Entry</entry>
+              <entry>Створити запис у глосарії</entry>
 
               <entry><keycombo>
                   <keycap>Shift</keycap>
@@ -1774,7 +1769,7 @@
           <primary>Keyboard shortcuts</primary>
 
           <secondary>Other</secondary>
-        </indexterm>Other</title>
+        </indexterm>Інше</title>
 
       <table colsep="1">
         <title>Various shortcuts</title>
