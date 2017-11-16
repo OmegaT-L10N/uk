@@ -4385,6 +4385,14 @@ To add files to the project, click on the Copy Files to Source Folder... button 
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>LanguageTool (LGPL License and others)</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Diman966" changedate="20171116T201709Z" creationid="Diman966" creationdate="20171116T201709Z">
+        <seg>Мовні засоби LanguageTool (LGPL License and others)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>LanguageTool Issues</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="nessyk" changedate="20171030T172314Z" creationid="nessyk" creationdate="20171030T172314Z">
@@ -5228,6 +5236,14 @@ OmegaT розповсюджується на умовах Загальної п�
         <seg>OmegaT is available under the terms of the GNU General Public License as
 published by the Free Software Foundation, either version 3 of the License, or
 (at your option) any later version.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>OmegaT license</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Diman966" changedate="20171116T201856Z" creationid="Diman966" creationdate="20171116T201856Z">
+        <seg>OmegaT патент OmegaT license</seg>
       </tuv>
     </tu>
     <tu>
