@@ -462,6 +462,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Never</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Diman966" changedate="20171116T200400Z" creationid="Diman966" creationdate="20171116T200400Z">
+        <seg>Ніколи &amp;Never</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;New Script</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Лера9764" changedate="20171025T180249Z" creationid="Лера9764" creationdate="20171025T180249Z">
@@ -3745,6 +3753,14 @@ To add files to the project, click on the Copy Files to Source Folder... button 
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Help &amp; Manual</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Diman966" changedate="20171116T200435Z" creationid="Diman966" creationdate="20171116T200435Z">
+        <seg>Допомога та посібник Help &amp; Manual</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Here you may also specify custom location of project folders.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Маринка" changedate="20171106T205317Z" creationid="Маринка" creationdate="20171106T205317Z">
@@ -4181,6 +4197,14 @@ To add files to the project, click on the Copy Files to Source Folder... button 
       </tuv>
       <tuv lang="UK-UA" changeid="Маринка" changedate="20171107T194454Z" creationid="Маринка" creationdate="20171107T194454Z">
         <seg>Японська</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Java Properties XML</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Diman966" changedate="20171116T200449Z" creationid="Diman966" creationdate="20171116T200449Z">
+        <seg>Властивості Jav Java Properties XML</seg>
       </tuv>
     </tu>
     <tu>
@@ -5228,6 +5252,22 @@ published by the Free Software Foundation, either version 3 of the License, or
       </tuv>
       <tuv lang="UK-UA" changeid="Маринка" changedate="20171101T210129Z" creationid="Маринка" creationdate="20171101T210129Z">
         <seg>Відкрити {0} папки цільових файлів</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>OpenDocument</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Diman966" changedate="20171116T200549Z" creationid="Diman966" creationdate="20171116T200549Z">
+        <seg>Відкрити документ OpenDocument</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>OpenDocument Filter Options</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Diman966" changedate="20171116T200640Z" creationid="Diman966" creationdate="20171116T200640Z">
+        <seg>Відкрити функції фільтру документів OpenDocument Filter Options</seg>
       </tuv>
     </tu>
     <tu>
