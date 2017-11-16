@@ -4369,6 +4369,22 @@ To add files to the project, click on the Copy Files to Source Folder... button 
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Language Name</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Diman966" changedate="20171116T205732Z" creationid="Diman966" creationdate="20171116T205732Z">
+        <seg>Назва мови Language Name</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Language Pattern</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Diman966" changedate="20171116T205738Z" creationid="Diman966" creationdate="20171116T205738Z">
+        <seg>Назва шаблону Language Pattern</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Language not specified for translation unit variant.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Diman966" changedate="20171116T195041Z" creationid="Diman966" creationdate="20171116T195041Z">
@@ -6114,6 +6130,14 @@ additional steps need to be taken.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="nessyk" changedate="20171101T183543Z" creationid="nessyk" creationdate="20171101T183543Z">
         <seg>Вилучити теги</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Remove pattern?</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Diman966" changedate="20171116T205630Z" creationid="Diman966" creationdate="20171116T205630Z">
+        <seg>Перемістити шаблон? Remove pattern?</seg>
       </tuv>
     </tu>
     <tu>
