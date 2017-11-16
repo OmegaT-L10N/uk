@@ -614,6 +614,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Remove untranslated strings in the target files</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Diman966" changedate="20171116T200254Z" creationid="Diman966" creationdate="20171116T200254Z">
+        <seg>Перемістити не перекладені рядки у цільовий файл&amp;Remove untranslated strings in the target files</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;Replace</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Лера9764" changedate="20171030T181359Z" creationid="Лера9764" creationdate="20171030T181359Z">
@@ -7270,6 +7278,14 @@ The scope of a search is by default the project and can be set to be any files l
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Text Filter Options</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Diman966" changedate="20171116T200330Z" creationid="Diman966" creationdate="20171116T200330Z">
+        <seg>Функції текстового фільтру Text Filter Options</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Text Replace</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Tetiana21" changedate="20171105T183759Z" creationid="Tetiana21" creationdate="20171105T183759Z">
@@ -8247,6 +8263,14 @@ Both exact and keyword searches support the wildcard characters * and ?.</seg>
       <tuv lang="UK-UA" changeid="Маринка" changedate="20171114T220122Z" creationid="Маринка" creationdate="20171114T220122Z">
         <seg>Підстановки:
 Точні пошукові запити та за ключовими словами підтримують символи підстановки * та ?.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Windows Resources</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Diman966" changedate="20171116T200054Z" creationid="Diman966" creationdate="20171116T200054Z">
+        <seg>Ресурси Windwos Windows Resources</seg>
       </tuv>
     </tu>
     <tu>
