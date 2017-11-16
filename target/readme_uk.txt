@@ -154,7 +154,7 @@ Contributors
 
 OmegaT is the original work of Keith Godfrey.
 
-Didier Briel is the OmegaT project manager.
+Дідієр Бріль менеджер проетку OmegaT. Didier Briel is the OmegaT project manager.
 
 Previous contributors include:
 (alphabetical order)
