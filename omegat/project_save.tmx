@@ -3049,6 +3049,14 @@ To add files to the project, click on the Copy Files to Source Folder... button 
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Error on application startup</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Tetiana21" changedate="20171116T195835Z" creationid="Tetiana21" creationdate="20171116T195835Z">
+        <seg>Помилка при запуску програми</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Error saving project file!</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Маринка" changedate="20171101T214921Z" creationid="Маринка" creationdate="20171101T214921Z">
@@ -3493,6 +3501,14 @@ To add files to the project, click on the Copy Files to Source Folder... button 
       </tuv>
       <tuv lang="UK-UA" changeid="nessyk" changedate="20171030T173522Z" creationid="nessyk" creationdate="20171030T173522Z">
         <seg>Вперед-назад</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Found in:</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Tetiana21" changedate="20171116T195932Z" creationid="Tetiana21" creationdate="20171116T195932Z">
+        <seg>Знайдено в:</seg>
       </tuv>
     </tu>
     <tu>
@@ -4835,6 +4851,22 @@ To add files to the project, click on the Copy Files to Source Folder... button 
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>No script bound in slot #{0}.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Tetiana21" changedate="20171116T200115Z" creationid="Tetiana21" creationdate="20171116T200115Z">
+        <seg>Немає дії, повз'язаної зі слотом #{0}.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>No script set.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Tetiana21" changedate="20171116T200035Z" creationid="Tetiana21" creationdate="20171116T200035Z">
+        <seg>Скрипт не встановлений.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Non-ASCII Only</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="nessyk" changedate="20171025T185554Z" creationid="nessyk" creationdate="20171025T185430Z">
@@ -6160,6 +6192,14 @@ a description of how this error was produced.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="nessyk" changedate="20171101T183822Z" creationid="nessyk" creationdate="20171101T183813Z">
         <seg>Правила...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Run script on slot #{0}.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Tetiana21" changedate="20171116T200011Z" creationid="Tetiana21" creationdate="20171116T200011Z">
+        <seg>Запустити скрипт на слот #{0}.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8307,6 +8347,14 @@ Both exact and keyword searches support the wildcard characters * and ?.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20170902T184458Z" creationid="Kos Ivantsov" creationdate="20170902T184458Z">
         <seg>Необхідно вказати число від 1 до {0}.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You need to update your JDK 1.6 to the latest version, or just remove the jaxb-*.jar files from the OmegaT /lib dir</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Tetiana21" changedate="20171116T195914Z" creationid="Tetiana21" creationdate="20171116T195914Z">
+        <seg>You need to update your JDK 1.6 to the latest version, or just remove the jaxb-*.jar files from the OmegaT /lib dir</seg>
       </tuv>
     </tu>
     <tu>
