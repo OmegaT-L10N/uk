@@ -1609,6 +1609,14 @@ To add files to the project, click on the Copy Files to Source Folder... button 
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Authentication</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Tetiana21" changedate="20171116T200300Z" creationid="Tetiana21" creationdate="20171116T200300Z">
+        <seg>Аутентифікація</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Auto-Completion</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Маринка" changedate="20171106T204252Z" creationid="Маринка" creationdate="20171106T204252Z">
@@ -4861,8 +4869,8 @@ To add files to the project, click on the Copy Files to Source Folder... button 
       <tuv lang="EN">
         <seg>No script bound in slot #{0}.</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="Tetiana21" changedate="20171116T200115Z" creationid="Tetiana21" creationdate="20171116T200115Z">
-        <seg>Немає дії, повз'язаної зі слотом #{0}.</seg>
+      <tuv lang="UK-UA" changeid="Tetiana21" changedate="20171116T200127Z" creationid="Tetiana21" creationdate="20171116T200115Z">
+        <seg>Немає дії, пов'язаної зі слотом #{0}.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5388,6 +5396,16 @@ a description of how this error was produced.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Please contact your project administrator to find out if any
+additional steps need to be taken.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Tetiana21" changedate="20171116T200220Z" creationid="Tetiana21" creationdate="20171116T200220Z">
+        <seg>Please contact your project administrator to find out if any
+additional steps need to be taken.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Please correct the tag issues before using again Create Translated Documents.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Маринка" changedate="20171101T204507Z" creationid="Маринка" creationdate="20171101T204507Z">
@@ -5400,6 +5418,14 @@ a description of how this error was produced.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="nessyk" changedate="20171026T180816Z" creationid="nessyk" creationdate="20171026T180816Z">
         <seg>Будь ласка, перевірте ще раз.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Please enter username/password</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Tetiana21" changedate="20171116T200419Z" creationid="Tetiana21" creationdate="20171116T200338Z">
+        <seg>Будь ласка, введіть логін/пароль</seg>
       </tuv>
     </tu>
     <tu>
@@ -7421,6 +7447,14 @@ in /lib/licenses/Licenses.txt.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The project was converted successfully.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Tetiana21" changedate="20171116T200208Z" creationid="Tetiana21" creationdate="20171116T200208Z">
+        <seg>Проект успішно конвертований.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The source file language entered is invalid!</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Маринка" changedate="20171107T195756Z" creationid="Маринка" creationdate="20171107T195756Z">
@@ -8311,6 +8345,14 @@ Both exact and keyword searches support the wildcard characters * and ?.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="nessyk" changedate="20171109T202131Z" creationid="nessyk" creationdate="20171109T202131Z">
         <seg>Неправильний формат відповіді від служби TaaS</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Wrong username/password</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Tetiana21" changedate="20171116T200409Z" creationid="Tetiana21" creationdate="20171116T200409Z">
+        <seg>Невірний логін/пароль </seg>
       </tuv>
     </tu>
     <tu>
