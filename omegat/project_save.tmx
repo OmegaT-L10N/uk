@@ -1993,6 +1993,14 @@ To add files to the project, click on the Copy Files to Source Folder... button 
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Co&amp;mments</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Diman966" changedate="20171116T200824Z" creationid="Diman966" creationdate="20171116T200824Z">
+        <seg>Коментарі Co&amp;mments</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Colours</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="nessyk" changedate="20171106T221049Z" creationid="nessyk" creationdate="20171106T221044Z">
@@ -2477,6 +2485,14 @@ To add files to the project, click on the Copy Files to Source Folder... button 
       </tuv>
       <tuv lang="UK-UA" changeid="Лера9764" changedate="20171025T180128Z" creationid="Лера9764" creationdate="20171025T180128Z">
         <seg>Вирізати</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>D&amp;iagrams</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Diman966" changedate="20171116T200918Z" creationid="Diman966" creationdate="20171116T200918Z">
+        <seg>Діаграми D&amp;iagrams</seg>
       </tuv>
     </tu>
     <tu>
@@ -3065,6 +3081,14 @@ To add files to the project, click on the Copy Files to Source Folder... button 
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Error in file</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Diman966" changedate="20171116T200756Z" creationid="Diman966" creationdate="20171116T200756Z">
+        <seg>Помилка файлу Error in file</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Error monitoring external command!</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Маринка" changedate="20171114T214442Z" creationid="Маринка" creationdate="20171114T214442Z">
@@ -3189,6 +3213,14 @@ To add files to the project, click on the Copy Files to Source Folder... button 
       </tuv>
       <tuv lang="UK-UA" changeid="Маринка" changedate="20171114T214314Z" creationid="Маринка" creationdate="20171114T214255Z">
         <seg>Код виходу: {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>External Lin&amp;ks</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Diman966" changedate="20171116T200912Z" creationid="Diman966" creationdate="20171116T200912Z">
+        <seg>Зовнішні посилання External Lin&amp;ks</seg>
       </tuv>
     </tu>
     <tu>
@@ -3629,6 +3661,14 @@ To add files to the project, click on the Copy Files to Source Folder... button 
       </tuv>
       <tuv lang="UK-UA" changeid="Tetiana21" changedate="20171115T204249Z" creationid="Маринка" creationdate="20171114T215433Z">
         <seg>Вхід</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Global</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Diman966" changedate="20171116T200859Z" creationid="Diman966" creationdate="20171116T200859Z">
+        <seg>Глобальний Global</seg>
       </tuv>
     </tu>
     <tu>
@@ -4391,6 +4431,14 @@ To add files to the project, click on the Copy Files to Source Folder... button 
       </tuv>
       <tuv lang="UK-UA" changeid="Лера9764" changedate="20171031T070247Z" creationid="Лера9764" creationdate="20171031T070247Z">
         <seg>Довжина рядку:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Links (&amp;URL)</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Diman966" changedate="20171116T200744Z" creationid="Diman966" creationdate="20171116T200744Z">
+        <seg>Посилання Links (&amp;URL)</seg>
       </tuv>
     </tu>
     <tu>
@@ -5324,6 +5372,14 @@ published by the Free Software Foundation, either version 3 of the License, or
       </tuv>
       <tuv lang="UK-UA" changeid="Маринка" changedate="20171106T202045Z" creationid="Маринка" creationdate="20171106T202045Z">
         <seg>Other OmegaT resources</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Other Options:</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Diman966" changedate="20171116T200948Z" creationid="Diman966" creationdate="20171116T200948Z">
+        <seg>Інші функції Other Options:</seg>
       </tuv>
     </tu>
     <tu>
@@ -7671,6 +7727,14 @@ in /lib/licenses/Licenses.txt.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Translate the following elements:</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Diman966" changedate="20171116T200720Z" creationid="Diman966" creationdate="20171116T200720Z">
+        <seg>Перекладати наступний елемент Translate the following elements:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Translated File Encoding:</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Лера9764" changedate="20171107T194755Z" creationid="Лера9764" creationdate="20171107T194755Z">
@@ -8351,8 +8415,8 @@ Both exact and keyword searches support the wildcard characters * and ?.</seg>
       <tuv lang="EN">
         <seg>Word</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="nessyk" changedate="20171030T173819Z" creationid="nessyk" creationdate="20171030T173647Z">
-        <seg>Описати</seg>
+      <tuv lang="UK-UA" changeid="Diman966" changedate="20171116T200815Z" creationid="nessyk" creationdate="20171030T173647Z">
+        <seg>Слово</seg>
       </tuv>
     </tu>
     <tu>
