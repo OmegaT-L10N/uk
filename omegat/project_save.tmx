@@ -2133,6 +2133,14 @@ To add files to the project, click on the Copy Files to Source Folder... button 
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Confirm removal of pattern {0}</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Tetiana21" changedate="20171116T195414Z" creationid="Tetiana21" creationdate="20171116T195414Z">
+        <seg>Confirm removal of pattern {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Confirm:</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="nessyk" changedate="20171026T180651Z" creationid="nessyk" creationdate="20171026T180651Z">
@@ -2821,6 +2829,14 @@ To add files to the project, click on the Copy Files to Source Folder... button 
       </tuv>
       <tuv lang="UK-UA" changeid="nessyk" changedate="20171025T181828Z" creationid="nessyk" creationdate="20171025T181800Z">
         <seg>Редагувати URL-адресу зовнішнього пошуку</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Edit Filter</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Tetiana21" changedate="20171116T193838Z" creationid="Tetiana21" creationdate="20171116T193838Z">
+        <seg>Редагування фільтру</seg>
       </tuv>
     </tu>
     <tu>
@@ -3637,6 +3653,14 @@ To add files to the project, click on the Copy Files to Source Folder... button 
       </tuv>
       <tuv lang="UK-UA" changeid="Маринка" changedate="20171107T194613Z" creationid="Маринка" creationdate="20171107T194613Z">
         <seg>HTML, XHTML, ODF та інфіксування сегментації</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>HTTP(S)</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Tetiana21" changedate="20171116T193735Z" creationid="Tetiana21" creationdate="20171116T193735Z">
+        <seg>HTTP(S)</seg>
       </tuv>
     </tu>
     <tu>
@@ -5532,6 +5556,22 @@ a description of how this error was produced.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Project loading end</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Tetiana21" changedate="20171116T195452Z" creationid="Tetiana21" creationdate="20171116T195452Z">
+        <seg>Project loading end</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Project loading start</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Tetiana21" changedate="20171116T195438Z" creationid="Tetiana21" creationdate="20171116T195438Z">
+        <seg>Завантаження початку проекту</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Project saved</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20170902T184222Z" creationid="Kos Ivantsov" creationdate="20170902T184222Z">
@@ -6874,6 +6914,14 @@ The scope of a search is by default the project and can be set to be any files l
       </tuv>
       <tuv lang="UK-UA" changeid="nessyk" changedate="20171101T184022Z" creationid="nessyk" creationdate="20171101T184016Z">
         <seg>Крок 2. Виконайте коригування вручну </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Subscription Key:</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Tetiana21" changedate="20171116T195519Z" creationid="Tetiana21" creationdate="20171116T195519Z">
+        <seg>Subscription Key:</seg>
       </tuv>
     </tu>
     <tu>
