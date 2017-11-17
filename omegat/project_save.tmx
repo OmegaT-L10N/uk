@@ -5043,6 +5043,14 @@ To add files to the project, click on the Copy Files to Source Folder... button 
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>No matches returned by search.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Лера9764" changedate="20171117T155437Z" creationid="Лера9764" creationdate="20171117T155437Z">
+        <seg>Пошук не виявив збігів.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>No script bound in slot #{0}.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Tetiana21" changedate="20171116T200127Z" creationid="Tetiana21" creationdate="20171116T200115Z">
