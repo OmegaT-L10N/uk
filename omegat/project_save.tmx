@@ -3561,6 +3561,14 @@ To add files to the project, click on the Copy Files to Source Folder... button 
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Folder already exists and is not empty.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Лера9764" changedate="20171117T160153Z" creationid="Лера9764" creationdate="20171117T160153Z">
+        <seg>Папка вже існує або вона не порожня.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Folder does not exist</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Diman966" changedate="20171116T211038Z" creationid="Diman966" creationdate="20171116T211038Z">
@@ -5271,6 +5279,14 @@ To add files to the project, click on the Copy Files to Source Folder... button 
       </tuv>
       <tuv lang="UK-UA" changeid="Лера9764" changedate="20171105T154740Z" creationid="Лера9764" creationdate="20171105T154740Z">
         <seg>Файли проекту OmegaT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>OmegaT Project Folder</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Лера9764" changedate="20171117T160118Z" creationid="Лера9764" creationdate="20171117T160118Z">
+        <seg>Папка проекту OmegaT </seg>
       </tuv>
     </tu>
     <tu>
