@@ -1537,6 +1537,14 @@ To add files to the project, click on the Copy Files to Source Folder... button 
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>An error occurred while downloading the dictionary.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Лера9764" changedate="20171117T160451Z" creationid="Лера9764" creationdate="20171117T160451Z">
+        <seg>Під час завантаження словника сталася помилка.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>An error occurred while opening the item.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="nessyk" changedate="20171106T221810Z" creationid="nessyk" creationdate="20171106T221810Z">
@@ -1843,8 +1851,8 @@ To add files to the project, click on the Copy Files to Source Folder... button 
       <tuv lang="EN">
         <seg>Cannot install</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="Diman966" changedate="20171116T211032Z" creationid="Diman966" creationdate="20171116T211032Z">
-        <seg>Не можна встановити Cannot install</seg>
+      <tuv lang="UK-UA" changeid="Лера9764" changedate="20171117T160247Z" creationid="Diman966" creationdate="20171116T211032Z">
+        <seg>Не можна встановити </seg>
       </tuv>
     </tu>
     <tu>
@@ -2707,8 +2715,8 @@ To add files to the project, click on the Copy Files to Source Folder... button 
       <tuv lang="EN">
         <seg>Do you want to create it?</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="Лера9764" changedate="20171110T193828Z" creationid="Лера9764" creationdate="20171110T193828Z">
-        <seg>Хочете створити його?</seg>
+      <tuv lang="UK-UA" changeid="Лера9764" changedate="20171117T160359Z" creationid="Лера9764" creationdate="20171110T193828Z">
+        <seg>Хочете створити папку?</seg>
       </tuv>
     </tu>
     <tu>
@@ -3571,8 +3579,8 @@ To add files to the project, click on the Copy Files to Source Folder... button 
       <tuv lang="EN">
         <seg>Folder does not exist</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="Diman966" changedate="20171116T211038Z" creationid="Diman966" creationdate="20171116T211038Z">
-        <seg>Папка не існує Folder does not exist</seg>
+      <tuv lang="UK-UA" changeid="Лера9764" changedate="20171117T160239Z" creationid="Diman966" creationdate="20171116T211038Z">
+        <seg>Папка не існує </seg>
       </tuv>
     </tu>
     <tu>
@@ -8261,8 +8269,8 @@ Exact searches match the whole search string.</seg>
       <tuv lang="EN">
         <seg>Uninstalling failed</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="Diman966" changedate="20171116T211021Z" creationid="Diman966" creationdate="20171116T211021Z">
-        <seg>Видалення не завершено Uninstalling failed</seg>
+      <tuv lang="UK-UA" changeid="Лера9764" changedate="20171117T160309Z" creationid="Diman966" creationdate="20171116T211021Z">
+        <seg>Не вдалося видалити</seg>
       </tuv>
     </tu>
     <tu>
