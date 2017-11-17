@@ -5131,10 +5131,18 @@ To add files to the project, click on the Copy Files to Source Folder... button 
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Non-breakable space</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Лера9764" changedate="20171117T165619Z" creationid="Лера9764" creationdate="20171117T165619Z">
+        <seg>Нерозривний пробіл</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Non-breakable spaces</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="nessyk" changedate="20171106T224546Z" creationid="Tetiana21" creationdate="20171105T183144Z">
-        <seg>Нерозбиті проміжки</seg>
+      <tuv lang="UK-UA" changeid="Лера9764" changedate="20171117T165636Z" creationid="Tetiana21" creationdate="20171105T183144Z">
+        <seg>Нерозривні пробіли</seg>
       </tuv>
     </tu>
     <tu>
