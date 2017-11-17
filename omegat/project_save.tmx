@@ -945,9 +945,9 @@
         <seg>'*' matches zero or more characters ('run*' matches 'run', 'runs', and'running', etc.)
 '?' matches exactly one character ('run?' matches 'runs' and 'rung', but not 'run' or 'running').</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="Маринка" changedate="20171114T220239Z" creationid="Маринка" creationdate="20171114T220239Z">
-        <seg>'*' відповідає нулю чи більше символів ('run *' відповідає 'run', 'runs', and 'running' та ін.)
-'?' відповідає рівно одному символу ('run?' відповідає 'runs' і 'rung', але не 'run' ібо 'running').</seg>
+      <tuv lang="UK-UA" changeid="Лера9764" changedate="20171117T155606Z" creationid="Маринка" creationdate="20171114T220239Z">
+        <seg>'*' відповідає нулю чи більше символів ('run *' відповідає 'run', 'runs', і  'running' та ін.)
+'?' відповідає рівно одному символу ('run?' відповідає 'runs' і 'rung', але не 'run' або 'running').</seg>
       </tuv>
     </tu>
     <tu>
@@ -5604,6 +5604,14 @@ published by the Free Software Foundation, either version 3 of the License, or
       </tuv>
       <tuv lang="UK-UA" changeid="nessyk" changedate="20171101T184144Z" creationid="nessyk" creationdate="20171101T184017Z">
         <seg>Цільовий елаймент (вирівнювання): оберіть відповідну комірку</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Please close search window.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Лера9764" changedate="20171117T155456Z" creationid="Лера9764" creationdate="20171117T155456Z">
+        <seg>Будь ласка, закрийте вікно пошуку.</seg>
       </tuv>
     </tu>
     <tu>
