@@ -7610,6 +7610,16 @@ The scope of a text replacement is the target segments of the project, whether t
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The TMX file will not be loaded
+Please try to correct the error and reload the project.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Лера9764" changedate="20171117T154954Z" creationid="Лера9764" creationdate="20171117T154954Z">
+        <seg>Файл TMX неможливо завантажити
+Будь ласка, спробуйте виправити помилку та перезавантажте проект.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The URL must include "{target}", which will be replaced with the search text.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="nessyk" changedate="20171025T180906Z" creationid="nessyk" creationdate="20171025T180906Z">
