@@ -1601,6 +1601,14 @@ To add files to the project, click on the Copy Files to Source Folder... button 
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Are you sure you want to remove the {0} set of segmentation rules?</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Лера9764" changedate="20171117T153838Z" creationid="Лера9764" creationdate="20171117T153838Z">
+        <seg>Ви впевнені, що хочете вилучити {0} набір правил сегментації?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Are you sure you want to reset all custom colours?</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="nessyk" changedate="20171106T220959Z" creationid="nessyk" creationdate="20171106T220959Z">
@@ -4099,16 +4107,16 @@ To add files to the project, click on the Copy Files to Source Folder... button 
       <tuv lang="EN">
         <seg>Insert the &amp;best fuzzy match</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="Tetiana21" changedate="20171105T143330Z" creationid="Tetiana21" creationdate="20171105T143247Z">
-        <seg>Вставте найкращий нечіткий збіг</seg>
+      <tuv lang="UK-UA" changeid="Лера9764" changedate="20171117T153559Z" creationid="Tetiana21" creationdate="20171105T143247Z">
+        <seg>Вставити найкращий нечіткий збіг</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Insert the &amp;source text</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="Tetiana21" changedate="20171105T143305Z" creationid="Tetiana21" creationdate="20171105T135230Z">
-        <seg>Вставте &amp;вихідний текст</seg>
+      <tuv lang="UK-UA" changeid="Лера9764" changedate="20171117T153610Z" creationid="Tetiana21" creationdate="20171105T135230Z">
+        <seg>Вставити &amp;вихідний текст</seg>
       </tuv>
     </tu>
     <tu>
@@ -4943,6 +4951,14 @@ To add files to the project, click on the Copy Files to Source Folder... button 
       </tuv>
       <tuv lang="UK-UA" changeid="nessyk" changedate="20171025T184928Z" creationid="nessyk" creationdate="20171025T184928Z">
         <seg>Назва: {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>New Language and Country</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Лера9764" changedate="20171117T153657Z" creationid="Лера9764" creationdate="20171117T153657Z">
+        <seg>Нова мова та країна</seg>
       </tuv>
     </tu>
     <tu>
