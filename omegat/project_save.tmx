@@ -3873,6 +3873,14 @@ To add files to the project, click on the Copy Files to Source Folder... button 
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Hide Advanced &amp;Options</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Лера9764" changedate="20171117T155827Z" creationid="Лера9764" creationdate="20171117T155827Z">
+        <seg>Приховати розширені &amp;налаштування</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Highlight</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="nessyk" changedate="20171101T183843Z" creationid="nessyk" creationdate="20171101T183535Z">
@@ -7026,8 +7034,8 @@ The scope of a search is by default the project and can be set to be any files l
       <tuv lang="EN">
         <seg>Show Advanced &amp;Options</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="Маринка" changedate="20171107T200109Z" creationid="Маринка" creationdate="20171107T200109Z">
-        <seg>Show Advanced &amp;Options</seg>
+      <tuv lang="UK-UA" changeid="Лера9764" changedate="20171117T155813Z" creationid="Маринка" creationdate="20171107T200109Z">
+        <seg>Показати розширені &amp;налаштування</seg>
       </tuv>
     </tu>
     <tu>
