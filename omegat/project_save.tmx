@@ -144,8 +144,8 @@
       <tuv lang="EN">
         <seg>&amp;Browse Online</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="nessyk" changedate="20171026T174457Z" creationid="nessyk" creationdate="20171026T174457Z">
-        <seg>&amp;В інтернет</seg>
+      <tuv lang="UK-UA" changeid="Лера9764" changedate="20171117T163449Z" creationid="nessyk" creationdate="20171026T174457Z">
+        <seg>&amp;Пошук онлайн</seg>
       </tuv>
     </tu>
     <tu>
@@ -1721,6 +1721,14 @@ To add files to the project, click on the Copy Files to Source Folder... button 
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>B&amp;rowse</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Лера9764" changedate="20171117T163539Z" creationid="Лера9764" creationdate="20171117T163539Z">
+        <seg>П&amp;ошук</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Backed up preferences to {0}</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Tetiana21" changedate="20171105T164951Z" creationid="Tetiana21" creationdate="20171105T164710Z">
@@ -1761,10 +1769,26 @@ To add files to the project, click on the Copy Files to Source Folder... button 
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Bro&amp;wse</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Лера9764" changedate="20171117T163549Z" creationid="Лера9764" creationdate="20171117T163549Z">
+        <seg>По&amp;шук</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Brows&amp;e</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Лера9764" changedate="20171117T163607Z" creationid="Лера9764" creationdate="20171117T163607Z">
+        <seg>Пошу&amp;к</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Browse</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="Маринка" changedate="20171106T204931Z" creationid="Маринка" creationdate="20171106T204931Z">
-        <seg>Browse</seg>
+      <tuv lang="UK-UA" changeid="Лера9764" changedate="20171117T163556Z" creationid="Маринка" creationdate="20171106T204931Z">
+        <seg>Пошук</seg>
       </tuv>
     </tu>
     <tu>
