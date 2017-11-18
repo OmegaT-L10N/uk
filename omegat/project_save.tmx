@@ -1867,6 +1867,14 @@ may experience unexpected, but correct behaviour.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Back to the initial segment on close</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Маринка" changedate="20171118T205623Z" creationid="Маринка" creationdate="20171118T205623Z">
+        <seg>Back to the initial segment on close</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Backed up preferences to {0}</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Tetiana21" changedate="20171105T164951Z" creationid="Tetiana21" creationdate="20171105T164710Z">
@@ -1883,10 +1891,26 @@ may experience unexpected, but correct behaviour.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Bad folder name {0}</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Маринка" changedate="20171118T205734Z" creationid="Маринка" creationdate="20171118T205734Z">
+        <seg>Невірне ім’я теки {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Bad nesting</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="nessyk" changedate="20171113T220940Z" creationid="nessyk" creationdate="20171113T220940Z">
         <seg>Bad nesting</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Bad regular expression!</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Маринка" changedate="20171118T205640Z" creationid="Маринка" creationdate="20171118T205640Z">
+        <seg>Bad regular expression!</seg>
       </tuv>
     </tu>
     <tu>
@@ -3467,6 +3491,14 @@ may experience unexpected, but correct behaviour.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Error searching directory tree!</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Маринка" changedate="20171118T205637Z" creationid="Маринка" creationdate="20171118T205637Z">
+        <seg>Error searching directory tree!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Error starting external command: {0}</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Маринка" changedate="20171114T214231Z" creationid="Маринка" creationdate="20171114T214231Z">
@@ -3543,6 +3575,14 @@ may experience unexpected, but correct behaviour.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Маринка" changedate="20171107T195652Z" creationid="Маринка" creationdate="20171107T195652Z">
         <seg>Exclude Pattern</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Exclude orphan segments</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Маринка" changedate="20171118T205625Z" creationid="Маринка" creationdate="20171118T205625Z">
+        <seg>Exclude orphan segments</seg>
       </tuv>
     </tu>
     <tu>
@@ -5221,6 +5261,14 @@ may experience unexpected, but correct behaviour.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Maximum number of finds has been reached ({0})</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Маринка" changedate="20171118T205632Z" creationid="Маринка" creationdate="20171118T205632Z">
+        <seg>Maximum number of finds has been reached ({0})</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Memor&amp;y</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Маринка" changedate="20171107T200202Z" creationid="Маринка" creationdate="20171107T200202Z">
@@ -5689,6 +5737,14 @@ may experience unexpected, but correct behaviour.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Маринка" changedate="20171107T200113Z" creationid="Маринка" creationdate="20171107T200113Z">
         <seg>Зараз</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Nr of matching segments: {0}</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Маринка" changedate="20171118T205751Z" creationid="Маринка" creationdate="20171118T205751Z">
+        <seg>Nr of matching segments: {0}</seg>
       </tuv>
     </tu>
     <tu>
@@ -7332,6 +7388,14 @@ The scope of a search is by default the project and can be set to be any files l
       </tuv>
       <tuv lang="UK-UA" changeid="Лера9764" changedate="20171025T175745Z" creationid="Лера9764" creationdate="20171025T175745Z">
         <seg>Шукати в</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Search thread died unexpectedly!</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Маринка" changedate="20171118T205740Z" creationid="Маринка" creationdate="20171118T205740Z">
+        <seg>Search thread died unexpectedly!</seg>
       </tuv>
     </tu>
     <tu>
