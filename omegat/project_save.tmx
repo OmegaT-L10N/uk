@@ -9527,6 +9527,14 @@ Both exact and keyword searches support the wildcard characters * and ?.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>[{0}] “{1}” in source; expected one of {2} in target</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Маринка" changedate="20171118T192935Z" creationid="Маринка" creationdate="20171118T192935Z">
+        <seg>[{0}] “{1}” in source; expected one of {2} in target</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>[{0}] “{1}” in source; expected “{2}” in target</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="nessyk" changedate="20171027T154248Z" creationid="nessyk" creationdate="20171027T154248Z">
