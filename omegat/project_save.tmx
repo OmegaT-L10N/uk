@@ -78,6 +78,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Also allow per-project external commands</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="nessyk" changedate="20171118T192358Z" creationid="nessyk" creationdate="20171118T192358Z">
+        <seg>&amp; Дозолити зовнішні команди для кожного проекту</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;Always</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Лера9764" changedate="20171102T161308Z" creationid="Лера9764" creationdate="20171102T161308Z">
