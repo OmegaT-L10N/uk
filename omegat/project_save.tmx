@@ -864,8 +864,8 @@
       <tuv lang="EN">
         <seg>&amp;TaaS Terminology Lookup</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="nessyk" changedate="20171109T203627Z" creationid="nessyk" creationdate="20171109T203627Z">
-        <seg>&amp;Пош укTaaS термінології</seg>
+      <tuv lang="UK-UA" changeid="Лера9764" changedate="20171118T084522Z" creationid="nessyk" creationdate="20171109T203627Z">
+        <seg>&amp;Пошук термінології TaaS</seg>
       </tuv>
     </tu>
     <tu>
@@ -7146,8 +7146,8 @@ The scope of a search is by default the project and can be set to be any files l
       <tuv lang="EN">
         <seg>Something went wrong, please visit Tilde Terminology for details.</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="nessyk" changedate="20171109T202423Z" creationid="nessyk" creationdate="20171109T202056Z">
-        <seg>Щось пішло не так, будь ласка, відвідайте термінологію Tilde, щоб дізнатись деталі.</seg>
+      <tuv lang="UK-UA" changeid="Лера9764" changedate="20171118T084701Z" creationid="nessyk" creationdate="20171109T202056Z">
+        <seg>Щось пішло не так, будь ласка, перейдіть до термінології Tilde, щоб дізнатись деталі.</seg>
       </tuv>
     </tu>
     <tu>
