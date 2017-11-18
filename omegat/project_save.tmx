@@ -1555,8 +1555,8 @@ To add files to the project, click on the Copy Files to Source Folder... button 
       <tuv lang="EN">
         <seg>An error occurred when saving the TMX.</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="nessyk" changedate="20171030T172640Z" creationid="nessyk" creationdate="20171030T172640Z">
-        <seg>Виникла помилка при збереженні TMX.</seg>
+      <tuv lang="UK-UA" changeid="Tetiana21" changedate="20171118T114248Z" creationid="nessyk" creationdate="20171030T172640Z">
+        <seg>При збереженні TMX сталася помилка .</seg>
       </tuv>
     </tu>
     <tu>
@@ -2863,8 +2863,8 @@ may experience unexpected, but correct behaviour.</seg>
       <tuv lang="EN">
         <seg>Download &amp;Team Project...</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20170902T164622Z" creationid="Kos Ivantsov" creationdate="20170902T164622Z">
-        <seg>Стягнути &amp;командний проект...</seg>
+      <tuv lang="UK-UA" changeid="Tetiana21" changedate="20171118T114201Z" creationid="Kos Ivantsov" creationdate="20170902T164622Z">
+        <seg>Завантажити &amp;командний проект...</seg>
       </tuv>
     </tu>
     <tu>
@@ -2881,6 +2881,14 @@ may experience unexpected, but correct behaviour.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20170902T164851Z" creationid="Kos Ivantsov" creationdate="20170902T164851Z">
         <seg>Стягнути сторінку MediaWiki...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Download Team Project</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Tetiana21" changedate="20171118T114349Z" creationid="Tetiana21" creationdate="20171118T114149Z">
+        <seg>Завантажити командний проект</seg>
       </tuv>
     </tu>
     <tu>
@@ -3369,6 +3377,14 @@ may experience unexpected, but correct behaviour.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Diman966" changedate="20171116T200912Z" creationid="Diman966" creationdate="20171116T200912Z">
         <seg>Зовнішні посилання External Lin&amp;ks</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>External Post-processing Command</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Tetiana21" changedate="20171118T114312Z" creationid="Tetiana21" creationdate="20171118T114312Z">
+        <seg>External Post-processing Command</seg>
       </tuv>
     </tu>
     <tu>
@@ -4991,6 +5007,14 @@ may experience unexpected, but correct behaviour.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Minutes:</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Tetiana21" changedate="20171118T114317Z" creationid="Tetiana21" creationdate="20171118T114317Z">
+        <seg>Хвилини:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Missing</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="nessyk" changedate="20171113T220946Z" creationid="nessyk" creationdate="20171113T220946Z">
@@ -5648,6 +5672,14 @@ your home folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Opening team project</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Tetiana21" changedate="20171118T114337Z" creationid="Tetiana21" creationdate="20171118T114337Z">
+        <seg>Opening team project</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Options</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Лера9764" changedate="20171025T182230Z" creationid="Лера9764" creationdate="20171025T182230Z">
@@ -5850,6 +5882,14 @@ additional steps need to be taken.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="nessyk" changedate="20171026T180816Z" creationid="nessyk" creationdate="20171026T180816Z">
         <seg>Будь ласка, перевірте ще раз.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Please enter the name of this set:</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Tetiana21" changedate="20171118T114129Z" creationid="Tetiana21" creationdate="20171118T114129Z">
+        <seg>Please enter the name of this set:</seg>
       </tuv>
     </tu>
     <tu>
@@ -6726,6 +6766,14 @@ additional steps need to be taken.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Save Current Set...</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Tetiana21" changedate="20171118T114122Z" creationid="Tetiana21" creationdate="20171118T114122Z">
+        <seg>Save Current Set...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Save Script</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Лера9764" changedate="20171110T192324Z" creationid="Лера9764" creationdate="20171110T192324Z">
@@ -6860,6 +6908,14 @@ The scope of a search is by default the project and can be set to be any files l
       </tuv>
       <tuv lang="UK-UA" changeid="Лера9764" changedate="20171025T175745Z" creationid="Лера9764" creationdate="20171025T175745Z">
         <seg>Шукати в</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Seconds:</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Tetiana21" changedate="20171118T114311Z" creationid="Tetiana21" creationdate="20171118T114311Z">
+        <seg>Секунди:</seg>
       </tuv>
     </tu>
     <tu>
