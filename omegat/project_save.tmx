@@ -184,8 +184,8 @@
       <tuv lang="EN">
         <seg>&amp;Current Source Document</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="Маринка" changedate="20171106T202323Z" creationid="Маринка" creationdate="20171026T191221Z">
-        <seg>&amp;Поточний вихідний документ</seg>
+      <tuv lang="UK-UA" changeid="Маринка" changedate="20171118T210529Z" creationid="Маринка" creationdate="20171026T191221Z">
+        <seg>&amp;Поточний документ оригіналу</seg>
       </tuv>
     </tu>
     <tu>
@@ -856,8 +856,8 @@
       <tuv lang="EN">
         <seg>&amp;Source Files</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="Маринка" changedate="20171026T191159Z" creationid="Маринка" creationdate="20171026T191159Z">
-        <seg>&amp;Файли вихідної мови</seg>
+      <tuv lang="UK-UA" changeid="Маринка" changedate="20171118T210507Z" creationid="Маринка" creationdate="20171026T191159Z">
+        <seg>&amp;Файли мови оригіналу</seg>
       </tuv>
     </tu>
     <tu>
@@ -1989,8 +1989,8 @@ may experience unexpected, but correct behaviour.</seg>
       <tuv lang="EN">
         <seg>C&amp;urrent Target Document</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="Маринка" changedate="20171106T202337Z" creationid="Маринка" creationdate="20171106T202246Z">
-        <seg>Поточний вихідний документ</seg>
+      <tuv lang="UK-UA" changeid="Маринка" changedate="20171118T210611Z" creationid="Маринка" creationdate="20171106T202246Z">
+        <seg>П&amp;оточний  документ перекладу</seg>
       </tuv>
     </tu>
     <tu>
@@ -2385,8 +2385,8 @@ may experience unexpected, but correct behaviour.</seg>
       <tuv lang="EN">
         <seg>Commit Source Files</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="Маринка" changedate="20171114T213811Z" creationid="Маринка" creationdate="20171114T213811Z">
-        <seg>Підключити вихідні файли</seg>
+      <tuv lang="UK-UA" changeid="Маринка" changedate="20171118T210439Z" creationid="Маринка" creationdate="20171114T213811Z">
+        <seg>Підключити файли оригіналу</seg>
       </tuv>
     </tu>
     <tu>
@@ -3327,6 +3327,14 @@ may experience unexpected, but correct behaviour.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Маринка" changedate="20171114T215428Z" creationid="Маринка" creationdate="20171114T215428Z">
         <seg>Порожня URL-адреса сховища у відображеннях &lt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Enable &amp;TransTips</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Маринка" changedate="20171118T210649Z" creationid="Маринка" creationdate="20171118T210649Z">
+        <seg>Enable &amp;TransTips</seg>
       </tuv>
     </tu>
     <tu>
@@ -7962,8 +7970,8 @@ The scope of a search is by default the project and can be set to be any files l
       <tuv lang="EN">
         <seg>Source language: {0}</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="Tetiana21" changedate="20171105T164132Z" creationid="Tetiana21" creationdate="20171105T164132Z">
-        <seg>Вихідна мова: {0}</seg>
+      <tuv lang="UK-UA" changeid="Маринка" changedate="20171118T210713Z" creationid="Tetiana21" creationdate="20171105T164132Z">
+        <seg>Мова оригіналу: {0}</seg>
       </tuv>
     </tu>
     <tu>
@@ -9325,6 +9333,14 @@ Exact searches match the whole search string.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Use &amp;stemming for glossary entries</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Маринка" changedate="20171118T210644Z" creationid="Маринка" creationdate="20171118T210644Z">
+        <seg>Use &amp;stemming for glossary entries</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Use all mine</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="nessyk" changedate="20171113T215845Z" creationid="nessyk" creationdate="20171113T215845Z">
@@ -9359,8 +9375,8 @@ Exact searches match the whole search string.</seg>
       <tuv lang="EN">
         <seg>Use terms &amp;appearing separately in the source text</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="Лера9764" changedate="20171105T153454Z" creationid="Лера9764" creationdate="20171105T153454Z">
-        <seg>Використати терміни, &amp;що з'являються окремо у вихідному тексті</seg>
+      <tuv lang="UK-UA" changeid="Маринка" changedate="20171118T210638Z" creationid="Лера9764" creationdate="20171105T153454Z">
+        <seg>Використати терміни, &amp;що з'являються окремо у  тексті оригіналу</seg>
       </tuv>
     </tu>
     <tu>
