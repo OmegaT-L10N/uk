@@ -1483,8 +1483,8 @@ To add files to the project, click on the Copy Files to Source Folder... button 
       <tuv lang="EN">
         <seg>Add characters to the custom table by double-clicking, or by highlighting and pressing the Insert key.</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="nessyk" changedate="20171113T215454Z" creationid="nessyk" creationdate="20171113T215454Z">
-        <seg>Додайте символи до спеціальної таблиці, двічі клацнувши, або виділивши та натиснувши клавішу Вставити.</seg>
+      <tuv lang="UK-UA" changeid="nessyk" changedate="20171118T185503Z" creationid="nessyk" creationdate="20171113T215454Z">
+        <seg>Додайте символи до спеціальної таблиці, двічі клацнувши, або виділивши та натиснувши клавішу "Вставити".</seg>
       </tuv>
     </tu>
     <tu>
@@ -1903,8 +1903,8 @@ may experience unexpected, but correct behaviour.</seg>
       <tuv lang="EN">
         <seg>C&amp;lear</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="nessyk" changedate="20171113T215538Z" creationid="nessyk" creationdate="20171113T215538Z">
-        <seg>Очистити</seg>
+      <tuv lang="UK-UA" changeid="nessyk" changedate="20171118T185520Z" creationid="nessyk" creationdate="20171113T215538Z">
+        <seg>О&amp;чистити</seg>
       </tuv>
     </tu>
     <tu>
@@ -6366,6 +6366,14 @@ additional steps need to be taken.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Project will not be updated.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="nessyk" changedate="20171118T185618Z" creationid="nessyk" creationdate="20171118T185618Z">
+        <seg>Проект не буде оновлено.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Provider</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="nessyk" changedate="20171026T171437Z" creationid="nessyk" creationdate="20171026T171437Z">
@@ -7964,6 +7972,22 @@ The scope of a search is by default the project and can be set to be any files l
       </tuv>
       <tuv lang="UK-UA" changeid="Tetiana21" changedate="20171105T133445Z" creationid="Tetiana21" creationdate="20171105T133445Z">
         <seg>Команда</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Team synchronization</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="nessyk" changedate="20171118T185634Z" creationid="nessyk" creationdate="20171118T185634Z">
+        <seg>Командна синхронізація</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Team synchronization...</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="nessyk" changedate="20171118T185728Z" creationid="nessyk" creationdate="20171118T185728Z">
+        <seg>Team synchronization...</seg>
       </tuv>
     </tu>
     <tu>
