@@ -1361,6 +1361,14 @@ To add files to the project, click on the Copy Files to Source Folder... button 
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Actions &amp; Settings</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Tetiana21" changedate="20171118T104841Z" creationid="Tetiana21" creationdate="20171118T104651Z">
+        <seg>Дії &amp; та налаштування</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Active segment source</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="nessyk" changedate="20171106T222651Z" creationid="nessyk" creationdate="20171106T222651Z">
@@ -1637,6 +1645,18 @@ To add files to the project, click on the Copy Files to Source Folder... button 
       </tuv>
       <tuv lang="UK-UA" changeid="nessyk" changedate="20171026T180502Z" creationid="nessyk" creationdate="20171026T173158Z">
         <seg>Ви впевнені, що хочете скинути майстер-пароль?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>As a result of this,
+all settings will be at their defaults, due to which you
+may experience unexpected, but correct behaviour.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Tetiana21" changedate="20171118T104818Z" creationid="Tetiana21" creationdate="20171118T104818Z">
+        <seg>As a result of this,
+all settings will be at their defaults, due to which you
+may experience unexpected, but correct behaviour.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4221,6 +4241,14 @@ To add files to the project, click on the Copy Files to Source Folder... button 
       </tuv>
       <tuv lang="UK-UA" changeid="Лера9764" changedate="20171116T142440Z" creationid="Лера9764" creationdate="20171116T142440Z">
         <seg>Встановлення та запуск OmegaT" в посібнику користувача.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Instant Start</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Tetiana21" changedate="20171118T104927Z" creationid="Tetiana21" creationdate="20171118T104927Z">
+        <seg>Швидкий запуск</seg>
       </tuv>
     </tu>
     <tu>
@@ -8351,6 +8379,14 @@ Exact searches match the whole search string.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="nessyk" changedate="20171109T201830Z" creationid="nessyk" creationdate="20171109T201830Z">
         <seg>Неавторизований запит на обслуговування TaaS.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Undock</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Tetiana21" changedate="20171118T104735Z" creationid="Tetiana21" creationdate="20171118T104735Z">
+        <seg>Undock</seg>
       </tuv>
     </tu>
     <tu>
