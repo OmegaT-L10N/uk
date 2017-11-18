@@ -6008,8 +6008,8 @@ additional steps need to be taken.</seg>
       <tuv lang="EN">
         <seg>Please enter your password again for confirmation.</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="nessyk" changedate="20171026T180740Z" creationid="nessyk" creationdate="20171026T180740Z">
-        <seg>Будь ласка, ведіть свій пароль знову для підтвердження.</seg>
+      <tuv lang="UK-UA" changeid="nessyk" changedate="20171118T183618Z" creationid="nessyk" creationdate="20171026T180740Z">
+        <seg>Будь ласка, ведіть свій пароль для підтвердження.знову </seg>
       </tuv>
     </tu>
     <tu>
@@ -6136,8 +6136,8 @@ additional steps need to be taken.</seg>
       <tuv lang="EN">
         <seg>Preferences - {0}</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="nessyk" changedate="20171026T174215Z" creationid="nessyk" creationdate="20171026T173933Z">
-        <seg>Переваги - {0}</seg>
+      <tuv lang="UK-UA" changeid="nessyk" changedate="20171118T183451Z" creationid="nessyk" creationdate="20171026T173933Z">
+        <seg>Параметри - {0}</seg>
       </tuv>
     </tu>
     <tu>
@@ -7314,8 +7314,8 @@ The scope of a search is by default the project and can be set to be any files l
       <tuv lang="EN">
         <seg>Select a Category</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="nessyk" changedate="20171026T174239Z" creationid="nessyk" creationdate="20171026T174239Z">
-        <seg>Вибрати категорію</seg>
+      <tuv lang="UK-UA" changeid="nessyk" changedate="20171118T183501Z" creationid="nessyk" creationdate="20171026T174239Z">
+        <seg>Обрати категорію</seg>
       </tuv>
     </tu>
     <tu>
