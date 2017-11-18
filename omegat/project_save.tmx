@@ -1601,6 +1601,14 @@ To add files to the project, click on the Copy Files to Source Folder... button 
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>An error occurred when trying to detect the project file.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="nessyk" changedate="20171118T191002Z" creationid="nessyk" creationdate="20171118T191002Z">
+        <seg>Виникла помилка при спробі відкрити файлу проекту.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>An error occurred while downloading the dictionary.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Лера9764" changedate="20171117T160451Z" creationid="Лера9764" creationdate="20171117T160451Z">
@@ -6328,8 +6336,8 @@ additional steps need to be taken.</seg>
       <tuv lang="EN">
         <seg>Project file should be on http protocol.</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="nessyk" changedate="20171118T190635Z" creationid="nessyk" creationdate="20171118T190635Z">
-        <seg>Project file should be on http protocol.</seg>
+      <tuv lang="UK-UA" changeid="nessyk" changedate="20171118T190726Z" creationid="nessyk" creationdate="20171118T190635Z">
+        <seg>Файл проекту повинен бути на http-протоколі.</seg>
       </tuv>
     </tu>
     <tu>
