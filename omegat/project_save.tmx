@@ -5319,6 +5319,14 @@ may experience unexpected, but correct behaviour.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>No need to save project, because no changes were made</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Tetiana21" changedate="20171118T143307Z" creationid="Tetiana21" creationdate="20171118T143204Z">
+        <seg>Не потрібно зберігати проект, адже ніяких змін не було зроблено</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>No script bound in slot #{0}.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Лера9764" changedate="20171118T085753Z" creationid="Tetiana21" creationdate="20171116T200115Z">
@@ -6272,8 +6280,8 @@ additional steps need to be taken.</seg>
       <tuv lang="EN">
         <seg>Project loading end</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="Tetiana21" changedate="20171116T195452Z" creationid="Tetiana21" creationdate="20171116T195452Z">
-        <seg>Project loading end</seg>
+      <tuv lang="UK-UA" changeid="Tetiana21" changedate="20171118T143134Z" creationid="Tetiana21" creationdate="20171116T195452Z">
+        <seg>Завантаження кінцевого результату </seg>
       </tuv>
     </tu>
     <tu>
@@ -6290,6 +6298,22 @@ additional steps need to be taken.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20170902T184222Z" creationid="Kos Ivantsov" creationdate="20170902T184222Z">
         <seg>Проект збережено</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Project saving end</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Tetiana21" changedate="20171118T143221Z" creationid="Tetiana21" creationdate="20171118T143203Z">
+        <seg>Збереження кінцевого результату </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Project saving start</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Tetiana21" changedate="20171118T143201Z" creationid="Tetiana21" creationdate="20171118T143201Z">
+        <seg>Збереження початку проекту</seg>
       </tuv>
     </tu>
     <tu>
