@@ -5834,8 +5834,8 @@ your home folder.</seg>
       <tuv lang="EN">
         <seg>Opening team project</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="Tetiana21" changedate="20171118T114337Z" creationid="Tetiana21" creationdate="20171118T114337Z">
-        <seg>Opening team project</seg>
+      <tuv lang="UK-UA" changeid="nessyk" changedate="20171118T191409Z" creationid="Tetiana21" creationdate="20171118T114337Z">
+        <seg>ВІдкриття командного проекту</seg>
       </tuv>
     </tu>
     <tu>
@@ -6122,6 +6122,14 @@ additional steps need to be taken.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Tetiana21" changedate="20171105T190151Z" creationid="Tetiana21" creationdate="20171105T190151Z">
         <seg>Please select how tags of non-OmegaT TMXs should be displayed.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Please select the interval at which the project should be saved automatically, in minutes and seconds.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="nessyk" changedate="20171118T191841Z" creationid="nessyk" creationdate="20171118T191841Z">
+        <seg>Будь ласка, виберіть інтервал в хвилинах і секундах, протягом  якого проект буде зберігатися автоматично.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6806,6 +6814,14 @@ additional steps need to be taken.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Repository Credentials</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="nessyk" changedate="20171118T191327Z" creationid="nessyk" creationdate="20171118T191327Z">
+        <seg>Repository Credentials</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Repository Mapping</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Маринка" changedate="20171106T205509Z" creationid="Маринка" creationdate="20171106T205509Z">
@@ -7042,6 +7058,22 @@ additional steps need to be taken.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="nessyk" changedate="20171030T173053Z" creationid="nessyk" creationdate="20171030T173053Z">
         <seg>Зберегти зміни до даних сегментації?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Saving and Output</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="nessyk" changedate="20171118T191519Z" creationid="nessyk" creationdate="20171118T191519Z">
+        <seg>Saving and Output</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Saving and Output Options</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="nessyk" changedate="20171118T191517Z" creationid="nessyk" creationdate="20171118T191517Z">
+        <seg>Saving and Output Options</seg>
       </tuv>
     </tu>
     <tu>
@@ -7912,6 +7944,14 @@ The scope of a search is by default the project and can be set to be any files l
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Synchronisation of repositories</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="nessyk" changedate="20171118T191341Z" creationid="nessyk" creationdate="20171118T191341Z">
+        <seg>Synchronisation of repositories</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Synchronization error</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="nessyk" changedate="20171118T190318Z" creationid="nessyk" creationdate="20171118T190003Z">
@@ -8389,6 +8429,14 @@ in /lib/licenses/Licenses.txt.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="nessyk" changedate="20171118T191025Z" creationid="nessyk" creationdate="20171118T191025Z">
         <seg>This URL appears to be invalid.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This command will be executed after Creating Translated Documents.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="nessyk" changedate="20171118T192238Z" creationid="nessyk" creationdate="20171118T192106Z">
+        <seg>Ця команда буде виконана після створення перекладенихо документів</seg>
       </tuv>
     </tu>
     <tu>
