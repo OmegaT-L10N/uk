@@ -7758,8 +7758,8 @@ Please try to correct the error and reload the project.</seg>
       <tuv lang="EN">
         <seg>The command must include "{target}", which will be replaced with the search text.</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="nessyk" changedate="20171025T180934Z" creationid="nessyk" creationdate="20171025T180934Z">
-        <seg>Команда повинна включати "{target}", яка буде замінена текстом пошуку.</seg>
+      <tuv lang="UK-UA" changeid="Лера9764" changedate="20171118T090444Z" creationid="nessyk" creationdate="20171025T180934Z">
+        <seg>Команда повинна містити "{target}", яка буде замінена текстом пошуку.</seg>
       </tuv>
     </tu>
     <tu>
