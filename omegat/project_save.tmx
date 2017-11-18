@@ -2131,6 +2131,14 @@ may experience unexpected, but correct behaviour.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Cannot load specified XML file!</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Маринка" changedate="20171118T212856Z" creationid="Маринка" creationdate="20171118T212856Z">
+        <seg>Не можна завантажити вказаний XML файл!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Change date</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Лера9764" changedate="20171107T195708Z" creationid="Лера9764" creationdate="20171107T195708Z">
@@ -5757,6 +5765,14 @@ may experience unexpected, but correct behaviour.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Not a valid XML file!</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Маринка" changedate="20171118T212824Z" creationid="Маринка" creationdate="20171118T212824Z">
+        <seg>Файл XML недійсний!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Not present</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="nessyk" changedate="20171109T203129Z" creationid="nessyk" creationdate="20171109T203129Z">
@@ -9279,6 +9295,14 @@ Exact searches match the whole search string.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Unable to initialize read of XML file!</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Маринка" changedate="20171118T212708Z" creationid="Маринка" creationdate="20171118T212708Z">
+        <seg>Не вдається запустити XML файл!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Unable to parse filters configuration file</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Маринка" changedate="20171118T211618Z" creationid="Маринка" creationdate="20171118T211458Z">
@@ -9443,6 +9467,14 @@ Exact searches match the whole search string.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="nessyk" changedate="20171113T221359Z" creationid="nessyk" creationdate="20171113T221359Z">
         <seg>Невстановлений </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Unsupported XML version {0}!</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Маринка" changedate="20171118T212741Z" creationid="Маринка" creationdate="20171118T212741Z">
+        <seg>Версія XML не підтримується {0}!</seg>
       </tuv>
     </tu>
     <tu>
