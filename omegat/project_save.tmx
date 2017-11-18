@@ -3723,6 +3723,14 @@ may experience unexpected, but correct behaviour.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Failed to update project properties</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Маринка" changedate="20171118T201909Z" creationid="Маринка" creationdate="20171118T201909Z">
+        <seg>Failed to update project properties</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Fatal error encountered - saving project file with '.recover' backup extension.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Маринка" changedate="20171101T214955Z" creationid="Маринка" creationdate="20171101T214955Z">
@@ -3813,8 +3821,8 @@ may experience unexpected, but correct behaviour.</seg>
       <tuv lang="EN">
         <seg>File: translated / number of segments (project: unique translated / unique, total number of segments)</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="Маринка" changedate="20171101T205345Z" creationid="Маринка" creationdate="20171101T205345Z">
-        <seg>Файл: перекладений / кількість сегментів (проект: унікально перекладені / унікальна, загальна кількість oсегментів</seg>
+      <tuv lang="UK-UA" changeid="Маринка" changedate="20171118T202105Z" creationid="Маринка" creationdate="20171101T205345Z">
+        <seg>Файл: перекладений / кількість сегментів (проект: унікально перекладені / унікальна, загальна кількість сегментів</seg>
       </tuv>
     </tu>
     <tu>
@@ -3845,8 +3853,8 @@ may experience unexpected, but correct behaviour.</seg>
       <tuv lang="EN">
         <seg>Filter:</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="Маринка" changedate="20171101T205706Z" creationid="Маринка" creationdate="20171101T205647Z">
-        <seg>Фільтер:</seg>
+      <tuv lang="UK-UA" changeid="Маринка" changedate="20171118T202258Z" creationid="Маринка" creationdate="20171101T205647Z">
+        <seg>Фільтр:</seg>
       </tuv>
     </tu>
     <tu>
@@ -4109,8 +4117,8 @@ may experience unexpected, but correct behaviour.</seg>
       <tuv lang="EN">
         <seg>Go To Segment</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20170902T184604Z" creationid="Kos Ivantsov" creationdate="20170902T184554Z">
-        <seg>Перейти до сегмента</seg>
+      <tuv lang="UK-UA" changeid="Маринка" changedate="20171118T201942Z" creationid="Kos Ivantsov" creationdate="20170902T184554Z">
+        <seg>Перехід до сегмента</seg>
       </tuv>
     </tu>
     <tu>
@@ -5287,8 +5295,8 @@ may experience unexpected, but correct behaviour.</seg>
       <tuv lang="EN">
         <seg>Move &amp;Down</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="Маринка" changedate="20171101T205533Z" creationid="Маринка" creationdate="20171101T205533Z">
-        <seg>Вниз</seg>
+      <tuv lang="UK-UA" changeid="Маринка" changedate="20171118T202247Z" creationid="Маринка" creationdate="20171101T205533Z">
+        <seg>Рухатися &amp;вниз</seg>
       </tuv>
     </tu>
     <tu>
@@ -5303,16 +5311,16 @@ may experience unexpected, but correct behaviour.</seg>
       <tuv lang="EN">
         <seg>Move &amp;Last</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="Маринка" changedate="20171101T205645Z" creationid="Маринка" creationdate="20171101T205536Z">
-        <seg>Перейти до останнього</seg>
+      <tuv lang="UK-UA" changeid="Маринка" changedate="20171118T202256Z" creationid="Маринка" creationdate="20171101T205536Z">
+        <seg>Перейти до &amp;останнього</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Move &amp;Up</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="Маринка" changedate="20171101T205525Z" creationid="Маринка" creationdate="20171101T205525Z">
-        <seg>Вверх</seg>
+      <tuv lang="UK-UA" changeid="Маринка" changedate="20171118T202231Z" creationid="Маринка" creationdate="20171101T205525Z">
+        <seg>Рухатися &amp;вгору</seg>
       </tuv>
     </tu>
     <tu>
@@ -5848,16 +5856,16 @@ your home folder.</seg>
       <tuv lang="EN">
         <seg>Open Source File</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="Маринка" changedate="20171101T205721Z" creationid="Маринка" creationdate="20171101T205721Z">
-        <seg>Відкрити вихідний файл</seg>
+      <tuv lang="UK-UA" changeid="Маринка" changedate="20171118T202336Z" creationid="Маринка" creationdate="20171101T205721Z">
+        <seg>Відкрити файли оригіналу</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Open Source File Location</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="Маринка" changedate="20171101T205959Z" creationid="Маринка" creationdate="20171101T205959Z">
-        <seg>Відрити папку вихідного файлу</seg>
+      <tuv lang="UK-UA" changeid="Маринка" changedate="20171118T202409Z" creationid="Маринка" creationdate="20171101T205959Z">
+        <seg>Відрити теку файлу оригінала</seg>
       </tuv>
     </tu>
     <tu>
@@ -5880,8 +5888,8 @@ your home folder.</seg>
       <tuv lang="EN">
         <seg>Open {0} Source Files</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="Маринка" changedate="20171101T205932Z" creationid="Маринка" creationdate="20171101T205745Z">
-        <seg>Відкрити {0} вихідні файли</seg>
+      <tuv lang="UK-UA" changeid="Маринка" changedate="20171118T202349Z" creationid="Маринка" creationdate="20171101T205745Z">
+        <seg>Відкрити {0} файли оригіналу</seg>
       </tuv>
     </tu>
     <tu>
