@@ -3867,8 +3867,16 @@ To add files to the project, click on the Copy Files to Source Folder... button 
       <tuv lang="EN">
         <seg>HHC file too big!</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="Лера9764" changedate="20171107T194946Z" creationid="Лера9764" creationdate="20171107T194946Z">
-        <seg>Файл HHC надто великий!</seg>
+      <tuv lang="UK-UA" changeid="Tetiana21" changedate="20171118T101826Z" creationid="Лера9764" creationdate="20171107T194946Z">
+        <seg>Файл HHC занадто великий!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>HTML Help Compiler</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Tetiana21" changedate="20171118T101930Z" creationid="Tetiana21" creationdate="20171118T101930Z">
+        <seg>HTML-довідка автора</seg>
       </tuv>
     </tu>
     <tu>
@@ -5247,6 +5255,14 @@ To add files to the project, click on the Copy Files to Source Folder... button 
       </tuv>
       <tuv lang="UK-UA" changeid="Маринка" changedate="20171107T194805Z" creationid="Маринка" creationdate="20171107T194805Z">
         <seg>Примітка: Усі правила сегментації, що встановлюються з відповідним шаблоном мови, виконуються у вказаному порядку.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Note: Source File Encoding setting affects only the HHC and HHK files that do not contain an encoding declaration.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Tetiana21" changedate="20171118T101830Z" creationid="Tetiana21" creationdate="20171118T101830Z">
+        <seg>Note: Source File Encoding setting affects only the HHC and HHK files that do not contain an encoding declaration.</seg>
       </tuv>
     </tu>
     <tu>
