@@ -4541,8 +4541,8 @@ may experience unexpected, but correct behaviour.</seg>
       <tuv lang="EN">
         <seg>Insert the &amp;source text</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="Лера9764" changedate="20171117T153610Z" creationid="Tetiana21" creationdate="20171105T135230Z">
-        <seg>Вставити &amp;вихідний текст</seg>
+      <tuv lang="UK-UA" changeid="Маринка" changedate="20171118T210845Z" creationid="Tetiana21" creationdate="20171105T135230Z">
+        <seg>Вставити &amp;текст оригіналу</seg>
       </tuv>
     </tu>
     <tu>
@@ -7978,8 +7978,8 @@ The scope of a search is by default the project and can be set to be any files l
       <tuv lang="EN">
         <seg>Source segment could not be located for certain translation units.</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="Лера9764" changedate="20171117T154302Z" creationid="Diman966" creationdate="20171116T195406Z">
-        <seg>Вихідний сегмент не може бути класифікований для точного перекладу одиниць.</seg>
+      <tuv lang="UK-UA" changeid="Маринка" changedate="20171118T210826Z" creationid="Diman966" creationdate="20171116T195406Z">
+        <seg>Текст оригіналу у сегменті не може бути класифікований для точного перекладу одиниць.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8010,8 +8010,8 @@ The scope of a search is by default the project and can be set to be any files l
       <tuv lang="EN">
         <seg>Source term:</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="Diman966" changedate="20171116T210231Z" creationid="Diman966" creationdate="20171116T210231Z">
-        <seg>Вихідний термін Source term:</seg>
+      <tuv lang="UK-UA" changeid="Маринка" changedate="20171118T210907Z" creationid="Diman966" creationdate="20171116T210231Z">
+        <seg>Термін оригіналу:</seg>
       </tuv>
     </tu>
     <tu>
@@ -8695,6 +8695,14 @@ in /lib/licenses/Licenses.txt.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Маринка" changedate="20171118T192221Z" creationid="Маринка" creationdate="20171118T192221Z">
         <seg>These three are certain:&lt;p&gt;Death, taxes, and page not found.&lt;p&gt;You, victim of one.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>These units have been skipped.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Маринка" changedate="20171118T210834Z" creationid="Маринка" creationdate="20171118T210834Z">
+        <seg>These units have been skipped.</seg>
       </tuv>
     </tu>
     <tu>
