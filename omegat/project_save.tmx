@@ -142,6 +142,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Bookmarks</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Маринка" changedate="20171118T211956Z" creationid="Маринка" creationdate="20171118T211956Z">
+        <seg>&amp;Bookmarks</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;Browse</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Маринка" changedate="20171114T215228Z" creationid="Маринка" creationdate="20171114T215228Z">
@@ -178,6 +186,14 @@
       </tuv>
       <tuv lang="UK-UA" changeid="Лера9764" changedate="20171025T175814Z" creationid="Лера9764" creationdate="20171025T175814Z">
         <seg>&amp;Закрити</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;Comments</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Маринка" changedate="20171118T212008Z" creationid="Маринка" creationdate="20171118T212008Z">
+        <seg>&amp;Коментарії</seg>
       </tuv>
     </tu>
     <tu>
@@ -534,6 +550,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Notes</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Маринка" changedate="20171118T212003Z" creationid="Маринка" creationdate="20171118T211943Z">
+        <seg>&amp;Примітки</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;OK</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20170929T122849Z" creationid="Kos Ivantsov" creationdate="20170929T122849Z">
@@ -578,6 +602,14 @@
       </tuv>
       <tuv lang="UK-UA" changeid="Tetiana21" changedate="20171105T143834Z" creationid="Tetiana21" creationdate="20171105T143834Z">
         <seg>&amp;Префікс:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;Presentation notes</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Маринка" changedate="20171118T212020Z" creationid="Маринка" creationdate="20171118T212020Z">
+        <seg>&amp;Presentation notes</seg>
       </tuv>
     </tu>
     <tu>
@@ -818,6 +850,14 @@
       </tuv>
       <tuv lang="UK-UA" changeid="Tetiana21" changedate="20171118T140131Z" creationid="Tetiana21" creationdate="20171118T140131Z">
         <seg>&amp;Sentence Case</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;Sheet Names</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Маринка" changedate="20171118T212035Z" creationid="Маринка" creationdate="20171118T212035Z">
+        <seg>&amp;Sheet Names</seg>
       </tuv>
     </tu>
     <tu>
@@ -1359,6 +1399,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;trans-unit&gt; I&amp;D</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Маринка" changedate="20171118T212124Z" creationid="Маринка" creationdate="20171118T212124Z">
+        <seg>&lt;trans-unit&gt; I&amp;D</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>A restart is required in order to apply these changes</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="nessyk" changedate="20171026T174351Z" creationid="nessyk" creationdate="20171026T174351Z">
@@ -1371,6 +1419,14 @@ The current setting is {0}MB;</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Лера9764" changedate="20171118T083016Z" creationid="Лера9764" creationdate="20171030T181454Z">
         <seg>Д&amp;одати</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>A&amp;ggregate Tags</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Маринка" changedate="20171118T212240Z" creationid="Маринка" creationdate="20171118T212240Z">
+        <seg>A&amp;ggregate Tags</seg>
       </tuv>
     </tu>
     <tu>
@@ -1975,6 +2031,14 @@ may experience unexpected, but correct behaviour.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Маринка" changedate="20171107T200136Z" creationid="Маринка" creationdate="20171107T200136Z">
         <seg>C&amp;ase sensitive</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>C&amp;harts</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Маринка" changedate="20171118T212226Z" creationid="Маринка" creationdate="20171118T212226Z">
+        <seg>C&amp;harts</seg>
       </tuv>
     </tu>
     <tu>
@@ -3645,8 +3709,8 @@ may experience unexpected, but correct behaviour.</seg>
       <tuv lang="EN">
         <seg>External Lin&amp;ks</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="Diman966" changedate="20171116T200912Z" creationid="Diman966" creationdate="20171116T200912Z">
-        <seg>Зовнішні посилання External Lin&amp;ks</seg>
+      <tuv lang="UK-UA" changeid="Маринка" changedate="20171118T212222Z" creationid="Diman966" creationdate="20171116T200912Z">
+        <seg>Зовнішні посилання </seg>
       </tuv>
     </tu>
     <tu>
@@ -4141,8 +4205,8 @@ may experience unexpected, but correct behaviour.</seg>
       <tuv lang="EN">
         <seg>Global</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="Diman966" changedate="20171116T200859Z" creationid="Diman966" creationdate="20171116T200859Z">
-        <seg>Глобальний Global</seg>
+      <tuv lang="UK-UA" changeid="Маринка" changedate="20171118T212216Z" creationid="Diman966" creationdate="20171116T200859Z">
+        <seg>Глобальний </seg>
       </tuv>
     </tu>
     <tu>
@@ -5015,8 +5079,8 @@ may experience unexpected, but correct behaviour.</seg>
       <tuv lang="EN">
         <seg>Links (&amp;URL)</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="Diman966" changedate="20171116T200744Z" creationid="Diman966" creationdate="20171116T200744Z">
-        <seg>Посилання Links (&amp;URL)</seg>
+      <tuv lang="UK-UA" changeid="Маринка" changedate="20171118T212030Z" creationid="Diman966" creationdate="20171116T200744Z">
+        <seg>Посилання (&amp;URL)</seg>
       </tuv>
     </tu>
     <tu>
@@ -6120,8 +6184,8 @@ your home folder.</seg>
       <tuv lang="EN">
         <seg>Other Options:</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="Diman966" changedate="20171116T200948Z" creationid="Diman966" creationdate="20171116T200948Z">
-        <seg>Інші функції Other Options:</seg>
+      <tuv lang="UK-UA" changeid="Маринка" changedate="20171118T212230Z" creationid="Diman966" creationdate="20171116T200948Z">
+        <seg>Інші функції:</seg>
       </tuv>
     </tu>
     <tu>
@@ -6504,6 +6568,14 @@ additional steps need to be taken.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20170902T182518Z" creationid="Kos Ivantsov" creationdate="20170902T170721Z">
         <seg>Попередня п&amp;римітка</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Previous and &amp;next paragraphs</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Маринка" changedate="20171118T212121Z" creationid="Маринка" creationdate="20171118T212121Z">
+        <seg>Попередні та &amp;наступні параграфи</seg>
       </tuv>
     </tu>
     <tu>
