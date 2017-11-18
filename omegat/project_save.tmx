@@ -182,6 +182,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Cycle</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Tetiana21" changedate="20171118T130652Z" creationid="Tetiana21" creationdate="20171118T130652Z">
+        <seg>&amp;Cycle</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;Dictionaries</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Лера9764" changedate="20171030T193624Z" creationid="Лера9764" creationdate="20171030T193624Z">
@@ -930,6 +938,14 @@
       </tuv>
       <tuv lang="UK-UA" changeid="Маринка" changedate="20171026T191428Z" creationid="Маринка" creationdate="20171026T191428Z">
         <seg>&amp;Посібник користувача...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;View</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Tetiana21" changedate="20171118T130621Z" creationid="Tetiana21" creationdate="20171118T130621Z">
+        <seg>&amp;Вигляд</seg>
       </tuv>
     </tu>
     <tu>
@@ -2753,6 +2769,14 @@ may experience unexpected, but correct behaviour.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="nessyk" changedate="20171113T215009Z" creationid="nessyk" creationdate="20171113T215009Z">
         <seg>Показати </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Display &amp;Source Segments</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Tetiana21" changedate="20171118T130810Z" creationid="Tetiana21" creationdate="20171118T130623Z">
+        <seg>Дисплей &amp;тексту оригіналу у сегменті</seg>
       </tuv>
     </tu>
     <tu>
@@ -4859,6 +4883,14 @@ may experience unexpected, but correct behaviour.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="nessyk" changedate="20171101T184652Z" creationid="nessyk" creationdate="20171101T184652Z">
         <seg>Означення потребує прекладу</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Mark Non-Unique Se&amp;gments</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Tetiana21" changedate="20171118T140108Z" creationid="Tetiana21" creationdate="20171118T140108Z">
+        <seg>Mark Non-Unique Se&amp;gments</seg>
       </tuv>
     </tu>
     <tu>
