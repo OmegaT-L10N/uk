@@ -1529,6 +1529,14 @@ To add files to the project, click on the Copy Files to Source Folder... button 
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>An error occurred</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Tetiana21" changedate="20171118T110748Z" creationid="Tetiana21" creationdate="20171118T110748Z">
+        <seg>Сталася помилка</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>An error occurred when loading the source files.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="nessyk" changedate="20171102T205950Z" creationid="nessyk" creationdate="20171102T205950Z">
@@ -1881,6 +1889,14 @@ may experience unexpected, but correct behaviour.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="nessyk" changedate="20171101T185050Z" creationid="nessyk" creationdate="20171101T185032Z">
         <seg>Відмінити ціловий елаймент (вирівнювання)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Cancel only works on scripts that explicitly check for cancellation.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Tetiana21" changedate="20171118T110713Z" creationid="Tetiana21" creationdate="20171118T110713Z">
+        <seg>Cancel only works on scripts that explicitly check for cancellation.</seg>
       </tuv>
     </tu>
     <tu>
