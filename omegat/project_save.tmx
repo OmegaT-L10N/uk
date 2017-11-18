@@ -3351,8 +3351,16 @@ may experience unexpected, but correct behaviour.</seg>
       <tuv lang="EN">
         <seg>Error checking out the project from remote repository:</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="Tetiana21" changedate="20171118T130606Z" creationid="Tetiana21" creationdate="20171118T130606Z">
-        <seg>Error checking out the project from remote repository:</seg>
+      <tuv lang="UK-UA" changeid="nessyk" changedate="20171118T193218Z" creationid="Tetiana21" creationdate="20171118T130606Z">
+        <seg>Помилка перевірки проекту з віддаленого сховища:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Error checking out the project from remote repository: {0}</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="nessyk" changedate="20171118T193303Z" creationid="nessyk" creationdate="20171118T193249Z">
+        <seg>Помилка перевірки проекту з віддаленого сховища:{0}</seg>
       </tuv>
     </tu>
     <tu>
@@ -4931,6 +4939,14 @@ may experience unexpected, but correct behaviour.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Маринка" changedate="20171107T195601Z" creationid="Маринка" creationdate="20171107T195601Z">
         <seg>Локальний файл/папка</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Local translation not synchronized with remote repository.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="nessyk" changedate="20171118T193336Z" creationid="nessyk" creationdate="20171118T193336Z">
+        <seg>Місцевий переклад не синхронізований із віддаленим сховищем.</seg>
       </tuv>
     </tu>
     <tu>
