@@ -1003,9 +1003,9 @@
         <seg>(In the user's manual, see 'Files to translate' &gt; 'File formats' for a list of supported file formats.)
 To add files to the project, click on the Copy Files to Source Folder... button in the Project Files window or call this action from the Project menu and select the source files you want to copy.</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="Лера9764" changedate="20171102T184657Z" creationid="Лера9764" creationdate="20171102T184657Z">
+      <tuv lang="UK-UA" changeid="Маринка" changedate="20171118T210243Z" creationid="Лера9764" creationdate="20171102T184657Z">
         <seg>(У посібнику користувача дивіться "Файли для перекладу"&gt; "Формати файлів" для списку підтримуваних форматів файлів.)
-Щоб додати файли до проекту, натисність Скопіювати файли до Кореневої папки... в вікні Файли проекту або виконайте ці дії в меню "Проект" та виберіть вихідні файли, які потрібно скопіювати.</seg>
+Щоб додати файли до проекту, натисність Скопіювати файли до Кореневої папки... в вікні Файли проекту або виконайте ці дії в меню "Проект" та виберіть файли оригіналу, які потрібно скопіювати.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1187,8 +1187,8 @@ To add files to the project, click on the Copy Files to Source Folder... button 
       <tuv lang="EN">
         <seg>1) Reduce the number of source files and translate in batches;</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="Лера9764" changedate="20171030T181808Z" creationid="Лера9764" creationdate="20171030T181808Z">
-        <seg>1) Зменшити кількість файлів вихідної мови та перекладати групами;</seg>
+      <tuv lang="UK-UA" changeid="Маринка" changedate="20171118T210144Z" creationid="Лера9764" creationdate="20171030T181808Z">
+        <seg>1) Зменшити кількість файлів мови оригіналу та перекладати групами;</seg>
       </tuv>
     </tu>
     <tu>
@@ -9663,8 +9663,8 @@ Both exact and keyword searches support the wildcard characters * and ?.</seg>
       <tuv lang="EN">
         <seg>You may also copy the files to your project's 'source' folder using your favorite file manager and reload the project by calling Reload from the Project menu.</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="Лера9764" changedate="20171102T184912Z" creationid="Лера9764" creationdate="20171102T184912Z">
-        <seg>Ви також можете скопіювати файли в папку "source" вашого проекту за допомогою вашого улюбленого менеджера файлів і перезавантажувати проект, вибравши "Перезавантажити" в меню "Проект".</seg>
+      <tuv lang="UK-UA" changeid="Маринка" changedate="20171118T210348Z" creationid="Лера9764" creationdate="20171102T184912Z">
+        <seg>Ви також можете скопіювати файли в папку „ source“ вашого проекту за допомогою вашого улюбленого менеджера файлів і перезавантажувати проект, вибравши „Перезавантажити“ в меню „ Проект“.</seg>
       </tuv>
     </tu>
     <tu>
