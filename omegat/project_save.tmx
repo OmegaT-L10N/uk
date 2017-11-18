@@ -3115,6 +3115,14 @@ may experience unexpected, but correct behaviour.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>E&amp;nable Sentence-level Segmenting</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Маринка" changedate="20171118T203323Z" creationid="Маринка" creationdate="20171118T203323Z">
+        <seg>E&amp;nable Sentence-level Segmenting</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>E&amp;xclusions...</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Маринка" changedate="20171114T215230Z" creationid="Маринка" creationdate="20171114T215230Z">
@@ -4085,8 +4093,8 @@ may experience unexpected, but correct behaviour.</seg>
       <tuv lang="EN">
         <seg>Glossary Folder:</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="Маринка" changedate="20171106T204658Z" creationid="Маринка" creationdate="20171106T204653Z">
-        <seg>Папка глосарія:</seg>
+      <tuv lang="UK-UA" changeid="Маринка" changedate="20171118T203404Z" creationid="Маринка" creationdate="20171106T204653Z">
+        <seg>Тека глосарія:</seg>
       </tuv>
     </tu>
     <tu>
@@ -7834,8 +7842,8 @@ The scope of a search is by default the project and can be set to be any files l
       <tuv lang="EN">
         <seg>Source Files Folder:</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="Маринка" changedate="20171106T204631Z" creationid="Маринка" creationdate="20171106T204631Z">
-        <seg>Папка вихідних файлів:</seg>
+      <tuv lang="UK-UA" changeid="Маринка" changedate="20171118T203356Z" creationid="Маринка" creationdate="20171106T204631Z">
+        <seg>Тека файлів оригіналу:</seg>
       </tuv>
     </tu>
     <tu>
@@ -8717,8 +8725,8 @@ in /lib/licenses/Licenses.txt.</seg>
       <tuv lang="EN">
         <seg>Total Words</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="sergl" changedate="20171117T144613Z" creationid="Маринка" creationdate="20171114T214629Z">
-        <seg>Всього слів</seg>
+      <tuv lang="UK-UA" changeid="Маринка" changedate="20171118T203624Z" creationid="Маринка" creationdate="20171114T214629Z">
+        <seg>Всього номерів</seg>
       </tuv>
     </tu>
     <tu>
@@ -8781,8 +8789,8 @@ in /lib/licenses/Licenses.txt.</seg>
       <tuv lang="EN">
         <seg>Translated Files Folder:</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="Маринка" changedate="20171106T204643Z" creationid="Маринка" creationdate="20171106T204643Z">
-        <seg>Папка перекладених файлів:</seg>
+      <tuv lang="UK-UA" changeid="Маринка" changedate="20171118T203401Z" creationid="Маринка" creationdate="20171106T204643Z">
+        <seg>Тека перекладених файлів:</seg>
       </tuv>
     </tu>
     <tu>
@@ -8869,8 +8877,8 @@ in /lib/licenses/Licenses.txt.</seg>
       <tuv lang="EN">
         <seg>Translation Memory Folder:</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="Маринка" changedate="20171106T204731Z" creationid="Маринка" creationdate="20171106T204731Z">
-        <seg>Папка пам'яті перекладу:</seg>
+      <tuv lang="UK-UA" changeid="Маринка" changedate="20171118T203448Z" creationid="Маринка" creationdate="20171106T204731Z">
+        <seg>Тека пам'яті перекладу:</seg>
       </tuv>
     </tu>
     <tu>
