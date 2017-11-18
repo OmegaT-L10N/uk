@@ -2783,8 +2783,8 @@ may experience unexpected, but correct behaviour.</seg>
       <tuv lang="EN">
         <seg>Displa&amp;y source terms</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="nessyk" changedate="20171113T220445Z" creationid="nessyk" creationdate="20171113T220445Z">
-        <seg>Показати вихідні терміни</seg>
+      <tuv lang="UK-UA" changeid="nessyk" changedate="20171118T184743Z" creationid="nessyk" creationdate="20171113T220445Z">
+        <seg>Показати терміни мови оригіналу</seg>
       </tuv>
     </tu>
     <tu>
@@ -6024,8 +6024,8 @@ additional steps need to be taken.</seg>
       <tuv lang="EN">
         <seg>Please redo tag validation.</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="nessyk" changedate="20171113T220057Z" creationid="nessyk" creationdate="20171113T220057Z">
-        <seg>Будь ласка,  перевірте тег повторно.</seg>
+      <tuv lang="UK-UA" changeid="nessyk" changedate="20171118T184702Z" creationid="nessyk" creationdate="20171113T220057Z">
+        <seg>Будь ласка, перевірте тег повторно.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6912,8 +6912,8 @@ additional steps need to be taken.</seg>
       <tuv lang="EN">
         <seg>Save Alignment Results</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="nessyk" changedate="20171030T172439Z" creationid="nessyk" creationdate="20171030T172439Z">
-        <seg>Зберегти результати елайменту </seg>
+      <tuv lang="UK-UA" changeid="nessyk" changedate="20171118T184541Z" creationid="nessyk" creationdate="20171030T172439Z">
+        <seg>Зберегти результати вирівнювання </seg>
       </tuv>
     </tu>
     <tu>
@@ -7426,8 +7426,8 @@ The scope of a search is by default the project and can be set to be any files l
       <tuv lang="EN">
         <seg>Show &amp;longer target terms first</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="nessyk" changedate="20171113T220746Z" creationid="nessyk" creationdate="20171113T220746Z">
-        <seg>Показати спочатку довші цільові терміни</seg>
+      <tuv lang="UK-UA" changeid="nessyk" changedate="20171118T184812Z" creationid="nessyk" creationdate="20171113T220746Z">
+        <seg>Показати спочатку довші терміни мови перекладу</seg>
       </tuv>
     </tu>
     <tu>
