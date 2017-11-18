@@ -2061,6 +2061,14 @@ may experience unexpected, but correct behaviour.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Checking out the project...</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Tetiana21" changedate="20171118T124032Z" creationid="Tetiana21" creationdate="20171118T123959Z">
+        <seg>Перевірка проекту...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Chinese</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Лера9764" changedate="20171025T180025Z" creationid="Лера9764" creationdate="20171025T180025Z">
@@ -3217,6 +3225,14 @@ may experience unexpected, but correct behaviour.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Julia" changedate="20170424T144532Z" creationid="Julia" creationdate="20170424T144532Z">
         <seg>Помилка</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Error checking out the project from remote repository:</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Tetiana21" changedate="20171118T130606Z" creationid="Tetiana21" creationdate="20171118T130606Z">
+        <seg>Error checking out the project from remote repository:</seg>
       </tuv>
     </tu>
     <tu>
@@ -5161,8 +5177,8 @@ may experience unexpected, but correct behaviour.</seg>
       <tuv lang="EN">
         <seg>New Local Project Folder:</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="Tetiana21" changedate="20171118T123951Z" creationid="Tetiana21" creationdate="20171118T123951Z">
-        <seg>Нове місцезнаходження файлу проекту:</seg>
+      <tuv lang="UK-UA" changeid="Tetiana21" changedate="20171118T124007Z" creationid="Tetiana21" creationdate="20171118T123951Z">
+        <seg>Нове розташування файлу проекту:</seg>
       </tuv>
     </tu>
     <tu>
