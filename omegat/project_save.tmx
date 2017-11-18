@@ -1957,6 +1957,14 @@ may experience unexpected, but correct behaviour.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Cancelled creating new team project</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="nessyk" changedate="20171118T190417Z" creationid="nessyk" creationdate="20171118T190417Z">
+        <seg>Створення нового командного проекту скасовано</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Cannot access glossary folder!</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Маринка" changedate="20171114T214047Z" creationid="Маринка" creationdate="20171105T131830Z">
@@ -7826,8 +7834,8 @@ The scope of a search is by default the project and can be set to be any files l
       <tuv lang="EN">
         <seg>Synchronization error</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="nessyk" changedate="20171118T190003Z" creationid="nessyk" creationdate="20171118T190003Z">
-        <seg>Synchronization error</seg>
+      <tuv lang="UK-UA" changeid="nessyk" changedate="20171118T190318Z" creationid="nessyk" creationdate="20171118T190003Z">
+        <seg>Помилка синхронізації</seg>
       </tuv>
     </tu>
     <tu>
@@ -8010,8 +8018,8 @@ The scope of a search is by default the project and can be set to be any files l
       <tuv lang="EN">
         <seg>Team synchronization: Waiting for you to finish this segment...</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="nessyk" changedate="20171118T190007Z" creationid="nessyk" creationdate="20171118T185940Z">
-        <seg>Синхронізація команди: Очікується завершення цього сегмента ...</seg>
+      <tuv lang="UK-UA" changeid="nessyk" changedate="20171118T190125Z" creationid="nessyk" creationdate="20171118T185940Z">
+        <seg>Командна синхронізація: Очікується завершення цього сегмента ...</seg>
       </tuv>
     </tu>
     <tu>
