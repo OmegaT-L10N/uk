@@ -2377,16 +2377,16 @@ may experience unexpected, but correct behaviour.</seg>
       <tuv lang="EN">
         <seg>Committing source files</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="Маринка" changedate="20171101T205016Z" creationid="Маринка" creationdate="20171101T205016Z">
-        <seg>Підключення до вихідних файлів</seg>
+      <tuv lang="UK-UA" changeid="Маринка" changedate="20171118T200811Z" creationid="Маринка" creationdate="20171101T205016Z">
+        <seg>Підключення до файлів оригіналу</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Committing target files</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="Маринка" changedate="20171101T205104Z" creationid="Маринка" creationdate="20171101T205104Z">
-        <seg>Підключення до цільових файлів</seg>
+      <tuv lang="UK-UA" changeid="Маринка" changedate="20171118T200829Z" creationid="Маринка" creationdate="20171101T205104Z">
+        <seg>Підключення до перекладених файлів</seg>
       </tuv>
     </tu>
     <tu>
@@ -3677,8 +3677,8 @@ may experience unexpected, but correct behaviour.</seg>
       <tuv lang="EN">
         <seg>Failed to commit source files!</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="Маринка" changedate="20171101T204720Z" creationid="Маринка" creationdate="20171101T204720Z">
-        <seg>Не вдалося підключитися до вихідного файлу!</seg>
+      <tuv lang="UK-UA" changeid="Маринка" changedate="20171118T200758Z" creationid="Маринка" creationdate="20171101T204720Z">
+        <seg>Не вдалося підключитися до файлу оригіналу!</seg>
       </tuv>
     </tu>
     <tu>
@@ -7850,8 +7850,8 @@ The scope of a search is by default the project and can be set to be any files l
       <tuv lang="EN">
         <seg>Source files committed</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="Маринка" changedate="20171101T205031Z" creationid="Маринка" creationdate="20171101T205031Z">
-        <seg>Вихідні файли підключені</seg>
+      <tuv lang="UK-UA" changeid="Маринка" changedate="20171118T200823Z" creationid="Маринка" creationdate="20171101T205031Z">
+        <seg>Файли оригіналу підключені</seg>
       </tuv>
     </tu>
     <tu>
@@ -8228,8 +8228,8 @@ The scope of a search is by default the project and can be set to be any files l
       <tuv lang="EN">
         <seg>Target files committed</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="Маринка" changedate="20171101T205115Z" creationid="Маринка" creationdate="20171101T205115Z">
-        <seg>Цільові файли підключені</seg>
+      <tuv lang="UK-UA" changeid="Маринка" changedate="20171118T201902Z" creationid="Маринка" creationdate="20171101T205115Z">
+        <seg>Перекладені файли підключені</seg>
       </tuv>
     </tu>
     <tu>
