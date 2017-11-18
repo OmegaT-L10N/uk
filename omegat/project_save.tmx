@@ -2837,8 +2837,8 @@ may experience unexpected, but correct behaviour.</seg>
       <tuv lang="EN">
         <seg>Dictionary Files Folder</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="Маринка" changedate="20171107T195536Z" creationid="Маринка" creationdate="20171107T195536Z">
-        <seg>Папка файлів словника</seg>
+      <tuv lang="UK-UA" changeid="Маринка" changedate="20171118T204345Z" creationid="Маринка" creationdate="20171107T195536Z">
+        <seg>Тека файлів словника</seg>
       </tuv>
     </tu>
     <tu>
@@ -4085,8 +4085,8 @@ may experience unexpected, but correct behaviour.</seg>
       <tuv lang="EN">
         <seg>Glossary Files Folder</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="Маринка" changedate="20171107T195508Z" creationid="Маринка" creationdate="20171106T204946Z">
-        <seg>Папка глосарія</seg>
+      <tuv lang="UK-UA" changeid="Маринка" changedate="20171118T204329Z" creationid="Маринка" creationdate="20171106T204946Z">
+        <seg>Тека глосарія</seg>
       </tuv>
     </tu>
     <tu>
@@ -4221,8 +4221,8 @@ may experience unexpected, but correct behaviour.</seg>
       <tuv lang="EN">
         <seg>Here you may also specify custom location of project folders.</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="Маринка" changedate="20171106T205317Z" creationid="Маринка" creationdate="20171106T205317Z">
-        <seg>Тут ви можете конкретизувати розташування папок проекту.</seg>
+      <tuv lang="UK-UA" changeid="Маринка" changedate="20171118T204504Z" creationid="Маринка" creationdate="20171106T205317Z">
+        <seg>Тут ви можете конкретизувати розташування тек проекту.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4999,8 +4999,8 @@ may experience unexpected, but correct behaviour.</seg>
       <tuv lang="EN">
         <seg>Local File/Folder</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="Маринка" changedate="20171107T195601Z" creationid="Маринка" creationdate="20171107T195601Z">
-        <seg>Локальний файл/папка</seg>
+      <tuv lang="UK-UA" changeid="Маринка" changedate="20171118T204555Z" creationid="Маринка" creationdate="20171107T195601Z">
+        <seg>Локальний/а файл/тека</seg>
       </tuv>
     </tu>
     <tu>
@@ -5049,6 +5049,14 @@ may experience unexpected, but correct behaviour.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Tetiana21" changedate="20171105T174618Z" creationid="Tetiana21" creationdate="20171105T174618Z">
         <seg>Вручну встановлені правила</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Mapping of Local Folders to Remote Folders in Repositories</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Маринка" changedate="20171118T204529Z" creationid="Маринка" creationdate="20171118T204529Z">
+        <seg>Mapping of Local Folders to Remote Folders in Repositories</seg>
       </tuv>
     </tu>
     <tu>
@@ -6254,8 +6262,8 @@ additional steps need to be taken.</seg>
       <tuv lang="EN">
         <seg>Please select the language of your source files and the target language you would like to translate to.</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="Маринка" changedate="20171106T205233Z" creationid="Маринка" creationdate="20171106T205233Z">
-        <seg>Виберіть, будь ласка, мови вихідних  та цільових файлів, якими ви хотіли б перекладати. </seg>
+      <tuv lang="UK-UA" changeid="Маринка" changedate="20171118T204458Z" creationid="Маринка" creationdate="20171106T205233Z">
+        <seg>Виберіть, будь ласка, мови для файлів оригіналу та перекладу, якими ви хотіли б перекладати. </seg>
       </tuv>
     </tu>
     <tu>
@@ -7842,8 +7850,8 @@ The scope of a search is by default the project and can be set to be any files l
       <tuv lang="EN">
         <seg>Source Files Folder</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="Маринка" changedate="20171107T195445Z" creationid="Маринка" creationdate="20171107T195445Z">
-        <seg>Папка вихідних файлів</seg>
+      <tuv lang="UK-UA" changeid="Маринка" changedate="20171118T204321Z" creationid="Маринка" creationdate="20171107T195445Z">
+        <seg>Тека файлів оригіналу</seg>
       </tuv>
     </tu>
     <tu>
@@ -8789,8 +8797,8 @@ in /lib/licenses/Licenses.txt.</seg>
       <tuv lang="EN">
         <seg>Translated Files Folder</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="Маринка" changedate="20171107T195458Z" creationid="Маринка" creationdate="20171107T195458Z">
-        <seg>Папка перекладених файлів</seg>
+      <tuv lang="UK-UA" changeid="Маринка" changedate="20171118T204325Z" creationid="Маринка" creationdate="20171107T195458Z">
+        <seg>Тека перекладених файлів</seg>
       </tuv>
     </tu>
     <tu>
@@ -8877,8 +8885,8 @@ in /lib/licenses/Licenses.txt.</seg>
       <tuv lang="EN">
         <seg>Translation Memory Files Folder</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="Лера9764" changedate="20171117T163630Z" creationid="Маринка" creationdate="20171107T195526Z">
-        <seg>Папка файлів пам'яті перекладу</seg>
+      <tuv lang="UK-UA" changeid="Маринка" changedate="20171118T204338Z" creationid="Маринка" creationdate="20171107T195526Z">
+        <seg>Тека файлів пам'яті перекладу</seg>
       </tuv>
     </tu>
     <tu>
