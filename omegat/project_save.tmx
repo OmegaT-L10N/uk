@@ -1050,6 +1050,30 @@ To add files to the project, click on the Copy Files to Source Folder... button 
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>(close tag)</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Маринка" changedate="20171118T213049Z" creationid="Маринка" creationdate="20171118T213049Z">
+        <seg>(закриваючий тег)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>(comment tag)</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Маринка" changedate="20171118T213031Z" creationid="Маринка" creationdate="20171118T213031Z">
+        <seg>(comment tag)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>(empty tag)</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Маринка" changedate="20171118T213039Z" creationid="Маринка" creationdate="20171118T213039Z">
+        <seg>(порожній тег)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>+{0} more</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Лера9764" changedate="20171105T154943Z" creationid="Лера9764" creationdate="20171105T154943Z">
@@ -4479,6 +4503,14 @@ may experience unexpected, but correct behaviour.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="nessyk" changedate="20171025T175759Z" creationid="nessyk" creationdate="20171025T175720Z">
         <seg>Ідентифікатор</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>IOException encountered:</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Маринка" changedate="20171118T212858Z" creationid="Маринка" creationdate="20171118T212858Z">
+        <seg>IOException encountered:</seg>
       </tuv>
     </tu>
     <tu>
@@ -8434,6 +8466,14 @@ The scope of a search is by default the project and can be set to be any files l
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Tag name:</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Маринка" changedate="20171118T213024Z" creationid="Маринка" creationdate="20171118T212953Z">
+        <seg>Ім’я тегу:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Tag validation failed</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Tetiana21" changedate="20171105T201412Z" creationid="Tetiana21" creationdate="20171105T201412Z">
@@ -9359,6 +9399,14 @@ Exact searches match the whole search string.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Unexpected char {0} ({1})!</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Маринка" changedate="20171118T212950Z" creationid="Маринка" creationdate="20171118T212950Z">
+        <seg>Unexpected char {0} ({1})!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Uninstalling failed</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Лера9764" changedate="20171117T160309Z" creationid="Diman966" creationdate="20171116T211021Z">
@@ -9999,6 +10047,14 @@ Both exact and keyword searches support the wildcard characters * and ?.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>attributes.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Маринка" changedate="20171118T213108Z" creationid="Маринка" creationdate="20171118T213108Z">
+        <seg>attributes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>extensions:</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Лера9764" changedate="20171110T160129Z" creationid="Лера9764" creationdate="20171110T160129Z">
@@ -10045,6 +10101,14 @@ Both exact and keyword searches support the wildcard characters * and ?.</seg>
       <tuv lang="UK-UA" changeid="Маринка" changedate="20171118T194907Z" creationid="Маринка" creationdate="20171118T194907Z">
         <seg>init &lt;source language&gt; &lt;target language&gt;
 		Initialize a minimal team project with the specified languages.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>loaded</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Маринка" changedate="20171118T213100Z" creationid="Маринка" creationdate="20171118T213100Z">
+        <seg>завантажено</seg>
       </tuv>
     </tu>
     <tu>
