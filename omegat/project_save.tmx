@@ -2485,6 +2485,14 @@ may experience unexpected, but correct behaviour.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Could not save credentials to text file</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="nessyk" changedate="20171118T190617Z" creationid="nessyk" creationdate="20171118T190617Z">
+        <seg>Не вдалося зберегти дані в текстовий файл</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Counter:</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="nessyk" changedate="20171101T183737Z" creationid="nessyk" creationdate="20171101T183737Z">
@@ -2737,6 +2745,14 @@ may experience unexpected, but correct behaviour.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="nessyk" changedate="20171113T215827Z" creationid="nessyk" creationdate="20171113T215827Z">
         <seg>Подробиці недоступні</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Detecting...</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="nessyk" changedate="20171118T190702Z" creationid="nessyk" creationdate="20171118T190632Z">
+        <seg>Відкривання...</seg>
       </tuv>
     </tu>
     <tu>
@@ -6310,6 +6326,14 @@ additional steps need to be taken.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Project file should be on http protocol.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="nessyk" changedate="20171118T190635Z" creationid="nessyk" creationdate="20171118T190635Z">
+        <seg>Project file should be on http protocol.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Project is Empty</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Julia" changedate="20170424T144443Z" creationid="Julia" creationdate="20170424T144443Z">
@@ -8217,6 +8241,14 @@ in /lib/licenses/Licenses.txt.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The project folder {0} is missing and could not be created.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="nessyk" changedate="20171118T190554Z" creationid="nessyk" creationdate="20171118T190554Z">
+        <seg>Папка проекту {0} відсутня і її неможливо створити.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The project was converted successfully.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Tetiana21" changedate="20171116T200208Z" creationid="Tetiana21" creationdate="20171116T200208Z">
@@ -8927,6 +8959,14 @@ Exact searches match the whole search string.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Лера9764" changedate="20171105T153454Z" creationid="Лера9764" creationdate="20171105T153454Z">
         <seg>Використати терміни, &amp;що з'являються окремо у вихідному тексті</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>User denied credentials</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="nessyk" changedate="20171118T190517Z" creationid="nessyk" creationdate="20171118T190517Z">
+        <seg>User denied credentials</seg>
       </tuv>
     </tu>
     <tu>
