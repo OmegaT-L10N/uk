@@ -7824,6 +7824,14 @@ The scope of a search is by default the project and can be set to be any files l
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Synchronization error</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="nessyk" changedate="20171118T190003Z" creationid="nessyk" creationdate="20171118T190003Z">
+        <seg>Synchronization error</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>T&amp;Ms</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Маринка" changedate="20171107T200209Z" creationid="Маринка" creationdate="20171107T200209Z">
@@ -7986,8 +7994,24 @@ The scope of a search is by default the project and can be set to be any files l
       <tuv lang="EN">
         <seg>Team synchronization...</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="nessyk" changedate="20171118T185728Z" creationid="nessyk" creationdate="20171118T185728Z">
-        <seg>Team synchronization...</seg>
+      <tuv lang="UK-UA" changeid="nessyk" changedate="20171118T185756Z" creationid="nessyk" creationdate="20171118T185728Z">
+        <seg>Командна синхронізація...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Team synchronization: Saving translation in {0} s</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="nessyk" changedate="20171118T190057Z" creationid="nessyk" creationdate="20171118T190002Z">
+        <seg>Командна синхронізація: Збереження перекладу в{0} s</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Team synchronization: Waiting for you to finish this segment...</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="nessyk" changedate="20171118T190007Z" creationid="nessyk" creationdate="20171118T185940Z">
+        <seg>Синхронізація команди: Очікується завершення цього сегмента ...</seg>
       </tuv>
     </tu>
     <tu>
