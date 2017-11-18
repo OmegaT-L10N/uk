@@ -3467,6 +3467,14 @@ may experience unexpected, but correct behaviour.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Error initializing marker '{0}'</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Маринка" changedate="20171118T211438Z" creationid="Маринка" creationdate="20171118T211438Z">
+        <seg>Error initializing marker '{0}'</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Error monitoring external command!</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Маринка" changedate="20171114T214442Z" creationid="Маринка" creationdate="20171114T214442Z">
@@ -8484,6 +8492,14 @@ The scope of a text replacement is the target segments of the project, whether t
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The TMX file will continue to be loaded.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Маринка" changedate="20171118T211320Z" creationid="Маринка" creationdate="20171118T211320Z">
+        <seg>The TMX file will continue to be loaded.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The TMX file will not be loaded
 Please try to correct the error and reload the project.</seg>
       </tuv>
@@ -9133,6 +9149,14 @@ Exact searches match the whole search string.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Unable to parse filters configuration file</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Маринка" changedate="20171118T211618Z" creationid="Маринка" creationdate="20171118T211458Z">
+        <seg>Неможливо проаналізувати файл конфігурації фільтрів</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Unable to read file</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Tetiana21" changedate="20171105T165012Z" creationid="Tetiana21" creationdate="20171105T164712Z">
@@ -9153,6 +9177,14 @@ Exact searches match the whole search string.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="nessyk" changedate="20171113T215125Z" creationid="nessyk" creationdate="20171113T215125Z">
         <seg>Не вдалося зберегти файл.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Unable to save filters configuration file</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Маринка" changedate="20171118T211640Z" creationid="Маринка" creationdate="20171118T211640Z">
+        <seg>Неможливо зберегти файл конфігурації фільтрів</seg>
       </tuv>
     </tu>
     <tu>
@@ -9265,6 +9297,14 @@ Exact searches match the whole search string.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Маринка" changedate="20171114T214524Z" creationid="Маринка" creationdate="20171114T214524Z">
         <seg>Унікальні:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Unknown plugin type '{0}' in '{1}'</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Маринка" changedate="20171118T211433Z" creationid="Маринка" creationdate="20171118T211433Z">
+        <seg>Невідомий тип плагіна '{0}' в '{1}'</seg>
       </tuv>
     </tu>
     <tu>
