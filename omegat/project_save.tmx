@@ -7122,8 +7122,8 @@ The scope of a search is by default the project and can be set to be any files l
       <tuv lang="EN">
         <seg>Show &amp;target term first</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="nessyk" changedate="20171113T214502Z" creationid="nessyk" creationdate="20171113T214502Z">
-        <seg>Показати спочатку цільовий термін </seg>
+      <tuv lang="UK-UA" changeid="Лера9764" changedate="20171118T090303Z" creationid="nessyk" creationdate="20171113T214502Z">
+        <seg>Показати спочатку переклад терміну</seg>
       </tuv>
     </tu>
     <tu>
@@ -7626,8 +7626,8 @@ The scope of a search is by default the project and can be set to be any files l
       <tuv lang="EN">
         <seg>Target term:</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="Diman966" changedate="20171116T210248Z" creationid="Diman966" creationdate="20171116T210248Z">
-        <seg>Цільовий термін Target term:</seg>
+      <tuv lang="UK-UA" changeid="Лера9764" changedate="20171118T090317Z" creationid="Diman966" creationdate="20171116T210248Z">
+        <seg>Переклад терміну</seg>
       </tuv>
     </tu>
     <tu>
