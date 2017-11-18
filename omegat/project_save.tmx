@@ -1713,6 +1713,14 @@ To add files to the project, click on the Copy Files to Source Folder... button 
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Available dictionaries:</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Лера9764" changedate="20171118T085525Z" creationid="Лера9764" creationdate="20171118T085525Z">
+        <seg>Доступні словники:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Average Score: {0}</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="nessyk" changedate="20171101T183807Z" creationid="nessyk" creationdate="20171101T183807Z">
@@ -3833,6 +3841,14 @@ To add files to the project, click on the Copy Files to Source Folder... button 
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Go To Segment Source</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Лера9764" changedate="20171118T085652Z" creationid="Лера9764" creationdate="20171118T085652Z">
+        <seg>Перейти до неперекладеного сегменту</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Go to Preferences &gt; External Search to enable.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="nessyk" changedate="20171025T185352Z" creationid="nessyk" creationdate="20171025T183841Z">
@@ -5117,8 +5133,8 @@ To add files to the project, click on the Copy Files to Source Folder... button 
       <tuv lang="EN">
         <seg>No script bound in slot #{0}.</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="Tetiana21" changedate="20171116T200127Z" creationid="Tetiana21" creationdate="20171116T200115Z">
-        <seg>Немає дії, пов'язаної зі слотом #{0}.</seg>
+      <tuv lang="UK-UA" changeid="Лера9764" changedate="20171118T085753Z" creationid="Tetiana21" creationdate="20171116T200115Z">
+        <seg>Немає скрипту, пов'язаного зі слотом №{0}.</seg>
       </tuv>
     </tu>
     <tu>
