@@ -470,6 +470,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Modification Info</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Tetiana21" changedate="20171118T140152Z" creationid="Tetiana21" creationdate="20171118T140152Z">
+        <seg>&amp;Інформація про модифікацію</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;Move Down</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Diman966" changedate="20171116T205909Z" creationid="Diman966" creationdate="20171116T205909Z">
@@ -794,6 +802,14 @@
       </tuv>
       <tuv lang="UK-UA" changeid="Лера9764" changedate="20171107T195322Z" creationid="Лера9764" creationdate="20171107T195322Z">
         <seg>&amp;Вибрати</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;Sentence Case</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Tetiana21" changedate="20171118T140131Z" creationid="Tetiana21" creationdate="20171118T140131Z">
+        <seg>&amp;Sentence Case</seg>
       </tuv>
     </tu>
     <tu>
@@ -2769,6 +2785,14 @@ may experience unexpected, but correct behaviour.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="nessyk" changedate="20171113T215009Z" creationid="nessyk" creationdate="20171113T215009Z">
         <seg>Показати </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Display &amp;None</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Tetiana21" changedate="20171118T143043Z" creationid="Tetiana21" creationdate="20171118T143043Z">
+        <seg>Display &amp;None</seg>
       </tuv>
     </tu>
     <tu>
