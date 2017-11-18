@@ -6654,6 +6654,14 @@ additional steps need to be taken.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Replace Translation with Match or Selection</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Tetiana21" changedate="20171118T150638Z" creationid="Tetiana21" creationdate="20171118T150638Z">
+        <seg>Replace Translation with Match or Selection</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Replace Translation with Text</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Лера9764" changedate="20171110T192731Z" creationid="Лера9764" creationdate="20171110T192731Z">
@@ -9159,6 +9167,14 @@ Both exact and keyword searches support the wildcard characters * and ?.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Маринка" changedate="20171106T205406Z" creationid="Маринка" creationdate="20171106T205406Z">
         <seg>ZIP-файли</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>[Fuzzy]</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Tetiana21" changedate="20171118T150656Z" creationid="Tetiana21" creationdate="20171118T150656Z">
+        <seg>[Некоректно]</seg>
       </tuv>
     </tu>
     <tu>
