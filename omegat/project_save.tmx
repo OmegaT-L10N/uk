@@ -3685,8 +3685,8 @@ may experience unexpected, but correct behaviour.</seg>
       <tuv lang="EN">
         <seg>Failed to commit target files!</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="Маринка" changedate="20171101T204823Z" creationid="Маринка" creationdate="20171101T204823Z">
-        <seg>Не вдалося підключитися до цільових файлів!!</seg>
+      <tuv lang="UK-UA" changeid="Маринка" changedate="20171118T200408Z" creationid="Маринка" creationdate="20171101T204823Z">
+        <seg>Не вдалося підключитися до перекладених файлів!!</seg>
       </tuv>
     </tu>
     <tu>
