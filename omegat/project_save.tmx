@@ -2831,8 +2831,8 @@ may experience unexpected, but correct behaviour.</seg>
       <tuv lang="EN">
         <seg>Displays the entries as "&lt;target&gt; → &lt;source&gt;"</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="nessyk" changedate="20171113T214551Z" creationid="nessyk" creationdate="20171113T214551Z">
-        <seg>Відображає записи як "&lt;цільовий&gt;&gt; &lt;вихідний&gt;"</seg>
+      <tuv lang="UK-UA" changeid="nessyk" changedate="20171118T184912Z" creationid="nessyk" creationdate="20171113T214551Z">
+        <seg>Відображає записи як "&lt;переклад&gt;&gt; &lt;оригінал&gt;"</seg>
       </tuv>
     </tu>
     <tu>
@@ -7434,8 +7434,8 @@ The scope of a search is by default the project and can be set to be any files l
       <tuv lang="EN">
         <seg>Show &amp;source term first</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="nessyk" changedate="20171113T214608Z" creationid="nessyk" creationdate="20171113T214608Z">
-        <seg>Показати спочатку вихідний термін</seg>
+      <tuv lang="UK-UA" changeid="nessyk" changedate="20171118T185410Z" creationid="nessyk" creationdate="20171113T214608Z">
+        <seg>Показати спочатку термін мови оригіналу</seg>
       </tuv>
     </tu>
     <tu>
@@ -7522,8 +7522,8 @@ The scope of a search is by default the project and can be set to be any files l
       <tuv lang="EN">
         <seg>Sort by source term &amp;alphabetically</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="nessyk" changedate="20171113T214101Z" creationid="nessyk" creationdate="20171113T214101Z">
-        <seg>Сортувати за вихідним терміном &amp; в алфавітному порядку</seg>
+      <tuv lang="UK-UA" changeid="nessyk" changedate="20171118T184834Z" creationid="nessyk" creationdate="20171113T214101Z">
+        <seg>Сортувати за терміном мови оригіналу &amp; в алфавітному порядку</seg>
       </tuv>
     </tu>
     <tu>
@@ -7538,8 +7538,8 @@ The scope of a search is by default the project and can be set to be any files l
       <tuv lang="EN">
         <seg>Sort tar&amp;get terms alphabetically</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="nessyk" changedate="20171113T214159Z" creationid="nessyk" creationdate="20171113T214159Z">
-        <seg>Сортувати цільові терміни в алфавітному порядку</seg>
+      <tuv lang="UK-UA" changeid="nessyk" changedate="20171118T184844Z" creationid="nessyk" creationdate="20171113T214159Z">
+        <seg>Сортувати терміни мови перекладу в алфавітному порядку</seg>
       </tuv>
     </tu>
     <tu>
