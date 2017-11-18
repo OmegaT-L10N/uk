@@ -864,16 +864,16 @@
       <tuv lang="EN">
         <seg>&amp;Source Files Language:</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="Лера9764" changedate="20171117T164250Z" creationid="Маринка" creationdate="20171106T204840Z">
-        <seg>&amp;Мова вихідних файлів:</seg>
+      <tuv lang="UK-UA" changeid="Маринка" changedate="20171118T204142Z" creationid="Маринка" creationdate="20171106T204840Z">
+        <seg>&amp;Мова файлів оригіналу:</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>&amp;Source Language Tokenizer:</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="Маринка" changedate="20171107T195351Z" creationid="Маринка" creationdate="20171107T195351Z">
-        <seg>&amp;Токанайзер вихідної мови:</seg>
+      <tuv lang="UK-UA" changeid="Маринка" changedate="20171118T204153Z" creationid="Маринка" creationdate="20171107T195351Z">
+        <seg>&amp;Токанайзер мови оригіналу:</seg>
       </tuv>
     </tu>
     <tu>
@@ -912,8 +912,8 @@
       <tuv lang="EN">
         <seg>&amp;Target Language Tokenizer:</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="Маринка" changedate="20171107T195403Z" creationid="Маринка" creationdate="20171107T195403Z">
-        <seg>&amp;Токанайзер цільової мови:</seg>
+      <tuv lang="UK-UA" changeid="Маринка" changedate="20171118T204205Z" creationid="Маринка" creationdate="20171107T195403Z">
+        <seg>&amp;Токанайзер мови перекладу:</seg>
       </tuv>
     </tu>
     <tu>
@@ -2845,8 +2845,8 @@ may experience unexpected, but correct behaviour.</seg>
       <tuv lang="EN">
         <seg>Dictionary Folder:</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="Маринка" changedate="20171106T204847Z" creationid="Маринка" creationdate="20171106T204847Z">
-        <seg>Папка словника:</seg>
+      <tuv lang="UK-UA" changeid="Маринка" changedate="20171118T204208Z" creationid="Маринка" creationdate="20171106T204847Z">
+        <seg>Тека словника:</seg>
       </tuv>
     </tu>
     <tu>
@@ -3605,7 +3605,7 @@ may experience unexpected, but correct behaviour.</seg>
       <tuv lang="EN">
         <seg>External Post-processing Command:</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="Лера9764" changedate="20171117T164034Z" creationid="Маринка" creationdate="20171106T204918Z">
+      <tuv lang="UK-UA" changeid="Маринка" changedate="20171118T204238Z" creationid="Маринка" creationdate="20171106T204918Z">
         <seg>Команда зовнішньої подальшої обробки:</seg>
       </tuv>
     </tu>
@@ -6862,7 +6862,7 @@ additional steps need to be taken.</seg>
       <tuv lang="EN">
         <seg>Repetitions from other files:</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="Лера9764" changedate="20171117T164406Z" creationid="Маринка" creationdate="20171114T215100Z">
+      <tuv lang="UK-UA" changeid="Маринка" changedate="20171118T203711Z" creationid="Маринка" creationdate="20171114T215100Z">
         <seg>Повторення в інших файлах:</seg>
       </tuv>
     </tu>
@@ -6870,7 +6870,7 @@ additional steps need to be taken.</seg>
       <tuv lang="EN">
         <seg>Repetitions within this file:</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="Лера9764" changedate="20171117T164436Z" creationid="Маринка" creationdate="20171114T215045Z">
+      <tuv lang="UK-UA" changeid="Маринка" changedate="20171118T203708Z" creationid="Маринка" creationdate="20171114T215045Z">
         <seg>Повторення в цьому файлі:</seg>
       </tuv>
     </tu>
@@ -6878,7 +6878,7 @@ additional steps need to be taken.</seg>
       <tuv lang="EN">
         <seg>Repetitions:</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="sergl" changedate="20171117T144803Z" creationid="Маринка" creationdate="20171114T215022Z">
+      <tuv lang="UK-UA" changeid="Маринка" changedate="20171118T203703Z" creationid="Маринка" creationdate="20171114T215022Z">
         <seg>Повторення:</seg>
       </tuv>
     </tu>
@@ -8733,8 +8733,8 @@ in /lib/licenses/Licenses.txt.</seg>
       <tuv lang="EN">
         <seg>Total Words</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="Маринка" changedate="20171118T203624Z" creationid="Маринка" creationdate="20171114T214629Z">
-        <seg>Всього номерів</seg>
+      <tuv lang="UK-UA" changeid="Маринка" changedate="20171118T203631Z" creationid="Маринка" creationdate="20171114T214629Z">
+        <seg>Всього слів</seg>
       </tuv>
     </tu>
     <tu>
