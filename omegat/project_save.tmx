@@ -1289,6 +1289,14 @@ To add files to the project, click on the Copy Files to Source Folder... button 
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;html&gt;Term: &lt;b&gt;{0}&lt;/b&gt;&lt;br&gt;Glossaries:&lt;br&gt;{1}&lt;/html&gt;</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="nessyk" changedate="20171118T183824Z" creationid="nessyk" creationdate="20171118T183809Z">
+        <seg>&lt;html&gt;Термін: &lt;b&gt;{0}&lt;/b&gt;&lt;br&gt;Глосарії:&lt;br&gt;{1}&lt;/html&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;p0&gt;OmegaT&lt;/p0&gt; &lt;s1&gt;Team projects&lt;/s1&gt; &lt;s2&gt;Team projects&lt;/s2&gt;</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Маринка" changedate="20171106T202045Z" creationid="Маринка" creationdate="20171106T202045Z">
@@ -2903,8 +2911,8 @@ may experience unexpected, but correct behaviour.</seg>
       <tuv lang="EN">
         <seg>Don't ask before checking issues</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="nessyk" changedate="20171030T175604Z" creationid="nessyk" creationdate="20171026T180033Z">
-        <seg>Не викликайте до перевірки проблем</seg>
+      <tuv lang="UK-UA" changeid="nessyk" changedate="20171118T183754Z" creationid="nessyk" creationdate="20171026T180033Z">
+        <seg>Не перемикайте до перевірки проблем</seg>
       </tuv>
     </tu>
     <tu>
@@ -9391,6 +9399,14 @@ Both exact and keyword searches support the wildcard characters * and ?.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20170413T160319Z" creationid="Kos Ivantsov" creationdate="20170413T160319Z">
         <seg>{0}-{1}_{2}_{3}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>{0}.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="nessyk" changedate="20171118T183811Z" creationid="nessyk" creationdate="20171118T183811Z">
+        <seg>{0}.</seg>
       </tuv>
     </tu>
     <tu>
