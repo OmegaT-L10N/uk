@@ -5476,6 +5476,18 @@ published by the Free Software Foundation, either version 3 of the License, or
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>OmegaT is refused access to the system property containing
+the name of your OS and/or the system property containing
+your home folder.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Tetiana21" changedate="20171118T110644Z" creationid="Tetiana21" creationdate="20171118T110644Z">
+        <seg>OmegaT is refused access to the system property containing
+the name of your OS and/or the system property containing
+your home folder.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>OmegaT license</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Diman966" changedate="20171116T201856Z" creationid="Diman966" creationdate="20171116T201856Z">
