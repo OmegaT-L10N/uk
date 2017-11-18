@@ -2385,6 +2385,14 @@ may experience unexpected, but correct behaviour.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Con&amp;tents</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Tetiana21" changedate="20171118T192839Z" creationid="Tetiana21" creationdate="20171118T192839Z">
+        <seg>Змі&amp;ст</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Confirm</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="nessyk" changedate="20171030T173250Z" creationid="nessyk" creationdate="20171030T173250Z">
@@ -5760,6 +5768,14 @@ your home folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>OmegaT ran out of memory, and will quit when you press OK.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Tetiana21" changedate="20171118T194550Z" creationid="Tetiana21" creationdate="20171118T194550Z">
+        <seg>OmegaT ran out of memory, and will quit when you press OK.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>OmegaT uses a number of librairies.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20170929T122435Z" creationid="Kos Ivantsov" creationdate="20170929T122435Z">
@@ -6552,8 +6568,8 @@ additional steps need to be taken.</seg>
       <tuv lang="EN">
         <seg>Re&amp;place All</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20170929T123118Z" creationid="Kos Ivantsov" creationdate="20170929T123118Z">
-        <seg>Замінити &amp;усе</seg>
+      <tuv lang="UK-UA" changeid="Tetiana21" changedate="20171118T192742Z" creationid="Kos Ivantsov" creationdate="20170929T123118Z">
+        <seg>Замінити &amp;все</seg>
       </tuv>
     </tu>
     <tu>
@@ -8465,6 +8481,22 @@ in /lib/licenses/Licenses.txt.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="nessyk" changedate="20171102T205925Z" creationid="nessyk" creationdate="20171102T205925Z">
         <seg>Вказані файли не підтримуються.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The specified translation direction is not supported</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Tetiana21" changedate="20171118T192721Z" creationid="Tetiana21" creationdate="20171118T192721Z">
+        <seg>The specified translation direction is not supported</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The text could not be translated</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Tetiana21" changedate="20171118T152735Z" creationid="Tetiana21" creationdate="20171118T152735Z">
+        <seg>Текст не може бути перекладений</seg>
       </tuv>
     </tu>
     <tu>
