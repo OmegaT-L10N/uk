@@ -1152,9 +1152,9 @@ To add files to the project, click on the Copy Files to Source Folder... button 
         <seg>--tag-validation=[abort|warn]
 		Validate tags.</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="Маринка" changedate="20171114T213515Z" creationid="Маринка" creationdate="20171026T190922Z">
+      <tuv lang="UK-UA" changeid="Маринка" changedate="20171118T194828Z" creationid="Маринка" creationdate="20171026T190922Z">
         <seg>--tag-validation=[abort|warn]
-		Первірте теги.</seg>
+		Перевірити теги.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1189,6 +1189,20 @@ To add files to the project, click on the Copy Files to Source Folder... button 
       </tuv>
       <tuv lang="UK-UA" changeid="Лера9764" changedate="20171030T181808Z" creationid="Лера9764" creationdate="20171030T181808Z">
         <seg>1) Зменшити кількість файлів вихідної мови та перекладати групами;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>2) Increase the amount of memory available to OmegaT, by
+specifying "java -Xmx&lt;size-in-MB&gt;M -jar OmegaT.jar" on the
+command line or in the OmegaT start script;
+The current setting is {0}MB;</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Маринка" changedate="20171118T195004Z" creationid="Маринка" creationdate="20171118T195004Z">
+        <seg>2) Increase the amount of memory available to OmegaT, by
+specifying "java -Xmx&lt;size-in-MB&gt;M -jar OmegaT.jar" on the
+command line or in the OmegaT start script;
+The current setting is {0}MB;</seg>
       </tuv>
     </tu>
     <tu>
@@ -1245,6 +1259,14 @@ To add files to the project, click on the Copy Files to Source Folder... button 
       </tuv>
       <tuv lang="UK-UA" changeid="Tetiana21" changedate="20171105T130329Z" creationid="Tetiana21" creationdate="20171105T130329Z">
         <seg>&lt;a0&gt;OmegaT&lt;/a0&gt; is a free multi platform Computer Aided Translation tool, with the following highlights:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;auto&gt;</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Маринка" changedate="20171118T195013Z" creationid="Маринка" creationdate="20171118T195013Z">
+        <seg>&lt;auto&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -2657,6 +2679,14 @@ may experience unexpected, but correct behaviour.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="nessyk" changedate="20171109T203254Z" creationid="nessyk" creationdate="20171109T203254Z">
         <seg>Автор</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Current memory usage by the VM: {0}MB; of which free memory: {1}MB; maximum available: {2}MB</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Маринка" changedate="20171118T195015Z" creationid="Маринка" creationdate="20171118T195015Z">
+        <seg>Current memory usage by the VM: {0}MB; of which free memory: {1}MB; maximum available: {2}MB</seg>
       </tuv>
     </tu>
     <tu>
@@ -5784,6 +5814,14 @@ your home folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>OmegaT will now terminate.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Маринка" changedate="20171118T195007Z" creationid="Маринка" creationdate="20171118T195007Z">
+        <seg>OmegaT will now terminate.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Open MED Project...</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Лера9764" changedate="20171030T193551Z" creationid="Лера9764" creationdate="20171030T193551Z">
@@ -7060,6 +7098,14 @@ additional steps need to be taken.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Лера9764" changedate="20171118T085805Z" creationid="Tetiana21" creationdate="20171116T200011Z">
         <seg>Запустити скрипт на слот №{0}.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Running on Java {0} ({1}-bit)</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Маринка" changedate="20171118T195150Z" creationid="Маринка" creationdate="20171118T195009Z">
+        <seg>Запустити з Java {0} ({1}-біт)</seg>
       </tuv>
     </tu>
     <tu>
@@ -9651,6 +9697,16 @@ Both exact and keyword searches support the wildcard characters * and ?.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20170902T154012Z" creationid="Kos Ivantsov" creationdate="20170902T154012Z">
         <seg>http://www.omegat.org/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>init &lt;source language&gt; &lt;target language&gt;
+		Initialize a minimal team project with the specified languages.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Маринка" changedate="20171118T194907Z" creationid="Маринка" creationdate="20171118T194907Z">
+        <seg>init &lt;source language&gt; &lt;target language&gt;
+		Initialize a minimal team project with the specified languages.</seg>
       </tuv>
     </tu>
     <tu>
