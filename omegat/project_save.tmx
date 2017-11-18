@@ -5856,8 +5856,8 @@ your home folder.</seg>
       <tuv lang="EN">
         <seg>Open Source File</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="Маринка" changedate="20171118T202336Z" creationid="Маринка" creationdate="20171101T205721Z">
-        <seg>Відкрити файли оригіналу</seg>
+      <tuv lang="UK-UA" changeid="Маринка" changedate="20171118T202417Z" creationid="Маринка" creationdate="20171101T205721Z">
+        <seg>Відкрити файли оригінала</seg>
       </tuv>
     </tu>
     <tu>
@@ -5872,48 +5872,48 @@ your home folder.</seg>
       <tuv lang="EN">
         <seg>Open Target File</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="Маринка" changedate="20171101T210040Z" creationid="Маринка" creationdate="20171101T210040Z">
-        <seg>Відрити цільовий файл</seg>
+      <tuv lang="UK-UA" changeid="Маринка" changedate="20171118T202551Z" creationid="Маринка" creationdate="20171101T210040Z">
+        <seg>Відкрити перекладений файл</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Open Target File Location</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="Маринка" changedate="20171101T210104Z" creationid="Маринка" creationdate="20171101T210104Z">
-        <seg>Відкрити папку цільового файлу</seg>
+      <tuv lang="UK-UA" changeid="Маринка" changedate="20171118T202615Z" creationid="Маринка" creationdate="20171101T210104Z">
+        <seg>Відкрити теку перекладеного файлу</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Open {0} Source Files</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="Маринка" changedate="20171118T202349Z" creationid="Маринка" creationdate="20171101T205745Z">
-        <seg>Відкрити {0} файли оригіналу</seg>
+      <tuv lang="UK-UA" changeid="Маринка" changedate="20171118T202422Z" creationid="Маринка" creationdate="20171101T205745Z">
+        <seg>Відкрити {0} файли оригінала</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Open {0} Source Files' Locations</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="Маринка" changedate="20171101T210023Z" creationid="Маринка" creationdate="20171101T210023Z">
-        <seg>Відкрити {0} папки вихідних файлів</seg>
+      <tuv lang="UK-UA" changeid="Маринка" changedate="20171118T202539Z" creationid="Маринка" creationdate="20171101T210023Z">
+        <seg>Відкрити {0} теки файлів перекладу</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Open {0} Target Files</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="Маринка" changedate="20171101T210052Z" creationid="Маринка" creationdate="20171101T210052Z">
-        <seg>Відкрити {0} цільовий файл</seg>
+      <tuv lang="UK-UA" changeid="Маринка" changedate="20171118T202558Z" creationid="Маринка" creationdate="20171101T210052Z">
+        <seg>Відкрити {0} перекладений файл</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Open {0} Target Files' Locations</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="Маринка" changedate="20171101T210129Z" creationid="Маринка" creationdate="20171101T210129Z">
-        <seg>Відкрити {0} папки цільових файлів</seg>
+      <tuv lang="UK-UA" changeid="Маринка" changedate="20171118T202622Z" creationid="Маринка" creationdate="20171101T210129Z">
+        <seg>Відкрити {0} теки перекладених файлів</seg>
       </tuv>
     </tu>
     <tu>
