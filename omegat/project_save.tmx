@@ -6254,6 +6254,14 @@ additional steps need to be taken.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Project closed</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Tetiana21" changedate="20171118T144908Z" creationid="Tetiana21" creationdate="20171118T144908Z">
+        <seg>Проект завершений</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Project commands are disabled for security reasons.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="nessyk" changedate="20171025T183923Z" creationid="nessyk" creationdate="20171025T183923Z">
