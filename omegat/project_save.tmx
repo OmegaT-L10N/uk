@@ -2013,16 +2013,16 @@ may experience unexpected, but correct behaviour.</seg>
       <tuv lang="EN">
         <seg>Cannot access glossary folder!</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="Маринка" changedate="20171114T214047Z" creationid="Маринка" creationdate="20171105T131830Z">
-        <seg>Немає доступу до папки глосарія!</seg>
+      <tuv lang="UK-UA" changeid="Маринка" changedate="20171118T202919Z" creationid="Маринка" creationdate="20171105T131830Z">
+        <seg>Немає доступу до теки глосарія!</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Cannot create folder for translated files:</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="Маринка" changedate="20171114T214111Z" creationid="Маринка" creationdate="20171114T214111Z">
-        <seg>Не можна створити папку для перекладених файлів:</seg>
+      <tuv lang="UK-UA" changeid="Маринка" changedate="20171118T202926Z" creationid="Маринка" creationdate="20171114T214111Z">
+        <seg>Не можна створити теку для перекладених файлів:</seg>
       </tuv>
     </tu>
     <tu>
@@ -8733,8 +8733,8 @@ in /lib/licenses/Licenses.txt.</seg>
       <tuv lang="EN">
         <seg>Total:</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="Маринка" changedate="20171114T214726Z" creationid="Kos Ivantsov" creationdate="20170427T115637Z">
-        <seg>Усього:</seg>
+      <tuv lang="UK-UA" changeid="Маринка" changedate="20171118T202959Z" creationid="Kos Ivantsov" creationdate="20170427T115637Z">
+        <seg>Всього:</seg>
       </tuv>
     </tu>
     <tu>
@@ -9453,6 +9453,14 @@ Both exact and keyword searches support the wildcard characters * and ?.</seg>
       <tuv lang="UK-UA" changeid="Маринка" changedate="20171114T220122Z" creationid="Маринка" creationdate="20171114T220122Z">
         <seg>Підстановки:
 Точні пошукові запити та за ключовими словами підтримують символи підстановки * та ?.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Wind catches lily&lt;p&gt;Scatt'ring petals to the wind:&lt;p&gt;Your page is not found</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Маринка" changedate="20171118T202751Z" creationid="Маринка" creationdate="20171118T202751Z">
+        <seg>Wind catches lily&lt;p&gt;Scatt'ring petals to the wind:&lt;p&gt;Your page is not found</seg>
       </tuv>
     </tu>
     <tu>
