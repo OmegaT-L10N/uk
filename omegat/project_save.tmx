@@ -8494,6 +8494,14 @@ Please try to correct the error and reload the project.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The TMX source language ({0}) is different from the project source language ({1}).</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Маринка" changedate="20171118T211318Z" creationid="Маринка" creationdate="20171118T211318Z">
+        <seg>The TMX source language ({0}) is different from the project source language ({1}).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The URL must include "{target}", which will be replaced with the search text.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="nessyk" changedate="20171025T180906Z" creationid="nessyk" creationdate="20171025T180906Z">
@@ -8701,8 +8709,8 @@ in /lib/licenses/Licenses.txt.</seg>
       <tuv lang="EN">
         <seg>These units have been skipped.</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="Маринка" changedate="20171118T210834Z" creationid="Маринка" creationdate="20171118T210834Z">
-        <seg>These units have been skipped.</seg>
+      <tuv lang="UK-UA" changeid="Маринка" changedate="20171118T211257Z" creationid="Маринка" creationdate="20171118T210834Z">
+        <seg>Ці одиниці були пропущені.</seg>
       </tuv>
     </tu>
     <tu>
