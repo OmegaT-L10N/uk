@@ -3365,6 +3365,14 @@ may experience unexpected, but correct behaviour.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Error retrieve {0} as remote project file</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="nessyk" changedate="20171118T191323Z" creationid="nessyk" creationdate="20171118T191323Z">
+        <seg>Помилка завантаження {0} давній файл проекту</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Error saving project file!</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Маринка" changedate="20171101T214921Z" creationid="Маринка" creationdate="20171101T214921Z">
@@ -6014,6 +6022,14 @@ additional steps need to be taken.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Please double-check it.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="nessyk" changedate="20171118T191053Z" creationid="nessyk" creationdate="20171118T191053Z">
+        <seg>Будь-ласка, перевірте ще раз.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Please double-check.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="nessyk" changedate="20171026T180816Z" creationid="nessyk" creationdate="20171026T180816Z">
@@ -6162,6 +6178,14 @@ additional steps need to be taken.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Лера9764" changedate="20171102T163202Z" creationid="Лера9764" creationdate="20171102T163202Z">
         <seg>Польська</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Predefined credentials was not passed.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="nessyk" changedate="20171118T191226Z" creationid="nessyk" creationdate="20171118T191226Z">
+        <seg>Predefined credentials was not passed.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7792,6 +7816,14 @@ The scope of a search is by default the project and can be set to be any files l
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Start rebase</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="nessyk" changedate="20171118T191133Z" creationid="nessyk" creationdate="20171118T191133Z">
+        <seg>Start rebase</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Statistics</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Лера9764" changedate="20171105T154440Z" creationid="Лера9764" creationdate="20171105T154440Z">
@@ -8333,6 +8365,30 @@ in /lib/licenses/Licenses.txt.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Tetiana21" changedate="20171118T152700Z" creationid="Tetiana21" creationdate="20171118T152700Z">
         <seg>This API key has been blocked</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This URL appears to be invalid.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="nessyk" changedate="20171118T191025Z" creationid="nessyk" creationdate="20171118T191025Z">
+        <seg>This URL appears to be invalid.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This is a Git repository.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="nessyk" changedate="20171118T191021Z" creationid="nessyk" creationdate="20171118T191021Z">
+        <seg>This is a Git repository.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This is a valid project file.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="nessyk" changedate="20171118T191023Z" creationid="nessyk" creationdate="20171118T191023Z">
+        <seg>This is a valid project file.</seg>
       </tuv>
     </tu>
     <tu>
