@@ -2635,6 +2635,14 @@ may experience unexpected, but correct behaviour.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Could not create the specified folder.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Маринка" changedate="20171118T212425Z" creationid="Маринка" creationdate="20171118T212425Z">
+        <seg>Could not create the specified folder.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Could not save credentials to text file</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="nessyk" changedate="20171118T190617Z" creationid="nessyk" creationdate="20171118T190617Z">
@@ -3045,8 +3053,8 @@ may experience unexpected, but correct behaviour.</seg>
       <tuv lang="EN">
         <seg>Do you want to create it?</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="Лера9764" changedate="20171117T160359Z" creationid="Лера9764" creationdate="20171110T193828Z">
-        <seg>Хочете створити папку?</seg>
+      <tuv lang="UK-UA" changeid="Маринка" changedate="20171118T212347Z" creationid="Лера9764" creationdate="20171110T193828Z">
+        <seg>Хочете створити теку?</seg>
       </tuv>
     </tu>
     <tu>
@@ -4037,8 +4045,8 @@ may experience unexpected, but correct behaviour.</seg>
       <tuv lang="EN">
         <seg>Folder does not exist</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="Лера9764" changedate="20171117T160239Z" creationid="Diman966" creationdate="20171116T211038Z">
-        <seg>Папка не існує </seg>
+      <tuv lang="UK-UA" changeid="Маринка" changedate="20171118T212338Z" creationid="Diman966" creationdate="20171116T211038Z">
+        <seg>Тека не існує </seg>
       </tuv>
     </tu>
     <tu>
@@ -4999,6 +5007,14 @@ may experience unexpected, but correct behaviour.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="nessyk" changedate="20171030T172314Z" creationid="nessyk" creationdate="20171030T172314Z">
         <seg>Проблеми з мовним інструментом</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>LanguageTool server started</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Маринка" changedate="20171118T212443Z" creationid="Маринка" creationdate="20171118T212443Z">
+        <seg>Сервер LanguageTool запущений</seg>
       </tuv>
     </tu>
     <tu>
@@ -8749,8 +8765,8 @@ in /lib/licenses/Licenses.txt.</seg>
       <tuv lang="EN">
         <seg>The specified dictionary folder does not exist.</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="Лера9764" changedate="20171110T193944Z" creationid="Лера9764" creationdate="20171110T193944Z">
-        <seg>Вказана папка для словників не існує..</seg>
+      <tuv lang="UK-UA" changeid="Маринка" changedate="20171118T212343Z" creationid="Лера9764" creationdate="20171110T193944Z">
+        <seg>Вказана тека для словників не існує..</seg>
       </tuv>
     </tu>
     <tu>
