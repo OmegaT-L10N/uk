@@ -1507,8 +1507,8 @@ To add files to the project, click on the Copy Files to Source Folder... button 
       <tuv lang="EN">
         <seg>Align</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="nessyk" changedate="20171101T183635Z" creationid="nessyk" creationdate="20171101T183635Z">
-        <seg>Елаймент(вирівнювання)</seg>
+      <tuv lang="UK-UA" changeid="nessyk" changedate="20171118T184417Z" creationid="nessyk" creationdate="20171101T183635Z">
+        <seg>Вирівнювання</seg>
       </tuv>
     </tu>
     <tu>
@@ -5938,8 +5938,8 @@ your home folder.</seg>
       <tuv lang="EN">
         <seg>Pinpoint Align: Select corresponding cell</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="nessyk" changedate="20171101T184144Z" creationid="nessyk" creationdate="20171101T184017Z">
-        <seg>Цільовий елаймент (вирівнювання): оберіть відповідну комірку</seg>
+      <tuv lang="UK-UA" changeid="nessyk" changedate="20171118T184526Z" creationid="nessyk" creationdate="20171101T184017Z">
+        <seg>Цільове вирівнювання: оберіть відповідну комірку</seg>
       </tuv>
     </tu>
     <tu>
@@ -7754,8 +7754,8 @@ The scope of a search is by default the project and can be set to be any files l
       <tuv lang="EN">
         <seg>Step 1: Adjust alignment parameters</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="nessyk" changedate="20171101T183953Z" creationid="nessyk" creationdate="20171101T183906Z">
-        <seg>Крок 1. Налаштуйте параметри елайменту (вирівнювання)</seg>
+      <tuv lang="UK-UA" changeid="nessyk" changedate="20171118T184441Z" creationid="nessyk" creationdate="20171101T183906Z">
+        <seg>Крок 1. Налаштуйте параметри вирівнювання</seg>
       </tuv>
     </tu>
     <tu>
