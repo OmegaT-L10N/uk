@@ -142,6 +142,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Back in History</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Tetiana21" changedate="20171119T124611Z" creationid="Tetiana21" creationdate="20171119T124611Z">
+        <seg>&amp;Back in History</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;Bookmarks</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Маринка" changedate="20171118T211956Z" creationid="Маринка" creationdate="20171118T211956Z">
@@ -346,6 +354,14 @@
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20170902T163524Z" creationid="Kos Ivantsov" creationdate="20170902T163524Z">
         <seg>&amp;Виправити всі</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;Forward in History</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Tetiana21" changedate="20171119T124550Z" creationid="Tetiana21" creationdate="20171119T124550Z">
+        <seg>&amp;Вхід в історію</seg>
       </tuv>
     </tu>
     <tu>
@@ -3901,8 +3917,8 @@ may experience unexpected, but correct behaviour.</seg>
       <tuv lang="EN">
         <seg>Failed to update project properties</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="Маринка" changedate="20171118T201909Z" creationid="Маринка" creationdate="20171118T201909Z">
-        <seg>Failed to update project properties</seg>
+      <tuv lang="UK-UA" changeid="Tetiana21" changedate="20171119T124950Z" creationid="Маринка" creationdate="20171118T201909Z">
+        <seg>Не вдалося оновити текст проекту </seg>
       </tuv>
     </tu>
     <tu>
@@ -4653,8 +4669,8 @@ may experience unexpected, but correct behaviour.</seg>
       <tuv lang="EN">
         <seg>Insert Tag {0}</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20170418T175821Z" creationid="Kos Ivantsov" creationdate="20170418T175821Z">
-        <seg>Вставити теґ {0}</seg>
+      <tuv lang="UK-UA" changeid="Tetiana21" changedate="20171118T203629Z" creationid="Kos Ivantsov" creationdate="20170418T175821Z">
+        <seg>Вставити тег {0}</seg>
       </tuv>
     </tu>
     <tu>
@@ -8452,7 +8468,7 @@ The scope of a search is by default the project and can be set to be any files l
       <tuv lang="EN">
         <seg>Tag</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="nessyk" changedate="20171113T220838Z" creationid="nessyk" creationdate="20171113T220829Z">
+      <tuv lang="UK-UA" changeid="Tetiana21" changedate="20171118T203614Z" creationid="nessyk" creationdate="20171113T220829Z">
         <seg>Тег</seg>
       </tuv>
     </tu>
