@@ -4827,6 +4827,14 @@ may experience unexpected, but correct behaviour.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>It needs to be converted to a new team project, but this cannot be done in console mode.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="nessyk" changedate="20171121T181730Z" creationid="nessyk" creationdate="20171121T181730Z">
+        <seg>Цей файл потрібно конвертувати в новий командний проект, але це не може бути виконано в консольному режимі.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>It was not possible to create translated documents, because some tags are missing or damaged.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Маринка" changedate="20171026T191716Z" creationid="Маринка" creationdate="20171026T191716Z">
