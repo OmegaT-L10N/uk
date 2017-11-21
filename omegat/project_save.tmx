@@ -952,8 +952,8 @@
       <tuv lang="EN">
         <seg>&amp;TaaS Terminology Lookup</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="nessyk" changedate="20171121T180814Z" creationid="nessyk" creationdate="20171109T203627Z">
-        <seg>&amp; Пошук термінології TaaS</seg>
+      <tuv lang="UK-UA" changeid="nessyk" changedate="20171121T180832Z" creationid="nessyk" creationdate="20171109T203627Z">
+        <seg>&amp;Пошук термінології TaaS</seg>
       </tuv>
     </tu>
     <tu>
@@ -2601,8 +2601,8 @@ may experience unexpected, but correct behaviour.</seg>
       <tuv lang="EN">
         <seg>Connection available, the project is in team project mode.</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="Tetiana21" changedate="20171105T211638Z" creationid="Tetiana21" creationdate="20171105T211638Z">
-        <seg>Connection available, the project is in team project mode.</seg>
+      <tuv lang="UK-UA" changeid="nessyk" changedate="20171121T181118Z" creationid="Tetiana21" creationdate="20171105T211638Z">
+        <seg>Підключення доступне, проект знаходиться в режимі командного проекту.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8847,6 +8847,14 @@ in /lib/licenses/Licenses.txt.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="nessyk" changedate="20171102T205925Z" creationid="nessyk" creationdate="20171102T205925Z">
         <seg>Вказані файли не підтримуються.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The specified project is an OmegaT 3.6-style team project.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="nessyk" changedate="20171121T181401Z" creationid="nessyk" creationdate="20171121T180917Z">
+        <seg>Зазначений проект - це командний проект OmegaT 3.6 .</seg>
       </tuv>
     </tu>
     <tu>
