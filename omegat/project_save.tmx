@@ -1066,6 +1066,15 @@ To add files to the project, click on the Copy Files to Source Folder... button 
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>(You will still able to use OmegaT
+3.6 to edit this project as a team project.)</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="nessyk" changedate="20171121T185635Z" creationid="nessyk" creationdate="20171121T185635Z">
+        <seg>(-)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>(close tag)</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Маринка" changedate="20171118T213049Z" creationid="Маринка" creationdate="20171118T213049Z">
@@ -6632,6 +6641,16 @@ additional steps need to be taken.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Лера9764" changedate="20171102T161121Z" creationid="Лера9764" creationdate="20171102T161121Z">
         <seg>Зберігати пробіли &amp;для всіх тегів</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Press 'Cancel' to leave the project unmodified and load it as a local
+project without team functionality.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="nessyk" changedate="20171121T182920Z" creationid="nessyk" creationdate="20171121T182837Z">
+        <seg>Натисніть "Скасувати", щоб залишити проект незмінним і завантажити його як локальний
+проект без командної функціональності.</seg>
       </tuv>
     </tu>
     <tu>
