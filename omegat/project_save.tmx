@@ -2659,6 +2659,14 @@ may experience unexpected, but correct behaviour.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Convert Old Team Project</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="nessyk" changedate="20171121T182447Z" creationid="nessyk" creationdate="20171121T182447Z">
+        <seg>Конвертувати старий командний проект.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Cop&amp;y Files to Source Folder...</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20170902T164810Z" creationid="Kos Ivantsov" creationdate="20170902T164735Z">
@@ -9015,6 +9023,14 @@ in /lib/licenses/Licenses.txt.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Маринка" changedate="20171107T194904Z" creationid="Маринка" creationdate="20171107T194904Z">
         <seg>Так, наприклад, правила для канадського французького (FR-CA) повинні бути вищими, ніж правила для французької (FR. *) і вище, ніж за замовчуванням (*.).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To convert it into a new team project, open it in the OmegaT GUI.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="nessyk" changedate="20171121T182330Z" creationid="nessyk" creationdate="20171121T182330Z">
+        <seg>Щоб конвертувати файл в командний проект, відкрийте його в графічному інтерфейсі OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
