@@ -8835,6 +8835,14 @@ in /lib/licenses/Licenses.txt.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The project will be loaded as a local project without team functionality.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="nessyk" changedate="20171121T182112Z" creationid="nessyk" creationdate="20171121T182112Z">
+        <seg>Проект буде завантажено як локальний проект без командної функціональності.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The source file language entered is invalid!</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Маринка" changedate="20171118T204640Z" creationid="Маринка" creationdate="20171107T195756Z">
