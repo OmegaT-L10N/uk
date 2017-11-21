@@ -1640,6 +1640,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Added {0} glossary entries from {1}</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Маринка" changedate="20171121T210820Z" creationid="Маринка" creationdate="20171121T210820Z">
+        <seg>Added {0} glossary entries from {1}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Added: {1}, Deleted: {2}, Modified: {3} (Conflicts: {0})</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="nessyk" changedate="20171109T203354Z" creationid="nessyk" creationdate="20171109T203332Z">
@@ -5228,8 +5236,8 @@ may experience unexpected, but correct behaviour.</seg>
       <tuv lang="EN">
         <seg>Loading glossary {0}</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="Лера9764" changedate="20171117T154430Z" creationid="Diman966" creationdate="20171116T195506Z">
-        <seg>Завантаження словика {0}</seg>
+      <tuv lang="UK-UA" changeid="Маринка" changedate="20171121T210734Z" creationid="Diman966" creationdate="20171116T195506Z">
+        <seg>Завантаження словника {0}</seg>
       </tuv>
     </tu>
     <tu>
