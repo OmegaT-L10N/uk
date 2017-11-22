@@ -664,8 +664,8 @@
       <tuv lang="EN">
         <seg>&amp;Redo Last Action</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="Маринка" changedate="20171106T203613Z" creationid="Маринка" creationdate="20171106T203613Z">
-        <seg>&amp;Повторити останню дію</seg>
+      <tuv lang="UK-UA" changeid="Лера9764" changedate="20171122T143553Z" creationid="Маринка" creationdate="20171106T203613Z">
+        <seg>Пов&amp;торити останню дію</seg>
       </tuv>
     </tu>
     <tu>
@@ -832,8 +832,8 @@
       <tuv lang="EN">
         <seg>&amp;Search for Selection</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="Diman966" changedate="20171116T194658Z" creationid="Diman966" creationdate="20171116T194658Z">
-        <seg>Пошук для вибірки&amp;Search for Selection</seg>
+      <tuv lang="UK-UA" changeid="Лера9764" changedate="20171122T143621Z" creationid="Diman966" creationdate="20171116T194658Z">
+        <seg>&amp;Пошук для вибірки</seg>
       </tuv>
     </tu>
     <tu>
@@ -960,8 +960,8 @@
       <tuv lang="EN">
         <seg>&amp;Target Files</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="Маринка" changedate="20171118T210039Z" creationid="Маринка" creationdate="20171026T191208Z">
-        <seg>&amp;Файли мови перекладу</seg>
+      <tuv lang="UK-UA" changeid="Лера9764" changedate="20171122T143527Z" creationid="Маринка" creationdate="20171026T191208Z">
+        <seg>Фа&amp;йли мови перекладу</seg>
       </tuv>
     </tu>
     <tu>
@@ -2346,8 +2346,8 @@ may experience unexpected, but correct behaviour.</seg>
       <tuv lang="EN">
         <seg>Choose MED project</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="Маринка" changedate="20171106T205359Z" creationid="Маринка" creationdate="20171106T205359Z">
-        <seg>Відкрити MED Проект</seg>
+      <tuv lang="UK-UA" changeid="Лера9764" changedate="20171122T143330Z" creationid="Маринка" creationdate="20171106T205359Z">
+        <seg>Обрати MED проект</seg>
       </tuv>
     </tu>
     <tu>
@@ -2786,8 +2786,8 @@ may experience unexpected, but correct behaviour.</seg>
       <tuv lang="EN">
         <seg>Create MED Project...</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="Лера9764" changedate="20171030T193559Z" creationid="Лера9764" creationdate="20171030T193559Z">
-        <seg>Створити MED Проект...</seg>
+      <tuv lang="UK-UA" changeid="Лера9764" changedate="20171122T143346Z" creationid="Лера9764" creationdate="20171030T193559Z">
+        <seg>Створити MED проект...</seg>
       </tuv>
     </tu>
     <tu>
@@ -6149,8 +6149,8 @@ your home folder.</seg>
       <tuv lang="EN">
         <seg>Open MED Project...</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="Лера9764" changedate="20171030T193551Z" creationid="Лера9764" creationdate="20171030T193551Z">
-        <seg>Відкрити MED Проект...</seg>
+      <tuv lang="UK-UA" changeid="Лера9764" changedate="20171122T143343Z" creationid="Лера9764" creationdate="20171030T193551Z">
+        <seg>Відкрити MED проект...</seg>
       </tuv>
     </tu>
     <tu>
