@@ -7524,6 +7524,14 @@ project without team functionality.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>SVN '{0}' execution start</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="nessyk" changedate="20171125T173613Z" creationid="nessyk" creationdate="20171125T173613Z">
+        <seg>SVN '{0}' початок виконання</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Sample Output</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="nessyk" changedate="20171025T181000Z" creationid="nessyk" creationdate="20171025T181000Z">
