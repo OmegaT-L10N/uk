@@ -1736,6 +1736,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Allow to save password locally as plain text</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="nessyk" changedate="20171125T174722Z" creationid="nessyk" creationdate="20171125T174722Z">
+        <seg>Дозволити зберегти пароль локально як звичайний текст</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>An error occurred</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Tetiana21" changedate="20171118T110748Z" creationid="Tetiana21" creationdate="20171118T110748Z">
@@ -2416,6 +2424,16 @@ may experience unexpected, but correct behaviour.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Close the current OmegaT instance
+3.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="nessyk" changedate="20171125T174554Z" creationid="nessyk" creationdate="20171125T174554Z">
+        <seg>Закрити поточну копію OmegaT
+3.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Co&amp;mments</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Лера9764" changedate="20171121T145809Z" creationid="Diman966" creationdate="20171116T200824Z">
@@ -2732,6 +2750,16 @@ may experience unexpected, but correct behaviour.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Лера9764" changedate="20171025T180135Z" creationid="Лера9764" creationdate="20171025T180135Z">
         <seg>Копіювати</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Copy &lt;project&gt;/omegat/project_save.tmx file into a safe location
+2.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="nessyk" changedate="20171125T174436Z" creationid="nessyk" creationdate="20171125T174436Z">
+        <seg>Скопіюйте файл &lt;project&gt; /omegat/project_save.tmx у безпечне місце
+2.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7232,6 +7260,14 @@ project without team functionality.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Лера9764" changedate="20171118T084850Z" creationid="Tetiana21" creationdate="20171105T183131Z">
         <seg>Вилучити перекладений текст</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Remove the project folder manually.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="nessyk" changedate="20171125T174625Z" creationid="nessyk" creationdate="20171125T174604Z">
+        <seg>Видаліть папку проекту вручну</seg>
       </tuv>
     </tu>
     <tu>
