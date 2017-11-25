@@ -4366,6 +4366,14 @@ project_save.tmx не був завантажений, а SVN перейшов �
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Git '{0}' execution start</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="nessyk" changedate="20171125T174724Z" creationid="nessyk" creationdate="20171125T174724Z">
+        <seg>Git '{0}' execution start</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Global</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Маринка" changedate="20171118T212216Z" creationid="Diman966" creationdate="20171116T200859Z">
