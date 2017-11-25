@@ -1696,6 +1696,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Aligner "Needs Review" Group</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="nessyk" changedate="20171125T150107Z" creationid="nessyk" creationdate="20171125T150107Z">
+        <seg>Aligner "Needs Review" Group</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>All</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="nessyk" changedate="20171030T174312Z" creationid="nessyk" creationdate="20171030T174312Z">
@@ -7342,8 +7350,8 @@ project without team functionality.</seg>
       <tuv lang="EN">
         <seg>Reset &amp;All Colours</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="Лера9764" changedate="20171118T085051Z" creationid="nessyk" creationdate="20171106T220914Z">
-        <seg>Скинути &amp;всі кольори</seg>
+      <tuv lang="UK-UA" changeid="nessyk" changedate="20171125T150134Z" creationid="nessyk" creationdate="20171106T220914Z">
+        <seg>Скинутити &amp;всі кольори</seg>
       </tuv>
     </tu>
     <tu>
