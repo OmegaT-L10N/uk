@@ -3320,6 +3320,16 @@ may experience unexpected, but correct behaviour.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>During SVN error({0}),
+project_save.tmx was not really uploaded and SVN switched to unstable status.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="nessyk" changedate="20171125T174335Z" creationid="nessyk" creationdate="20171125T174335Z">
+        <seg>Під час процесу виникла помилка SVN ({0}),
+project_save.tmx не був завантажений, а SVN перейшов на нестабільний стан.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Dutch</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Маринка" changedate="20171107T194505Z" creationid="Маринка" creationdate="20171107T194505Z">
@@ -9221,6 +9231,16 @@ the server.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>To be sure that no translation will be lost, you need to:
+1.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="nessyk" changedate="20171125T174400Z" creationid="nessyk" creationdate="20171125T174400Z">
+        <seg>Щоб переконатися, що переклад не буде втрачено, вам потрібно:
+1.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>To convert it into a new team project, open it in the OmegaT GUI.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="nessyk" changedate="20171121T182330Z" creationid="nessyk" creationdate="20171121T182330Z">
@@ -9773,6 +9793,14 @@ Exact searches match the whole search string.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="nessyk" changedate="20171113T221359Z" creationid="nessyk" creationdate="20171113T221359Z">
         <seg>Невстановлений </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Unsupported SVN error</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="nessyk" changedate="20171125T174058Z" creationid="nessyk" creationdate="20171125T174058Z">
+        <seg>Непідтримувана помилка SVN</seg>
       </tuv>
     </tu>
     <tu>
