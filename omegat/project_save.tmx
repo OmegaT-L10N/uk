@@ -9041,6 +9041,14 @@ in /lib/licenses/Licenses.txt.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The writeable glossary file is not in the glossary folder.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="nessyk" changedate="20171125T172935Z" creationid="nessyk" creationdate="20171125T172935Z">
+        <seg>Файл глосарію, який слід перезаписати, не знаходиться в папці глосарію.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Then while translating from Canadian French your project will use all the rules defined for all the language chain in the correct order.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Маринка" changedate="20171107T195112Z" creationid="Маринка" creationdate="20171107T195112Z">
