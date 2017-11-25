@@ -2564,6 +2564,14 @@ may experience unexpected, but correct behaviour.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Commit not possible because somebody else changed remote translation.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="nessyk" changedate="20171125T173942Z" creationid="nessyk" creationdate="20171125T173942Z">
+        <seg>Дія неможлива, оскільки хтось змінив віддалений переклад.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Committing source files</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Маринка" changedate="20171118T200811Z" creationid="Маринка" creationdate="20171101T205016Z">
@@ -7520,6 +7528,22 @@ project without team functionality.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Лера9764" changedate="20171025T180017Z" creationid="Лера9764" creationdate="20171025T180017Z">
         <seg>Російська</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>SVN '{0}' error: {1}</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="nessyk" changedate="20171125T173704Z" creationid="nessyk" creationdate="20171125T173616Z">
+        <seg>Помилка SVN '{0}': {1}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>SVN '{0}' execution finished successfully</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="nessyk" changedate="20171125T173641Z" creationid="nessyk" creationdate="20171125T173641Z">
+        <seg>Виконання SVN '{0}' завершеноуспішно </seg>
       </tuv>
     </tu>
     <tu>
