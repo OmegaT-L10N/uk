@@ -6451,6 +6451,14 @@ your home folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Perhaps it is already opened in another OmegaT instance</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="nessyk" changedate="20171125T173255Z" creationid="nessyk" creationdate="20171125T173255Z">
+        <seg>Можливо, файл вже відкритий в іншій копії OmegaT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Pinpoint Align: Select corresponding cell</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="nessyk" changedate="20171118T184526Z" creationid="nessyk" creationdate="20171101T184017Z">
@@ -6902,6 +6910,14 @@ project without team functionality.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Tetiana21" changedate="20171116T195438Z" creationid="Tetiana21" creationdate="20171116T195438Z">
         <seg>Завантаження початку проекту</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Project locked.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="nessyk" changedate="20171125T172950Z" creationid="nessyk" creationdate="20171125T172950Z">
+        <seg>Проект заблоковано.</seg>
       </tuv>
     </tu>
     <tu>
