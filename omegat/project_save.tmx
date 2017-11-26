@@ -10049,8 +10049,8 @@ Exact searches match the whole search string.</seg>
       <tuv lang="EN">
         <seg>Use &amp;Fuzzy Matching for Dictionary Entries</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="Маринка" changedate="20171126T165404Z" creationid="Маринка" creationdate="20171126T165404Z">
-        <seg>Use &amp;Fuzzy Matching for Dictionary Entries</seg>
+      <tuv lang="UK-UA" changeid="Маринка" changedate="20171126T165711Z" creationid="Маринка" creationdate="20171126T165404Z">
+        <seg>Використовувати &amp;нечіткі збіги для записів словника</seg>
       </tuv>
     </tu>
     <tu>
@@ -10059,6 +10059,14 @@ Exact searches match the whole search string.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20170902T182913Z" creationid="Kos Ivantsov" creationdate="20170902T182902Z">
         <seg>Використовувати TAB для пере&amp;ходу до наступного сегмента</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Use &amp;fuzzy matching for dictionary entries</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Маринка" changedate="20171126T170002Z" creationid="Маринка" creationdate="20171126T170002Z">
+        <seg>Використвовувати &amp;нечіткі збіги для записів словника</seg>
       </tuv>
     </tu>
     <tu>
