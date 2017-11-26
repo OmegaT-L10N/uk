@@ -312,8 +312,8 @@
       <tuv lang="EN">
         <seg>&amp;Enable history completion</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="Маринка" changedate="20171126T172153Z" creationid="Маринка" creationdate="20171126T172153Z">
-        <seg>&amp;Enable history completion</seg>
+      <tuv lang="UK-UA" changeid="Маринка" changedate="20171126T172836Z" creationid="Маринка" creationdate="20171126T172153Z">
+        <seg>&amp;Увімкнути завершення історії</seg>
       </tuv>
     </tu>
     <tu>
@@ -624,8 +624,8 @@
       <tuv lang="EN">
         <seg>&amp;Preferences...</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="Маринка" changedate="20171114T213959Z" creationid="Маринка" creationdate="20171114T213959Z">
-        <seg>&amp;Переваги...</seg>
+      <tuv lang="UK-UA" changeid="Маринка" changedate="20171126T172314Z" creationid="Маринка" creationdate="20171114T213959Z">
+        <seg>&amp;Параметри...</seg>
       </tuv>
     </tu>
     <tu>
@@ -1576,8 +1576,8 @@ The current setting is {0}MB;</seg>
       <tuv lang="EN">
         <seg>Access Configurat&amp;ion Folder</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="Маринка" changedate="20171026T191418Z" creationid="Маринка" creationdate="20171026T191418Z">
-        <seg>Access Configurat&amp;ion Folder</seg>
+      <tuv lang="UK-UA" changeid="Маринка" changedate="20171126T172355Z" creationid="Маринка" creationdate="20171026T191418Z">
+        <seg>Відкрити &amp;папку налаштувань</seg>
       </tuv>
     </tu>
     <tu>
