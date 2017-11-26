@@ -2104,6 +2104,14 @@ may experience unexpected, but correct behaviour.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Belazar</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="nessyk" changedate="20171126T110957Z" creationid="nessyk" creationdate="20171126T110957Z">
+        <seg>Белазар</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Bidirectional control characters</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="nessyk" changedate="20171106T225150Z" creationid="nessyk" creationdate="20171106T225150Z">
@@ -4482,6 +4490,14 @@ project_save.tmx не був завантажений, а SVN перейшов �
       </tuv>
       <tuv lang="UK-UA" changeid="nessyk" changedate="20171025T185352Z" creationid="nessyk" creationdate="20171025T183841Z">
         <seg>Перейдіть у розділ "параметри"&gt; щоб увімкнути зовнішній пошук.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Google Translate v2</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="nessyk" changedate="20171126T110828Z" creationid="nessyk" creationdate="20171126T110828Z">
+        <seg>Перекладач Google v2</seg>
       </tuv>
     </tu>
     <tu>
