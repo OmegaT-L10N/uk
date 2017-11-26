@@ -3188,6 +3188,14 @@ may experience unexpected, but correct behaviour.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Displays alternative translations that you have created for segments that are repeated in the project.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="nessyk" changedate="20171126T112941Z" creationid="nessyk" creationdate="20171126T112941Z">
+        <seg>Displays alternative translations that you have created for segments that are repeated in the project.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Displays the entries as "&lt;target&gt; → &lt;source&gt;"</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="nessyk" changedate="20171118T184912Z" creationid="nessyk" creationdate="20171113T214551Z">
@@ -5796,6 +5804,14 @@ project_save.tmx не був завантажений, а SVN перейшов �
       </tuv>
       <tuv lang="UK-UA" changeid="nessyk" changedate="20171025T180458Z" creationid="nessyk" creationdate="20171025T180401Z">
         <seg>Рухатись вгору </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Multiple Translations</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="nessyk" changedate="20171126T112638Z" creationid="nessyk" creationdate="20171126T112638Z">
+        <seg>Multiple Translations</seg>
       </tuv>
     </tu>
     <tu>
@@ -9193,8 +9209,8 @@ in /lib/licenses/Licenses.txt.</seg>
       <tuv lang="EN">
         <seg>The specified translation direction is not supported</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="Tetiana21" changedate="20171118T192721Z" creationid="Tetiana21" creationdate="20171118T192721Z">
-        <seg>The specified translation direction is not supported</seg>
+      <tuv lang="UK-UA" changeid="nessyk" changedate="20171126T112516Z" creationid="Tetiana21" creationdate="20171118T192721Z">
+        <seg>Вказаний напрямок перекладу не підтримується</seg>
       </tuv>
     </tu>
     <tu>
