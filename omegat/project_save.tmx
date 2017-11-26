@@ -1886,8 +1886,8 @@ TMX файл не вдається завантажити.</seg>
       <tuv lang="EN">
         <seg>Apertium</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="Tetiana21" changedate="20171116T195602Z" creationid="Tetiana21" creationdate="20171116T195602Z">
-        <seg>Apertium</seg>
+      <tuv lang="UK-UA" changeid="nessyk" changedate="20171126T111024Z" creationid="Tetiana21" creationdate="20171116T195602Z">
+        <seg>Аперціум</seg>
       </tuv>
     </tu>
     <tu>
@@ -3786,6 +3786,14 @@ project_save.tmx не був завантажений, а SVN перейшов �
       </tuv>
       <tuv lang="UK-UA" changeid="nessyk" changedate="20171109T202156Z" creationid="nessyk" creationdate="20171109T202156Z">
         <seg>Помилка оновлення файлу глосарію</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Error while reading MT results</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="nessyk" changedate="20171126T111256Z" creationid="nessyk" creationdate="20171126T111256Z">
+        <seg>Error while reading MT results</seg>
       </tuv>
     </tu>
     <tu>
@@ -10289,6 +10297,14 @@ Both exact and keyword searches support the wildcard characters * and ?.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Лера9764" changedate="20171118T085911Z" creationid="Tetiana21" creationdate="20171116T200409Z">
         <seg>Неправильний логін/пароль </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Yandex Translate</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="nessyk" changedate="20171126T111050Z" creationid="nessyk" creationdate="20171126T111050Z">
+        <seg>Перекладач Yandex </seg>
       </tuv>
     </tu>
     <tu>
