@@ -3788,6 +3788,14 @@ project_save.tmx не був завантажений, а SVN перейшов �
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Error load plugin from class '{0}': {1}: {2}</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Маринка" changedate="20171126T181712Z" creationid="Маринка" creationdate="20171126T181712Z">
+        <seg>Помилка при завантаженні плагіну з класу '{0}': {1}: {2}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Error monitoring external command!</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Маринка" changedate="20171114T214442Z" creationid="Маринка" creationdate="20171114T214442Z">
@@ -6842,8 +6850,8 @@ additional steps need to be taken.</seg>
       <tuv lang="EN">
         <seg>Plugin successfully loaded from class '{0}'</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="Tetiana21" changedate="20171118T101820Z" creationid="Tetiana21" creationdate="20171118T101820Z">
-        <seg>Plugin successfully loaded from class '{0}'</seg>
+      <tuv lang="UK-UA" changeid="Маринка" changedate="20171126T181350Z" creationid="Tetiana21" creationdate="20171118T101820Z">
+        <seg>Плагін успішно завантажений з класу '{0}'</seg>
       </tuv>
     </tu>
     <tu>
