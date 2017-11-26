@@ -8470,10 +8470,26 @@ The scope of a search is by default the project and can be set to be any files l
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Source File Encoding</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Маринка" changedate="20171126T182635Z" creationid="Маринка" creationdate="20171126T182635Z">
+        <seg>Source File Encoding</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Source File Encoding:</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Лера9764" changedate="20171107T194711Z" creationid="Лера9764" creationdate="20171107T194711Z">
         <seg>Формат вихідного файлу:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Source Filename Pattern</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Маринка" changedate="20171126T182632Z" creationid="Маринка" creationdate="20171126T182422Z">
+        <seg>шаблон назви файлу мови оригіналу</seg>
       </tuv>
     </tu>
     <tu>
