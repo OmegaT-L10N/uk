@@ -9068,8 +9068,8 @@ The scope of a text replacement is the target segments of the project, whether t
       <tuv lang="EN">
         <seg>The TMX file will continue to be loaded.</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="Маринка" changedate="20171118T211320Z" creationid="Маринка" creationdate="20171118T211320Z">
-        <seg>The TMX file will continue to be loaded.</seg>
+      <tuv lang="UK-UA" changeid="Маринка" changedate="20171126T180403Z" creationid="Маринка" creationdate="20171118T211320Z">
+        <seg>Файл TMX завантажується.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9086,8 +9086,8 @@ Please try to correct the error and reload the project.</seg>
       <tuv lang="EN">
         <seg>The TMX source language ({0}) is different from the project source language ({1}).</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="Маринка" changedate="20171118T211318Z" creationid="Маринка" creationdate="20171118T211318Z">
-        <seg>The TMX source language ({0}) is different from the project source language ({1}).</seg>
+      <tuv lang="UK-UA" changeid="Маринка" changedate="20171126T180334Z" creationid="Маринка" creationdate="20171118T211318Z">
+        <seg>Мова оригіналу TMX ({0}) не співпадає з мовою оригіналу проекту ({1}).</seg>
       </tuv>
     </tu>
     <tu>
@@ -10551,6 +10551,14 @@ Both exact and keyword searches support the wildcard characters * and ?.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="nessyk" changedate="20171026T180144Z" creationid="nessyk" creationdate="20171026T180144Z">
         <seg>Вам буде запропоновано ввести цей пароль кожного разу, коли ви запускаєте OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Your current project uses sentence segmentation, but TMX file was created using paragraph segmentation.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Маринка" changedate="20171126T180905Z" creationid="Маринка" creationdate="20171126T180905Z">
+        <seg>У вашому проекті використовується сегментація по реченню, але файл TMX був створений за допомогою сегментації по абзацу.</seg>
       </tuv>
     </tu>
     <tu>
