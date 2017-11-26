@@ -3710,6 +3710,14 @@ project_save.tmx не був завантажений, а SVN перейшов �
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Error extracting MT result from MyMemory, response:</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="nessyk" changedate="20171126T112111Z" creationid="nessyk" creationdate="20171126T112111Z">
+        <seg>Error extracting MT result from MyMemory, response:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Error fixing tags</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="nessyk" changedate="20171113T221415Z" creationid="nessyk" creationdate="20171113T221415Z">
@@ -4512,8 +4520,8 @@ project_save.tmx не був завантажений, а SVN перейшов �
       <tuv lang="EN">
         <seg>Google Translate v2</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="nessyk" changedate="20171126T110828Z" creationid="nessyk" creationdate="20171126T110828Z">
-        <seg>Перекладач Google v2</seg>
+      <tuv lang="UK-UA" changeid="nessyk" changedate="20171126T112100Z" creationid="nessyk" creationdate="20171126T110828Z">
+        <seg>Google v2 перекладач </seg>
       </tuv>
     </tu>
     <tu>
@@ -6824,8 +6832,8 @@ additional steps need to be taken.</seg>
       <tuv lang="EN">
         <seg>Premium Edition</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="Tetiana21" changedate="20171118T151849Z" creationid="Tetiana21" creationdate="20171118T151849Z">
-        <seg>Premium Edition</seg>
+      <tuv lang="UK-UA" changeid="nessyk" changedate="20171126T112149Z" creationid="Tetiana21" creationdate="20171118T151849Z">
+        <seg>Преміум-видання</seg>
       </tuv>
     </tu>
     <tu>
@@ -10335,8 +10343,16 @@ Both exact and keyword searches support the wildcard characters * and ?.</seg>
       <tuv lang="EN">
         <seg>Yandex Translate</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="nessyk" changedate="20171126T111050Z" creationid="nessyk" creationdate="20171126T111050Z">
-        <seg>Перекладач Yandex </seg>
+      <tuv lang="UK-UA" changeid="nessyk" changedate="20171126T112042Z" creationid="nessyk" creationdate="20171126T111050Z">
+        <seg>Yandex перекладач </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Yandex Translate - No API Key Specified</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="nessyk" changedate="20171126T112029Z" creationid="nessyk" creationdate="20171126T112029Z">
+        <seg>Yandex Переклад - Не вказано ключ API</seg>
       </tuv>
     </tu>
     <tu>
