@@ -126,6 +126,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Automatically Fetch Translations</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="nessyk" changedate="20171126T110457Z" creationid="nessyk" creationdate="20171126T110457Z">
+        <seg>&amp;Automatically Fetch Translations</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;Automatically fetch translations</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="nessyk" changedate="20171026T174759Z" creationid="nessyk" creationdate="20171026T174732Z">
@@ -1014,6 +1022,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Untranslated Segments Only</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="nessyk" changedate="20171126T110513Z" creationid="nessyk" creationdate="20171126T110513Z">
+        <seg>&amp;Лише неперекладені сегмети&amp;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;User's Manual...</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Маринка" changedate="20171026T191428Z" creationid="Маринка" creationdate="20171026T191428Z">
@@ -1740,6 +1756,14 @@ The current setting is {0}MB;</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="nessyk" changedate="20171125T174722Z" creationid="nessyk" creationdate="20171125T174722Z">
         <seg>Дозволити зберегти пароль локально як звичайний текст</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Alternative Language</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="nessyk" changedate="20171126T110733Z" creationid="nessyk" creationdate="20171126T110733Z">
+        <seg>Альтернативна мова</seg>
       </tuv>
     </tu>
     <tu>
