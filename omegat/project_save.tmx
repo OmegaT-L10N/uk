@@ -1866,10 +1866,10 @@ The current setting is {0}MB;</seg>
 {0}
 The TMX file will not be loaded.</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="Лера9764" changedate="20171122T143718Z" creationid="Маринка" creationdate="20171121T210727Z">
+      <tuv lang="UK-UA" changeid="Маринка" changedate="20171126T175629Z" creationid="Маринка" creationdate="20171121T210727Z">
         <seg>Виникла помилка при аналізі TMX файлу
 {0}
-TMX файл не вдається завантажити.</seg>
+ Файл TMX не вдається завантажити.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6671,6 +6671,18 @@ a description of how this error was produced.</seg>
         <seg>Будь ласка, ознайомтеся з документацією про параметри відновлення та
 надайте  виробнику програмного забезпечення
 опис того, як ця помилка була здійснена.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Please consult the log
+({1})
+to determine the source of the error and try again.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Маринка" changedate="20171126T175631Z" creationid="Маринка" creationdate="20171126T175631Z">
+        <seg>Please consult the log
+({1})
+to determine the source of the error and try again.</seg>
       </tuv>
     </tu>
     <tu>
