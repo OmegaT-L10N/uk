@@ -3178,6 +3178,14 @@ may experience unexpected, but correct behaviour.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Display context description for TBX &amp;glossaries</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Маринка" changedate="20171126T165218Z" creationid="Маринка" creationdate="20171126T165141Z">
+        <seg>Відображення контекстного опису для TBX &amp;глосаріїв</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Display:</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Tetiana21" changedate="20171105T183354Z" creationid="Tetiana21" creationdate="20171105T183354Z">
@@ -10035,6 +10043,14 @@ Exact searches match the whole search string.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="TranslatorOne" changedate="20170413T142133Z" creationid="TranslatorOne" creationdate="20170413T142133Z">
         <seg>Використання: java -jar OmegaT.jar [&lt;параметри&gt;] [&lt;шлях до проекту&gt;]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Use &amp;Fuzzy Matching for Dictionary Entries</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Маринка" changedate="20171126T165404Z" creationid="Маринка" creationdate="20171126T165404Z">
+        <seg>Use &amp;Fuzzy Matching for Dictionary Entries</seg>
       </tuv>
     </tu>
     <tu>
