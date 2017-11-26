@@ -894,6 +894,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Show Relevant Suggestions Automatically</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Маринка" changedate="20171126T170006Z" creationid="Маринка" creationdate="20171126T170006Z">
+        <seg>&amp;Show Relevant Suggestions Automatically</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;Show in Editor context menu</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="nessyk" changedate="20171025T182431Z" creationid="nessyk" creationdate="20171025T182431Z">
