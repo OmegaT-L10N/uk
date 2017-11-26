@@ -9594,8 +9594,8 @@ the server.</seg>
         <seg>Translated file path cannot be identical to the source file path:
 {0}</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="Маринка" changedate="20171118T211714Z" creationid="Маринка" creationdate="20171118T211714Z">
-        <seg>Translated file path cannot be identical to the source file path:
+      <tuv lang="UK-UA" changeid="Маринка" changedate="20171126T182400Z" creationid="Маринка" creationdate="20171118T211714Z">
+        <seg>Шлях перекладеного файлу не може бути ідентичним файлу мови оригіналу:
 {0}</seg>
       </tuv>
     </tu>
