@@ -912,8 +912,8 @@
       <tuv lang="EN">
         <seg>&amp;Show relevant suggestions automatically</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="Маринка" changedate="20171106T204326Z" creationid="Маринка" creationdate="20171106T204326Z">
-        <seg>&amp;Показати відповідні пропозиції автоматично</seg>
+      <tuv lang="UK-UA" changeid="Маринка" changedate="20171126T170924Z" creationid="Маринка" creationdate="20171106T204326Z">
+        <seg>&amp;Автоматично показувати відповідні пропозиції</seg>
       </tuv>
     </tu>
     <tu>
@@ -1498,6 +1498,14 @@ The current setting is {0}MB;</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Маринка" changedate="20171118T212240Z" creationid="Маринка" creationdate="20171118T212240Z">
         <seg>A&amp;ggregate Tags</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>A&amp;uto-completion</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Маринка" changedate="20171126T170906Z" creationid="Маринка" creationdate="20171126T170906Z">
+        <seg>А&amp;втозавершення</seg>
       </tuv>
     </tu>
     <tu>
