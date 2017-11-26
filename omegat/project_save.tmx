@@ -9207,6 +9207,14 @@ in /lib/licenses/Licenses.txt.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The text size exceeds the maximum</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="nessyk" changedate="20171126T112449Z" creationid="nessyk" creationdate="20171126T112449Z">
+        <seg>Розмір тексту перевищує максимальний</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The tokenizer plug-in was integrated into OmegaT in version 3.0.0.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Маринка" changedate="20171106T202046Z" creationid="Маринка" creationdate="20171106T202046Z">
@@ -9285,8 +9293,8 @@ the server.</seg>
       <tuv lang="EN">
         <seg>This API key has been blocked</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="Tetiana21" changedate="20171118T152700Z" creationid="Tetiana21" creationdate="20171118T152700Z">
-        <seg>This API key has been blocked</seg>
+      <tuv lang="UK-UA" changeid="nessyk" changedate="20171126T112249Z" creationid="Tetiana21" creationdate="20171118T152700Z">
+        <seg>Цей ключ API заблоковано</seg>
       </tuv>
     </tu>
     <tu>
@@ -10389,6 +10397,22 @@ Both exact and keyword searches support the wildcard characters * and ?.</seg>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20170929T122409Z" creationid="Kos Ivantsov" creationdate="20170929T122409Z">
         <seg>Текст ліцензії подано у файлі
 /docs/OmegaT-license.txt.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You have reached the daily limit for requests</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="nessyk" changedate="20171126T112313Z" creationid="nessyk" creationdate="20171126T112313Z">
+        <seg>Ви досягли щоденного ліміту запитів</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You have reached the daily limit for the volume of translated text</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="nessyk" changedate="20171126T112430Z" creationid="nessyk" creationdate="20171126T112430Z">
+        <seg>Ви досягли щоденного ліміту обсягу перекладеного тексту</seg>
       </tuv>
     </tu>
     <tu>
