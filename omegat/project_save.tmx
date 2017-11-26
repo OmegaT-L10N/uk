@@ -4126,8 +4126,8 @@ project_save.tmx не був завантажений, а SVN перейшов �
       <tuv lang="EN">
         <seg>Fatal error encountered - saving project file with '.recover' backup extension.</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="Маринка" changedate="20171126T173359Z" creationid="Маринка" creationdate="20171101T214955Z">
-        <seg>Виявлена фатальна помилка при збереженні файлу проекту з розширенням '.recover' .</seg>
+      <tuv lang="UK-UA" changeid="Маринка" changedate="20171126T173510Z" creationid="Маринка" creationdate="20171101T214955Z">
+        <seg>Виявлена фатальна помилка при збереженні файлу проекту з розширенням „.recover“ .</seg>
       </tuv>
     </tu>
     <tu>
