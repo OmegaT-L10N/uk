@@ -1311,11 +1311,9 @@ specifying "java -Xmx&lt;size-in-MB&gt;M -jar OmegaT.jar" on the
 command line or in the OmegaT start script;
 The current setting is {0}MB;</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="Маринка" changedate="20171118T195004Z" creationid="Маринка" creationdate="20171118T195004Z">
-        <seg>2) Increase the amount of memory available to OmegaT, by
-specifying "java -Xmx&lt;size-in-MB&gt;M -jar OmegaT.jar" on the
-command line or in the OmegaT start script;
-The current setting is {0}MB;</seg>
+      <tuv lang="UK-UA" changeid="Маринка" changedate="20171126T164718Z" creationid="Маринка" creationdate="20171118T195004Z">
+        <seg>2) Збільшити обсяг пам'яті OmegaT можна вказавши "java -Xmx&lt;size-in-MB&gt;M -jar OmegaT.jar" у командному рядку чи в стартовому скрипті OmegaT;
+Поточний параметр {0}Мб;</seg>
       </tuv>
     </tu>
     <tu>
