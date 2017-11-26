@@ -9689,6 +9689,14 @@ the server.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Translation unit encountered before TMX header.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Маринка" changedate="20171126T180211Z" creationid="Маринка" creationdate="20171126T180211Z">
+        <seg>Одиниця перекладу виявлена перед заголовком файлу TMX.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Translation:</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Лера9764" changedate="20171102T164145Z" creationid="Лера9764" creationdate="20171102T164145Z">
