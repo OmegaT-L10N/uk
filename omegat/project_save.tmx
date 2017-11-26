@@ -3636,6 +3636,14 @@ project_save.tmx не був завантажений, а SVN перейшов �
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Enable history &amp;prediction</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Маринка" changedate="20171126T172904Z" creationid="Маринка" creationdate="20171126T172904Z">
+        <seg>Увімкнути підказки &amp;історії</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Enable project-specific commands</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="nessyk" changedate="20171025T183052Z" creationid="nessyk" creationdate="20171025T183052Z">
@@ -4118,8 +4126,8 @@ project_save.tmx не був завантажений, а SVN перейшов �
       <tuv lang="EN">
         <seg>Fatal error encountered - saving project file with '.recover' backup extension.</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="Маринка" changedate="20171101T214955Z" creationid="Маринка" creationdate="20171101T214955Z">
-        <seg>Fatal error encountered - saving project file with '.recover' backup extension.</seg>
+      <tuv lang="UK-UA" changeid="Маринка" changedate="20171126T173359Z" creationid="Маринка" creationdate="20171101T214955Z">
+        <seg>Виявлена фатальна помилка при збереженні файлу проекту з розширенням '.recover' .</seg>
       </tuv>
     </tu>
     <tu>
