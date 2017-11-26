@@ -4502,6 +4502,14 @@ project_save.tmx не був завантажений, а SVN перейшов �
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Google Api key not available.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="nessyk" changedate="20171126T111649Z" creationid="nessyk" creationdate="20171126T111649Z">
+        <seg>Ключ Google Апі недоступний</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Google Translate v2</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="nessyk" changedate="20171126T110828Z" creationid="nessyk" creationdate="20171126T110828Z">
@@ -7896,6 +7904,14 @@ The scope of a search is by default the project and can be set to be any files l
       </tuv>
       <tuv lang="UK-UA" changeid="Лера9764" changedate="20171030T181139Z" creationid="Лера9764" creationdate="20171030T181139Z">
         <seg>See Help &gt; Посібник користувача для додаткової інформації.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>See OmegaT manual for instructions.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="nessyk" changedate="20171126T111838Z" creationid="nessyk" creationdate="20171126T111838Z">
+        <seg>Інструкції дивіться у довіднику OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
