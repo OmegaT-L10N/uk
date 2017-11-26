@@ -310,6 +310,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Enable history completion</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Маринка" changedate="20171126T172153Z" creationid="Маринка" creationdate="20171126T172153Z">
+        <seg>&amp;Enable history completion</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;Exact search</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Лера9764" changedate="20171031T065953Z" creationid="Лера9764" creationdate="20171031T065953Z">
@@ -4694,8 +4702,8 @@ project_save.tmx не був завантажений, а SVN перейшов �
       <tuv lang="EN">
         <seg>History Prediction</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="Маринка" changedate="20171106T204239Z" creationid="Маринка" creationdate="20171106T204239Z">
-        <seg>History Prediction</seg>
+      <tuv lang="UK-UA" changeid="Маринка" changedate="20171126T172147Z" creationid="Маринка" creationdate="20171106T204239Z">
+        <seg>Підказки по історії</seg>
       </tuv>
     </tu>
     <tu>
