@@ -950,6 +950,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Source (segment {0}):</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="nessyk" changedate="20171129T184202Z" creationid="nessyk" creationdate="20171129T184202Z">
+        <seg>&amp; Оригінал (сегмент {0}):</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;Source Files</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Маринка" changedate="20171118T210507Z" creationid="Маринка" creationdate="20171026T191159Z">
@@ -5364,10 +5372,26 @@ project_save.tmx не був завантажений, а SVN перейшов �
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>LanguageTool API version mismatch</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="nessyk" changedate="20171129T184333Z" creationid="nessyk" creationdate="20171129T184313Z">
+        <seg>Невідповідність версії API мовного інструмента</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>LanguageTool Issues</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="nessyk" changedate="20171030T172314Z" creationid="nessyk" creationdate="20171030T172314Z">
         <seg>Проблеми з мовним інструментом</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>LanguageTool is misconfigured.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="nessyk" changedate="20171129T184318Z" creationid="nessyk" creationdate="20171129T184318Z">
+        <seg>LanguageTool is misconfigured.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9341,6 +9365,14 @@ in /lib/licenses/Licenses.txt.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Маринка" changedate="20171118T204640Z" creationid="Маринка" creationdate="20171107T195756Z">
         <seg>Введена мова файла ригіналу не дійсна!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The specified dictionary folder cannot be used.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="nessyk" changedate="20171129T184109Z" creationid="nessyk" creationdate="20171129T184058Z">
+        <seg>Вказана тека для зберігання словників не може бути використана.</seg>
       </tuv>
     </tu>
     <tu>
