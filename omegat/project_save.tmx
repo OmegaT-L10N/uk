@@ -5420,6 +5420,22 @@ project_save.tmx не був завантажений, а SVN перейшов �
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>LanguageTool: local port is unavailable</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="nessyk" changedate="20171129T184701Z" creationid="nessyk" creationdate="20171129T184701Z">
+        <seg>Мовний інструмент: місцевий порт недоступний</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>LanguageTool: server returned XML when JSON was expected.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="nessyk" changedate="20171129T185038Z" creationid="nessyk" creationdate="20171129T185038Z">
+        <seg>Мовний інструмент: сервер повернув XML, коли очікувалось JSON.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Languages</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20170918T163047Z" creationid="Kos Ivantsov" creationdate="20170918T163047Z">
