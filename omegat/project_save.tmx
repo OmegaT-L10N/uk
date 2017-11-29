@@ -5420,6 +5420,22 @@ project_save.tmx не був завантажений, а SVN перейшов �
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>LanguageTool settings</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="nessyk" changedate="20171129T185347Z" creationid="nessyk" creationdate="20171129T185347Z">
+        <seg>Налаштування мовного інструменту</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>LanguageTool will be disabled until the project is closed.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="nessyk" changedate="20171129T185329Z" creationid="nessyk" creationdate="20171129T185329Z">
+        <seg>Мовний інструмент буде відключено до завершення проекту.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>LanguageTool: An error occurred during check.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="nessyk" changedate="20171129T185300Z" creationid="nessyk" creationdate="20171129T185300Z">
@@ -6042,6 +6058,14 @@ project_save.tmx не був завантажений, а SVN перейшов �
       </tuv>
       <tuv lang="UK-UA" changeid="Лера9764" changedate="20171117T153657Z" creationid="Лера9764" creationdate="20171117T153657Z">
         <seg>Нова мова та країна</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>New LanguageTool rule</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="nessyk" changedate="20171129T185415Z" creationid="nessyk" creationdate="20171129T185415Z">
+        <seg>New LanguageTool rule</seg>
       </tuv>
     </tu>
     <tu>
@@ -8394,6 +8418,14 @@ The scope of a search is by default the project and can be set to be any files l
       </tuv>
       <tuv lang="UK-UA" changeid="nessyk" changedate="20171026T175922Z" creationid="nessyk" creationdate="20171026T175922Z">
         <seg>Обрати тип проблеми для перевірки</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Select languagetool-server.jar</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="nessyk" changedate="20171129T185410Z" creationid="nessyk" creationdate="20171129T185410Z">
+        <seg>Оберіть languagetool-server.jar</seg>
       </tuv>
     </tu>
     <tu>
