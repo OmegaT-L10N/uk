@@ -198,6 +198,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Browse...</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="nessyk" changedate="20171129T183818Z" creationid="nessyk" creationdate="20171129T183818Z">
+        <seg>&amp;Пошук...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;Cancel</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20170929T122909Z" creationid="Kos Ivantsov" creationdate="20170929T122909Z">
@@ -2704,6 +2712,14 @@ may experience unexpected, but correct behaviour.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Diman966" changedate="20171116T205608Z" creationid="Tetiana21" creationdate="20171116T195414Z">
         <seg>Підтвердити видалення шаблону Confirm removal of pattern {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Confirm uninstalling</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="nessyk" changedate="20171129T184001Z" creationid="nessyk" creationdate="20171129T184001Z">
+        <seg>Підтвердити видалення</seg>
       </tuv>
     </tu>
     <tu>
@@ -7050,6 +7066,14 @@ project without team functionality.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Proceed?</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="nessyk" changedate="20171129T183946Z" creationid="nessyk" creationdate="20171129T183946Z">
+        <seg>Продовжити?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Processing...</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="nessyk" changedate="20171109T202948Z" creationid="nessyk" creationdate="20171109T202948Z">
@@ -9891,6 +9915,14 @@ Exact searches match the whole search string.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>URL of online dictionaries:</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="nessyk" changedate="20171129T183840Z" creationid="nessyk" creationdate="20171129T183840Z">
+        <seg>URL-адреса онлайн-словників:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>URL:</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="nessyk" changedate="20171025T181815Z" creationid="nessyk" creationdate="20171025T181703Z">
@@ -9975,6 +10007,14 @@ Exact searches match the whole search string.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Маринка" changedate="20171118T211640Z" creationid="Маринка" creationdate="20171118T211640Z">
         <seg>Неможливо зберегти файл конфігурації фільтрів</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Unable to uninstall the selected dictionary</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="nessyk" changedate="20171129T184027Z" creationid="nessyk" creationdate="20171129T184027Z">
+        <seg>Неможливо видалити вибраний словник</seg>
       </tuv>
     </tu>
     <tu>
@@ -10571,6 +10611,14 @@ Both exact and keyword searches support the wildcard characters * and ?.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="nessyk" changedate="20171113T215632Z" creationid="nessyk" creationdate="20171113T215632Z">
         <seg>Ви намагаєтеся використовувати HunspellTokenizer з мовою {0}, але для цієї мови не встановлено орфографічних словників.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You are uninstalling the spellchecking dictionary that your project currently uses.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="nessyk" changedate="20171129T183917Z" creationid="nessyk" creationdate="20171129T183917Z">
+        <seg>Ви видаляєте словник перевірки правопису, який наразі використовує ваш проект.</seg>
       </tuv>
     </tu>
     <tu>
