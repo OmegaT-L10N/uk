@@ -134,6 +134,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Automatically check the spelling of text</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="nessyk" changedate="20171129T183607Z" creationid="nessyk" creationdate="20171129T183607Z">
+        <seg>&amp; Автоматично перевіряти написання тексту</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;Automatically fetch translations</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="nessyk" changedate="20171026T174759Z" creationid="nessyk" creationdate="20171026T174732Z">
@@ -3122,10 +3130,26 @@ may experience unexpected, but correct behaviour.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Dictionaries already installed:</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="nessyk" changedate="20171129T183621Z" creationid="nessyk" creationdate="20171129T183621Z">
+        <seg>Словники вже встановлені:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Dictionary</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Лера9764" changedate="20171031T065247Z" creationid="Лера9764" creationdate="20171031T065247Z">
         <seg>Словник</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Dictionary File Folder</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="nessyk" changedate="20171129T183653Z" creationid="nessyk" creationdate="20171129T183653Z">
+        <seg>Тека файлу словника:</seg>
       </tuv>
     </tu>
     <tu>
@@ -3142,6 +3166,14 @@ may experience unexpected, but correct behaviour.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Маринка" changedate="20171118T204208Z" creationid="Маринка" creationdate="20171106T204847Z">
         <seg>Тека словника:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Dictionary file folder:</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="nessyk" changedate="20171129T183641Z" creationid="nessyk" creationdate="20171129T183641Z">
+        <seg>Тека файлу словника:</seg>
       </tuv>
     </tu>
     <tu>
@@ -8650,6 +8682,22 @@ The scope of a search is by default the project and can be set to be any files l
       </tuv>
       <tuv lang="UK-UA" changeid="nessyk" changedate="20171106T225610Z" creationid="nessyk" creationdate="20171106T225438Z">
         <seg>Перевірка орфографії</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Spellchecker</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="nessyk" changedate="20171129T183535Z" creationid="nessyk" creationdate="20171129T183535Z">
+        <seg>Перевірка правопису</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Spellchecker Setup</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="nessyk" changedate="20171129T183527Z" creationid="nessyk" creationdate="20171129T183527Z">
+        <seg>Налаштування перевірки правопису</seg>
       </tuv>
     </tu>
     <tu>
