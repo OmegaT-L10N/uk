@@ -3756,6 +3756,14 @@ project_save.tmx не був завантажений, а SVN перейшов �
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Ensure you are specifying the right API version (the URL should include "/v2/").</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="nessyk" changedate="20171129T185105Z" creationid="nessyk" creationdate="20171129T185105Z">
+        <seg>Переконайтеся, що ви вказали правильну версію API (URL повинна містити "/ v2 /").</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Enter the segment number:</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Маринка" changedate="20171101T205136Z" creationid="Маринка" creationdate="20171101T205136Z">
@@ -5408,6 +5416,30 @@ project_save.tmx не був завантажений, а SVN перейшов �
       </tuv>
       <tuv lang="UK-UA" changeid="nessyk" changedate="20171118T203844Z" creationid="nessyk" creationdate="20171118T203844Z">
         <seg>LanguageTool server terminated</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>LanguageTool: An error occurred during check.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="nessyk" changedate="20171129T185300Z" creationid="nessyk" creationdate="20171129T185300Z">
+        <seg>Мовний інструмент: під час перевірки сталася помилка.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>LanguageTool: Bad URL</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="nessyk" changedate="20171129T185135Z" creationid="nessyk" creationdate="20171129T185135Z">
+        <seg>Мовний інструмент: погана URL-адреса</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>LanguageTool: Server start timeout</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="nessyk" changedate="20171129T185220Z" creationid="nessyk" creationdate="20171129T185220Z">
+        <seg>Мовний інструмент: тайм-аут запуску сервера</seg>
       </tuv>
     </tu>
     <tu>
