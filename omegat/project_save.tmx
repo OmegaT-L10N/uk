@@ -5390,8 +5390,8 @@ project_save.tmx не був завантажений, а SVN перейшов �
       <tuv lang="EN">
         <seg>LanguageTool is misconfigured.</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="nessyk" changedate="20171129T184318Z" creationid="nessyk" creationdate="20171129T184318Z">
-        <seg>LanguageTool is misconfigured.</seg>
+      <tuv lang="UK-UA" changeid="nessyk" changedate="20171129T184410Z" creationid="nessyk" creationdate="20171129T184318Z">
+        <seg>Мовний інструмен налаштованонеправильно .</seg>
       </tuv>
     </tu>
     <tu>
@@ -5408,6 +5408,14 @@ project_save.tmx не був завантажений, а SVN перейшов �
       </tuv>
       <tuv lang="UK-UA" changeid="nessyk" changedate="20171118T203844Z" creationid="nessyk" creationdate="20171118T203844Z">
         <seg>LanguageTool server terminated</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>LanguageTool: bad local path</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="nessyk" changedate="20171129T184631Z" creationid="nessyk" creationdate="20171129T184631Z">
+        <seg>Мовний інструмент: поганий локальний шлях</seg>
       </tuv>
     </tu>
     <tu>
@@ -8892,6 +8900,14 @@ The scope of a search is by default the project and can be set to be any files l
       </tuv>
       <tuv lang="UK-UA" changeid="Маринка" changedate="20171106T204425Z" creationid="Маринка" creationdate="20171106T204425Z">
         <seg>Switch views with {0} and {1}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Switching to built-in version.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="nessyk" changedate="20171129T184605Z" creationid="nessyk" creationdate="20171129T184605Z">
+        <seg>Переключення на встановлену версію.</seg>
       </tuv>
     </tu>
     <tu>
