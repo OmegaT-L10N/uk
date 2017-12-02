@@ -4572,6 +4572,14 @@ project_save.tmx не був завантажений, а SVN перейшов �
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Full text, including tags and numbers</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="nessyk" changedate="20171202T201922Z" creationid="nessyk" creationdate="20171202T201922Z">
+        <seg>Повний текст, включаючи теги та цифри</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Fuzzy Matches</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Лера9764" changedate="20171114T173027Z" creationid="Лера9764" creationdate="20171114T173027Z">
@@ -6306,6 +6314,14 @@ project_save.tmx не був завантажений, а SVN перейшов �
       </tuv>
       <tuv lang="UK-UA" changeid="Tetiana21" changedate="20171116T200035Z" creationid="Tetiana21" creationdate="20171116T200035Z">
         <seg>Скрипт не встановлений.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>No tags and no numbers</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="nessyk" changedate="20171202T201927Z" creationid="nessyk" creationdate="20171202T201741Z">
+        <seg>Немає тегів та цифр</seg>
       </tuv>
     </tu>
     <tu>
@@ -9088,6 +9104,14 @@ The scope of a search is by default the project and can be set to be any files l
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Stemming, no tags and no numbers</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="nessyk" changedate="20171202T201713Z" creationid="nessyk" creationdate="20171202T201713Z">
+        <seg>Stemming, no tags and no numbers</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Step 1: Adjust alignment parameters</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="nessyk" changedate="20171118T184441Z" creationid="nessyk" creationdate="20171101T183906Z">
@@ -9180,6 +9204,14 @@ The scope of a search is by default the project and can be set to be any files l
       </tuv>
       <tuv lang="UK-UA" changeid="Маринка" changedate="20171118T195422Z" creationid="Маринка" creationdate="20171107T200209Z">
         <seg>Термінологічні бази</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>TM Matches</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="nessyk" changedate="20171202T202311Z" creationid="nessyk" creationdate="20171202T202311Z">
+        <seg>TM Matches</seg>
       </tuv>
     </tu>
     <tu>
