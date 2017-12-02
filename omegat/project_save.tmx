@@ -3306,6 +3306,14 @@ may experience unexpected, but correct behaviour.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Display &amp;tags</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="nessyk" changedate="20171202T200726Z" creationid="nessyk" creationdate="20171202T200726Z">
+        <seg>Відображати &amp; теги</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Display Font</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20170902T184143Z" creationid="Kos Ivantsov" creationdate="20170902T145111Z">
@@ -10551,6 +10559,14 @@ Exact searches match the whole search string.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20170902T182913Z" creationid="Kos Ivantsov" creationdate="20170902T182902Z">
         <seg>Використовувати TAB для пере&amp;ходу до наступного сегмента</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Use &amp;XML for standalone tags (e.g., &lt;i/&gt;)</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="nessyk" changedate="20171202T200833Z" creationid="nessyk" creationdate="20171202T200833Z">
+        <seg>Використовуйте &amp; XML для автономних тегів (наприклад, &lt;i /&gt;)</seg>
       </tuv>
     </tu>
     <tu>
