@@ -1814,6 +1814,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Allo&amp;w tag editing</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="nessyk" changedate="20171202T195815Z" creationid="nessyk" creationdate="20171202T195815Z">
+        <seg>Дозволит&amp;и редагування тегів</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Allow to save password as plain text</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Tetiana21" changedate="20171105T211604Z" creationid="Tetiana21" creationdate="20171105T211604Z">
@@ -2010,6 +2018,14 @@ may experience unexpected, but correct behaviour.</seg>
         <seg>As a result of this,
 all settings will be at their defaults, due to which you
 may experience unexpected, but correct behaviour.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Attempt to convert &amp;numbers when inserting a fuzzy match</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="nessyk" changedate="20171202T195735Z" creationid="nessyk" creationdate="20171202T195735Z">
+        <seg>Спробуйте перетворити &amp;числа при вставці нечіткого збігу</seg>
       </tuv>
     </tu>
     <tu>
