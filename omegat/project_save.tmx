@@ -3290,10 +3290,18 @@ may experience unexpected, but correct behaviour.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Display for &amp;All Segments</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="nessyk" changedate="20171202T182009Z" creationid="nessyk" creationdate="20171202T182009Z">
+        <seg>Відображати для &amp;всіх сегментів</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Display for Current &amp;Segment</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="nessyk" changedate="20171202T181901Z" creationid="nessyk" creationdate="20171202T181901Z">
-        <seg>Показати поточний &amp; сегмент</seg>
+      <tuv lang="UK-UA" changeid="nessyk" changedate="20171202T182033Z" creationid="nessyk" creationdate="20171202T181901Z">
+        <seg>Відображати для поточного &amp; сегменту</seg>
       </tuv>
     </tu>
     <tu>
@@ -5722,6 +5730,14 @@ project_save.tmx не був завантажений, а SVN перейшов �
       </tuv>
       <tuv lang="UK-UA" changeid="Маринка" changedate="20171118T204529Z" creationid="Маринка" creationdate="20171118T204529Z">
         <seg>Mapping of Local Folders to Remote Folders in Repositories</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Mark &amp;Non-breakable Spaces</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="nessyk" changedate="20171202T195417Z" creationid="nessyk" creationdate="20171202T195417Z">
+        <seg>Mark &amp;Non-breakable Spaces</seg>
       </tuv>
     </tu>
     <tu>
