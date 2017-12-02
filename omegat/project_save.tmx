@@ -3210,6 +3210,14 @@ may experience unexpected, but correct behaviour.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Dictionary Installer</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="nessyk" changedate="20171202T181505Z" creationid="nessyk" creationdate="20171202T181505Z">
+        <seg>Інсталятор словників</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Dictionary file folder:</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="nessyk" changedate="20171129T183641Z" creationid="nessyk" creationdate="20171129T183641Z">
@@ -5420,6 +5428,14 @@ project_save.tmx не був завантажений, а SVN перейшов �
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>LanguageTool is not available for your target language.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="nessyk" changedate="20171202T181402Z" creationid="nessyk" creationdate="20171202T181402Z">
+        <seg>Мовний інструмент недоступний для мови перекладу.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>LanguageTool server started</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Маринка" changedate="20171118T212443Z" creationid="Маринка" creationdate="20171118T212443Z">
@@ -5578,6 +5594,14 @@ project_save.tmx не був завантажений, а SVN перейшов �
       </tuv>
       <tuv lang="UK-UA" changeid="Лера9764" changedate="20171118T085245Z" creationid="Tetiana21" creationdate="20171105T155847Z">
         <seg>Вигляд списку</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Load a project to configure rules for that project's languages.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="nessyk" changedate="20171202T181448Z" creationid="nessyk" creationdate="20171202T181448Z">
+        <seg>Load a project to configure rules for that project's languages.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6980,6 +7004,14 @@ additional steps need to be taken.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Tetiana21" changedate="20171105T190151Z" creationid="Tetiana21" creationdate="20171105T190151Z">
         <seg>Please select how tags of non-OmegaT TMXs should be displayed.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Please select the dictionaries you want to install and press the Install button.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="nessyk" changedate="20171202T181543Z" creationid="nessyk" creationdate="20171202T181543Z">
+        <seg>Виберіть словники, які ви хочете встановити, і натисніть кнопку "Встановити".</seg>
       </tuv>
     </tu>
     <tu>
@@ -9601,6 +9633,14 @@ in /lib/licenses/Licenses.txt.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>There was an error initializing LanguageTool.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="nessyk" changedate="20171202T181427Z" creationid="nessyk" creationdate="20171202T181427Z">
+        <seg>Сталася помилка при ініціалізації мовного інструменту</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>These three are certain:&lt;p&gt;Death, taxes, and page not found.&lt;p&gt;You, victim of one.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Маринка" changedate="20171118T192221Z" creationid="Маринка" creationdate="20171118T192221Z">
@@ -9633,6 +9673,14 @@ the server.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="nessyk" changedate="20171126T112249Z" creationid="Tetiana21" creationdate="20171118T152700Z">
         <seg>Цей ключ API заблоковано</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This ID is already being used.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="nessyk" changedate="20171202T181329Z" creationid="nessyk" creationdate="20171202T181329Z">
+        <seg>Цей ID уже використовується.</seg>
       </tuv>
     </tu>
     <tu>
