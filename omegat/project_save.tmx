@@ -3322,6 +3322,14 @@ may experience unexpected, but correct behaviour.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Display all &amp;source segments in bold</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="nessyk" changedate="20171202T202552Z" creationid="nessyk" creationdate="20171202T202552Z">
+        <seg>Відображати всі&amp; сегменти оригіналу з жирним шрифтом</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Display context description for TBX &amp;glossaries</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Маринка" changedate="20171126T165218Z" creationid="Маринка" creationdate="20171126T165141Z">
