@@ -5878,6 +5878,14 @@ project_save.tmx не був завантажений, а SVN перейшов �
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Match display template</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="nessyk" changedate="20171202T201316Z" creationid="nessyk" creationdate="20171202T201316Z">
+        <seg>Відобразити відповідний шаблон</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Match type</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Tetiana21" changedate="20171105T145233Z" creationid="Tetiana21" creationdate="20171105T145233Z">
