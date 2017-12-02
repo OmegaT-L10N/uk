@@ -3290,6 +3290,14 @@ may experience unexpected, but correct behaviour.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Display for Current &amp;Segment</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="nessyk" changedate="20171202T181901Z" creationid="nessyk" creationdate="20171202T181901Z">
+        <seg>Показати поточний &amp; сегмент</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Display:</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Tetiana21" changedate="20171105T183354Z" creationid="Tetiana21" creationdate="20171105T183354Z">
@@ -5030,8 +5038,8 @@ project_save.tmx не був завантажений, а SVN перейшов �
       <tuv lang="EN">
         <seg>Install</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="Лера9764" changedate="20171118T085510Z" creationid="Лера9764" creationdate="20171118T085510Z">
-        <seg>Установити</seg>
+      <tuv lang="UK-UA" changeid="nessyk" changedate="20171202T181703Z" creationid="Лера9764" creationdate="20171118T085510Z">
+        <seg>Встановити</seg>
       </tuv>
     </tu>
     <tu>
@@ -6202,6 +6210,14 @@ project_save.tmx не був завантажений, а SVN перейшов �
       </tuv>
       <tuv lang="UK-UA" changeid="Tetiana21" changedate="20171118T143307Z" creationid="Tetiana21" creationdate="20171118T143204Z">
         <seg>Не потрібно зберігати проект, адже ніяких змін не було зроблено</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>No new dictionaries available at the remote server.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="nessyk" changedate="20171202T181650Z" creationid="nessyk" creationdate="20171202T181650Z">
+        <seg>На віддаленому сервері немає нових доступних словників </seg>
       </tuv>
     </tu>
     <tu>
@@ -7968,6 +7984,14 @@ project without team functionality.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Лера9764" changedate="20171025T180017Z" creationid="Лера9764" creationdate="20171025T180017Z">
         <seg>Російська</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>S&amp;witch Case To</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="nessyk" changedate="20171202T181725Z" creationid="nessyk" creationdate="20171202T181725Z">
+        <seg>S&amp;witch Case To</seg>
       </tuv>
     </tu>
     <tu>
