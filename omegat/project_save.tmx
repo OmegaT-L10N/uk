@@ -7074,8 +7074,8 @@ additional steps need to be taken.</seg>
       <tuv lang="EN">
         <seg>Please select how tags of non-OmegaT TMXs should be displayed.</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="Tetiana21" changedate="20171105T190151Z" creationid="Tetiana21" creationdate="20171105T190151Z">
-        <seg>Please select how tags of non-OmegaT TMXs should be displayed.</seg>
+      <tuv lang="UK-UA" changeid="nessyk" changedate="20171202T200647Z" creationid="Tetiana21" creationdate="20171105T190151Z">
+        <seg>Будь-ласка, виберіть, як слід відображати теги не-OmegaT TMX.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10737,6 +10737,14 @@ Exact searches match the whole search string.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20170929T121648Z" creationid="Kos Ivantsov" creationdate="20170929T121648Z">
         <seg>Що таке OmegaT?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>When a single file has more segments than this, additional segments will be loaded on-demand as you scroll.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="nessyk" changedate="20171202T200400Z" creationid="nessyk" creationdate="20171202T200400Z">
+        <seg>Якщо одиничний файл має більше сегментів, ніж цей, під час прокручування додаткові сегменти будуть завантажені за вимогою.</seg>
       </tuv>
     </tu>
     <tu>
