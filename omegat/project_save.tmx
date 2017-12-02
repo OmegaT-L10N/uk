@@ -502,6 +502,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Launch local server</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="nessyk" changedate="20171202T181113Z" creationid="nessyk" creationdate="20171202T181113Z">
+        <seg>&amp; Запустити локальний сервер</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;Leave the segment empty</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Лера9764" changedate="20171102T163321Z" creationid="Лера9764" creationdate="20171102T163321Z">
@@ -7884,6 +7892,14 @@ project without team functionality.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Rule ID can only contain Latin letters, underscores, and periods.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="nessyk" changedate="20171202T181259Z" creationid="nessyk" creationdate="20171202T181259Z">
+        <seg>Rule ID  може містити лише латинські букви, підкреслення та періоди.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Rules</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Лера9764" changedate="20171110T193110Z" creationid="Лера9764" creationdate="20171110T193110Z">
@@ -8450,6 +8466,14 @@ The scope of a search is by default the project and can be set to be any files l
       </tuv>
       <tuv lang="UK-UA" changeid="Лера9764" changedate="20171117T164935Z" creationid="nessyk" creationdate="20171113T215717Z">
         <seg>Сервер (оновлений)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Service type</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="nessyk" changedate="20171202T181217Z" creationid="nessyk" creationdate="20171202T181217Z">
+        <seg>Service type</seg>
       </tuv>
     </tu>
     <tu>
