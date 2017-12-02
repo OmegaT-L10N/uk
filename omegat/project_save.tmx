@@ -1102,6 +1102,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Validate tags when leaving a segment</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="nessyk" changedate="20171202T195918Z" creationid="nessyk" creationdate="20171202T195918Z">
+        <seg>&amp; Перевірити теги при перемиканні сегмента</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;View</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Tetiana21" changedate="20171118T130621Z" creationid="Tetiana21" creationdate="20171118T130621Z">
@@ -5020,6 +5028,14 @@ project_save.tmx не був завантажений, а SVN перейшов �
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Initially load this many segments:</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="nessyk" changedate="20171202T200137Z" creationid="nessyk" creationdate="20171202T200137Z">
+        <seg>Спочатку завантажте цю кількість сегментів:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Insert Missing Source &amp;Tags</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Маринка" changedate="20171106T203956Z" creationid="Маринка" creationdate="20171106T203907Z">
@@ -8104,6 +8120,14 @@ project without team functionality.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="nessyk" changedate="20171101T183901Z" creationid="nessyk" creationdate="20171101T183901Z">
         <seg>ЗберегтиTMX...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Save aut&amp;o-populated status</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="nessyk" changedate="20171202T200050Z" creationid="nessyk" creationdate="20171202T200050Z">
+        <seg>Зберегти автоматично заповнений статус</seg>
       </tuv>
     </tu>
     <tu>
