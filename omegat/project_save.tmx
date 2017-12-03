@@ -9499,9 +9499,9 @@ The scope of a search is by default the project and can be set to be any files l
         <seg>Text Replace:
 The scope of a text replacement is the target segments of the project, whether they already have contents or not.</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="Маринка" changedate="20171118T205603Z" creationid="Маринка" creationdate="20171114T220332Z">
+      <tuv lang="UK-UA" changeid="Маринка" changedate="20171203T191229Z" creationid="Маринка" creationdate="20171114T220332Z">
         <seg>Заміна тексту:
-Обсяг текстової заміни є текст перекладу у сегментах проекту, незалежно від того чи вони є у тексті.</seg>
+Обсяг текстової заміни є текст перекладу у сегментах проекту, незалежно від того чи вони містять текст чи ні.</seg>
       </tuv>
     </tu>
     <tu>
