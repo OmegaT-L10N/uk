@@ -8742,6 +8742,14 @@ The scope of a search is by default the project and can be set to be any files l
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Show Find Search Bar</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Маринка" changedate="20171203T184559Z" creationid="Маринка" creationdate="20171203T184559Z">
+        <seg>Show Find Search Bar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Show Raw Key Names</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Tetiana21" changedate="20171105T155815Z" creationid="Tetiana21" creationdate="20171105T155815Z">
