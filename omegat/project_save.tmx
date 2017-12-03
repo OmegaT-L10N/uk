@@ -8180,6 +8180,14 @@ project without team functionality.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>SVG Image and Adobe Illustrator Export</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Маринка" changedate="20171203T194957Z" creationid="Маринка" creationdate="20171203T194826Z">
+        <seg>Експорт зображень SVG та Adobe Illustrator</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>SVN '{0}' error: {1}</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="nessyk" changedate="20171125T173704Z" creationid="nessyk" creationdate="20171125T173616Z">
@@ -8302,8 +8310,8 @@ project without team functionality.</seg>
       <tuv lang="EN">
         <seg>Schematron</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="Маринка" changedate="20171203T194823Z" creationid="Маринка" creationdate="20171203T194823Z">
-        <seg>Файли Schematron</seg>
+      <tuv lang="UK-UA" changeid="Маринка" changedate="20171203T195006Z" creationid="Маринка" creationdate="20171203T194823Z">
+        <seg>Файли розмітки Schematron</seg>
       </tuv>
     </tu>
     <tu>
@@ -10883,6 +10891,14 @@ Exact searches match the whole search string.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Visio</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Маринка" changedate="20171203T195125Z" creationid="Маринка" creationdate="20171203T195125Z">
+        <seg>Файли Visio</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Viterbi</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="nessyk" changedate="20171030T173456Z" creationid="nessyk" creationdate="20171025T175747Z">
@@ -10985,6 +11001,14 @@ Exact searches match the whole search string.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="nessyk" changedate="20171106T224930Z" creationid="nessyk" creationdate="20171106T224930Z">
         <seg>Проміжки</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>WiX Localization</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Маринка" changedate="20171203T194903Z" creationid="Маринка" creationdate="20171203T194825Z">
+        <seg>Файли локалізації WiX</seg>
       </tuv>
     </tu>
     <tu>
