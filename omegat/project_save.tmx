@@ -4686,8 +4686,8 @@ project_save.tmx не був завантажений, а SVN перейшов �
       <tuv lang="EN">
         <seg>Glossary files folder entered does not exist!</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="Маринка" changedate="20171107T195722Z" creationid="Маринка" creationdate="20171107T195722Z">
-        <seg>Glossary files folder entered does not exist!</seg>
+      <tuv lang="UK-UA" changeid="Маринка" changedate="20171203T190021Z" creationid="Маринка" creationdate="20171107T195722Z">
+        <seg>Папка глосарію не існує!</seg>
       </tuv>
     </tu>
     <tu>
@@ -7886,8 +7886,8 @@ project without team functionality.</seg>
       <tuv lang="EN">
         <seg>Repository Mapping</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="Маринка" changedate="20171203T185643Z" creationid="Маринка" creationdate="20171106T205509Z">
-        <seg>Репозиторій прив'язок</seg>
+      <tuv lang="UK-UA" changeid="Маринка" changedate="20171203T185750Z" creationid="Маринка" creationdate="20171106T205509Z">
+        <seg>Repository Mapping</seg>
       </tuv>
     </tu>
     <tu>
