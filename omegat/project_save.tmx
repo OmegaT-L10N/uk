@@ -262,6 +262,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Do not unescape Unicode literals (\uXXXX)</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Маринка" changedate="20171203T194642Z" creationid="Маринка" creationdate="20171203T194642Z">
+        <seg>&amp;не перетворювати літерали  Unicode  (\uXXXX)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;Download</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="nessyk" changedate="20171109T202712Z" creationid="nessyk" creationdate="20171109T202712Z">
@@ -10909,6 +10917,14 @@ Exact searches match the whole search string.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>WebVTT Subtitles</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Маринка" changedate="20171203T194400Z" creationid="Маринка" creationdate="20171203T194400Z">
+        <seg>Субтитри WebVTT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>What is OmegaT?</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20170929T121648Z" creationid="Kos Ivantsov" creationdate="20170929T121648Z">
@@ -11199,6 +11215,14 @@ Both exact and keyword searches support the wildcard characters * and ?.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="nessyk" changedate="20171026T180144Z" creationid="nessyk" creationdate="20171026T180144Z">
         <seg>Вам буде запропоновано ввести цей пароль кожного разу, коли ви запускаєте OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>YouTube Subtitles</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Маринка" changedate="20171203T194210Z" creationid="Маринка" creationdate="20171203T194210Z">
+        <seg>Субтитри YouTube</seg>
       </tuv>
     </tu>
     <tu>
