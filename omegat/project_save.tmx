@@ -1986,6 +1986,14 @@ The TMX file will not be loaded.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Android Resources</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Маринка" changedate="20171203T195312Z" creationid="Маринка" creationdate="20171203T195312Z">
+        <seg>Файли ресурсів Android</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Apertium</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="nessyk" changedate="20171126T111024Z" creationid="Tetiana21" creationdate="20171116T195602Z">
@@ -4500,6 +4508,14 @@ project_save.tmx не був завантажений, а SVN перейшов �
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Flash XML Export</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Маринка" changedate="20171203T195138Z" creationid="Маринка" creationdate="20171203T195131Z">
+        <seg>Файли Flash XML Export</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Folder already exists and is not empty.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Лера9764" changedate="20171117T160153Z" creationid="Лера9764" creationdate="20171117T160153Z">
@@ -5092,6 +5108,14 @@ project_save.tmx не був завантажений, а SVN перейшов �
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Infix</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Маринка" changedate="20171203T195134Z" creationid="Маринка" creationdate="20171203T195129Z">
+        <seg>Файли Infix</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Info</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Tetiana21" changedate="20171105T200700Z" creationid="Tetiana21" creationdate="20171105T200700Z">
@@ -5448,6 +5472,14 @@ project_save.tmx не був завантажений, а SVN перейшов �
       </tuv>
       <tuv lang="UK-UA" changeid="Лера9764" changedate="20171114T172619Z" creationid="Лера9764" creationdate="20171114T172619Z">
         <seg>Ключ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Key=Value Text</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Маринка" changedate="20171203T195502Z" creationid="Маринка" creationdate="20171203T195502Z">
+        <seg>Текстові файли „Ключ = Значення“</seg>
       </tuv>
     </tu>
     <tu>
@@ -7620,8 +7652,8 @@ project without team functionality.</seg>
       <tuv lang="EN">
         <seg>RELAX NG</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="Маринка" changedate="20171203T193950Z" creationid="Маринка" creationdate="20171203T193950Z">
-        <seg>RELAX NG</seg>
+      <tuv lang="UK-UA" changeid="Маринка" changedate="20171203T195302Z" creationid="Маринка" creationdate="20171203T193950Z">
+        <seg>Файли RELAX NG</seg>
       </tuv>
     </tu>
     <tu>
@@ -11055,6 +11087,14 @@ Both exact and keyword searches support the wildcard characters * and ?.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Wordfast TXML</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Маринка" changedate="20171203T195142Z" creationid="Маринка" creationdate="20171203T195142Z">
+        <seg>Файли Wordfast TXML</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Wordpress</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Маринка" changedate="20171203T194153Z" creationid="Маринка" creationdate="20171203T194153Z">
@@ -11123,6 +11163,14 @@ Both exact and keyword searches support the wildcard characters * and ?.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Маринка" changedate="20171203T193955Z" creationid="Маринка" creationdate="20171203T193955Z">
         <seg>Файли XLIFF</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>XML Spreadsheet 2003</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Маринка" changedate="20171203T195249Z" creationid="Маринка" creationdate="20171203T195249Z">
+        <seg>Файли електронних таблиць XML Spreadsheet 2003</seg>
       </tuv>
     </tu>
     <tu>
