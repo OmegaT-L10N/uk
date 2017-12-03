@@ -3258,6 +3258,14 @@ may experience unexpected, but correct behaviour.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Dictionary files folder entered does not exist!</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Маринка" changedate="20171203T190123Z" creationid="Маринка" creationdate="20171203T190043Z">
+        <seg>Тека словника не існує!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Didier Briel is the OmegaT project manager.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Diman966" changedate="20171116T201622Z" creationid="Diman966" creationdate="20171116T201622Z">
@@ -4686,8 +4694,8 @@ project_save.tmx не був завантажений, а SVN перейшов �
       <tuv lang="EN">
         <seg>Glossary files folder entered does not exist!</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="Маринка" changedate="20171203T190021Z" creationid="Маринка" creationdate="20171107T195722Z">
-        <seg>Папка глосарію не існує!</seg>
+      <tuv lang="UK-UA" changeid="Маринка" changedate="20171203T190101Z" creationid="Маринка" creationdate="20171107T195722Z">
+        <seg>Тека глосарію не існує!</seg>
       </tuv>
     </tu>
     <tu>
@@ -8928,8 +8936,8 @@ The scope of a search is by default the project and can be set to be any files l
       <tuv lang="EN">
         <seg>Source files folder entered does not exist!</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="Маринка" changedate="20171118T204652Z" creationid="Маринка" creationdate="20171107T195912Z">
-        <seg>Папка файлів оригіналу не існує!</seg>
+      <tuv lang="UK-UA" changeid="Маринка" changedate="20171203T190048Z" creationid="Маринка" creationdate="20171107T195912Z">
+        <seg>Тека файлів оригіналу не існує!</seg>
       </tuv>
     </tu>
     <tu>
@@ -10091,8 +10099,8 @@ the server.</seg>
       <tuv lang="EN">
         <seg>Translated files folder entered does not exist!</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="Маринка" changedate="20171107T195940Z" creationid="Маринка" creationdate="20171107T195940Z">
-        <seg>Папка перекладених файлів не існує!</seg>
+      <tuv lang="UK-UA" changeid="Маринка" changedate="20171203T190054Z" creationid="Маринка" creationdate="20171107T195940Z">
+        <seg>Тека перекладених файлів не існує!</seg>
       </tuv>
     </tu>
     <tu>
@@ -10173,6 +10181,14 @@ the server.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20170902T145016Z" creationid="Kos Ivantsov" creationdate="20170902T145016Z">
         <seg>Переклад востаннє змінений користувачем {0}, {1} о {2}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Translation memory files folder entered does not exist!</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Маринка" changedate="20171203T190106Z" creationid="Маринка" creationdate="20171203T190039Z">
+        <seg>Тека пам'яті перекладу не існує!</seg>
       </tuv>
     </tu>
     <tu>
