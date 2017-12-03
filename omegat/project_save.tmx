@@ -296,8 +296,8 @@
       <tuv lang="EN">
         <seg>&amp;Empty lines</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="Лера9764" changedate="20171031T070233Z" creationid="Лера9764" creationdate="20171031T070233Z">
-        <seg>&amp;Порожні рядки</seg>
+      <tuv lang="UK-UA" changeid="Маринка" changedate="20171203T193607Z" creationid="Лера9764" creationdate="20171031T070233Z">
+        <seg>&amp; по порожнім рядкам</seg>
       </tuv>
     </tu>
     <tu>
@@ -536,8 +536,8 @@
       <tuv lang="EN">
         <seg>&amp;Line breaks</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="Маринка" changedate="20171203T193210Z" creationid="Маринка" creationdate="20171203T193118Z">
-        <seg>&amp;за розривах рядків</seg>
+      <tuv lang="UK-UA" changeid="Маринка" changedate="20171203T193549Z" creationid="Маринка" creationdate="20171203T193118Z">
+        <seg>&amp; по розривах рядків</seg>
       </tuv>
     </tu>
     <tu>
@@ -600,8 +600,8 @@
       <tuv lang="EN">
         <seg>&amp;Never</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="Лера9764" changedate="20171121T150017Z" creationid="Diman966" creationdate="20171116T200400Z">
-        <seg>&amp;Ніколи</seg>
+      <tuv lang="UK-UA" changeid="Маринка" changedate="20171203T193420Z" creationid="Diman966" creationdate="20171116T200400Z">
+        <seg>&amp;ніколи</seg>
       </tuv>
     </tu>
     <tu>
@@ -6857,8 +6857,8 @@ your home folder.</seg>
       <tuv lang="EN">
         <seg>Options to set the line length in target documents (0 = no limit)</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="Маринка" changedate="20171203T192911Z" creationid="Маринка" creationdate="20171118T211855Z">
-        <seg>Параметри для налаштування довижини рядка у документах перекладу (0 = no limit)</seg>
+      <tuv lang="UK-UA" changeid="Маринка" changedate="20171203T193428Z" creationid="Маринка" creationdate="20171118T211855Z">
+        <seg>Параметри для налаштування довижини рядка у документах перекладу (0 = без обмежень)</seg>
       </tuv>
     </tu>
     <tu>
@@ -8472,8 +8472,8 @@ The scope of a search is by default the project and can be set to be any files l
       <tuv lang="EN">
         <seg>Segment source text into paragraphs on:</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="Маринка" changedate="20171203T193226Z" creationid="Маринка" creationdate="20171118T211843Z">
-        <seg>Сегментація тексту оригіналу на параграфи відбувається на:</seg>
+      <tuv lang="UK-UA" changeid="Маринка" changedate="20171203T193541Z" creationid="Маринка" creationdate="20171118T211843Z">
+        <seg>Сегментація текста оригіналу на абзаци відбувається:</seg>
       </tuv>
     </tu>
     <tu>
