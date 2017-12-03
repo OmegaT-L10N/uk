@@ -3948,6 +3948,14 @@ project_save.tmx не був завантажений, а SVN перейшов �
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Error in file {0}, line {1}</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Маринка" changedate="20171203T192837Z" creationid="Маринка" creationdate="20171203T192837Z">
+        <seg>Помилка у файлі {0}, рядок {1}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Error initializing marker '{0}'</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Маринка" changedate="20171203T192315Z" creationid="Маринка" creationdate="20171118T211438Z">
