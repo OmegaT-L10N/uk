@@ -7240,6 +7240,14 @@ additional steps need to be taken.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Preferences system save operation failed!</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Маринка" changedate="20171203T191636Z" creationid="Маринка" creationdate="20171203T191636Z">
+        <seg>Не вдалося виконати збереження налатувань системи!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Premium Edition</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="nessyk" changedate="20171126T112149Z" creationid="Tetiana21" creationdate="20171118T151849Z">
