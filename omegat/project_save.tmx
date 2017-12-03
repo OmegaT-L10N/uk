@@ -784,8 +784,8 @@
       <tuv lang="EN">
         <seg>&amp;Remove untranslated strings in the target files</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="Diman966" changedate="20171116T200254Z" creationid="Diman966" creationdate="20171116T200254Z">
-        <seg>Перемістити не перекладені рядки у цільовий файл&amp;Remove untranslated strings in the target files</seg>
+      <tuv lang="UK-UA" changeid="Маринка" changedate="20171203T194718Z" creationid="Diman966" creationdate="20171116T200254Z">
+        <seg>&amp;Видалити неперкладені рядки у файлах перекладу</seg>
       </tuv>
     </tu>
     <tu>
@@ -8296,6 +8296,14 @@ project without team functionality.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20170902T184542Z" creationid="Kos Ivantsov" creationdate="20170902T184542Z">
         <seg>Йде збереження проекту…</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Schematron</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Маринка" changedate="20171203T194823Z" creationid="Маринка" creationdate="20171203T194823Z">
+        <seg>Файли Schematron</seg>
       </tuv>
     </tu>
     <tu>
