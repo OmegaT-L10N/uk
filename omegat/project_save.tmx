@@ -350,6 +350,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Endnotes</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Маринка" changedate="20171203T195914Z" creationid="Маринка" creationdate="20171203T195914Z">
+        <seg>&amp;Примітки з поясненнями</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;Exact search</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Лера9764" changedate="20171031T065953Z" creationid="Лера9764" creationdate="20171031T065953Z">
@@ -402,6 +410,14 @@
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20170902T163524Z" creationid="Kos Ivantsov" creationdate="20170902T163524Z">
         <seg>&amp;Виправити всі</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;Footnotes</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Маринка" changedate="20171203T195841Z" creationid="Маринка" creationdate="20171203T195841Z">
+        <seg>&amp;Виноски</seg>
       </tuv>
     </tu>
     <tu>
@@ -4564,6 +4580,14 @@ project_save.tmx не був завантажений, а SVN перейшов �
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Foote&amp;rs</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Маринка" changedate="20171203T200016Z" creationid="Маринка" creationdate="20171203T200016Z">
+        <seg>Конт&amp;титули</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>For all files:</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Лера9764" changedate="20171105T154632Z" creationid="Лера9764" creationdate="20171105T154632Z">
@@ -4872,6 +4896,14 @@ project_save.tmx не був завантажений, а SVN перейшов �
       </tuv>
       <tuv lang="UK-UA" changeid="nessyk" changedate="20171106T222304Z" creationid="nessyk" creationdate="20171106T222304Z">
         <seg>Має примітку</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>He&amp;aders</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Маринка" changedate="20171203T195929Z" creationid="Маринка" creationdate="20171203T195929Z">
+        <seg>За&amp;головки</seg>
       </tuv>
     </tu>
     <tu>
