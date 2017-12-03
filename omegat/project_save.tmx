@@ -2914,6 +2914,14 @@ may experience unexpected, but correct behaviour.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Could not initialize OS look and feel!</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Маринка" changedate="20171203T192154Z" creationid="Маринка" creationdate="20171203T192154Z">
+        <seg>Не вдалося встановити користувацький інтерфейс та його компоненти для OS!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Could not save credentials to text file</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="nessyk" changedate="20171118T190617Z" creationid="nessyk" creationdate="20171118T190617Z">
@@ -3942,8 +3950,8 @@ project_save.tmx не був завантажений, а SVN перейшов �
       <tuv lang="EN">
         <seg>Error initializing marker '{0}'</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="Маринка" changedate="20171118T211438Z" creationid="Маринка" creationdate="20171118T211438Z">
-        <seg>Error initializing marker '{0}'</seg>
+      <tuv lang="UK-UA" changeid="Маринка" changedate="20171203T192315Z" creationid="Маринка" creationdate="20171118T211438Z">
+        <seg>Помилка у встановленні маркеру '{0}'</seg>
       </tuv>
     </tu>
     <tu>
