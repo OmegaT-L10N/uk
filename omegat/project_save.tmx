@@ -3972,6 +3972,14 @@ project_save.tmx не був завантажений, а SVN перейшов �
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Error reading TMX level2 at line {0} column {1}</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Маринка" changedate="20171203T191924Z" creationid="Маринка" creationdate="20171203T191924Z">
+        <seg>Помилка у прочитанні другого рівня TMX у рядку {0} стовпця {1}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Error retrieve {0} as remote project file</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="nessyk" changedate="20171118T191323Z" creationid="nessyk" creationdate="20171118T191323Z">
@@ -6691,6 +6699,14 @@ your home folder.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Маринка" changedate="20171118T195007Z" creationid="Маринка" creationdate="20171118T195007Z">
         <seg>OmegaT will now terminate.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>OmegaT will try to resegment the TMX file...</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Маринка" changedate="20171203T191813Z" creationid="Маринка" creationdate="20171203T191813Z">
+        <seg>OmegaT спробує відновити файл TMX...</seg>
       </tuv>
     </tu>
     <tu>
