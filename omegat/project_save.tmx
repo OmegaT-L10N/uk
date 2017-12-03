@@ -168,8 +168,8 @@
       <tuv lang="EN">
         <seg>&amp;Bookmarks</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="Маринка" changedate="20171118T211956Z" creationid="Маринка" creationdate="20171118T211956Z">
-        <seg>&amp;Bookmarks</seg>
+      <tuv lang="UK-UA" changeid="Маринка" changedate="20171203T195536Z" creationid="Маринка" creationdate="20171118T211956Z">
+        <seg>&amp;Закладки</seg>
       </tuv>
     </tu>
     <tu>
@@ -232,7 +232,7 @@
       <tuv lang="EN">
         <seg>&amp;Comments</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="Лера9764" changedate="20171121T145823Z" creationid="Маринка" creationdate="20171118T212008Z">
+      <tuv lang="UK-UA" changeid="Маринка" changedate="20171203T195516Z" creationid="Маринка" creationdate="20171118T212008Z">
         <seg>&amp;Коментарі</seg>
       </tuv>
     </tu>
@@ -2234,6 +2234,14 @@ may experience unexpected, but correct behaviour.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="nessyk" changedate="20171106T225150Z" creationid="nessyk" creationdate="20171106T225150Z">
         <seg>Двонаправлені контрольні символи</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Bookmark &amp;references</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Маринка" changedate="20171203T195808Z" creationid="Маринка" creationdate="20171203T195808Z">
+        <seg>Закладки &amp;посилань</seg>
       </tuv>
     </tu>
     <tu>
