@@ -3594,6 +3594,14 @@ may experience unexpected, but correct behaviour.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Dra&amp;wings</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Tetiana21" changedate="20171204T203909Z" creationid="Tetiana21" creationdate="20171204T203909Z">
+        <seg>Зоб&amp;раження</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Drop TMX files here to add them to the project.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="nessyk" changedate="20171106T221508Z" creationid="nessyk" creationdate="20171106T221415Z">
@@ -11216,6 +11224,14 @@ Both exact and keyword searches support the wildcard characters * and ?.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Diman966" changedate="20171116T200815Z" creationid="nessyk" creationdate="20171030T173647Z">
         <seg>Слово</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>WordAr&amp;t</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Tetiana21" changedate="20171204T203946Z" creationid="Tetiana21" creationdate="20171204T203946Z">
+        <seg>WordAr&amp;t</seg>
       </tuv>
     </tu>
     <tu>
