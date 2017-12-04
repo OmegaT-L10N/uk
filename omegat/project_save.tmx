@@ -8010,6 +8010,14 @@ project without team functionality.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Replace &amp;glossary hits when inserting source text</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Маринка" changedate="20171204T165827Z" creationid="Маринка" creationdate="20171204T165827Z">
+        <seg>Replace &amp;glossary hits when inserting source text</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Replace &lt;project&gt;/omegat/project_save.tmx in the newly downloaded project with the file saved in a safe location
 6.</seg>
       </tuv>
