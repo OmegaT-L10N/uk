@@ -6182,6 +6182,14 @@ project_save.tmx не був завантажений, а SVN перейшов �
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Modification info template</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Diman966" changedate="20171204T165028Z" creationid="Diman966" creationdate="20171204T165028Z">
+        <seg>Шаблон зміни інформації  </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Modification info text</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="nessyk" changedate="20171106T223946Z" creationid="nessyk" creationdate="20171106T223946Z">
