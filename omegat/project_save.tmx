@@ -2058,6 +2058,14 @@ The TMX file will not be loaded.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Arrays must not be null</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Tetiana21" changedate="20171204T174543Z" creationid="Tetiana21" creationdate="20171204T174543Z">
+        <seg>Arrays must not be null</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>As a result of this,
 all settings will be at their defaults, due to which you
 may experience unexpected, but correct behaviour.</seg>
