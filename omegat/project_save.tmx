@@ -9144,16 +9144,16 @@ The scope of a search is by default the project and can be set to be any files l
       <tuv lang="EN">
         <seg>Source segments</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="nessyk" changedate="20171106T223031Z" creationid="nessyk" creationdate="20171106T222919Z">
-        <seg>Джерела сегментів</seg>
+      <tuv lang="UK-UA" changeid="Лера9764" changedate="20171204T141150Z" creationid="nessyk" creationdate="20171106T222919Z">
+        <seg>Сегменти в тексті оригіналу</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Source segments text</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="Лера9764" changedate="20171117T164740Z" creationid="nessyk" creationdate="20171106T223032Z">
-        <seg>Текст вихідних сегментів</seg>
+      <tuv lang="UK-UA" changeid="Лера9764" changedate="20171204T141253Z" creationid="nessyk" creationdate="20171106T223032Z">
+        <seg>Текст неперекладених сегментів</seg>
       </tuv>
     </tu>
     <tu>
