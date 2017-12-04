@@ -2224,8 +2224,8 @@ may experience unexpected, but correct behaviour.</seg>
       <tuv lang="EN">
         <seg>Bad regular expression!</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="Маринка" changedate="20171118T205640Z" creationid="Маринка" creationdate="20171118T205640Z">
-        <seg>Bad regular expression!</seg>
+      <tuv lang="UK-UA" changeid="Маринка" changedate="20171204T170156Z" creationid="Маринка" creationdate="20171118T205640Z">
+        <seg>Неправильний регулярний вираз!</seg>
       </tuv>
     </tu>
     <tu>
@@ -4174,8 +4174,8 @@ project_save.tmx не був завантажений, а SVN перейшов �
       <tuv lang="EN">
         <seg>Exclude orphan segments</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="Маринка" changedate="20171118T205625Z" creationid="Маринка" creationdate="20171118T205625Z">
-        <seg>Exclude orphan segments</seg>
+      <tuv lang="UK-UA" changeid="Маринка" changedate="20171204T170357Z" creationid="Маринка" creationdate="20171118T205625Z">
+        <seg>Вилучити зайві сегменти</seg>
       </tuv>
     </tu>
     <tu>
