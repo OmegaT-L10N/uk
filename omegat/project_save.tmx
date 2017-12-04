@@ -120,8 +120,8 @@
       <tuv lang="EN">
         <seg>&amp;Auto-propagation of Translations</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="Маринка" changedate="20171106T204850Z" creationid="Маринка" creationdate="20171106T204850Z">
-        <seg>&amp;Auto-propagation of Translations</seg>
+      <tuv lang="UK-UA" changeid="Маринка" changedate="20171204T162500Z" creationid="Маринка" creationdate="20171106T204850Z">
+        <seg>&amp;автосинхронізація перекладів</seg>
       </tuv>
     </tu>
     <tu>
@@ -4230,8 +4230,8 @@ project_save.tmx не був завантажений, а SVN перейшов �
       <tuv lang="EN">
         <seg>External Post-processing Command (Disabled):</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="Маринка" changedate="20171204T162400Z" creationid="Маринка" creationdate="20171114T215111Z">
-        <seg>Команда зовнішньої подаьшої обробки (відключена):</seg>
+      <tuv lang="UK-UA" changeid="Маринка" changedate="20171204T162409Z" creationid="Маринка" creationdate="20171114T215111Z">
+        <seg>Команда зовнішньої подальшої обробки (відключена):</seg>
       </tuv>
     </tu>
     <tu>
