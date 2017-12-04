@@ -1688,8 +1688,8 @@ The current setting is {0}MB;</seg>
       <tuv lang="EN">
         <seg>Active segment source</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="nessyk" changedate="20171106T222651Z" creationid="nessyk" creationdate="20171106T222651Z">
-        <seg>Активний ресурс сегмента</seg>
+      <tuv lang="UK-UA" changeid="Лера9764" changedate="20171204T140926Z" creationid="nessyk" creationdate="20171106T222651Z">
+        <seg>Активний сегмент в тексті оригіналу</seg>
       </tuv>
     </tu>
     <tu>
@@ -1712,8 +1712,8 @@ The current setting is {0}MB;</seg>
       <tuv lang="EN">
         <seg>Active segment target text</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="nessyk" changedate="20171106T222820Z" creationid="nessyk" creationdate="20171106T222625Z">
-        <seg>Активний цільовий текст сегмента</seg>
+      <tuv lang="UK-UA" changeid="Лера9764" changedate="20171204T140944Z" creationid="nessyk" creationdate="20171106T222625Z">
+        <seg>Активний сегмент з перекладеним текстом</seg>
       </tuv>
     </tu>
     <tu>
@@ -8568,16 +8568,16 @@ The scope of a search is by default the project and can be set to be any files l
       <tuv lang="EN">
         <seg>Segment marker background</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="nessyk" changedate="20171106T222937Z" creationid="nessyk" creationdate="20171106T222913Z">
-        <seg>Фрагмент маркеру сегмента</seg>
+      <tuv lang="UK-UA" changeid="Лера9764" changedate="20171204T141052Z" creationid="nessyk" creationdate="20171106T222913Z">
+        <seg>Маркер фону сегмента</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Segment marker text</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="nessyk" changedate="20171106T222926Z" creationid="nessyk" creationdate="20171106T222856Z">
-        <seg>Текст маркеру сегмента</seg>
+      <tuv lang="UK-UA" changeid="Лера9764" changedate="20171204T141023Z" creationid="nessyk" creationdate="20171106T222856Z">
+        <seg>Маркер тексту в сегменті</seg>
       </tuv>
     </tu>
     <tu>
