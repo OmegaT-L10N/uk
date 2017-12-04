@@ -9584,6 +9584,14 @@ The scope of a search is by default the project and can be set to be any files l
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Team Options</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Diman966" changedate="20171204T164107Z" creationid="Diman966" creationdate="20171204T164107Z">
+        <seg>Командні опції</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Team synchronization</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="nessyk" changedate="20171118T185634Z" creationid="nessyk" creationdate="20171118T185634Z">
