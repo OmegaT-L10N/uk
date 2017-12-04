@@ -1944,8 +1944,8 @@ The current setting is {0}MB;</seg>
       <tuv lang="EN">
         <seg>An error occurred while trying to create a new folder</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="Лера9764" changedate="20171117T160508Z" creationid="Лера9764" creationdate="20171117T160014Z">
-        <seg>Під час створення нової папки сталася помилка</seg>
+      <tuv lang="UK-UA" changeid="Лера9764" changedate="20171204T135354Z" creationid="Лера9764" creationdate="20171117T160014Z">
+        <seg>Під час створення нової теки сталася помилка</seg>
       </tuv>
     </tu>
     <tu>
@@ -4542,8 +4542,8 @@ project_save.tmx не був завантажений, а SVN перейшов �
       <tuv lang="EN">
         <seg>Folder already exists and is not empty.</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="Лера9764" changedate="20171117T160153Z" creationid="Лера9764" creationdate="20171117T160153Z">
-        <seg>Папка вже існує або вона не порожня.</seg>
+      <tuv lang="UK-UA" changeid="Лера9764" changedate="20171204T135335Z" creationid="Лера9764" creationdate="20171117T160153Z">
+        <seg>Тека вже існує або вона не порожня.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4942,8 +4942,8 @@ project_save.tmx не був завантажений, а SVN перейшов �
       <tuv lang="EN">
         <seg>Hide Advanced &amp;Options</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="Лера9764" changedate="20171117T155827Z" creationid="Лера9764" creationdate="20171117T155827Z">
-        <seg>Приховати розширені &amp;налаштування</seg>
+      <tuv lang="UK-UA" changeid="Лера9764" changedate="20171204T135504Z" creationid="Лера9764" creationdate="20171117T155827Z">
+        <seg>Приховати розширені на&amp;лаштування</seg>
       </tuv>
     </tu>
     <tu>
@@ -6688,8 +6688,8 @@ project_save.tmx не був завантажений, а SVN перейшов �
       <tuv lang="EN">
         <seg>OmegaT Project Folder</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="Лера9764" changedate="20171117T160118Z" creationid="Лера9764" creationdate="20171117T160118Z">
-        <seg>Папка проекту OmegaT </seg>
+      <tuv lang="UK-UA" changeid="Лера9764" changedate="20171204T135340Z" creationid="Лера9764" creationdate="20171117T160118Z">
+        <seg>Тека проекту OmegaT </seg>
       </tuv>
     </tu>
     <tu>
@@ -7242,8 +7242,8 @@ additional steps need to be taken.</seg>
       <tuv lang="EN">
         <seg>Please select a different folder.</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="Лера9764" changedate="20171117T160039Z" creationid="Лера9764" creationdate="20171117T160039Z">
-        <seg>Будь ласка, виберіть іншу папку.</seg>
+      <tuv lang="UK-UA" changeid="Лера9764" changedate="20171204T135348Z" creationid="Лера9764" creationdate="20171117T160039Z">
+        <seg>Будь ласка, виберіть іншу теку.</seg>
       </tuv>
     </tu>
     <tu>
