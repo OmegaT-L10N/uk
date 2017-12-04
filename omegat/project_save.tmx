@@ -1696,16 +1696,16 @@ The current setting is {0}MB;</seg>
       <tuv lang="EN">
         <seg>Active segment source text</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="nessyk" changedate="20171106T222729Z" creationid="nessyk" creationdate="20171106T222729Z">
-        <seg>Активний вихідний текст сегмента</seg>
+      <tuv lang="UK-UA" changeid="Лера9764" changedate="20171204T140747Z" creationid="nessyk" creationdate="20171106T222729Z">
+        <seg>Активний сегмент з текстом оригіналу</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Active segment target</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="nessyk" changedate="20171106T222616Z" creationid="nessyk" creationdate="20171106T222616Z">
-        <seg>Активна ціль сегмента</seg>
+      <tuv lang="UK-UA" changeid="Лера9764" changedate="20171204T140851Z" creationid="nessyk" creationdate="20171106T222616Z">
+        <seg>Активний сегмент в тексті перекладу</seg>
       </tuv>
     </tu>
     <tu>
