@@ -800,8 +800,8 @@
       <tuv lang="EN">
         <seg>&amp;Remove untranslated strings in the target files</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="Маринка" changedate="20171203T194718Z" creationid="Diman966" creationdate="20171116T200254Z">
-        <seg>&amp;Видалити неперкладені рядки у файлах перекладу</seg>
+      <tuv lang="UK-UA" changeid="Лера9764" changedate="20171204T135924Z" creationid="Diman966" creationdate="20171116T200254Z">
+        <seg>&amp;Видалити неперекладені рядки у файлах перекладу</seg>
       </tuv>
     </tu>
     <tu>
@@ -5262,8 +5262,8 @@ project_save.tmx не був завантажений, а SVN перейшов �
       <tuv lang="EN">
         <seg>Invalid file format</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="Diman966" changedate="20171116T195901Z" creationid="Diman966" creationdate="20171116T195901Z">
-        <seg>Недійсний формат файлу Invalid file format</seg>
+      <tuv lang="UK-UA" changeid="Лера9764" changedate="20171204T135841Z" creationid="Diman966" creationdate="20171116T195901Z">
+        <seg>Недійсний формат файлу</seg>
       </tuv>
     </tu>
     <tu>
@@ -7017,8 +7017,8 @@ your home folder.</seg>
       <tuv lang="EN">
         <seg>PDF Input</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="Diman966" changedate="20171116T195957Z" creationid="Diman966" creationdate="20171116T195957Z">
-        <seg>PDF вкладення PDF Input</seg>
+      <tuv lang="UK-UA" changeid="Лера9764" changedate="20171204T135851Z" creationid="Diman966" creationdate="20171116T195957Z">
+        <seg>PDF вкладення</seg>
       </tuv>
     </tu>
     <tu>
@@ -7057,8 +7057,8 @@ your home folder.</seg>
       <tuv lang="EN">
         <seg>Password-protected PDF files are not supported: {0}</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="Diman966" changedate="20171116T200038Z" creationid="Diman966" creationdate="20171116T200038Z">
-        <seg>Захимт паролем файлу PDF не піддтримується Password-protected PDF files are not supported: {0}</seg>
+      <tuv lang="UK-UA" changeid="Лера9764" changedate="20171204T135902Z" creationid="Diman966" creationdate="20171116T200038Z">
+        <seg>Захимт паролем файлу PDF не піддтримується: {0}</seg>
       </tuv>
     </tu>
     <tu>
@@ -9658,8 +9658,8 @@ The scope of a search is by default the project and can be set to be any files l
       <tuv lang="EN">
         <seg>Text Filter Options</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="Diman966" changedate="20171116T200330Z" creationid="Diman966" creationdate="20171116T200330Z">
-        <seg>Функції текстового фільтру Text Filter Options</seg>
+      <tuv lang="UK-UA" changeid="Лера9764" changedate="20171204T135939Z" creationid="Diman966" creationdate="20171116T200330Z">
+        <seg>Функції текстового фільтру</seg>
       </tuv>
     </tu>
     <tu>
@@ -11113,8 +11113,8 @@ Both exact and keyword searches support the wildcard characters * and ?.</seg>
       <tuv lang="EN">
         <seg>Windows Resources</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="Diman966" changedate="20171116T200054Z" creationid="Diman966" creationdate="20171116T200054Z">
-        <seg>Ресурси Windwos Windows Resources</seg>
+      <tuv lang="UK-UA" changeid="Лера9764" changedate="20171204T135918Z" creationid="Diman966" creationdate="20171116T200054Z">
+        <seg>Ресурси Windows </seg>
       </tuv>
     </tu>
     <tu>
