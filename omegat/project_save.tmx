@@ -5206,8 +5206,8 @@ project_save.tmx не був завантажений, а SVN перейшов �
       <tuv lang="EN">
         <seg>Insert Unicode Control Character</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="Маринка" changedate="20171114T213939Z" creationid="Маринка" creationdate="20171114T213939Z">
-        <seg>Вставити Unicode Control Character</seg>
+      <tuv lang="UK-UA" changeid="Маринка" changedate="20171204T164357Z" creationid="Маринка" creationdate="20171114T213939Z">
+        <seg>Вставити керуючий символ Юнікодуr</seg>
       </tuv>
     </tu>
     <tu>
@@ -5756,10 +5756,18 @@ project_save.tmx не був завантажений, а SVN перейшов �
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Left-to-Right Embedding (LRE U+202A)</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Маринка" changedate="20171204T164547Z" creationid="Маринка" creationdate="20171204T163630Z">
+        <seg>вставлення тексту зліва направо (LRE U+202A)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Left-to-Right Mark (LRM U+200E)</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="Маринка" changedate="20171114T213946Z" creationid="Маринка" creationdate="20171114T213946Z">
-        <seg>Left-to-Right Mark (LRM U+200E)</seg>
+      <tuv lang="UK-UA" changeid="Маринка" changedate="20171204T164751Z" creationid="Маринка" creationdate="20171114T213946Z">
+        <seg>Знак зліва направо (LRM U+200E)</seg>
       </tuv>
     </tu>
     <tu>
@@ -6825,8 +6833,8 @@ your home folder.</seg>
       <tuv lang="EN">
         <seg>OmegaT will now terminate.</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="Маринка" changedate="20171118T195007Z" creationid="Маринка" creationdate="20171118T195007Z">
-        <seg>OmegaT will now terminate.</seg>
+      <tuv lang="UK-UA" changeid="Маринка" changedate="20171204T164945Z" creationid="Маринка" creationdate="20171118T195007Z">
+        <seg>OmegaT припиняє роботу.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7356,6 +7364,14 @@ additional steps need to be taken.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Лера9764" changedate="20171102T163202Z" creationid="Лера9764" creationdate="20171102T163202Z">
         <seg>Польська</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Pop Directional Formatting (PDF U+202C)</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Маринка" changedate="20171204T164708Z" creationid="Маринка" creationdate="20171204T164708Z">
+        <seg>Формат PDF (PDF U+202C)</seg>
       </tuv>
     </tu>
     <tu>
@@ -8200,6 +8216,22 @@ project without team functionality.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Tetiana21" changedate="20171105T131552Z" creationid="Tetiana21" creationdate="20171105T131552Z">
         <seg>Reviews of OmegaT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Right-to-Left Embedding (RLE U+202B)</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Маринка" changedate="20171204T164641Z" creationid="Маринка" creationdate="20171204T164400Z">
+        <seg>вставлення тексту справа наліво (RLE U+202B)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Right-to-Left Mark (RLM U+200F)</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Маринка" changedate="20171204T164805Z" creationid="Маринка" creationdate="20171204T164805Z">
+        <seg>Знак справа наліво (RLM U+200F)</seg>
       </tuv>
     </tu>
     <tu>
