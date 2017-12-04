@@ -1962,10 +1962,10 @@ The current setting is {0}MB;</seg>
 {0}
 The TMX file will not be loaded.</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="Маринка" changedate="20171126T175629Z" creationid="Маринка" creationdate="20171121T210727Z">
+      <tuv lang="UK-UA" changeid="Лера9764" changedate="20171204T135512Z" creationid="Маринка" creationdate="20171121T210727Z">
         <seg>Виникла помилка при аналізі TMX файлу
 {0}
- Файл TMX не вдається завантажити.</seg>
+Файл TMX не вдається завантажити.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5590,8 +5590,8 @@ project_save.tmx не був завантажений, а SVN перейшов �
       <tuv lang="EN">
         <seg>Language not specified for translation unit variant.</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="Лера9764" changedate="20171117T154329Z" creationid="Diman966" creationdate="20171116T195041Z">
-        <seg>Не вказана мова для перекладу одиниці варіанту. </seg>
+      <tuv lang="UK-UA" changeid="Лера9764" changedate="20171204T135813Z" creationid="Diman966" creationdate="20171116T195041Z">
+        <seg>Не вказана мова для варіанту перекладу. </seg>
       </tuv>
     </tu>
     <tu>
