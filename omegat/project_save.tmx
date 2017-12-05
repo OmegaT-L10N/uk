@@ -2094,9 +2094,9 @@ The TMX file will not be loaded.</seg>
 all settings will be at their defaults, due to which you
 may experience unexpected, but correct behaviour.</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="nessyk" changedate="20171205T174229Z" creationid="Tetiana21" creationdate="20171118T104818Z">
+      <tuv lang="UK-UA" changeid="nessyk" changedate="20171205T174300Z" creationid="Tetiana21" creationdate="20171118T104818Z">
         <seg>В результаті цього
-всі налаштування будуть встановлюватись за замовчуванням, для вас це може бути несподіваним як, але правильна поведінка.</seg>
+всі налаштування будуть встановлюватись за замовчуванням, для вас це може бути несподіваним як, але правильним.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5161,6 +5161,18 @@ project_save.tmx не був завантажений, а SVN перейшов �
       </tuv>
       <tuv lang="UK-UA" changeid="nessyk" changedate="20171026T180013Z" creationid="nessyk" creationdate="20171026T180013Z">
         <seg>Якщо перевірка проблеми виконується повільно, спробуйте вимкнути деякі додаткові перевірки.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If later access to the desired location is granted
+that location will be used and all settings will return to
+their defaults as a result of the location change.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="nessyk" changedate="20171205T181315Z" creationid="nessyk" creationdate="20171205T181315Z">
+        <seg>Якщо пізніше доступ до потрібного місця буде надано 
+це місце розташування буде використано, і всі налаштування повернуться до
+налаштувань за замовчуванням в результаті зміни місця розташування.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10063,6 +10075,15 @@ instead.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The current folder will be used
+instead.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="nessyk" changedate="20171205T174412Z" creationid="nessyk" creationdate="20171205T174412Z">
+        <seg>Замість цього буде використана поточна папка..</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The current project must be reloaded in order to apply these changes</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="nessyk" changedate="20171026T174415Z" creationid="nessyk" creationdate="20171026T174415Z">
@@ -11698,9 +11719,9 @@ Both exact and keyword searches support the wildcard characters * and ?.</seg>
         <seg>Your operating system refused to let OmegaT
 create its configuration folder.</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="nessyk" changedate="20171205T174214Z" creationid="nessyk" creationdate="20171205T174214Z">
-        <seg>Your operating system refused to let OmegaT
-create its configuration folder.</seg>
+      <tuv lang="UK-UA" changeid="nessyk" changedate="20171205T174400Z" creationid="nessyk" creationdate="20171205T174214Z">
+        <seg>Ваша операційна система відмовилася створити для OmegaT
+ свою теку конфігурації.</seg>
       </tuv>
     </tu>
     <tu>
