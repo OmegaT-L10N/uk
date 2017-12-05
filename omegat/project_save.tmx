@@ -4952,8 +4952,8 @@ project_save.tmx не був завантажений, а SVN перейшов �
       <tuv lang="EN">
         <seg>HTMLParser 1.6 by Somik Raha, Derrick Oswald and others (LGPL License)</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="Tetiana21" changedate="20171205T150617Z" creationid="Tetiana21" creationdate="20171205T150617Z">
-        <seg>HTMLParser 1.6 розроблена Сомік Рахом, Деррік Освальдом та іншими (ліцензія LGPL )</seg>
+      <tuv lang="UK-UA" changeid="Tetiana21" changedate="20171205T150623Z" creationid="Tetiana21" creationdate="20171205T150617Z">
+        <seg>HTMLParser 1.6 розроблена Сомік Рахом, Деррік Освальдом та іншими (ліцензія LGPL)</seg>
       </tuv>
     </tu>
     <tu>
@@ -5530,6 +5530,14 @@ project_save.tmx не був завантажений, а SVN перейшов �
       </tuv>
       <tuv lang="UK-UA" changeid="Tetiana21" changedate="20171105T200749Z" creationid="Tetiana21" creationdate="20171105T200749Z">
         <seg>Java: {0} ver.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Jmyspell (LGPL License)</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Tetiana21" changedate="20171205T150758Z" creationid="Tetiana21" creationdate="20171205T150724Z">
+        <seg>Jmyspell (ліцензія LGPL)</seg>
       </tuv>
     </tu>
     <tu>
@@ -8461,6 +8469,14 @@ project without team functionality.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>SVNKit (TMate License)</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Tetiana21" changedate="20171205T150806Z" creationid="Tetiana21" creationdate="20171205T150806Z">
+        <seg>SVNKit (ліцензія TMate)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Sample Output</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="nessyk" changedate="20171025T181000Z" creationid="nessyk" creationdate="20171025T181000Z">
@@ -8971,6 +8987,14 @@ The scope of a search is by default the project and can be set to be any files l
       </tuv>
       <tuv lang="UK-UA" changeid="nessyk" changedate="20171129T185410Z" creationid="nessyk" creationdate="20171129T185410Z">
         <seg>Оберіть languagetool-server.jar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Sequence Library (Sequence Library License)</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Tetiana21" changedate="20171205T154044Z" creationid="Tetiana21" creationdate="20171205T154044Z">
+        <seg>Sequence Library (Sequence Library License)</seg>
       </tuv>
     </tu>
     <tu>
@@ -11096,6 +11120,14 @@ Exact searches match the whole search string.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Лера9764" changedate="20171102T164123Z" creationid="Лера9764" creationdate="20171102T164123Z">
         <seg>Ім'я користувача:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>VLDocking Framework (LGPL License)</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Tetiana21" changedate="20171205T150726Z" creationid="Tetiana21" creationdate="20171205T150621Z">
+        <seg>Структура - VLDocking (ліцензія LGPL)</seg>
       </tuv>
     </tu>
     <tu>
