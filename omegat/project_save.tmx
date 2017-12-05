@@ -2094,10 +2094,9 @@ The TMX file will not be loaded.</seg>
 all settings will be at their defaults, due to which you
 may experience unexpected, but correct behaviour.</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="Tetiana21" changedate="20171118T104818Z" creationid="Tetiana21" creationdate="20171118T104818Z">
-        <seg>As a result of this,
-all settings will be at their defaults, due to which you
-may experience unexpected, but correct behaviour.</seg>
+      <tuv lang="UK-UA" changeid="nessyk" changedate="20171205T174229Z" creationid="Tetiana21" creationdate="20171118T104818Z">
+        <seg>В результаті цього
+всі налаштування будуть встановлюватись за замовчуванням, для вас це може бути несподіваним як, але правильна поведінка.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10294,9 +10293,9 @@ in /lib/licenses/Licenses.txt.</seg>
         <seg>Therefore, the location of OmegaT's
 configuration folder cannot be reliably determined.</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="nessyk" changedate="20171205T173453Z" creationid="nessyk" creationdate="20171205T173453Z">
+      <tuv lang="UK-UA" changeid="nessyk" changedate="20171205T173933Z" creationid="nessyk" creationdate="20171205T173453Z">
         <seg>Тому розташування теки конфігурації OmegaT
-не може бути  визначена.</seg>
+не може бути визначено.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11692,6 +11691,16 @@ Both exact and keyword searches support the wildcard characters * and ?.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Маринка" changedate="20171126T180905Z" creationid="Маринка" creationdate="20171126T180905Z">
         <seg>У вашому проекті використовується сегментація по реченню, але файл TMX був створений за допомогою сегментації по абзацу.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Your operating system refused to let OmegaT
+create its configuration folder.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="nessyk" changedate="20171205T174214Z" creationid="nessyk" creationdate="20171205T174214Z">
+        <seg>Your operating system refused to let OmegaT
+create its configuration folder.</seg>
       </tuv>
     </tu>
     <tu>
