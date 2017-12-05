@@ -2060,8 +2060,8 @@ The TMX file will not be loaded.</seg>
       <tuv lang="EN">
         <seg>Arrays must not be null</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="Tetiana21" changedate="20171204T174543Z" creationid="Tetiana21" creationdate="20171204T174543Z">
-        <seg>Arrays must not be null</seg>
+      <tuv lang="UK-UA" changeid="Лера9764" changedate="20171205T065200Z" creationid="Tetiana21" creationdate="20171204T174543Z">
+        <seg>Рядки не повинні бути порожні</seg>
       </tuv>
     </tu>
     <tu>
@@ -3814,8 +3814,8 @@ project_save.tmx не був завантажений, а SVN перейшов �
       <tuv lang="EN">
         <seg>Edit project properties here.</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="Маринка" changedate="20171118T191747Z" creationid="Маринка" creationdate="20171118T191747Z">
-        <seg>Edit project properties here.</seg>
+      <tuv lang="UK-UA" changeid="Лера9764" changedate="20171205T064948Z" creationid="Маринка" creationdate="20171118T191747Z">
+        <seg>Редагувати властивості проекту тут.</seg>
       </tuv>
     </tu>
     <tu>
