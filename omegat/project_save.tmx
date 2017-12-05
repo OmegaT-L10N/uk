@@ -1136,8 +1136,8 @@
       <tuv lang="EN">
         <seg>&amp;Validate tags when leaving a segment</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="nessyk" changedate="20171202T195918Z" creationid="nessyk" creationdate="20171202T195918Z">
-        <seg>&amp; Перевірити теги при перемиканні сегмента</seg>
+      <tuv lang="UK-UA" changeid="Лера9764" changedate="20171205T100839Z" creationid="nessyk" creationdate="20171202T195918Z">
+        <seg>&amp; Перевірити теги при переході до іншого сегмента</seg>
       </tuv>
     </tu>
     <tu>
@@ -6224,8 +6224,8 @@ project_save.tmx не був завантажений, а SVN перейшов �
       <tuv lang="EN">
         <seg>Modification info template</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="Diman966" changedate="20171204T165157Z" creationid="Diman966" creationdate="20171204T165028Z">
-        <seg>Шаблон інформації про модифікацію  </seg>
+      <tuv lang="UK-UA" changeid="Лера9764" changedate="20171205T100703Z" creationid="Diman966" creationdate="20171204T165028Z">
+        <seg>Шаблон інформації про модифікацію</seg>
       </tuv>
     </tu>
     <tu>
@@ -6240,8 +6240,8 @@ project_save.tmx не був завантажений, а SVN перейшов �
       <tuv lang="EN">
         <seg>Modification info text</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="nessyk" changedate="20171106T223946Z" creationid="nessyk" creationdate="20171106T223946Z">
-        <seg>Modification info text</seg>
+      <tuv lang="UK-UA" changeid="Лера9764" changedate="20171205T100731Z" creationid="nessyk" creationdate="20171106T223946Z">
+        <seg>Текст інформації про модифікацію</seg>
       </tuv>
     </tu>
     <tu>
