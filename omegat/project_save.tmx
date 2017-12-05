@@ -3948,6 +3948,14 @@ project_save.tmx не був завантажений, а SVN перейшов �
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Enter a source term, a target term and a comment:</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Лера9764" changedate="20171205T101051Z" creationid="Лера9764" creationdate="20171205T101006Z">
+        <seg>Введіть термін мовою оригіналу, переклад терміну та коментар:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Enter the segment number:</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Маринка" changedate="20171101T205136Z" creationid="Маринка" creationdate="20171101T205136Z">
@@ -9261,8 +9269,8 @@ The scope of a search is by default the project and can be set to be any files l
       <tuv lang="EN">
         <seg>Source term:</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="Маринка" changedate="20171118T210907Z" creationid="Diman966" creationdate="20171116T210231Z">
-        <seg>Термін оригіналу:</seg>
+      <tuv lang="UK-UA" changeid="Лера9764" changedate="20171205T101037Z" creationid="Diman966" creationdate="20171116T210231Z">
+        <seg>Термін:</seg>
       </tuv>
     </tu>
     <tu>
@@ -9655,8 +9663,8 @@ The scope of a search is by default the project and can be set to be any files l
       <tuv lang="EN">
         <seg>Target term:</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="Лера9764" changedate="20171118T090317Z" creationid="Diman966" creationdate="20171116T210248Z">
-        <seg>Переклад терміну</seg>
+      <tuv lang="UK-UA" changeid="Лера9764" changedate="20171205T101042Z" creationid="Diman966" creationdate="20171116T210248Z">
+        <seg>Переклад:</seg>
       </tuv>
     </tu>
     <tu>
