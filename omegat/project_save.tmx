@@ -1614,6 +1614,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>ANTLR (ANTLR 3 License)</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Tetiana21" changedate="20171205T154056Z" creationid="Tetiana21" creationdate="20171205T154056Z">
+        <seg>ANTLR (ліцензія ANTLR 3)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>API Key:</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="nessyk" changedate="20171109T202258Z" creationid="nessyk" creationdate="20171109T202258Z">
@@ -3368,6 +3376,14 @@ may experience unexpected, but correct behaviour.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Tetiana21" changedate="20171205T143434Z" creationid="Diman966" creationdate="20171116T201622Z">
         <seg>Менеджер проекту OmegaT - Дідієр Бріль.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Diff (GPL)</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Tetiana21" changedate="20171205T173159Z" creationid="Tetiana21" creationdate="20171205T173159Z">
+        <seg>Різниця (GPL)</seg>
       </tuv>
     </tu>
     <tu>
@@ -5498,6 +5514,22 @@ project_save.tmx не був завантажений, а SVN перейшов �
       </tuv>
       <tuv lang="UK-UA" changeid="Tetiana21" changedate="20171105T174432Z" creationid="Tetiana21" creationdate="20171105T174432Z">
         <seg>Файли JAR </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>JGit (Eclipse Distribution License)</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Tetiana21" changedate="20171205T154108Z" creationid="Tetiana21" creationdate="20171205T154108Z">
+        <seg>JGit (Eclipse Distribution License)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>JSch (JSch License)</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Tetiana21" changedate="20171205T154135Z" creationid="Tetiana21" creationdate="20171205T154135Z">
+        <seg>JSch (ліцензія JSch)</seg>
       </tuv>
     </tu>
     <tu>
@@ -8433,6 +8465,14 @@ project without team functionality.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="nessyk" changedate="20171202T181725Z" creationid="nessyk" creationdate="20171202T181725Z">
         <seg>S&amp;witch Case To</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>SQLJet (GPL License)</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Tetiana21" changedate="20171205T154111Z" creationid="Tetiana21" creationdate="20171205T154105Z">
+        <seg>SQLJet (ліцензія GPL)</seg>
       </tuv>
     </tu>
     <tu>
@@ -11706,6 +11746,14 @@ Both exact and keyword searches support the wildcard characters * and ?.</seg>
       <tuv lang="UK-UA" changeid="Маринка" changedate="20171118T194907Z" creationid="Маринка" creationdate="20171118T194907Z">
         <seg>init &lt;source language&gt; &lt;target language&gt;
 		Initialize a minimal team project with the specified languages.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>jsch-agent-proxy (jsch-agent-proxy License)</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Tetiana21" changedate="20171205T154149Z" creationid="Tetiana21" creationdate="20171205T154149Z">
+        <seg>jsch-agent-proxy (jsch-agent-proxy License)</seg>
       </tuv>
     </tu>
     <tu>
