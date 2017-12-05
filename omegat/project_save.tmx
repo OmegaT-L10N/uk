@@ -5481,6 +5481,16 @@ their defaults as a result of the location change.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>It was not possible to create the script folder
+inside the configuration folder.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="nessyk" changedate="20171205T181442Z" creationid="nessyk" creationdate="20171205T181442Z">
+        <seg>Не вдалося створити теку скриптів
+всередині теки конфігурації.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>It was not possible to create translated documents, because some tags are missing or damaged.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Маринка" changedate="20171026T191716Z" creationid="Маринка" creationdate="20171026T191716Z">
@@ -10068,9 +10078,9 @@ Please try to correct the error and reload the project.</seg>
         <seg>The configuration folder will be used
 instead.</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="nessyk" changedate="20171025T175527Z" creationid="nessyk" creationdate="20171025T175527Z">
-        <seg>The configuration folder will be used
-instead.</seg>
+      <tuv lang="UK-UA" changeid="nessyk" changedate="20171205T181507Z" creationid="nessyk" creationdate="20171025T175527Z">
+        <seg>Папка конфігурації буде використана
+замість цього.</seg>
       </tuv>
     </tu>
     <tu>
