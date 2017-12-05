@@ -2640,6 +2640,16 @@ may experience unexpected, but correct behaviour.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Code has been contributed by:
+{0}</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Tetiana21" changedate="20171205T143416Z" creationid="Tetiana21" creationdate="20171205T143416Z">
+        <seg>Code has been contributed by:
+{0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Colours</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="nessyk" changedate="20171106T221049Z" creationid="nessyk" creationdate="20171106T221044Z">
@@ -3356,8 +3366,8 @@ may experience unexpected, but correct behaviour.</seg>
       <tuv lang="EN">
         <seg>Didier Briel is the OmegaT project manager.</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="Diman966" changedate="20171116T201622Z" creationid="Diman966" creationdate="20171116T201622Z">
-        <seg>Дідієр Бріль менеджер проетку OmegaT. Didier Briel is the OmegaT project manager.</seg>
+      <tuv lang="UK-UA" changeid="Tetiana21" changedate="20171205T143434Z" creationid="Diman966" creationdate="20171116T201622Z">
+        <seg>Менеджер проекту OmegaT - Дідієр Бріль.</seg>
       </tuv>
     </tu>
     <tu>
