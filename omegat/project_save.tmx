@@ -4950,6 +4950,14 @@ project_save.tmx не був завантажений, а SVN перейшов �
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>HTMLParser 1.6 by Somik Raha, Derrick Oswald and others (LGPL License)</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Tetiana21" changedate="20171205T150617Z" creationid="Tetiana21" creationdate="20171205T150617Z">
+        <seg>HTMLParser 1.6 розроблена Сомік Рахом, Деррік Освальдом та іншими (ліцензія LGPL )</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>HTTP(S)</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Tetiana21" changedate="20171116T193735Z" creationid="Tetiana21" creationdate="20171116T193735Z">
@@ -6910,6 +6918,16 @@ your home folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>OmegaT uses the following libraries:
+{1}</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Tetiana21" changedate="20171205T150437Z" creationid="Tetiana21" creationdate="20171205T150437Z">
+        <seg>OmegaT користується наступними бібліотеками:
+{1}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>OmegaT version {0} ({1})</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Tetiana21" changedate="20171205T110016Z" creationid="Tetiana21" creationdate="20171205T110016Z">
@@ -8673,6 +8691,14 @@ The scope of a search is by default the project and can be set to be any files l
       </tuv>
       <tuv lang="UK-UA" changeid="Лера9764" changedate="20171116T142348Z" creationid="Лера9764" creationdate="20171116T142348Z">
         <seg>Див. "Розділ 3.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>See /docs/contributors.txt</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Tetiana21" changedate="20171205T150506Z" creationid="Tetiana21" creationdate="20171205T150439Z">
+        <seg>Дивіться /docs/contributors.txt</seg>
       </tuv>
     </tu>
     <tu>
