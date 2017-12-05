@@ -718,6 +718,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Preserve spaces for all tags</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Tetiana21" changedate="20171204T215706Z" creationid="Tetiana21" creationdate="20171204T215706Z">
+        <seg>&amp;Зберігати пробіли для всіх тегів</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;Previous Segment</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20170902T182528Z" creationid="Kos Ivantsov" creationdate="20170902T182528Z">
@@ -6884,6 +6892,22 @@ your home folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>OmegaT version {0} ({1})</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Tetiana21" changedate="20171205T110016Z" creationid="Tetiana21" creationdate="20171205T110016Z">
+        <seg>версія OmegaT  {0} ({1})</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>OmegaT version {0}, update {1} ({2})</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Tetiana21" changedate="20171205T110104Z" creationid="Tetiana21" creationdate="20171205T110104Z">
+        <seg>версія OmegaT  {0}, оновлення {1} ({2})</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>OmegaT will now terminate.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Маринка" changedate="20171204T164945Z" creationid="Маринка" creationdate="20171118T195007Z">
@@ -9385,6 +9409,14 @@ The scope of a search is by default the project and can be set to be any files l
       </tuv>
       <tuv lang="UK-UA" changeid="nessyk" changedate="20171101T185005Z" creationid="nessyk" creationdate="20171101T185005Z">
         <seg>Почати цільвий елаймент (вирівнювання)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Start a New Paragraph &amp;on Word Soft Return</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Tetiana21" changedate="20171205T110002Z" creationid="Tetiana21" creationdate="20171205T110002Z">
+        <seg>Start a New Paragraph &amp;on Word Soft Return</seg>
       </tuv>
     </tu>
     <tu>
