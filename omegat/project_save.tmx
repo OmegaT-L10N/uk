@@ -2643,8 +2643,8 @@ may experience unexpected, but correct behaviour.</seg>
         <seg>Code has been contributed by:
 {0}</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="Tetiana21" changedate="20171205T143416Z" creationid="Tetiana21" creationdate="20171205T143416Z">
-        <seg>Code has been contributed by:
+      <tuv lang="UK-UA" changeid="Tetiana21" changedate="20171205T150237Z" creationid="Tetiana21" creationdate="20171205T143416Z">
+        <seg>Код був написаний:
 {0}</seg>
       </tuv>
     </tu>
@@ -7122,6 +7122,14 @@ your home folder.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Маринка" changedate="20171118T212230Z" creationid="Diman966" creationdate="20171116T200948Z">
         <seg>Інші функції:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Other contributions are detailed in the readme.txt file</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Tetiana21" changedate="20171205T150352Z" creationid="Tetiana21" creationdate="20171205T150239Z">
+        <seg>Інші внески описані у файлі readme.txt </seg>
       </tuv>
     </tu>
     <tu>
