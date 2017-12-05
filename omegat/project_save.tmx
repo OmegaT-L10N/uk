@@ -4000,8 +4000,8 @@ project_save.tmx не був завантажений, а SVN перейшов �
       <tuv lang="EN">
         <seg>Enter a source term, a target term and a comment:</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="Лера9764" changedate="20171205T101051Z" creationid="Лера9764" creationdate="20171205T101006Z">
-        <seg>Введіть термін мовою оригіналу, переклад терміну та коментар:</seg>
+      <tuv lang="UK-UA" changeid="nessyk" changedate="20171205T172849Z" creationid="nessyk" creationdate="20171205T172849Z">
+        <seg>Enter a source term, a target term and a comment:</seg>
       </tuv>
     </tu>
     <tu>
@@ -4872,8 +4872,8 @@ project_save.tmx не був завантажений, а SVN перейшов �
       <tuv lang="EN">
         <seg>Glossary file: {0}</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="Diman966" changedate="20171204T170728Z" creationid="Diman966" creationdate="20171204T170728Z">
-        <seg>Файл глосарія: {0}</seg>
+      <tuv lang="UK-UA" changeid="nessyk" changedate="20171205T172914Z" creationid="nessyk" creationdate="20171205T172914Z">
+        <seg>Файл глосарію: {0}</seg>
       </tuv>
     </tu>
     <tu>
@@ -5234,6 +5234,14 @@ project_save.tmx не був завантажений, а SVN перейшов �
       </tuv>
       <tuv lang="UK-UA" changeid="Tetiana21" changedate="20171105T183313Z" creationid="Tetiana21" creationdate="20171105T183313Z">
         <seg>У джерелі </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Include the &amp;first non-unique segment when marking non-unique segments</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="nessyk" changedate="20171205T172841Z" creationid="nessyk" creationdate="20171205T172841Z">
+        <seg>Include the &amp;first non-unique segment when marking non-unique segments</seg>
       </tuv>
     </tu>
     <tu>
@@ -6942,10 +6950,10 @@ published by the Free Software Foundation, either version 3 of the License, or
 the name of your OS and/or the system property containing
 your home folder.</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="Tetiana21" changedate="20171118T110644Z" creationid="Tetiana21" creationdate="20171118T110644Z">
-        <seg>OmegaT is refused access to the system property containing
-the name of your OS and/or the system property containing
-your home folder.</seg>
+      <tuv lang="UK-UA" changeid="nessyk" changedate="20171205T173830Z" creationid="Tetiana21" creationdate="20171118T110644Z">
+        <seg>OmegaT відмовлено у доступі до системи, що містить
+ім'я вашої ОС та / або  системи, що містить
+вашу домашню теку.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9859,8 +9867,8 @@ The scope of a search is by default the project and can be set to be any files l
       <tuv lang="EN">
         <seg>Team Options</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="Diman966" changedate="20171204T164107Z" creationid="Diman966" creationdate="20171204T164107Z">
-        <seg>Командні опції</seg>
+      <tuv lang="UK-UA" changeid="nessyk" changedate="20171205T173009Z" creationid="nessyk" creationdate="20171205T173009Z">
+        <seg>Командні налаштування </seg>
       </tuv>
     </tu>
     <tu>
@@ -9991,6 +9999,15 @@ The scope of a text replacement is the target segments of the project, whether t
       </tuv>
       <tuv lang="UK-UA" changeid="nessyk" changedate="20171113T220851Z" creationid="nessyk" creationdate="20171113T220832Z">
         <seg>Текст буде видалено</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The
+current folder will be used instead.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="nessyk" changedate="20171205T173925Z" creationid="nessyk" creationdate="20171205T173925Z">
+        <seg>Замість цього буде використана поточна папка.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10270,6 +10287,16 @@ in /lib/licenses/Licenses.txt.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="nessyk" changedate="20171202T181427Z" creationid="nessyk" creationdate="20171202T181427Z">
         <seg>Сталася помилка при ініціалізації мовного інструменту</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Therefore, the location of OmegaT's
+configuration folder cannot be reliably determined.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="nessyk" changedate="20171205T173453Z" creationid="nessyk" creationdate="20171205T173453Z">
+        <seg>Тому розташування теки конфігурації OmegaT
+не може бути  визначена.</seg>
       </tuv>
     </tu>
     <tu>
