@@ -1166,6 +1166,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;value (of form input, including button, submit and reset)</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Tetiana21" changedate="20171206T194632Z" creationid="Tetiana21" creationdate="20171206T194632Z">
+        <seg>&amp;value ()</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>'*' matches zero or more characters ('run*' matches 'run', 'runs', and'running', etc.)
 '?' matches exactly one character ('run?' matches 'runs' and 'rung', but not 'run' or 'running').</seg>
       </tuv>
@@ -11824,6 +11832,14 @@ create its configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>h&amp;reflang (language of links)</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Tetiana21" changedate="20171206T194618Z" creationid="Tetiana21" creationdate="20171206T194618Z">
+        <seg>h&amp;reflang (мова посилання)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>href (URL of &amp;links)</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Лера9764" changedate="20171102T161350Z" creationid="Лера9764" creationdate="20171102T161350Z">
@@ -11862,6 +11878,14 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Tetiana21" changedate="20171205T154149Z" creationid="Tetiana21" creationdate="20171205T154149Z">
         <seg>jsch-agent-proxy (jsch-agent-proxy License)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>lan&amp;g (language attribute)</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Tetiana21" changedate="20171206T194606Z" creationid="Tetiana21" creationdate="20171206T194606Z">
+        <seg>lan&amp;g (атрибут мови)</seg>
       </tuv>
     </tu>
     <tu>
