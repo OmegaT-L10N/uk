@@ -1977,8 +1977,18 @@ The current setting is {0}MB;</seg>
         <seg>An error occurred while processing a project change event:
 {0}</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="nessyk" changedate="20171207T183502Z" creationid="nessyk" creationdate="20171207T183502Z">
-        <seg>Під час обробки зміни проекту сталася помилка:
+      <tuv lang="UK-UA" changeid="nessyk" changedate="20171207T184349Z" creationid="nessyk" creationdate="20171207T183502Z">
+        <seg>Під час спроби зміни проекту сталася помилка:
+{0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>An error occurred while processing an application shutdown event:
+{0}</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="nessyk" changedate="20171207T184531Z" creationid="nessyk" creationdate="20171207T184531Z">
+        <seg> Під час спроби закриття програми виникла помилка:
 {0}</seg>
       </tuv>
     </tu>
@@ -4253,6 +4263,14 @@ project_save.tmx не був завантажений, а SVN перейшов �
       </tuv>
       <tuv lang="UK-UA" changeid="nessyk" changedate="20171025T184208Z" creationid="nessyk" creationdate="20171025T184208Z">
         <seg>Вийти</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Event: application shutdown</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="nessyk" changedate="20171207T184338Z" creationid="nessyk" creationdate="20171207T184338Z">
+        <seg>Event: application shutdown</seg>
       </tuv>
     </tu>
     <tu>
