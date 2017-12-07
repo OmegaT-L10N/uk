@@ -1184,6 +1184,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>'{0}' menu selected</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="nessyk" changedate="20171207T183350Z" creationid="nessyk" creationdate="20171207T183325Z">
+        <seg>'{0}'Вибрано меню  &lt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>(+{0} more)</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Лера9764" changedate="20171110T193026Z" creationid="Лера9764" creationdate="20171110T193026Z">
@@ -1962,6 +1970,26 @@ The current setting is {0}MB;</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="nessyk" changedate="20171106T221810Z" creationid="nessyk" creationdate="20171106T221810Z">
         <seg>Під час відкриття елемента сталася помилка.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>An error occurred while processing a project change event:
+{0}</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="nessyk" changedate="20171207T183502Z" creationid="nessyk" creationdate="20171207T183502Z">
+        <seg>Під час обробки зміни проекту сталася помилка:
+{0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>An error occurred while processing an application startup event:
+{0}</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="nessyk" changedate="20171207T184336Z" creationid="nessyk" creationdate="20171207T184336Z">
+        <seg>Під час спроби запуску додатка сталася помилка:
+{0}</seg>
       </tuv>
     </tu>
     <tu>
@@ -4225,6 +4253,22 @@ project_save.tmx не був завантажений, а SVN перейшов �
       </tuv>
       <tuv lang="UK-UA" changeid="nessyk" changedate="20171025T184208Z" creationid="nessyk" creationdate="20171025T184208Z">
         <seg>Вийти</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Event: application startup</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="nessyk" changedate="20171207T183522Z" creationid="nessyk" creationdate="20171207T183522Z">
+        <seg>Дія: запуск програми</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Event: project change - "{0}"</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="nessyk" changedate="20171207T183427Z" creationid="nessyk" creationdate="20171207T183326Z">
+        <seg>Дія: зміна проекту - "{0}""</seg>
       </tuv>
     </tu>
     <tu>
