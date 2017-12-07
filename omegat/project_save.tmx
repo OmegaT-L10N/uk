@@ -574,6 +574,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Lower Case</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="nessyk" changedate="20171207T185513Z" creationid="nessyk" creationdate="20171207T185513Z">
+        <seg>&amp;Шрифт нижнього регістру</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;Make the segmentation rules project specific</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Маринка" changedate="20171106T204606Z" creationid="Маринка" creationdate="20171106T204606Z">
@@ -4299,6 +4307,14 @@ project_save.tmx не був завантажений, а SVN перейшов �
       </tuv>
       <tuv lang="UK-UA" changeid="nessyk" changedate="20171207T183522Z" creationid="nessyk" creationdate="20171207T183522Z">
         <seg>Дія: запуск програми</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Event: font changed</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="nessyk" changedate="20171207T185140Z" creationid="nessyk" creationdate="20171207T185140Z">
+        <seg>Event: font changed</seg>
       </tuv>
     </tu>
     <tu>
@@ -10493,6 +10509,14 @@ the server.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="nessyk" changedate="20171125T150819Z" creationid="nessyk" creationdate="20171118T191025Z">
         <seg>Ця URL-адреса є недійсною.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This call MUST be in swing thread</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="nessyk" changedate="20171207T185218Z" creationid="nessyk" creationdate="20171207T185218Z">
+        <seg>This call MUST be in swing thread</seg>
       </tuv>
     </tu>
     <tu>
