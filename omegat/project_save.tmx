@@ -2629,6 +2629,14 @@ may experience unexpected, but correct behaviour.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Click on '{0}' menu item</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="nessyk" changedate="20171207T183324Z" creationid="nessyk" creationdate="20171207T183324Z">
+        <seg>Натисніть на"{0}" пункт меню </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Clo&amp;se</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Tetiana21" changedate="20171119T133859Z" creationid="Маринка" creationdate="20171101T205711Z">
