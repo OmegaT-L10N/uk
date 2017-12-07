@@ -1974,6 +1974,16 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>An error occurred while processing a new file event:
+{0}</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="nessyk" changedate="20171207T184653Z" creationid="nessyk" creationdate="20171207T184608Z">
+        <seg>Під час обробки нової дії у файлі сталася помилка:
+{0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>An error occurred while processing a project change event:
 {0}</seg>
       </tuv>
@@ -1987,8 +1997,8 @@ The current setting is {0}MB;</seg>
         <seg>An error occurred while processing an application shutdown event:
 {0}</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="nessyk" changedate="20171207T184531Z" creationid="nessyk" creationdate="20171207T184531Z">
-        <seg> Під час спроби закриття програми виникла помилка:
+      <tuv lang="UK-UA" changeid="nessyk" changedate="20171207T184612Z" creationid="nessyk" creationdate="20171207T184531Z">
+        <seg> Під час спроби закриття програми сталася помилка:
 {0}</seg>
       </tuv>
     </tu>
@@ -4279,6 +4289,22 @@ project_save.tmx не був завантажений, а SVN перейшов �
       </tuv>
       <tuv lang="UK-UA" changeid="nessyk" changedate="20171207T183522Z" creationid="nessyk" creationdate="20171207T183522Z">
         <seg>Дія: запуск програми</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Event: new entry activated</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="nessyk" changedate="20171207T184848Z" creationid="nessyk" creationdate="20171207T184848Z">
+        <seg>Дія: активовано новий вхід</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Event: new file activated ({0})</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="nessyk" changedate="20171207T184535Z" creationid="nessyk" creationdate="20171207T184535Z">
+        <seg>Event: new file activated ({0})</seg>
       </tuv>
     </tu>
     <tu>
