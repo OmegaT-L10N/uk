@@ -3605,6 +3605,14 @@ may experience unexpected, but correct behaviour.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Displays the translation memories segments that match the source segment.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Лера9764" changedate="20171208T182411Z" creationid="Лера9764" creationdate="20171208T182411Z">
+        <seg>Відобразити сегменти з памяті перекладу, які збігаються з сегментами тексту оригіналу.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Distance</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="nessyk" changedate="20171101T184230Z" creationid="nessyk" creationdate="20171101T184211Z">
