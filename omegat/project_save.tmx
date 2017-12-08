@@ -3607,8 +3607,8 @@ may experience unexpected, but correct behaviour.</seg>
       <tuv lang="EN">
         <seg>Displays comments in the active segment if they exist in the source file and the file filter supports it (e.g. PO-filter).</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="Лера9764" changedate="20171208T182908Z" creationid="Лера9764" creationdate="20171208T182908Z">
-        <seg>Відображає коментарі в активному сегменті, якщо вони існують у файлі оригіналу та їх підтримує фільтер файлу. (e.g. PO-filter).</seg>
+      <tuv lang="UK-UA" changeid="Лера9764" changedate="20171208T182919Z" creationid="Лера9764" creationdate="20171208T182908Z">
+        <seg>Відображає коментарі в активному сегменті, якщо вони існують у файлі оригіналу та їх підтримує фільтр файлу. (e.g. PO-filter).</seg>
       </tuv>
     </tu>
     <tu>
