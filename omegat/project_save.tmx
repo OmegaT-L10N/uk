@@ -1934,6 +1934,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Allows to view, add, remove or edit a note in the active segment.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Лера9764" changedate="20171208T182616Z" creationid="Лера9764" creationdate="20171208T182616Z">
+        <seg>Дозволяє переглядати, додавати, вилучати або редагувати примітку в активному сегменті.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Alternative Language</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="nessyk" changedate="20171126T110733Z" creationid="nessyk" creationdate="20171126T110733Z">
@@ -3597,6 +3605,14 @@ may experience unexpected, but correct behaviour.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Displays comments in the active segment if they exist in the source file and the file filter supports it (e.g. PO-filter).</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Лера9764" changedate="20171208T182908Z" creationid="Лера9764" creationdate="20171208T182908Z">
+        <seg>Відображає коментарі в активному сегменті, якщо вони існують у файлі оригіналу та їх підтримує фільтер файлу. (e.g. PO-filter).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Displays the entries as "&lt;target&gt; → &lt;source&gt;"</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="nessyk" changedate="20171118T184912Z" creationid="nessyk" creationdate="20171113T214551Z">
@@ -3607,8 +3623,8 @@ may experience unexpected, but correct behaviour.</seg>
       <tuv lang="EN">
         <seg>Displays the translation memories segments that match the source segment.</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="Лера9764" changedate="20171208T182411Z" creationid="Лера9764" creationdate="20171208T182411Z">
-        <seg>Відобразити сегменти з памяті перекладу, які збігаються з сегментами тексту оригіналу.</seg>
+      <tuv lang="UK-UA" changeid="Лера9764" changedate="20171208T182649Z" creationid="Лера9764" creationdate="20171208T182411Z">
+        <seg>Відобразити сегменти з пам'яті перекладу, які збігаються з сегментами тексту оригіналу.</seg>
       </tuv>
     </tu>
     <tu>
