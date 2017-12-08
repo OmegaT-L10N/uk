@@ -2029,8 +2029,8 @@ The current setting is {0}MB;</seg>
         <seg>An error occurred while processing an application shutdown event:
 {0}</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="nessyk" changedate="20171207T184612Z" creationid="nessyk" creationdate="20171207T184531Z">
-        <seg> Під час спроби закриття програми сталася помилка:
+      <tuv lang="UK-UA" changeid="Лера9764" changedate="20171208T183141Z" creationid="nessyk" creationdate="20171207T184531Z">
+        <seg> Під час спроби закриття додатка сталася помилка:
 {0}</seg>
       </tuv>
     </tu>
@@ -4345,8 +4345,8 @@ project_save.tmx не був завантажений, а SVN перейшов �
       <tuv lang="EN">
         <seg>Event: application startup</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="nessyk" changedate="20171207T183522Z" creationid="nessyk" creationdate="20171207T183522Z">
-        <seg>Дія: запуск програми</seg>
+      <tuv lang="UK-UA" changeid="Лера9764" changedate="20171208T183130Z" creationid="nessyk" creationdate="20171207T183522Z">
+        <seg>Дія: запуск додатка</seg>
       </tuv>
     </tu>
     <tu>
