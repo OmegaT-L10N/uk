@@ -3881,8 +3881,8 @@ project_save.tmx не був завантажений, а SVN перейшов �
       <tuv lang="EN">
         <seg>E&amp;nable Sentence-level Segmenting</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="Маринка" changedate="20171118T203323Z" creationid="Маринка" creationdate="20171118T203323Z">
-        <seg>E&amp;nable Sentence-level Segmenting</seg>
+      <tuv lang="UK-UA" changeid="Маринка" changedate="20171209T215956Z" creationid="Маринка" creationdate="20171118T203323Z">
+        <seg>&amp;Увімкнути сегментування по реченню</seg>
       </tuv>
     </tu>
     <tu>
@@ -8300,8 +8300,8 @@ project without team functionality.</seg>
       <tuv lang="EN">
         <seg>Remaining Characters (including spaces)</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="Маринка" changedate="20171114T214832Z" creationid="Маринка" creationdate="20171114T214832Z">
-        <seg>Remaining Characters (including spaces)</seg>
+      <tuv lang="UK-UA" changeid="Маринка" changedate="20171209T215758Z" creationid="Маринка" creationdate="20171114T214832Z">
+        <seg>Залишилось символів (з пробілами)</seg>
       </tuv>
     </tu>
     <tu>
@@ -10822,7 +10822,7 @@ the server.</seg>
       <tuv lang="EN">
         <seg>Total Characters (including spaces)</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="sergl" changedate="20171117T144627Z" creationid="Маринка" creationdate="20171114T214830Z">
+      <tuv lang="UK-UA" changeid="Маринка" changedate="20171209T215747Z" creationid="Маринка" creationdate="20171114T214830Z">
         <seg>Всього символів (з пробілами)</seg>
       </tuv>
     </tu>
@@ -11314,8 +11314,8 @@ Exact searches match the whole search string.</seg>
       <tuv lang="EN">
         <seg>Unique Remaining Characters (including spaces)</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="Маринка" changedate="20171114T214846Z" creationid="Маринка" creationdate="20171114T214846Z">
-        <seg>Unique Remaining Characters (including spaces)</seg>
+      <tuv lang="UK-UA" changeid="Маринка" changedate="20171209T215819Z" creationid="Маринка" creationdate="20171114T214846Z">
+        <seg>Залишилось унікальних символів (з пробілами)</seg>
       </tuv>
     </tu>
     <tu>
