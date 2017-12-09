@@ -3889,8 +3889,8 @@ project_save.tmx не був завантажений, а SVN перейшов �
       <tuv lang="EN">
         <seg>E&amp;xport Selection</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="Маринка" changedate="20171106T203839Z" creationid="Маринка" creationdate="20171106T203839Z">
-        <seg>E&amp;xport Selection</seg>
+      <tuv lang="UK-UA" changeid="Маринка" changedate="20171209T211924Z" creationid="Маринка" creationdate="20171106T203839Z">
+        <seg>Е&amp;кспортувати виділений текст</seg>
       </tuv>
     </tu>
     <tu>
@@ -5517,8 +5517,8 @@ their defaults as a result of the location change.</seg>
       <tuv lang="EN">
         <seg>Insert Unicode Control Character</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="Маринка" changedate="20171204T164357Z" creationid="Маринка" creationdate="20171114T213939Z">
-        <seg>Вставити керуючий символ Юнікодуr</seg>
+      <tuv lang="UK-UA" changeid="Маринка" changedate="20171209T211943Z" creationid="Маринка" creationdate="20171114T213939Z">
+        <seg>Вставити керуючий символ Юнікоду</seg>
       </tuv>
     </tu>
     <tu>
@@ -8172,8 +8172,8 @@ project without team functionality.</seg>
       <tuv lang="EN">
         <seg>R&amp;eplace with Match or Selection</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="Маринка" changedate="20171106T203750Z" creationid="Маринка" creationdate="20171106T203750Z">
-        <seg>R&amp;eplace with Match or Selection</seg>
+      <tuv lang="UK-UA" changeid="Маринка" changedate="20171209T211902Z" creationid="Маринка" creationdate="20171106T203750Z">
+        <seg>З&amp;амінити зібгом або виділеним текстом</seg>
       </tuv>
     </tu>
     <tu>
