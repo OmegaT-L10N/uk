@@ -5461,8 +5461,8 @@ their defaults as a result of the location change.</seg>
       <tuv lang="EN">
         <seg>Individual File Statistics:</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="Маринка" changedate="20171114T214541Z" creationid="Маринка" creationdate="20171114T214541Z">
-        <seg>Статистики індивідуальних файлів:</seg>
+      <tuv lang="UK-UA" changeid="Маринка" changedate="20171209T215543Z" creationid="Маринка" creationdate="20171114T214541Z">
+        <seg>Статистики по окремих файлах:</seg>
       </tuv>
     </tu>
     <tu>
@@ -8308,8 +8308,8 @@ project without team functionality.</seg>
       <tuv lang="EN">
         <seg>Remaining Characters (without spaces)</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="Маринка" changedate="20171114T214800Z" creationid="Маринка" creationdate="20171114T214800Z">
-        <seg>Remaining Characters (without spaces)</seg>
+      <tuv lang="UK-UA" changeid="Маринка" changedate="20171209T215642Z" creationid="Маринка" creationdate="20171114T214800Z">
+        <seg>Залишилось символів (без пробілів)</seg>
       </tuv>
     </tu>
     <tu>
@@ -8324,8 +8324,8 @@ project without team functionality.</seg>
       <tuv lang="EN">
         <seg>Remaining Words</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="Маринка" changedate="20171114T214633Z" creationid="Маринка" creationdate="20171114T214633Z">
-        <seg>Remaining Words</seg>
+      <tuv lang="UK-UA" changeid="Маринка" changedate="20171209T215606Z" creationid="Маринка" creationdate="20171114T214633Z">
+        <seg>Залишилось слів</seg>
       </tuv>
     </tu>
     <tu>
@@ -11322,24 +11322,24 @@ Exact searches match the whole search string.</seg>
       <tuv lang="EN">
         <seg>Unique Remaining Characters (without spaces)</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="Маринка" changedate="20171114T214816Z" creationid="Маринка" creationdate="20171114T214816Z">
-        <seg>Unique Remaining Characters (without spaces)</seg>
+      <tuv lang="UK-UA" changeid="Маринка" changedate="20171209T215702Z" creationid="Маринка" creationdate="20171114T214816Z">
+        <seg>Залишилось унікальних символів (без пробілів)</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Unique Remaining Segments</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="Маринка" changedate="20171114T214625Z" creationid="Маринка" creationdate="20171114T214625Z">
-        <seg>Unique Remaining Segments</seg>
+      <tuv lang="UK-UA" changeid="Маринка" changedate="20171209T215556Z" creationid="Маринка" creationdate="20171114T214625Z">
+        <seg>Залишилось унікальних сегментів</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Unique Remaining Words</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="Маринка" changedate="20171114T214641Z" creationid="Маринка" creationdate="20171114T214641Z">
-        <seg>Unique Remaining Words</seg>
+      <tuv lang="UK-UA" changeid="Маринка" changedate="20171209T215618Z" creationid="Маринка" creationdate="20171114T214641Z">
+        <seg>Залишилось унікальних слів</seg>
       </tuv>
     </tu>
     <tu>
