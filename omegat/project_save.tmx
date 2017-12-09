@@ -7031,6 +7031,14 @@ inside the configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Notify Me When a Segment Has Multiple Translations</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Лера9764" changedate="20171209T190900Z" creationid="Лера9764" creationdate="20171209T190900Z">
+        <seg>Повідомити мене, коли сегмент має кілька перекладів</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Notify Me When a Segment Has Notes</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Лера9764" changedate="20171114T172650Z" creationid="Лера9764" creationdate="20171114T172644Z">
@@ -8966,6 +8974,14 @@ The scope of a search is by default the project and can be set to be any files l
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Scripts Folder:</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Лера9764" changedate="20171209T190755Z" creationid="Лера9764" creationdate="20171209T190755Z">
+        <seg>Тека скриптів:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Se&amp;t</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="nessyk" changedate="20171025T182510Z" creationid="nessyk" creationdate="20171025T182510Z">
@@ -9278,6 +9294,14 @@ The scope of a search is by default the project and can be set to be any files l
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Select Scripts Folder</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Лера9764" changedate="20171209T190745Z" creationid="Лера9764" creationdate="20171209T190745Z">
+        <seg>Виберіть теку скриптів</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Select TaaS Terminology &amp;Lookup Domain...</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Лера9764" changedate="20171209T185147Z" creationid="nessyk" creationdate="20171109T203604Z">
@@ -9298,6 +9322,14 @@ The scope of a search is by default the project and can be set to be any files l
       </tuv>
       <tuv lang="UK-UA" changeid="nessyk" changedate="20171118T183501Z" creationid="nessyk" creationdate="20171026T174239Z">
         <seg>Обрати категорію</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Select a Script File</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Лера9764" changedate="20171209T190729Z" creationid="Лера9764" creationdate="20171209T190729Z">
+        <seg>Виберіть файл скрипту</seg>
       </tuv>
     </tu>
     <tu>
