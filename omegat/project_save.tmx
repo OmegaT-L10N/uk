@@ -944,8 +944,8 @@
       <tuv lang="EN">
         <seg>&amp;Segment Number...</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="Лера9764" changedate="20171031T065104Z" creationid="nessyk" creationdate="20171025T175031Z">
-        <seg>&amp;Номер сегменту...</seg>
+      <tuv lang="UK-UA" changeid="Маринка" changedate="20171209T212817Z" creationid="nessyk" creationdate="20171025T175031Z">
+        <seg>&amp;Сегмент з номером...</seg>
       </tuv>
     </tu>
     <tu>
@@ -6103,8 +6103,8 @@ inside the configuration folder.</seg>
       <tuv lang="EN">
         <seg>Left-to-Right Embedding (LRE U+202A)</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="Маринка" changedate="20171204T164547Z" creationid="Маринка" creationdate="20171204T163630Z">
-        <seg>вставлення тексту зліва направо (LRE U+202A)</seg>
+      <tuv lang="UK-UA" changeid="Маринка" changedate="20171209T212656Z" creationid="Маринка" creationdate="20171204T163630Z">
+        <seg>Вставити текст направо (LRE U+202A)</seg>
       </tuv>
     </tu>
     <tu>
@@ -8694,8 +8694,8 @@ project without team functionality.</seg>
       <tuv lang="EN">
         <seg>Right-to-Left Embedding (RLE U+202B)</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="Маринка" changedate="20171204T164641Z" creationid="Маринка" creationdate="20171204T164400Z">
-        <seg>вставлення тексту справа наліво (RLE U+202B)</seg>
+      <tuv lang="UK-UA" changeid="Маринка" changedate="20171209T212709Z" creationid="Маринка" creationdate="20171204T164400Z">
+        <seg>Вставити текст справа наліво (RLE U+202B)</seg>
       </tuv>
     </tu>
     <tu>
@@ -9706,6 +9706,14 @@ The scope of a search is by default the project and can be set to be any files l
       </tuv>
       <tuv lang="UK-UA" changeid="Маринка" changedate="20171118T210713Z" creationid="Tetiana21" creationdate="20171105T164132Z">
         <seg>Мова оригіналу: {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Source of Selected &amp;Match</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Маринка" changedate="20171209T212903Z" creationid="Маринка" creationdate="20171209T212903Z">
+        <seg>Вихідний сегмент активного &amp;збігу</seg>
       </tuv>
     </tu>
     <tu>
