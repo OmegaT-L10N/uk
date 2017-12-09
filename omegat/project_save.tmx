@@ -7095,6 +7095,14 @@ inside the configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>OmegaT Javadoc...</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Маринка" changedate="20171209T194519Z" creationid="Маринка" creationdate="20171209T194519Z">
+        <seg>OmegaT Javadoc...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>OmegaT Project Files</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Лера9764" changedate="20171105T154740Z" creationid="Лера9764" creationdate="20171105T154740Z">
@@ -9498,6 +9506,14 @@ The scope of a search is by default the project and can be set to be any files l
       </tuv>
       <tuv lang="UK-UA" changeid="Tetiana21" changedate="20171105T155815Z" creationid="Tetiana21" creationdate="20171105T155815Z">
         <seg>Показати недопрацьовані ключові імена</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Show Replace Search Bar</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Маринка" changedate="20171209T194513Z" creationid="Маринка" creationdate="20171209T194513Z">
+        <seg>Show Replace Search Bar</seg>
       </tuv>
     </tu>
     <tu>
