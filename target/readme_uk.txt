@@ -77,7 +77,7 @@ is to use Java Web Start.
 
 For this purpose download the following file and then execute it:
 
-   http://omegat.sourceforge.net/webstart/OmegaT.jnlp
+   https://omegat.sourceforge.io/webstart/OmegaT.jnlp
 
 It will install the correct environment for your computer and the application
 itself on the first run. Later calls do not need to be online.
@@ -152,9 +152,9 @@ need not be entered.)
 Contributors
 ============
 
-OmegaT is the original work of Keith Godfrey.
+OmegaT розроблена Кайт Годфрі.
 
-Дідієр Бріль менеджер проетку OmegaT. Didier Briel is the OmegaT project manager.
+Менеджер проекту OmegaT - Дідієр Бріль.
 
 Previous contributors include:
 (alphabetical order)
