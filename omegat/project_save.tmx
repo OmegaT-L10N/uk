@@ -10034,8 +10034,8 @@ The scope of a search is by default the project and can be set to be any files l
       <tuv lang="EN">
         <seg>Tag validation failed</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="Tetiana21" changedate="20171105T201412Z" creationid="Tetiana21" creationdate="20171105T201412Z">
-        <seg>Перерівка тегу не виконана</seg>
+      <tuv lang="UK-UA" changeid="Лера9764" changedate="20171209T190420Z" creationid="Tetiana21" creationdate="20171105T201412Z">
+        <seg>Перевірка тегу не виконана</seg>
       </tuv>
     </tu>
     <tu>
@@ -10880,8 +10880,8 @@ the server.</seg>
       <tuv lang="EN">
         <seg>Translated files location not defined</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="Tetiana21" changedate="20171105T202030Z" creationid="Tetiana21" creationdate="20171105T201949Z">
-        <seg>Місцерозташування перекладеного файлу не знайдено </seg>
+      <tuv lang="UK-UA" changeid="Лера9764" changedate="20171209T190400Z" creationid="Tetiana21" creationdate="20171105T201949Z">
+        <seg>Місце розташування перекладеного файлу не знайдено</seg>
       </tuv>
     </tu>
     <tu>
