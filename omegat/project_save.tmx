@@ -3599,8 +3599,8 @@ may experience unexpected, but correct behaviour.</seg>
       <tuv lang="EN">
         <seg>Display context description for TBX &amp;glossaries</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="Маринка" changedate="20171126T165218Z" creationid="Маринка" creationdate="20171126T165141Z">
-        <seg>Відображення контекстного опису для TBX &amp;глосаріїв</seg>
+      <tuv lang="UK-UA" changeid="Маринка" changedate="20171209T213848Z" creationid="Маринка" creationdate="20171126T165141Z">
+        <seg>Відображення контекстного опису для &amp;глосаріїв TBX</seg>
       </tuv>
     </tu>
     <tu>
@@ -11514,8 +11514,8 @@ Exact searches match the whole search string.</seg>
       <tuv lang="EN">
         <seg>Use &amp;fuzzy matching for dictionary entries</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="Маринка" changedate="20171126T170002Z" creationid="Маринка" creationdate="20171126T170002Z">
-        <seg>Використвовувати &amp;нечіткі збіги для записів словника</seg>
+      <tuv lang="UK-UA" changeid="Маринка" changedate="20171209T213921Z" creationid="Маринка" creationdate="20171126T170002Z">
+        <seg>Використвовувати &amp;нечіткі збіги для записів словникових статей</seg>
       </tuv>
     </tu>
     <tu>
