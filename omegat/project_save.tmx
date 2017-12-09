@@ -11959,8 +11959,8 @@ Both exact and keyword searches support the wildcard characters * and ?.</seg>
         <seg>You can find detailed statistic information in the file:
 {0}</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="Маринка" changedate="20171101T205621Z" creationid="Маринка" creationdate="20171101T205621Z">
-        <seg>Ви можете знайти деталізовану інформацію про статистуику у файлі:
+      <tuv lang="UK-UA" changeid="Маринка" changedate="20171209T214713Z" creationid="Маринка" creationdate="20171101T205621Z">
+        <seg>Не можна знайти деталізовану інформацію про статистуику у файлі:
 {0}</seg>
       </tuv>
     </tu>
