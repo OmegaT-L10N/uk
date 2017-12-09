@@ -5565,8 +5565,8 @@ their defaults as a result of the location change.</seg>
       <tuv lang="EN">
         <seg>Invalid API key</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="Tetiana21" changedate="20171118T152006Z" creationid="Tetiana21" creationdate="20171118T152006Z">
-        <seg>Невірний ключ API</seg>
+      <tuv lang="UK-UA" changeid="Лера9764" changedate="20171209T190939Z" creationid="Tetiana21" creationdate="20171118T152006Z">
+        <seg>Неправильний ключ API</seg>
       </tuv>
     </tu>
     <tu>
@@ -11986,8 +11986,8 @@ Both exact and keyword searches support the wildcard characters * and ?.</seg>
       <tuv lang="EN">
         <seg>You need to update your JDK 1.6 to the latest version, or just remove the jaxb-*.jar files from the OmegaT /lib dir</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="Tetiana21" changedate="20171116T195914Z" creationid="Tetiana21" creationdate="20171116T195914Z">
-        <seg>You need to update your JDK 1.6 to the latest version, or just remove the jaxb-*.jar files from the OmegaT /lib dir</seg>
+      <tuv lang="UK-UA" changeid="Лера9764" changedate="20171209T191146Z" creationid="Tetiana21" creationdate="20171116T195914Z">
+        <seg>Потрібно оновити ваш JDK 1.6 до останньої версії або просто вилучити файли jaxb-*.jar з OmegaT /lib dir</seg>
       </tuv>
     </tu>
     <tu>
