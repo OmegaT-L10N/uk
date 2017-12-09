@@ -2551,6 +2551,14 @@ may experience unexpected, but correct behaviour.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Cannot read selected script file.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Лера9764" changedate="20171209T190630Z" creationid="Лера9764" creationdate="20171209T190630Z">
+        <seg>Не можна прочитати файл обраного скрипту.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Catalan</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Лера9764" changedate="20171209T181549Z" creationid="Лера9764" creationdate="20171209T181549Z">
@@ -6823,6 +6831,14 @@ inside the configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>No script selected.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Лера9764" changedate="20171209T190700Z" creationid="Лера9764" creationdate="20171209T190700Z">
+        <seg>Скрипт не обрано.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>No script set.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Tetiana21" changedate="20171116T200035Z" creationid="Tetiana21" creationdate="20171116T200035Z">
@@ -8222,6 +8238,14 @@ project without team functionality.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Tetiana21" changedate="20171105T201109Z" creationid="Tetiana21" creationdate="20171105T201109Z">
         <seg>Посилання:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Refreshing script folder "{0}"</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Лера9764" changedate="20171209T190558Z" creationid="Лера9764" creationdate="20171209T190552Z">
+        <seg>Оновлення теки скрипту "{0}"</seg>
       </tuv>
     </tu>
     <tu>
