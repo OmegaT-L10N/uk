@@ -2551,6 +2551,14 @@ may experience unexpected, but correct behaviour.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Catalan</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Лера9764" changedate="20171209T181549Z" creationid="Лера9764" creationdate="20171209T181549Z">
+        <seg>Каталонська</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Change date</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Лера9764" changedate="20171107T195708Z" creationid="Лера9764" creationdate="20171107T195708Z">
@@ -5903,16 +5911,16 @@ inside the configuration folder.</seg>
       <tuv lang="EN">
         <seg>Language Name</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="Diman966" changedate="20171116T205732Z" creationid="Diman966" creationdate="20171116T205732Z">
-        <seg>Назва мови Language Name</seg>
+      <tuv lang="UK-UA" changeid="Лера9764" changedate="20171209T181458Z" creationid="Diman966" creationdate="20171116T205732Z">
+        <seg>Назва мови</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Language Pattern</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="Diman966" changedate="20171116T205738Z" creationid="Diman966" creationdate="20171116T205738Z">
-        <seg>Назва шаблону Language Pattern</seg>
+      <tuv lang="UK-UA" changeid="Лера9764" changedate="20171209T181503Z" creationid="Diman966" creationdate="20171116T205738Z">
+        <seg>Назва шаблону</seg>
       </tuv>
     </tu>
     <tu>
