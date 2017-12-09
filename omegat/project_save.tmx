@@ -1227,9 +1227,9 @@
         <seg>(In the user's manual, see 'Files to translate' &gt; 'File formats' for a list of supported file formats.)
 To add files to the project, click on the Copy Files to Source Folder... button in the Project Files window or call this action from the Project menu and select the source files you want to copy.</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="Маринка" changedate="20171118T210243Z" creationid="Лера9764" creationdate="20171102T184657Z">
+      <tuv lang="UK-UA" changeid="Лера9764" changedate="20171209T184812Z" creationid="Лера9764" creationdate="20171102T184657Z">
         <seg>(У посібнику користувача дивіться "Файли для перекладу"&gt; "Формати файлів" для списку підтримуваних форматів файлів.)
-Щоб додати файли до проекту, натисність Скопіювати файли до Кореневої папки... в вікні Файли проекту або виконайте ці дії в меню "Проект" та виберіть файли оригіналу, які потрібно скопіювати.</seg>
+Щоб додати файли до проекту, натисність "Скопіювати файли до кореневої папки..." у вікні "Файли проекту" або виконайте ці дії в меню "Проект" та виберіть файли оригіналу, які потрібно скопіювати.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5541,8 +5541,8 @@ their defaults as a result of the location change.</seg>
       <tuv lang="EN">
         <seg>Installing and running OmegaT" in the User Manual.</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="Лера9764" changedate="20171116T142440Z" creationid="Лера9764" creationdate="20171116T142440Z">
-        <seg>Встановлення та запуск OmegaT" в посібнику користувача.</seg>
+      <tuv lang="UK-UA" changeid="Лера9764" changedate="20171209T184612Z" creationid="Лера9764" creationdate="20171116T142440Z">
+        <seg>Встановлення та запуск OmegaT" у посібнику користувача.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7241,8 +7241,8 @@ your home folder.</seg>
       <tuv lang="EN">
         <seg>OmegaT will now terminate.</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="Маринка" changedate="20171204T164945Z" creationid="Маринка" creationdate="20171118T195007Z">
-        <seg>OmegaT припиняє роботу.</seg>
+      <tuv lang="UK-UA" changeid="Лера9764" changedate="20171209T184650Z" creationid="Маринка" creationdate="20171118T195007Z">
+        <seg>OmegaT завершує роботу.</seg>
       </tuv>
     </tu>
     <tu>
