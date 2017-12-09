@@ -8758,8 +8758,8 @@ project without team functionality.</seg>
       <tuv lang="EN">
         <seg>SVN '{0}' execution finished successfully</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="nessyk" changedate="20171125T173641Z" creationid="nessyk" creationdate="20171125T173641Z">
-        <seg>Виконання SVN '{0}' завершеноуспішно </seg>
+      <tuv lang="UK-UA" changeid="Лера9764" changedate="20171209T190250Z" creationid="nessyk" creationdate="20171125T173641Z">
+        <seg>Виконання SVN '{0}' успішно завершено</seg>
       </tuv>
     </tu>
     <tu>
@@ -11386,8 +11386,8 @@ Exact searches match the whole search string.</seg>
       <tuv lang="EN">
         <seg>Upload disabled because repository in read-only mode</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="nessyk" changedate="20171125T174043Z" creationid="nessyk" creationdate="20171125T174043Z">
-        <seg>Upload disabled because repository in read-only mode</seg>
+      <tuv lang="UK-UA" changeid="Лера9764" changedate="20171209T190219Z" creationid="nessyk" creationdate="20171125T174043Z">
+        <seg>Завантаження неможливе, тому що репозиторій в режимі "Лише для читання"</seg>
       </tuv>
     </tu>
     <tu>
