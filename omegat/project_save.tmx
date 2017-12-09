@@ -136,8 +136,8 @@
       <tuv lang="EN">
         <seg>&amp;Automatically check the spelling of text</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="nessyk" changedate="20171129T183607Z" creationid="nessyk" creationdate="20171129T183607Z">
-        <seg>&amp; Автоматично перевіряти написання тексту</seg>
+      <tuv lang="UK-UA" changeid="Лера9764" changedate="20171209T183144Z" creationid="nessyk" creationdate="20171129T183607Z">
+        <seg>&amp;Автоматично перевіряти написання тексту</seg>
       </tuv>
     </tu>
     <tu>
@@ -5373,8 +5373,8 @@ their defaults as a result of the location change.</seg>
       <tuv lang="EN">
         <seg>Ignore All</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="Diman966" changedate="20171116T210843Z" creationid="Diman966" creationdate="20171116T210843Z">
-        <seg>Ігнорувати все Ignore All</seg>
+      <tuv lang="UK-UA" changeid="Лера9764" changedate="20171209T183152Z" creationid="Diman966" creationdate="20171116T210843Z">
+        <seg>Ігнорувати все</seg>
       </tuv>
     </tu>
     <tu>
@@ -7998,6 +7998,14 @@ project without team functionality.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="nessyk" changedate="20171025T183923Z" creationid="nessyk" creationdate="20171025T183923Z">
         <seg>Команди проекту відключені з міркувань безпеки.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Project compiling end</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Лера9764" changedate="20171209T183037Z" creationid="Лера9764" creationdate="20171209T183037Z">
+        <seg>Завершення компіляції проекту</seg>
       </tuv>
     </tu>
     <tu>
