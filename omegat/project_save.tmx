@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.2_2_10096:10098" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.3_1_10223M" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -1704,8 +1704,8 @@ The current setting is {0}MB;</seg>
       <tuv lang="EN">
         <seg>About</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20170918T163104Z" creationid="Kos Ivantsov" creationdate="20170918T163054Z">
-        <seg>Про програму…</seg>
+      <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20171209T222939Z" creationid="Kos Ivantsov" creationdate="20170918T163054Z">
+        <seg>Про програму</seg>
       </tuv>
     </tu>
     <tu>
@@ -3039,6 +3039,14 @@ may experience unexpected, but correct behaviour.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Connect</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20171209T224211Z" creationid="Kos Ivantsov" creationdate="20171209T224211Z">
+        <seg>OmegaT в мережі</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Connection available, the project is in team project mode.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="nessyk" changedate="20171121T181118Z" creationid="Tetiana21" creationdate="20171105T211638Z">
@@ -3063,6 +3071,14 @@ may experience unexpected, but correct behaviour.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20170918T163120Z" creationid="Kos Ivantsov" creationdate="20170918T163120Z">
         <seg>Контактна інформація</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Contact and Support</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20171209T223106Z" creationid="Kos Ivantsov" creationdate="20171209T223106Z">
+        <seg>Контакти та підтримка</seg>
       </tuv>
     </tu>
     <tu>
@@ -3305,6 +3321,14 @@ may experience unexpected, but correct behaviour.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="nessyk" changedate="20171109T203254Z" creationid="nessyk" creationdate="20171109T203254Z">
         <seg>Автор</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Cross-platform without JRE</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20171209T223653Z" creationid="Kos Ivantsov" creationdate="20171209T223653Z">
+        <seg>Крос-платформна версія без JRE</seg>
       </tuv>
     </tu>
     <tu>
@@ -3753,6 +3777,14 @@ may experience unexpected, but correct behaviour.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Лера9764" changedate="20171107T195810Z" creationid="Лера9764" creationdate="20171107T195804Z">
         <seg>Готово</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Download</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20171209T222958Z" creationid="Kos Ivantsov" creationdate="20171209T222958Z">
+        <seg>Завантажити OmegaT</seg>
       </tuv>
     </tu>
     <tu>
@@ -5303,6 +5335,14 @@ project_save.tmx не був завантажений, а SVN перейшов �
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>How-To</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20171209T223236Z" creationid="Kos Ivantsov" creationdate="20171209T223236Z">
+        <seg>Практичні вказівки How To</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Hyperlinks</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="nessyk" changedate="20171106T225906Z" creationid="nessyk" creationdate="20171106T225906Z">
@@ -6159,6 +6199,22 @@ inside the configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Linux with 64-bit JRE</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20171209T223511Z" creationid="Kos Ivantsov" creationdate="20171209T223511Z">
+        <seg>версія для Linux з JRE (64 біти)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Linux with JRE</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20171209T223437Z" creationid="Kos Ivantsov" creationdate="20171209T223437Z">
+        <seg>версія для Linux з JRE</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>List View</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Лера9764" changedate="20171118T085245Z" creationid="Tetiana21" creationdate="20171105T155847Z">
@@ -6283,6 +6339,14 @@ inside the configuration folder.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Лера9764" changedate="20171114T172854Z" creationid="Лера9764" creationdate="20171114T172854Z">
         <seg>Налаштування машинного перекладу</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Manual</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20171209T223210Z" creationid="Kos Ivantsov" creationdate="20171209T223210Z">
+        <seg>Інструкція користувача</seg>
       </tuv>
     </tu>
     <tu>
@@ -7095,10 +7159,34 @@ inside the configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>OS X Signed</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20171209T223417Z" creationid="Kos Ivantsov" creationdate="20171209T223417Z">
+        <seg>версія для OS X (з підписом)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>OS X Unsigned</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20171209T223419Z" creationid="Kos Ivantsov" creationdate="20171209T223419Z">
+        <seg>версія для OS X (без підпису)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>OmegaT</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Tetiana21" changedate="20171016T161523Z" creationid="Kos Ivantsov" creationdate="20170413T140603Z">
         <seg>OmegaT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>OmegaT - The Free Translation Memory Tool</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20171209T222854Z" creationid="Kos Ivantsov" creationdate="20171209T222849Z">
+        <seg>OmegaT — безкоштовна програма для перекладу</seg>
       </tuv>
     </tu>
     <tu>
@@ -7189,6 +7277,14 @@ translation leveraging into updated projects.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Diman966" changedate="20171116T201526Z" creationid="Diman966" creationdate="20171116T201526Z">
         <seg>OmegaT це безкоштовний та відкритий мультиплатформенний інструмент для автоматизованого перекладу з нечіткими збігами, пам'яті перекладу, пошуку ключових слів, глосаріїв та використання перекладу в оновлених проектах.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>OmegaT is a free open-source translation memory application for professional translators written in Java.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20171209T222933Z" creationid="Kos Ivantsov" creationdate="20171209T222933Z">
+        <seg>OmegaT — це безкоштовна програма з перекладацькою пам’яттю, розрахована на професійних перекладачів. Написана на Java.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7511,6 +7607,14 @@ your home folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Page Not Found</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20171209T223052Z" creationid="Kos Ivantsov" creationdate="20171209T223052Z">
+        <seg>Сторінку не знайдено</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Page slips through fingers&lt;p&gt;Pulse pounding hard and frantic&lt;p&gt;Vanishing like mist.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Маринка" changedate="20171101T214838Z" creationid="Маринка" creationdate="20171101T214838Z">
@@ -7587,6 +7691,14 @@ your home folder.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="nessyk" changedate="20171125T173255Z" creationid="nessyk" creationdate="20171125T173255Z">
         <seg>Можливо, файл вже відкритий в іншій копії OmegaT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Philosophy</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20171209T223123Z" creationid="Kos Ivantsov" creationdate="20171209T223123Z">
+        <seg>Філософія</seg>
       </tuv>
     </tu>
     <tu>
@@ -8692,6 +8804,14 @@ project without team functionality.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Reviews</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20171209T223254Z" creationid="Kos Ivantsov" creationdate="20171209T223254Z">
+        <seg>Огляди OmegaT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Reviews of OmegaT</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Tetiana21" changedate="20171105T131552Z" creationid="Tetiana21" creationdate="20171105T131552Z">
@@ -9670,6 +9790,14 @@ The scope of a search is by default the project and can be set to be any files l
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Source code</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20171209T223929Z" creationid="Kos Ivantsov" creationdate="20171209T223929Z">
+        <seg>Джерельний код</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Source count</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="nessyk" changedate="20171109T202619Z" creationid="nessyk" creationdate="20171109T202619Z">
@@ -9842,6 +9970,14 @@ The scope of a search is by default the project and can be set to be any files l
       </tuv>
       <tuv lang="UK-UA" changeid="nessyk" changedate="20171030T172839Z" creationid="nessyk" creationdate="20171030T172839Z">
         <seg>Розділити текст</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Sponsorship</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20171209T223303Z" creationid="Kos Ivantsov" creationdate="20171209T223303Z">
+        <seg>Спонсори</seg>
       </tuv>
     </tu>
     <tu>
@@ -10343,6 +10479,14 @@ current folder will be used instead.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="nessyk" changedate="20171205T173925Z" creationid="nessyk" creationdate="20171205T173925Z">
         <seg>Замість цього буде використана поточна папка.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The OmegaT Project</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20171209T223037Z" creationid="Kos Ivantsov" creationdate="20171209T223037Z">
+        <seg>Проект OmegaT</seg>
       </tuv>
     </tu>
     <tu>
@@ -11086,6 +11230,14 @@ the server.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Tutorials</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20171209T223219Z" creationid="Kos Ivantsov" creationdate="20171209T223219Z">
+        <seg>Тьюторіали</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Type</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="nessyk" changedate="20171030T174255Z" creationid="nessyk" creationdate="20171030T174255Z">
@@ -11706,6 +11858,14 @@ Exact searches match the whole search string.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Web Start</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20171209T223706Z" creationid="Kos Ivantsov" creationdate="20171209T223706Z">
+        <seg>версія Web Start</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>WebVTT Subtitles</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Маринка" changedate="20171203T194400Z" creationid="Маринка" creationdate="20171203T194400Z">
@@ -11808,6 +11968,30 @@ Both exact and keyword searches support the wildcard characters * and ?.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Лера9764" changedate="20171204T135918Z" creationid="Diman966" creationdate="20171116T200054Z">
         <seg>Ресурси Windows </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Windows with 64-bit JRE</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20171209T223516Z" creationid="Kos Ivantsov" creationdate="20171209T223351Z">
+        <seg>версія для Windows з JRE (64 біти)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Windows with JRE</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20171209T223349Z" creationid="Kos Ivantsov" creationdate="20171209T223349Z">
+        <seg>версія для Windows з JRE</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Windows without JRE</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20171209T223411Z" creationid="Kos Ivantsov" creationdate="20171209T223411Z">
+        <seg>версія для Windows без JRE</seg>
       </tuv>
     </tu>
     <tu>
@@ -12403,5 +12587,25 @@ create its configuration folder.</seg>
       </tuv>
     </tu>
 <!-- Alternative translations -->
+    <tu>
+      <prop type="file">website/yml/uk.yml</prop>
+      <prop type="id">tu19_0</prop>
+      <tuv lang="EN">
+        <seg>Resources</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20171209T223157Z" creationid="Kos Ivantsov" creationdate="20171209T223157Z">
+        <seg>Додаткові ресурси для OmegaT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">website/yml/uk.yml</prop>
+      <prop type="id">tu8_0</prop>
+      <tuv lang="EN">
+        <seg>Resources</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20171209T223011Z" creationid="Kos Ivantsov" creationdate="20171209T223011Z">
+        <seg>Додаткові ресурси для OmegaT</seg>
+      </tuv>
+    </tu>
   </body>
 </tmx>
