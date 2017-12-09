@@ -470,6 +470,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Ignore hits with very different case (e.g. FOO vs foo)</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Маринка" changedate="20171209T213705Z" creationid="Маринка" creationdate="20171209T213705Z">
+        <seg>&amp;Ignore hits with very different case (e.g. FOO vs foo)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;In translation</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Tetiana21" changedate="20171105T183321Z" creationid="Tetiana21" creationdate="20171105T183321Z">
@@ -8476,8 +8484,8 @@ project without team functionality.</seg>
       <tuv lang="EN">
         <seg>Replace &amp;glossary hits when inserting source text</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="Маринка" changedate="20171204T165827Z" creationid="Маринка" creationdate="20171204T165827Z">
-        <seg>Replace &amp;glossary hits when inserting source text</seg>
+      <tuv lang="UK-UA" changeid="Маринка" changedate="20171209T213740Z" creationid="Маринка" creationdate="20171204T165827Z">
+        <seg>заміняти з&amp;біги під час вставки тексту оригіналу</seg>
       </tuv>
     </tu>
     <tu>
