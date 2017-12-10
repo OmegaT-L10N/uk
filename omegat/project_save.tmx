@@ -6599,6 +6599,14 @@ inside the configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Microsoft Translator Subscription Key not available.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Tetiana21" changedate="20171210T153722Z" creationid="Tetiana21" creationdate="20171210T153722Z">
+        <seg>Ключ Microsoft Translator Subscription недоступний.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Mine</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Tetiana21" changedate="20171116T195734Z" creationid="nessyk" creationdate="20171106T222025Z">
