@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.3_1_10223M" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.2_2_10096:10098" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -248,8 +248,8 @@
       <tuv lang="EN">
         <seg>&amp;Cycle</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="Tetiana21" changedate="20171118T130652Z" creationid="Tetiana21" creationdate="20171118T130652Z">
-        <seg>&amp;Cycle</seg>
+      <tuv lang="UK-UA" changeid="Tetiana21" changedate="20171210T114300Z" creationid="Tetiana21" creationdate="20171118T130652Z">
+        <seg>&amp;Цикл</seg>
       </tuv>
     </tu>
     <tu>
@@ -2971,6 +2971,14 @@ may experience unexpected, but correct behaviour.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="nessyk" changedate="20171101T183752Z" creationid="nessyk" creationdate="20171101T183752Z">
         <seg>Режим порівняння:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Compress whitespace in translated document</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Tetiana21" changedate="20171210T113947Z" creationid="Tetiana21" creationdate="20171210T113947Z">
+        <seg>Compress whitespace in translated document</seg>
       </tuv>
     </tu>
     <tu>
