@@ -6303,6 +6303,14 @@ inside the configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Local installation path:</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Tetiana21" changedate="20171210T132008Z" creationid="Tetiana21" creationdate="20171210T132008Z">
+        <seg>Локальний шлях установки:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Local translation not synchronized with remote repository.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="nessyk" changedate="20171118T193336Z" creationid="nessyk" creationdate="20171118T193336Z">
