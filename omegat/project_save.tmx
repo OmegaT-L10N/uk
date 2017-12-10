@@ -7695,6 +7695,22 @@ your home folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Pattern After</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Tetiana21" changedate="20171210T130628Z" creationid="Tetiana21" creationdate="20171210T130628Z">
+        <seg>Шаблон після</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Pattern Before</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Tetiana21" changedate="20171210T130635Z" creationid="Tetiana21" creationdate="20171210T130635Z">
+        <seg>Шаблон до</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Pattern...</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="nessyk" changedate="20171101T183850Z" creationid="nessyk" creationdate="20171101T183850Z">
