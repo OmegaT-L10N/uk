@@ -8532,8 +8532,8 @@ project without team functionality.</seg>
       <tuv lang="EN">
         <seg>Remote File/Folder</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="Маринка" changedate="20171107T195617Z" creationid="Маринка" creationdate="20171107T195617Z">
-        <seg>Remote File/Folder</seg>
+      <tuv lang="UK-UA" changeid="Tetiana21" changedate="20171210T194517Z" creationid="Маринка" creationdate="20171107T195617Z">
+        <seg>Віддалений файл/папка</seg>
       </tuv>
     </tu>
     <tu>
@@ -8710,16 +8710,16 @@ project without team functionality.</seg>
       <tuv lang="EN">
         <seg>Repository</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="Лера9764" changedate="20171105T154822Z" creationid="Лера9764" creationdate="20171105T154822Z">
-        <seg>Репозиторій</seg>
+      <tuv lang="UK-UA" changeid="Tetiana21" changedate="20171210T184906Z" creationid="Лера9764" creationdate="20171105T154822Z">
+        <seg>Сховище</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Repository Credentials</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="nessyk" changedate="20171118T191327Z" creationid="nessyk" creationdate="20171118T191327Z">
-        <seg>Repository Credentials</seg>
+      <tuv lang="UK-UA" changeid="Tetiana21" changedate="20171210T184812Z" creationid="nessyk" creationdate="20171118T191327Z">
+        <seg>Сховище облікових даних</seg>
       </tuv>
     </tu>
     <tu>
@@ -10194,8 +10194,8 @@ The scope of a search is by default the project and can be set to be any files l
       <tuv lang="EN">
         <seg>Synchronisation of repositories</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="Лера9764" changedate="20171209T185626Z" creationid="nessyk" creationdate="20171118T191341Z">
-        <seg>Синхронізація репозиторіїв</seg>
+      <tuv lang="UK-UA" changeid="Tetiana21" changedate="20171210T184836Z" creationid="nessyk" creationdate="20171118T191341Z">
+        <seg>Це репозиторій диверсії.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10923,16 +10923,16 @@ the server.</seg>
       <tuv lang="EN">
         <seg>This is a Git repository.</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="nessyk" changedate="20171125T151614Z" creationid="nessyk" creationdate="20171118T191021Z">
-        <seg>Це репозиторій Git .</seg>
+      <tuv lang="UK-UA" changeid="Tetiana21" changedate="20171210T184858Z" creationid="nessyk" creationdate="20171118T191021Z">
+        <seg>Це сховище Git .</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>This is a Subversion repository.</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="Tetiana21" changedate="20171210T155620Z" creationid="nessyk" creationdate="20171125T151624Z">
-        <seg>Це репозиторій диверсії.</seg>
+      <tuv lang="UK-UA" changeid="Tetiana21" changedate="20171210T184844Z" creationid="nessyk" creationdate="20171125T151624Z">
+        <seg>Це сховище диверсії.</seg>
       </tuv>
     </tu>
     <tu>
