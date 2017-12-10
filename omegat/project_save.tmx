@@ -4807,6 +4807,14 @@ project_save.tmx не був завантажений, а SVN перейшов �
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Filename Variables:</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Tetiana21" changedate="20171210T121815Z" creationid="Tetiana21" creationdate="20171210T121815Z">
+        <seg>Зміна ім'я файлу:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Filter</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Лера9764" changedate="20171031T065327Z" creationid="Лера9764" creationdate="20171031T065327Z">
