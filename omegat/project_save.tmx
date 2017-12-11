@@ -1253,8 +1253,8 @@ To add files to the project, click on the Copy Files to Source Folder... button 
       <tuv lang="EN">
         <seg>(close tag)</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="Маринка" changedate="20171118T213049Z" creationid="Маринка" creationdate="20171118T213049Z">
-        <seg>(закриваючий тег)</seg>
+      <tuv lang="UK-UA" changeid="Маринка" changedate="20171211T193002Z" creationid="Маринка" creationdate="20171118T213049Z">
+        <seg>(кінцевий тег)</seg>
       </tuv>
     </tu>
     <tu>
@@ -12388,8 +12388,8 @@ create its configuration folder.</seg>
       <tuv lang="EN">
         <seg>attributes.</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="Маринка" changedate="20171118T213108Z" creationid="Маринка" creationdate="20171118T213108Z">
-        <seg>attributes.</seg>
+      <tuv lang="UK-UA" changeid="Маринка" changedate="20171211T193313Z" creationid="Маринка" creationdate="20171118T213108Z">
+        <seg>атрибути.</seg>
       </tuv>
     </tu>
     <tu>
