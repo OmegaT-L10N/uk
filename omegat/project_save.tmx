@@ -4497,8 +4497,8 @@ project_save.tmx не був завантажений, а SVN перейшов �
       <tuv lang="EN">
         <seg>Exclude Pattern</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="Маринка" changedate="20171107T195652Z" creationid="Маринка" creationdate="20171107T195652Z">
-        <seg>Exclude Pattern</seg>
+      <tuv lang="UK-UA" changeid="Маринка" changedate="20171211T190627Z" creationid="Маринка" creationdate="20171107T195652Z">
+        <seg>Вилучити шаблон</seg>
       </tuv>
     </tu>
     <tu>
@@ -5515,6 +5515,14 @@ their defaults as a result of the location change.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Include Pattern</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Маринка" changedate="20171211T190650Z" creationid="Маринка" creationdate="20171211T190650Z">
+        <seg>Активувати шаблон</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Include the &amp;first non-unique segment when marking non-unique segments</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="nessyk" changedate="20171205T172841Z" creationid="nessyk" creationdate="20171205T172841Z">
@@ -5653,8 +5661,8 @@ their defaults as a result of the location change.</seg>
       <tuv lang="EN">
         <seg>Invalid repository type: {0}</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="Маринка" changedate="20171107T195704Z" creationid="Маринка" creationdate="20171107T195704Z">
-        <seg>Неправильний тип сховища: {0}</seg>
+      <tuv lang="UK-UA" changeid="Маринка" changedate="20171211T190732Z" creationid="Маринка" creationdate="20171107T195704Z">
+        <seg>Неприпустимий тип сховища: {0}</seg>
       </tuv>
     </tu>
     <tu>
