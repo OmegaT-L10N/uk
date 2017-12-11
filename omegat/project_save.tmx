@@ -9232,8 +9232,8 @@ The scope of a search is by default the project and can be set to be any files l
       <tuv lang="EN">
         <seg>Search thread died unexpectedly!</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="Маринка" changedate="20171118T205740Z" creationid="Маринка" creationdate="20171118T205740Z">
-        <seg>Search thread died unexpectedly!</seg>
+      <tuv lang="UK-UA" changeid="Маринка" changedate="20171211T192752Z" creationid="Маринка" creationdate="20171118T205740Z">
+        <seg>Процес пошуку неочікувано припинився!</seg>
       </tuv>
     </tu>
     <tu>
@@ -11514,8 +11514,8 @@ Exact searches match the whole search string.</seg>
       <tuv lang="EN">
         <seg>Unexpected char {0} ({1})!</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="Маринка" changedate="20171118T212950Z" creationid="Маринка" creationdate="20171118T212950Z">
-        <seg>Unexpected char {0} ({1})!</seg>
+      <tuv lang="UK-UA" changeid="Маринка" changedate="20171211T192933Z" creationid="Маринка" creationdate="20171118T212950Z">
+        <seg>Неочікуваний символ {0} ({1})!</seg>
       </tuv>
     </tu>
     <tu>
