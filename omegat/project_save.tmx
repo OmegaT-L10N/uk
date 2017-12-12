@@ -4777,8 +4777,8 @@ project_save.tmx не був завантажений, а SVN перейшов �
       <tuv lang="EN">
         <seg>File {0} does not exist!</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="Лера9764" changedate="20171117T155212Z" creationid="Лера9764" creationdate="20171117T155212Z">
-        <seg>Файл {0} не існує!</seg>
+      <tuv lang="UK-UA" changeid="Таня" changedate="20171212T124909Z" creationid="Лера9764" creationdate="20171117T155212Z">
+        <seg>Файлу {0} не існує!</seg>
       </tuv>
     </tu>
     <tu>
@@ -6585,8 +6585,8 @@ inside the configuration folder.</seg>
       <tuv lang="EN">
         <seg>Maximum number of finds has been reached ({0})</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="Маринка" changedate="20171118T205632Z" creationid="Маринка" creationdate="20171118T205632Z">
-        <seg>Maximum number of finds has been reached ({0})</seg>
+      <tuv lang="UK-UA" changeid="Таня" changedate="20171212T125428Z" creationid="Маринка" creationdate="20171118T205632Z">
+        <seg>Було досягнуто максимальне число знахідок ({0})</seg>
       </tuv>
     </tu>
     <tu>
