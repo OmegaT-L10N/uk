@@ -62,6 +62,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Allow blank translations in the target files</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Таня" changedate="20171213T200811Z" creationid="Таня" creationdate="20171213T200811Z">
+        <seg>&amp;Дозволити порожні рядки в перекладених файлах </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;Allow only unique characters</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="nessyk" changedate="20171113T215528Z" creationid="nessyk" creationdate="20171113T215528Z">
