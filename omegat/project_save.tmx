@@ -6919,6 +6919,14 @@ inside the configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>No Suggestions</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Таня" changedate="20171214T144456Z" creationid="Таня" creationdate="20171214T144456Z">
+        <seg>Жодної підказки</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>No connection available, the project is in offline mode.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Tetiana21" changedate="20171105T211726Z" creationid="Tetiana21" creationdate="20171105T211635Z">
