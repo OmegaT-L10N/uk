@@ -9590,6 +9590,14 @@ The scope of a search is by default the project and can be set to be any files l
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Selected Engine: {0}</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Таня" changedate="20171214T155801Z" creationid="Таня" creationdate="20171214T155801Z">
+        <seg>Вибраний механізм: {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Sequence Library (Sequence Library License)</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Tetiana21" changedate="20171205T154044Z" creationid="Tetiana21" creationdate="20171205T154044Z">
