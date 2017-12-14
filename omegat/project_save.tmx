@@ -4271,6 +4271,14 @@ project_save.tmx не був завантажений, а SVN перейшов �
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Error decoding user and password.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Таня" changedate="20171214T141610Z" creationid="Таня" creationdate="20171214T141610Z">
+        <seg>Декодування з помилкою користувача та пароль.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Error extracting MT result from MyMemory, response:</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="nessyk" changedate="20171126T112111Z" creationid="nessyk" creationdate="20171126T112111Z">
