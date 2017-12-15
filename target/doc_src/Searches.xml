@@ -184,9 +184,7 @@
 
     <itemizedlist>
       <listitem>
-        <para><emphasis role="bold">case sensitive</emphasis>: the search will
-        be performed for the exact string specified; i.e. capitalization is
-        observed.</para>
+        <para><emphasis role="bold">чутливий до регістру</emphasis>: пошук буде здійснено точно за вказаним текстом; тобто написання з великої літери береться до уваги.</para>
       </listitem>
 
       <listitem>
