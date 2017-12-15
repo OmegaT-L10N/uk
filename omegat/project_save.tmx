@@ -12284,6 +12284,14 @@ Both exact and keyword searches support the wildcard characters * and ?.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>You can create glossary entries with Create Glossary Entry in the Edit menu.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Лера9764" changedate="20171215T214110Z" creationid="Лера9764" creationdate="20171215T214031Z">
+        <seg>Ви можете створити запис у глосарії, обравши "Створити запис у глосарії" в меню "Редагувати".</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>You can find detailed statistic information in the file:
 {0}</seg>
       </tuv>
