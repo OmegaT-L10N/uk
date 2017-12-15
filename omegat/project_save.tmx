@@ -168,8 +168,8 @@
       <tuv lang="EN">
         <seg>&amp;Back in History</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="Лера9764" changedate="20171205T065939Z" creationid="Tetiana21" creationdate="20171119T124611Z">
-        <seg>&amp;Назад в історіії</seg>
+      <tuv lang="UK-UA" changeid="Лера9764" changedate="20171215T211713Z" creationid="Tetiana21" creationdate="20171119T124611Z">
+        <seg>&amp;Назад в історії</seg>
       </tuv>
     </tu>
     <tu>
@@ -6675,6 +6675,14 @@ inside the configuration folder.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="nessyk" changedate="20171113T220334Z" creationid="nessyk" creationdate="20171113T220334Z">
         <seg>Пропущенні теги</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Modification Info/Display None</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Лера9764" changedate="20171215T211600Z" creationid="Лера9764" creationdate="20171215T211600Z">
+        <seg>Інформація про модифікацію/Не відображати</seg>
       </tuv>
     </tu>
     <tu>
