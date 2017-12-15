@@ -6591,6 +6591,14 @@ inside the configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Matches can be found in your current translation or in the TMX files that you have put in the /tm/ folder.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Лера9764" changedate="20171215T213940Z" creationid="Лера9764" creationdate="20171215T213940Z">
+        <seg>Збіги можна знайти в поточному перекладі або у файлах TMX, які містяться у теці /tm/.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Maximize</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Лера9764" changedate="20171114T172546Z" creationid="Лера9764" creationdate="20171114T172546Z">
