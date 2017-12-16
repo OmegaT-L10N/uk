@@ -1488,32 +1488,32 @@ The current setting is {0}MB;</seg>
       <tuv lang="EN">
         <seg>50%-74%:</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20170427T115627Z" creationid="Kos Ivantsov" creationdate="20170427T115627Z">
-        <seg>50 %—74 %:</seg>
+      <tuv lang="UK-UA" changeid="Таня" changedate="20171216T130927Z" creationid="Kos Ivantsov" creationdate="20170427T115627Z">
+        <seg>50%-74%:</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>75%-84%:</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20170427T115621Z" creationid="Kos Ivantsov" creationdate="20170427T115621Z">
-        <seg>75 %—84 %:</seg>
+      <tuv lang="UK-UA" changeid="Таня" changedate="20171216T130924Z" creationid="Kos Ivantsov" creationdate="20170427T115621Z">
+        <seg>75%-84%:</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>85%-94%:</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20170427T115615Z" creationid="Kos Ivantsov" creationdate="20170427T115615Z">
-        <seg>85 %—94 %:</seg>
+      <tuv lang="UK-UA" changeid="Таня" changedate="20171216T130919Z" creationid="Kos Ivantsov" creationdate="20170427T115615Z">
+        <seg>85%-94%:</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>95%-100%:</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20170427T115607Z" creationid="Kos Ivantsov" creationdate="20170427T115607Z">
-        <seg>95 %—100 %:</seg>
+      <tuv lang="UK-UA" changeid="Таня" changedate="20171216T130915Z" creationid="Kos Ivantsov" creationdate="20170427T115607Z">
+        <seg>95%-100%:</seg>
       </tuv>
     </tu>
     <tu>
@@ -3945,8 +3945,8 @@ project_save.tmx не був завантажений, а SVN перейшов �
       <tuv lang="EN">
         <seg>E&amp;xclusions...</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="Маринка" changedate="20171114T215230Z" creationid="Маринка" creationdate="20171114T215230Z">
-        <seg>E&amp;xclusions...</seg>
+      <tuv lang="UK-UA" changeid="Таня" changedate="20171216T131350Z" creationid="Маринка" creationdate="20171114T215230Z">
+        <seg>В&amp;иключення...</seg>
       </tuv>
     </tu>
     <tu>
