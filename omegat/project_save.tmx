@@ -9248,8 +9248,8 @@ The scope of a search is by default the project and can be set to be any files l
       <tuv lang="EN">
         <seg>Se&amp;t</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="nessyk" changedate="20171025T182510Z" creationid="nessyk" creationdate="20171025T182510Z">
-        <seg>Se&amp;t</seg>
+      <tuv lang="UK-UA" changeid="Таня" changedate="20171214T205312Z" creationid="nessyk" creationdate="20171025T182510Z">
+        <seg>Конфігурація&amp;</seg>
       </tuv>
     </tu>
     <tu>
@@ -10266,8 +10266,8 @@ The scope of a search is by default the project and can be set to be any files l
       <tuv lang="EN">
         <seg>Switch views with {0} and {1}</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="Маринка" changedate="20171106T204425Z" creationid="Маринка" creationdate="20171106T204425Z">
-        <seg>Switch views with {0} and {1}</seg>
+      <tuv lang="UK-UA" changeid="Таня" changedate="20171216T083624Z" creationid="Маринка" creationdate="20171106T204425Z">
+        <seg>Перемикання перегляду від  {0} до {1}</seg>
       </tuv>
     </tu>
     <tu>
