@@ -4735,6 +4735,14 @@ project_save.tmx не був завантажений, а SVN перейшов �
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Fatal error on line {0}, column {1} while parsing:</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Маринка" changedate="20171217T185044Z" creationid="Маринка" creationdate="20171217T184941Z">
+        <seg>Критична помилка у рядку {0}, стовбець {1} під час аналізу:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>File</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="nessyk" changedate="20171025T175936Z" creationid="nessyk" creationdate="20171025T175936Z">
@@ -8514,6 +8522,14 @@ project without team functionality.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Recoverable error on line {0}, column {1} while parsing:</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Маринка" changedate="20171217T185002Z" creationid="Маринка" creationdate="20171217T184940Z">
+        <seg>Помилка, яку можна виправити у рядку {0}, стовбець {1} while parsing:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Recursi&amp;ve search</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Tetiana21" changedate="20171105T183710Z" creationid="Tetiana21" creationdate="20171105T183623Z">
@@ -12022,6 +12038,14 @@ Exact searches match the whole search string.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Julia" changedate="20170424T144522Z" creationid="Julia" creationdate="20170424T144522Z">
         <seg>Увага</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Warning on line {0}, column {1} while parsing:</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Маринка" changedate="20171217T184955Z" creationid="Маринка" creationdate="20171217T184915Z">
+        <seg>Попередження у рядку {0}, стовбець {1} під час аналізу:</seg>
       </tuv>
     </tu>
     <tu>
