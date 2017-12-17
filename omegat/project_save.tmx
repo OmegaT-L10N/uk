@@ -6431,6 +6431,22 @@ inside the configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Mar&amp;k Whitespace</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Маринка" changedate="20171217T182137Z" creationid="Маринка" creationdate="20171217T182137Z">
+        <seg>Позна&amp;чити пробіли</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Mark &amp;Bidirectional Algorithm Control Characters</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Маринка" changedate="20171217T182243Z" creationid="Маринка" creationdate="20171217T182243Z">
+        <seg>позначити &amp;двонаправлені керівні символи</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Mark &amp;Non-breakable Spaces</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Маринка" changedate="20171217T182002Z" creationid="nessyk" creationdate="20171202T195417Z">
