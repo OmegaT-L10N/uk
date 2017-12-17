@@ -2465,8 +2465,8 @@ may experience unexpected, but correct behaviour.</seg>
       <tuv lang="EN">
         <seg>C&amp;ase sensitive</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="Маринка" changedate="20171107T200136Z" creationid="Маринка" creationdate="20171107T200136Z">
-        <seg>C&amp;ase sensitive</seg>
+      <tuv lang="UK-UA" changeid="Маринка" changedate="20171217T182844Z" creationid="Маринка" creationdate="20171107T200136Z">
+        <seg>В&amp;раховувати регістр</seg>
       </tuv>
     </tu>
     <tu>
@@ -12222,7 +12222,7 @@ Both exact and keyword searches support the wildcard characters * and ?.</seg>
       <tuv lang="EN">
         <seg>Writeable Glossary File:</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="Таня" changedate="20171216T141157Z" creationid="Маринка" creationdate="20171106T204655Z">
+      <tuv lang="UK-UA" changeid="Маринка" changedate="20171217T182626Z" creationid="Маринка" creationdate="20171106T204655Z">
         <seg>Файл словника, який можна змінити:</seg>
       </tuv>
     </tu>
