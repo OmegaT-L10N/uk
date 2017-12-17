@@ -12338,8 +12338,8 @@ Both exact and keyword searches support the wildcard characters * and ?.</seg>
       <tuv lang="EN">
         <seg>You may also copy the files to your project's 'source' folder using your favorite file manager and reload the project by calling Reload from the Project menu.</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="Маринка" changedate="20171118T210348Z" creationid="Лера9764" creationdate="20171102T184912Z">
-        <seg>Ви також можете скопіювати файли в папку „ source“ вашого проекту за допомогою вашого улюбленого менеджера файлів і перезавантажувати проект, вибравши „Перезавантажити“ в меню „ Проект“.</seg>
+      <tuv lang="UK-UA" changeid="Лера9764" changedate="20171217T075318Z" creationid="Лера9764" creationdate="20171102T184912Z">
+        <seg>Ви також можете скопіювати файли в теку „ source“ вашого проекту за допомогою менеджера файлів і перезавантажити проект, вибравши „Перезавантажити“ в меню „ Проект“.</seg>
       </tuv>
     </tu>
     <tu>
