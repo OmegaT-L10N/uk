@@ -6433,8 +6433,8 @@ inside the configuration folder.</seg>
       <tuv lang="EN">
         <seg>Mark &amp;Non-breakable Spaces</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="nessyk" changedate="20171202T195417Z" creationid="nessyk" creationdate="20171202T195417Z">
-        <seg>Mark &amp;Non-breakable Spaces</seg>
+      <tuv lang="UK-UA" changeid="Маринка" changedate="20171217T182002Z" creationid="nessyk" creationdate="20171202T195417Z">
+        <seg>Позначити &amp;нерозривні пробіли</seg>
       </tuv>
     </tu>
     <tu>
@@ -6473,8 +6473,16 @@ inside the configuration folder.</seg>
       <tuv lang="EN">
         <seg>Mark Non-Unique Se&amp;gments</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="Tetiana21" changedate="20171118T140108Z" creationid="Tetiana21" creationdate="20171118T140108Z">
-        <seg>Mark Non-Unique Se&amp;gments</seg>
+      <tuv lang="UK-UA" changeid="Маринка" changedate="20171217T181810Z" creationid="Tetiana21" creationdate="20171118T140108Z">
+        <seg>Позначати неунікальні се&amp;гменти</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Mark Segments &amp;with Notes</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Маринка" changedate="20171217T181848Z" creationid="Маринка" creationdate="20171217T181848Z">
+        <seg>Позначити сегменти &amp;з нотатками</seg>
       </tuv>
     </tu>
     <tu>
