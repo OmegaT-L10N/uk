@@ -5447,6 +5447,14 @@ project_save.tmx не був завантажений, а SVN перейшов �
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Identifier used for alternative translations</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Маринка" changedate="20171221T184609Z" creationid="Маринка" creationdate="20171221T184609Z">
+        <seg>Ідентифікатор, який використовується для альтернативних перекладів</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If checked, the entries are sorted alphabetically.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="nessyk" changedate="20171113T220631Z" creationid="nessyk" creationdate="20171113T214301Z">
