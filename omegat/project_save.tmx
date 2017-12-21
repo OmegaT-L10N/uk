@@ -10102,6 +10102,14 @@ The scope of a search is by default the project and can be set to be any files l
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Specify tag handling behaviour</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Маринка" changedate="20171221T183927Z" creationid="Маринка" creationdate="20171221T183927Z">
+        <seg>Вкажіть дії обробки тегу </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Spellcheck</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="nessyk" changedate="20171106T225610Z" creationid="nessyk" creationdate="20171106T225438Z">
