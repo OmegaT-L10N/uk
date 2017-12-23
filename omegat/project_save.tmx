@@ -7271,6 +7271,14 @@ inside the configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Note: not all filters allow you to select an encoding.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Маринка" changedate="20171223T201010Z" creationid="Маринка" creationdate="20171223T201010Z">
+        <seg>Примітка: не всі фільтри дають змогу вибрати кодування.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Notes</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Лера9764" changedate="20171114T172828Z" creationid="Лера9764" creationdate="20171114T172817Z">
