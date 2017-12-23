@@ -1008,8 +1008,8 @@
       <tuv lang="EN">
         <seg>&amp;Sheet Names</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="Маринка" changedate="20171118T212035Z" creationid="Маринка" creationdate="20171118T212035Z">
-        <seg>&amp;Sheet Names</seg>
+      <tuv lang="UK-UA" changeid="Маринка" changedate="20171223T193528Z" creationid="Маринка" creationdate="20171118T212035Z">
+        <seg>&amp;Ім'я аркуша</seg>
       </tuv>
     </tu>
     <tu>
@@ -9124,6 +9124,14 @@ project without team functionality.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>S&amp;lide Comments</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Маринка" changedate="20171223T193640Z" creationid="Маринка" creationdate="20171223T193640Z">
+        <seg>Ко&amp;ментарі до слайду</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>S&amp;witch Case To</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="nessyk" changedate="20171202T181725Z" creationid="nessyk" creationdate="20171202T181725Z">
@@ -9906,6 +9914,22 @@ The scope of a search is by default the project and can be set to be any files l
       </tuv>
       <tuv lang="UK-UA" changeid="Лера9764" changedate="20171025T182203Z" creationid="Лера9764" creationdate="20171025T182203Z">
         <seg>Пропустити</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Sli&amp;de Masters</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Маринка" changedate="20171223T193545Z" creationid="Маринка" creationdate="20171223T193545Z">
+        <seg>Зра&amp;зок слайду</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Slide La&amp;youts</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Маринка" changedate="20171223T193625Z" creationid="Маринка" creationdate="20171223T193625Z">
+        <seg>Розмітка сла&amp;йду</seg>
       </tuv>
     </tu>
     <tu>
