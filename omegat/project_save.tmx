@@ -1680,8 +1680,8 @@ The current setting is {0}MB;</seg>
       <tuv lang="EN">
         <seg>A&amp;ggregate Tags</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="Tetiana21" changedate="20171204T215549Z" creationid="Маринка" creationdate="20171118T212240Z">
-        <seg>C&amp;пільні теги</seg>
+      <tuv lang="UK-UA" changeid="Маринка" changedate="20171223T194014Z" creationid="Маринка" creationdate="20171118T212240Z">
+        <seg>А&amp;грегатні теги</seg>
       </tuv>
     </tu>
     <tu>
@@ -7761,8 +7761,8 @@ your home folder.</seg>
       <tuv lang="EN">
         <seg>Other Options:</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="Маринка" changedate="20171118T212230Z" creationid="Diman966" creationdate="20171116T200948Z">
-        <seg>Інші функції:</seg>
+      <tuv lang="UK-UA" changeid="Маринка" changedate="20171223T193837Z" creationid="Diman966" creationdate="20171116T200948Z">
+        <seg>Інші параметри:</seg>
       </tuv>
     </tu>
     <tu>
@@ -12322,8 +12322,8 @@ Both exact and keyword searches support the wildcard characters * and ?.</seg>
       <tuv lang="EN">
         <seg>WordAr&amp;t</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="Tetiana21" changedate="20171204T203946Z" creationid="Tetiana21" creationdate="20171204T203946Z">
-        <seg>WordAr&amp;t</seg>
+      <tuv lang="UK-UA" changeid="Маринка" changedate="20171223T193811Z" creationid="Tetiana21" creationdate="20171204T203946Z">
+        <seg>Об'єкти WordAr&amp;t</seg>
       </tuv>
     </tu>
     <tu>
