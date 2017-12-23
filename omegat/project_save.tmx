@@ -10376,6 +10376,14 @@ The scope of a search is by default the project and can be set to be any files l
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>SuperTMXMerge (Apache License 2.0)</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Маринка" changedate="20171223T194414Z" creationid="Маринка" creationdate="20171223T194414Z">
+        <seg>SuperTMXMerge (Apache License 2.0)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Supported Files</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="nessyk" changedate="20171102T210040Z" creationid="nessyk" creationdate="20171102T210019Z">
@@ -11179,8 +11187,8 @@ the server.</seg>
       <tuv lang="EN">
         <seg>This program is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="Tetiana21" changedate="20171206T193326Z" creationid="Tetiana21" creationdate="20171206T193326Z">
-        <seg>This program is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.</seg>
+      <tuv lang="UK-UA" changeid="Маринка" changedate="20171223T195304Z" creationid="Tetiana21" creationdate="20171206T193326Z">
+        <seg>Ця програма надається у доступі, з надією, що вона принесе користь, але  БЕЗ БУДЬ-ЯКИХ ГАРАНТІЙ; навіть без гарантій ПРИДАТНОСТІ ДО ПРОДАЖУ чи ПРИДАТНОСТІ ДЛЯ ПЕВНОЇ МЕТИ.</seg>
       </tuv>
     </tu>
     <tu>
