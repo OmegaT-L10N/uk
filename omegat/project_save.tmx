@@ -5571,6 +5571,14 @@ their defaults as a result of the location change.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If the filter has any options, you may change them by clicking Options.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Маринка" changedate="20171223T201155Z" creationid="Маринка" creationdate="20171223T201155Z">
+        <seg>Якщо фільтр має певні параметри, ви можете змінити їх, натиснувши на вкладку Параметри.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If you are using an authenticated proxy, please enter here your user and password.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Лера9764" changedate="20171205T101109Z" creationid="Лера9764" creationdate="20171102T164018Z">
@@ -11288,6 +11296,14 @@ the server.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="nessyk" changedate="20171121T182330Z" creationid="nessyk" creationdate="20171121T182330Z">
         <seg>Щоб конвертувати файл в командний проект, відкрийте його в графічному інтерфейсі OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To edit what files in what encodings the filter will process, select the filter from the list and click Edit.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Маринка" changedate="20171223T201733Z" creationid="Маринка" creationdate="20171223T201733Z">
+        <seg>Щоб відредагувати певні файли та їхні кодування, які будуть оброблятися за допомогою фільтра, виберіть фільтр зі списку та натисніть Редагувати.</seg>
       </tuv>
     </tu>
     <tu>
