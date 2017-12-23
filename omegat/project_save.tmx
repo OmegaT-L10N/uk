@@ -502,6 +502,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Index entries</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Маринка" changedate="20171223T192705Z" creationid="Маринка" creationdate="20171223T192705Z">
+        <seg>&amp;Елементи покажчика</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;Insert</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20170902T163513Z" creationid="Kos Ivantsov" creationdate="20170902T163513Z">
@@ -744,8 +752,8 @@
       <tuv lang="EN">
         <seg>&amp;Presentation notes</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="Маринка" changedate="20171118T212020Z" creationid="Маринка" creationdate="20171118T212020Z">
-        <seg>&amp;Presentation notes</seg>
+      <tuv lang="UK-UA" changeid="Маринка" changedate="20171223T192523Z" creationid="Маринка" creationdate="20171118T212020Z">
+        <seg>&amp;Нотатки для презентації</seg>
       </tuv>
     </tu>
     <tu>
@@ -12324,6 +12332,14 @@ Both exact and keyword searches support the wildcard characters * and ?.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Маринка" changedate="20171203T193955Z" creationid="Маринка" creationdate="20171203T193955Z">
         <seg>Файли XLIFF</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>XLIFF Filter Options</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Маринка" changedate="20171223T192607Z" creationid="Маринка" creationdate="20171223T192607Z">
+        <seg>Параметри фільтра XLIFF</seg>
       </tuv>
     </tu>
     <tu>
