@@ -12142,6 +12142,14 @@ on line {1}, column {2}.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>When unavailable, the ID will be used as a fallback</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Маринка" changedate="20171223T192813Z" creationid="Маринка" creationdate="20171223T192813Z">
+        <seg>When unavailable, the ID will be used as a fallback</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>When using regular expressions, the replacement string does not support references to groups defined in the search string.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Маринка" changedate="20171114T220448Z" creationid="Маринка" creationdate="20171114T220448Z">
