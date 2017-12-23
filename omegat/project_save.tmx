@@ -2935,6 +2935,14 @@ may experience unexpected, but correct behaviour.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Comme&amp;nts</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Маринка" changedate="20171223T193359Z" creationid="Маринка" creationdate="20171223T193359Z">
+        <seg>Комета&amp;ри</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Comment</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Tetiana21" changedate="20171105T145440Z" creationid="nessyk" creationdate="20171102T210116Z">
@@ -3773,6 +3781,14 @@ may experience unexpected, but correct behaviour.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Doc&amp;ument properties</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Маринка" changedate="20171223T193303Z" creationid="Маринка" creationdate="20171223T193303Z">
+        <seg>В&amp;ідомості про документ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>DocBook</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Маринка" changedate="20171203T194113Z" creationid="Маринка" creationdate="20171203T194113Z">
@@ -3921,6 +3937,14 @@ may experience unexpected, but correct behaviour.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Лера9764" changedate="20171118T090033Z" creationid="nessyk" creationdate="20171113T220900Z">
         <seg>Дублікат</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Duplicate Fallbac&amp;k Text</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Маринка" changedate="20171223T193242Z" creationid="Маринка" creationdate="20171223T193242Z">
+        <seg>Скопіювати ви&amp;хідний текст</seg>
       </tuv>
     </tu>
     <tu>
@@ -4515,6 +4539,14 @@ project_save.tmx не був завантажений, а SVN перейшов �
       </tuv>
       <tuv lang="UK-UA" changeid="Лера9764" changedate="20171105T154617Z" creationid="Лера9764" creationdate="20171105T154617Z">
         <seg>Точний збіг:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Excel</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Маринка" changedate="20171223T193305Z" creationid="Маринка" creationdate="20171223T193305Z">
+        <seg>Excel</seg>
       </tuv>
     </tu>
     <tu>
@@ -7595,6 +7627,14 @@ your home folder.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Маринка" changedate="20171118T202615Z" creationid="Маринка" creationdate="20171101T210104Z">
         <seg>Відкрити теку перекладеного файлу</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Open XML Filter Options</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Маринка" changedate="20171223T193121Z" creationid="Маринка" creationdate="20171223T193121Z">
+        <seg>Відкрити параметри фільтра XML</seg>
       </tuv>
     </tu>
     <tu>
