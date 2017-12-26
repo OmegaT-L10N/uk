@@ -1208,8 +1208,8 @@
       <tuv lang="EN">
         <seg>&amp;Validate tags when leaving a segment</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="Лера9764" changedate="20171205T100839Z" creationid="nessyk" creationdate="20171202T195918Z">
-        <seg>&amp; Перевірити теги при переході до іншого сегмента</seg>
+      <tuv lang="UK-UA" changeid="Лера9764" changedate="20171226T113841Z" creationid="nessyk" creationdate="20171202T195918Z">
+        <seg>Пе&amp;ревірити теги при переході до іншого сегмента</seg>
       </tuv>
     </tu>
     <tu>
@@ -3663,8 +3663,8 @@ may experience unexpected, but correct behaviour.</seg>
       <tuv lang="EN">
         <seg>Display &amp;tags</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="nessyk" changedate="20171202T200726Z" creationid="nessyk" creationdate="20171202T200726Z">
-        <seg>Відображати &amp; теги</seg>
+      <tuv lang="UK-UA" changeid="Лера9764" changedate="20171226T113847Z" creationid="nessyk" creationdate="20171202T200726Z">
+        <seg>Відображати &amp;теги</seg>
       </tuv>
     </tu>
     <tu>
@@ -5137,8 +5137,8 @@ project_save.tmx не був завантажений, а SVN перейшов �
       <tuv lang="EN">
         <seg>Full text, including tags and numbers</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="nessyk" changedate="20171202T201922Z" creationid="nessyk" creationdate="20171202T201922Z">
-        <seg>Повний текст, включаючи теги та цифри</seg>
+      <tuv lang="UK-UA" changeid="Лера9764" changedate="20171226T113922Z" creationid="nessyk" creationdate="20171202T201922Z">
+        <seg>Повний текст, включно з тегами та цифрами</seg>
       </tuv>
     </tu>
     <tu>
@@ -12030,8 +12030,8 @@ on line {1}, column {2}.</seg>
       <tuv lang="EN">
         <seg>Use &amp;XML for standalone tags (e.g., &lt;i/&gt;)</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="nessyk" changedate="20171202T200833Z" creationid="nessyk" creationdate="20171202T200833Z">
-        <seg>Використовуйте &amp; XML для автономних тегів (наприклад, &lt;i /&gt;)</seg>
+      <tuv lang="UK-UA" changeid="Лера9764" changedate="20171226T113852Z" creationid="nessyk" creationdate="20171202T200833Z">
+        <seg>Використовуйте &amp;XML для автономних тегів (наприклад, &lt;i /&gt;)</seg>
       </tuv>
     </tu>
     <tu>
