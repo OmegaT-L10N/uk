@@ -1274,6 +1274,14 @@ To add files to the project, click on the Copy Files to Source Folder... button 
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>(X)HTML Filter Options</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Лера9764" changedate="20171226T115609Z" creationid="Лера9764" creationdate="20171226T115609Z">
+        <seg>Параметри фільтра (X)HTML</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>(You will still able to use OmegaT
 3.6 to edit this project as a team project.)</seg>
       </tuv>
@@ -5787,6 +5795,14 @@ their defaults as a result of the location change.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Invalid HTML file</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Лера9764" changedate="20171226T115531Z" creationid="Лера9764" creationdate="20171226T115531Z">
+        <seg>Неправильний файл HTML</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Invalid file format</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Лера9764" changedate="20171204T135841Z" creationid="Diman966" creationdate="20171116T195901Z">
@@ -8412,8 +8428,8 @@ project without team functionality.</seg>
       <tuv lang="EN">
         <seg>Project autosaved on {0}</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="Tetiana21" changedate="20171210T122004Z" creationid="Tetiana21" creationdate="20171210T122004Z">
-        <seg>Проект автозбрежено в {0}</seg>
+      <tuv lang="UK-UA" changeid="Лера9764" changedate="20171226T115502Z" creationid="Tetiana21" creationdate="20171210T122004Z">
+        <seg>Проект автоматично збережено в {0}</seg>
       </tuv>
     </tu>
     <tu>
