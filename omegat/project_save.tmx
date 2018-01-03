@@ -10909,6 +10909,14 @@ Please try to correct the error and reload the project.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The command is case-sensitive.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Лера9764" changedate="20180103T125641Z" creationid="Лера9764" creationdate="20180103T125641Z">
+        <seg>Команда чутлива до регістру.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The command must include "{target}", which will be replaced with the search text.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Лера9764" changedate="20171118T090444Z" creationid="nessyk" creationdate="20171025T180934Z">
@@ -12579,8 +12587,8 @@ Both exact and keyword searches support the wildcard characters * and ?.</seg>
         <seg>You can find detailed statistic information in the file:
 {0}</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="Маринка" changedate="20171209T214713Z" creationid="Маринка" creationdate="20171101T205621Z">
-        <seg>Не можна знайти деталізовану інформацію про статистуику у файлі:
+      <tuv lang="UK-UA" changeid="Лера9764" changedate="20180103T125807Z" creationid="Маринка" creationdate="20171101T205621Z">
+        <seg>Не можна знайти деталізовану інформацію про статистику у файлі:
 {0}</seg>
       </tuv>
     </tu>
