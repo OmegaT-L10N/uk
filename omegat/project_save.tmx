@@ -3127,6 +3127,18 @@ may experience unexpected, but correct behaviour.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Console-align mode:
+	--alignDir=&lt;path&gt;
+		A directory containing the translated files.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Лера9764" changedate="20180103T144311Z" creationid="Лера9764" creationdate="20180103T144311Z">
+        <seg>Режим вирівнювання консолі:
+	--alignDir=&lt;path&gt;
+		Каталог, що містить перекладені файли.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Console-pseudotranslatetmx mode:
 	--pseudotranslatetmx=&lt;path&gt;
 		The output pseudotranslated TMX file.</seg>
@@ -5699,6 +5711,14 @@ their defaults as a result of the location change.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Initialized {0}-{1} team project.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Лера9764" changedate="20180103T144402Z" creationid="Лера9764" creationdate="20180103T144402Z">
+        <seg>Ініціалізований {0}-{1} командний проект.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Initializing</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Tetiana21" changedate="20171105T201330Z" creationid="Tetiana21" creationdate="20171105T201330Z">
@@ -7995,6 +8015,17 @@ your home folder.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="nessyk" changedate="20171118T184526Z" creationid="nessyk" creationdate="20171101T184017Z">
         <seg>Цільове вирівнювання: оберіть відповідну комірку</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Place source files in ./source and supplemental
+material in ./tm, ./glossary, and ./dictionary as required, then commit
+everything.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Лера9764" changedate="20180103T144527Z" creationid="Лера9764" creationdate="20180103T144527Z">
+        <seg>Рохташувати файли оригіналу в ./source і додатковий матеріал у ./tm, ./glossary, та ./dictionary як required, then commit
+everything.</seg>
       </tuv>
     </tu>
     <tu>
