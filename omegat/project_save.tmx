@@ -8023,9 +8023,10 @@ your home folder.</seg>
 material in ./tm, ./glossary, and ./dictionary as required, then commit
 everything.</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="Лера9764" changedate="20180103T144527Z" creationid="Лера9764" creationdate="20180103T144527Z">
-        <seg>Рохташувати файли оригіналу в ./source і додатковий матеріал у ./tm, ./glossary, та ./dictionary як required, then commit
-everything.</seg>
+      <tuv lang="UK-UA" changeid="Лера9764" changedate="20180103T144923Z" creationid="Лера9764" creationdate="20180103T144527Z">
+        <seg>Розташувати файли оригіналу в ./source і додатковий
+матеріал у ./tm, ./glossary, та ./dictionary як обов'язковий, потім все 
+здійснити.</seg>
       </tuv>
     </tu>
     <tu>
