@@ -1998,6 +1998,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Allow translating &amp;blank source segments</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Лера9764" changedate="20180103T150913Z" creationid="Лера9764" creationdate="20180103T150913Z">
+        <seg>Дозволити переклад порожніх сегментів оригіналу</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Allows to view, add, remove or edit a note in the active segment.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Лера9764" changedate="20171208T182616Z" creationid="Лера9764" creationdate="20171208T182616Z">
@@ -4463,6 +4471,14 @@ project_save.tmx не був завантажений, а SVN перейшов �
       </tuv>
       <tuv lang="UK-UA" changeid="Маринка" changedate="20171114T214231Z" creationid="Маринка" creationdate="20171114T214231Z">
         <seg>Помилка при запуску зовнішньої команди: {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Error unload plugin from class '{0}': {1}</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Лера9764" changedate="20180103T150716Z" creationid="Лера9764" creationdate="20180103T150716Z">
+        <seg>Помилка вивантаження плагіна з класу '{0}': {1}</seg>
       </tuv>
     </tu>
     <tu>
