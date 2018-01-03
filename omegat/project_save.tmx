@@ -496,8 +496,8 @@
       <tuv lang="EN">
         <seg>&amp;Ignore hits with very different case (e.g. FOO vs foo)</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="Маринка" changedate="20171209T213705Z" creationid="Маринка" creationdate="20171209T213705Z">
-        <seg>&amp;Ignore hits with very different case (e.g. FOO vs foo)</seg>
+      <tuv lang="UK-UA" changeid="Лера9764" changedate="20180103T145354Z" creationid="Маринка" creationdate="20171209T213705Z">
+        <seg>&amp;Ігнорувати збіги з іншим регістром (e.g. FOO vs foo)</seg>
       </tuv>
     </tu>
     <tu>
