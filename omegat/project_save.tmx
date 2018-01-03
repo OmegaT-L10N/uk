@@ -4459,6 +4459,14 @@ project_save.tmx не був завантажений, а SVN перейшов �
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Error saving segmentation rules configuration:</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Лера9764" changedate="20180103T151956Z" creationid="Лера9764" creationdate="20180103T151956Z">
+        <seg>Помилка збереження конфігурації правил сегментації:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Error searching directory tree!</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Маринка" changedate="20171121T210208Z" creationid="Маринка" creationdate="20171118T205637Z">
