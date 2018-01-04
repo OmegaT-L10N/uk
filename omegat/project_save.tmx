@@ -4643,6 +4643,14 @@ project_save.tmx не був завантажений, а SVN перейшов �
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Exception while editing options:</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Маринка" changedate="20180104T191526Z" creationid="Маринка" creationdate="20180104T191526Z">
+        <seg>Виняток під час параметрів редагування:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Exception while parsing:</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Маринка" changedate="20171217T184748Z" creationid="Маринка" creationdate="20171121T205644Z">
