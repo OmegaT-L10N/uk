@@ -1550,6 +1550,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;&amp;br&gt; (breaks)</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Маринка" changedate="20180104T191252Z" creationid="Маринка" creationdate="20180104T191252Z">
+        <seg>&lt;&amp;br&gt; (розриви)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;EMPTY&gt;</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20170427T120310Z" creationid="Kos Ivantsov" creationdate="20170427T120301Z">
@@ -8890,6 +8898,14 @@ project without team functionality.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Remove HTML comments in translated document</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Маринка" changedate="20180104T191038Z" creationid="Маринка" creationdate="20180104T191038Z">
+        <seg>Перемістити коментари з файлу HTML до перекладеного документа</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Remove Script</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Лера9764" changedate="20171110T192450Z" creationid="Лера9764" creationdate="20171110T192450Z">
@@ -10476,6 +10492,14 @@ The scope of a search is by default the project and can be set to be any files l
       </tuv>
       <tuv lang="UK-UA" changeid="Tetiana21" changedate="20171205T110002Z" creationid="Tetiana21" creationdate="20171205T110002Z">
         <seg>Start a New Paragraph &amp;on Word Soft Return</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Start a new paragraph on:</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Маринка" changedate="20180104T191120Z" creationid="Маринка" creationdate="20180104T191120Z">
+        <seg>Розпочати новий абзац з:</seg>
       </tuv>
     </tu>
     <tu>
