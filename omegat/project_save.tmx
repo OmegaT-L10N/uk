@@ -2433,8 +2433,8 @@ may experience unexpected, but correct behaviour.</seg>
       <tuv lang="EN">
         <seg>Bad regular expression</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="Маринка" changedate="20180104T185028Z" creationid="Маринка" creationdate="20180104T185028Z">
-        <seg>Bad regular expression</seg>
+      <tuv lang="UK-UA" changeid="Маринка" changedate="20180104T185209Z" creationid="Маринка" creationdate="20180104T185028Z">
+        <seg>Неправильний регулярний вираз</seg>
       </tuv>
     </tu>
     <tu>
@@ -3789,6 +3789,14 @@ may experience unexpected, but correct behaviour.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="nessyk" changedate="20171101T184230Z" creationid="nessyk" creationdate="20171101T184211Z">
         <seg>Відстань</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Do not translate the content attribute of meta-tags with the following attribute key-value pairs (separate with commas):</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Маринка" changedate="20180104T190838Z" creationid="Маринка" creationdate="20180104T190838Z">
+        <seg>Не перекладайте текст атрибуту, який вміщений у мета тегах, з наступними парами ключ-значення (окремо через коми):</seg>
       </tuv>
     </tu>
     <tu>
