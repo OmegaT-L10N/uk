@@ -4659,6 +4659,14 @@ project_save.tmx не був завантажений, а SVN перейшов �
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Exceptions occurred while loading segmentation rules:</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Маринка" changedate="20180104T191718Z" creationid="Маринка" creationdate="20180104T191718Z">
+        <seg>Під час завантаження правил сегментації з'явилися винятки:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Exciting help page&lt;p&gt;Gossamer threads hold you back&lt;p&gt;404 not found</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Лера9764" changedate="20171205T065426Z" creationid="Маринка" creationdate="20171118T192122Z">
@@ -12636,6 +12644,14 @@ Both exact and keyword searches support the wildcard characters * and ?.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Лера9764" changedate="20171118T085911Z" creationid="Tetiana21" creationdate="20171116T200409Z">
         <seg>Неправильний логін/пароль </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>XHTML Filter Options</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Маринка" changedate="20180104T191738Z" creationid="Маринка" creationdate="20180104T191738Z">
+        <seg>Параметри фільтру XHTML </seg>
       </tuv>
     </tu>
     <tu>
