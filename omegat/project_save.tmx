@@ -2431,6 +2431,14 @@ may experience unexpected, but correct behaviour.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Bad regular expression</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Маринка" changedate="20180104T185028Z" creationid="Маринка" creationdate="20180104T185028Z">
+        <seg>Bad regular expression</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Bad regular expression!</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Маринка" changedate="20171204T170156Z" creationid="Маринка" creationdate="20171118T205640Z">
@@ -10066,6 +10074,14 @@ The scope of a search is by default the project and can be set to be any files l
       </tuv>
       <tuv lang="UK-UA" changeid="Лера9764" changedate="20171025T182203Z" creationid="Лера9764" creationdate="20171025T182203Z">
         <seg>Пропустити</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Skip text matching regular expression:</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Маринка" changedate="20180104T185142Z" creationid="Маринка" creationdate="20180104T185142Z">
+        <seg>Пропустити текст, який співпадає з регулярним виразом:</seg>
       </tuv>
     </tu>
     <tu>
