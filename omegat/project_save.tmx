@@ -7691,6 +7691,14 @@ your home folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Only if (X)HTML file has a &amp;header</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Маринка" changedate="20180104T185025Z" creationid="Маринка" creationdate="20180104T185025Z">
+        <seg>Тільки якщо файл формату (X)HTML має &amp;заголовок</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Open MED Project...</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Лера9764" changedate="20171122T143343Z" creationid="Лера9764" creationdate="20171030T193551Z">
