@@ -47,7 +47,7 @@
   <p>and confirm with ENTER.</p>
   <p>Then enter the launch command itself, and confirm with ENTER. The basic launch command is:</p>
   <p>java -jar OmegaT.jar</p>
-  <p>The command is case-sensitive.</p>
+  <p>Команда чутлива до регістру.</p>
   <p>If you are relying on or wish to use a Java installation that is not installed at system level, this will not be sufficient: you must also instruct your system where to find Java. If you have installed a version of OmegaT with JRE supplied, the launch script supplied already contains this path for you. If you have installed an additional version of Java but have not made it the default version at system level, you must include the whole path of the Java binary in the launch command. This will be something like /usr/lib/jvm/java-6-sun-1.6.0.16/jre/bin/java; make a note of where Java is installed during installation so that you can find it again. The command will therefore be (in this case):</p>
   <p>/usr/lib/jvm/java-6-sun-1.6.0.16/jre/bin/java -jar OmegaT.jar</p>
   <p>In your launch script, do not confuse the path to OmegaT.jar and the path to the java command. The first (with the cd command) is needed if your launch script is not in the same folder as OmegaT.jar. The second is needed if the Java version you wish to use is not the default installation at system level.</p>
