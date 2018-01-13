@@ -7507,6 +7507,14 @@ inside the configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>OK</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Таня" changedate="20180113T110802Z" creationid="Таня" creationdate="20180113T110802Z">
+        <seg>Гаразд</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>OS X Signed</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20171209T224247Z" creationid="Kos Ivantsov" creationdate="20171209T223417Z">
@@ -9966,6 +9974,14 @@ The scope of a search is by default the project and can be set to be any files l
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Server does not understand the "translate" method</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Таня" changedate="20180113T120215Z" creationid="Таня" creationdate="20180113T120215Z">
+        <seg>Сервер не розуміє спосіб "перекладу"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Service type</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Tetiana21" changedate="20171210T131632Z" creationid="nessyk" creationdate="20171202T181217Z">
@@ -10932,6 +10948,14 @@ The scope of a search is by default the project and can be set to be any files l
       </tuv>
       <tuv lang="UK-UA" changeid="nessyk" changedate="20171025T181022Z" creationid="nessyk" creationdate="20171025T181022Z">
         <seg>Спроба</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Testing...</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Таня" changedate="20180113T110755Z" creationid="Таня" creationdate="20180113T110755Z">
+        <seg>Перевірка...</seg>
       </tuv>
     </tu>
     <tu>
