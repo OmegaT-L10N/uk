@@ -1966,6 +1966,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Aligner Highlight</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="nessyk" changedate="20180114T103105Z" creationid="nessyk" creationdate="20180114T103105Z">
+        <seg>Виділення вирівнювання </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>All</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="nessyk" changedate="20171030T174312Z" creationid="nessyk" creationdate="20171030T174312Z">
@@ -5311,6 +5319,14 @@ project_save.tmx не був завантажений, а SVN перейшов �
       </tuv>
       <tuv lang="UK-UA" changeid="Маринка" changedate="20171118T203404Z" creationid="Маринка" creationdate="20171106T204653Z">
         <seg>Тека глосарія:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Glossary Matches</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="nessyk" changedate="20180114T102744Z" creationid="nessyk" creationdate="20180114T102744Z">
+        <seg>Збіги глосарію </seg>
       </tuv>
     </tu>
     <tu>
