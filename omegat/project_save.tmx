@@ -1960,16 +1960,24 @@ The current setting is {0}MB;</seg>
       <tuv lang="EN">
         <seg>Aligner "Needs Review" Group</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="nessyk" changedate="20171125T150107Z" creationid="nessyk" creationdate="20171125T150107Z">
-        <seg>Aligner "Needs Review" Group</seg>
+      <tuv lang="UK-UA" changeid="nessyk" changedate="20180114T103959Z" creationid="nessyk" creationdate="20171125T150107Z">
+        <seg>Вирівнювач "Потребує перегляду"  </seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Aligner Highlight</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="nessyk" changedate="20180114T103105Z" creationid="nessyk" creationdate="20180114T103105Z">
-        <seg>Виділення вирівнювання </seg>
+      <tuv lang="UK-UA" changeid="nessyk" changedate="20180114T103131Z" creationid="nessyk" creationdate="20180114T103105Z">
+        <seg>Виділення вирівнювача </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Aligner Table Row Highlight</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="nessyk" changedate="20180114T103135Z" creationid="nessyk" creationdate="20180114T103135Z">
+        <seg>Aligner Table Row Highlight</seg>
       </tuv>
     </tu>
     <tu>
