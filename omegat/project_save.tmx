@@ -5727,6 +5727,14 @@ their defaults as a result of the location change.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Ignore type and ctype attributes when building &lt;&amp;bpt&gt; and &lt;ept&gt; tag shortcuts</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Diman966" changedate="20180115T202205Z" creationid="Diman966" creationdate="20180115T202205Z">
+        <seg>Ігнорувати атрибути типу і с-типу при побудові  &lt;&amp; bpt&gt; та &lt;ept&gt;ярликів тегів</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Ignore: “{0}”</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="nessyk" changedate="20171030T174521Z" creationid="nessyk" creationdate="20171030T174521Z">
@@ -10586,8 +10594,8 @@ The scope of a search is by default the project and can be set to be any files l
       <tuv lang="EN">
         <seg>Start a New Paragraph &amp;on Word Soft Return</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="Tetiana21" changedate="20171205T110002Z" creationid="Tetiana21" creationdate="20171205T110002Z">
-        <seg>Start a New Paragraph &amp;on Word Soft Return</seg>
+      <tuv lang="UK-UA" changeid="Diman966" changedate="20180115T202351Z" creationid="Tetiana21" creationdate="20171205T110002Z">
+        <seg>Почати новий параграф &amp;on Word Soft Return</seg>
       </tuv>
     </tu>
     <tu>
