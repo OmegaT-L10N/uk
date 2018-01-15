@@ -502,6 +502,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Ignore type and ctype attributes when building &lt;ph&gt; tag shortcuts</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Diman966" changedate="20180115T202040Z" creationid="Diman966" creationdate="20180115T202040Z">
+        <seg>&amp;Ігнорувати атрибути типу та с-типу під час створення &lt;ph&gt; ярликів тегів</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;In translation</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Tetiana21" changedate="20171105T183321Z" creationid="Tetiana21" creationdate="20171105T183321Z">
@@ -1309,8 +1317,8 @@ To add files to the project, click on the Copy Files to Source Folder... button 
       <tuv lang="EN">
         <seg>(comment tag)</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="Маринка" changedate="20171118T213031Z" creationid="Маринка" creationdate="20171118T213031Z">
-        <seg>(comment tag)</seg>
+      <tuv lang="UK-UA" changeid="Diman966" changedate="20180115T201519Z" creationid="Маринка" creationdate="20171118T213031Z">
+        <seg>(тег коментаря)</seg>
       </tuv>
     </tu>
     <tu>
@@ -11164,6 +11172,14 @@ instead.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="nessyk" changedate="20171102T205846Z" creationid="nessyk" creationdate="20171102T205820Z">
         <seg>Файл такого типу  "{0}"не підтримується.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The following options apply to the 3.x filter only</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Diman966" changedate="20180115T201621Z" creationid="Diman966" creationdate="20180115T201621Z">
+        <seg>Наступні параметри застосовуються лише до фільтра 3.x</seg>
       </tuv>
     </tu>
     <tu>
