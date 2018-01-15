@@ -5243,6 +5243,14 @@ project_save.tmx не був завантажений, а SVN перейшов �
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Full checking can lead to false positives in normal texts.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Diman966" changedate="20180115T202850Z" creationid="Diman966" creationdate="20180115T202850Z">
+        <seg>Повна перевірка може призвести до помилкових спрацьовувань у звичайних текстах.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Full table</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="nessyk" changedate="20171113T215502Z" creationid="nessyk" creationdate="20171113T215502Z">
@@ -8340,6 +8348,14 @@ additional steps need to be taken.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Tetiana21" changedate="20171105T135123Z" creationid="Tetiana21" creationdate="20171105T134345Z">
         <seg>Будь ласка, коли Ви гортаєте текст, оберіть неперекладений текст, який хотіли б вставити у сегмент.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Please select which behaviour is appropriate.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Diman966" changedate="20180115T202509Z" creationid="Diman966" creationdate="20180115T202509Z">
+        <seg>Будь-ласка виберіть відповідний режим роботи. </seg>
       </tuv>
     </tu>
     <tu>
