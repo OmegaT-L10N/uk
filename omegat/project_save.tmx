@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.2_2_10096:10098" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.3_2_10257M" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -1446,10 +1446,10 @@ To add files to the project, click on the Copy Files to Source Folder... button 
 		Download an omegat.project file from the URL given as &lt;project
 		path&gt; and load the project.</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20170902T144013Z" creationid="Kos Ivantsov" creationdate="20170902T144013Z">
+      <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20180122T211708Z" creationid="Kos Ivantsov" creationdate="20170902T144013Z">
         <seg>--remote-project
-		Стягнути файл omegat.project з URL-адреси, вказаної у параметрі &lt;шлях
-		до проекту&gt;, та завантажити проект.</seg>
+		Стягнути файл omegat.project з URL-адреси, вказаної
+		у параметрі &lt;шлях до проекту&gt;, та завантажити проект.</seg>
       </tuv>
     </tu>
     <tu>
