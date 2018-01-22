@@ -1910,6 +1910,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Add or rewrite encoding declaration in HTML and XHTML files:</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Лера9764" changedate="20180122T154421Z" creationid="Лера9764" creationdate="20180122T154421Z">
+        <seg>Додати чи перезаписати декларацію кодування у файлах HTML та XHTML:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Added {0} glossary entries from {1}</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Маринка" changedate="20171126T180939Z" creationid="Маринка" creationdate="20171121T210820Z">
