@@ -3771,8 +3771,8 @@ may experience unexpected, but correct behaviour.</seg>
       <tuv lang="EN">
         <seg>Display all &amp;source segments in bold</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="nessyk" changedate="20171202T202552Z" creationid="nessyk" creationdate="20171202T202552Z">
-        <seg>Відображати всі&amp; сегменти оригіналу з жирним шрифтом</seg>
+      <tuv lang="UK-UA" changeid="Лера9764" changedate="20180122T155417Z" creationid="nessyk" creationdate="20171202T202552Z">
+        <seg>Відображати всі &amp;сегменти оригіналу з жирним шрифтом</seg>
       </tuv>
     </tu>
     <tu>
@@ -7517,16 +7517,16 @@ inside the configuration folder.</seg>
       <tuv lang="EN">
         <seg>Notify Me When a Segment Has Comments</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="Лера9764" changedate="20171114T172700Z" creationid="Лера9764" creationdate="20171114T172356Z">
-        <seg>Повідомте мене, коли сегмент матиме коментарі</seg>
+      <tuv lang="UK-UA" changeid="Лера9764" changedate="20180122T155542Z" creationid="Лера9764" creationdate="20171114T172356Z">
+        <seg>Повідомити мене, коли сегмент матиме коментарі</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Notify Me When a Segment Has Dictionary Entries</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="Лера9764" changedate="20171114T172922Z" creationid="Лера9764" creationdate="20171114T172922Z">
-        <seg>Повідомте мене, коли сегмент матиме співпадіння у словнику</seg>
+      <tuv lang="UK-UA" changeid="Лера9764" changedate="20180122T155456Z" creationid="Лера9764" creationdate="20171114T172922Z">
+        <seg>Повідомити мене, коли сегмент матиме співпадіння у словнику</seg>
       </tuv>
     </tu>
     <tu>
@@ -7549,8 +7549,8 @@ inside the configuration folder.</seg>
       <tuv lang="EN">
         <seg>Notify Me When a Segment Has Notes</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="Лера9764" changedate="20171114T172650Z" creationid="Лера9764" creationdate="20171114T172644Z">
-        <seg>Повідомте мене, коли сегмент матиме примітки</seg>
+      <tuv lang="UK-UA" changeid="Лера9764" changedate="20180122T155527Z" creationid="Лера9764" creationdate="20171114T172644Z">
+        <seg>Повідомити мене, коли сегмент матиме примітки</seg>
       </tuv>
     </tu>
     <tu>
