@@ -6104,8 +6104,8 @@ their defaults as a result of the location change.</seg>
       <tuv lang="EN">
         <seg>Include the &amp;first non-unique segment when marking non-unique segments</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="nessyk" changedate="20171205T172841Z" creationid="nessyk" creationdate="20171205T172841Z">
-        <seg>Include the &amp;first non-unique segment when marking non-unique segments</seg>
+      <tuv lang="UK-UA" changeid="Diman966" changedate="20180123T162938Z" creationid="nessyk" creationdate="20171205T172841Z">
+        <seg>Увімкніть &amp;перший не унікальний сегмент, під час позначення не унікальних сегментів </seg>
       </tuv>
     </tu>
     <tu>
@@ -11125,8 +11125,8 @@ The scope of a search is by default the project and can be set to be any files l
       <tuv lang="EN">
         <seg>Stemming, no tags and no numbers</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="nessyk" changedate="20171202T201713Z" creationid="nessyk" creationdate="20171202T201713Z">
-        <seg>Stemming, no tags and no numbers</seg>
+      <tuv lang="UK-UA" changeid="Diman966" changedate="20180123T163128Z" creationid="nessyk" creationdate="20171202T201713Z">
+        <seg>Основа без тегів та цифр </seg>
       </tuv>
     </tu>
     <tu>
