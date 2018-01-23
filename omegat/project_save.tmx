@@ -8419,8 +8419,8 @@ additional steps need to be taken.</seg>
       <tuv lang="EN">
         <seg>Please enter the name of this set:</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="Tetiana21" changedate="20171118T114129Z" creationid="Tetiana21" creationdate="20171118T114129Z">
-        <seg>Please enter the name of this set:</seg>
+      <tuv lang="UK-UA" changeid="nessyk" changedate="20180123T130129Z" creationid="Tetiana21" creationdate="20171118T114129Z">
+        <seg>Будь ласка, введіть назву цього набору:</seg>
       </tuv>
     </tu>
     <tu>
@@ -9719,8 +9719,8 @@ project without team functionality.</seg>
       <tuv lang="EN">
         <seg>Save Current Set...</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="Tetiana21" changedate="20171118T114122Z" creationid="Tetiana21" creationdate="20171118T114122Z">
-        <seg>Save Current Set...</seg>
+      <tuv lang="UK-UA" changeid="nessyk" changedate="20180123T130125Z" creationid="Tetiana21" creationdate="20171118T114122Z">
+        <seg>Зберегти поточний набір ...</seg>
       </tuv>
     </tu>
     <tu>
@@ -10393,8 +10393,8 @@ The scope of a search is by default the project and can be set to be any files l
       <tuv lang="EN">
         <seg>Show Find Search Bar</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="Маринка" changedate="20171203T184559Z" creationid="Маринка" creationdate="20171203T184559Z">
-        <seg>Show Find Search Bar</seg>
+      <tuv lang="UK-UA" changeid="nessyk" changedate="20180123T130222Z" creationid="Маринка" creationdate="20171203T184559Z">
+        <seg>Показати панель пошуку</seg>
       </tuv>
     </tu>
     <tu>
@@ -10409,8 +10409,8 @@ The scope of a search is by default the project and can be set to be any files l
       <tuv lang="EN">
         <seg>Show Replace Search Bar</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="Маринка" changedate="20171209T194513Z" creationid="Маринка" creationdate="20171209T194513Z">
-        <seg>Show Replace Search Bar</seg>
+      <tuv lang="UK-UA" changeid="nessyk" changedate="20180123T130151Z" creationid="Маринка" creationdate="20171209T194513Z">
+        <seg>Показати заміну панелі пошуку</seg>
       </tuv>
     </tu>
     <tu>
