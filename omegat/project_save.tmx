@@ -294,6 +294,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Do not check printf-variables</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Diman966" changedate="20180123T161810Z" creationid="Diman966" creationdate="20180123T161810Z">
+        <seg>&amp;Не перевіряйте змінні - printf </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;Do not unescape Unicode literals (\uXXXX)</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Лера9764" changedate="20180103T151049Z" creationid="Маринка" creationdate="20171203T194642Z">
@@ -2869,6 +2877,14 @@ may experience unexpected, but correct behaviour.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20170902T182709Z" creationid="Kos Ivantsov" creationdate="20170902T182709Z">
         <seg>&amp;Пошук помилок</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Check &amp;simple printf-variables (e.g., %s, %d)</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Diman966" changedate="20180123T161843Z" creationid="Diman966" creationdate="20180123T161843Z">
+        <seg> &amp;simple printf-variables (e.g., %s, %d)</seg>
       </tuv>
     </tu>
     <tu>
