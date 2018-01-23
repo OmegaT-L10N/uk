@@ -1032,8 +1032,8 @@
       <tuv lang="EN">
         <seg>&amp;Sentence Case</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="Tetiana21" changedate="20171118T140131Z" creationid="Tetiana21" creationdate="20171118T140131Z">
-        <seg>&amp;Sentence Case</seg>
+      <tuv lang="UK-UA" changeid="nessyk" changedate="20180123T144420Z" creationid="Tetiana21" creationdate="20171118T140131Z">
+        <seg>&amp;Регістр для речень</seg>
       </tuv>
     </tu>
     <tu>
@@ -3807,8 +3807,8 @@ may experience unexpected, but correct behaviour.</seg>
       <tuv lang="EN">
         <seg>Display &amp;None</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="Tetiana21" changedate="20171118T143043Z" creationid="Tetiana21" creationdate="20171118T143043Z">
-        <seg>Display &amp;None</seg>
+      <tuv lang="UK-UA" changeid="nessyk" changedate="20180123T143143Z" creationid="Tetiana21" creationdate="20171118T143043Z">
+        <seg>Відображати &amp;Жоден</seg>
       </tuv>
     </tu>
     <tu>
@@ -6948,6 +6948,14 @@ inside the configuration folder.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="nessyk" changedate="20171101T184636Z" creationid="nessyk" creationdate="20171025T180717Z">
         <seg>Прийняте означення</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Mark Glossary Matches</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="nessyk" changedate="20180123T143115Z" creationid="nessyk" creationdate="20180123T143115Z">
+        <seg>Позначити збіги глосарію</seg>
       </tuv>
     </tu>
     <tu>
