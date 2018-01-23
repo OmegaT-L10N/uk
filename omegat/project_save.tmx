@@ -2881,10 +2881,18 @@ may experience unexpected, but correct behaviour.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Check &amp;all printf-variables (e.g., %s, %-s)</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Diman966" changedate="20180123T162303Z" creationid="Diman966" creationdate="20180123T162303Z">
+        <seg>Перевірити &amp;всі змінні - printf (e.g., %s, %-s)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Check &amp;simple printf-variables (e.g., %s, %d)</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="Diman966" changedate="20180123T161910Z" creationid="Diman966" creationdate="20180123T161843Z">
-        <seg>Перевіряти &amp;прості змінні - printf (e.g., %s, %d)</seg>
+      <tuv lang="UK-UA" changeid="Diman966" changedate="20180123T162330Z" creationid="Diman966" creationdate="20180123T161843Z">
+        <seg>Перевірити &amp;прості змінні - printf (e.g., %s, %d)</seg>
       </tuv>
     </tu>
     <tu>
@@ -12915,6 +12923,14 @@ on line {1}, column {2}.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Лера9764" changedate="20171110T192821Z" creationid="Лера9764" creationdate="20171110T192821Z">
         <seg>Використовувати як переклад за замовчуванням</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Use custom templates for modification &amp;info</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Diman966" changedate="20180123T162517Z" creationid="Diman966" creationdate="20180123T162517Z">
+        <seg>Використати спеціальні шаблони для інформаціїї про модернізацію </seg>
       </tuv>
     </tu>
     <tu>
