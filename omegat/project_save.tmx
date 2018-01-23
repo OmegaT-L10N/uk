@@ -2489,8 +2489,8 @@ may experience unexpected, but correct behaviour.</seg>
       <tuv lang="EN">
         <seg>Bad nesting</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="nessyk" changedate="20171113T220940Z" creationid="nessyk" creationdate="20171113T220940Z">
-        <seg>Bad nesting</seg>
+      <tuv lang="UK-UA" changeid="nessyk" changedate="20180123T124717Z" creationid="nessyk" creationdate="20171113T220940Z">
+        <seg>Неправильне місце розташування nesting</seg>
       </tuv>
     </tu>
     <tu>
@@ -5407,10 +5407,26 @@ project_save.tmx не був завантажений, а SVN перейшов �
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Git '{0}' did nothing because there were no changes</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="nessyk" changedate="20180123T124816Z" creationid="nessyk" creationdate="20180123T124816Z">
+        <seg>Git '{0}' did nothing because there were no changes</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Git '{0}' execution finished successfully</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="nessyk" changedate="20180123T125044Z" creationid="nessyk" creationdate="20180123T124818Z">
+        <seg>Гіт '{0}' виконання закінчилося успішно</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Git '{0}' execution start</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="nessyk" changedate="20171125T174724Z" creationid="nessyk" creationdate="20171125T174724Z">
-        <seg>Git '{0}' execution start</seg>
+      <tuv lang="UK-UA" changeid="nessyk" changedate="20180123T124850Z" creationid="nessyk" creationdate="20171125T174724Z">
+        <seg>Гіт'{0}' початок виконання</seg>
       </tuv>
     </tu>
     <tu>
@@ -7806,8 +7822,8 @@ inside the configuration folder.</seg>
       <tuv lang="EN">
         <seg>OmegaT has detected a 3.6-style team project.</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="nessyk" changedate="20171121T182451Z" creationid="nessyk" creationdate="20171121T182451Z">
-        <seg>OmegaT has detected a 3.6-style team project.</seg>
+      <tuv lang="UK-UA" changeid="nessyk" changedate="20180123T124808Z" creationid="nessyk" creationdate="20171121T182451Z">
+        <seg>OmegaT виявив командний проект стилю 3.6.</seg>
       </tuv>
     </tu>
     <tu>
