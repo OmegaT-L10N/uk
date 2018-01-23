@@ -7232,6 +7232,14 @@ inside the configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Moses Server URL:</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="nessyk" changedate="20180123T140552Z" creationid="nessyk" creationdate="20180123T140552Z">
+        <seg>Сервер Moses URL:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Mourning and sorrow&lt;p&gt;404 not with us now&lt;p&gt;Lost to paradise</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Лера9764" changedate="20180122T143646Z" creationid="Diman966" creationdate="20180115T200800Z">
@@ -11384,6 +11392,14 @@ current folder will be used instead.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="nessyk" changedate="20171205T173925Z" creationid="nessyk" creationdate="20171205T173925Z">
         <seg>Замість цього буде використана поточна папка.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The Moses server URL is not set</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="nessyk" changedate="20180123T140632Z" creationid="nessyk" creationdate="20180123T140632Z">
+        <seg>URL Moses сервер не встановлений </seg>
       </tuv>
     </tu>
     <tu>
