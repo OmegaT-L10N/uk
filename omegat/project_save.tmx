@@ -1976,8 +1976,8 @@ The current setting is {0}MB;</seg>
       <tuv lang="EN">
         <seg>Aggressive &amp;Font Fallback</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="nessyk" changedate="20180123T143027Z" creationid="nessyk" creationdate="20180123T143027Z">
-        <seg>Aggressive &amp;Font Fallback</seg>
+      <tuv lang="UK-UA" changeid="Diman966" changedate="20180123T154134Z" creationid="nessyk" creationdate="20180123T143027Z">
+        <seg>Агресивний &amp;Запасний шрифт</seg>
       </tuv>
     </tu>
     <tu>
@@ -2699,8 +2699,8 @@ may experience unexpected, but correct behaviour.</seg>
       <tuv lang="EN">
         <seg>Cancel only works on scripts that explicitly check for cancellation.</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="Diman966" changedate="20180123T153620Z" creationid="Tetiana21" creationdate="20171118T110713Z">
-        <seg>Скасування працює лише в сценаріях, які явно перевіряють на скасування.</seg>
+      <tuv lang="UK-UA" changeid="Diman966" changedate="20180123T153800Z" creationid="Tetiana21" creationdate="20171118T110713Z">
+        <seg>Скасування працює лише в скриптах, які точно перевіряють скасування.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11768,8 +11768,8 @@ in /lib/licenses/Licenses.txt.</seg>
       <tuv lang="EN">
         <seg>The script "{0}" is running...</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="nessyk" changedate="20180123T135613Z" creationid="nessyk" creationdate="20180123T135613Z">
-        <seg>Сценарій "{0}" запущений ...</seg>
+      <tuv lang="UK-UA" changeid="Diman966" changedate="20180123T153645Z" creationid="nessyk" creationdate="20180123T135613Z">
+        <seg>Скрипт "{0}" запущено ...</seg>
       </tuv>
     </tu>
     <tu>
