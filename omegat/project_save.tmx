@@ -216,8 +216,8 @@
       <tuv lang="EN">
         <seg>&amp;Built-in (LanguageTool {0})</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="nessyk" changedate="20171129T185602Z" creationid="nessyk" creationdate="20171129T185602Z">
-        <seg>&amp;Built-in (LanguageTool {0})</seg>
+      <tuv lang="UK-UA" changeid="nessyk" changedate="20180123T144909Z" creationid="nessyk" creationdate="20171129T185602Z">
+        <seg>&amp; Вбудований (мовний інструмент {0})</seg>
       </tuv>
     </tu>
     <tu>
@@ -9735,8 +9735,8 @@ project without team functionality.</seg>
       <tuv lang="EN">
         <seg>S&amp;witch Case To</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="nessyk" changedate="20171202T181725Z" creationid="nessyk" creationdate="20171202T181725Z">
-        <seg>S&amp;witch Case To</seg>
+      <tuv lang="UK-UA" changeid="nessyk" changedate="20180123T144819Z" creationid="nessyk" creationdate="20171202T181725Z">
+        <seg>З&amp;мнити регістр на</seg>
       </tuv>
     </tu>
     <tu>
