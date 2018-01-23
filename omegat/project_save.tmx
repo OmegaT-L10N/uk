@@ -254,6 +254,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Copy Support Info</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="nessyk" changedate="20180123T122110Z" creationid="nessyk" creationdate="20180123T122110Z">
+        <seg>&amp; Копіювати інформацію про підтримку</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;Current Source Document</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Маринка" changedate="20171118T210529Z" creationid="Маринка" creationdate="20171026T191221Z">
@@ -3645,6 +3653,14 @@ may experience unexpected, but correct behaviour.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>DictZip from JDict (GPL)</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="nessyk" changedate="20180123T122017Z" creationid="nessyk" creationdate="20180123T122017Z">
+        <seg>DictZip з JDict (GPL)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Dictionar&amp;y</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Лера9764" changedate="20171031T065242Z" creationid="Лера9764" creationdate="20171031T065242Z">
@@ -6424,8 +6440,8 @@ inside the configuration folder.</seg>
       <tuv lang="EN">
         <seg>LanguageTool (LGPL License and others)</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="nessyk" changedate="20180123T121932Z" creationid="Diman966" creationdate="20171116T201709Z">
-        <seg>Мовні засоби (LGPL ліцензія та інші)</seg>
+      <tuv lang="UK-UA" changeid="nessyk" changedate="20180123T121944Z" creationid="Diman966" creationdate="20171116T201709Z">
+        <seg>Мовний інструмент (LGPL ліцензія та інші)</seg>
       </tuv>
     </tu>
     <tu>
@@ -13273,6 +13289,14 @@ create its configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>juniversalchardet (GPL)</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="nessyk" changedate="20180123T122014Z" creationid="nessyk" creationdate="20180123T122014Z">
+        <seg>juniversalchardet (GPL)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>lan&amp;g (language attribute)</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Tetiana21" changedate="20171206T194606Z" creationid="Tetiana21" creationdate="20171206T194606Z">
@@ -13289,6 +13313,14 @@ create its configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>mALIGNa (MIT License)</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="nessyk" changedate="20180123T122033Z" creationid="nessyk" creationdate="20180123T122033Z">
+        <seg>mALIGNa (ліцензія MIT)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>segment 0000</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20170902T144944Z" creationid="Kos Ivantsov" creationdate="20170902T144944Z">
@@ -13299,8 +13331,8 @@ create its configuration folder.</seg>
       <tuv lang="EN">
         <seg>slf4j (MIT License)</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="nessyk" changedate="20180123T121904Z" creationid="nessyk" creationdate="20180123T121904Z">
-        <seg>slf4j (ліцензіяMIT)</seg>
+      <tuv lang="UK-UA" changeid="nessyk" changedate="20180123T121952Z" creationid="nessyk" creationdate="20180123T121904Z">
+        <seg>slf4j (ліцензія MIT)</seg>
       </tuv>
     </tu>
     <tu>
@@ -13309,6 +13341,14 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Лера9764" changedate="20171102T161334Z" creationid="Лера9764" creationdate="20171102T161334Z">
         <seg>src (URL &amp;зображення)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>trie4j (Apache License 2.0)</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="nessyk" changedate="20180123T122042Z" creationid="nessyk" creationdate="20180123T122042Z">
+        <seg>trie4j (ліцензія Apache 2.0)</seg>
       </tuv>
     </tu>
     <tu>
