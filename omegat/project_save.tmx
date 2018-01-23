@@ -3235,10 +3235,10 @@ may experience unexpected, but correct behaviour.</seg>
 	--source-pattern=&lt;pattern&gt;
 		A regex whitelist of source files to process.</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="nessyk" changedate="20180123T110623Z" creationid="nessyk" creationdate="20180123T110623Z">
-        <seg>Console-translate mode:
-	--source-pattern=&lt;pattern&gt;
-		A regex whitelist of source files to process.</seg>
+      <tuv lang="UK-UA" changeid="nessyk" changedate="20180123T111305Z" creationid="nessyk" creationdate="20180123T110623Z">
+        <seg>Режим перекладу консолі:
+--шаблон оригіналу = &lt;шаблон&gt;
+ Регулярний список з оригінальних файлів для обробки.</seg>
       </tuv>
     </tu>
     <tu>
