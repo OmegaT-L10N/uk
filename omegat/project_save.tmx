@@ -3711,8 +3711,8 @@ may experience unexpected, but correct behaviour.</seg>
       <tuv lang="EN">
         <seg>Dictionary files folder entered does not exist!</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="Маринка" changedate="20171203T190123Z" creationid="Маринка" creationdate="20171203T190043Z">
-        <seg>Тека словника не існує!</seg>
+      <tuv lang="UK-UA" changeid="nessyk" changedate="20180123T113706Z" creationid="Маринка" creationdate="20171203T190043Z">
+        <seg>Теки словника не існує!</seg>
       </tuv>
     </tu>
     <tu>
@@ -5315,6 +5315,14 @@ project_save.tmx не був завантажений, а SVN перейшов �
       </tuv>
       <tuv lang="UK-UA" changeid="Лера9764" changedate="20171226T113922Z" creationid="nessyk" creationdate="20171202T201922Z">
         <seg>Повний текст, включно з тегами та цифрами</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Full/Half &amp;width char insensitive</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="nessyk" changedate="20180123T114005Z" creationid="nessyk" creationdate="20180123T114005Z">
+        <seg>Full/Half &amp;width char insensitive</seg>
       </tuv>
     </tu>
     <tu>
@@ -11945,8 +11953,8 @@ the server.</seg>
       <tuv lang="EN">
         <seg>Translation memory files folder entered does not exist!</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="Маринка" changedate="20171203T190106Z" creationid="Маринка" creationdate="20171203T190039Z">
-        <seg>Тека пам'яті перекладу не існує!</seg>
+      <tuv lang="UK-UA" changeid="nessyk" changedate="20180123T113701Z" creationid="Маринка" creationdate="20171203T190039Z">
+        <seg>Теки пам'яті перекладу не існує!</seg>
       </tuv>
     </tu>
     <tu>
