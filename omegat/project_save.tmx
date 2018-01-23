@@ -5961,6 +5961,14 @@ project_save.tmx не був завантажений, а SVN перейшов �
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If a HHC or HHK file has an encoding declaration, it will be used regardless of any value you specify in this dialog.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Diman966" changedate="20180123T164904Z" creationid="Diman966" creationdate="20180123T164842Z">
+        <seg>Якщо у файлі HHC або HHK є декларація кодування, вона буде використана незалежно від будь-якого значення, яке ви вказали в цьому діалоговому вікні. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If checked, the entries are sorted alphabetically.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="nessyk" changedate="20171113T220631Z" creationid="nessyk" creationdate="20171113T214301Z">
