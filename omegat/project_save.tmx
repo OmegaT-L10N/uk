@@ -5409,8 +5409,16 @@ project_save.tmx не був завантажений, а SVN перейшов �
       <tuv lang="EN">
         <seg>Git '{0}' did nothing because there were no changes</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="nessyk" changedate="20180123T124816Z" creationid="nessyk" creationdate="20180123T124816Z">
-        <seg>Git '{0}' did nothing because there were no changes</seg>
+      <tuv lang="UK-UA" changeid="nessyk" changedate="20180123T125124Z" creationid="nessyk" creationdate="20180123T124816Z">
+        <seg>Гіт '{0}' нічого не виконав, тому щоне було змін </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Git '{0}' error: {1}</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="nessyk" changedate="20180123T125151Z" creationid="nessyk" creationdate="20180123T125151Z">
+        <seg>Гіт '{0}' помилка: {1}</seg>
       </tuv>
     </tu>
     <tu>
@@ -8951,6 +8959,14 @@ project without team functionality.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Лера9764" changedate="20171226T120110Z" creationid="Лера9764" creationdate="20171114T173209Z">
         <seg>Ім'я користувача та пароль проксі</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Push failed.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="nessyk" changedate="20180123T125959Z" creationid="nessyk" creationdate="20180123T125959Z">
+        <seg>Спроба відправити зміни на видаленний сервер не вдалася.</seg>
       </tuv>
     </tu>
     <tu>
