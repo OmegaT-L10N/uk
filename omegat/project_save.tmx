@@ -1726,6 +1726,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>A note is just a comment regarding this set of source text and translation.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="nessyk" changedate="20180123T150110Z" creationid="nessyk" creationdate="20180123T150110Z">
+        <seg>Замітка - це лише коментар стосовно цього набору тексту оригіналу та перекладу.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>A restart is required in order to apply these changes</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="nessyk" changedate="20171026T174351Z" creationid="nessyk" creationdate="20171026T174351Z">
@@ -3995,6 +4003,14 @@ may experience unexpected, but correct behaviour.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Маринка" changedate="20171203T194113Z" creationid="Маринка" creationdate="20171203T194113Z">
         <seg>Файли DocBook</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Dock</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="nessyk" changedate="20180123T150000Z" creationid="nessyk" creationdate="20180123T150000Z">
+        <seg>Панель Dock</seg>
       </tuv>
     </tu>
     <tu>
@@ -13741,8 +13757,8 @@ create its configuration folder.</seg>
       <tuv lang="EN">
         <seg>{1}, executed from '{2}'</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="Tetiana21" changedate="20171105T200816Z" creationid="Tetiana21" creationdate="20171105T200816Z">
-        <seg>{1}, executed from '{2}'</seg>
+      <tuv lang="UK-UA" changeid="nessyk" changedate="20180123T145817Z" creationid="Tetiana21" creationdate="20171105T200816Z">
+        <seg>{1}, починаючи з '{2}'</seg>
       </tuv>
     </tu>
     <tu>
