@@ -2449,8 +2449,8 @@ may experience unexpected, but correct behaviour.</seg>
       <tuv lang="EN">
         <seg>Available script engines:</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="Tetiana21" changedate="20171118T110935Z" creationid="Tetiana21" creationdate="20171118T110935Z">
-        <seg>Available script engines:</seg>
+      <tuv lang="UK-UA" changeid="nessyk" changedate="20180123T135832Z" creationid="Tetiana21" creationdate="20171118T110935Z">
+        <seg>Доступні сценарії:</seg>
       </tuv>
     </tu>
     <tu>
@@ -4193,8 +4193,8 @@ project_save.tmx не був завантажений, а SVN перейшов �
       <tuv lang="EN">
         <seg>ERROR: (declaring bean)</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="Tetiana21" changedate="20171118T114020Z" creationid="Tetiana21" creationdate="20171118T114020Z">
-        <seg>ERROR: (declaring bean)</seg>
+      <tuv lang="UK-UA" changeid="nessyk" changedate="20180123T140509Z" creationid="Tetiana21" creationdate="20171118T114020Z">
+        <seg>ПОМИЛКА: ( )</seg>
       </tuv>
     </tu>
     <tu>
@@ -13363,6 +13363,14 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Маринка" changedate="20171211T193313Z" creationid="Маринка" creationdate="20171118T213108Z">
         <seg>атрибути.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>canceled ({0} ms elapsed)</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="nessyk" changedate="20180123T135812Z" creationid="nessyk" creationdate="20180123T135812Z">
+        <seg>скасовано ({0} мс закінчився)</seg>
       </tuv>
     </tu>
     <tu>
