@@ -11380,6 +11380,14 @@ current folder will be used instead.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The PO filter threw an exception:</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Маринка" changedate="20180123T133338Z" creationid="Маринка" creationdate="20180123T133338Z">
+        <seg>Фільтр PO згенерував виняток:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The TMX file will continue to be loaded.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Маринка" changedate="20171126T180403Z" creationid="Маринка" creationdate="20171118T211320Z">
