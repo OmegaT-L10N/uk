@@ -8246,6 +8246,14 @@ your home folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Only if (X)HTML file has an &amp;encoding declaration</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Diman966" changedate="20180123T170947Z" creationid="Diman966" creationdate="20180123T170947Z">
+        <seg>Тільки якщо файл формату (X) HTML має &amp;декларацію кодування</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Open MED Project...</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Лера9764" changedate="20171122T143343Z" creationid="Лера9764" creationdate="20171030T193551Z">
