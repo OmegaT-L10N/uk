@@ -4529,8 +4529,8 @@ project_save.tmx не був завантажений, а SVN перейшов �
       <tuv lang="EN">
         <seg>Error extracting MT result from MyMemory, response:</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="nessyk" changedate="20171126T112111Z" creationid="nessyk" creationdate="20171126T112111Z">
-        <seg>Error extracting MT result from MyMemory, response:</seg>
+      <tuv lang="UK-UA" changeid="nessyk" changedate="20180123T141000Z" creationid="nessyk" creationdate="20171126T112111Z">
+        <seg>Помилка вилучення результату MT з MyMemory, відповідь:</seg>
       </tuv>
     </tu>
     <tu>
@@ -4657,8 +4657,8 @@ project_save.tmx не був завантажений, а SVN перейшов �
       <tuv lang="EN">
         <seg>Error while reading MT results</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="nessyk" changedate="20171126T111256Z" creationid="nessyk" creationdate="20171126T111256Z">
-        <seg>Error while reading MT results</seg>
+      <tuv lang="UK-UA" changeid="nessyk" changedate="20180123T140850Z" creationid="nessyk" creationdate="20171126T111256Z">
+        <seg>Помилка під час читання результатів MT</seg>
       </tuv>
     </tu>
     <tu>
@@ -7122,8 +7122,8 @@ inside the configuration folder.</seg>
       <tuv lang="EN">
         <seg>Microsoft Translator</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="Tetiana21" changedate="20171116T195604Z" creationid="Tetiana21" creationdate="20171116T195604Z">
-        <seg>Microsoft Translator</seg>
+      <tuv lang="UK-UA" changeid="nessyk" changedate="20180123T140739Z" creationid="Tetiana21" creationdate="20171116T195604Z">
+        <seg>Перекладач Microsoft </seg>
       </tuv>
     </tu>
     <tu>
@@ -7228,6 +7228,14 @@ inside the configuration folder.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Маринка" changedate="20171101T205146Z" creationid="Маринка" creationdate="20171101T205146Z">
         <seg>Більше</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Moses</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="nessyk" changedate="20180123T140723Z" creationid="nessyk" creationdate="20180123T140723Z">
+        <seg>Moses</seg>
       </tuv>
     </tu>
     <tu>
