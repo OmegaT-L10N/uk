@@ -7304,6 +7304,22 @@ inside the configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Mozilla DTD</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Маринка" changedate="20180123T133457Z" creationid="Маринка" creationdate="20180123T133457Z">
+        <seg>Файли Mozilla DTD</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Mozilla DTD Filter Options</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Маринка" changedate="20180123T133520Z" creationid="Маринка" creationdate="20180123T133520Z">
+        <seg>Параметри фільтру Mozilla DTD</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Multiple Translations</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Tetiana21" changedate="20171210T154055Z" creationid="nessyk" creationdate="20171126T112638Z">
@@ -11368,6 +11384,14 @@ current folder will be used instead.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="nessyk" changedate="20171205T173925Z" creationid="nessyk" creationdate="20171205T173925Z">
         <seg>Замість цього буде використана поточна папка.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The Mozilla DTD filter threw an exception:</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Маринка" changedate="20180123T133639Z" creationid="Маринка" creationdate="20180123T133639Z">
+        <seg>Фільтр Mozilla DTD згенерував виняток:</seg>
       </tuv>
     </tu>
     <tu>
