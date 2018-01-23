@@ -5321,8 +5321,8 @@ project_save.tmx не був завантажений, а SVN перейшов �
       <tuv lang="EN">
         <seg>Full/Half &amp;width char insensitive</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="nessyk" changedate="20180123T114005Z" creationid="nessyk" creationdate="20180123T114005Z">
-        <seg>Full/Half &amp;width char insensitive</seg>
+      <tuv lang="UK-UA" changeid="Маринка" changedate="20180123T120415Z" creationid="nessyk" creationdate="20180123T114005Z">
+        <seg>Повнорозмірні / напіврозмірні &amp;width char insensitive</seg>
       </tuv>
     </tu>
     <tu>
@@ -9521,6 +9521,14 @@ project without team functionality.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Маринка" changedate="20171223T193640Z" creationid="Маринка" creationdate="20171223T193640Z">
         <seg>Ко&amp;ментарі до слайду</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>S&amp;pace matches nbsp</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Маринка" changedate="20180123T115324Z" creationid="Маринка" creationdate="20180123T115324Z">
+        <seg>S&amp;pace matches nbsp</seg>
       </tuv>
     </tu>
     <tu>
