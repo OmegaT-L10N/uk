@@ -2094,6 +2094,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Allow translated tags to be in a di&amp;fferent order</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="nessyk" changedate="20180123T151558Z" creationid="nessyk" creationdate="20180123T151558Z">
+        <seg>Дозволити перекладеним тегам бути в рі&amp;зному порядку</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Allow translating &amp;blank source segments</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Лера9764" changedate="20180103T150913Z" creationid="Лера9764" creationdate="20180103T150913Z">
@@ -3423,6 +3431,14 @@ may experience unexpected, but correct behaviour.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Count &amp;protected text and custom tags in statistics</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="nessyk" changedate="20180123T151416Z" creationid="nessyk" creationdate="20180123T151416Z">
+        <seg>Порахувати &amp; захищений текст та користувацькі теги у статистиці</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Counter:</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="nessyk" changedate="20171101T183737Z" creationid="nessyk" creationdate="20171101T183737Z">
@@ -3955,6 +3971,14 @@ may experience unexpected, but correct behaviour.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="nessyk" changedate="20171101T184230Z" creationid="nessyk" creationdate="20171101T184211Z">
         <seg>Відстань</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Do not allow creating translated documents with tag &amp;issues</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="nessyk" changedate="20180123T151506Z" creationid="nessyk" creationdate="20180123T151506Z">
+        <seg>Не дозволяти створювати перекладені документи з проблемними тегами</seg>
       </tuv>
     </tu>
     <tu>
@@ -13019,8 +13043,8 @@ on line {1}, column {2}.</seg>
       <tuv lang="EN">
         <seg>Warning: Changing tag order may break the translated document!</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="Diman966" changedate="20180115T203102Z" creationid="Diman966" creationdate="20180115T203102Z">
-        <seg>Попередження: зміна замовлення тегів може порушити перекладений документ!</seg>
+      <tuv lang="UK-UA" changeid="nessyk" changedate="20180123T151931Z" creationid="Diman966" creationdate="20180115T203102Z">
+        <seg>Попередження: зміна порядку тегів може порушити перекладений документ!</seg>
       </tuv>
     </tu>
     <tu>
