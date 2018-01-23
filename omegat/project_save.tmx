@@ -344,8 +344,8 @@
       <tuv lang="EN">
         <seg>&amp;Empty lines</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="Маринка" changedate="20171203T193607Z" creationid="Лера9764" creationdate="20171031T070233Z">
-        <seg>&amp; по порожнім рядкам</seg>
+      <tuv lang="UK-UA" changeid="Лера9764" changedate="20180123T152814Z" creationid="Лера9764" creationdate="20171031T070233Z">
+        <seg>&amp; по порожніх рядках</seg>
       </tuv>
     </tu>
     <tu>
@@ -10275,8 +10275,8 @@ The scope of a search is by default the project and can be set to be any files l
       <tuv lang="EN">
         <seg>Segment source text into paragraphs on:</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="Маринка" changedate="20171203T193541Z" creationid="Маринка" creationdate="20171118T211843Z">
-        <seg>Сегментація текста оригіналу на абзаци відбувається:</seg>
+      <tuv lang="UK-UA" changeid="Лера9764" changedate="20180123T152742Z" creationid="Маринка" creationdate="20171118T211843Z">
+        <seg>Сегментація тексту оригіналу на абзаци відбувається:</seg>
       </tuv>
     </tu>
     <tu>
