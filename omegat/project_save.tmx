@@ -2166,6 +2166,16 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>An error occurred while processing a font changed event:
+{0}</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="nessyk" changedate="20180123T145640Z" creationid="nessyk" creationdate="20180123T145640Z">
+        <seg>Виникла помилка під час обробки дії, яка змінювала шрифт:
+{0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>An error occurred while processing a new file event:
 {0}</seg>
       </tuv>
@@ -4737,8 +4747,8 @@ project_save.tmx не був завантажений, а SVN перейшов �
       <tuv lang="EN">
         <seg>Event: font changed</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="nessyk" changedate="20171207T185140Z" creationid="nessyk" creationdate="20171207T185140Z">
-        <seg>Event: font changed</seg>
+      <tuv lang="UK-UA" changeid="nessyk" changedate="20180123T145711Z" creationid="nessyk" creationdate="20171207T185140Z">
+        <seg>Дія: змінений шрифт</seg>
       </tuv>
     </tu>
     <tu>
@@ -4753,8 +4763,8 @@ project_save.tmx не був завантажений, а SVN перейшов �
       <tuv lang="EN">
         <seg>Event: new file activated ({0})</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="nessyk" changedate="20171207T184535Z" creationid="nessyk" creationdate="20171207T184535Z">
-        <seg>Event: new file activated ({0})</seg>
+      <tuv lang="UK-UA" changeid="nessyk" changedate="20180123T145751Z" creationid="nessyk" creationdate="20171207T184535Z">
+        <seg>Дія: активовано новий файл ({0})</seg>
       </tuv>
     </tu>
     <tu>
@@ -11868,8 +11878,8 @@ the server.</seg>
       <tuv lang="EN">
         <seg>This call MUST be in swing thread</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="nessyk" changedate="20171207T185218Z" creationid="nessyk" creationdate="20171207T185218Z">
-        <seg>This call MUST be in swing thread</seg>
+      <tuv lang="UK-UA" changeid="nessyk" changedate="20180123T145532Z" creationid="nessyk" creationdate="20171207T185218Z">
+        <seg>Цей виклик ПОВИНЕН перебувати в потоці</seg>
       </tuv>
     </tu>
     <tu>
