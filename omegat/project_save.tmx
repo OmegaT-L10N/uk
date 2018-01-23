@@ -5575,6 +5575,14 @@ project_save.tmx не був завантажений, а SVN перейшов �
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Help you are seeking&lt;p&gt;From your path it is fleeing&lt;p&gt;Its winter has come</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="nessyk" changedate="20180123T111544Z" creationid="nessyk" creationdate="20180123T111544Z">
+        <seg>Help you are seeking&lt;p&gt;From your path it is fleeing&lt;p&gt;Its winter has come</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Here you may also specify custom location of project folders.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Маринка" changedate="20171118T204504Z" creationid="Маринка" creationdate="20171106T205317Z">
@@ -12593,8 +12601,8 @@ on line {1}, column {2}.</seg>
       <tuv lang="EN">
         <seg>Warn: Report invalid tags to stdout.</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="Маринка" changedate="20171026T191048Z" creationid="Маринка" creationdate="20171026T191048Z">
-        <seg>Warn: Report invalid tags to stdout.</seg>
+      <tuv lang="UK-UA" changeid="nessyk" changedate="20180123T111335Z" creationid="Маринка" creationdate="20171026T191048Z">
+        <seg>Попередження: повідомляти про неправильні теги у форматі stdout.</seg>
       </tuv>
     </tu>
     <tu>
