@@ -4529,6 +4529,14 @@ project_save.tmx не був завантажений, а SVN перейшов �
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Entries from the writeable glossary are in bold.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="nessyk" changedate="20180123T151022Z" creationid="nessyk" creationdate="20180123T151022Z">
+        <seg>Записи в глосарії, який можна перезаписати, виділено жирним шрифтом.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Ephemeral page&lt;p&gt;I am the Blue Screen of Death&lt;p&gt;No one hears your screams.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Лера9764" changedate="20180122T143603Z" creationid="Лера9764" creationdate="20180122T143603Z">
@@ -6106,6 +6114,14 @@ their defaults as a result of the location change.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Маринка" changedate="20171106T203950Z" creationid="Маринка" creationdate="20171106T203925Z">
         <seg>Вставити наступний відсутній теґ </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Insert Selection</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="nessyk" changedate="20180123T150947Z" creationid="nessyk" creationdate="20180123T150939Z">
+        <seg>Вставити виділений текст</seg>
       </tuv>
     </tu>
     <tu>
@@ -7810,6 +7826,14 @@ inside the configuration folder.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Лера9764" changedate="20171209T182152Z" creationid="Лера9764" creationdate="20171209T182152Z">
         <seg>Повідомити мене, коли сегмент матиме неповний збіг</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Notify Me When a Segment Has Glossary Hits</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="nessyk" changedate="20180123T150907Z" creationid="nessyk" creationdate="20180123T150907Z">
+        <seg>Повідомити мене, коли сегмент матиме підказки глосарію</seg>
       </tuv>
     </tu>
     <tu>
