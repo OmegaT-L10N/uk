@@ -7371,6 +7371,18 @@ inside the configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Non-GUI mode options:
+	--quiet
+		Reduce output to command line stdout.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="nessyk" changedate="20180123T100803Z" creationid="nessyk" creationdate="20180123T100803Z">
+        <seg>Non-GUI mode options:
+	--quiet
+		Reduce output to command line stdout.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Non-breakable space</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Лера9764" changedate="20171117T165619Z" creationid="Лера9764" creationdate="20171117T165619Z">
