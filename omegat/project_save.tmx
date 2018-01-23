@@ -4375,6 +4375,14 @@ project_save.tmx не був завантажений, а SVN перейшов �
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>End of stream encountered without finding close block!</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="nessyk" changedate="20180123T120451Z" creationid="nessyk" creationdate="20180123T120451Z">
+        <seg>End of stream encountered without finding close block!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>End rebase</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Tetiana21" changedate="20171210T155816Z" creationid="Tetiana21" creationdate="20171210T155816Z">
@@ -5159,6 +5167,14 @@ project_save.tmx не був завантажений, а SVN перейшов �
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Floating '?' character not tied to '&gt;'!</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="nessyk" changedate="20180123T121311Z" creationid="nessyk" creationdate="20180123T121311Z">
+        <seg>Плаваючий '?' характер не прив'язаний  до '&gt;'!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Folder already exists and is not empty.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Лера9764" changedate="20171204T135335Z" creationid="Лера9764" creationdate="20171117T160153Z">
@@ -5721,8 +5737,8 @@ project_save.tmx не був завантажений, а SVN перейшов �
       <tuv lang="EN">
         <seg>IOException encountered:</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="Маринка" changedate="20171118T212858Z" creationid="Маринка" creationdate="20171118T212858Z">
-        <seg>IOException encountered:</seg>
+      <tuv lang="UK-UA" changeid="nessyk" changedate="20180123T121644Z" creationid="Маринка" creationdate="20171118T212858Z">
+        <seg>Виявлено виключення IO:</seg>
       </tuv>
     </tu>
     <tu>
