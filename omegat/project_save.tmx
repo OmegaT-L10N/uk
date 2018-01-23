@@ -296,8 +296,8 @@
       <tuv lang="EN">
         <seg>&amp;Do not check printf-variables</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="Diman966" changedate="20180123T161810Z" creationid="Diman966" creationdate="20180123T161810Z">
-        <seg>&amp;Не перевіряйте змінні - printf </seg>
+      <tuv lang="UK-UA" changeid="Diman966" changedate="20180123T161849Z" creationid="Diman966" creationdate="20180123T161810Z">
+        <seg>&amp;Не перевіряти змінні - printf </seg>
       </tuv>
     </tu>
     <tu>
@@ -2883,8 +2883,8 @@ may experience unexpected, but correct behaviour.</seg>
       <tuv lang="EN">
         <seg>Check &amp;simple printf-variables (e.g., %s, %d)</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="Diman966" changedate="20180123T161843Z" creationid="Diman966" creationdate="20180123T161843Z">
-        <seg> &amp;simple printf-variables (e.g., %s, %d)</seg>
+      <tuv lang="UK-UA" changeid="Diman966" changedate="20180123T161910Z" creationid="Diman966" creationdate="20180123T161843Z">
+        <seg>Перевіряти &amp;прості змінні - printf (e.g., %s, %d)</seg>
       </tuv>
     </tu>
     <tu>
@@ -8010,6 +8010,14 @@ inside the configuration folder.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Лера9764" changedate="20171204T135340Z" creationid="Лера9764" creationdate="20171117T160118Z">
         <seg>Тека проекту OmegaT </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>OmegaT can also check for programming variables (printf-function variables) like '%s'.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Diman966" changedate="20180123T162035Z" creationid="Diman966" creationdate="20180123T162035Z">
+        <seg>OmegaT може також перевіряти змінні для програмування (змінні функції - printf), такі як '%s'.</seg>
       </tuv>
     </tu>
     <tu>
