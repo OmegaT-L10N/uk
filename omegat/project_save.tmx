@@ -136,8 +136,8 @@
       <tuv lang="EN">
         <seg>&amp;Automatically Fetch Translations</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="nessyk" changedate="20171126T110457Z" creationid="nessyk" creationdate="20171126T110457Z">
-        <seg>&amp;Automatically Fetch Translations</seg>
+      <tuv lang="UK-UA" changeid="nessyk" changedate="20180123T141108Z" creationid="nessyk" creationdate="20171126T110457Z">
+        <seg>&amp;Переклади завантажені автоматично</seg>
       </tuv>
     </tu>
     <tu>
@@ -5585,8 +5585,8 @@ project_save.tmx не був завантажений, а SVN перейшов �
       <tuv lang="EN">
         <seg>Google Translate v2</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="nessyk" changedate="20171126T112100Z" creationid="nessyk" creationdate="20171126T110828Z">
-        <seg>Google v2 перекладач </seg>
+      <tuv lang="UK-UA" changeid="nessyk" changedate="20180123T141126Z" creationid="nessyk" creationdate="20171126T110828Z">
+        <seg>Перекладач Google v2 </seg>
       </tuv>
     </tu>
     <tu>
@@ -11069,6 +11069,14 @@ The scope of a search is by default the project and can be set to be any files l
       </tuv>
       <tuv lang="UK-UA" changeid="Diman966" changedate="20171204T164910Z" creationid="nessyk" creationdate="20171202T202311Z">
         <seg>Збіги в пам'яті перекладу</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>TM Matching Options</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="nessyk" changedate="20180123T141220Z" creationid="nessyk" creationdate="20180123T141220Z">
+        <seg>Параметри збігу в пам'яті перекладу </seg>
       </tuv>
     </tu>
     <tu>
