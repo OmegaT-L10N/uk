@@ -1435,9 +1435,9 @@ To add files to the project, click on the Copy Files to Source Folder... button 
         <seg>--pseudotranslatetype=[equal|empty]
 		What to fill the pseudotranslated TMX with.</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="nessyk" changedate="20171025T174658Z" creationid="nessyk" creationdate="20171025T174658Z">
-        <seg>--pseudotranslatetype=[equal|empty]
-		What to fill the pseudotranslated TMX with.</seg>
+      <tuv lang="UK-UA" changeid="nessyk" changedate="20180123T110345Z" creationid="nessyk" creationdate="20171025T174658Z">
+        <seg>--псевдопереклад=[однаковий|пустий]
+		Чим заповнити псевдоперекладений TMX.</seg>
       </tuv>
     </tu>
     <tu>
