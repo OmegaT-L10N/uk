@@ -528,8 +528,8 @@
       <tuv lang="EN">
         <seg>&amp;Ignore type and ctype attributes when building &lt;ph&gt; tag shortcuts</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="Лера9764" changedate="20180123T175845Z" creationid="Diman966" creationdate="20180115T202040Z">
-        <seg>&amp;Ігнорувати тип та зміст типу атрибутів під час створення &lt;ph&gt; ярликів тегів</seg>
+      <tuv lang="UK-UA" changeid="Лера9764" changedate="20180123T180007Z" creationid="Diman966" creationdate="20180115T202040Z">
+        <seg>&amp;Ігнорувати тип атрибутів та тип їхнього вмісту під час створення &lt;ph&gt; ярликів тегів</seg>
       </tuv>
     </tu>
     <tu>
@@ -7842,6 +7842,14 @@ inside the configuration folder.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Маринка" changedate="20171107T194805Z" creationid="Маринка" creationdate="20171107T194805Z">
         <seg>Примітка: Усі правила сегментації, що встановлюються з відповідним шаблоном мови, виконуються у вказаному порядку.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Note: DocBook files are recognized not only by file extension, but they also must have a DOCTYPE declaration: &lt;!DOCTYPE book PUBLIC \"-//OASIS//DTD DocBook XML... for DocBook 4, or a Namespace: xmlns="http://docbook.org/ns/docbook" for DocBook 5</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Лера9764" changedate="20180123T180610Z" creationid="Лера9764" creationdate="20180123T180610Z">
+        <seg>Примітка: файли DocBook розпізнаються не лише за розширенням файлу, вони повинні також мати декларацію DOCTYPE (типу документа): &lt;!DOCTYPE book PUBLIC \"-//OASIS//DTD DocBook XML... for DocBook 4, або простір імен: xmlns="http://docbook.org/ns/docbook" for DocBook 5</seg>
       </tuv>
     </tu>
     <tu>
