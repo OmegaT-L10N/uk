@@ -2699,8 +2699,8 @@ may experience unexpected, but correct behaviour.</seg>
       <tuv lang="EN">
         <seg>Cancel only works on scripts that explicitly check for cancellation.</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="Tetiana21" changedate="20171118T110713Z" creationid="Tetiana21" creationdate="20171118T110713Z">
-        <seg>Cancel only works on scripts that explicitly check for cancellation.</seg>
+      <tuv lang="UK-UA" changeid="Diman966" changedate="20180123T153620Z" creationid="Tetiana21" creationdate="20171118T110713Z">
+        <seg>Скасування працює лише в сценаріях, які явно перевіряють на скасування.</seg>
       </tuv>
     </tu>
     <tu>
