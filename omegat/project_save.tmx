@@ -1397,9 +1397,9 @@ To add files to the project, click on the Copy Files to Source Folder... button 
         <seg>--disable-location-save
 		Do not remember the last directory opened in the file picker.</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="Маринка" changedate="20171025T172355Z" creationid="Маринка" creationdate="20171025T163959Z">
+      <tuv lang="UK-UA" changeid="Маринка" changedate="20180123T101323Z" creationid="Маринка" creationdate="20171025T163959Z">
         <seg>--disable-location-save 
-		Do not remember the last directory opened in the file picker.</seg>
+		Каталог, який був відкритий останнього разу у вікні вибору файлів, не збережено.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1426,8 +1426,8 @@ To add files to the project, click on the Copy Files to Source Folder... button 
         <seg>--no-team
 		Disable team project functionality.</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="Маринка" changedate="20171025T174435Z" creationid="Маринка" creationdate="20171025T170501Z">
-        <seg>--no-team                              Вимкнути функціональність групового проекту.</seg>
+      <tuv lang="UK-UA" changeid="Маринка" changedate="20180123T101434Z" creationid="Маринка" creationdate="20171025T170501Z">
+        <seg>--no-team                              Вимкнути функціонування групового проекту.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7375,10 +7375,10 @@ inside the configuration folder.</seg>
 	--quiet
 		Reduce output to command line stdout.</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="nessyk" changedate="20180123T100803Z" creationid="nessyk" creationdate="20180123T100803Z">
+      <tuv lang="UK-UA" changeid="Маринка" changedate="20180123T101815Z" creationid="Маринка" creationdate="20180123T101815Z">
         <seg>Non-GUI mode options:
 	--quiet
-		Reduce output to command line stdout.</seg>
+		Скоротіть результат до командного рядка stdout.</seg>
       </tuv>
     </tu>
     <tu>
