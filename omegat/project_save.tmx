@@ -5726,9 +5726,8 @@ project_save.tmx не був завантажений, а SVN перейшов �
         <seg>If invoked in a git working tree or svn checkout, the results
 		will be staged/added.</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="nessyk" changedate="20180123T103741Z" creationid="nessyk" creationdate="20180123T103741Z">
-        <seg>обєднання гілок чи If invoked in a git working tree or svn checkout, the results
-		will be staged/added.</seg>
+      <tuv lang="UK-UA" changeid="nessyk" changedate="20180123T105735Z" creationid="nessyk" creationdate="20180123T103741Z">
+        <seg>Якщо були зроблені зміни на локальній копії Гіта, то результати будуть додані для подальших коммітів</seg>
       </tuv>
     </tu>
     <tu>
