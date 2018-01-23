@@ -5726,8 +5726,8 @@ project_save.tmx не був завантажений, а SVN перейшов �
         <seg>If invoked in a git working tree or svn checkout, the results
 		will be staged/added.</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="nessyk" changedate="20180123T105735Z" creationid="nessyk" creationdate="20180123T103741Z">
-        <seg>Якщо були зроблені зміни на локальній копії Гіта, то результати будуть додані для подальших коммітів</seg>
+      <tuv lang="UK-UA" changeid="nessyk" changedate="20180123T105743Z" creationid="nessyk" creationdate="20180123T103741Z">
+        <seg>Якщо були зроблені зміни на локальній копії Гіта, то результати будуть додані для подальших комітів</seg>
       </tuv>
     </tu>
     <tu>
@@ -12377,6 +12377,14 @@ on line {1}, column {2}.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Usage: java -jar OmegaT.jar team &lt;command&gt; [&lt;options&gt;]]</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="nessyk" changedate="20180123T110017Z" creationid="nessyk" creationdate="20180123T110017Z">
+        <seg>Використання: java-jar OmegaT.jar team &lt;команда&gt; [&lt;параметри&gt;]]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Use &amp;Fuzzy Matching for Dictionary Entries</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Маринка" changedate="20171126T165711Z" creationid="Маринка" creationdate="20171126T165404Z">
@@ -13150,9 +13158,9 @@ create its configuration folder.</seg>
         <seg>init &lt;source language&gt; &lt;target language&gt;
 		Initialize a minimal team project with the specified languages.</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="Маринка" changedate="20171118T194907Z" creationid="Маринка" creationdate="20171118T194907Z">
-        <seg>init &lt;source language&gt; &lt;target language&gt;
-		Initialize a minimal team project with the specified languages.</seg>
+      <tuv lang="UK-UA" changeid="nessyk" changedate="20180123T105856Z" creationid="Маринка" creationdate="20171118T194907Z">
+        <seg>init &lt;мова оригіналу&gt; &lt;мова перекладу&gt;
+Ініціалізувати мінімальний командний проект із зазначеними мовами.</seg>
       </tuv>
     </tu>
     <tu>
