@@ -1524,8 +1524,8 @@ To add files to the project, click on the Copy Files to Source Folder... button 
       <tuv lang="EN">
         <seg>1) Reduce the number of source files and translate in batches;</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="Маринка" changedate="20171118T210144Z" creationid="Лера9764" creationdate="20171030T181808Z">
-        <seg>1) Зменшити кількість файлів мови оригіналу та перекладати групами;</seg>
+      <tuv lang="UK-UA" changeid="Лера9764" changedate="20180123T152110Z" creationid="Лера9764" creationdate="20171030T181808Z">
+        <seg>1) Зменшити кількість файлів мовою оригіналу та перекладати групами;</seg>
       </tuv>
     </tu>
     <tu>
@@ -4571,8 +4571,8 @@ project_save.tmx не був завантажений, а SVN перейшов �
       <tuv lang="EN">
         <seg>Ephemeral page&lt;p&gt;I am the Blue Screen of Death&lt;p&gt;No one hears your screams.</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="Лера9764" changedate="20180122T143603Z" creationid="Лера9764" creationdate="20180122T143603Z">
-        <seg>Ефемерна сторінка&lt;p&gt;I am the Blue Screen of Death&lt;p&gt;Ніхто не чує твоїх криків.</seg>
+      <tuv lang="UK-UA" changeid="Лера9764" changedate="20180123T152322Z" creationid="Лера9764" creationdate="20180122T143603Z">
+        <seg>Ефемерна сторінка&lt;p&gt;Я синій щит смерті&lt;p&gt;Ніхто не чує твоїх криків.</seg>
       </tuv>
     </tu>
     <tu>
