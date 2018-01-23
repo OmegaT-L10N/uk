@@ -5961,6 +5961,14 @@ project_save.tmx не був завантажений, а SVN перейшов �
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If HTML file has the encoding declaration, it will be used disregarding any value you set in this dialog.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Лера9764" changedate="20180123T172357Z" creationid="Лера9764" creationdate="20180123T172357Z">
+        <seg>Якщо у файлі HTML є декларація кодування, вона буде застосована, незважаючи на значення, яке ви вказали в цьому діалоговому вікні. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If a HHC or HHK file has an encoding declaration, it will be used regardless of any value you specify in this dialog.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Diman966" changedate="20180123T164904Z" creationid="Diman966" creationdate="20180123T164842Z">
@@ -7834,6 +7842,14 @@ inside the configuration folder.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Лера9764" changedate="20180123T170205Z" creationid="Tetiana21" creationdate="20171118T101830Z">
         <seg>Примітка: Налаштування кодування файлу мовою оригіналу стосується лише файлів HHC та HHK, які не містять декларацію кодування.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Note: Source File Encoding setting affects only the HTML files that have no encoding declaration inside.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Лера9764" changedate="20180123T172216Z" creationid="Лера9764" creationdate="20180123T172216Z">
+        <seg>Примітка: Налаштування кодування файлу мовою оригіналу стосується лише файлів HTML, які не містять декларацію кодування.</seg>
       </tuv>
     </tu>
     <tu>
