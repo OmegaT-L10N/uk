@@ -2040,8 +2040,8 @@ The current setting is {0}MB;</seg>
       <tuv lang="EN">
         <seg>Aligner Table Row Highlight</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="nessyk" changedate="20180114T103135Z" creationid="nessyk" creationdate="20180114T103135Z">
-        <seg>Aligner Table Row Highlight</seg>
+      <tuv lang="UK-UA" changeid="Diman966" changedate="20180123T152402Z" creationid="nessyk" creationdate="20180114T103135Z">
+        <seg>Виділення рядка таблиці вирівнювача</seg>
       </tuv>
     </tu>
     <tu>
@@ -12897,8 +12897,8 @@ on line {1}, column {2}.</seg>
       <tuv lang="EN">
         <seg>User denied credentials</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="nessyk" changedate="20171118T190517Z" creationid="nessyk" creationdate="20171118T190517Z">
-        <seg>User denied credentials</seg>
+      <tuv lang="UK-UA" changeid="Diman966" changedate="20180123T153500Z" creationid="nessyk" creationdate="20171118T190517Z">
+        <seg>Користувач відхилив обліковий запис </seg>
       </tuv>
     </tu>
     <tu>
