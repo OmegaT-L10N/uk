@@ -1822,6 +1822,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Access Scripts Folder</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="nessyk" changedate="20180123T130240Z" creationid="nessyk" creationdate="20180123T130240Z">
+        <seg>Доступ до папки скриптів</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Acknowledgements</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Tetiana21" changedate="20171105T124325Z" creationid="Tetiana21" creationdate="20171105T124325Z">
@@ -10299,6 +10307,14 @@ The scope of a search is by default the project and can be set to be any files l
       </tuv>
       <tuv lang="UK-UA" changeid="nessyk" changedate="20171026T173429Z" creationid="nessyk" creationdate="20171026T173429Z">
         <seg>Встановити власний пароль</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Set Scripts Folder...</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="nessyk" changedate="20180123T130254Z" creationid="nessyk" creationdate="20180123T130254Z">
+        <seg>Встановити папку скриптів ...</seg>
       </tuv>
     </tu>
     <tu>
