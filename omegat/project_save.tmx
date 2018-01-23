@@ -10681,6 +10681,14 @@ The scope of a search is by default the project and can be set to be any files l
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Simplify &amp;tooltips on protected parts</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Diman966" changedate="20180123T162749Z" creationid="Diman966" creationdate="20180123T162749Z">
+        <seg>Спрощенні  &amp;та спливаючі підказки на захищених частинах</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Size</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20170427T115541Z" creationid="Kos Ivantsov" creationdate="20170427T115541Z">
@@ -12929,8 +12937,8 @@ on line {1}, column {2}.</seg>
       <tuv lang="EN">
         <seg>Use custom templates for modification &amp;info</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="Diman966" changedate="20180123T162517Z" creationid="Diman966" creationdate="20180123T162517Z">
-        <seg>Використати спеціальні шаблони для інформаціїї про модернізацію </seg>
+      <tuv lang="UK-UA" changeid="Diman966" changedate="20180123T162539Z" creationid="Diman966" creationdate="20180123T162517Z">
+        <seg>Використати спеціальні шаблони для інформації про модернізацію </seg>
       </tuv>
     </tu>
     <tu>
