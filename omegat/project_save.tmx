@@ -9541,6 +9541,14 @@ project without team functionality.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Remove leading and trailing &amp;whitespace in non-segmented projects</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Маринка" changedate="20180123T174623Z" creationid="Маринка" creationdate="20180123T174623Z">
+        <seg>Remove leading and trailing &amp;whitespace in non-segmented projects</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Remove pattern?</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Маринка" changedate="20171223T195441Z" creationid="Diman966" creationdate="20171116T205630Z">
