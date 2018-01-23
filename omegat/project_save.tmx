@@ -3383,8 +3383,8 @@ may experience unexpected, but correct behaviour.</seg>
       <tuv lang="EN">
         <seg>Could not create the specified folder.</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="Маринка" changedate="20171118T212425Z" creationid="Маринка" creationdate="20171118T212425Z">
-        <seg>Could not create the specified folder.</seg>
+      <tuv lang="UK-UA" changeid="nessyk" changedate="20180123T145411Z" creationid="Маринка" creationdate="20171118T212425Z">
+        <seg>Не вдалося створити вказану теку.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6544,8 +6544,8 @@ inside the configuration folder.</seg>
       <tuv lang="EN">
         <seg>LanguageTool is misconfigured.</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="nessyk" changedate="20171129T184410Z" creationid="nessyk" creationdate="20171129T184318Z">
-        <seg>Мовний інструмен налаштованонеправильно .</seg>
+      <tuv lang="UK-UA" changeid="nessyk" changedate="20180123T145241Z" creationid="nessyk" creationdate="20171129T184318Z">
+        <seg>Мовний інструмен налаштовано неправильно.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6560,16 +6560,16 @@ inside the configuration folder.</seg>
       <tuv lang="EN">
         <seg>LanguageTool server started</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="Маринка" changedate="20171118T212443Z" creationid="Маринка" creationdate="20171118T212443Z">
-        <seg>Сервер LanguageTool запущений</seg>
+      <tuv lang="UK-UA" changeid="nessyk" changedate="20180123T145327Z" creationid="Маринка" creationdate="20171118T212443Z">
+        <seg>Сервер мовного інструменту запущений</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>LanguageTool server terminated</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="nessyk" changedate="20180123T145228Z" creationid="nessyk" creationdate="20171118T203844Z">
-        <seg>Сервер мовного інструменту </seg>
+      <tuv lang="UK-UA" changeid="nessyk" changedate="20180123T145340Z" creationid="nessyk" creationdate="20171118T203844Z">
+        <seg>Сервер мовного інструменту зупиненний</seg>
       </tuv>
     </tu>
     <tu>
@@ -11854,6 +11854,14 @@ the server.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="nessyk" changedate="20171125T150819Z" creationid="nessyk" creationdate="20171118T191025Z">
         <seg>Ця URL-адреса є недійсною.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This call MUST NOT be in swing thread</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="nessyk" changedate="20180123T145518Z" creationid="nessyk" creationdate="20180123T145518Z">
+        <seg>Цей виклик НЕ ПОВИНЕН перебувати в потоці</seg>
       </tuv>
     </tu>
     <tu>
