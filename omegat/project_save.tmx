@@ -3911,6 +3911,14 @@ may experience unexpected, but correct behaviour.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Displays the dictionary entries found in the dictionary files located in the /dictionary/ folder if they are present in the source segment.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="nessyk" changedate="20180123T150653Z" creationid="nessyk" creationdate="20180123T150653Z">
+        <seg>Відображає записи словника, знайдені в файлах словника, розташованих у /словнику /теці, якщо вони присутні в сегменті оригіналу.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Displays the entries as "&lt;target&gt; → &lt;source&gt;"</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="nessyk" changedate="20171118T184912Z" creationid="nessyk" creationdate="20171113T214551Z">
@@ -8162,6 +8170,14 @@ your home folder.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Маринка" changedate="20171118T202615Z" creationid="Маринка" creationdate="20171101T210104Z">
         <seg>Відкрити теку перекладеного файлу</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Open Writable Glossary File</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="nessyk" changedate="20180123T150805Z" creationid="nessyk" creationdate="20180123T150805Z">
+        <seg>Вікрити записаний файл глосарію</seg>
       </tuv>
     </tu>
     <tu>
