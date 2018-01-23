@@ -9857,8 +9857,8 @@ The scope of a search is by default the project and can be set to be any files l
       <tuv lang="EN">
         <seg>Script "{0}" bound to slot #{1}.</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="nessyk" changedate="20180123T132601Z" creationid="nessyk" creationdate="20180123T132601Z">
-        <seg>Сценарій "{0}" пов'язаний з слотом # {1}.</seg>
+      <tuv lang="UK-UA" changeid="nessyk" changedate="20180123T132728Z" creationid="nessyk" creationdate="20180123T132601Z">
+        <seg>Скрипт "{0}" пов'язаний з слотом # {1}.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9873,8 +9873,8 @@ The scope of a search is by default the project and can be set to be any files l
       <tuv lang="EN">
         <seg>Script "{0}" unbound from slot #{1}.</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="nessyk" changedate="20180123T132711Z" creationid="nessyk" creationdate="20180123T132711Z">
-        <seg>Сценарій "{0}" не пов'язаний з слотом # {1}.</seg>
+      <tuv lang="UK-UA" changeid="nessyk" changedate="20180123T132732Z" creationid="nessyk" creationdate="20180123T132711Z">
+        <seg>Скрипт "{0}" не пов'язаний з слотом # {1}.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11592,6 +11592,14 @@ in /lib/licenses/Licenses.txt.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="nessyk" changedate="20171121T182112Z" creationid="nessyk" creationdate="20171121T182112Z">
         <seg>Проект буде завантажено як локальний проект без командної функціональності.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The script "{0}" is running...</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="nessyk" changedate="20180123T135613Z" creationid="nessyk" creationdate="20180123T135613Z">
+        <seg>Сценарій "{0}" запущений ...</seg>
       </tuv>
     </tu>
     <tu>
@@ -13355,6 +13363,14 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Маринка" changedate="20171211T193313Z" creationid="Маринка" creationdate="20171118T213108Z">
         <seg>атрибути.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>done ({0} ms elapsed)</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="nessyk" changedate="20180123T135701Z" creationid="nessyk" creationdate="20180123T135701Z">
+        <seg>завершено ({0} ms закінчився)</seg>
       </tuv>
     </tu>
     <tu>
