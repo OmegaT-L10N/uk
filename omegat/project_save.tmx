@@ -4687,6 +4687,22 @@ project_save.tmx не був завантажений, а SVN перейшов �
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Escaped binary char contains malformed data ({0})!</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Маринка" changedate="20180123T131747Z" creationid="Маринка" creationdate="20180123T131633Z">
+        <seg>Пропущений двійковий символ містить хібні дані ({0})!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Escaped decimal char contains malformed data ({0})!</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Маринка" changedate="20180123T131740Z" creationid="Маринка" creationdate="20180123T131740Z">
+        <seg>Пропущений десятковий символ містить хибні дані ({0})!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Event: application shutdown</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Лера9764" changedate="20171208T183119Z" creationid="nessyk" creationdate="20171207T184338Z">
