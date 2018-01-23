@@ -12119,6 +12119,14 @@ the server.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Translation unit variant encountered outside translation unit.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Маринка" changedate="20180123T132745Z" creationid="Маринка" creationdate="20180123T132655Z">
+        <seg>Варіант одиниці перекладу виявлений за межами одиниці перекладу.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Translation:</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Лера9764" changedate="20171102T164145Z" creationid="Лера9764" creationdate="20171102T164145Z">
