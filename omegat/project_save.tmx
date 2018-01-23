@@ -1966,6 +1966,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Aggressive &amp;Font Fallback</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="nessyk" changedate="20180123T143027Z" creationid="nessyk" creationdate="20180123T143027Z">
+        <seg>Aggressive &amp;Font Fallback</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Algorithm:</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="nessyk" changedate="20171101T183641Z" creationid="nessyk" creationdate="20171101T183641Z">
@@ -6036,6 +6044,14 @@ their defaults as a result of the location change.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Insert Match or Selection Into Translation</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="nessyk" changedate="20180123T141255Z" creationid="nessyk" creationdate="20180123T141255Z">
+        <seg>Вствити збіг або виділений текст до перекладу</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Insert Missing Source &amp;Tags</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Маринка" changedate="20171106T203956Z" creationid="Маринка" creationdate="20171106T203907Z">
@@ -6884,6 +6900,14 @@ inside the configuration folder.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Маринка" changedate="20171217T182137Z" creationid="Маринка" creationdate="20171217T182137Z">
         <seg>Позна&amp;чити пробіли</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Mark &amp;Auto-Populated Segments</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="nessyk" changedate="20180123T141447Z" creationid="nessyk" creationdate="20180123T141447Z">
+        <seg>Позначити &amp; Автоматизовані сементи </seg>
       </tuv>
     </tu>
     <tu>
@@ -9407,8 +9431,8 @@ project without team functionality.</seg>
       <tuv lang="EN">
         <seg>Replace Translation with Match or Selection</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="Tetiana21" changedate="20171118T150638Z" creationid="Tetiana21" creationdate="20171118T150638Z">
-        <seg>Replace Translation with Match or Selection</seg>
+      <tuv lang="UK-UA" changeid="nessyk" changedate="20180123T141322Z" creationid="Tetiana21" creationdate="20171118T150638Z">
+        <seg>Замінити збігом або виділеним текстом</seg>
       </tuv>
     </tu>
     <tu>
@@ -13353,8 +13377,8 @@ create its configuration folder.</seg>
       <tuv lang="EN">
         <seg>[Fuzzy]</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="Tetiana21" changedate="20171118T150656Z" creationid="Tetiana21" creationdate="20171118T150656Z">
-        <seg>[Некоректно]</seg>
+      <tuv lang="UK-UA" changeid="nessyk" changedate="20180123T141342Z" creationid="Tetiana21" creationdate="20171118T150656Z">
+        <seg>[Нечіткий збіг]</seg>
       </tuv>
     </tu>
     <tu>
