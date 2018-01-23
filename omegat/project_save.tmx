@@ -11484,6 +11484,14 @@ in /lib/licenses/Licenses.txt.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The writeable glossary file must be inside the glossary folder</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="nessyk" changedate="20180123T113527Z" creationid="nessyk" creationdate="20180123T113527Z">
+        <seg>Файл, який слід перезаписати, повинен знаходитись у теці глосарію</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Then while translating from Canadian French your project will use all the rules defined for all the language chain in the correct order.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Маринка" changedate="20171107T195112Z" creationid="Маринка" creationdate="20171107T195112Z">
@@ -12837,6 +12845,14 @@ Both exact and keyword searches support the wildcard characters * and ?.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Маринка" changedate="20171217T182626Z" creationid="Маринка" creationdate="20171106T204655Z">
         <seg>Файл словника, який можна змінити:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Writeable glossary file folder entered does not exist!</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="nessyk" changedate="20180123T113628Z" creationid="nessyk" creationdate="20180123T113342Z">
+        <seg>Введеної теки для глосарію, який потрібно перезаписати не існує!</seg>
       </tuv>
     </tu>
     <tu>
