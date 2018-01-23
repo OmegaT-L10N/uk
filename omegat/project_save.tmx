@@ -5519,6 +5519,14 @@ project_save.tmx не був завантажений, а SVN перейшов �
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Groovy (Apache Licence 2.0)</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="nessyk" changedate="20180123T121848Z" creationid="nessyk" creationdate="20180123T121825Z">
+        <seg>Groovy (ліцензія Apache  2.0)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>HHC file too big!</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Tetiana21" changedate="20171118T101826Z" creationid="Лера9764" creationdate="20171107T194946Z">
@@ -6416,8 +6424,8 @@ inside the configuration folder.</seg>
       <tuv lang="EN">
         <seg>LanguageTool (LGPL License and others)</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="Diman966" changedate="20171116T201709Z" creationid="Diman966" creationdate="20171116T201709Z">
-        <seg>Мовні засоби LanguageTool (LGPL License and others)</seg>
+      <tuv lang="UK-UA" changeid="nessyk" changedate="20180123T121932Z" creationid="Diman966" creationdate="20171116T201709Z">
+        <seg>Мовні засоби (LGPL ліцензія та інші)</seg>
       </tuv>
     </tu>
     <tu>
@@ -7020,6 +7028,14 @@ inside the configuration folder.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="nessyk" changedate="20171025T180622Z" creationid="nessyk" creationdate="20171025T180622Z">
         <seg>Об'єднати </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Microsoft Open XML</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="nessyk" changedate="20180123T121727Z" creationid="nessyk" creationdate="20180123T121727Z">
+        <seg>Microsoft Open XML</seg>
       </tuv>
     </tu>
     <tu>
@@ -8132,6 +8148,14 @@ your home folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>PDFBox (Apache License 2.0)</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="nessyk" changedate="20180123T121838Z" creationid="nessyk" creationdate="20180123T121838Z">
+        <seg>PDFBox (ліцензія Apache  2.0)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>PO</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Таня" changedate="20171213T200147Z" creationid="Таня" creationdate="20171213T200147Z">
@@ -8517,6 +8541,14 @@ additional steps need to be taken.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Маринка" changedate="20171204T164708Z" creationid="Маринка" creationdate="20171204T164708Z">
         <seg>Формат PDF (PDF U+202C)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Power Point</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="nessyk" changedate="20180123T121734Z" creationid="nessyk" creationdate="20180123T121734Z">
+        <seg>Power Point</seg>
       </tuv>
     </tu>
     <tu>
@@ -10819,8 +10851,8 @@ The scope of a search is by default the project and can be set to be any files l
       <tuv lang="EN">
         <seg>SuperTMXMerge (Apache License 2.0)</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="Маринка" changedate="20171223T194414Z" creationid="Маринка" creationdate="20171223T194414Z">
-        <seg>SuperTMXMerge (Apache License 2.0)</seg>
+      <tuv lang="UK-UA" changeid="nessyk" changedate="20180123T121815Z" creationid="Маринка" creationdate="20171223T194414Z">
+        <seg>SuperTMXMerge (ліцензія Apache  2.0)</seg>
       </tuv>
     </tu>
     <tu>
@@ -13261,6 +13293,14 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20170902T144944Z" creationid="Kos Ivantsov" creationdate="20170902T144944Z">
         <seg>сегмент 0000</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>slf4j (MIT License)</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="nessyk" changedate="20180123T121904Z" creationid="nessyk" creationdate="20180123T121904Z">
+        <seg>slf4j (ліцензіяMIT)</seg>
       </tuv>
     </tu>
     <tu>
