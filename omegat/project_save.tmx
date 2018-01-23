@@ -8765,8 +8765,8 @@ additional steps need to be taken.</seg>
       <tuv lang="EN">
         <seg>Please select what text you would like to be inserted into the segment that is not translated yet, when you move to it.</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="Tetiana21" changedate="20171105T135123Z" creationid="Tetiana21" creationdate="20171105T134345Z">
-        <seg>Будь ласка, коли Ви гортаєте текст, оберіть неперекладений текст, який хотіли б вставити у сегмент.</seg>
+      <tuv lang="UK-UA" changeid="Лера9764" changedate="20180123T165507Z" creationid="Tetiana21" creationdate="20171105T134345Z">
+        <seg>Будь ласка, оберіть, який текст Ви хотіли б вставити у неперекладений сегмент, коли переходите до нього.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10691,8 +10691,8 @@ The scope of a search is by default the project and can be set to be any files l
       <tuv lang="EN">
         <seg>Simplify &amp;tooltips on protected parts</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="Diman966" changedate="20180123T162749Z" creationid="Diman966" creationdate="20180123T162749Z">
-        <seg>Спрощенні  &amp;та спливаючі підказки на захищених частинах</seg>
+      <tuv lang="UK-UA" changeid="Лера9764" changedate="20180123T165119Z" creationid="Diman966" creationdate="20180123T162749Z">
+        <seg>Спрощенні &amp;та спливаючі підказки на захищених частинах</seg>
       </tuv>
     </tu>
     <tu>
