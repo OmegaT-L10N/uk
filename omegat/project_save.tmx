@@ -4553,14 +4553,6 @@ project_save.tmx не був завантажений, а SVN перейшов �
     </tu>
     <tu>
       <tuv lang="EN">
-        <seg>End of stream encountered without finding close block!</seg>
-      </tuv>
-      <tuv lang="UK-UA" changeid="nessyk" changedate="20180123T120451Z" creationid="nessyk" creationdate="20180123T120451Z">
-        <seg>End of stream encountered without finding close block!</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
         <seg>End rebase</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Tetiana21" changedate="20171210T155816Z" creationid="Tetiana21" creationdate="20171210T155816Z">
@@ -4845,6 +4837,14 @@ project_save.tmx не був завантажений, а SVN перейшов �
       </tuv>
       <tuv lang="UK-UA" changeid="Маринка" changedate="20180124T085416Z" creationid="Маринка" creationdate="20180123T131633Z">
         <seg>Пропущений двійковий символ містить хибні дані ({0})!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Escaped character never terminated!</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Diman966" changedate="20180124T112846Z" creationid="Diman966" creationdate="20180124T112608Z">
+        <seg>Вихідний статус ніколи не обмежується!</seg>
       </tuv>
     </tu>
     <tu>
