@@ -4835,8 +4835,8 @@ project_save.tmx не був завантажений, а SVN перейшов �
       <tuv lang="EN">
         <seg>Escaped binary char contains malformed data ({0})!</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="Маринка" changedate="20180123T131747Z" creationid="Маринка" creationdate="20180123T131633Z">
-        <seg>Пропущений двійковий символ містить хібні дані ({0})!</seg>
+      <tuv lang="UK-UA" changeid="Маринка" changedate="20180124T085416Z" creationid="Маринка" creationdate="20180123T131633Z">
+        <seg>Пропущений двійковий символ містить хибні дані ({0})!</seg>
       </tuv>
     </tu>
     <tu>
