@@ -4545,6 +4545,14 @@ project_save.tmx не був завантажений, а SVN перейшов �
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Encountered illegal \u sequence</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Diman966" changedate="20180124T113055Z" creationid="Diman966" creationdate="20180124T113055Z">
+        <seg>Виявлено незаконну  \u послідовність дій</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>End Pinpoint Align</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="nessyk" changedate="20171101T185023Z" creationid="nessyk" creationdate="20171101T185023Z">
@@ -6516,6 +6524,22 @@ inside the configuration folder.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Лера9764" changedate="20171121T145951Z" creationid="Diman966" creationdate="20171116T200449Z">
         <seg>XML властивості Java</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Java Resource Bundles Filter Options</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Diman966" changedate="20180124T113134Z" creationid="Diman966" creationdate="20180124T113134Z">
+        <seg>Параметри фільтрування пакетів ресурсів Java</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Java(TM) Resource Bundles</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Diman966" changedate="20180124T113030Z" creationid="Diman966" creationdate="20180124T113030Z">
+        <seg>Компоненти ресурсів Java(TM) </seg>
       </tuv>
     </tu>
     <tu>
@@ -11690,6 +11714,14 @@ current folder will be used instead.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="nessyk" changedate="20171205T173925Z" creationid="nessyk" creationdate="20171205T173925Z">
         <seg>Замість цього буде використана поточна папка.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The Java Resource Bundles filter threw an exception:</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Diman966" changedate="20180124T113300Z" creationid="Diman966" creationdate="20180124T113226Z">
+        <seg>Фільтр компонентів ресурсів Java згенерував виняток: </seg>
       </tuv>
     </tu>
     <tu>
