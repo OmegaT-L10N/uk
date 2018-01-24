@@ -13474,6 +13474,14 @@ Both exact and keyword searches support the wildcard characters * and ?.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>XHTML</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Таня" changedate="20180124T140012Z" creationid="Таня" creationdate="20180124T140012Z">
+        <seg>XHTML</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>XHTML Filter Options</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Маринка" changedate="20180104T191738Z" creationid="Маринка" creationdate="20180104T191738Z">
@@ -13804,8 +13812,8 @@ create its configuration folder.</seg>
       <tuv lang="EN">
         <seg>jsch-agent-proxy (jsch-agent-proxy License)</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="Tetiana21" changedate="20171205T154149Z" creationid="Tetiana21" creationdate="20171205T154149Z">
-        <seg>jsch-agent-proxy (jsch-agent-proxy License)</seg>
+      <tuv lang="UK-UA" changeid="Таня" changedate="20180124T142440Z" creationid="Tetiana21" creationdate="20171205T154149Z">
+        <seg>jsch-agent-proxy (ліцензія jsch-agent-proxy)</seg>
       </tuv>
     </tu>
     <tu>
