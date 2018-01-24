@@ -11952,8 +11952,8 @@ in /lib/licenses/Licenses.txt.</seg>
       <tuv lang="EN">
         <seg>The source file language entered is invalid!</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="Лера9764" changedate="20171215T210809Z" creationid="Маринка" creationdate="20171107T195756Z">
-        <seg>Введена мова файла оригіналу не дійсна!</seg>
+      <tuv lang="UK-UA" changeid="Лера9764" changedate="20180124T115136Z" creationid="Маринка" creationdate="20171107T195756Z">
+        <seg>Введена мова файлу оригінала не дійсна!</seg>
       </tuv>
     </tu>
     <tu>
@@ -13625,8 +13625,8 @@ Both exact and keyword searches support the wildcard characters * and ?.</seg>
       <tuv lang="EN">
         <seg>You should specify their new location or recreate them.</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="Маринка" changedate="20171106T205113Z" creationid="Маринка" creationdate="20171106T205113Z">
-        <seg>Ви маєте конкретизувати їх нове розташування або заново створити. </seg>
+      <tuv lang="UK-UA" changeid="Лера9764" changedate="20180124T114948Z" creationid="Маринка" creationdate="20171106T205113Z">
+        <seg>Ви маєте конкретизувати їхнє нове розташування або заново створити. </seg>
       </tuv>
     </tu>
     <tu>
