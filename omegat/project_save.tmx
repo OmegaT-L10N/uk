@@ -5131,16 +5131,16 @@ project_save.tmx не був завантажений, а SVN перейшов �
       <tuv lang="EN">
         <seg>Failed to commit source files!</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="Маринка" changedate="20171118T200758Z" creationid="Маринка" creationdate="20171101T204720Z">
-        <seg>Не вдалося підключитися до файлу оригіналу!</seg>
+      <tuv lang="UK-UA" changeid="Лера9764" changedate="20180124T091312Z" creationid="Маринка" creationdate="20171101T204720Z">
+        <seg>Не вдалося підключитися до файлів оригіналу!</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Failed to commit target files!</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="Маринка" changedate="20171118T200408Z" creationid="Маринка" creationdate="20171101T204823Z">
-        <seg>Не вдалося підключитися до перекладених файлів!!</seg>
+      <tuv lang="UK-UA" changeid="Лера9764" changedate="20180124T091309Z" creationid="Маринка" creationdate="20171101T204823Z">
+        <seg>Не вдалося підключитися до перекладених файлів!</seg>
       </tuv>
     </tu>
     <tu>
@@ -5171,8 +5171,8 @@ project_save.tmx не був завантажений, а SVN перейшов �
       <tuv lang="EN">
         <seg>Failed to load translation memory {0} for project!</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="Маринка" changedate="20171026T191532Z" creationid="Маринка" creationdate="20171026T191532Z">
-        <seg>Не вдалося завантажити пам'ять перекладу {0} для проекта!</seg>
+      <tuv lang="UK-UA" changeid="Лера9764" changedate="20180124T091222Z" creationid="Маринка" creationdate="20171026T191532Z">
+        <seg>Не вдалося завантажити памʼять перекладу {0} для проекта!</seg>
       </tuv>
     </tu>
     <tu>
