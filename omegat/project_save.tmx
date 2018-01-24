@@ -3299,8 +3299,8 @@ may experience unexpected, but correct behaviour.</seg>
       <tuv lang="EN">
         <seg>Confused by false start of comment tag!</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="Diman966" changedate="20180115T201318Z" creationid="Diman966" creationdate="20180115T201318Z">
-        <seg> Збентежений помилкою старту тегу комментарія!</seg>
+      <tuv lang="UK-UA" changeid="Лера9764" changedate="20180124T115841Z" creationid="Diman966" creationdate="20180115T201318Z">
+        <seg> Збентежений помилкою старту коментаря тегу!</seg>
       </tuv>
     </tu>
     <tu>
@@ -5979,8 +5979,8 @@ project_save.tmx не був завантажений, а SVN перейшов �
       <tuv lang="EN">
         <seg>IOException encountered:</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="Маринка" changedate="20180123T124058Z" creationid="Маринка" creationdate="20171118T212858Z">
-        <seg>Виявлено виключення IOException:</seg>
+      <tuv lang="UK-UA" changeid="Лера9764" changedate="20180124T115800Z" creationid="Маринка" creationdate="20171118T212858Z">
+        <seg>Виявлено виключення IO:</seg>
       </tuv>
     </tu>
     <tu>
