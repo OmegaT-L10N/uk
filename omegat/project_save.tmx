@@ -1325,8 +1325,8 @@ To add files to the project, click on the Copy Files to Source Folder... button 
         <seg>(You will still able to use OmegaT
 3.6 to edit this project as a team project.)</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="nessyk" changedate="20171121T185635Z" creationid="nessyk" creationdate="20171121T185635Z">
-        <seg>(-)</seg>
+      <tuv lang="UK-UA" changeid="Таня" changedate="20180124T130012Z" creationid="nessyk" creationdate="20171121T185635Z">
+        <seg>(Ви ще в змозі використати OmegaT 3.6 для редагування цього проекту, як командного проекту)</seg>
       </tuv>
     </tu>
     <tu>
@@ -12108,9 +12108,8 @@ configuration folder cannot be reliably determined.</seg>
 will delete your local data and re-download the project contents from
 the server.</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="nessyk" changedate="20171121T182827Z" creationid="nessyk" creationdate="20171121T182827Z">
-        <seg>Це 
-може видалити ваші локальні файли та повторно завантажити вміст проекту з
+      <tuv lang="UK-UA" changeid="Таня" changedate="20180124T130020Z" creationid="nessyk" creationdate="20171121T182827Z">
+        <seg>Це може видалити ваші локальні файли та повторно завантажити вміст проекту з
 сервера.</seg>
       </tuv>
     </tu>
