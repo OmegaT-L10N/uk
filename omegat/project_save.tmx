@@ -12602,6 +12602,22 @@ Exact searches match the whole search string.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Typo3 LocManager</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Таня" changedate="20180124T165058Z" creationid="Таня" creationdate="20180124T165058Z">
+        <seg>Typo3 LocManager</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Typo3 l10nmgr</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Таня" changedate="20180124T165055Z" creationid="Таня" creationdate="20180124T165055Z">
+        <seg>Typo3 l10nmgr</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>U&amp;ntranslated</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Tetiana21" changedate="20171105T183239Z" creationid="Tetiana21" creationdate="20171105T183239Z">
