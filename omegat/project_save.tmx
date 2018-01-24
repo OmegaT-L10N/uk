@@ -9945,8 +9945,8 @@ project without team functionality.</seg>
       <tuv lang="EN">
         <seg>Rule ID can only contain Latin letters, underscores, and periods.</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="nessyk" changedate="20171202T181259Z" creationid="nessyk" creationdate="20171202T181259Z">
-        <seg>Rule ID  може містити лише латинські букви, підкреслення та періоди.</seg>
+      <tuv lang="UK-UA" changeid="Diman966" changedate="20180124T173010Z" creationid="nessyk" creationdate="20171202T181259Z">
+        <seg>Правило індетифікатора може містити лише латинські букви, підкреслення та періоди.</seg>
       </tuv>
     </tu>
     <tu>
