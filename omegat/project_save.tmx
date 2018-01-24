@@ -560,8 +560,8 @@
       <tuv lang="EN">
         <seg>&amp;Insert Match or Selection</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="Маринка" changedate="20171209T211822Z" creationid="Маринка" creationdate="20171026T191308Z">
-        <seg>&amp;Вствити збіг або виділений текст</seg>
+      <tuv lang="UK-UA" changeid="Лера9764" changedate="20180124T090548Z" creationid="Маринка" creationdate="20171026T191308Z">
+        <seg>&amp;Вставити збіг або виділений текст</seg>
       </tuv>
     </tu>
     <tu>
@@ -1112,8 +1112,8 @@
       <tuv lang="EN">
         <seg>&amp;Source Files</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="Маринка" changedate="20171118T210507Z" creationid="Маринка" creationdate="20171026T191159Z">
-        <seg>&amp;Файли мови оригіналу</seg>
+      <tuv lang="UK-UA" changeid="Лера9764" changedate="20180124T090443Z" creationid="Маринка" creationdate="20171026T191159Z">
+        <seg>&amp;Файли мовою оригіналу</seg>
       </tuv>
     </tu>
     <tu>
@@ -1160,8 +1160,8 @@
       <tuv lang="EN">
         <seg>&amp;Target Files</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="Лера9764" changedate="20171122T143527Z" creationid="Маринка" creationdate="20171026T191208Z">
-        <seg>Фа&amp;йли мови перекладу</seg>
+      <tuv lang="UK-UA" changeid="Лера9764" changedate="20180124T090453Z" creationid="Маринка" creationdate="20171026T191208Z">
+        <seg>Фа&amp;йли мовою перекладу</seg>
       </tuv>
     </tu>
     <tu>
@@ -2691,8 +2691,8 @@ may experience unexpected, but correct behaviour.</seg>
       <tuv lang="EN">
         <seg>C&amp;urrent Target Document</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="Маринка" changedate="20171118T210611Z" creationid="Маринка" creationdate="20171106T202246Z">
-        <seg>П&amp;оточний  документ перекладу</seg>
+      <tuv lang="UK-UA" changeid="Лера9764" changedate="20180124T090516Z" creationid="Маринка" creationdate="20171106T202246Z">
+        <seg>П&amp;оточний документ перекладу</seg>
       </tuv>
     </tu>
     <tu>
@@ -11341,8 +11341,8 @@ The scope of a search is by default the project and can be set to be any files l
       <tuv lang="EN">
         <seg>T&amp;Ms</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="Маринка" changedate="20171118T195422Z" creationid="Маринка" creationdate="20171107T200209Z">
-        <seg>Термінологічні бази</seg>
+      <tuv lang="UK-UA" changeid="Лера9764" changedate="20180124T090422Z" creationid="Маринка" creationdate="20171107T200209Z">
+        <seg>Термінологічні &amp;бази</seg>
       </tuv>
     </tu>
     <tu>
