@@ -5977,6 +5977,14 @@ project_save.tmx не був завантажений, а SVN перейшов �
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>ILIAS Language File</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Таня" changedate="20180124T154431Z" creationid="Таня" creationdate="20180124T154431Z">
+        <seg>Мовний файл ILIAS</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>IOException encountered:</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Лера9764" changedate="20180124T115800Z" creationid="Маринка" creationdate="20171118T212858Z">
