@@ -6136,8 +6136,8 @@ their defaults as a result of the location change.</seg>
       <tuv lang="EN">
         <seg>In so&amp;urce</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="Tetiana21" changedate="20171105T183313Z" creationid="Tetiana21" creationdate="20171105T183313Z">
-        <seg>У джерелі </seg>
+      <tuv lang="UK-UA" changeid="Лера9764" changedate="20180124T115406Z" creationid="Tetiana21" creationdate="20171105T183313Z">
+        <seg>У дже&amp;релі </seg>
       </tuv>
     </tu>
     <tu>
@@ -10154,9 +10154,9 @@ project without team functionality.</seg>
         <seg>Scope:
 The scope of a search is by default the project and can be set to be any files located in a specified folder hierarchy.</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="nessyk" changedate="20180123T115257Z" creationid="nessyk" creationdate="20171025T174913Z">
+      <tuv lang="UK-UA" changeid="Лера9764" changedate="20180124T115507Z" creationid="nessyk" creationdate="20171025T174913Z">
         <seg>Сфера застосування:
-Межою пошуку є проект за замовчуванням, і його можна застосувати до будь-якіх файлів, розташованих в певній ієрархії папок.</seg>
+Межою пошуку є проект за замовчуванням, і його можна застосувати до будь-яких файлів, розташованих в певній ієрархії тек.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12588,9 +12588,9 @@ the server.</seg>
         <seg>Types:
 Exact searches match the whole search string.</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="Маринка" changedate="20171114T215751Z" creationid="nessyk" creationdate="20171025T174944Z">
+      <tuv lang="UK-UA" changeid="Лера9764" changedate="20180124T115527Z" creationid="nessyk" creationdate="20171025T174944Z">
         <seg>Типи:
-Точні пошуки відповідають всьому пошуковому рядку.</seg>
+Точні пошуки відповідають усьому пошуковому рядку.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13525,8 +13525,8 @@ Both exact and keyword searches support the wildcard characters * and ?.</seg>
       <tuv lang="EN">
         <seg>You are going to modify {0} segments.</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="Tetiana21" changedate="20171105T183950Z" creationid="Tetiana21" creationdate="20171105T183840Z">
-        <seg>Збираєтеся змінити {0} сегменти.</seg>
+      <tuv lang="UK-UA" changeid="Лера9764" changedate="20180124T115447Z" creationid="Tetiana21" creationdate="20171105T183840Z">
+        <seg>Ви збираєтеся змінити {0} сегменти.</seg>
       </tuv>
     </tu>
     <tu>
