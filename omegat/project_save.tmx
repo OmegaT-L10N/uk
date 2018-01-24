@@ -3633,8 +3633,8 @@ may experience unexpected, but correct behaviour.</seg>
       <tuv lang="EN">
         <seg>Current memory usage by the VM: {0}MB; of which free memory: {1}MB; maximum available: {2}MB</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="Маринка" changedate="20171118T195015Z" creationid="Маринка" creationdate="20171118T195015Z">
-        <seg>Current memory usage by the VM: {0}MB; of which free memory: {1}MB; maximum available: {2}MB</seg>
+      <tuv lang="UK-UA" changeid="Лера9764" changedate="20180124T084955Z" creationid="Маринка" creationdate="20171118T195015Z">
+        <seg>Поточне використання пам'яті операційною системою VM: {0}MB; з яких вільної пам'яті: {1}MB; максимально доступно: {2}MB</seg>
       </tuv>
     </tu>
     <tu>
