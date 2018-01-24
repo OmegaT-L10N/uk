@@ -5283,8 +5283,8 @@ project_save.tmx не був завантажений, а SVN перейшов �
       <tuv lang="EN">
         <seg>File {0} does not exist!</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="Таня" changedate="20171212T124909Z" creationid="Лера9764" creationdate="20171117T155212Z">
-        <seg>Файлу {0} не існує!</seg>
+      <tuv lang="UK-UA" changeid="Лера9764" changedate="20180124T150205Z" creationid="Лера9764" creationdate="20171117T155212Z">
+        <seg>Файл {0} не існує!</seg>
       </tuv>
     </tu>
     <tu>
