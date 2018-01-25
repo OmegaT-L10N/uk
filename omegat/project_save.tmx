@@ -4603,8 +4603,8 @@ project_save.tmx не був завантажений, а SVN перейшов �
       <tuv lang="EN">
         <seg>End of stream encountered without finding close block!</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="Diman966" changedate="20180125T133233Z" creationid="Diman966" creationdate="20180125T133200Z">
-        <seg>Виник кінец потоку, не знайшовши кінцевий блок! </seg>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180125T204511Z" creationid="Diman966" creationdate="20180125T133200Z">
+        <seg>Виник кінець потоку, не знайшовши кінцевий блок! </seg>
       </tuv>
     </tu>
     <tu>
@@ -8656,8 +8656,8 @@ your home folder.</seg>
       <tuv lang="EN">
         <seg>Password-protected PDF files are not supported: {0}</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="Лера9764" changedate="20171205T064450Z" creationid="Diman966" creationdate="20171116T200038Z">
-        <seg>Захищені паролем файли PDF не піддтримуються: {0}</seg>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180125T204554Z" creationid="Diman966" creationdate="20171116T200038Z">
+        <seg>Захищені паролем файли PDF не підтримуються: {0}</seg>
       </tuv>
     </tu>
     <tu>
@@ -10234,9 +10234,9 @@ project without team functionality.</seg>
         <seg>Scope:
 The scope of a search is by default the project and can be set to be any files located in a specified folder hierarchy.</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="Лера9764" changedate="20180124T115507Z" creationid="nessyk" creationdate="20171025T174913Z">
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180125T204401Z" creationid="nessyk" creationdate="20171025T174913Z">
         <seg>Сфера застосування:
-Межою пошуку є проект за замовчуванням, і його можна застосувати до будь-яких файлів, розташованих в певній ієрархії тек.</seg>
+Межею пошуку є проект за замовчуванням, і його можна застосувати до будь-яких файлів, розташованих в певній ієрархії тек.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11469,8 +11469,8 @@ The scope of a search is by default the project and can be set to be any files l
       <tuv lang="EN">
         <seg>TMX file was created by OmegaT 1.4.x or earlier.</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="Лера9764" changedate="20171117T154748Z" creationid="Лера9764" creationdate="20171117T154748Z">
-        <seg>Файл TMX був створенний OmegaT 1.4.x або ранішими версіями.</seg>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180125T204532Z" creationid="Лера9764" creationdate="20171117T154748Z">
+        <seg>Файл TMX був створений OmegaT 1.4.x або ранішими версіями.</seg>
       </tuv>
     </tu>
     <tu>
