@@ -1750,6 +1750,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;trans-unit&gt; &amp;resname attribute when available</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="nessyk" changedate="20180125T170800Z" creationid="nessyk" creationdate="20180125T170608Z">
+        <seg>&lt;trans-unit&gt; &amp; атрибут resname, якщо доступний</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;trans-unit&gt; I&amp;D</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Маринка" changedate="20171118T212124Z" creationid="Маринка" creationdate="20171118T212124Z">
