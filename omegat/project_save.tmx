@@ -1734,6 +1734,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;p0&gt;Project&lt;/p0&gt; &lt;s1&gt;Create / open new&lt;/s1&gt;</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180125T220016Z" creationid="olexandr" creationdate="20180125T220016Z">
+        <seg>&lt;p0&gt;Проект&lt;/p0&gt; &lt;s1&gt;Створення та відкриття нового&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;trans-unit&gt; &amp;resname attribute when available</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="nessyk" changedate="20180125T170800Z" creationid="nessyk" creationdate="20180125T170608Z">
@@ -6972,6 +6980,14 @@ inside the configuration folder.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="olexandr" changedate="20180125T205804Z" creationid="olexandr" creationdate="20180125T205804Z">
         <seg>Запустіть програму встановлення.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Learn to use OmegaT in 5 minutes!</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180125T215246Z" creationid="olexandr" creationdate="20180125T215246Z">
+        <seg>Навчіться використовувати OmegaT за 5 хвилин!</seg>
       </tuv>
     </tu>
     <tu>
