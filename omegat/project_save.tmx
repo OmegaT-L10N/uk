@@ -304,8 +304,8 @@
       <tuv lang="EN">
         <seg>&amp;Do not unescape Unicode literals (\uXXXX)</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="Лера9764" changedate="20180103T151049Z" creationid="Маринка" creationdate="20171203T194642Z">
-        <seg>&amp;не перетворювати літерали Unicode (\uXXXX)</seg>
+      <tuv lang="UK-UA" changeid="Лера9764" changedate="20180125T123209Z" creationid="Маринка" creationdate="20171203T194642Z">
+        <seg>&amp;Не перетворювати літерали Unicode (\uXXXX)</seg>
       </tuv>
     </tu>
     <tu>
@@ -2717,6 +2717,14 @@ may experience unexpected, but correct behaviour.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="nessyk" changedate="20171101T183719Z" creationid="nessyk" creationdate="20171101T183719Z">
         <seg>Калькулятор:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Camtasia for Windows</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Лера9764" changedate="20180125T123315Z" creationid="Лера9764" creationdate="20180125T123315Z">
+        <seg>Camtasia для Windows</seg>
       </tuv>
     </tu>
     <tu>
@@ -7078,6 +7086,14 @@ inside the configuration folder.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Лера9764" changedate="20171114T172854Z" creationid="Лера9764" creationdate="20171114T172854Z">
         <seg>Налаштування машинного перекладу</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Magento CE Locale CSV</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Лера9764" changedate="20180125T123445Z" creationid="Лера9764" creationdate="20180125T123445Z">
+        <seg>Magento CE Locale CSV</seg>
       </tuv>
     </tu>
     <tu>
