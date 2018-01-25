@@ -11785,8 +11785,8 @@ current folder will be used instead.</seg>
         <seg>The TMX file will not be loaded
 Please try to correct the error and reload the project.</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="Лера9764" changedate="20171117T154954Z" creationid="Лера9764" creationdate="20171117T154954Z">
-        <seg>Файл TMX неможливо завантажити
+      <tuv lang="UK-UA" changeid="Лера9764" changedate="20180125T122533Z" creationid="Лера9764" creationdate="20171117T154954Z">
+        <seg>Файл TMX неможливо завантажити.
 Будь ласка, спробуйте виправити помилку та перезавантажте проект.</seg>
       </tuv>
     </tu>
@@ -13160,8 +13160,8 @@ on line {1}, column {2}.</seg>
       <tuv lang="EN">
         <seg>Variants in the following languages will be displayed: {0}</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="Маринка" changedate="20171121T205544Z" creationid="Tetiana21" creationdate="20171105T164139Z">
-        <seg>Варіант будуть відображені наступними мовами: {0}</seg>
+      <tuv lang="UK-UA" changeid="Лера9764" changedate="20180125T122449Z" creationid="Tetiana21" creationdate="20171105T164139Z">
+        <seg>Варіанти будуть відображені наступними мовами: {0}</seg>
       </tuv>
     </tu>
     <tu>
@@ -13242,8 +13242,8 @@ on line {1}, column {2}.</seg>
       <tuv lang="EN">
         <seg>Warning on line {0}, column {1} while parsing:</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="Маринка" changedate="20171217T185239Z" creationid="Маринка" creationdate="20171217T184915Z">
-        <seg>Попередження у рядку {0}, стовпець {1} під час аналіз</seg>
+      <tuv lang="UK-UA" changeid="Лера9764" changedate="20180125T122513Z" creationid="Маринка" creationdate="20171217T184915Z">
+        <seg>Попередження у рядку {0}, стовпець {1} під час аналізу</seg>
       </tuv>
     </tu>
     <tu>
