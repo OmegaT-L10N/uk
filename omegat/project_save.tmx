@@ -376,8 +376,8 @@
       <tuv lang="EN">
         <seg>&amp;Enable glossary suggestions</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="nessyk" changedate="20171113T214644Z" creationid="nessyk" creationdate="20171113T214644Z">
-        <seg>Увімкнити підказки глосарію</seg>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180125T205047Z" creationid="nessyk" creationdate="20171113T214644Z">
+        <seg>Увімкнути підказки глосарію</seg>
       </tuv>
     </tu>
     <tu>
@@ -2312,8 +2312,8 @@ The TMX file will not be loaded.</seg>
       <tuv lang="EN">
         <seg>An existing translation was changed to something different from what you chose.</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="nessyk" changedate="20171106T221956Z" creationid="nessyk" creationdate="20171106T221956Z">
-        <seg>Існуючий переклад був змінений на щось, що відрізняється від того, що ви обрали</seg>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180125T205145Z" creationid="nessyk" creationdate="20171106T221956Z">
+        <seg>Наявний переклад був змінений на щось, що відрізняється від того, що ви обрали</seg>
       </tuv>
     </tu>
     <tu>
@@ -2483,8 +2483,8 @@ may experience unexpected, but correct behaviour.</seg>
       <tuv lang="EN">
         <seg>Auto-text configuration</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="nessyk" changedate="20171113T215331Z" creationid="nessyk" creationdate="20171113T214957Z">
-        <seg>Кофігурація автотексту</seg>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180125T205101Z" creationid="nessyk" creationdate="20171113T214957Z">
+        <seg>Конфігурація автотексту</seg>
       </tuv>
     </tu>
     <tu>
@@ -2747,8 +2747,8 @@ may experience unexpected, but correct behaviour.</seg>
       <tuv lang="EN">
         <seg>Cancel Pinpoint Align</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="nessyk" changedate="20171101T185050Z" creationid="nessyk" creationdate="20171101T185032Z">
-        <seg>Відмінити ціловий елаймент (вирівнювання)</seg>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180125T205223Z" creationid="nessyk" creationdate="20171101T185032Z">
+        <seg>Відмінити цільовий елаймент (вирівнювання)</seg>
       </tuv>
     </tu>
     <tu>
@@ -4595,8 +4595,8 @@ project_save.tmx не був завантажений, а SVN перейшов �
       <tuv lang="EN">
         <seg>End Pinpoint Align</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="nessyk" changedate="20171101T185023Z" creationid="nessyk" creationdate="20171101T185023Z">
-        <seg>Закінчити ціловий елаймент (вирівнювання)</seg>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180125T205218Z" creationid="nessyk" creationdate="20171101T185023Z">
+        <seg>Закінчити цільовий елаймент (вирівнювання)</seg>
       </tuv>
     </tu>
     <tu>
@@ -7212,8 +7212,8 @@ inside the configuration folder.</seg>
       <tuv lang="EN">
         <seg>Mark Needs Review</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="nessyk" changedate="20171101T184652Z" creationid="nessyk" creationdate="20171101T184652Z">
-        <seg>Означення потребує прекладу</seg>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180125T205156Z" creationid="nessyk" creationdate="20171101T184652Z">
+        <seg>Означення потребує перекладу</seg>
       </tuv>
     </tu>
     <tu>
@@ -8496,8 +8496,8 @@ your home folder.</seg>
       <tuv lang="EN">
         <seg>Opening team project</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="nessyk" changedate="20171118T191409Z" creationid="Tetiana21" creationdate="20171118T114337Z">
-        <seg>ВІдкриття командного проекту</seg>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180125T205010Z" creationid="Tetiana21" creationdate="20171118T114337Z">
+        <seg>Відкриття командного проекту</seg>
       </tuv>
     </tu>
     <tu>
@@ -9471,8 +9471,8 @@ project without team functionality.</seg>
       <tuv lang="EN">
         <seg>Realign Pending</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="nessyk" changedate="20171101T184742Z" creationid="nessyk" creationdate="20171101T184742Z">
-        <seg>Очукує редагування </seg>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180125T205201Z" creationid="nessyk" creationdate="20171101T184742Z">
+        <seg>Очікує редагування </seg>
       </tuv>
     </tu>
     <tu>
@@ -9889,8 +9889,8 @@ project without team functionality.</seg>
       <tuv lang="EN">
         <seg>Reset &amp;All Colours</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="nessyk" changedate="20171125T150134Z" creationid="nessyk" creationdate="20171106T220914Z">
-        <seg>Скинутити &amp;всі кольори</seg>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180125T205129Z" creationid="nessyk" creationdate="20171106T220914Z">
+        <seg>Скинути &amp;всі кольори</seg>
       </tuv>
     </tu>
     <tu>
@@ -10963,8 +10963,8 @@ The scope of a search is by default the project and can be set to be any files l
       <tuv lang="EN">
         <seg>Sort by &amp;full text, not shortcut</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="nessyk" changedate="20171113T214924Z" creationid="nessyk" creationdate="20171113T214924Z">
-        <seg>Сортувати за повним текстом, а не за скороченним</seg>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180125T205056Z" creationid="nessyk" creationdate="20171113T214924Z">
+        <seg>Сортувати за повним текстом, а не за скороченим</seg>
       </tuv>
     </tu>
     <tu>
@@ -11285,8 +11285,8 @@ The scope of a search is by default the project and can be set to be any files l
       <tuv lang="EN">
         <seg>Start Pinpoint Align</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="nessyk" changedate="20171101T185005Z" creationid="nessyk" creationdate="20171101T185005Z">
-        <seg>Почати цільвий елаймент (вирівнювання)</seg>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180125T205212Z" creationid="nessyk" creationdate="20171101T185005Z">
+        <seg>Почати цільовий елаймент (вирівнювання)</seg>
       </tuv>
     </tu>
     <tu>
@@ -11709,8 +11709,8 @@ The scope of a search is by default the project and can be set to be any files l
       <tuv lang="EN">
         <seg>Terms with multiple targets</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="nessyk" changedate="20171113T214711Z" creationid="nessyk" creationdate="20171113T214711Z">
-        <seg>Теміни з кількома значеннями</seg>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180125T205043Z" creationid="nessyk" creationdate="20171113T214711Z">
+        <seg>Терміни з кількома значеннями</seg>
       </tuv>
     </tu>
     <tu>
@@ -12063,8 +12063,8 @@ in /lib/licenses/Licenses.txt.</seg>
       <tuv lang="EN">
         <seg>The specified project is an OmegaT 3.6-style team project.</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="nessyk" changedate="20171121T182647Z" creationid="nessyk" creationdate="20171121T180917Z">
-        <seg>Зазначений проект - це командний проект OmegaTу форматі 3.6.</seg>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180125T204948Z" creationid="nessyk" creationdate="20171121T180917Z">
+        <seg>Зазначений проект - це командний проект OmegaT у форматі 3.6.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12111,8 +12111,8 @@ in /lib/licenses/Licenses.txt.</seg>
       <tuv lang="EN">
         <seg>The translation has changed.</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="nessyk" changedate="20171113T221429Z" creationid="nessyk" creationdate="20171113T221429Z">
-        <seg>Переклад був зміненний.</seg>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180125T205021Z" creationid="nessyk" creationdate="20171113T221429Z">
+        <seg>Переклад був змінено.</seg>
       </tuv>
     </tu>
     <tu>
