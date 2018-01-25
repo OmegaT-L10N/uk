@@ -8666,6 +8666,14 @@ installed on your system.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Otherwise, OmegaT will use the language of the operating system.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180125T210813Z" creationid="olexandr" creationdate="20180125T210813Z">
+        <seg>Інакше, OmegaT використовуватиме мову операційної системи.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Out-of-order</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="nessyk" changedate="20171113T221240Z" creationid="nessyk" creationdate="20171113T221240Z">
@@ -13274,6 +13282,14 @@ on line {1}, column {2}.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Лера9764" changedate="20180124T091025Z" creationid="Лера9764" creationdate="20171105T153454Z">
         <seg>Використати терміни, &amp;що зʼявляються окремо у тексті оригіналу</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Use the installation language in OmegaT</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180125T210856Z" creationid="olexandr" creationdate="20180125T210856Z">
+        <seg>Використовувати мову встановлення, як мову інтерфейсу користувача OmegaT</seg>
       </tuv>
     </tu>
     <tu>
