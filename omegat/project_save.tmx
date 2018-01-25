@@ -6334,6 +6334,36 @@ their defaults as a result of the location change.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Installing OmegaT (Linux)
+=========================</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180125T205828Z" creationid="olexandr" creationdate="20180125T205828Z">
+        <seg>Встановлення OmegaT (Linux)
+=========================</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Installing OmegaT (Mac)
+=======================</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180125T205810Z" creationid="olexandr" creationdate="20180125T205810Z">
+        <seg>Встановлення OmegaT (Mac)
+=======================</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Installing OmegaT (Windows)
+===========================</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180125T205748Z" creationid="olexandr" creationdate="20180125T205748Z">
+        <seg>Встановлення OmegaT (Windows)
+===========================</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Installing and running OmegaT" in the User Manual.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Лера9764" changedate="20171209T184612Z" creationid="Лера9764" creationdate="20171116T142440Z">
@@ -6900,6 +6930,14 @@ inside the configuration folder.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20170902T145030Z" creationid="Kos Ivantsov" creationdate="20170902T145030Z">
         <seg>Востаннє змінено користувачем {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Launch the installation program.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180125T205804Z" creationid="olexandr" creationdate="20180125T205804Z">
+        <seg>Запустіть програму встановлення.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13333,6 +13371,16 @@ on line {1}, column {2}.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="nessyk" changedate="20180123T151931Z" creationid="Diman966" creationdate="20180115T203102Z">
         <seg>Попередження: зміна порядку тегів може порушити перекладений документ!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>We recommend using OmegaT packages that include the JRE, to save you the
+trouble of selecting, obtaining and installing it.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180125T205737Z" creationid="olexandr" creationdate="20180125T205706Z">
+        <seg>Ми рекомендуємо використовувати пакунок OmegaT із включеним JRE, аби позбавити
+Вас проблеми вибору, отримання та встановленням JRE.</seg>
       </tuv>
     </tu>
     <tu>
