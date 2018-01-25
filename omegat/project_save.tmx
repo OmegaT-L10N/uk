@@ -1110,6 +1110,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Skip PO header</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Лера9764" changedate="20180125T122810Z" creationid="Лера9764" creationdate="20180125T122810Z">
+        <seg>&amp;Пропустит заголовок PO</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;Source (segment {0}):</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="nessyk" changedate="20171129T184202Z" creationid="nessyk" creationdate="20171129T184202Z">
