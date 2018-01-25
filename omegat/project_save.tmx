@@ -3903,6 +3903,22 @@ may experience unexpected, but correct behaviour.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Different punctuation</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180125T211316Z" creationid="olexandr" creationdate="20180125T211316Z">
+        <seg>Різна пунктуація</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Different start case</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180125T211330Z" creationid="olexandr" creationdate="20180125T211330Z">
+        <seg>Різний початковий регістр</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Disable rule “{0}”</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="nessyk" changedate="20171030T171904Z" creationid="nessyk" creationdate="20171030T171904Z">
@@ -6924,6 +6940,14 @@ inside the configuration folder.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="nessyk" changedate="20171129T185038Z" creationid="nessyk" creationdate="20171129T185038Z">
         <seg>Мовний інструмент: сервер повернув XML, коли очікувалось JSON.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>LanguageTools Rules</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180125T211225Z" creationid="olexandr" creationdate="20180125T211225Z">
+        <seg>Правила LanguageTools</seg>
       </tuv>
     </tu>
     <tu>
@@ -10107,6 +10131,14 @@ project without team functionality.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Rule</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180125T211216Z" creationid="olexandr" creationdate="20180125T211216Z">
+        <seg>Правило</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Rule ID can only contain Latin letters, underscores, and periods.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="olexandr" changedate="20180125T204828Z" creationid="nessyk" creationdate="20171202T181259Z">
@@ -11333,6 +11365,14 @@ The scope of a search is by default the project and can be set to be any files l
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Spelling errors(s)</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180125T211104Z" creationid="olexandr" creationdate="20180125T211104Z">
+        <seg>Помилок правопису</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Split</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Лера9764" changedate="20180125T162532Z" creationid="nessyk" creationdate="20171025T180548Z">
@@ -11715,6 +11755,22 @@ The scope of a search is by default the project and can be set to be any files l
       </tuv>
       <tuv lang="UK-UA" changeid="olexandr" changedate="20180125T204900Z" creationid="nessyk" creationdate="20171125T171121Z">
         <seg>Тека мови перекладу {0} не існує.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Target longer</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180125T211304Z" creationid="olexandr" creationdate="20180125T211304Z">
+        <seg>Цільовий довший</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Target shorter</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180125T211258Z" creationid="olexandr" creationdate="20180125T211258Z">
+        <seg>Цільовий коротший</seg>
       </tuv>
     </tu>
     <tu>
