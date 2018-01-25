@@ -344,8 +344,8 @@
       <tuv lang="EN">
         <seg>&amp;Empty lines</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="Лера9764" changedate="20180123T152814Z" creationid="Лера9764" creationdate="20171031T070233Z">
-        <seg>&amp; по порожніх рядках</seg>
+      <tuv lang="UK-UA" changeid="Лера9764" changedate="20180125T123037Z" creationid="Лера9764" creationdate="20171031T070233Z">
+        <seg>по &amp;порожніх рядках</seg>
       </tuv>
     </tu>
     <tu>
@@ -640,8 +640,8 @@
       <tuv lang="EN">
         <seg>&amp;Line breaks</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="Маринка" changedate="20171203T193549Z" creationid="Маринка" creationdate="20171203T193118Z">
-        <seg>&amp; по розривах рядків</seg>
+      <tuv lang="UK-UA" changeid="Лера9764" changedate="20180125T123050Z" creationid="Маринка" creationdate="20171203T193118Z">
+        <seg>по &amp;розривах рядків</seg>
       </tuv>
     </tu>
     <tu>
@@ -6916,8 +6916,8 @@ inside the configuration folder.</seg>
       <tuv lang="EN">
         <seg>Line length:</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="Лера9764" changedate="20171031T070247Z" creationid="Лера9764" creationdate="20171031T070247Z">
-        <seg>Довжина рядку:</seg>
+      <tuv lang="UK-UA" changeid="Лера9764" changedate="20180125T123139Z" creationid="Лера9764" creationdate="20171031T070247Z">
+        <seg>Довжина рядка:</seg>
       </tuv>
     </tu>
     <tu>
@@ -7324,8 +7324,8 @@ inside the configuration folder.</seg>
       <tuv lang="EN">
         <seg>Maximum line length:</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="Лера9764" changedate="20171031T070306Z" creationid="Лера9764" creationdate="20171031T070306Z">
-        <seg>Максимальна довжина рядку:</seg>
+      <tuv lang="UK-UA" changeid="Лера9764" changedate="20180125T123143Z" creationid="Лера9764" creationdate="20171031T070306Z">
+        <seg>Максимальна довжина рядка:</seg>
       </tuv>
     </tu>
     <tu>
@@ -8472,8 +8472,8 @@ your home folder.</seg>
       <tuv lang="EN">
         <seg>Options to set the line length in target documents (0 = no limit)</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="Маринка" changedate="20171203T193428Z" creationid="Маринка" creationdate="20171118T211855Z">
-        <seg>Параметри для налаштування довижини рядка у документах перекладу (0 = без обмежень)</seg>
+      <tuv lang="UK-UA" changeid="Лера9764" changedate="20180125T123114Z" creationid="Маринка" creationdate="20171118T211855Z">
+        <seg>Параметри для налаштування довжини рядка в документах перекладу (0 = без обмежень)</seg>
       </tuv>
     </tu>
     <tu>
