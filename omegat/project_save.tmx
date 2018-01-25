@@ -2312,8 +2312,8 @@ The TMX file will not be loaded.</seg>
       <tuv lang="EN">
         <seg>An item named "{0}" already exists in this location.</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="nessyk" changedate="20171106T221601Z" creationid="nessyk" creationdate="20171106T221601Z">
-        <seg>Елемент з ім'ям "{0}" вже існує в цьому місці.</seg>
+      <tuv lang="UK-UA" changeid="Лера9764" changedate="20180125T162442Z" creationid="nessyk" creationdate="20171106T221601Z">
+        <seg>Елемент з імʼям "{0}" вже існує в цьому місці.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5523,8 +5523,8 @@ project_save.tmx не був завантажений, а SVN перейшов �
       <tuv lang="EN">
         <seg>From ICE memory</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="nessyk" changedate="20171106T225252Z" creationid="nessyk" creationdate="20171106T225228Z">
-        <seg>З пам'яті ICE </seg>
+      <tuv lang="UK-UA" changeid="Лера9764" changedate="20180125T162427Z" creationid="nessyk" creationdate="20171106T225228Z">
+        <seg>З памʼяті ICE </seg>
       </tuv>
     </tu>
     <tu>
@@ -5539,8 +5539,8 @@ project_save.tmx не був завантажений, а SVN перейшов �
       <tuv lang="EN">
         <seg>From memory</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="nessyk" changedate="20171106T225225Z" creationid="nessyk" creationdate="20171106T225225Z">
-        <seg>З пам'яті</seg>
+      <tuv lang="UK-UA" changeid="Лера9764" changedate="20180125T162423Z" creationid="nessyk" creationdate="20171106T225225Z">
+        <seg>З памʼяті</seg>
       </tuv>
     </tu>
     <tu>
@@ -7636,8 +7636,8 @@ inside the configuration folder.</seg>
       <tuv lang="EN">
         <seg>Name</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="Лера9764" changedate="20171025T182020Z" creationid="Лера9764" creationdate="20171025T182020Z">
-        <seg>Ім'я</seg>
+      <tuv lang="UK-UA" changeid="Лера9764" changedate="20180125T162400Z" creationid="Лера9764" creationdate="20171025T182020Z">
+        <seg>Імʼя</seg>
       </tuv>
     </tu>
     <tu>
@@ -8773,8 +8773,8 @@ to determine the source of the error and try again.</seg>
         <seg>Please contact your project administrator to find out if any
 additional steps need to be taken.</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="nessyk" changedate="20171121T185732Z" creationid="Tetiana21" creationdate="20171116T200220Z">
-        <seg>Будь ласка, зв'яжіться з адміністратором вашого проекту, щоб з'ясувати, чи вам потрібно здійснити додаткові кроки.</seg>
+      <tuv lang="UK-UA" changeid="Лера9764" changedate="20180125T162258Z" creationid="Tetiana21" creationdate="20171116T200220Z">
+        <seg>Будь ласка, звʼяжіться з адміністратором вашого проекту, щоб зʼясувати, чи вам потрібно здійснити додаткові кроки.</seg>
       </tuv>
     </tu>
     <tu>
