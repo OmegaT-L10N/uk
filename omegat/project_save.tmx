@@ -5643,8 +5643,8 @@ project_save.tmx не був завантажений, а SVN перейшов �
       <tuv lang="EN">
         <seg>Git '{0}' did nothing because there were no changes</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="nessyk" changedate="20180123T125124Z" creationid="nessyk" creationdate="20180123T124816Z">
-        <seg>Гіт '{0}' нічого не виконав, тому щоне було змін </seg>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180125T204931Z" creationid="nessyk" creationdate="20180123T124816Z">
+        <seg>Гіт '{0}' нічого не виконав, тому що не було змін</seg>
       </tuv>
     </tu>
     <tu>
@@ -6786,8 +6786,8 @@ inside the configuration folder.</seg>
       <tuv lang="EN">
         <seg>LanguageTool is misconfigured.</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="nessyk" changedate="20180123T145241Z" creationid="nessyk" creationdate="20171129T184318Z">
-        <seg>Мовний інструмен налаштовано неправильно.</seg>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180125T204815Z" creationid="nessyk" creationdate="20171129T184318Z">
+        <seg>Мовний інструмент налаштовано неправильно.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6810,8 +6810,8 @@ inside the configuration folder.</seg>
       <tuv lang="EN">
         <seg>LanguageTool server terminated</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="nessyk" changedate="20180123T145340Z" creationid="nessyk" creationdate="20171118T203844Z">
-        <seg>Сервер мовного інструменту зупиненний</seg>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180125T204809Z" creationid="nessyk" creationdate="20171118T203844Z">
+        <seg>Сервер мовного інструменту зупинений</seg>
       </tuv>
     </tu>
     <tu>
@@ -8432,8 +8432,8 @@ your home folder.</seg>
       <tuv lang="EN">
         <seg>Open Writable Glossary File</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="nessyk" changedate="20180123T150805Z" creationid="nessyk" creationdate="20180123T150805Z">
-        <seg>Вікрити записаний файл глосарію</seg>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180125T204726Z" creationid="nessyk" creationdate="20180123T150805Z">
+        <seg>Відкрити записаний файл глосарію</seg>
       </tuv>
     </tu>
     <tu>
@@ -10009,8 +10009,8 @@ project without team functionality.</seg>
       <tuv lang="EN">
         <seg>Rule ID can only contain Latin letters, underscores, and periods.</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="Diman966" changedate="20180124T173010Z" creationid="nessyk" creationdate="20171202T181259Z">
-        <seg>Правило індетифікатора може містити лише латинські букви, підкреслення та періоди.</seg>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180125T204828Z" creationid="nessyk" creationdate="20171202T181259Z">
+        <seg>Правило ідентифікатора може містити лише латинські букви, підкреслення та періоди.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11613,8 +11613,8 @@ The scope of a search is by default the project and can be set to be any files l
       <tuv lang="EN">
         <seg>Target folder {0} does not exist.</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="nessyk" changedate="20171125T171212Z" creationid="nessyk" creationdate="20171125T171121Z">
-        <seg>Тека мови перекладує {0} не існує.</seg>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180125T204900Z" creationid="nessyk" creationdate="20171125T171121Z">
+        <seg>Тека мови перекладу {0} не існує.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11900,8 +11900,8 @@ instead.</seg>
         <seg>The current folder will be used
 instead.</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="nessyk" changedate="20171205T174412Z" creationid="nessyk" creationdate="20171205T174412Z">
-        <seg>Замість цього буде використана поточна папка..</seg>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180125T204749Z" creationid="nessyk" creationdate="20171205T174412Z">
+        <seg>Замість цього буде використана поточна папка.</seg>
       </tuv>
     </tu>
     <tu>
