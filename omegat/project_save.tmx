@@ -6126,6 +6126,14 @@ their defaults as a result of the location change.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If you want to use the same language in OmegaT as the one used during installation, check the box below.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180125T210746Z" creationid="olexandr" creationdate="20180125T210746Z">
+        <seg>Якщо ви бажаєте використовувати для інтерфейсу OmegaT ту саму мову, що обрана під час встановлення, встановіть прапорець.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Ignore All</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Лера9764" changedate="20171209T183152Z" creationid="Diman966" creationdate="20171116T210843Z">
@@ -13274,6 +13282,14 @@ on line {1}, column {2}.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Diman966" changedate="20180123T153500Z" creationid="nessyk" creationdate="20171118T190517Z">
         <seg>Користувач відхилив обліковий запис </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>User interface language for OmegaT</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180125T210610Z" creationid="olexandr" creationdate="20180125T210610Z">
+        <seg>Мова інтерфейсу користувача для OmegaT</seg>
       </tuv>
     </tu>
     <tu>
