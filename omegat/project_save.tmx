@@ -4585,6 +4585,14 @@ project_save.tmx не був завантажений, а SVN перейшов �
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>End of stream encountered without finding close block!</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Diman966" changedate="20180125T133200Z" creationid="Diman966" creationdate="20180125T133200Z">
+        <seg>Виник кінец потому, не знайшовши кінцевий блок! </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>End rebase</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Tetiana21" changedate="20171210T155816Z" creationid="Tetiana21" creationdate="20171210T155816Z">
