@@ -3257,6 +3257,14 @@ may experience unexpected, but correct behaviour.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Compatibility</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180125T203900Z" creationid="olexandr" creationdate="20180125T203900Z">
+        <seg>Cevscyscnm</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Compress whitespace in translated document</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Diman966" changedate="20180123T165100Z" creationid="Tetiana21" creationdate="20171210T113947Z">
