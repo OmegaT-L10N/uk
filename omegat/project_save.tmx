@@ -6842,8 +6842,8 @@ inside the configuration folder.</seg>
       <tuv lang="EN">
         <seg>LanguageTool: bad local path</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="nessyk" changedate="20171129T184631Z" creationid="nessyk" creationdate="20171129T184631Z">
-        <seg>Мовний інструмент: поганий локальний шлях</seg>
+      <tuv lang="UK-UA" changeid="Лера9764" changedate="20180125T161841Z" creationid="nessyk" creationdate="20171129T184631Z">
+        <seg>Мовний інструмент: неправильний локальний шлях</seg>
       </tuv>
     </tu>
     <tu>
@@ -11867,8 +11867,8 @@ Please try to correct the error and reload the project.</seg>
         <seg>The configuration folder will be used
 instead.</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="Лера9764" changedate="20180125T161705Z" creationid="nessyk" creationdate="20171025T175527Z">
-        <seg>Тамість цього буде використана тека конфігурації.</seg>
+      <tuv lang="UK-UA" changeid="Лера9764" changedate="20180125T161712Z" creationid="nessyk" creationdate="20171025T175527Z">
+        <seg>Замість цього буде використана тека конфігурації.</seg>
       </tuv>
     </tu>
     <tu>
