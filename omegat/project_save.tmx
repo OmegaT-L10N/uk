@@ -3119,8 +3119,8 @@ may experience unexpected, but correct behaviour.</seg>
       <tuv lang="EN">
         <seg>Command is missing command string</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="nessyk" changedate="20171025T184611Z" creationid="nessyk" creationdate="20171025T183723Z">
-        <seg>В команді вітсутній командний рядок </seg>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180125T205350Z" creationid="nessyk" creationdate="20171025T183723Z">
+        <seg>В команді відсутній командний рядок </seg>
       </tuv>
     </tu>
     <tu>
@@ -3135,8 +3135,8 @@ may experience unexpected, but correct behaviour.</seg>
       <tuv lang="EN">
         <seg>Command is missing encoding</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="nessyk" changedate="20171025T183630Z" creationid="nessyk" creationdate="20171025T183630Z">
-        <seg>В команді відсутне кодування</seg>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180125T205355Z" creationid="nessyk" creationdate="20171025T183630Z">
+        <seg>В команді відсутнє кодування</seg>
       </tuv>
     </tu>
     <tu>
@@ -3431,8 +3431,8 @@ may experience unexpected, but correct behaviour.</seg>
       <tuv lang="EN">
         <seg>Continue anyway?</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="nessyk" changedate="20171030T173239Z" creationid="nessyk" creationdate="20171030T173239Z">
-        <seg>Ви впенені, що хочете продовжити?</seg>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180125T205246Z" creationid="nessyk" creationdate="20171030T173239Z">
+        <seg>Ви впевнені, що хочете продовжити?</seg>
       </tuv>
     </tu>
     <tu>
@@ -5939,8 +5939,8 @@ project_save.tmx не був завантажений, а SVN перейшов �
       <tuv lang="EN">
         <seg>Highlight Pattern...</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="nessyk" changedate="20171101T185114Z" creationid="nessyk" creationdate="20171101T185114Z">
-        <seg>Виділеннний шаблон...</seg>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180125T205233Z" creationid="nessyk" creationdate="20171101T185114Z">
+        <seg>Виділений шаблон...</seg>
       </tuv>
     </tu>
     <tu>
@@ -7912,8 +7912,8 @@ inside the configuration folder.</seg>
       <tuv lang="EN">
         <seg>Normal</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="nessyk" changedate="20171030T173540Z" creationid="nessyk" creationdate="20171030T173540Z">
-        <seg>Середне значення</seg>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180125T205256Z" creationid="nessyk" creationdate="20171030T173540Z">
+        <seg>Середнє значення</seg>
       </tuv>
     </tu>
     <tu>
@@ -8304,6 +8304,16 @@ your home folder.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="olexandr" changedate="20180125T201646Z" creationid="Tetiana21" creationdate="20171118T194550Z">
         <seg>У OmegaT недостатньо пам'яті. Вона завершить роботу, після того як ви натиснете ОК.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>OmegaT requires the Java Runtime Environment (JRE) version 1.8 or higher to be
+installed on your system.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180125T205555Z" creationid="olexandr" creationdate="20180125T205555Z">
+        <seg>OmegaT потребує оточення Java Runtime Environment (JRE) версії 1.8 чи вище,
+яке повинно бути встановлено в системі.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10747,8 +10757,8 @@ The scope of a search is by default the project and can be set to be any files l
       <tuv lang="EN">
         <seg>Set &amp; Stored</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="nessyk" changedate="20171026T173045Z" creationid="nessyk" creationdate="20171026T173045Z">
-        <seg>Встановленно&amp;збережено </seg>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180125T205333Z" creationid="nessyk" creationdate="20171026T173045Z">
+        <seg>Встановлено&amp;збережено </seg>
       </tuv>
     </tu>
     <tu>
@@ -12143,8 +12153,8 @@ in /lib/licenses/Licenses.txt.</seg>
       <tuv lang="EN">
         <seg>There are many plugins available for OmegaT online.</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="nessyk" changedate="20171026T174648Z" creationid="nessyk" creationdate="20171026T174648Z">
-        <seg>Є багато палгінів, доступних для OmegaT онлайн.</seg>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180125T205316Z" creationid="nessyk" creationdate="20171026T174648Z">
+        <seg>Є багато плагінів, доступних для OmegaT онлайн.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12715,8 +12725,8 @@ Exact searches match the whole search string.</seg>
       <tuv lang="EN">
         <seg>URL is missing URL string</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="nessyk" changedate="20171025T185937Z" creationid="nessyk" creationdate="20171025T185852Z">
-        <seg>В URL-адресі відсутний URL-рядок </seg>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180125T205344Z" creationid="nessyk" creationdate="20171025T185852Z">
+        <seg>В URL-адресі відсутній URL-рядок </seg>
       </tuv>
     </tu>
     <tu>
@@ -13031,8 +13041,8 @@ on line {1}, column {2}.</seg>
       <tuv lang="EN">
         <seg>Untranslated segments &amp;only</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="Лера9764" changedate="20171121T145445Z" creationid="nessyk" creationdate="20171026T133048Z">
-        <seg>&amp;Лише неперекладені сегмети</seg>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180125T205321Z" creationid="nessyk" creationdate="20171026T133048Z">
+        <seg>&amp;Лише неперекладені сегменти</seg>
       </tuv>
     </tu>
     <tu>
