@@ -6354,6 +6354,16 @@ their defaults as a result of the location change.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Installing OmegaT (Solaris, FreeBSD, ...)
+=========================================</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180125T210355Z" creationid="olexandr" creationdate="20180125T210355Z">
+        <seg>Встановлення OmegaT (Solaris, FreeBSD, ...)
+=========================================</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Installing OmegaT (Windows)
 ===========================</seg>
       </tuv>
@@ -8208,6 +8218,14 @@ inside the configuration folder.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Лера9764" changedate="20171204T135340Z" creationid="Лера9764" creationdate="20171117T160118Z">
         <seg>Тека проекту OmegaT </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>OmegaT User Interface Language</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180125T210543Z" creationid="olexandr" creationdate="20180125T210543Z">
+        <seg>Мова інтерфейсу користувача OmegaT</seg>
       </tuv>
     </tu>
     <tu>
@@ -12403,6 +12421,19 @@ the server.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Лера9764" changedate="20180125T124530Z" creationid="Маринка" creationdate="20171223T201733Z">
         <seg>Щоб відредагувати певні файли та їхні кодування, які будуть оброблятися за допомогою фільтра, виберіть фільтр зі списку та натисніть „Редагувати“.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To use this script, open a
+terminal window (console), change folder to the folder containing OmegaT.jar
+and the linux-install.sh script, and execute the script with ./linux-
+install.sh.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180125T210350Z" creationid="olexandr" creationdate="20180125T210350Z">
+        <seg>Для використання скрипту, відкрийте вікно терміналу (консоль), змініть теку
+на ту, що містить OmegaT.jar та скрипт linux-install.sh, та
+запустіть скрипт командою «./linux-install.sh».</seg>
       </tuv>
     </tu>
     <tu>
