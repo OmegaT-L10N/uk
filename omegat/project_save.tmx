@@ -2603,8 +2603,8 @@ may experience unexpected, but correct behaviour.</seg>
       <tuv lang="EN">
         <seg>Bidirectional control characters</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="nessyk" changedate="20171106T225150Z" creationid="nessyk" creationdate="20171106T225150Z">
-        <seg>Двонаправлені контрольні символи</seg>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180125T211832Z" creationid="nessyk" creationdate="20171106T225150Z">
+        <seg>Двонапрямні контрольні символи</seg>
       </tuv>
     </tu>
     <tu>
@@ -8080,8 +8080,8 @@ inside the configuration folder.</seg>
       <tuv lang="EN">
         <seg>Notify Me When a Segment Has "{0}"</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="nessyk" changedate="20171106T222211Z" creationid="Tetiana21" creationdate="20171105T155623Z">
-        <seg>Повідомте мене, коли сегмент  матиме "{0}"</seg>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180125T211907Z" creationid="Tetiana21" creationdate="20171105T155623Z">
+        <seg>Повідомте мене, коли сегмент матиме "{0}"</seg>
       </tuv>
     </tu>
     <tu>
@@ -8420,16 +8420,16 @@ installed on your system.</seg>
       <tuv lang="EN">
         <seg>OmegaT version {0} ({1})</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="Tetiana21" changedate="20171205T110016Z" creationid="Tetiana21" creationdate="20171205T110016Z">
-        <seg>версія OmegaT  {0} ({1})</seg>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180125T211725Z" creationid="Tetiana21" creationdate="20171205T110016Z">
+        <seg>версія OmegaT {0} ({1})</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>OmegaT version {0}, update {1} ({2})</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="Tetiana21" changedate="20171205T110104Z" creationid="Tetiana21" creationdate="20171205T110104Z">
-        <seg>версія OmegaT  {0}, оновлення {1} ({2})</seg>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180125T211733Z" creationid="Tetiana21" creationdate="20171205T110104Z">
+        <seg>версія OmegaT {0}, оновлення {1} ({2})</seg>
       </tuv>
     </tu>
     <tu>
@@ -9195,8 +9195,8 @@ project without team functionality.</seg>
       <tuv lang="EN">
         <seg>Press the keyboard shortcut you wish to assign, then click OK.</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="nessyk" changedate="20171025T184108Z" creationid="nessyk" creationdate="20171025T184108Z">
-        <seg>Натисніть бажану  комбінацію клавіш, і натисніть кнопку ОК.</seg>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180125T211644Z" creationid="nessyk" creationdate="20171025T184108Z">
+        <seg>Натисніть бажану комбінацію клавіш, і натисніть кнопку ОК.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12056,8 +12056,8 @@ instead.</seg>
       <tuv lang="EN">
         <seg>The file "{0}" is not supported.</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="nessyk" changedate="20171102T205846Z" creationid="nessyk" creationdate="20171102T205820Z">
-        <seg>Файл такого типу  "{0}"не підтримується.</seg>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180125T211922Z" creationid="nessyk" creationdate="20171102T205820Z">
+        <seg>Файл такого типу "{0}"не підтримується.</seg>
       </tuv>
     </tu>
     <tu>
