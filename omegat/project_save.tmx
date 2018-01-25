@@ -1112,8 +1112,8 @@
       <tuv lang="EN">
         <seg>&amp;Skip PO header</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="Лера9764" changedate="20180125T122810Z" creationid="Лера9764" creationdate="20180125T122810Z">
-        <seg>&amp;Пропустит заголовок PO</seg>
+      <tuv lang="UK-UA" changeid="Лера9764" changedate="20180125T122820Z" creationid="Лера9764" creationdate="20180125T122810Z">
+        <seg>&amp;Пропустити заголовок PO</seg>
       </tuv>
     </tu>
     <tu>
@@ -7574,6 +7574,14 @@ inside the configuration folder.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Маринка" changedate="20180123T133520Z" creationid="Маринка" creationdate="20180123T133520Z">
         <seg>Параметри фільтру Mozilla DTD</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Mozilla Lang</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Лера9764" changedate="20180125T122905Z" creationid="Лера9764" creationdate="20180125T122905Z">
+        <seg>Mozilla Lang</seg>
       </tuv>
     </tu>
     <tu>
