@@ -2410,9 +2410,9 @@ The TMX file will not be loaded.</seg>
 all settings will be at their defaults, due to which you
 may experience unexpected, but correct behaviour.</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="nessyk" changedate="20171205T174300Z" creationid="Tetiana21" creationdate="20171118T104818Z">
+      <tuv lang="UK-UA" changeid="Лера9764" changedate="20180125T161608Z" creationid="Tetiana21" creationdate="20171118T104818Z">
         <seg>В результаті цього
-всі налаштування будуть встановлюватись за замовчуванням, для вас це може бути несподіваним як, але правильним.</seg>
+всі налаштування будуть встановлюватись за замовчуванням, для вас це може бути несподіваним, але правильним.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8260,9 +8260,9 @@ published by the Free Software Foundation, either version 3 of the License, or
 the name of your OS and/or the system property containing
 your home folder.</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="nessyk" changedate="20171205T173830Z" creationid="Tetiana21" creationdate="20171118T110644Z">
+      <tuv lang="UK-UA" changeid="Лера9764" changedate="20180125T161546Z" creationid="Tetiana21" creationdate="20171118T110644Z">
         <seg>OmegaT відмовлено у доступі до системи, що містить
-ім'я вашої ОС та / або  системи, що містить
+імʼя вашої ОС та / або системи, що містить
 вашу домашню теку.</seg>
       </tuv>
     </tu>
@@ -11867,9 +11867,8 @@ Please try to correct the error and reload the project.</seg>
         <seg>The configuration folder will be used
 instead.</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="nessyk" changedate="20171205T181507Z" creationid="nessyk" creationdate="20171025T175527Z">
-        <seg>Папка конфігурації буде використана
-замість цього.</seg>
+      <tuv lang="UK-UA" changeid="Лера9764" changedate="20180125T161705Z" creationid="nessyk" creationdate="20171025T175527Z">
+        <seg>Тамість цього буде використана тека конфігурації.</seg>
       </tuv>
     </tu>
     <tu>
