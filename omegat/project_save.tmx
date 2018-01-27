@@ -1752,8 +1752,8 @@ The current setting is {0}MB;</seg>
       <tuv lang="EN">
         <seg>&lt;trans-unit&gt; &amp;resname attribute when available</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="nessyk" changedate="20180125T170800Z" creationid="nessyk" creationdate="20180125T170608Z">
-        <seg>&lt;trans-unit&gt; &amp; атрибут resname, якщо доступний</seg>
+      <tuv lang="UK-UA" changeid="Лера9764" changedate="20180127T143444Z" creationid="nessyk" creationdate="20180125T170608Z">
+        <seg>&lt;trans-unit&gt; атрибут &amp;resname, якщо доступний</seg>
       </tuv>
     </tu>
     <tu>
@@ -9509,6 +9509,14 @@ project without team functionality.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="nessyk" changedate="20180125T170100Z" creationid="nessyk" creationdate="20180123T125959Z">
         <seg>Спроба відправити зміни на віддалений сервер не вдалася.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>QuarkXPress CopyFlow Gold</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Лера9764" changedate="20180127T143408Z" creationid="Лера9764" creationdate="20180127T143408Z">
+        <seg>QuarkXPress CopyFlow Gold</seg>
       </tuv>
     </tu>
     <tu>
