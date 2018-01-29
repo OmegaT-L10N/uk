@@ -1832,8 +1832,8 @@ The current setting is {0}MB;</seg>
       <tuv lang="EN">
         <seg>Abort: Exit with an error if tags invalid.</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="Маринка" changedate="20171026T191042Z" creationid="Маринка" creationdate="20171026T191042Z">
-        <seg>Скасувати: вийти, якщо виникла помилка з неправильним тегом.</seg>
+      <tuv lang="UK-UA" changeid="Маринка" changedate="20180129T204801Z" creationid="Маринка" creationdate="20171026T191042Z">
+        <seg>Перервати: вихід, у разі виникнення помилки через неправильний тег.</seg>
       </tuv>
     </tu>
     <tu>
