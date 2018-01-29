@@ -10181,8 +10181,8 @@ project without team functionality.</seg>
       <tuv lang="EN">
         <seg>Running on Java {0} ({1}-bit)</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="Маринка" changedate="20171118T195150Z" creationid="Маринка" creationdate="20171118T195009Z">
-        <seg>Запустити з Java {0} ({1}-біт)</seg>
+      <tuv lang="UK-UA" changeid="Маринка" changedate="20180129T205828Z" creationid="Маринка" creationdate="20171118T195009Z">
+        <seg>Запускається Java {0} ({1}-біт)</seg>
       </tuv>
     </tu>
     <tu>
