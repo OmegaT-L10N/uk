@@ -2032,8 +2032,8 @@ The current setting is {0}MB;</seg>
       <tuv lang="EN">
         <seg>After the source files have loaded in the &lt;g3&gt;Editor&lt;/g3&gt; pane, you can close the &lt;g4&gt;Project Files&lt;/g4&gt; dialog.</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="olexandr" changedate="20180125T223454Z" creationid="olexandr" creationdate="20180125T223454Z">
-        <seg>Після того, як початкові файлу буде завантажено до панелі &lt;g3&gt;Редактор&lt;/g3&gt;, можете закрити вікно &lt;g4&gt;Файли проекту&lt;/g4&gt;.</seg>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180130T221808Z" creationid="olexandr" creationdate="20180125T223454Z">
+        <seg>Після того, як початкові файлу буде завантажено до панелі &lt;g3&gt;«Редактор»&lt;/g3&gt;, можете закрити вікно &lt;g4&gt;«Файли проекту»&lt;/g4&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2475,8 +2475,8 @@ may experience unexpected, but correct behaviour.</seg>
       <tuv lang="EN">
         <seg>At the top of that dialog, select your source file's language and the language that your translated file will be, and click &lt;g1&gt;OK&lt;/g1&gt; to continue.</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="olexandr" changedate="20180125T222625Z" creationid="olexandr" creationdate="20180125T222625Z">
-        <seg>У верхній частині вікна оберіть мову оригінальних файлів, мову, на яку перекладатимете, та натисніть &lt;g1&gt;OK&lt;/g1&gt; для продовження.</seg>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180130T221739Z" creationid="olexandr" creationdate="20180125T222625Z">
+        <seg>У верхній частині вікна оберіть мову оригінальних файлів, мову, на яку перекладатимете, та натисніть &lt;g1&gt;«Гаразд»&lt;/g1&gt; для продовження.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3091,8 +3091,8 @@ may experience unexpected, but correct behaviour.</seg>
       <tuv lang="EN">
         <seg>Click on &lt;g1&gt;Copy Files to Source Folder...&lt;/g1&gt; to select your source files.</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="olexandr" changedate="20180125T223227Z" creationid="olexandr" creationdate="20180125T223227Z">
-        <seg>Натисніть &lt;g1&gt;Копіювати файли до теки початкових файлів…&lt;/g1&gt; та оберіть Ваші початкові файли для перекладу.</seg>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180130T221756Z" creationid="olexandr" creationdate="20180125T223227Z">
+        <seg>Натисніть &lt;g1&gt;«Копіювати файли до теки початкових файлів…»&lt;/g1&gt; та оберіть Ваші початкові файли для перекладу.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4411,8 +4411,8 @@ project_save.tmx не був завантажений, а SVN перейшов �
       <tuv lang="EN">
         <seg>During translation, use the &lt;g4&gt;Edit&lt;/g4&gt; and &lt;g5&gt;Go To&lt;/g5&gt; menus to perform various useful functions.</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="olexandr" changedate="20180125T224210Z" creationid="olexandr" creationdate="20180125T224127Z">
-        <seg>Під час перекладу ознайомтеся з меню &lt;g4&gt;Редагувати&lt;/g4&gt; та &lt;g5&gt;Перейти до&lt;/g5&gt;, в яких міститься багато корисних функцій.</seg>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180130T221832Z" creationid="olexandr" creationdate="20180125T224127Z">
+        <seg>Під час перекладу ознайомтеся з меню &lt;g4&gt;«Редагувати»&lt;/g4&gt; та &lt;g5&gt;«Перейти до»&lt;/g5&gt;, в яких міститься багато корисних функцій.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6195,8 +6195,8 @@ project_save.tmx не був завантажений, а SVN перейшов �
       <tuv lang="EN">
         <seg>If a file does not load into the &lt;g0&gt;Editor&lt;/g0&gt; pane, then it could be that it is in a format that doesn't work in OmegaT.</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="olexandr" changedate="20180130T214402Z" creationid="olexandr" creationdate="20180130T214402Z">
-        <seg>Якщо файл не з'являється в панелі &lt;g0&gt;Редактор&lt;/g0&gt;, можливо, формат вхідного файлу не підтримується OmegaT.</seg>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180130T221711Z" creationid="olexandr" creationdate="20180130T214402Z">
+        <seg>Якщо файл не з'являється в панелі &lt;g0&gt;«Редактор»&lt;/g0&gt;, можливо, формат вхідного файлу не підтримується OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
