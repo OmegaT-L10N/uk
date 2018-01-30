@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.2_2_10096:10098" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="ОмегаТ-4.1.3" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -1744,8 +1744,16 @@ The current setting is {0}MB;</seg>
       <tuv lang="EN">
         <seg>&lt;p0&gt;Project&lt;/p0&gt; &lt;s1&gt;Create / open new&lt;/s1&gt;</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="olexandr" changedate="20180125T220016Z" creationid="olexandr" creationdate="20180125T220016Z">
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180130T220620Z" creationid="olexandr" creationdate="20180125T220016Z">
         <seg>&lt;p0&gt;Проект&lt;/p0&gt; &lt;s1&gt;Створення та відкриття нового&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;r0&gt;Note:&lt;/r0&gt; On an Apple Mac, use the &lt;k1&gt;Command&lt;/k1&gt; key instead of the &lt;k2&gt;Control&lt;/k2&gt; key.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180125T221550Z" creationid="olexandr" creationdate="20180125T221550Z">
+        <seg>&lt;r0&gt;Примітка:&lt;/r0&gt; На комп'ютерах Apple Mac використовується клавіша &lt;k1&gt;Command&lt;/k1&gt; замість клавіші &lt;k2&gt;Control&lt;/k2&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1778,6 +1786,14 @@ The current setting is {0}MB;</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="nessyk" changedate="20171026T174351Z" creationid="nessyk" creationdate="20171026T174351Z">
         <seg>Щоб застосувати ці зміни, потрібен перезапуск</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>A source sentence might look like:</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180130T212715Z" creationid="olexandr" creationdate="20180130T212715Z">
+        <seg>Оригінальне речення може виглядати так:</seg>
       </tuv>
     </tu>
     <tu>
@@ -2010,6 +2026,30 @@ The current setting is {0}MB;</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="nessyk" changedate="20171109T203354Z" creationid="nessyk" creationdate="20171109T203332Z">
         <seg>Додано: {1}, Видалено: {2}, Змінено: {3} (Конфлікти: {0})</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>After the source files have loaded in the &lt;g3&gt;Editor&lt;/g3&gt; pane, you can close the &lt;g4&gt;Project Files&lt;/g4&gt; dialog.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180125T223454Z" creationid="olexandr" creationdate="20180125T223454Z">
+        <seg>Після того, як початкові файлу буде завантажено до панелі &lt;g3&gt;Редактор&lt;/g3&gt;, можете закрити вікно &lt;g4&gt;Файли проекту&lt;/g4&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>After you give your project a name, the &lt;g0&gt;Create New Project&lt;/g0&gt; dialog will open.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180125T222400Z" creationid="olexandr" creationdate="20180125T222400Z">
+        <seg>Після вводу імені проекту зʼявиться вікно &lt;g0&gt;«Створити новий проект»&lt;/g0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>After you have translated each segment, press &lt;k0&gt;Ctrl+U&lt;/k0&gt; to move to the next untranslated segment (or &lt;k1&gt;Ctrl+Shift+U&lt;/k1&gt; to move to the next translated segment).</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180125T223814Z" creationid="olexandr" creationdate="20180125T223723Z">
+        <seg>Після завершення перекладу кожного сегменту, натисніть &lt;k0&gt;Ctrl+U&lt;/k0&gt; для переходу до наступного неперекладеного сегменту (або &lt;k1&gt;Ctrl+Shift+U&lt;/k1&gt; для переходу до наступного перекладеного сегменту).</seg>
       </tuv>
     </tu>
     <tu>
@@ -2421,6 +2461,22 @@ may experience unexpected, but correct behaviour.</seg>
       <tuv lang="UK-UA" changeid="Лера9764" changedate="20180125T161608Z" creationid="Tetiana21" creationdate="20171118T104818Z">
         <seg>В результаті цього
 всі налаштування будуть встановлюватись за замовчуванням, для вас це може бути несподіваним, але правильним.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>At the end of your translation, OmegaT exports three translation memories called &lt;f0&gt;level1&lt;/f0&gt;, &lt;f1&gt;level2&lt;/f1&gt; and &lt;f2&gt;omegat&lt;/f2&gt; to your project folder.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180130T215055Z" creationid="olexandr" creationdate="20180130T215055Z">
+        <seg>Після закінчення перекладу, OmegaT експортує три файли памʼяті перекладів, які називаються &lt;f0&gt;level1&lt;/f0&gt;, &lt;f1&gt;level2&lt;/f1&gt; та &lt;f2&gt;omegat&lt;/f2&gt;, і розташовуються в корені теки проекту.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>At the top of that dialog, select your source file's language and the language that your translated file will be, and click &lt;g1&gt;OK&lt;/g1&gt; to continue.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180125T222625Z" creationid="olexandr" creationdate="20180125T222625Z">
+        <seg>У верхній частині вікна оберіть мову оригінальних файлів, мову, на яку перекладатимете, та натисніть &lt;g1&gt;OK&lt;/g1&gt; для продовження.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3029,6 +3085,14 @@ may experience unexpected, but correct behaviour.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="nessyk" changedate="20171207T183324Z" creationid="nessyk" creationdate="20171207T183324Z">
         <seg>Натисніть на"{0}" пункт меню </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Click on &lt;g1&gt;Copy Files to Source Folder...&lt;/g1&gt; to select your source files.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180125T223227Z" creationid="olexandr" creationdate="20180125T223227Z">
+        <seg>Натисніть &lt;g1&gt;Копіювати файли до теки початкових файлів…&lt;/g1&gt; та оберіть Ваші початкові файли для перекладу.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4345,6 +4409,14 @@ project_save.tmx не був завантажений, а SVN перейшов �
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>During translation, use the &lt;g4&gt;Edit&lt;/g4&gt; and &lt;g5&gt;Go To&lt;/g5&gt; menus to perform various useful functions.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180125T224210Z" creationid="olexandr" creationdate="20180125T224127Z">
+        <seg>Під час перекладу ознайомтеся з меню &lt;g4&gt;Редагувати&lt;/g4&gt; та &lt;g5&gt;Перейти до&lt;/g5&gt;, в яких міститься багато корисних функцій.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Dutch</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Маринка" changedate="20171107T194505Z" creationid="Маринка" creationdate="20171107T194505Z">
@@ -5273,6 +5345,14 @@ project_save.tmx не був завантажений, а SVN перейшов �
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Few more things to remember</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180130T214255Z" creationid="olexandr" creationdate="20180130T214255Z">
+        <seg>Ще кілька порад</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>File</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="nessyk" changedate="20171025T175936Z" creationid="nessyk" creationdate="20171025T175936Z">
@@ -5505,6 +5585,14 @@ project_save.tmx не був завантажений, а SVN перейшов �
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>For a more comprehensive introduction see &lt;u0&gt;OmegaT for beginners&lt;/u0&gt; on the OmegaT web site.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180130T220204Z" creationid="olexandr" creationdate="20180130T220204Z">
+        <seg>Більш докладну інструкцію можна переглянути на сайті OmegaT в розділі &lt;u0&gt;OmegaT для початківців&lt;/u0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>For all files:</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Лера9764" changedate="20171105T154632Z" creationid="Лера9764" creationdate="20171105T154632Z">
@@ -5637,6 +5725,14 @@ project_save.tmx не був завантажений, а SVN перейшов �
       </tuv>
       <tuv lang="UK-UA" changeid="nessyk" changedate="20171026T171559Z" creationid="nessyk" creationdate="20171026T133031Z">
         <seg>Загальні положення</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Generate the translated file</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180130T213903Z" creationid="olexandr" creationdate="20180130T213903Z">
+        <seg>Створення файлу перекладу</seg>
       </tuv>
     </tu>
     <tu>
@@ -6017,6 +6113,14 @@ project_save.tmx не був завантажений, а SVN перейшов �
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>However, if you made mistakes when you typed the formatting tags, your translated files might fail to open.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180130T213737Z" creationid="olexandr" creationdate="20180130T213737Z">
+        <seg>Але, якщо теґи розставлені некоректно, можуть виникнути проблеми з відкриттям перекладених файлів.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Hyperlinks</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="nessyk" changedate="20171106T225906Z" creationid="nessyk" creationdate="20171106T225906Z">
@@ -6089,6 +6193,14 @@ project_save.tmx не був завантажений, а SVN перейшов �
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If a file does not load into the &lt;g0&gt;Editor&lt;/g0&gt; pane, then it could be that it is in a format that doesn't work in OmegaT.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180130T214402Z" creationid="olexandr" creationdate="20180130T214402Z">
+        <seg>Якщо файл не з'являється в панелі &lt;g0&gt;Редактор&lt;/g0&gt;, можливо, формат вхідного файлу не підтримується OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If checked, the entries are sorted alphabetically.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="nessyk" changedate="20171113T220631Z" creationid="nessyk" creationdate="20171113T214301Z">
@@ -6142,6 +6254,14 @@ their defaults as a result of the location change.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If you are interested in other settings of this dialog, you can return to it any time by pressing &lt;k0&gt;Ctrl+E.&lt;/k0&gt;</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180125T222848Z" creationid="olexandr" creationdate="20180125T222848Z">
+        <seg>Якщо надалі ви захочете змінити будь-які налаштування проекту, вікно параметрів проекту завжди можна викликати, натиснувши &lt;k0&gt;Ctrl+E.&lt;/k0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If you are using an authenticated proxy, please enter here your user and password.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Лера9764" changedate="20180125T161055Z" creationid="Лера9764" creationdate="20171102T164018Z">
@@ -6150,10 +6270,34 @@ their defaults as a result of the location change.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If you need assistance with any aspect of OmegaT, feel free to join the &lt;u1&gt;OmegaT users group.&lt;/u1&gt;</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180130T220346Z" creationid="olexandr" creationdate="20180130T220346Z">
+        <seg>Якщо ви потребуєте допомоги по будь-якому аспекту OmegaT, не вагаючись приєднуйтеся до &lt;u1&gt;групи користувачів OmegaT.&lt;/u1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If you place such translation memory files in the &lt;f6&gt;/tm/&lt;/f6&gt; subfolder of a project, OmegaT will automatically search them for similar segments, called "fuzzy matches".</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180130T215351Z" creationid="olexandr" creationdate="20180130T215351Z">
+        <seg>якщо покласти файл памʼяті до підтеки &lt;f6&gt;/tm/&lt;/f6&gt;, OmegaT автоматично шукатиме схожі сегменти, позначивши знайдене як «Нечіткі збіги» (fuzzy matches).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If you want to use the same language in OmegaT as the one used during installation, check the box below.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="olexandr" changedate="20180125T210746Z" creationid="olexandr" creationdate="20180125T210746Z">
         <seg>Якщо ви бажаєте використовувати для інтерфейсу OmegaT ту саму мову, що обрана під час встановлення, встановіть прапорець.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If your source files are formatted files, e.g. Microsoft Word, LibreOffice Writer or HTML, OmegaT will convert the formatting into tags that surround the text that you translate.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180130T212452Z" creationid="olexandr" creationdate="20180130T212355Z">
+        <seg>Якщо ваш початковий файл містить форматування, як, наприклад, файли Microsoft Word, LibreOffice Writer або HTML-файли, OmegaT покаже форматування у вигляді теґів прямо в перекладному тексті.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6226,6 +6370,14 @@ their defaults as a result of the location change.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Лера9764" changedate="20180124T115406Z" creationid="Tetiana21" creationdate="20171105T183313Z">
         <seg>У дже&amp;релі </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>In the &lt;g0&gt;Project&lt;/g0&gt; menu, select &lt;m1&gt;&lt;g2&gt;New...&lt;/g2&gt;&lt;/m1&gt; and type a name for your project.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180125T222055Z" creationid="olexandr" creationdate="20180125T222055Z">
+        <seg>В меню &lt;g0&gt;«Проект»&lt;/g0&gt; оберіть пункт &lt;m1&gt;&lt;g2&gt;«Новий…»&lt;/g2&gt;&lt;/m1&gt; і введіть назву для Вашого проекту.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6522,6 +6674,14 @@ their defaults as a result of the location change.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="nessyk" changedate="20171030T173953Z" creationid="nessyk" creationdate="20171030T173953Z">
         <seg>Проблема з файлом {0} ({1})</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>It is often useful to search for words and phrases in the source text and in your translation, so press &lt;k0&gt;Ctrl+F&lt;/k0&gt; for the &lt;g1&gt;Text Search&lt;/g1&gt; dialog at any time.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180130T215843Z" creationid="olexandr" creationdate="20180130T215843Z">
+        <seg>Часто буває зручно шукати слова чи фрази в початковому тексті або в перекладі, тоді в будь-який час можна натиснути &lt;k0&gt;Ctrl+F&lt;/k0&gt; та викликати вікно пошуку &lt;g1&gt;«Текстовий пошук»&lt;/g1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7834,6 +7994,14 @@ inside the configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Next, the &lt;g0&gt;Project Files&lt;/g0&gt; dialog opens.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180125T223100Z" creationid="olexandr" creationdate="20180125T223100Z">
+        <seg>Далі відкриється вікно &lt;g0&gt;Файли проекту&lt;/g0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>No Issues Found</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="nessyk" changedate="20171030T174225Z" creationid="nessyk" creationdate="20171030T174225Z">
@@ -8222,6 +8390,14 @@ inside the configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Often documents will also have tags that have nothing to do with formatting, but which are also important in the source files (and in the translated files).</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180130T212432Z" creationid="olexandr" creationdate="20180130T212432Z">
+        <seg>Часто документи містять теґи, які не мають відношення до форматування, але вони відіграють важливу роль як в початкових файлах, так і в файлах перекладу.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>OmegaT</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Tetiana21" changedate="20171016T161523Z" creationid="Kos Ivantsov" creationdate="20170413T140603Z">
@@ -8466,10 +8642,42 @@ installed on your system.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>OmegaT will present one segment at a time for you to translate.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180125T223615Z" creationid="olexandr" creationdate="20180125T223615Z">
+        <seg>OmegaT надає для перекладу лише один сегмент за раз.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>OmegaT will then copy the selected files to the &lt;f2&gt;/source/&lt;/f2&gt; subfolder of your newly created project.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180125T223313Z" creationid="olexandr" creationdate="20180125T223313Z">
+        <seg>OmegaT скопіює обрані файли до підтеки &lt;f2&gt;/source/&lt;/f2&gt; Вашого щойно створеного проекту.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>OmegaT will try to resegment the TMX file...</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Маринка" changedate="20171203T191813Z" creationid="Маринка" creationdate="20171203T191813Z">
         <seg>OmegaT спробує відновити файл TMX...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>OmegaT, however, will present this sentence in the following fashion:</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180130T212830Z" creationid="olexandr" creationdate="20180130T212830Z">
+        <seg>Проте OmegaT покаже це речення у наступному вигляді:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Once you have made certain that there are no tag errors in your translation, press &lt;k0&gt;Ctrl+D&lt;/k0&gt; to generate the target files, which will be created in the &lt;f1&gt;/target/&lt;/f1&gt; subfolder of your project folder.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180130T214242Z" creationid="olexandr" creationdate="20180130T214242Z">
+        <seg>Після перевірки вашого перекладу на помилки, пов'язаних з розташуванням теґів, натисніть &lt;k0&gt;Ctrl+D&lt;/k0&gt; для створення файлів перекладу, які будуть розташовані в підтеці &lt;f1&gt;/target/&lt;/f1&gt; вашого проекту.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9721,6 +9929,14 @@ project without team functionality.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Remember where you are creating the project, because you will need to return to it later.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180125T222209Z" creationid="olexandr" creationdate="20180125T222209Z">
+        <seg>Запам'ятайте де ви зберегли проект, надалі ви ще повернетесь до нього пізніше.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Remo&amp;ve</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="nessyk" changedate="20171025T181903Z" creationid="nessyk" creationdate="20171025T181903Z">
@@ -10533,6 +10749,14 @@ The scope of a search is by default the project and can be set to be any files l
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>See &lt;l1&gt;File Filters&lt;/l1&gt; for a list of file formats that OmegaT can handle.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180130T214538Z" creationid="olexandr" creationdate="20180130T214538Z">
+        <seg>Перегляньте &lt;l1&gt;«Файлові фільтри»&lt;/l1&gt; для отримання переліку форматів, які OmegaT може обробити.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>See Help &gt; User's Manual for more information.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Лера9764" changedate="20171030T181139Z" creationid="Лера9764" creationdate="20171030T181139Z">
@@ -10921,6 +11145,14 @@ The scope of a search is by default the project and can be set to be any files l
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20170418T175858Z" creationid="Kos Ivantsov" creationdate="20170418T175837Z">
         <seg>Зробити переклад порожнім</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Set up a new project</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180125T222803Z" creationid="olexandr" creationdate="20180125T222803Z">
+        <seg>Налаштування нового проекту</seg>
       </tuv>
     </tu>
     <tu>
@@ -11962,6 +12194,14 @@ current folder will be used instead.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The &lt;f3&gt;level1&lt;/f3&gt; and &lt;f4&gt;level2&lt;/f4&gt; memories can be shared with users of other translation programs.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180130T215139Z" creationid="olexandr" creationdate="20180130T215139Z">
+        <seg>Файл памʼяті перекладу &lt;f3&gt;level1&lt;/f3&gt; та &lt;f4&gt;level2&lt;/f4&gt; може бути поширено користувачам інших програм перекладу.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The Java Resource Bundles filter threw an exception:</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Diman966" changedate="20180124T113300Z" creationid="Diman966" creationdate="20180124T113226Z">
@@ -12121,6 +12361,14 @@ in /lib/licenses/Licenses.txt.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The memory named &lt;f5&gt;omegat&lt;/f5&gt; can be used by OmegaT itself, in future projects that you create.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180130T215221Z" creationid="olexandr" creationdate="20180130T215221Z">
+        <seg>Файл памʼяті &lt;f5&gt;omegat&lt;/f5&gt; може бути використаний OmegaT у майбутніх проектах, які ви створите.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The new colours have been saved.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="nessyk" changedate="20171106T221015Z" creationid="nessyk" creationdate="20171106T221015Z">
@@ -12241,6 +12489,14 @@ in /lib/licenses/Licenses.txt.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The tags in OmegaT are greyed, so they are easy to recognise.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180130T213620Z" creationid="olexandr" creationdate="20180130T213620Z">
+        <seg>Теґи в OmegaT, для кращого виявлення, позначаються іншим кольором (сірим).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The text could not be translated</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Tetiana21" changedate="20171118T152735Z" creationid="Tetiana21" creationdate="20171118T152735Z">
@@ -12321,6 +12577,14 @@ in /lib/licenses/Licenses.txt.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Therefore, press &lt;k0&gt;Ctrl+Shift+V&lt;/k0&gt; before you generate your translated files, to validate that your tags are correct.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180130T220403Z" creationid="olexandr" creationdate="20180130T213834Z">
+        <seg>Щоб уникнути цього, натисніть &lt;k0&gt;Ctrl+Shift+V&lt;/k0&gt; (або меню «Інструменти» —&amp;gt; «Перевірка теґів») перш ніж створювати перекладені документи та перевірте розташування теґів.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Therefore, the location of OmegaT's
 configuration folder cannot be reliably determined.</seg>
       </tuv>
@@ -12343,6 +12607,14 @@ configuration folder cannot be reliably determined.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Маринка" changedate="20171118T211257Z" creationid="Маринка" creationdate="20171118T210834Z">
         <seg>Ці одиниці були пропущені.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>They are protected, so that you cannot modify their contents, but you can delete them, enter them by hand or move them around in the target sentence.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180130T213705Z" creationid="olexandr" creationdate="20180130T213705Z">
+        <seg>Теґи захищені, тому ви не зможете змінювати їхній зміст, але ви можете вилучати їх, вводити вручну, або міняти їхнє положення в перекладі.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12505,6 +12777,30 @@ the server.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>To remind yourself of the project's initial settings, open the project properties dialog by pressing &lt;k0&gt;Ctrl+E&lt;/k0&gt;.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180130T214740Z" creationid="olexandr" creationdate="20180130T214707Z">
+        <seg>Аби нагадати собі з якими параметрами було ініційовано проект, відкрийте діалог «Редагувати проект», натиснувши &lt;k0&gt;Ctrl+E&lt;/k0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To see a list of files in the project, open the &lt;g1&gt;Project Files&lt;/g1&gt; dialog by pressing &lt;k2&gt;Ctrl+L&lt;/k2&gt;.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180130T214908Z" creationid="olexandr" creationdate="20180130T214908Z">
+        <seg>Для перегляду переліку файлів проекту, відкрийте вікно &lt;g1&gt;«Файли проекту»&lt;/g1&gt;, натиснувши &lt;k2&gt;Ctrl+L&lt;/k2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To start using OmegaT, first create a project that will hold all your files, such as your source file, translation memories, glossaries, and eventually your translated file.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180125T221926Z" creationid="olexandr" creationdate="20180125T221926Z">
+        <seg>Щоб почати використовувати OmegaT, спершу необхідно створити проект, який буде містити ваші файли: оригінальні файли, файли пам'яті перекладів, файли глосарію і, звичайно, Ваші перекладені файли.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>To use this script, open a
 terminal window (console), change folder to the folder containing OmegaT.jar
 and the linux-install.sh script, and execute the script with ./linux-
@@ -12594,6 +12890,14 @@ install.sh.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="nessyk" changedate="20171106T225514Z" creationid="nessyk" creationdate="20171106T225514Z">
         <seg>Перекладацькі підказки</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Translate the file</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180125T223510Z" creationid="olexandr" creationdate="20180125T223510Z">
+        <seg>Переклад файлу</seg>
       </tuv>
     </tu>
     <tu>
@@ -13398,6 +13702,14 @@ on line {1}, column {2}.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Validate your tags</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180130T212310Z" creationid="olexandr" creationdate="20180125T224147Z">
+        <seg>Перевірка теґів</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Validating tags</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Лера9764" changedate="20171226T114114Z" creationid="Tetiana21" creationdate="20171105T201513Z">
@@ -13590,6 +13902,14 @@ trouble of selecting, obtaining and installing it.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Маринка" changedate="20171114T220448Z" creationid="Маринка" creationdate="20171114T220448Z">
         <seg>При використанні регулярних виразів рядок заміни не підтримує посилання на групи, визначені в рядку пошуку.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Whenever you want to see what your translation will look like in its final format, press &lt;k2&gt;Ctrl+D&lt;/k2&gt; to generate the translated documents, which will be created in the &lt;f3&gt;/target/&lt;/f3&gt; subfolder of your project folder.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180125T224027Z" creationid="olexandr" creationdate="20180125T224027Z">
+        <seg>Якщо бажаєте переглянути результат перекладу у фінальному вигляді, натисніть &lt;k2&gt;Ctrl+D&lt;/k2&gt; для генерації перекладених документів, які зʼявляться в підтеці &lt;f3&gt;/target/&lt;/f3&gt; Вашого проекту.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13856,6 +14176,22 @@ Both exact and keyword searches support the wildcard characters * and ?.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="nessyk" changedate="20171129T183917Z" creationid="nessyk" creationdate="20171129T183917Z">
         <seg>Ви видаляєте словник перевірки правопису, який наразі використовує ваш проект.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You can add a new term to the glossary by pressing &lt;k0&gt;Ctrl+Shift+G&lt;/k0&gt;, or copy existing glossaries to the &lt;f1&gt;/glossary/&lt;/f1&gt; subfolder of your project folder, and OmegaT will automatically look up words in them.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180130T220412Z" creationid="olexandr" creationdate="20180130T215554Z">
+        <seg>Ви можете додавати нові терміни до глосарія, натиснувши &lt;k0&gt;Ctrl+Shift+G&lt;/k0&gt;, або копіювати наявний до підтеки &lt;f1&gt;/glossary/&lt;/f1&gt; вашого проекту, тоді OmegaT автоматично шукатиме слова з нього.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You can create a new project for each new job, and you can add new source files to a project at anytime.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180130T214634Z" creationid="olexandr" creationdate="20180130T214634Z">
+        <seg>Ви можете створювати новий проект для кожного нового перекладу, або додавати нові файли до вже наявного проекту.</seg>
       </tuv>
     </tu>
     <tu>
