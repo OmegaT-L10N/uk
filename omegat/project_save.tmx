@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="ОмегаТ-4.1.3" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.2_2_10096:10098" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -11455,8 +11455,8 @@ The scope of a search is by default the project and can be set to be any files l
       <tuv lang="EN">
         <seg>Source files committed</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="Маринка" changedate="20171118T200823Z" creationid="Маринка" creationdate="20171101T205031Z">
-        <seg>Файли оригіналу підключені</seg>
+      <tuv lang="UK-UA" changeid="Маринка" changedate="20180131T190228Z" creationid="Маринка" creationdate="20171101T205031Z">
+        <seg>Файли оригіналу затверджені</seg>
       </tuv>
     </tu>
     <tu>
