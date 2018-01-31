@@ -3299,16 +3299,16 @@ may experience unexpected, but correct behaviour.</seg>
       <tuv lang="EN">
         <seg>Committing source files</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="Маринка" changedate="20171118T200811Z" creationid="Маринка" creationdate="20171101T205016Z">
-        <seg>Підключення до файлів оригіналу</seg>
+      <tuv lang="UK-UA" changeid="Маринка" changedate="20180131T190454Z" creationid="Маринка" creationdate="20171101T205016Z">
+        <seg>Збереження файлів оригіналу</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Committing target files</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="Маринка" changedate="20171118T200829Z" creationid="Маринка" creationdate="20171101T205104Z">
-        <seg>Підключення до перекладених файлів</seg>
+      <tuv lang="UK-UA" changeid="Маринка" changedate="20180131T190438Z" creationid="Маринка" creationdate="20171101T205104Z">
+        <seg>Збереження перекладених файлів</seg>
       </tuv>
     </tu>
     <tu>
@@ -5283,8 +5283,8 @@ project_save.tmx не був завантажений, а SVN перейшов �
       <tuv lang="EN">
         <seg>Failed to commit target files!</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="Лера9764" changedate="20180124T091309Z" creationid="Маринка" creationdate="20171101T204823Z">
-        <seg>Не вдалося підключитися до перекладених файлів!</seg>
+      <tuv lang="UK-UA" changeid="Маринка" changedate="20180131T190619Z" creationid="Маринка" creationdate="20171101T204823Z">
+        <seg>Не вдалося зберегти перекладені файли!</seg>
       </tuv>
     </tu>
     <tu>
