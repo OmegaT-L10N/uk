@@ -5275,8 +5275,8 @@ project_save.tmx не був завантажений, а SVN перейшов �
       <tuv lang="EN">
         <seg>Failed to commit source files!</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="Лера9764" changedate="20180124T091312Z" creationid="Маринка" creationdate="20171101T204720Z">
-        <seg>Не вдалося підключитися до файлів оригіналу!</seg>
+      <tuv lang="UK-UA" changeid="Маринка" changedate="20180131T190632Z" creationid="Маринка" creationdate="20171101T204720Z">
+        <seg>Не вдалося зберегти файли оригіналу!</seg>
       </tuv>
     </tu>
     <tu>
@@ -11985,8 +11985,8 @@ The scope of a search is by default the project and can be set to be any files l
       <tuv lang="EN">
         <seg>Target files committed</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="Маринка" changedate="20171118T201902Z" creationid="Маринка" creationdate="20171101T205115Z">
-        <seg>Перекладені файли підключені</seg>
+      <tuv lang="UK-UA" changeid="Маринка" changedate="20180131T190715Z" creationid="Маринка" creationdate="20171101T205115Z">
+        <seg>Файли перекладу збереженні</seg>
       </tuv>
     </tu>
     <tu>
