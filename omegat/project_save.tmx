@@ -7164,8 +7164,8 @@ inside the configuration folder.</seg>
       <tuv lang="EN">
         <seg>Left-to-Right Embedding (LRE U+202A)</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20180205T231433Z" creationid="Маринка" creationdate="20171204T163630Z">
-        <seg>Початок тексту зліва направо у масиві тексту справа наліво (LRE U+202A)</seg>
+      <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20180205T231712Z" creationid="Маринка" creationdate="20171204T163630Z">
+        <seg>Початок вставленого тексту зліва направо у масиві тексту справа наліво (LRE U+202A)</seg>
       </tuv>
     </tu>
     <tu>
@@ -9331,8 +9331,8 @@ additional steps need to be taken.</seg>
       <tuv lang="EN">
         <seg>Pop Directional Formatting (PDF U+202C)</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="Маринка" changedate="20171204T164708Z" creationid="Маринка" creationdate="20171204T164708Z">
-        <seg>Формат PDF (PDF U+202C)</seg>
+      <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20180205T231656Z" creationid="Маринка" creationdate="20171204T164708Z">
+        <seg>Кінець вставленого тексту з іншим напрямком письма (PDF U+202C)</seg>
       </tuv>
     </tu>
     <tu>
@@ -10335,8 +10335,8 @@ project without team functionality.</seg>
       <tuv lang="EN">
         <seg>Right-to-Left Embedding (RLE U+202B)</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20180205T231502Z" creationid="Маринка" creationdate="20171204T164400Z">
-        <seg>Початок тексту справа наліво у масиві тексту зліва направо (LRE U+202A)</seg>
+      <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20180205T231707Z" creationid="Маринка" creationdate="20171204T164400Z">
+        <seg>Початок вставленого тексту справа наліво у масиві тексту зліва направо (LRE U+202A)</seg>
       </tuv>
     </tu>
     <tu>
