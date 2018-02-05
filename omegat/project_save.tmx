@@ -6426,8 +6426,8 @@ their defaults as a result of the location change.</seg>
       <tuv lang="EN">
         <seg>Initialized {0}-{1} team project.</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="Лера9764" changedate="20180103T144402Z" creationid="Лера9764" creationdate="20180103T144402Z">
-        <seg>Ініціалізований {0}-{1} командний проект.</seg>
+      <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20180205T230304Z" creationid="Лера9764" creationdate="20180103T144402Z">
+        <seg>Ініціалізований командний проект {0}-{1}.</seg>
       </tuv>
     </tu>
     <tu>
