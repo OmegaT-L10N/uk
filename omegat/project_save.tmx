@@ -3431,10 +3431,10 @@ may experience unexpected, but correct behaviour.</seg>
 	--alignDir=&lt;path&gt;
 		A directory containing the translated files.</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20180205T230030Z" creationid="Лера9764" creationdate="20180103T144311Z">
+      <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20180205T230040Z" creationid="Лера9764" creationdate="20180103T144311Z">
         <seg>Режим вирівнювання у консолі:
 	--alignDir=&lt;шлях&gt;
-		Каталог, що містить перекладені файли.</seg>
+		Тека, що містить перекладені файли.</seg>
       </tuv>
     </tu>
     <tu>
