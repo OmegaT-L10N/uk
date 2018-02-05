@@ -13804,8 +13804,8 @@ on line {1}, column {2}.</seg>
       <tuv lang="EN">
         <seg>Warn: Report invalid tags to stdout.</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="nessyk" changedate="20180123T111335Z" creationid="Маринка" creationdate="20171026T191048Z">
-        <seg>Попередження: повідомляти про неправильні теги у форматі stdout.</seg>
+      <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20180205T225349Z" creationid="Маринка" creationdate="20171026T191048Z">
+        <seg>Warn (попередження): повідомляти про неприпустимі теги у stdout.</seg>
       </tuv>
     </tu>
     <tu>
