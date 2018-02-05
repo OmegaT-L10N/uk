@@ -7164,8 +7164,8 @@ inside the configuration folder.</seg>
       <tuv lang="EN">
         <seg>Left-to-Right Embedding (LRE U+202A)</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="Лера9764" changedate="20180103T145154Z" creationid="Маринка" creationdate="20171204T163630Z">
-        <seg>Вставити текст зліва направо (LRE U+202A)</seg>
+      <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20180205T231433Z" creationid="Маринка" creationdate="20171204T163630Z">
+        <seg>Початок тексту зліва направо у масиві тексту справа наліво (LRE U+202A)</seg>
       </tuv>
     </tu>
     <tu>
