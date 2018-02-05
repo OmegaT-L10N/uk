@@ -1427,8 +1427,8 @@ To add files to the project, click on the Copy Files to Source Folder... button 
         <seg>--config-file=&lt;path&gt;
 		A Java .properties file from which to load default settings.</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20180205T224047Z" creationid="Kos Ivantsov" creationdate="20171003T223618Z">
-        <seg>--config-file=&lt;path&gt;
+      <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20180205T224208Z" creationid="Kos Ivantsov" creationdate="20171003T223618Z">
+        <seg>--config-file=&lt;шлях&gt;
 		Файл .properties Java з налаштуваннями, які будуть використанні як стандартні.</seg>
       </tuv>
     </tu>
@@ -1499,10 +1499,10 @@ To add files to the project, click on the Copy Files to Source Folder... button 
 	--config-dir=&lt;path&gt;
 		The directory to read/write OmegaT configuration files from/to.</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20180205T224137Z" creationid="Kos Ivantsov" creationdate="20171003T223852Z">
+      <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20180205T224203Z" creationid="Kos Ivantsov" creationdate="20171003T223852Z">
         <seg>--resource-bundle=&lt;шлях&gt;
 		Файл .properties Java, який має бути використаний для локалізації інтерфейсу
---config-dir=&lt;path&gt;
+--config-dir=&lt;шлях&gt;
 		Тека для читання та запису файлів з налаштуваннями OmegaT.</seg>
       </tuv>
     </tu>
