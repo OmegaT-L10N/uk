@@ -1416,10 +1416,10 @@ To add files to the project, click on the Copy Files to Source Folder... button 
 		Source- or target-language tokenizer to use (overrides project
 		settings).</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20180205T224536Z" creationid="Маринка" creationdate="20171025T174418Z">
+      <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20180205T224617Z" creationid="Маринка" creationdate="20171025T174418Z">
         <seg>--ITokenizer=&lt;ім’я класу&gt;
 	--ITokenizerTarget=&lt;ім’я класу&gt;
-		Використати токенізатор мови оригіналу чи перекладу (скасування параметрів проекту).</seg>
+		Використати токенізатор мови оригіналу чи перекладу (параметри, вказані у проекті, не беруться до уваги).</seg>
       </tuv>
     </tu>
     <tu>
