@@ -8104,10 +8104,10 @@ inside the configuration folder.</seg>
 	--quiet
 		Reduce output to command line stdout.</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20180205T224731Z" creationid="Маринка" creationdate="20180123T101815Z">
+      <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20180205T224833Z" creationid="Маринка" creationdate="20180123T101815Z">
         <seg>Параметри режиму без графічного інтерфейсу:
 	--quiet
-		Скоротіть результат до командного рядка stdout.</seg>
+		Зменшити вивід у stdout командного рядка.</seg>
       </tuv>
     </tu>
     <tu>
