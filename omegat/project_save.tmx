@@ -10335,8 +10335,8 @@ project without team functionality.</seg>
       <tuv lang="EN">
         <seg>Right-to-Left Embedding (RLE U+202B)</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="Маринка" changedate="20171209T212709Z" creationid="Маринка" creationdate="20171204T164400Z">
-        <seg>Вставити текст справа наліво (RLE U+202B)</seg>
+      <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20180205T231502Z" creationid="Маринка" creationdate="20171204T164400Z">
+        <seg>Початок тексту справа наліво у масиві тексту зліва направо (LRE U+202A)</seg>
       </tuv>
     </tu>
     <tu>
