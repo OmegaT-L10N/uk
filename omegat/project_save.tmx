@@ -1513,9 +1513,9 @@ To add files to the project, click on the Copy Files to Source Folder... button 
         <seg>--script=&lt;path&gt;
 		A script file to be executed on project events.</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20180205T224904Z" creationid="Маринка" creationdate="20171114T213458Z">
+      <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20180205T225039Z" creationid="Маринка" creationdate="20171114T213458Z">
         <seg>--script=&lt;шлях&gt;
-		Файл сценарію, який має бути виконаним у подіях проекту.</seg>
+		Файл скрипту, який має виконуватися при настанні подій проекту.</seg>
       </tuv>
     </tu>
     <tu>
