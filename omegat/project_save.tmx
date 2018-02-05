@@ -3277,16 +3277,16 @@ may experience unexpected, but correct behaviour.</seg>
       <tuv lang="EN">
         <seg>Commit Source Files</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="Маринка" changedate="20171118T210439Z" creationid="Маринка" creationdate="20171114T213811Z">
-        <seg>Підключити файли оригіналу</seg>
+      <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20180205T231226Z" creationid="Маринка" creationdate="20171114T213811Z">
+        <seg>Зафіксувати файли оригіналу</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Commit Target Files</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="Маринка" changedate="20171118T210009Z" creationid="Маринка" creationdate="20171114T213821Z">
-        <seg>Підключити файли перекладу</seg>
+      <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20180205T231216Z" creationid="Маринка" creationdate="20171114T213821Z">
+        <seg>Зафіксувати файли перекладу</seg>
       </tuv>
     </tu>
     <tu>
