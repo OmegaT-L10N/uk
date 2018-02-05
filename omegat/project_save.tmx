@@ -1467,8 +1467,9 @@ To add files to the project, click on the Copy Files to Source Folder... button 
         <seg>--no-team
 		Disable team project functionality.</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="Маринка" changedate="20180123T101434Z" creationid="Маринка" creationdate="20171025T170501Z">
-        <seg>--no-team                              Вимкнути функціонування групового проекту.</seg>
+      <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20180205T224453Z" creationid="Маринка" creationdate="20171025T170501Z">
+        <seg>--no-team
+		Вимкнути функціонування групового проекту.</seg>
       </tuv>
     </tu>
     <tu>
