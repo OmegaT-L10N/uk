@@ -1437,9 +1437,9 @@ To add files to the project, click on the Copy Files to Source Folder... button 
         <seg>--disable-location-save
 		Do not remember the last directory opened in the file picker.</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="Маринка" changedate="20180123T101323Z" creationid="Маринка" creationdate="20171025T163959Z">
-        <seg>--disable-location-save 
-		Каталог, який був відкритий останнього разу у вікні вибору файлів, не збережено.</seg>
+      <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20180205T224434Z" creationid="Маринка" creationdate="20171025T163959Z">
+        <seg>--disable-location-save
+		Не запам’ятовувати останню теку, яка була відкрита у діалозі вибору файлів.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1447,8 +1447,9 @@ To add files to the project, click on the Copy Files to Source Folder... button 
         <seg>--disable-project-locking
 		Do not attempt to lock the project's omegat.project file.</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="Маринка" changedate="20171025T172459Z" creationid="Маринка" creationdate="20171025T163726Z">
-        <seg>  --disable-project-locking  Не намагайтеся блокувати файл проекту omegat.project. </seg>
+      <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20180205T224323Z" creationid="Маринка" creationdate="20171025T163726Z">
+        <seg>--disable-project-locking
+		Не намагатися блокувати файл проекту omegat.project.</seg>
       </tuv>
     </tu>
     <tu>
