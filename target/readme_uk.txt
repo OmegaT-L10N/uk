@@ -23,22 +23,22 @@ published by the Free Software Foundation, either version 3 of the License, or
 Prerequisites for installing OmegaT
 ===================================
 
-OmegaT requires the Java Runtime Environment (JRE) version 1.8 or higher to be
-installed on your system.
+OmegaT потребує оточення Java Runtime Environment (JRE) версії 1.8 чи вище,
+яке повинно бути встановлено в системі.
 
-We recommend using OmegaT packages that include the JRE, to save you the
-trouble of selecting, obtaining and installing it.
+Ми рекомендуємо використовувати пакунок OmegaT із включеним JRE, аби позбавити
+Вас проблеми вибору, отримання та встановленням JRE.
 
 
 
-Installing OmegaT (Windows)
+Встановлення OmegaT (Windows)
 ===========================
 
-Launch the installation program.
+Запустіть програму встановлення.
 
 
 
-Installing OmegaT (Mac)
+Встановлення OmegaT (Mac)
 =======================
 
 Unpack the OmegaT .zip archive to obtain a folder that contains a
@@ -47,25 +47,24 @@ appropriate location such as the Applications folder.
 
 
 
-Installing OmegaT (Linux)
+Встановлення OmegaT (Linux)
 =========================
 
-Place the archive in any suitable folder and unpack it. OmegaT is then ready
-to be launched.
+Покладіть архів до будь-якої необхідної теки та розпакуйте його. OmegaT вже готова
+до запуску.
 
-You can however obtain a neater and more user-friendly installation by using
-the installation script (linux-install.sh). To use this script, open a
-terminal window (console), change folder to the folder containing OmegaT.jar
-and the linux-install.sh script, and execute the script with ./linux-
-install.sh.
-
+Тим не менш, ви можете скористатися акуратнішим та більш дружнім до користувача
+встановленням використавши скрипт (linux-install.sh). Для використання скрипту, відкрийте вікно терміналу (консоль), змініть теку
+на ту, що містить OmegaT.jar та скрипт linux-install.sh, та
+запустіть скрипт командою «./linux-install.sh».
 
 
-Installing OmegaT (Solaris, FreeBSD, ...)
+
+Встановлення OmegaT (Solaris, FreeBSD, ...)
 =========================================
 
-Place the archive in any suitable folder and unpack it. OmegaT is then ready
-to be launched.
+Покладіть архів до будь-якої необхідної теки та розпакуйте його. OmegaT вже готова
+до запуску.
 
 
 
