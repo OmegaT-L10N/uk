@@ -256,8 +256,8 @@
       <tuv lang="EN">
         <seg>&amp;Copy Support Info</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="nessyk" changedate="20180123T122110Z" creationid="nessyk" creationdate="20180123T122110Z">
-        <seg>&amp; Копіювати інформацію про підтримку</seg>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180217T093922Z" creationid="nessyk" creationdate="20180123T122110Z">
+        <seg>&amp;Копіювати інформацію про підтримку</seg>
       </tuv>
     </tu>
     <tu>
@@ -1120,8 +1120,8 @@
       <tuv lang="EN">
         <seg>&amp;Source (segment {0}):</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="nessyk" changedate="20171129T184202Z" creationid="nessyk" creationdate="20171129T184202Z">
-        <seg>&amp; Оригінал (сегмент {0}):</seg>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180217T093956Z" creationid="nessyk" creationdate="20171129T184202Z">
+        <seg>&amp;Оригінал (сегмент {0}):</seg>
       </tuv>
     </tu>
     <tu>
@@ -1297,8 +1297,8 @@
         <seg>'*' matches zero or more characters ('run*' matches 'run', 'runs', and'running', etc.)
 '?' matches exactly one character ('run?' matches 'runs' and 'rung', but not 'run' or 'running').</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="olexandr" changedate="20180217T092724Z" creationid="Маринка" creationdate="20171114T220239Z">
-        <seg>Знак „*“ відповідає будь-якій (навіть нульовій) кількості символів (наприклад, при пошуковому запиту „run *“ будуть знайдені „run“, „runs“, і  „running“ та ін.)
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180217T094202Z" creationid="Маринка" creationdate="20171114T220239Z">
+        <seg>Знак „*“ відповідає будь-якій (навіть нульовій) кількості символів (наприклад, при пошуковому запиту „run *“ будуть знайдені „run“, „runs“, і „running“ та ін.)
 Знак „?“ відповідає тільки одному символу (наприклад, пошуковий запит „run?“ видасть „runs“ і „rung“, але не „run“ або „running“).</seg>
       </tuv>
     </tu>
@@ -1306,8 +1306,8 @@
       <tuv lang="EN">
         <seg>'{0}' menu selected</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="nessyk" changedate="20171207T183350Z" creationid="nessyk" creationdate="20171207T183325Z">
-        <seg>'{0}'Вибрано меню  &lt;</seg>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180217T094836Z" creationid="nessyk" creationdate="20171207T183325Z">
+        <seg>«{0}» меню обрано</seg>
       </tuv>
     </tu>
     <tu>
@@ -1661,8 +1661,8 @@ The current setting is {0}MB;</seg>
       <tuv lang="EN">
         <seg>&lt;html&gt;&lt;center&gt;Loading...&lt;br&gt;&lt;br&gt;Tip: Enable/disable checks at any time from the Options menu.&lt;/center&gt;&lt;/html&gt;</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="olexandr" changedate="20180216T154129Z" creationid="nessyk" creationdate="20171030T174212Z">
-        <seg>&lt;html&gt;&lt;center&gt;Завантаження…&lt;br&gt;&lt;br&gt;Підказка: Увімкнути / вимкнути перевірку можна  в будь-який час в меню «Параметри».&lt;/center&gt;&lt;/html&gt;</seg>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180217T094348Z" creationid="nessyk" creationdate="20171030T174212Z">
+        <seg>&lt;html&gt;&lt;center&gt;Завантаження…&lt;br&gt;&lt;br&gt;Підказка: Увімкнути / вимкнути перевірку можна в будь-який час в меню «Параметри».&lt;/center&gt;&lt;/html&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -1917,8 +1917,8 @@ The current setting is {0}MB;</seg>
       <tuv lang="EN">
         <seg>Actions &amp; Settings</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="Tetiana21" changedate="20171118T104841Z" creationid="Tetiana21" creationdate="20171118T104651Z">
-        <seg>Дії &amp; та налаштування</seg>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180217T093951Z" creationid="Tetiana21" creationdate="20171118T104651Z">
+        <seg>Дії &amp;та налаштування</seg>
       </tuv>
     </tu>
     <tu>
@@ -1997,8 +1997,8 @@ The current setting is {0}MB;</seg>
       <tuv lang="EN">
         <seg>Add To Dictionary: “{0}”</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="nessyk" changedate="20171030T174458Z" creationid="nessyk" creationdate="20171030T172409Z">
-        <seg>Додати до словника : “{0}”</seg>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180217T094133Z" creationid="nessyk" creationdate="20171030T172409Z">
+        <seg>Додати до словника: «{0}»</seg>
       </tuv>
     </tu>
     <tu>
@@ -2109,8 +2109,8 @@ The current setting is {0}MB;</seg>
       <tuv lang="EN">
         <seg>Aligner "Needs Review" Group</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="nessyk" changedate="20180114T103959Z" creationid="nessyk" creationdate="20171125T150107Z">
-        <seg>Вирівнювач "Потребує перегляду"  </seg>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180217T094338Z" creationid="nessyk" creationdate="20171125T150107Z">
+        <seg>Вирівнювач "Потребує перегляду"</seg>
       </tuv>
     </tu>
     <tu>
@@ -2270,8 +2270,8 @@ The current setting is {0}MB;</seg>
         <seg>An error occurred while processing a font changed event:
 {0}</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="nessyk" changedate="20180123T145640Z" creationid="nessyk" creationdate="20180123T145640Z">
-        <seg>Виникла помилка під час обробки дії, яка змінювала шрифт:
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180217T095139Z" creationid="nessyk" creationdate="20180123T145640Z">
+        <seg>Під час обробки події «шрифт змінено» сталася помилка:
 {0}</seg>
       </tuv>
     </tu>
@@ -2280,8 +2280,8 @@ The current setting is {0}MB;</seg>
         <seg>An error occurred while processing a new file event:
 {0}</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="nessyk" changedate="20171207T184653Z" creationid="nessyk" creationdate="20171207T184608Z">
-        <seg>Під час обробки нової дії у файлі сталася помилка:
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180217T095109Z" creationid="nessyk" creationdate="20171207T184608Z">
+        <seg>Під час обробки події «новий файл» сталася помилка:
 {0}</seg>
       </tuv>
     </tu>
@@ -2290,8 +2290,8 @@ The current setting is {0}MB;</seg>
         <seg>An error occurred while processing a project change event:
 {0}</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="nessyk" changedate="20171207T184349Z" creationid="nessyk" creationdate="20171207T183502Z">
-        <seg>Під час спроби зміни проекту сталася помилка:
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180217T094946Z" creationid="nessyk" creationdate="20171207T183502Z">
+        <seg>Під час обробки події «зміна проекту» сталася помилка:
 {0}</seg>
       </tuv>
     </tu>
@@ -2300,8 +2300,8 @@ The current setting is {0}MB;</seg>
         <seg>An error occurred while processing an application shutdown event:
 {0}</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="Лера9764" changedate="20171208T183141Z" creationid="nessyk" creationdate="20171207T184531Z">
-        <seg> Під час спроби закриття додатка сталася помилка:
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180217T095053Z" creationid="nessyk" creationdate="20171207T184531Z">
+        <seg>Під час обробки події «закриття програми» сталася помилка:
 {0}</seg>
       </tuv>
     </tu>
@@ -2310,8 +2310,18 @@ The current setting is {0}MB;</seg>
         <seg>An error occurred while processing an application startup event:
 {0}</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="nessyk" changedate="20171207T184336Z" creationid="nessyk" creationdate="20171207T184336Z">
-        <seg>Під час спроби запуску додатка сталася помилка:
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180217T095034Z" creationid="nessyk" creationdate="20171207T184336Z">
+        <seg>Під час обробки події «запуск програми» сталася помилка:
+{0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>An error occurred while processing an entry activated event:
+{0}</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180217T095126Z" creationid="olexandr" creationdate="20180217T094633Z">
+        <seg>Під час обробки події «активовано запис» сталася помилка:
 {0}</seg>
       </tuv>
     </tu>
@@ -2387,8 +2397,8 @@ The TMX file will not be loaded.</seg>
       <tuv lang="EN">
         <seg>Apache Commons (Apache License 2.0)</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="Tetiana21" changedate="20171205T173304Z" creationid="Tetiana21" creationdate="20171205T173304Z">
-        <seg>Apache Commons (ліцензія Apache  2.0)</seg>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180217T094213Z" creationid="Tetiana21" creationdate="20171205T173304Z">
+        <seg>Apache Commons (ліцензія Apache 2.0)</seg>
       </tuv>
     </tu>
     <tu>
@@ -2411,8 +2421,8 @@ The TMX file will not be loaded.</seg>
       <tuv lang="EN">
         <seg>Apply &amp;Fix</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="nessyk" changedate="20171030T175326Z" creationid="nessyk" creationdate="20171030T172255Z">
-        <seg>Підтвердити &amp; виправити</seg>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180217T094017Z" creationid="nessyk" creationdate="20171030T172255Z">
+        <seg>Підтвердити &amp;виправити</seg>
       </tuv>
     </tu>
     <tu>
@@ -3006,16 +3016,16 @@ may experience unexpected, but correct behaviour.</seg>
       <tuv lang="EN">
         <seg>Check simple &amp;java MessageFormat patterns (e.g. {0})</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="Лера9764" changedate="20180125T161143Z" creationid="Diman966" creationdate="20180123T161715Z">
-        <seg>Перевірити прості &amp;шаблони java MessageFormat  (e.g. {0})</seg>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180217T094250Z" creationid="Diman966" creationdate="20180123T161715Z">
+        <seg>Перевірити прості &amp;шаблони java MessageFormat (наприклад: {0})</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Check {0}</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="nessyk" changedate="20171030T174343Z" creationid="nessyk" creationdate="20171030T174343Z">
-        <seg>Перевірка  {0}</seg>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180217T094121Z" creationid="nessyk" creationdate="20171030T174343Z">
+        <seg>Перевірка: {0}</seg>
       </tuv>
     </tu>
     <tu>
@@ -3078,8 +3088,8 @@ may experience unexpected, but correct behaviour.</seg>
       <tuv lang="EN">
         <seg>Click on '{0}' menu item</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="nessyk" changedate="20171207T183324Z" creationid="nessyk" creationdate="20171207T183324Z">
-        <seg>Натисніть на"{0}" пункт меню </seg>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180217T094840Z" creationid="nessyk" creationdate="20171207T183324Z">
+        <seg>Натисніть на пункт меню «{0}»</seg>
       </tuv>
     </tu>
     <tu>
@@ -3580,8 +3590,8 @@ may experience unexpected, but correct behaviour.</seg>
       <tuv lang="EN">
         <seg>Count &amp;protected text and custom tags in statistics</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="Diman966" changedate="20180123T155609Z" creationid="nessyk" creationdate="20180123T151416Z">
-        <seg>Підрахунок &amp; захищеного тексту та користувацького тегу у статистиці</seg>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180217T093947Z" creationid="nessyk" creationdate="20180123T151416Z">
+        <seg>Підрахунок &amp;захищеного тексту та користувацького тегу у статистиці</seg>
       </tuv>
     </tu>
     <tu>
@@ -4060,8 +4070,8 @@ may experience unexpected, but correct behaviour.</seg>
       <tuv lang="EN">
         <seg>Display for Current &amp;Segment</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="nessyk" changedate="20171202T182033Z" creationid="nessyk" creationdate="20171202T181901Z">
-        <seg>Відображати для поточного &amp; сегменту</seg>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180217T094002Z" creationid="nessyk" creationdate="20171202T181901Z">
+        <seg>Відображати для поточного &amp;сегменту</seg>
       </tuv>
     </tu>
     <tu>
@@ -5006,48 +5016,48 @@ project_save.tmx не був завантажений, а SVN перейшов �
       <tuv lang="EN">
         <seg>Event: application shutdown</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="Лера9764" changedate="20171208T183119Z" creationid="nessyk" creationdate="20171207T184338Z">
-        <seg>Дія: закрити додаток</seg>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180217T095047Z" creationid="nessyk" creationdate="20171207T184338Z">
+        <seg>Подія: закриття програми</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Event: application startup</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="Лера9764" changedate="20171208T183130Z" creationid="nessyk" creationdate="20171207T183522Z">
-        <seg>Дія: запуск додатка</seg>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180217T095008Z" creationid="nessyk" creationdate="20171207T183522Z">
+        <seg>Подія: запуск програми</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Event: font changed</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="Лера9764" changedate="20180123T181235Z" creationid="nessyk" creationdate="20171207T185140Z">
-        <seg>Дія: шрифт змінено</seg>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180217T094610Z" creationid="nessyk" creationdate="20171207T185140Z">
+        <seg>Подія: шрифт змінено</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Event: new entry activated</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="nessyk" changedate="20171207T184848Z" creationid="nessyk" creationdate="20171207T184848Z">
-        <seg>Дія: активовано новий вхід</seg>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180217T094649Z" creationid="nessyk" creationdate="20171207T184848Z">
+        <seg>Подія: активовано новий запис</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Event: new file activated ({0})</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="nessyk" changedate="20180123T145751Z" creationid="nessyk" creationdate="20171207T184535Z">
-        <seg>Дія: активовано новий файл ({0})</seg>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180217T094727Z" creationid="nessyk" creationdate="20171207T184535Z">
+        <seg>Подія: активовано новий файл ({0})</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Event: project change - "{0}"</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="nessyk" changedate="20171207T183427Z" creationid="nessyk" creationdate="20171207T183326Z">
-        <seg>Дія: зміна проекту - "{0}""</seg>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180217T094913Z" creationid="nessyk" creationdate="20171207T183326Z">
+        <seg>Подія: зміна проекту - «{0}»</seg>
       </tuv>
     </tu>
     <tu>
@@ -5918,8 +5928,8 @@ project_save.tmx не був завантажений, а SVN перейшов �
       <tuv lang="EN">
         <seg>Groovy (Apache Licence 2.0)</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="nessyk" changedate="20180123T121848Z" creationid="nessyk" creationdate="20180123T121825Z">
-        <seg>Groovy (ліцензія Apache  2.0)</seg>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180217T094230Z" creationid="nessyk" creationdate="20180123T121825Z">
+        <seg>Groovy (ліцензія Apache 2.0)</seg>
       </tuv>
     </tu>
     <tu>
@@ -6316,8 +6326,8 @@ their defaults as a result of the location change.</seg>
       <tuv lang="EN">
         <seg>Ignore: “{0}”</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="nessyk" changedate="20171030T174521Z" creationid="nessyk" creationdate="20171030T174521Z">
-        <seg>Пропустити: “{0}”</seg>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180217T094138Z" creationid="nessyk" creationdate="20171030T174521Z">
+        <seg>Пропустити: «{0}»</seg>
       </tuv>
     </tu>
     <tu>
@@ -6652,8 +6662,8 @@ their defaults as a result of the location change.</seg>
       <tuv lang="EN">
         <seg>Issues ({0} of {1})</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="olexandr" changedate="20180216T152056Z" creationid="nessyk" creationdate="20171030T174020Z">
-        <seg>Кількість помилок  ({0} з {1})</seg>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180217T094343Z" creationid="nessyk" creationdate="20171030T174020Z">
+        <seg>Кількість помилок ({0} з {1})</seg>
       </tuv>
     </tu>
     <tu>
@@ -7344,8 +7354,8 @@ inside the configuration folder.</seg>
       <tuv lang="EN">
         <seg>Lucene (Apache License 2.0)</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="Tetiana21" changedate="20171205T173253Z" creationid="Tetiana21" creationdate="20171205T173253Z">
-        <seg>Lucene (ліцензія Apache  2.0)</seg>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180217T094206Z" creationid="Tetiana21" creationdate="20171205T173253Z">
+        <seg>Lucene (ліцензія Apache 2.0)</seg>
       </tuv>
     </tu>
     <tu>
@@ -7416,8 +7426,8 @@ inside the configuration folder.</seg>
       <tuv lang="EN">
         <seg>Mark &amp;Auto-Populated Segments</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="Лера9764" changedate="20180123T181439Z" creationid="nessyk" creationdate="20180123T141447Z">
-        <seg>Позначити &amp; Автоматизовані сегменти </seg>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180217T094005Z" creationid="nessyk" creationdate="20180123T141447Z">
+        <seg>Позначити &amp;Автоматизовані сегменти </seg>
       </tuv>
     </tu>
     <tu>
@@ -8560,9 +8570,9 @@ published by the Free Software Foundation, either version 3 of the License, or
 the name of your OS and/or the system property containing
 your home folder.</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="Лера9764" changedate="20180125T161546Z" creationid="Tetiana21" creationdate="20171118T110644Z">
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180217T095225Z" creationid="Tetiana21" creationdate="20171118T110644Z">
         <seg>OmegaT відмовлено у доступі до системи, що містить
-імʼя вашої ОС та / або системи, що містить
+імʼя вашої ОС та/або системи, що містить
 вашу домашню теку.</seg>
       </tuv>
     </tu>
@@ -8944,8 +8954,8 @@ installed on your system.</seg>
       <tuv lang="EN">
         <seg>PDFBox (Apache License 2.0)</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="nessyk" changedate="20180123T121838Z" creationid="nessyk" creationdate="20180123T121838Z">
-        <seg>PDFBox (ліцензія Apache  2.0)</seg>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180217T094216Z" creationid="nessyk" creationdate="20180123T121838Z">
+        <seg>PDFBox (ліцензія Apache 2.0)</seg>
       </tuv>
     </tu>
     <tu>
@@ -9253,8 +9263,8 @@ additional steps need to be taken.</seg>
       <tuv lang="EN">
         <seg>Please select the interval at which the project should be saved automatically, in minutes and seconds.</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="nessyk" changedate="20171118T191841Z" creationid="nessyk" creationdate="20171118T191841Z">
-        <seg>Будь ласка, виберіть інтервал в хвилинах і секундах, протягом  якого проект буде зберігатися автоматично.</seg>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180217T094329Z" creationid="nessyk" creationdate="20171118T191841Z">
+        <seg>Будь ласка, виберіть інтервал в хвилинах і секундах, протягом якого проект буде зберігатися автоматично.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11364,8 +11374,8 @@ The scope of a search is by default the project and can be set to be any files l
       <tuv lang="EN">
         <seg>Sort by source term &amp;alphabetically</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="nessyk" changedate="20171118T184834Z" creationid="nessyk" creationdate="20171113T214101Z">
-        <seg>Сортувати за терміном мови оригіналу &amp; в алфавітному порядку</seg>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180217T094011Z" creationid="nessyk" creationdate="20171113T214101Z">
+        <seg>Сортувати за терміном мови оригіналу &amp;в алфавітному порядку</seg>
       </tuv>
     </tu>
     <tu>
@@ -11774,8 +11784,8 @@ The scope of a search is by default the project and can be set to be any files l
       <tuv lang="EN">
         <seg>SuperTMXMerge (Apache License 2.0)</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="nessyk" changedate="20180123T121815Z" creationid="Маринка" creationdate="20171223T194414Z">
-        <seg>SuperTMXMerge (ліцензія Apache  2.0)</seg>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180217T094223Z" creationid="Маринка" creationdate="20171223T194414Z">
+        <seg>SuperTMXMerge (ліцензія Apache 2.0)</seg>
       </tuv>
     </tu>
     <tu>
@@ -12725,17 +12735,16 @@ the server.</seg>
       <tuv lang="EN">
         <seg>This program is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="Маринка" changedate="20180123T173400Z" creationid="Tetiana21" creationdate="20171206T193326Z">
-        <seg>Ця програма надається у доступі, з надією, що вона буде корисною, але  БЕЗ БУДЬ-ЯКИХ ГАРАНТІЙ; навіть без гарантій ПРИДАТНОСТІ ДО ПРОДАЖУ чи ПРИДАТНОСТІ ДЛЯ ПЕВНОЇ МЕТИ.</seg>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180217T094227Z" creationid="Tetiana21" creationdate="20171206T193326Z">
+        <seg>Ця програма надається у доступі, з надією, що вона буде корисною, але БЕЗ БУДЬ-ЯКИХ ГАРАНТІЙ; навіть без гарантій ПРИДАТНОСТІ ДО ПРОДАЖУ чи ПРИДАТНОСТІ ДЛЯ ПЕВНОЇ МЕТИ.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>This program is free software; you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation; either version 3 of the License, or (at your option) any later version.</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="Tetiana21" changedate="20171205T173843Z" creationid="Tetiana21" creationdate="20171205T173843Z">
-        <seg>Ця програма є безкоштовним програмним забезпеченням; ви можете вільно поширювати та/або змінювати її відповідно до умов the GNU General Public Licens, виданої Фондом Безкоштовного Програмного Забезпечення; або версії 3 ліцензії, або (на ваш розсуд) будь-якої пізнішої версії
-.</seg>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180217T093934Z" creationid="Tetiana21" creationdate="20171205T173843Z">
+        <seg>Ця програма є безкоштовним програмним забезпеченням; ви можете вільно поширювати та/або змінювати її відповідно до умов the GNU General Public Licens, виданої Фондом Безкоштовного Програмного Забезпечення; або версії 3 ліцензії, або (на ваш розсуд) будь-якої пізнішої версії.</seg>
       </tuv>
     </tu>
     <tu>
