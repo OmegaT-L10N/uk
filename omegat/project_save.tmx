@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.3_2_ad1aaa5ea" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="ОмегаТ-4.1.3" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -1417,10 +1417,11 @@ To add files to the project, click on the Copy Files to Source Folder... button 
 		Source- or target-language tokenizer to use (overrides project
 		settings).</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="olexandr" changedate="20180217T095430Z" creationid="Маринка" creationdate="20171025T174418Z">
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180217T125238Z" creationid="Маринка" creationdate="20171025T174418Z">
         <seg>--ITokenizer=&lt;ім'я класу&gt;
 	--ITokenizerTarget=&lt;ім'я класу&gt;
-		Використати токенізатор мови оригіналу чи перекладу (параметри, вказані у проекті, не беруться до уваги).</seg>
+		Використати токенізатор мови оригіналу чи перекладу 
+		(параметри, вказані у проекті, не беруться до уваги).</seg>
       </tuv>
     </tu>
     <tu>
@@ -1524,9 +1525,9 @@ To add files to the project, click on the Copy Files to Source Folder... button 
         <seg>--tag-validation=[abort|warn]
 		Validate tags.</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="Маринка" changedate="20171118T194828Z" creationid="Маринка" creationdate="20171026T190922Z">
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180217T125319Z" creationid="Маринка" creationdate="20171026T190922Z">
         <seg>--tag-validation=[abort|warn]
-		Перевірити теги.</seg>
+		Перевірити теґи.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1853,8 +1854,8 @@ The current setting is {0}MB;</seg>
       <tuv lang="EN">
         <seg>Abort: Exit with an error if tags invalid.</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20180205T225307Z" creationid="Маринка" creationdate="20171026T191042Z">
-        <seg>Abort (припинення роботи): вихід з помилкою, якщо є неприпустимі теги.</seg>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180217T125336Z" creationid="Маринка" creationdate="20171026T191042Z">
+        <seg>Abort (припинення роботи): вихід з помилкою, якщо є неприпустимі теґи.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10765,9 +10766,9 @@ The scope of a search is by default the project and can be set to be any files l
       <tuv lang="EN">
         <seg>See Help &gt; User's Manual for more information.</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20180205T230156Z" creationid="Лера9764" creationdate="20171030T181139Z">
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180217T125412Z" creationid="Лера9764" creationdate="20171030T181139Z">
         <seg>Для отримання додаткової інформації див.
-Довідка &gt; Посібник користувача.</seg>
+«Довідка» &gt; «Посібник користувача…».</seg>
       </tuv>
     </tu>
     <tu>
@@ -10782,8 +10783,8 @@ The scope of a search is by default the project and can be set to be any files l
       <tuv lang="EN">
         <seg>See OmegaT.jar/META-INF/MANIFEST.MF for valid values.</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20180205T224648Z" creationid="Маринка" creationdate="20171026T162340Z">
-        <seg>Припустимі значення наведено у файлі OmegaT.jar/META-INF/MANIFEST.MF.</seg>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180217T125254Z" creationid="Маринка" creationdate="20171026T162340Z">
+        <seg>Припустимі значення наведено у файлі «OmegaT.jar/META-INF/MANIFEST.MF».</seg>
       </tuv>
     </tu>
     <tu>
@@ -13808,8 +13809,8 @@ on line {1}, column {2}.</seg>
       <tuv lang="EN">
         <seg>Warn: Report invalid tags to stdout.</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20180205T225349Z" creationid="Маринка" creationdate="20171026T191048Z">
-        <seg>Warn (попередження): повідомляти про неприпустимі теги у stdout.</seg>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180217T125333Z" creationid="Маринка" creationdate="20171026T191048Z">
+        <seg>Warn (попередження): повідомляти про неприпустимі теґи у stdout.</seg>
       </tuv>
     </tu>
     <tu>
@@ -14258,8 +14259,8 @@ the installation script (linux-install.sh).</seg>
       <tuv lang="EN">
         <seg>You may also copy the files to your project's 'source' folder using your favorite file manager and reload the project by calling Reload from the Project menu.</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="Лера9764" changedate="20171217T075318Z" creationid="Лера9764" creationdate="20171102T184912Z">
-        <seg>Ви також можете скопіювати файли в теку „ source“ вашого проекту за допомогою менеджера файлів і перезавантажити проект, вибравши „Перезавантажити“ в меню „ Проект“.</seg>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180217T125520Z" creationid="Лера9764" creationdate="20171102T184912Z">
+        <seg>Ви також можете скопіювати файли в теку «source» вашого проекту за допомогою менеджера файлів і перезавантажити проект, вибравши «Перезавантажити» в меню «Проект».</seg>
       </tuv>
     </tu>
     <tu>
