@@ -216,8 +216,8 @@
       <tuv lang="EN">
         <seg>&amp;Built-in (LanguageTool {0})</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="nessyk" changedate="20180123T144909Z" creationid="nessyk" creationdate="20171129T185602Z">
-        <seg>&amp; Вбудований (мовний інструмент {0})</seg>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180217T093346Z" creationid="nessyk" creationdate="20171129T185602Z">
+        <seg>&amp;Вбудований (LanguageTool {0})</seg>
       </tuv>
     </tu>
     <tu>
@@ -616,8 +616,8 @@
       <tuv lang="EN">
         <seg>&amp;Launch local server</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="nessyk" changedate="20171202T181113Z" creationid="nessyk" creationdate="20171202T181113Z">
-        <seg>&amp; Запустити локальний сервер</seg>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180217T093349Z" creationid="nessyk" creationdate="20171202T181113Z">
+        <seg>&amp;Запустити локальний сервер</seg>
       </tuv>
     </tu>
     <tu>
@@ -704,8 +704,8 @@
       <tuv lang="EN">
         <seg>&amp;Move Down</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="Лера9764" changedate="20171209T181844Z" creationid="Diman966" creationdate="20171116T205909Z">
-        <seg>Рухатись в&amp;низ</seg>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180217T085323Z" creationid="Diman966" creationdate="20171116T205909Z">
+        <seg>Посунути в&amp;низ</seg>
       </tuv>
     </tu>
     <tu>
@@ -1297,8 +1297,8 @@
         <seg>'*' matches zero or more characters ('run*' matches 'run', 'runs', and'running', etc.)
 '?' matches exactly one character ('run?' matches 'runs' and 'rung', but not 'run' or 'running').</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="Маринка" changedate="20171203T190607Z" creationid="Маринка" creationdate="20171114T220239Z">
-        <seg>Знак „*“ відповідає будь-якій (навіть нульовій) кількості символів (наприклад, при пошуковому запиту „run *“ будуть знайдені  „run“, „runs“, і  „running“ та ін.)
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180217T092724Z" creationid="Маринка" creationdate="20171114T220239Z">
+        <seg>Знак „*“ відповідає будь-якій (навіть нульовій) кількості символів (наприклад, при пошуковому запиту „run *“ будуть знайдені „run“, „runs“, і  „running“ та ін.)
 Знак „?“ відповідає тільки одному символу (наприклад, пошуковий запит „run?“ видасть „runs“ і „rung“, але не „run“ або „running“).</seg>
       </tuv>
     </tu>
@@ -1741,8 +1741,8 @@ The current setting is {0}MB;</seg>
       <tuv lang="EN">
         <seg>&lt;p0&gt;Plugins&lt;/p0&gt; &lt;s1&gt;LanguageTool&lt;/s1&gt;</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="Tetiana21" changedate="20171105T131515Z" creationid="Tetiana21" creationdate="20171105T131515Z">
-        <seg>&lt;p0&gt;Plugins&lt;/p0&gt; &lt;s1&gt;LanguageTool&lt;/s1&gt;</seg>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180217T093649Z" creationid="Tetiana21" creationdate="20171105T131515Z">
+        <seg>&lt;p0&gt;Додатки&lt;/p0&gt; &lt;s1&gt;LanguageTool&lt;/s1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -4670,8 +4670,8 @@ project_save.tmx не був завантажений, а SVN перейшов �
       <tuv lang="EN">
         <seg>Encountered illegal \u sequence</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="Diman966" changedate="20180124T113055Z" creationid="Diman966" creationdate="20180124T113055Z">
-        <seg>Виявлено незаконну  \u послідовність дій</seg>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180217T092859Z" creationid="Diman966" creationdate="20180124T113055Z">
+        <seg>Виявлено заборонну \u послідовність</seg>
       </tuv>
     </tu>
     <tu>
@@ -4710,8 +4710,8 @@ project_save.tmx не був завантажений, а SVN перейшов �
       <tuv lang="EN">
         <seg>Ensure you are specifying the right API version (the URL should include "/v2/").</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="nessyk" changedate="20171129T185105Z" creationid="nessyk" creationdate="20171129T185105Z">
-        <seg>Переконайтеся, що ви вказали правильну версію API (URL повинна містити "/ v2 /").</seg>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180217T093309Z" creationid="nessyk" creationdate="20171129T185105Z">
+        <seg>Переконайтеся, що ви вказали правильну версію API (URL повинна містити "/ v2/").</seg>
       </tuv>
     </tu>
     <tu>
@@ -5526,8 +5526,8 @@ project_save.tmx не був завантажений, а SVN перейшов �
       <tuv lang="EN">
         <seg>Floating '?' character not tied to '&gt;'!</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="Лера9764" changedate="20180123T181921Z" creationid="nessyk" creationdate="20180123T121311Z">
-        <seg>Плаваючий '?' символ не прив'язаний  до '&gt;'!</seg>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180217T092742Z" creationid="nessyk" creationdate="20180123T121311Z">
+        <seg>Плаваючий '?' символ не прив'язаний до '&gt;'!</seg>
       </tuv>
     </tu>
     <tu>
@@ -6308,8 +6308,8 @@ their defaults as a result of the location change.</seg>
       <tuv lang="EN">
         <seg>Ignore type and ctype attributes when building &lt;&amp;bpt&gt; and &lt;ept&gt; tag shortcuts</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="Лера9764" changedate="20180123T180000Z" creationid="Diman966" creationdate="20180115T202205Z">
-        <seg>Ігнорувати тип атрибутів та тип їхнього вмісту при побудові &lt;&amp; bpt&gt; та &lt;ept&gt;ярликів тегів</seg>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180217T092928Z" creationid="Diman966" creationdate="20180115T202205Z">
+        <seg>Ігнорувати тип атрибутів та тип їхнього вмісту при побудові &lt;&amp;bpt&gt; та &lt;ept&gt;ярликів тегів</seg>
       </tuv>
     </tu>
     <tu>
@@ -6570,6 +6570,14 @@ their defaults as a result of the location change.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Introduction</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180217T093700Z" creationid="olexandr" creationdate="20180217T093700Z">
+        <seg>Вступ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Invalid API key</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Лера9764" changedate="20171209T190939Z" creationid="Tetiana21" creationdate="20171118T152006Z">
@@ -6684,8 +6692,8 @@ their defaults as a result of the location change.</seg>
       <tuv lang="EN">
         <seg>It is used to mark your translations.</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="Tetiana21" changedate="20171105T134036Z" creationid="Tetiana21" creationdate="20171105T133506Z">
-        <seg>Це здійснюється для відмічення ваших перекладів.</seg>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180217T092550Z" creationid="Tetiana21" creationdate="20171105T133506Z">
+        <seg>Це здійснюється для позначення ваших перекладів.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6982,128 +6990,136 @@ inside the configuration folder.</seg>
       <tuv lang="EN">
         <seg>LanguageTool</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="nessyk" changedate="20171029T225441Z" creationid="nessyk" creationdate="20171029T225441Z">
-        <seg>Мовний інструмент</seg>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180217T093422Z" creationid="olexandr" creationdate="20180217T093422Z">
+        <seg>LanguageTool</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>LanguageTool (LGPL License and others)</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="nessyk" changedate="20180123T121944Z" creationid="Diman966" creationdate="20171116T201709Z">
-        <seg>Мовний інструмент (LGPL ліцензія та інші)</seg>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180217T093243Z" creationid="Diman966" creationdate="20171116T201709Z">
+        <seg>LanguageTool (LGPL ліцензія та інші)</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>LanguageTool API version mismatch</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="nessyk" changedate="20171129T184333Z" creationid="nessyk" creationdate="20171129T184313Z">
-        <seg>Невідповідність версії API мовного інструмента</seg>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180217T093557Z" creationid="nessyk" creationdate="20171129T184313Z">
+        <seg>Невідповідність версії API LanguageTool</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>LanguageTool Issues</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="nessyk" changedate="20171030T172314Z" creationid="nessyk" creationdate="20171030T172314Z">
-        <seg>Проблеми з мовним інструментом</seg>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180217T093525Z" creationid="nessyk" creationdate="20171030T172314Z">
+        <seg>Проблеми з LanguageTool</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>LanguageTool is misconfigured.</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="olexandr" changedate="20180125T204815Z" creationid="nessyk" creationdate="20171129T184318Z">
-        <seg>Мовний інструмент налаштовано неправильно.</seg>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180217T093247Z" creationid="nessyk" creationdate="20171129T184318Z">
+        <seg>LanguageTool налаштовано неправильно.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>LanguageTool is not available for your target language.</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="nessyk" changedate="20171202T181402Z" creationid="nessyk" creationdate="20171202T181402Z">
-        <seg>Мовний інструмент недоступний для мови перекладу.</seg>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180217T093507Z" creationid="nessyk" creationdate="20171202T181402Z">
+        <seg>LanguageTool недоступний для вашої мови перекладу.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>LanguageTool plugin</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180217T093655Z" creationid="olexandr" creationdate="20180217T093655Z">
+        <seg>Додаток LanguageTool</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>LanguageTool server started</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="nessyk" changedate="20180123T145327Z" creationid="Маринка" creationdate="20171118T212443Z">
-        <seg>Сервер мовного інструменту запущений</seg>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180217T093546Z" creationid="Маринка" creationdate="20171118T212443Z">
+        <seg>Сервер LanguageTool запущено</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>LanguageTool server terminated</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="olexandr" changedate="20180125T204809Z" creationid="nessyk" creationdate="20171118T203844Z">
-        <seg>Сервер мовного інструменту зупинений</seg>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180217T093551Z" creationid="nessyk" creationdate="20171118T203844Z">
+        <seg>Сервер LanguageTool зупинено</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>LanguageTool settings</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="nessyk" changedate="20171129T185347Z" creationid="nessyk" creationdate="20171129T185347Z">
-        <seg>Налаштування мовного інструменту</seg>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180217T093332Z" creationid="nessyk" creationdate="20171129T185347Z">
+        <seg>Налаштування LanguageTool</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>LanguageTool will be disabled until the project is closed.</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="nessyk" changedate="20171129T185329Z" creationid="nessyk" creationdate="20171129T185329Z">
-        <seg>Мовний інструмент буде відключено до завершення проекту.</seg>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180217T093328Z" creationid="nessyk" creationdate="20171129T185329Z">
+        <seg>LanguageTool буде відключено до закриття проекту.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>LanguageTool: An error occurred during check.</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="nessyk" changedate="20171129T185300Z" creationid="nessyk" creationdate="20171129T185300Z">
-        <seg>Мовний інструмент: під час перевірки сталася помилка.</seg>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180217T093315Z" creationid="nessyk" creationdate="20171129T185300Z">
+        <seg>LanguageTool: під час перевірки сталася помилка.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>LanguageTool: Bad URL</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="Лера9764" changedate="20180125T161857Z" creationid="nessyk" creationdate="20171129T185135Z">
-        <seg>Мовний інструмент: неправильна URL-адреса</seg>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180217T093312Z" creationid="nessyk" creationdate="20171129T185135Z">
+        <seg>LanguageTool: неправильна URL-адреса</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>LanguageTool: Server start timeout</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="nessyk" changedate="20171129T185220Z" creationid="nessyk" creationdate="20171129T185220Z">
-        <seg>Мовний інструмент: тайм-аут запуску сервера</seg>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180217T093313Z" creationid="nessyk" creationdate="20171129T185220Z">
+        <seg>LanguageTool: тайм-аут запуску сервера</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>LanguageTool: bad local path</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="Лера9764" changedate="20180125T161841Z" creationid="nessyk" creationdate="20171129T184631Z">
-        <seg>Мовний інструмент: неправильний локальний шлях</seg>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180217T093252Z" creationid="nessyk" creationdate="20171129T184631Z">
+        <seg>LanguageTool: неправильний локальний шлях</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>LanguageTool: local port is unavailable</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="nessyk" changedate="20171129T184701Z" creationid="nessyk" creationdate="20171129T184701Z">
-        <seg>Мовний інструмент: місцевий порт недоступний</seg>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180217T093253Z" creationid="nessyk" creationdate="20171129T184701Z">
+        <seg>LanguageTool: локальний порт недоступний</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>LanguageTool: server returned XML when JSON was expected.</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="nessyk" changedate="20171129T185038Z" creationid="nessyk" creationdate="20171129T185038Z">
-        <seg>Мовний інструмент: сервер повернув XML, коли очікувалось JSON.</seg>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180217T093259Z" creationid="nessyk" creationdate="20171129T185038Z">
+        <seg>LanguageTool: сервер повернув XML, коли очікувалось JSON.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7784,8 +7800,8 @@ inside the configuration folder.</seg>
       <tuv lang="EN">
         <seg>Move &amp;Down</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="Маринка" changedate="20171118T202247Z" creationid="Маринка" creationdate="20171101T205533Z">
-        <seg>Рухатися &amp;вниз</seg>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180217T085302Z" creationid="Маринка" creationdate="20171101T205533Z">
+        <seg>Посунути &amp;вниз</seg>
       </tuv>
     </tu>
     <tu>
@@ -7808,40 +7824,40 @@ inside the configuration folder.</seg>
       <tuv lang="EN">
         <seg>Move &amp;Up</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="Маринка" changedate="20171118T202231Z" creationid="Маринка" creationdate="20171101T205525Z">
-        <seg>Рухатися &amp;вгору</seg>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180217T085300Z" creationid="Маринка" creationdate="20171101T205525Z">
+        <seg>Посунути &amp;вгору</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Move Do&amp;wn</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="Лера9764" changedate="20171114T174225Z" creationid="Лера9764" creationdate="20171114T174225Z">
-        <seg>Рухатись вни&amp;з</seg>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180217T085309Z" creationid="Лера9764" creationdate="20171114T174225Z">
+        <seg>Посунути вни&amp;з</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Move Down</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="nessyk" changedate="20171025T180525Z" creationid="nessyk" creationdate="20171025T180525Z">
-        <seg>Рухатись вниз </seg>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180217T085250Z" creationid="nessyk" creationdate="20171025T180525Z">
+        <seg>Посунути вниз </seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Move U&amp;p</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="Лера9764" changedate="20171114T174214Z" creationid="Лера9764" creationdate="20171114T174214Z">
-        <seg>Рухатись вго&amp;ру</seg>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180217T085308Z" creationid="Лера9764" creationdate="20171114T174214Z">
+        <seg>Посунути вго&amp;ру</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Move Up</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="nessyk" changedate="20171025T180458Z" creationid="nessyk" creationdate="20171025T180401Z">
-        <seg>Рухатись вгору </seg>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180217T085248Z" creationid="nessyk" creationdate="20171025T180401Z">
+        <seg>Посунути вгору </seg>
       </tuv>
     </tu>
     <tu>
@@ -7928,8 +7944,8 @@ inside the configuration folder.</seg>
       <tuv lang="EN">
         <seg>New LanguageTool rule</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="nessyk" changedate="20180123T144940Z" creationid="nessyk" creationdate="20171129T185415Z">
-        <seg>Нове правило мовного інструменту</seg>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180217T093614Z" creationid="nessyk" creationdate="20171129T185415Z">
+        <seg>Нове правило LanguageTool</seg>
       </tuv>
     </tu>
     <tu>
@@ -9102,9 +9118,9 @@ everything.</seg>
 return the information below to the software manufacturer with
 a description of how this error was produced.</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="Маринка" changedate="20171101T215118Z" creationid="Маринка" creationdate="20171101T215118Z">
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180217T092711Z" creationid="Маринка" creationdate="20171101T215118Z">
         <seg>Будь ласка, ознайомтеся з документацією про параметри відновлення та
-надайте  виробнику програмного забезпечення
+надайте виробнику програмного забезпечення
 опис того, як ця помилка була здійснена.</seg>
       </tuv>
     </tu>
@@ -11790,16 +11806,16 @@ The scope of a search is by default the project and can be set to be any files l
       <tuv lang="EN">
         <seg>Switch views with {0} and {1}</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="Таня" changedate="20171216T083624Z" creationid="Маринка" creationdate="20171106T204425Z">
-        <seg>Перемикання перегляду від  {0} до {1}</seg>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180217T092654Z" creationid="Маринка" creationdate="20171106T204425Z">
+        <seg>Перемикання перегляду від {0} до {1}</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Switching to built-in version.</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="nessyk" changedate="20171129T184605Z" creationid="nessyk" creationdate="20171129T184605Z">
-        <seg>Переключення на встановлену версію.</seg>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180217T093153Z" creationid="nessyk" creationdate="20171129T184605Z">
+        <seg>Перемикання на вбудовану версію.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12568,8 +12584,8 @@ in /lib/licenses/Licenses.txt.</seg>
       <tuv lang="EN">
         <seg>There was an error initializing LanguageTool.</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="nessyk" changedate="20171202T181427Z" creationid="nessyk" creationdate="20171202T181427Z">
-        <seg>Сталася помилка при ініціалізації мовного інструменту</seg>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180217T093451Z" creationid="nessyk" creationdate="20171202T181427Z">
+        <seg>Сталася помилка при ініціалізації LanguageTool.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12742,8 +12758,8 @@ the server.</seg>
       <tuv lang="EN">
         <seg>Thus, for example, rules for Canadian French (FR-CA) should be higher than rules for French (FR.*), and higher than Default (.*) ones.</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="Маринка" changedate="20171107T194904Z" creationid="Маринка" creationdate="20171107T194904Z">
-        <seg>Так, наприклад, правила для канадського французького (FR-CA) повинні бути вищими, ніж правила для французької (FR. *) і вище, ніж за замовчуванням (*.).</seg>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180217T092510Z" creationid="Маринка" creationdate="20171107T194904Z">
+        <seg>Так, наприклад, правила для канадського французького (FR-CA) повинні розташовуватись вище правил для французької (FR. *) і вище за типові (*.).</seg>
       </tuv>
     </tu>
     <tu>
@@ -13589,8 +13605,8 @@ on line {1}, column {2}.</seg>
       <tuv lang="EN">
         <seg>Use &amp;XML for standalone tags (e.g., &lt;i/&gt;)</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="Лера9764" changedate="20171226T113852Z" creationid="nessyk" creationdate="20171202T200833Z">
-        <seg>Використовуйте &amp;XML для автономних тегів (наприклад, &lt;i /&gt;)</seg>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180217T092609Z" creationid="nessyk" creationdate="20171202T200833Z">
+        <seg>Використовуйте &amp;XML для автономних тегів (наприклад, &lt;i/&gt;)</seg>
       </tuv>
     </tu>
     <tu>
@@ -14195,8 +14211,8 @@ Both exact and keyword searches support the wildcard characters * and ?.</seg>
       <tuv lang="EN">
         <seg>You can create glossary entries with Create Glossary Entry in the Edit menu.</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="chortik" changedate="20180216T071753Z" creationid="Лера9764" creationdate="20171215T214031Z">
-        <seg>Ви можете створити запис у глосарії, обравши «Створити запис у глосарії» в меню «Редагувати».</seg>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180217T093023Z" creationid="Лера9764" creationdate="20171215T214031Z">
+        <seg>Ви можете створити запис у глосарії, обравши «Створити запис у глосарії…» в меню «Редагувати».</seg>
       </tuv>
     </tu>
     <tu>
