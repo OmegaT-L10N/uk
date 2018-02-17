@@ -4815,6 +4815,14 @@ project_save.tmx не був завантажений, а SVN перейшов �
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Error during regular expression replacement:</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180217T130227Z" creationid="olexandr" creationdate="20180217T130227Z">
+        <seg>Помилка під час заміни регулярного виразу:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Error extracting MT result from MyMemory, response:</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="nessyk" changedate="20180123T141000Z" creationid="nessyk" creationdate="20171126T112111Z">
@@ -5923,6 +5931,14 @@ project_save.tmx не був завантажений, а SVN перейшов �
       </tuv>
       <tuv lang="UK-UA" changeid="olexandr" changedate="20180217T094230Z" creationid="nessyk" creationdate="20180123T121825Z">
         <seg>Groovy (ліцензія Apache 2.0)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Group {0} does not exist in search expression</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180217T130322Z" creationid="olexandr" creationdate="20180217T130322Z">
+        <seg>Група {0} не існує в пошуковому виразі</seg>
       </tuv>
     </tu>
     <tu>
@@ -9256,8 +9272,8 @@ additional steps need to be taken.</seg>
       <tuv lang="EN">
         <seg>Please select the language of your source files and the target language you would like to translate to.</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="Маринка" changedate="20171118T204458Z" creationid="Маринка" creationdate="20171106T205233Z">
-        <seg>Виберіть, будь ласка, мови для файлів оригіналу та перекладу, якими ви хотіли б перекладати. </seg>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180217T130110Z" creationid="Маринка" creationdate="20171106T205233Z">
+        <seg>Виберіть, будь ласка, мови для файлів оригіналу та перекладу, якими ви хотіли б перекладати.</seg>
       </tuv>
     </tu>
     <tu>
@@ -14291,8 +14307,8 @@ the installation script (linux-install.sh).</seg>
       <tuv lang="EN">
         <seg>You should specify their new location or recreate them.</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="Лера9764" changedate="20180124T114948Z" creationid="Маринка" creationdate="20171106T205113Z">
-        <seg>Ви маєте конкретизувати їхнє нове розташування або заново створити. </seg>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180217T130108Z" creationid="Маринка" creationdate="20171106T205113Z">
+        <seg>Ви маєте конкретизувати їхнє нове розташування або заново створити.</seg>
       </tuv>
     </tu>
     <tu>
