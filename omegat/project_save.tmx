@@ -2430,8 +2430,8 @@ The TMX file will not be loaded.</seg>
       <tuv lang="EN">
         <seg>Are you sure you want to remove the {0} set of segmentation rules?</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="Лера9764" changedate="20171117T153838Z" creationid="Лера9764" creationdate="20171117T153838Z">
-        <seg>Ви впевнені, що хочете вилучити {0} набір правил сегментації?</seg>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180217T131008Z" creationid="Лера9764" creationdate="20171117T153838Z">
+        <seg>Ви впевнені, що хочете вилучити набір правил сегментації «{0}»?</seg>
       </tuv>
     </tu>
     <tu>
@@ -3369,8 +3369,8 @@ may experience unexpected, but correct behaviour.</seg>
       <tuv lang="EN">
         <seg>Confirm removal of pattern {0}</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="Маринка" changedate="20171223T195317Z" creationid="Tetiana21" creationdate="20171116T195414Z">
-        <seg>Підтвердити видалення шаблону{0}</seg>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180217T130751Z" creationid="Tetiana21" creationdate="20171116T195414Z">
+        <seg>Підтвердити видалення шаблону {0}</seg>
       </tuv>
     </tu>
     <tu>
@@ -6255,8 +6255,8 @@ their defaults as a result of the location change.</seg>
       <tuv lang="EN">
         <seg>If the filter has any options, you may change them by clicking Options.</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="Лера9764" changedate="20180125T124544Z" creationid="Маринка" creationdate="20171223T201155Z">
-        <seg>Якщо фільтр має певні параметри, ви можете змінити їх, натиснувши на вкладку „Параметри“.</seg>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180217T130815Z" creationid="Маринка" creationdate="20171223T201155Z">
+        <seg>Якщо фільтр має певні параметри, ви можете змінити їх, натиснувши на вкладку «Параметри».</seg>
       </tuv>
     </tu>
     <tu>
@@ -10903,8 +10903,8 @@ The scope of a search is by default the project and can be set to be any files l
       <tuv lang="EN">
         <seg>Segmentation rules are applied in the following order:</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="Лера9764" changedate="20171117T154000Z" creationid="Лера9764" creationdate="20171117T154000Z">
-        <seg>Правила сегментації виконуються наступним чином: </seg>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180217T130903Z" creationid="Лера9764" creationdate="20171117T154000Z">
+        <seg>Правила сегментації виконуються наступним чином:</seg>
       </tuv>
     </tu>
     <tu>
@@ -12794,8 +12794,8 @@ the server.</seg>
       <tuv lang="EN">
         <seg>To edit what files in what encodings the filter will process, select the filter from the list and click Edit.</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="Лера9764" changedate="20180125T124530Z" creationid="Маринка" creationdate="20171223T201733Z">
-        <seg>Щоб відредагувати певні файли та їхні кодування, які будуть оброблятися за допомогою фільтра, виберіть фільтр зі списку та натисніть „Редагувати“.</seg>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180217T130807Z" creationid="Маринка" creationdate="20171223T201733Z">
+        <seg>Щоб відредагувати певні файли та їхні кодування, які будуть оброблятися за допомогою фільтра, виберіть фільтр зі списку та натисніть «Редагувати».</seg>
       </tuv>
     </tu>
     <tu>
