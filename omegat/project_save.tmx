@@ -584,8 +584,8 @@
       <tuv lang="EN">
         <seg>&amp;Jump To Segment</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="nessyk" changedate="20171030T173847Z" creationid="nessyk" creationdate="20171030T173812Z">
-        <seg>&amp;Перейти до сегменту</seg>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180217T095644Z" creationid="nessyk" creationdate="20171030T173812Z">
+        <seg>&amp;Перейти до сегмента</seg>
       </tuv>
     </tu>
     <tu>
@@ -1350,24 +1350,24 @@ To add files to the project, click on the Copy Files to Source Folder... button 
       <tuv lang="EN">
         <seg>(close tag)</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="Маринка" changedate="20171211T193002Z" creationid="Маринка" creationdate="20171118T213049Z">
-        <seg>(кінцевий тег)</seg>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180217T100059Z" creationid="Маринка" creationdate="20171118T213049Z">
+        <seg>(кінцевий теґ)</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>(comment tag)</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="Diman966" changedate="20180115T201519Z" creationid="Маринка" creationdate="20171118T213031Z">
-        <seg>(тег коментаря)</seg>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180217T095412Z" creationid="Маринка" creationdate="20171118T213031Z">
+        <seg>(теґ коментаря)</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>(empty tag)</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="Маринка" changedate="20171118T213039Z" creationid="Маринка" creationdate="20171118T213039Z">
-        <seg>(порожній тег)</seg>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180217T100057Z" creationid="Маринка" creationdate="20171118T213039Z">
+        <seg>(порожній теґ)</seg>
       </tuv>
     </tu>
     <tu>
@@ -1417,9 +1417,9 @@ To add files to the project, click on the Copy Files to Source Folder... button 
 		Source- or target-language tokenizer to use (overrides project
 		settings).</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20180205T224617Z" creationid="Маринка" creationdate="20171025T174418Z">
-        <seg>--ITokenizer=&lt;ім’я класу&gt;
-	--ITokenizerTarget=&lt;ім’я класу&gt;
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180217T095430Z" creationid="Маринка" creationdate="20171025T174418Z">
+        <seg>--ITokenizer=&lt;ім'я класу&gt;
+	--ITokenizerTarget=&lt;ім'я класу&gt;
 		Використати токенізатор мови оригіналу чи перекладу (параметри, вказані у проекті, не беруться до уваги).</seg>
       </tuv>
     </tu>
@@ -1438,9 +1438,9 @@ To add files to the project, click on the Copy Files to Source Folder... button 
         <seg>--disable-location-save
 		Do not remember the last directory opened in the file picker.</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20180205T224434Z" creationid="Маринка" creationdate="20171025T163959Z">
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180217T095336Z" creationid="Маринка" creationdate="20171025T163959Z">
         <seg>--disable-location-save
-		Не запам’ятовувати останню теку, яка була відкрита у діалозі вибору файлів.</seg>
+		Не запам'ятовувати останню теку, яка була відкрита у діалозі вибору файлів.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1570,8 +1570,8 @@ specifying "java -Xmx&lt;size-in-MB&gt;M -jar OmegaT.jar" on the
 command line or in the OmegaT start script;
 The current setting is {0}MB;</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="olexandr" changedate="20180216T150315Z" creationid="Маринка" creationdate="20171118T195004Z">
-        <seg>2) Збільшити обсяг пам'яті OmegaT можна вказавши 
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180217T100631Z" creationid="Маринка" creationdate="20171118T195004Z">
+        <seg>2) Збільшити обсяг пам'яті OmegaT можна вказавши
 «java -Xmx&lt;size-in-MB&gt;M -jar OmegaT.jar» у командному рядку
 чи в стартовому скрипті OmegaT;
 Поточний параметр: {0}МБ;</seg>
@@ -2632,8 +2632,8 @@ may experience unexpected, but correct behaviour.</seg>
       <tuv lang="EN">
         <seg>Bad folder name {0}</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="Лера9764" changedate="20171121T150046Z" creationid="Маринка" creationdate="20171118T205734Z">
-        <seg>Неправильне ім’я теки {0}</seg>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180217T095357Z" creationid="Маринка" creationdate="20171118T205734Z">
+        <seg>Неправильне ім'я теки {0}</seg>
       </tuv>
     </tu>
     <tu>
@@ -2808,8 +2808,8 @@ may experience unexpected, but correct behaviour.</seg>
       <tuv lang="EN">
         <seg>Cancel Pinpoint Align</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="olexandr" changedate="20180125T205223Z" creationid="nessyk" creationdate="20171101T185032Z">
-        <seg>Відмінити цільовий елаймент (вирівнювання)</seg>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180217T095750Z" creationid="nessyk" creationdate="20171101T185032Z">
+        <seg>Скасувати цільовий елаймент (вирівнювання)</seg>
       </tuv>
     </tu>
     <tu>
@@ -3408,8 +3408,8 @@ may experience unexpected, but correct behaviour.</seg>
       <tuv lang="EN">
         <seg>Confused by false start of comment tag!</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="Лера9764" changedate="20180124T115841Z" creationid="Diman966" creationdate="20180115T201318Z">
-        <seg> Збентежений помилкою старту коментаря тегу!</seg>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180217T100105Z" creationid="Diman966" creationdate="20180115T201318Z">
+        <seg> Збентежений помилкою старту коментаря теґу!</seg>
       </tuv>
     </tu>
     <tu>
@@ -4462,14 +4462,6 @@ project_save.tmx не був завантажений, а SVN перейшов �
     </tu>
     <tu>
       <tuv lang="EN">
-        <seg>ERROR: (declaring bean)</seg>
-      </tuv>
-      <tuv lang="UK-UA" changeid="nessyk" changedate="20180123T140509Z" creationid="Tetiana21" creationdate="20171118T114020Z">
-        <seg>ПОМИЛКА: ( )</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
         <seg>ERROR: {0}</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Лера9764" changedate="20171031T065935Z" creationid="Лера9764" creationdate="20171031T065935Z">
@@ -5464,8 +5456,8 @@ project_save.tmx не був завантажений, а SVN перейшов �
       <tuv lang="EN">
         <seg>Filename</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20171114T231413Z" creationid="briac" creationdate="20171011T130105Z">
-        <seg>Ім’я файлу</seg>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180217T095348Z" creationid="briac" creationdate="20171011T130105Z">
+        <seg>Ім'я файлу</seg>
       </tuv>
     </tu>
     <tu>
@@ -5536,8 +5528,8 @@ project_save.tmx не був завантажений, а SVN перейшов �
       <tuv lang="EN">
         <seg>Floating '?' character not tied to '&gt;'!</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="olexandr" changedate="20180217T092742Z" creationid="nessyk" creationdate="20180123T121311Z">
-        <seg>Плаваючий '?' символ не прив'язаний до '&gt;'!</seg>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180217T100055Z" creationid="nessyk" creationdate="20180123T121311Z">
+        <seg>Незакріплений символ «?» прив'язано до «&gt;»!</seg>
       </tuv>
     </tu>
     <tu>
@@ -5998,14 +5990,6 @@ project_save.tmx не був завантажений, а SVN перейшов �
     </tu>
     <tu>
       <tuv lang="EN">
-        <seg>Heapwise</seg>
-      </tuv>
-      <tuv lang="UK-UA" changeid="Tetiana21" changedate="20171105T144905Z" creationid="nessyk" creationdate="20171030T173252Z">
-        <seg>0Heapwise</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
         <seg>Help &amp; Manual</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Маринка" changedate="20171203T193939Z" creationid="Diman966" creationdate="20171116T200435Z">
@@ -6168,8 +6152,8 @@ project_save.tmx не був завантажений, а SVN перейшов �
       <tuv lang="EN">
         <seg>IOException encountered:</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="Лера9764" changedate="20180124T115800Z" creationid="Маринка" creationdate="20171118T212858Z">
-        <seg>Виявлено виключення IO:</seg>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180217T100120Z" creationid="Маринка" creationdate="20171118T212858Z">
+        <seg>Виявлено IOException:</seg>
       </tuv>
     </tu>
     <tu>
@@ -6225,8 +6209,8 @@ project_save.tmx не був завантажений, а SVN перейшов �
         <seg>If invoked in a git working tree or svn checkout, the results
 		will be staged/added.</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="olexandr" changedate="20180216T150135Z" creationid="nessyk" creationdate="20180123T103741Z">
-        <seg>Якщо були зроблені зміни на локальній копії git чи svn, то результати 
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180217T100504Z" creationid="nessyk" creationdate="20180123T103741Z">
+        <seg>Якщо були зроблені зміни на локальній копії git чи svn, то результати
 		будуть додані для подальших комітів.</seg>
       </tuv>
     </tu>
@@ -6244,8 +6228,8 @@ project_save.tmx не був завантажений, а SVN перейшов �
 that location will be used and all settings will return to
 their defaults as a result of the location change.</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="nessyk" changedate="20171205T181315Z" creationid="nessyk" creationdate="20171205T181315Z">
-        <seg>Якщо пізніше доступ до потрібного місця буде надано 
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180217T100805Z" creationid="nessyk" creationdate="20171205T181315Z">
+        <seg>Якщо пізніше доступ до потрібного місця буде надано,
 це місце розташування буде використано, і всі налаштування повернуться до
 налаштувань за замовчуванням в результаті зміни місця розташування.</seg>
       </tuv>
@@ -7754,8 +7738,8 @@ inside the configuration folder.</seg>
       <tuv lang="EN">
         <seg>Modification info template for segments without date</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="Diman966" changedate="20171204T165144Z" creationid="Diman966" creationdate="20171204T165144Z">
-        <seg>Шаблон інформації про модифікацію для сегменту без дати </seg>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180217T095920Z" creationid="Diman966" creationdate="20171204T165144Z">
+        <seg>Шаблон інформації про модифікацію для сегмента без дати</seg>
       </tuv>
     </tu>
     <tu>
@@ -8082,8 +8066,8 @@ inside the configuration folder.</seg>
       <tuv lang="EN">
         <seg>No script bound in slot #{0}.</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="Лера9764" changedate="20180125T162142Z" creationid="Tetiana21" creationdate="20171116T200115Z">
-        <seg>Немає скрипту, повʼязаного зі слотом №{0}.</seg>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180217T100924Z" creationid="Tetiana21" creationdate="20171116T200115Z">
+        <seg>Немає скрипту, повʼязаного зі слотом #{0}.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8528,8 +8512,8 @@ inside the configuration folder.</seg>
 tool with fuzzy matching, translation memory, keyword search, glossaries, and
 translation leveraging into updated projects.</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20170929T122009Z" creationid="Kos Ivantsov" creationdate="20170929T122009Z">
-        <seg>OmegaT — це вільна програма з відкритим джерельним кодом, призначена для автоматизованого перекладу, що має серед іншого такі функції: робота з нечіткими збігами, пам’ять перекладів, пошук за ключовими словами, робота з глосаріями та використання попередніх перекладів при роботі з оновленими файлами оригіналу.</seg>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180217T095422Z" creationid="Kos Ivantsov" creationdate="20170929T122009Z">
+        <seg>OmegaT — це вільна програма з відкритим джерельним кодом, призначена для автоматизованого перекладу, що має серед іншого такі функції: робота з нечіткими збігами, пам'ять перекладів, пошук за ключовими словами, робота з глосаріями та використання попередніх перекладів при роботі з оновленими файлами оригіналу.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8544,8 +8528,8 @@ translation leveraging into updated projects.</seg>
       <tuv lang="EN">
         <seg>OmegaT is a free open-source translation memory application for professional translators written in Java.</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20171209T222933Z" creationid="Kos Ivantsov" creationdate="20171209T222933Z">
-        <seg>OmegaT — це безкоштовна програма з перекладацькою пам’яттю, розрахована на професійних перекладачів. Написана на Java.</seg>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180217T095438Z" creationid="Kos Ivantsov" creationdate="20171209T222933Z">
+        <seg>OmegaT — це безкоштовна програма з перекладацькою пам'яттю, розрахована на професійних перекладачів. Написана на Java.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9100,10 +9084,10 @@ installed on your system.</seg>
 material in ./tm, ./glossary, and ./dictionary as required, then commit
 everything.</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="Лера9764" changedate="20180103T144923Z" creationid="Лера9764" creationdate="20180103T144527Z">
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180217T100554Z" creationid="Лера9764" creationdate="20180103T144527Z">
         <seg>Розташувати файли оригіналу в ./source і додатковий
-матеріал у ./tm, ./glossary, та ./dictionary як обов'язковий, потім все 
-здійснити.</seg>
+матеріал у ./tm, ./glossary, та ./dictionary як обов'язковий, потім все
+закомітити.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9167,8 +9151,8 @@ additional steps need to be taken.</seg>
       <tuv lang="EN">
         <seg>Please double-check it.</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="nessyk" changedate="20171118T191053Z" creationid="nessyk" creationdate="20171118T191053Z">
-        <seg>Будь-ласка, перевірте ще раз.</seg>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180217T100331Z" creationid="nessyk" creationdate="20171118T191053Z">
+        <seg>Будь ласка, перевірте ще раз.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9223,8 +9207,8 @@ additional steps need to be taken.</seg>
       <tuv lang="EN">
         <seg>Please resolve the conflicts by choosing a translation for each segment below.</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="nessyk" changedate="20171113T215753Z" creationid="nessyk" creationdate="20171113T215753Z">
-        <seg>Будь-ласка вирішіть конфлікти, вибравши переклад для кожного сегмента нижче.</seg>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180217T100341Z" creationid="nessyk" creationdate="20171113T215753Z">
+        <seg>Будь ласка, вирішіть конфлікти, вибравши переклад для кожного сегмента нижче.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9247,8 +9231,8 @@ additional steps need to be taken.</seg>
       <tuv lang="EN">
         <seg>Please select how tags of non-OmegaT TMXs should be displayed.</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="nessyk" changedate="20171202T200647Z" creationid="Tetiana21" creationdate="20171105T190151Z">
-        <seg>Будь-ласка, виберіть, як слід відображати теги не-OmegaT TMX.</seg>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180217T100318Z" creationid="Tetiana21" creationdate="20171105T190151Z">
+        <seg>Будь ласка, виберіть, як слід відображати теги не-OmegaT TMX.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9287,8 +9271,8 @@ additional steps need to be taken.</seg>
       <tuv lang="EN">
         <seg>Please select which behaviour is appropriate.</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="nessyk" changedate="20180123T153406Z" creationid="Diman966" creationdate="20180115T202509Z">
-        <seg>Будь-ласка оберіть відповідний режим роботи. </seg>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180217T100434Z" creationid="Diman966" creationdate="20180115T202509Z">
+        <seg>Будь ласка, оберіть відповідний режим роботи.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9865,8 +9849,8 @@ project without team functionality.</seg>
       <tuv lang="EN">
         <seg>Refreshing script folder "{0}"</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="Лера9764" changedate="20171209T190558Z" creationid="Лера9764" creationdate="20171209T190552Z">
-        <seg>Оновлення теки скрипту "{0}"</seg>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180217T101007Z" creationid="Лера9764" creationdate="20171209T190552Z">
+        <seg>Оновлення теки скрипту «{0}»</seg>
       </tuv>
     </tu>
     <tu>
@@ -10411,8 +10395,8 @@ project without team functionality.</seg>
       <tuv lang="EN">
         <seg>Run script on slot #{0}.</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="Лера9764" changedate="20171118T085805Z" creationid="Tetiana21" creationdate="20171116T200011Z">
-        <seg>Запустити скрипт на слот №{0}.</seg>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180217T100940Z" creationid="Tetiana21" creationdate="20171116T200011Z">
+        <seg>Запустити скрипт на слоті #{0}.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10435,8 +10419,8 @@ project without team functionality.</seg>
       <tuv lang="EN">
         <seg>S&amp;lide Comments</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="Маринка" changedate="20171223T193640Z" creationid="Маринка" creationdate="20171223T193640Z">
-        <seg>Ко&amp;ментарі до слайду</seg>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180217T095719Z" creationid="Маринка" creationdate="20171223T193640Z">
+        <seg>Ко&amp;ментарі до слайда</seg>
       </tuv>
     </tu>
     <tu>
@@ -10621,24 +10605,24 @@ The scope of a search is by default the project and can be set to be any files l
       <tuv lang="EN">
         <seg>Script "{0}" bound to slot #{1}.</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="nessyk" changedate="20180123T132728Z" creationid="nessyk" creationdate="20180123T132601Z">
-        <seg>Скрипт "{0}" пов'язаний з слотом # {1}.</seg>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180217T100900Z" creationid="nessyk" creationdate="20180123T132601Z">
+        <seg>Скрипт «{0}» пов'язаний зі слотом #{1}.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Script "{0}" saved.</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="Лера9764" changedate="20171110T192416Z" creationid="Лера9764" creationdate="20171110T192416Z">
-        <seg>Скрипт "{0}" збережено.</seg>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180217T100950Z" creationid="Лера9764" creationdate="20171110T192416Z">
+        <seg>Скрипт «{0}» збережено.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Script "{0}" unbound from slot #{1}.</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="nessyk" changedate="20180123T132732Z" creationid="nessyk" creationdate="20180123T132711Z">
-        <seg>Скрипт "{0}" не пов'язаний з слотом # {1}.</seg>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180217T100908Z" creationid="nessyk" creationdate="20180123T132711Z">
+        <seg>Скрипт «{0}» не пов'язаний зі слотом #{1}.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11078,8 +11062,8 @@ The scope of a search is by default the project and can be set to be any files l
       <tuv lang="EN">
         <seg>Selected Engine: {0}</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="Таня" changedate="20171214T155801Z" creationid="Таня" creationdate="20171214T155801Z">
-        <seg>Вибраний механізм: {0}</seg>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180217T101021Z" creationid="Таня" creationdate="20171214T155801Z">
+        <seg>Обраний рушій: {0}</seg>
       </tuv>
     </tu>
     <tu>
@@ -11278,8 +11262,8 @@ The scope of a search is by default the project and can be set to be any files l
       <tuv lang="EN">
         <seg>Simplify &amp;tooltips on protected parts</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="Лера9764" changedate="20180123T165119Z" creationid="Diman966" creationdate="20180123T162749Z">
-        <seg>Спрощенні &amp;та спливаючі підказки на захищених частинах</seg>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180217T095959Z" creationid="Diman966" creationdate="20180123T162749Z">
+        <seg>Спрощенні підказки на захищених час&amp;тинах</seg>
       </tuv>
     </tu>
     <tu>
@@ -11960,8 +11944,8 @@ The scope of a search is by default the project and can be set to be any files l
       <tuv lang="EN">
         <seg>Tag name:</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="Маринка" changedate="20171118T213024Z" creationid="Маринка" creationdate="20171118T212953Z">
-        <seg>Ім’я тегу:</seg>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180217T095407Z" creationid="Маринка" creationdate="20171118T212953Z">
+        <seg>Ім'я теґу:</seg>
       </tuv>
     </tu>
     <tu>
@@ -12343,8 +12327,8 @@ instead.</seg>
       <tuv lang="EN">
         <seg>The file "{0}" is not supported.</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="olexandr" changedate="20180125T211922Z" creationid="nessyk" creationdate="20171102T205820Z">
-        <seg>Файл такого типу "{0}"не підтримується.</seg>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180217T095806Z" creationid="nessyk" creationdate="20171102T205820Z">
+        <seg>Файл типу «{0}» не підтримується.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12458,8 +12442,8 @@ in /lib/licenses/Licenses.txt.</seg>
       <tuv lang="EN">
         <seg>The script "{0}" is running...</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="olexandr" changedate="20180216T153812Z" creationid="nessyk" creationdate="20180123T135613Z">
-        <seg>Скрипт "{0}" запущено…</seg>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180217T101102Z" creationid="nessyk" creationdate="20180123T135613Z">
+        <seg>Скрипт «{0}» запущено…</seg>
       </tuv>
     </tu>
     <tu>
@@ -12562,8 +12546,8 @@ in /lib/licenses/Licenses.txt.</seg>
       <tuv lang="EN">
         <seg>The writeable glossary file is not in the glossary folder.</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="nessyk" changedate="20171125T172935Z" creationid="nessyk" creationdate="20171125T172935Z">
-        <seg>Файл глосарію, який слід перезаписати, не знаходиться в папці глосарію.</seg>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180217T095540Z" creationid="nessyk" creationdate="20171125T172935Z">
+        <seg>Файл глосарію, який слід перезаписати, не знаходиться в теці глосарію.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13476,8 +13460,8 @@ Exact searches match the whole search string.</seg>
 {0}
 on line {1}, column {2}.</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="Маринка" changedate="20171217T185257Z" creationid="Маринка" creationdate="20171217T185226Z">
-        <seg>Помилка, яку не можна виправити під час аналізу файлу TMX 
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180217T100607Z" creationid="Маринка" creationdate="20171217T185226Z">
+        <seg>Помилка, яку не можна виправити під час аналізу файлу TMX
 {0}
 у рядку {1}, стовпець {2}.</seg>
       </tuv>
@@ -13898,8 +13882,8 @@ trouble of selecting, obtaining and installing it.</seg>
       <tuv lang="EN">
         <seg>When a single file has more segments than this, additional segments will be loaded on-demand as you scroll.</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="nessyk" changedate="20171202T200400Z" creationid="nessyk" creationdate="20171202T200400Z">
-        <seg>Якщо одиничний файл має більше сегментів, ніж цей, під час прокручування додаткові сегменти будуть завантажені за вимогою.</seg>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180217T100726Z" creationid="nessyk" creationdate="20171202T200400Z">
+        <seg>Якщо одиничний файл має більше сегментів, ніж цей, під час прокручування додаткові сегменти будуть завантажені на вимогу.</seg>
       </tuv>
     </tu>
     <tu>
@@ -14084,8 +14068,8 @@ Both exact and keyword searches support the wildcard characters * and ?.</seg>
       <tuv lang="EN">
         <seg>Writeable glossary file folder entered does not exist!</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="Лера9764" changedate="20180124T115202Z" creationid="nessyk" creationdate="20180123T113342Z">
-        <seg>Введеної теки для глосарію, який потрібно перезаписати, не існує!</seg>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180217T100706Z" creationid="nessyk" creationdate="20180123T113342Z">
+        <seg>Введеної теки для глосарія, який потрібно перезаписати, не існує!</seg>
       </tuv>
     </tu>
     <tu>
@@ -14614,8 +14598,8 @@ create its configuration folder.</seg>
       <tuv lang="EN">
         <seg>{0} conflicts</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="nessyk" changedate="20171113T215803Z" creationid="nessyk" creationdate="20171113T215803Z">
-        <seg>{0} конфлікти</seg>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180217T100357Z" creationid="nessyk" creationdate="20171113T215803Z">
+        <seg>{0} конфліктів</seg>
       </tuv>
     </tu>
     <tu>
@@ -14630,8 +14614,8 @@ create its configuration folder.</seg>
       <tuv lang="EN">
         <seg>{0} segments</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="Лера9764" changedate="20171107T195826Z" creationid="Лера9764" creationdate="20171107T195826Z">
-        <seg>{0} сегменти</seg>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180217T100356Z" creationid="Лера9764" creationdate="20171107T195826Z">
+        <seg>{0} сегментів</seg>
       </tuv>
     </tu>
     <tu>
