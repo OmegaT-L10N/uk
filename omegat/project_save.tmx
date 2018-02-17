@@ -2665,8 +2665,8 @@ may experience unexpected, but correct behaviour.</seg>
       <tuv lang="EN">
         <seg>Bartender yells loud:&lt;p&gt;Your page cannot be found, boy&lt;p&gt;Buy another drink.</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="Маринка" changedate="20171101T210345Z" creationid="Маринка" creationdate="20171101T210345Z">
-        <seg>Бармен кричить голосно: &lt;p&gt; Ваша сторінка не може бути знайдена, парубче &lt;p&gt; Купи інший напій.</seg>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180217T125739Z" creationid="Маринка" creationdate="20171101T210345Z">
+        <seg>Бармен кричить голосно:&lt;p&gt;Ваша сторінка не може бути знайдена, парубче&lt;p&gt;Купи інший напій.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10967,40 +10967,40 @@ The scope of a search is by default the project and can be set to be any files l
       <tuv lang="EN">
         <seg>Select Match #&amp;1</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20180205T231241Z" creationid="Лера9764" creationdate="20171030T193742Z">
-        <seg>Вибрати збіг № &amp;1</seg>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180217T125551Z" creationid="Лера9764" creationdate="20171030T193742Z">
+        <seg>Вибрати збіг #&amp;1</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Select Match #&amp;2</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20180205T231245Z" creationid="Лера9764" creationdate="20171030T193753Z">
-        <seg>Вибрати збіг № &amp;2</seg>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180217T125554Z" creationid="Лера9764" creationdate="20171030T193753Z">
+        <seg>Вибрати збіг #&amp;2</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Select Match #&amp;3</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20180205T231252Z" creationid="Лера9764" creationdate="20171030T193802Z">
-        <seg>Вибрати збіг № &amp;3</seg>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180217T125555Z" creationid="Лера9764" creationdate="20171030T193802Z">
+        <seg>Вибрати збіг #&amp;3</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Select Match #&amp;4</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20180205T231259Z" creationid="Лера9764" creationdate="20171030T193804Z">
-        <seg>Вибрати збіг № &amp;4</seg>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180217T125557Z" creationid="Лера9764" creationdate="20171030T193804Z">
+        <seg>Вибрати збіг #&amp;4</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Select Match #&amp;5</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20180205T231304Z" creationid="Лера9764" creationdate="20171030T193807Z">
-        <seg>Вибрати збіг № &amp;5</seg>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180217T125600Z" creationid="Лера9764" creationdate="20171030T193807Z">
+        <seg>Вибрати збіг #&amp;5</seg>
       </tuv>
     </tu>
     <tu>
@@ -12344,8 +12344,8 @@ instead.</seg>
       <tuv lang="EN">
         <seg>The help page you seek&lt;p&gt;Lies beyond our perception&lt;p&gt;But others await</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="Лера9764" changedate="20180123T152352Z" creationid="Маринка" creationdate="20171118T192223Z">
-        <seg>Сторінка допомоги, яку ви шукаєте &lt;p&gt; Лежить поза нашим сприйняттям &lt;p&gt; Але інші чекають</seg>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180217T125801Z" creationid="Маринка" creationdate="20171118T192223Z">
+        <seg>Сторінка допомоги, яку ви шукаєте&lt;p&gt;Лежить поза нашим сприйняттям&lt;p&gt;Але інші чекають</seg>
       </tuv>
     </tu>
     <tu>
@@ -12605,8 +12605,8 @@ configuration folder cannot be reliably determined.</seg>
       <tuv lang="EN">
         <seg>These three are certain:&lt;p&gt;Death, taxes, and page not found.&lt;p&gt;You, victim of one.</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="Лера9764" changedate="20180124T114332Z" creationid="Маринка" creationdate="20171118T192221Z">
-        <seg>Ці три визначені як:&lt;p&gt;Смерть, податки та сторінка не знайдені.&lt;p&gt; Ти, одна з цих жертв.</seg>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180217T125750Z" creationid="Маринка" creationdate="20171118T192221Z">
+        <seg>Ці три визначені як:&lt;p&gt;Смерть, податки та сторінка не знайдені.&lt;p&gt;Ти, одна з цих жертв.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13973,8 +13973,8 @@ Both exact and keyword searches support the wildcard characters * and ?.</seg>
       <tuv lang="EN">
         <seg>Wind catches lily&lt;p&gt;Scatt'ring petals to the wind:&lt;p&gt;Your page is not found</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="Diman966" changedate="20180115T194908Z" creationid="Маринка" creationdate="20171118T202751Z">
-        <seg>Вітер ловить лілію &lt;p&gt; Розсіювання пелюсток по вітру: &lt;p&gt; Вашу сторінку не знайдено</seg>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180217T125715Z" creationid="Маринка" creationdate="20171118T202751Z">
+        <seg>Вітер ловить лілію&lt;p&gt;Розсіювання пелюсток по вітру:&lt;p&gt;Вашу сторінку не знайдено</seg>
       </tuv>
     </tu>
     <tu>
