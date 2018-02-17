@@ -2521,8 +2521,8 @@ may experience unexpected, but correct behaviour.</seg>
       <tuv lang="EN">
         <seg>Auto replace 'nplurals=INTEGER; &amp;plural=EXPRESSION;' in header</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="Лера9764" changedate="20180106T204811Z" creationid="Лера9764" creationdate="20171205T064400Z">
-        <seg>Автозаміна 'nplurals=INTEGER; &amp;plural=EXPRESSION;' у заголовку</seg>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180217T130453Z" creationid="Лера9764" creationdate="20171205T064400Z">
+        <seg>Автоматична заміна 'nplurals=INTEGER; &amp;plural=EXPRESSION;' у заголовку</seg>
       </tuv>
     </tu>
     <tu>
@@ -6921,8 +6921,8 @@ inside the configuration folder.</seg>
       <tuv lang="EN">
         <seg>Key=Value Text</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="olexandr" changedate="20180216T153627Z" creationid="Маринка" creationdate="20171203T195502Z">
-        <seg>Текстові файли «Ключ = Значення»</seg>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180217T130613Z" creationid="Маринка" creationdate="20171203T195502Z">
+        <seg>Текст «Ключ=Значення»</seg>
       </tuv>
     </tu>
     <tu>
@@ -8239,8 +8239,8 @@ inside the configuration folder.</seg>
       <tuv lang="EN">
         <seg>Note: DocBook files are recognized not only by file extension, but they also must have a DOCTYPE declaration: &lt;!DOCTYPE book PUBLIC \"-//OASIS//DTD DocBook XML... for DocBook 4, or a Namespace: xmlns="http://docbook.org/ns/docbook" for DocBook 5</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="olexandr" changedate="20180216T153612Z" creationid="Лера9764" creationdate="20180123T180610Z">
-        <seg>Примітка: файли DocBook розпізнаються не лише за розширенням файлу, вони повинні також мати декларацію DOCTYPE (типу документа): &lt;!DOCTYPE book PUBLIC \"-//OASIS//DTD DocBook XML… for DocBook 4, або простір імен: xmlns="http://docbook.org/ns/docbook" for DocBook 5</seg>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180217T130554Z" creationid="Лера9764" creationdate="20180123T180610Z">
+        <seg>Примітка: файли DocBook розпізнаються не лише за розширенням файлу, вони повинні також мати декларацію DOCTYPE (типу документа): &lt;!DOCTYPE book PUBLIC \"-//OASIS//DTD DocBook XML… для DocBook 4, або простір імен: xmlns="http://docbook.org/ns/docbook" для DocBook 5</seg>
       </tuv>
     </tu>
     <tu>
