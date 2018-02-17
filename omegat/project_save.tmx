@@ -4601,8 +4601,8 @@ project_save.tmx не був завантажений, а SVN перейшов �
       <tuv lang="EN">
         <seg>Emptiness of soul&lt;p&gt;Forever aching blackness&lt;p&gt;Your help page not found</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="Diman966" changedate="20180115T200544Z" creationid="Маринка" creationdate="20171118T192304Z">
-        <seg>Пустота душі &lt;p&gt; Назавжди болючий морок &lt;p&gt; Вашу сторінку допомоги не знайдено</seg>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180217T125809Z" creationid="Маринка" creationdate="20171118T192304Z">
+        <seg>Пустота душі&lt;p&gt;Назавжди болючий морок&lt;p&gt;Вашу сторінку допомоги не знайдено</seg>
       </tuv>
     </tu>
     <tu>
@@ -4641,8 +4641,8 @@ project_save.tmx не був завантажений, а SVN перейшов �
       <tuv lang="EN">
         <seg>Enable them in &lt;b&gt;Preferences &gt; Saving and Output...&lt;/b&gt;.&lt;/html&gt;</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="olexandr" changedate="20180216T153442Z" creationid="Маринка" creationdate="20171114T215311Z">
-        <seg>Додайте їх у розділ &lt;b&gt;Параметри &gt; Збереження та Вихід…&lt;/b&gt;.&lt;/html&gt;</seg>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180217T130056Z" creationid="Маринка" creationdate="20171114T215311Z">
+        <seg>Додайте їх у розділ &lt;b&gt;«Параметри» &gt; «Збереження та Вихід…»&lt;/b&gt;.&lt;/html&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -5153,8 +5153,8 @@ project_save.tmx не був завантажений, а SVN перейшов �
       <tuv lang="EN">
         <seg>Exit code {0}: "{1}"</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="olexandr" changedate="20180216T153354Z" creationid="Маринка" creationdate="20171114T214333Z">
-        <seg>Код виходу {0}: "{1}"</seg>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180217T130010Z" creationid="Маринка" creationdate="20171114T214333Z">
+        <seg>Код виходу {0}: «{1}»</seg>
       </tuv>
     </tu>
     <tu>
@@ -5329,8 +5329,8 @@ project_save.tmx не був завантажений, а SVN перейшов �
       <tuv lang="EN">
         <seg>Fatal error encountered - saving project file with '.recover' backup extension.</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="Маринка" changedate="20171126T173510Z" creationid="Маринка" creationdate="20171101T214955Z">
-        <seg>Виявлена фатальна помилка при збереженні файлу проекту з розширенням „.recover“ .</seg>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180217T125921Z" creationid="Маринка" creationdate="20171101T214955Z">
+        <seg>Виявлена фатальна помилка при збереженні файлу проекту з розширенням «.recover».</seg>
       </tuv>
     </tu>
     <tu>
@@ -6001,8 +6001,8 @@ project_save.tmx не був завантажений, а SVN перейшов �
       <tuv lang="EN">
         <seg>Help you are seeking&lt;p&gt;From your path it is fleeing&lt;p&gt;Its winter has come</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="nessyk" changedate="20180123T111918Z" creationid="nessyk" creationdate="20180123T111544Z">
-        <seg>Допомога, яку ви шукаєте &lt;p&gt; Тікає з вашого шляху &lt;p&gt; Настала зима</seg>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180217T125844Z" creationid="nessyk" creationdate="20180123T111544Z">
+        <seg>Допомога, яку ви шукаєте&lt;p&gt;Тікає з вашого шляху&lt;p&gt;Настала зима</seg>
       </tuv>
     </tu>
     <tu>
@@ -9474,8 +9474,8 @@ project without team functionality.</seg>
       <tuv lang="EN">
         <seg>Problem encountered loading project file!</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="Маринка" changedate="20171101T215338Z" creationid="Маринка" creationdate="20171101T215338Z">
-        <seg>Проблема виникла при завантаженні файлу проекта!</seg>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180217T125947Z" creationid="Маринка" creationdate="20171101T215338Z">
+        <seg>Проблема виникла при завантаженні файлу проекту!</seg>
       </tuv>
     </tu>
     <tu>
@@ -9762,8 +9762,8 @@ project without team functionality.</seg>
       <tuv lang="EN">
         <seg>Rather than beep&lt;p&gt;Or a rude error message&lt;p&gt;These words: 'Page not found'</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="Diman966" changedate="20180115T200645Z" creationid="Diman966" creationdate="20180115T200645Z">
-        <seg>Замість звукового сигналу &lt;p&gt; Або грубе повідомлення про помилку &lt;p&gt; Ці слова: "Сторінка не знайдена"</seg>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180217T125831Z" creationid="Diman966" creationdate="20180115T200645Z">
+        <seg>Замість звукового сигналу&lt;p&gt;Або грубе повідомлення про помилку&lt;p&gt;Ці слова: "Сторінка не знайдена"</seg>
       </tuv>
     </tu>
     <tu>
