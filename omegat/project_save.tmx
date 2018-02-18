@@ -3542,8 +3542,8 @@ may experience unexpected, but correct behaviour.</seg>
         <seg>Copy &lt;project&gt;/omegat/project_save.tmx file into a safe location
 2.</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="nessyk" changedate="20171125T174436Z" creationid="nessyk" creationdate="20171125T174436Z">
-        <seg>Скопіюйте файл &lt;project&gt; /omegat/project_save.tmx у безпечне місце
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180218T211515Z" creationid="nessyk" creationdate="20171125T174436Z">
+        <seg>Скопіюйте файл «&lt;project&gt;/omegat/project_save.tmx» у безпечне місце
 2.</seg>
       </tuv>
     </tu>
@@ -10211,8 +10211,8 @@ project without team functionality.</seg>
         <seg>Replace &lt;project&gt;/omegat/project_save.tmx in the newly downloaded project with the file saved in a safe location
 6.</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="nessyk" changedate="20171118T192621Z" creationid="nessyk" creationdate="20171118T192621Z">
-        <seg>Замініть &lt;project&gt; /omegat/project_save.tmx у знову завантаженому проекті, зберігаючи його в безпечному місці
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180218T211655Z" creationid="nessyk" creationdate="20171118T192621Z">
+        <seg>Замініть файл «&lt;project&gt;/omegat/project_save.tmx» у знову завантаженому проекті на раніше збережений в безпечному місці
 6.</seg>
       </tuv>
     </tu>
