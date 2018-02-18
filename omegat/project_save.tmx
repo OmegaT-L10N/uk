@@ -4031,8 +4031,8 @@ may experience unexpected, but correct behaviour.</seg>
       <tuv lang="EN">
         <seg>Display &amp;tags</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="Лера9764" changedate="20171226T113847Z" creationid="nessyk" creationdate="20171202T200726Z">
-        <seg>Відображати &amp;теги</seg>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180218T203711Z" creationid="nessyk" creationdate="20171202T200726Z">
+        <seg>Показувати &amp;теґи</seg>
       </tuv>
     </tu>
     <tu>
@@ -4047,8 +4047,8 @@ may experience unexpected, but correct behaviour.</seg>
       <tuv lang="EN">
         <seg>Display all &amp;source segments in bold</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="Лера9764" changedate="20180122T155417Z" creationid="nessyk" creationdate="20171202T202552Z">
-        <seg>Відображати всі &amp;сегменти оригіналу з жирним шрифтом</seg>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180218T203702Z" creationid="nessyk" creationdate="20171202T202552Z">
+        <seg>Показувати всі &amp;сегменти оригіналу з жирним шрифтом</seg>
       </tuv>
     </tu>
     <tu>
@@ -4103,8 +4103,8 @@ may experience unexpected, but correct behaviour.</seg>
       <tuv lang="EN">
         <seg>Displays the dictionary entries found in the dictionary files located in the /dictionary/ folder if they are present in the source segment.</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="olexandr" changedate="20180217T131236Z" creationid="nessyk" creationdate="20180123T150653Z">
-        <seg>Відображає записи словника, знайдені в файлах словника, розташованих у теці «/dictionary/», якщо вони присутні в сегменті оригіналу.</seg>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180218T203750Z" creationid="nessyk" creationdate="20180123T150653Z">
+        <seg>Показує записи словника, знайдені в файлах словника, розташованих у теці «/dictionary/», якщо вони присутні в сегменті оригіналу.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4119,8 +4119,8 @@ may experience unexpected, but correct behaviour.</seg>
       <tuv lang="EN">
         <seg>Displays the glossary entries found in the glossary files located in the /glossary/ folder if they are present in the source segment.</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="olexandr" changedate="20180217T131159Z" creationid="nessyk" creationdate="20180123T151314Z">
-        <seg>Відображає записи глосарію, знайдені в файлах глосарію, розташованих у теці «/glossary/», якщо вони присутні в сегменті оригіналу.</seg>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180218T203736Z" creationid="nessyk" creationdate="20180123T151314Z">
+        <seg>Показує записи глосарію, знайдені в файлах глосарію, розташованих у теці «/glossary/», якщо вони присутні в сегменті оригіналу.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5705,8 +5705,8 @@ project_save.tmx не був завантажений, а SVN перейшов �
       <tuv lang="EN">
         <seg>Full text, including tags and numbers</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="Лера9764" changedate="20171226T113922Z" creationid="nessyk" creationdate="20171202T201922Z">
-        <seg>Повний текст, включно з тегами та цифрами</seg>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180218T203650Z" creationid="nessyk" creationdate="20171202T201922Z">
+        <seg>Повний текст, включно з теґами та цифрами</seg>
       </tuv>
     </tu>
     <tu>
@@ -8107,8 +8107,8 @@ inside the configuration folder.</seg>
       <tuv lang="EN">
         <seg>No tags and no numbers</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="nessyk" changedate="20171202T201927Z" creationid="nessyk" creationdate="20171202T201741Z">
-        <seg>Немає тегів та цифр</seg>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180218T203641Z" creationid="nessyk" creationdate="20171202T201741Z">
+        <seg>Немає теґів та цифр</seg>
       </tuv>
     </tu>
     <tu>
@@ -8311,8 +8311,8 @@ inside the configuration folder.</seg>
       <tuv lang="EN">
         <seg>Notify Me When a Segment Has Dictionary Entries</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="Лера9764" changedate="20180122T155456Z" creationid="Лера9764" creationdate="20171114T172922Z">
-        <seg>Повідомити мене, коли сегмент матиме співпадіння у словнику</seg>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180218T203813Z" creationid="Лера9764" creationdate="20171114T172922Z">
+        <seg>Повідомити мене, коли сегмент матиме запис у словнику</seg>
       </tuv>
     </tu>
     <tu>
@@ -9248,8 +9248,8 @@ additional steps need to be taken.</seg>
       <tuv lang="EN">
         <seg>Please select how tags of non-OmegaT TMXs should be displayed.</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="olexandr" changedate="20180217T100318Z" creationid="Tetiana21" creationdate="20171105T190151Z">
-        <seg>Будь ласка, виберіть, як слід відображати теги не-OmegaT TMX.</seg>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180218T203623Z" creationid="Tetiana21" creationdate="20171105T190151Z">
+        <seg>Будь ласка, виберіть, як слід показувати теґи не-OmegaT TMX.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11729,8 +11729,8 @@ The scope of a search is by default the project and can be set to be any files l
       <tuv lang="EN">
         <seg>Stemming, no tags and no numbers</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="Diman966" changedate="20180123T163128Z" creationid="nessyk" creationdate="20171202T201713Z">
-        <seg>Основа без тегів та цифр </seg>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180218T203644Z" creationid="nessyk" creationdate="20171202T201713Z">
+        <seg>Основа без теґів та цифр </seg>
       </tuv>
     </tu>
     <tu>
@@ -13615,8 +13615,8 @@ on line {1}, column {2}.</seg>
       <tuv lang="EN">
         <seg>Use &amp;XML for standalone tags (e.g., &lt;i/&gt;)</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="olexandr" changedate="20180217T092609Z" creationid="nessyk" creationdate="20171202T200833Z">
-        <seg>Використовуйте &amp;XML для автономних тегів (наприклад, &lt;i/&gt;)</seg>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180218T203634Z" creationid="nessyk" creationdate="20171202T200833Z">
+        <seg>Використовуйте &amp;XML для автономних теґів (наприклад, &lt;i/&gt;)</seg>
       </tuv>
     </tu>
     <tu>
@@ -13759,8 +13759,8 @@ on line {1}, column {2}.</seg>
       <tuv lang="EN">
         <seg>Variants in the following languages will be displayed: {0}</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="Лера9764" changedate="20180125T122449Z" creationid="Tetiana21" creationdate="20171105T164139Z">
-        <seg>Варіанти будуть відображені наступними мовами: {0}</seg>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180218T203606Z" creationid="Tetiana21" creationdate="20171105T164139Z">
+        <seg>Варіанти будуть показані наступними мовами: {0}</seg>
       </tuv>
     </tu>
     <tu>
