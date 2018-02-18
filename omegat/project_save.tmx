@@ -4437,6 +4437,14 @@ may experience unexpected, but correct behaviour.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Download the file - it should be a &lt;f0&gt;tarball&lt;/f0&gt; archive (extension &lt;e1&gt;tar.bz&lt;/e1&gt; or &lt;e2&gt;tar.bz2&lt;/e2&gt;).</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180218T213108Z" creationid="olexandr" creationdate="20180218T213108Z">
+        <seg>Завантажити файл — він може бути в архіві &lt;f0&gt;tarball&lt;/f0&gt; (розширення &lt;e1&gt;tar.bz&lt;/e1&gt; чи &lt;e2&gt;tar.bz2&lt;/e2&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Downloading project...</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="olexandr" changedate="20180216T153329Z" creationid="Лера9764" creationdate="20171025T175358Z">
@@ -13825,6 +13833,14 @@ on line {1}, column {2}.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="olexandr" changedate="20180125T210856Z" creationid="olexandr" creationdate="20180125T210856Z">
         <seg>Використовувати мову встановлення, як мову інтерфейсу користувача OmegaT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Use untar utility (or its equivalent, for instance&lt;f0&gt; winrar&lt;/f0&gt; in Windows) to extract its contents into the project folder "Dictionary".</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180218T213219Z" creationid="olexandr" creationdate="20180218T213219Z">
+        <seg>Використовуючи утиліту (чи її еквівалент, на кшталт &lt;f0&gt;winrar&lt;/f0&gt; для Windows) розпакувати вміст до теки проекту «Dictionary».</seg>
       </tuv>
     </tu>
     <tu>
