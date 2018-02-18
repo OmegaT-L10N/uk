@@ -12912,6 +12912,14 @@ the server.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>To install the necessary files for the StarDict format, proceed as follows:</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180218T212333Z" creationid="olexandr" creationdate="20180218T212333Z">
+        <seg>Для встановлення необхідних файлів в форматі StarDict, необхідно виконати наступне:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>To remind yourself of the project's initial settings, open the project properties dialog by pressing &lt;k0&gt;Ctrl+E&lt;/k0&gt;.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="olexandr" changedate="20180130T214740Z" creationid="olexandr" creationdate="20180130T214707Z">
