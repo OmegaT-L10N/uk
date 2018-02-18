@@ -344,8 +344,8 @@
       <tuv lang="EN">
         <seg>&amp;Empty lines</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="Лера9764" changedate="20180125T123037Z" creationid="Лера9764" creationdate="20171031T070233Z">
-        <seg>по &amp;порожніх рядках</seg>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180218T210639Z" creationid="Лера9764" creationdate="20171031T070233Z">
+        <seg>По &amp;порожніх рядках</seg>
       </tuv>
     </tu>
     <tu>
@@ -640,8 +640,8 @@
       <tuv lang="EN">
         <seg>&amp;Line breaks</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="Лера9764" changedate="20180125T123050Z" creationid="Маринка" creationdate="20171203T193118Z">
-        <seg>по &amp;розривах рядків</seg>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180218T210643Z" creationid="Маринка" creationdate="20171203T193118Z">
+        <seg>По &amp;розривах рядків</seg>
       </tuv>
     </tu>
     <tu>
@@ -720,8 +720,8 @@
       <tuv lang="EN">
         <seg>&amp;Never</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="Маринка" changedate="20171203T193420Z" creationid="Diman966" creationdate="20171116T200400Z">
-        <seg>&amp;ніколи</seg>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180218T210635Z" creationid="Diman966" creationdate="20171116T200400Z">
+        <seg>&amp;Ніколи</seg>
       </tuv>
     </tu>
     <tu>
@@ -12366,8 +12366,8 @@ Please try to correct the error and reload the project.</seg>
       <tuv lang="EN">
         <seg>The TMX source language ({0}) is different from the project source language ({1}).</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="Маринка" changedate="20171126T180334Z" creationid="Маринка" creationdate="20171118T211318Z">
-        <seg>Мова оригіналу TMX ({0}) не співпадає з мовою оригіналу проекту ({1}).</seg>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180218T210715Z" creationid="Маринка" creationdate="20171118T211318Z">
+        <seg>Мова оригіналу TMX ({0}) не сходиться з мовою оригіналу проекту ({1}).</seg>
       </tuv>
     </tu>
     <tu>
