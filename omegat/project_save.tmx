@@ -464,8 +464,8 @@
       <tuv lang="EN">
         <seg>&amp;Force shortcut to "f" for &lt;it pos="end"&gt; tags</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="Diman966" changedate="20180124T172712Z" creationid="Diman966" creationdate="20180124T172712Z">
-        <seg>&amp;Застосувати ярлики "f" for &lt;it pos="end"&gt; до тегів </seg>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180218T210500Z" creationid="Diman966" creationdate="20180124T172712Z">
+        <seg>&amp;Застосувати ярлики "f" for &lt;it pos="end"&gt; до теґів</seg>
       </tuv>
     </tu>
     <tu>
@@ -536,8 +536,8 @@
       <tuv lang="EN">
         <seg>&amp;Ignore type and ctype attributes when building &lt;ph&gt; tag shortcuts</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="Лера9764" changedate="20180123T180007Z" creationid="Diman966" creationdate="20180115T202040Z">
-        <seg>&amp;Ігнорувати тип атрибутів та тип їхнього вмісту під час створення &lt;ph&gt; ярликів тегів</seg>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180218T210455Z" creationid="Diman966" creationdate="20180115T202040Z">
+        <seg>&amp;Ігнорувати тип атрибутів та тип їхнього вмісту під час створення &lt;ph&gt; ярликів теґів</seg>
       </tuv>
     </tu>
     <tu>
@@ -816,8 +816,8 @@
       <tuv lang="EN">
         <seg>&amp;Preserve spaces for all tags</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="Tetiana21" changedate="20171204T215706Z" creationid="Tetiana21" creationdate="20171204T215706Z">
-        <seg>&amp;Зберігати пробіли для всіх тегів</seg>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180218T210405Z" creationid="Tetiana21" creationdate="20171204T215706Z">
+        <seg>&amp;Зберігати пробіли для всіх теґів</seg>
       </tuv>
     </tu>
     <tu>
@@ -1814,8 +1814,8 @@ The current setting is {0}MB;</seg>
       <tuv lang="EN">
         <seg>A&amp;ggregate Tags</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="Маринка" changedate="20171223T194014Z" creationid="Маринка" creationdate="20171118T212240Z">
-        <seg>А&amp;грегатні теги</seg>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180218T210409Z" creationid="Маринка" creationdate="20171118T212240Z">
+        <seg>А&amp;грегатні теґи</seg>
       </tuv>
     </tu>
     <tu>
@@ -4913,8 +4913,8 @@ project_save.tmx не був завантажений, а SVN перейшов �
       <tuv lang="EN">
         <seg>Error in file</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="Лера9764" changedate="20171121T145719Z" creationid="Diman966" creationdate="20171116T200756Z">
-        <seg>Помилка файлу</seg>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180218T210536Z" creationid="Diman966" creationdate="20171116T200756Z">
+        <seg>Помилка в файлі</seg>
       </tuv>
     </tu>
     <tu>
@@ -6391,8 +6391,8 @@ their defaults as a result of the location change.</seg>
       <tuv lang="EN">
         <seg>Ignore type and ctype attributes when building &lt;&amp;bpt&gt; and &lt;ept&gt; tag shortcuts</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="olexandr" changedate="20180217T092928Z" creationid="Diman966" creationdate="20180115T202205Z">
-        <seg>Ігнорувати тип атрибутів та тип їхнього вмісту при побудові &lt;&amp;bpt&gt; та &lt;ept&gt;ярликів тегів</seg>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180218T210443Z" creationid="Diman966" creationdate="20180115T202205Z">
+        <seg>Ігнорувати тип атрибутів та тип їхнього вмісту при побудові &lt;&amp;bpt&gt; та &lt;ept&gt; ярликів теґів</seg>
       </tuv>
     </tu>
     <tu>
@@ -8609,8 +8609,8 @@ translation leveraging into updated projects.</seg>
       <tuv lang="EN">
         <seg>OmegaT is a free and open source multiplatform Computer Assisted Translation tool with fuzzy matching, translation memory, keyword search, glossaries, and translation leveraging into updated projects.</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="Лера9764" changedate="20180103T151528Z" creationid="Diman966" creationdate="20171116T201526Z">
-        <seg>OmegaT це безкоштовний та відкритий мультиплатформенний інструмент для автоматизованого перекладу, який підтримує нечіткі збіги, пам'ять перекладу, пошук ключових слів, глосарії та використання перекладу в оновлених проектах.</seg>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180218T210336Z" creationid="Diman966" creationdate="20171116T201526Z">
+        <seg>OmegaT — це безкоштовний та відкритий мультиплатформенний інструмент для автоматизованого перекладу, який підтримує нечіткі збіги, пам'ять перекладу, пошук ключових слів, глосарії та використання перекладу в оновлених проектах.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8715,16 +8715,16 @@ installed on your system.</seg>
       <tuv lang="EN">
         <seg>OmegaT version {0} ({1})</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="olexandr" changedate="20180125T211725Z" creationid="Tetiana21" creationdate="20171205T110016Z">
-        <seg>версія OmegaT {0} ({1})</seg>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180218T210352Z" creationid="Tetiana21" creationdate="20171205T110016Z">
+        <seg>Версія OmegaT {0} ({1})</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>OmegaT version {0}, update {1} ({2})</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="olexandr" changedate="20180125T211733Z" creationid="Tetiana21" creationdate="20171205T110104Z">
-        <seg>версія OmegaT {0}, оновлення {1} ({2})</seg>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180218T210348Z" creationid="Tetiana21" creationdate="20171205T110104Z">
+        <seg>Версія OmegaT {0}, оновлення {1} ({2})</seg>
       </tuv>
     </tu>
     <tu>
@@ -11663,8 +11663,8 @@ The scope of a search is by default the project and can be set to be any files l
       <tuv lang="EN">
         <seg>Specify tag handling behaviour</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="Маринка" changedate="20171221T183927Z" creationid="Маринка" creationdate="20171221T183927Z">
-        <seg>Вкажіть дії обробки тегу </seg>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180218T210522Z" creationid="Маринка" creationdate="20171221T183927Z">
+        <seg>Вкажіть дії обробки теґу</seg>
       </tuv>
     </tu>
     <tu>
@@ -13995,8 +13995,8 @@ trouble of selecting, obtaining and installing it.</seg>
       <tuv lang="EN">
         <seg>When unavailable, the ID will be used as a fallback</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="Diman966" changedate="20180124T113805Z" creationid="Маринка" creationdate="20171223T192813Z">
-        <seg>Коли недоступний, ідентифікатор буде використовуватися як резервний </seg>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180218T210510Z" creationid="Маринка" creationdate="20171223T192813Z">
+        <seg>Коли недоступний, ідентифікатор буде використовуватися як резервний</seg>
       </tuv>
     </tu>
     <tu>
