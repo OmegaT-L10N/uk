@@ -1724,10 +1724,34 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;p0&gt;Dictionaries&lt;/p0&gt; &lt;s1&gt;Britannica&lt;/s1&gt;</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180218T214018Z" creationid="olexandr" creationdate="20180218T214018Z">
+        <seg>&lt;p0&gt;Словники&lt;/p0&gt; &lt;s1&gt;Britannica&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;p0&gt;Dictionaries&lt;/p0&gt; &lt;s1&gt;Downloading and installing&lt;/s1&gt;</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="olexandr" changedate="20180218T212004Z" creationid="olexandr" creationdate="20180218T212004Z">
         <seg>&lt;p0&gt;Словники&lt;/p0&gt; &lt;s1&gt;Завантаження та встановлення&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;p0&gt;Dictionaries&lt;/p0&gt; &lt;s1&gt;Longman&lt;/s1&gt;</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180218T214012Z" creationid="olexandr" creationdate="20180218T214012Z">
+        <seg>&lt;p0&gt;Словники&lt;/p0&gt; &lt;s1&gt;Longman&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;p0&gt;Dictionaries&lt;/p0&gt; &lt;s1&gt;Merriam Webster&lt;/s1&gt; &lt;s2&gt;Dictionaries&lt;/s2&gt;</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180218T214116Z" creationid="olexandr" creationdate="20180218T214116Z">
+        <seg>&lt;p0&gt;Словники&lt;/p0&gt; &lt;s1&gt;Мерріам-Вебстер&lt;/s1&gt; &lt;s2&gt;Словники&lt;/s2&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -8359,8 +8383,8 @@ inside the configuration folder.</seg>
       <tuv lang="EN">
         <seg>Note that in addition to "source-target" dictionaries you can, using the Dictionary feature, obtain access to information such as:</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="olexandr" changedate="20180218T213526Z" creationid="olexandr" creationdate="20180218T213526Z">
-        <seg>Майте на увазі, окрім словників типу "source-target" ви можете використовувати наступні можливості функції словника, такі як:</seg>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180218T214001Z" creationid="olexandr" creationdate="20180218T213526Z">
+        <seg>Майте на увазі, за допомогою функції словника, окрім звичайних словників типу "source-target", ви можете отримувати доступ до такої інформації:</seg>
       </tuv>
     </tu>
     <tu>
@@ -14599,6 +14623,14 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="olexandr" changedate="20180216T153825Z" creationid="nessyk" creationdate="20180123T135701Z">
         <seg>завершено ({0} мс закінчився)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>etc...</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180218T214027Z" creationid="olexandr" creationdate="20180218T214027Z">
+        <seg>та інше…</seg>
       </tuv>
     </tu>
     <tu>
