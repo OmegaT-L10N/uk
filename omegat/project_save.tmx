@@ -6257,8 +6257,8 @@ project_save.tmx не був завантажений, а SVN перейшов �
       <tuv lang="EN">
         <seg>If HTML file has the encoding declaration, it will be used disregarding any value you set in this dialog.</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="Маринка" changedate="20180131T191816Z" creationid="Лера9764" creationdate="20180123T172357Z">
-        <seg>Якщо у файлі HTML є декларація кодування, то вона буде застосована, незважаючи на значення, яке ви вказали в цьому діалоговому вікні. </seg>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180218T211253Z" creationid="Лера9764" creationdate="20180123T172357Z">
+        <seg>Якщо у файлі HTML вказано кодування, то його буде застосовано, не зважаючи на значення, яке ви вказали в цьому діалоговому вікні.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9232,8 +9232,8 @@ additional steps need to be taken.</seg>
       <tuv lang="EN">
         <seg>Please correct the tag issues before using again Create Translated Documents.</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="olexandr" changedate="20180125T204234Z" creationid="Маринка" creationdate="20171101T204507Z">
-        <seg>Будь ласка, виправте проблеми із тегами перед використанням "Створення перекладених документів".</seg>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180218T210934Z" creationid="Маринка" creationdate="20171101T204507Z">
+        <seg>Будь ласка, виправте проблеми із теґами перед використанням «Створити перекладені документи».</seg>
       </tuv>
     </tu>
     <tu>
