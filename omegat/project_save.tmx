@@ -1417,10 +1417,10 @@ To add files to the project, click on the Copy Files to Source Folder... button 
 		Source- or target-language tokenizer to use (overrides project
 		settings).</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="olexandr" changedate="20180217T125238Z" creationid="Маринка" creationdate="20171025T174418Z">
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180218T211358Z" creationid="Маринка" creationdate="20171025T174418Z">
         <seg>--ITokenizer=&lt;ім'я класу&gt;
 	--ITokenizerTarget=&lt;ім'я класу&gt;
-		Використати токенізатор мови оригіналу чи перекладу 
+		Використати токенізатор мови оригіналу чи перекладу
 		(параметри, вказані у проекті, не беруться до уваги).</seg>
       </tuv>
     </tu>
@@ -12499,8 +12499,8 @@ in /lib/licenses/Licenses.txt.</seg>
       <tuv lang="EN">
         <seg>The passwords don't match.</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="nessyk" changedate="20171026T180754Z" creationid="nessyk" creationdate="20171026T180754Z">
-        <seg>Паролі не співпадають.</seg>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180218T211431Z" creationid="nessyk" creationdate="20171026T180754Z">
+        <seg>Паролі не сходяться.</seg>
       </tuv>
     </tu>
     <tu>
