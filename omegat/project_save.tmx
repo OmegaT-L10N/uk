@@ -3071,10 +3071,26 @@ may experience unexpected, but correct behaviour.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Check in &lt;m0&gt; &lt;s1&gt; &lt;k2&gt; &lt;k3&gt;&lt;i4/&gt;Ctrl&lt;/k3&gt; &lt;k5&gt;E&lt;/k5&gt; &lt;/k2&gt; &lt;/s1&gt; &lt;g6&gt;Project&lt;/g6&gt; &lt;g7&gt;Properties&lt;/g7&gt; &lt;/m0&gt;.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180218T215116Z" creationid="olexandr" creationdate="20180218T215116Z">
+        <seg>Перевірте в &lt;m0&gt; &lt;s1&gt; &lt;k2&gt; &lt;k3&gt;&lt;i4/&gt;Ctrl&lt;/k3&gt; &lt;k5&gt;E&lt;/k5&gt; &lt;/k2&gt; &lt;/s1&gt; &lt;g6&gt;Проект&lt;/g6&gt; &lt;g7&gt;Властивості&lt;/g7&gt; &lt;/m0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Check simple &amp;java MessageFormat patterns (e.g. {0})</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="olexandr" changedate="20180218T205825Z" creationid="Diman966" creationdate="20180123T161715Z">
         <seg>Перевірити прості &amp;шаблони java MessageFormat (наприклад, {0})</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Check that your dict files are in the correct folder (or in a subfolder below it).</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180218T215045Z" creationid="olexandr" creationdate="20180218T215045Z">
+        <seg>Перевірте, що файли словників розташовані в правильній теці (чи підтеці).</seg>
       </tuv>
     </tu>
     <tu>
@@ -4385,6 +4401,14 @@ may experience unexpected, but correct behaviour.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20170918T163109Z" creationid="Kos Ivantsov" creationdate="20170918T163109Z">
         <seg>Документація</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Does the folder contain three files of the same name, with extensions?</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180218T215224Z" creationid="olexandr" creationdate="20180218T215224Z">
+        <seg>Чи містить тека три файли з однаковим імʼям та різним розширенням?</seg>
       </tuv>
     </tu>
     <tu>
@@ -6401,6 +6425,14 @@ project_save.tmx не був завантажений, а SVN перейшов �
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If it is &lt;e0&gt;tar.bz&lt;/e0&gt;, you have forgotten to unpack (untar) it.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180218T215316Z" creationid="olexandr" creationdate="20180218T215316Z">
+        <seg>Якщо це &lt;e0&gt;tar.bz&lt;/e0&gt;, ви забули його розпакувати.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If later access to the desired location is granted
 that location will be used and all settings will return to
 their defaults as a result of the location change.</seg>
@@ -6409,6 +6441,14 @@ their defaults as a result of the location change.</seg>
         <seg>Якщо пізніше доступ до потрібного місця буде надано,
 це місце розташування буде використано, і всі налаштування повернуться до
 налаштувань за замовчуванням в результаті зміни місця розташування.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If only one file is present, check its extension.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180218T215251Z" creationid="olexandr" creationdate="20180218T215251Z">
+        <seg>Якщо там лише один, перевірте його розширення.</seg>
       </tuv>
     </tu>
     <tu>
