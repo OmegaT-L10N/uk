@@ -6471,8 +6471,8 @@ their defaults as a result of the location change.</seg>
       <tuv lang="EN">
         <seg>Include the &amp;first non-unique segment when marking non-unique segments</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="Лера9764" changedate="20180125T161014Z" creationid="nessyk" creationdate="20171205T172841Z">
-        <seg>Увімкніть &amp;перший не унікальний сегмент, під час позначення не унікальних сегментів </seg>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180218T210051Z" creationid="nessyk" creationdate="20171205T172841Z">
+        <seg>Увімкніть &amp;перший не унікальний сегмент, під час позначення не унікальних сегментів</seg>
       </tuv>
     </tu>
     <tu>
@@ -11383,8 +11383,8 @@ The scope of a search is by default the project and can be set to be any files l
       <tuv lang="EN">
         <seg>Skip text matching regular expression:</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="Маринка" changedate="20180104T185142Z" creationid="Маринка" creationdate="20180104T185142Z">
-        <seg>Пропустити текст, який співпадає з регулярним виразом:</seg>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180218T210215Z" creationid="Маринка" creationdate="20180104T185142Z">
+        <seg>Пропустити текст, який збігається з регулярним виразом:</seg>
       </tuv>
     </tu>
     <tu>
