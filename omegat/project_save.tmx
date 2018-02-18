@@ -1756,6 +1756,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;p0&gt;Dictionaries&lt;/p0&gt; &lt;s1&gt;Problems with&lt;/s1&gt;</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180218T214205Z" creationid="olexandr" creationdate="20180218T214205Z">
+        <seg>&lt;p0&gt;Словники&lt;/p0&gt; &lt;s1&gt;Проблеми&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;p0&gt;Dictionaries&lt;/p0&gt; &lt;s1&gt;StarDict&lt;/s1&gt;</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="olexandr" changedate="20180218T212435Z" creationid="olexandr" creationdate="20180218T212435Z">
@@ -7817,6 +7825,14 @@ inside the configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Merriam Webster dictionary - use</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180218T214146Z" creationid="olexandr" creationdate="20180218T214146Z">
+        <seg>Словник Мерріам-Вебстер - використання</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Microsoft Open XML</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="nessyk" changedate="20180123T121727Z" creationid="nessyk" creationdate="20180123T121727Z">
@@ -9652,6 +9668,14 @@ project without team functionality.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="olexandr" changedate="20180217T125947Z" creationid="Маринка" creationdate="20171101T215338Z">
         <seg>Проблема виникла при завантаженні файлу проекту!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Problems with dictionaries</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180218T214216Z" creationid="olexandr" creationdate="20180218T214216Z">
+        <seg>Проблеми з словниками</seg>
       </tuv>
     </tu>
     <tu>
@@ -12522,6 +12546,14 @@ instead.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="olexandr" changedate="20180217T095806Z" creationid="nessyk" creationdate="20171102T205820Z">
         <seg>Файл типу «{0}» не підтримується.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The following example shows Merriam Webster 10th dictionary "in action":</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180218T214352Z" creationid="olexandr" creationdate="20180218T214352Z">
+        <seg>Нижче показано приклад використання словника Мерріам-Вебстера 10-видання «в дії»:</seg>
       </tuv>
     </tu>
     <tu>
