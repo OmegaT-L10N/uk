@@ -4015,8 +4015,8 @@ may experience unexpected, but correct behaviour.</seg>
       <tuv lang="EN">
         <seg>Display &amp;None</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="olexandr" changedate="20180218T204036Z" creationid="Tetiana21" creationdate="20171118T143043Z">
-        <seg>Показувати: &amp;Жоден</seg>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180218T204218Z" creationid="Tetiana21" creationdate="20171118T143043Z">
+        <seg>&amp;Нічого на показувати</seg>
       </tuv>
     </tu>
     <tu>
@@ -4087,8 +4087,8 @@ may experience unexpected, but correct behaviour.</seg>
       <tuv lang="EN">
         <seg>Displays alternative translations that you have created for segments that are repeated in the project.</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="Tetiana21" changedate="20171210T155422Z" creationid="nessyk" creationdate="20171126T112941Z">
-        <seg>Відображає альтернативні переклади, які ви створили для сегментів, що повторюються в проекті.</seg>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180218T204244Z" creationid="nessyk" creationdate="20171126T112941Z">
+        <seg>Показує альтернативні переклади, які ви створили для сегментів, що повторюються в проекті.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4111,8 +4111,8 @@ may experience unexpected, but correct behaviour.</seg>
       <tuv lang="EN">
         <seg>Displays the entries as "&lt;target&gt; → &lt;source&gt;"</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="olexandr" changedate="20180216T151915Z" creationid="nessyk" creationdate="20171113T214551Z">
-        <seg>Відображає записи як «&lt;переклад&gt; → &lt;оригінал&gt;»</seg>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180218T204316Z" creationid="nessyk" creationdate="20171113T214551Z">
+        <seg>Показує записи як «&lt;переклад&gt; → &lt;оригінал&gt;»</seg>
       </tuv>
     </tu>
     <tu>
@@ -7731,8 +7731,8 @@ inside the configuration folder.</seg>
       <tuv lang="EN">
         <seg>Modification Info/Display None</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="Лера9764" changedate="20171215T211600Z" creationid="Лера9764" creationdate="20171215T211600Z">
-        <seg>Інформація про модифікацію/Не відображати</seg>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180218T204407Z" creationid="Лера9764" creationdate="20171215T211600Z">
+        <seg>Інформація про модифікацію/Не показувати</seg>
       </tuv>
     </tu>
     <tu>
@@ -9232,8 +9232,8 @@ additional steps need to be taken.</seg>
       <tuv lang="EN">
         <seg>Please restart the application to correctly display the new colours.</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="nessyk" changedate="20171106T221038Z" creationid="nessyk" creationdate="20171106T221038Z">
-        <seg>Будь ласка, перезапустіть програму, щоб правильно відображати нові кольори.</seg>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180218T204329Z" creationid="nessyk" creationdate="20171106T221038Z">
+        <seg>Будь ласка, перезапустіть програму, щоб правильно показувати нові кольори.</seg>
       </tuv>
     </tu>
     <tu>
