@@ -4055,8 +4055,8 @@ may experience unexpected, but correct behaviour.</seg>
       <tuv lang="EN">
         <seg>Display context description for TBX &amp;glossaries</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="Маринка" changedate="20171209T213848Z" creationid="Маринка" creationdate="20171126T165141Z">
-        <seg>Відображення контекстного опису для &amp;глосаріїв TBX</seg>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180218T203413Z" creationid="Маринка" creationdate="20171126T165141Z">
+        <seg>Показ контекстного опису для &amp;глосаріїв TBX</seg>
       </tuv>
     </tu>
     <tu>
@@ -5393,8 +5393,8 @@ project_save.tmx не був завантажений, а SVN перейшов �
       <tuv lang="EN">
         <seg>File Filters</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="Лера9764" changedate="20171105T155200Z" creationid="Лера9764" creationdate="20171105T155200Z">
-        <seg>Фільтри файлу</seg>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180218T203225Z" creationid="Лера9764" creationdate="20171105T155200Z">
+        <seg>Фільтри файлів</seg>
       </tuv>
     </tu>
     <tu>
@@ -13791,8 +13791,8 @@ on line {1}, column {2}.</seg>
       <tuv lang="EN">
         <seg>View or edit file filters.</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="Лера9764" changedate="20171105T155236Z" creationid="Лера9764" creationdate="20171105T155236Z">
-        <seg>Переглянути чи редагувати фільтри файлу.</seg>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180218T203237Z" creationid="Лера9764" creationdate="20171105T155236Z">
+        <seg>Переглянути чи редагувати фільтри файлів.</seg>
       </tuv>
     </tu>
     <tu>
