@@ -11533,6 +11533,14 @@ The scope of a search is by default the project and can be set to be any files l
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Some of the dictionaries have no strings attached - i.e. are "Free to use", and others, like the selection above, are under the GPL license.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180218T214851Z" creationid="olexandr" creationdate="20180218T214851Z">
+        <seg>Деякі словники не є вільними для використання, та інші, такі як наведені вище, видані під ліцензією GPL.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Some project folders seem to have been moved.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Маринка" changedate="20180131T191309Z" creationid="Маринка" creationdate="20171118T192630Z">
