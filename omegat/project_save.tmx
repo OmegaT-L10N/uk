@@ -1686,8 +1686,8 @@ The current setting is {0}MB;</seg>
       <tuv lang="EN">
         <seg>&lt;html&gt;Per-project external commands are disabled and will not be executed.</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="Лера9764" changedate="20180103T145808Z" creationid="Маринка" creationdate="20171114T215215Z">
-        <seg>&lt;html&gt;Зовнішні команди в проекті відключені та не виконуються.</seg>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180218T205105Z" creationid="Маринка" creationdate="20171114T215215Z">
+        <seg>&lt;html&gt;Зовнішні команди в проекті вимкнуті та не виконуються.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3967,8 +3967,8 @@ may experience unexpected, but correct behaviour.</seg>
       <tuv lang="EN">
         <seg>Dictionaries already installed:</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="nessyk" changedate="20171129T183621Z" creationid="nessyk" creationdate="20171129T183621Z">
-        <seg>Словники вже встановлені:</seg>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180218T205328Z" creationid="nessyk" creationdate="20171129T183621Z">
+        <seg>Встановлені словники:</seg>
       </tuv>
     </tu>
     <tu>
@@ -5265,8 +5265,8 @@ project_save.tmx не був завантажений, а SVN перейшов �
       <tuv lang="EN">
         <seg>External Post-processing Command (Disabled):</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="Маринка" changedate="20171204T162409Z" creationid="Маринка" creationdate="20171114T215111Z">
-        <seg>Команда зовнішньої подальшої обробки (відключена):</seg>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180218T205047Z" creationid="Маринка" creationdate="20171114T215111Z">
+        <seg>Команда зовнішньої подальшої обробки (Вимкнута):</seg>
       </tuv>
     </tu>
     <tu>
@@ -7153,8 +7153,8 @@ inside the configuration folder.</seg>
       <tuv lang="EN">
         <seg>LanguageTool will be disabled until the project is closed.</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="olexandr" changedate="20180217T093328Z" creationid="nessyk" creationdate="20171129T185329Z">
-        <seg>LanguageTool буде відключено до закриття проекту.</seg>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180218T205155Z" creationid="nessyk" creationdate="20171129T185329Z">
+        <seg>LanguageTool буде вимкнуто до закриття проекту.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9658,8 +9658,8 @@ project without team functionality.</seg>
       <tuv lang="EN">
         <seg>Project commands are disabled for security reasons.</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="nessyk" changedate="20171025T183923Z" creationid="nessyk" creationdate="20171025T183923Z">
-        <seg>Команди проекту відключені з міркувань безпеки.</seg>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180218T205137Z" creationid="nessyk" creationdate="20171025T183923Z">
+        <seg>Команди проекту вимкнуті з міркувань безпеки.</seg>
       </tuv>
     </tu>
     <tu>
