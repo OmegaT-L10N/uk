@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="ОмегаТ-4.1.3" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.3_2_ad1aaa5ea" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -11271,8 +11271,8 @@ The scope of a search is by default the project and can be set to be any files l
       <tuv lang="EN">
         <seg>Show Replace Search Bar</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="nessyk" changedate="20180123T130151Z" creationid="Маринка" creationdate="20171209T194513Z">
-        <seg>Показати заміну панелі пошуку</seg>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180218T202818Z" creationid="Маринка" creationdate="20171209T194513Z">
+        <seg>Показати панель пошуку та заміни</seg>
       </tuv>
     </tu>
     <tu>
