@@ -1724,6 +1724,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;p0&gt;Dictionaries&lt;/p0&gt; &lt;s1&gt;Downloading and installing&lt;/s1&gt;</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180218T212004Z" creationid="olexandr" creationdate="20180218T212004Z">
+        <seg>&lt;p0&gt;Словники&lt;/p0&gt; &lt;s1&gt;Завантаження та встановлення&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;p0&gt;Menu Project&lt;/p0&gt; &lt;s1&gt;New...&lt;/s1&gt;</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="olexandr" changedate="20180130T221419Z" creationid="olexandr" creationdate="20180125T220218Z">
@@ -3965,10 +3973,26 @@ may experience unexpected, but correct behaviour.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Dictionaries</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180218T211940Z" creationid="olexandr" creationdate="20180218T211940Z">
+        <seg>Словники</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Dictionaries already installed:</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="olexandr" changedate="20180218T205328Z" creationid="nessyk" creationdate="20171129T183621Z">
         <seg>Встановлені словники:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Dictionaries in &lt;a0&gt;OmegaT&lt;/a0&gt; are based on the StarDict or on the Lingvo DSL format.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180218T212133Z" creationid="olexandr" creationdate="20180218T212133Z">
+        <seg>Словники в &lt;a0&gt;OmegaT&lt;/a0&gt; використовують формат, який оснований на StarDict чи Lingvo DSL.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6179,6 +6203,14 @@ project_save.tmx не був завантажений, а SVN перейшов �
       </tuv>
       <tuv lang="UK-UA" changeid="Tetiana21" changedate="20171210T121059Z" creationid="nessyk" creationdate="20171113T220428Z">
         <seg>Підказки з історії</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>How to download and install dictionaries</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180218T212026Z" creationid="olexandr" creationdate="20180218T212026Z">
+        <seg>Як завантажити та встановити словники</seg>
       </tuv>
     </tu>
     <tu>
