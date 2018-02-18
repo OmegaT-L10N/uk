@@ -1264,8 +1264,8 @@
       <tuv lang="EN">
         <seg>&amp;Validate tags when leaving a segment</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="Лера9764" changedate="20171226T113841Z" creationid="nessyk" creationdate="20171202T195918Z">
-        <seg>Пе&amp;ревірити теги при переході до іншого сегмента</seg>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180218T204819Z" creationid="nessyk" creationdate="20171202T195918Z">
+        <seg>Пе&amp;ревірити теґи при переході до іншого сегмента</seg>
       </tuv>
     </tu>
     <tu>
@@ -2158,8 +2158,8 @@ The current setting is {0}MB;</seg>
       <tuv lang="EN">
         <seg>Allo&amp;w tag editing</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="nessyk" changedate="20171202T195815Z" creationid="nessyk" creationdate="20171202T195815Z">
-        <seg>Дозволит&amp;и редагування тегів</seg>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180218T204809Z" creationid="nessyk" creationdate="20171202T195815Z">
+        <seg>Дозволит&amp;и редагування теґів</seg>
       </tuv>
     </tu>
     <tu>
@@ -4063,8 +4063,8 @@ may experience unexpected, but correct behaviour.</seg>
       <tuv lang="EN">
         <seg>Disable rule “{0}”</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="olexandr" changedate="20180216T152134Z" creationid="nessyk" creationdate="20171030T171904Z">
-        <seg>Відключити правило «{0}»</seg>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180218T204926Z" creationid="nessyk" creationdate="20171030T171904Z">
+        <seg>Вимкнути правило «{0}»</seg>
       </tuv>
     </tu>
     <tu>
