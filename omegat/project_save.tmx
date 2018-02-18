@@ -3741,6 +3741,78 @@ may experience unexpected, but correct behaviour.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Ctrl+1</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180218T204444Z" creationid="olexandr" creationdate="20180218T204444Z">
+        <seg>Ctrl+1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Ctrl+2</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180218T204440Z" creationid="olexandr" creationdate="20180218T204440Z">
+        <seg>Ctrl+2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Ctrl+3</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180218T204435Z" creationid="olexandr" creationdate="20180218T204435Z">
+        <seg>Ctrl+3</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Ctrl+4</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180218T204431Z" creationid="olexandr" creationdate="20180218T204431Z">
+        <seg>Ctrl+4</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Ctrl+5</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180218T204427Z" creationid="olexandr" creationdate="20180218T204427Z">
+        <seg>Ctrl+5</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Ctrl+K</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180218T204505Z" creationid="olexandr" creationdate="20180218T204505Z">
+        <seg>Ctrl+K</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Ctrl+Shift+F</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180218T204509Z" creationid="olexandr" creationdate="20180218T204509Z">
+        <seg>Ctrl+Shift+F</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Ctrl+↑</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180218T204452Z" creationid="olexandr" creationdate="20180218T204452Z">
+        <seg>Ctrl+↑</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Ctrl+↓</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180218T204448Z" creationid="olexandr" creationdate="20180218T204448Z">
+        <seg>Ctrl+↓</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Current memory usage by the VM: {0}MB; of which free memory: {1}MB; maximum available: {2}MB</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Лера9764" changedate="20180124T084955Z" creationid="Маринка" creationdate="20171118T195015Z">
@@ -4023,8 +4095,8 @@ may experience unexpected, but correct behaviour.</seg>
       <tuv lang="EN">
         <seg>Display &amp;Source Segments</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="Лера9764" changedate="20171209T185012Z" creationid="Tetiana21" creationdate="20171118T130623Z">
-        <seg>Відобразити &amp;сегменти з текстом оригіналу</seg>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180218T204631Z" creationid="Tetiana21" creationdate="20171118T130623Z">
+        <seg>Показати &amp;сегменти з текстом оригіналу</seg>
       </tuv>
     </tu>
     <tu>
@@ -4079,8 +4151,8 @@ may experience unexpected, but correct behaviour.</seg>
       <tuv lang="EN">
         <seg>Display:</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="Лера9764" changedate="20171215T212325Z" creationid="Tetiana21" creationdate="20171105T183354Z">
-        <seg>Відображати:</seg>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180218T204637Z" creationid="Tetiana21" creationdate="20171105T183354Z">
+        <seg>Показати:</seg>
       </tuv>
     </tu>
     <tu>
@@ -7555,8 +7627,8 @@ inside the configuration folder.</seg>
       <tuv lang="EN">
         <seg>Match display template</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="nessyk" changedate="20171202T201316Z" creationid="nessyk" creationdate="20171202T201316Z">
-        <seg>Відобразити відповідний шаблон</seg>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180218T204557Z" creationid="nessyk" creationdate="20171202T201316Z">
+        <seg>Показувати відповідний шаблон</seg>
       </tuv>
     </tu>
     <tu>
@@ -11197,6 +11269,14 @@ The scope of a search is by default the project and can be set to be any files l
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Shift+F3</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180218T204459Z" creationid="olexandr" creationdate="20180218T204459Z">
+        <seg>Shift+F3</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Shortcut</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="nessyk" changedate="20171025T184346Z" creationid="nessyk" creationdate="20171025T183151Z">
@@ -14559,8 +14639,8 @@ create its configuration folder.</seg>
       <tuv lang="EN">
         <seg>trilead-ssh2 (Trilead SSH license)</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="Tetiana21" changedate="20171205T173223Z" creationid="Tetiana21" creationdate="20171205T173223Z">
-        <seg>trilead-ssh2 (ліцензія Trilead SSH )</seg>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180218T204715Z" creationid="Tetiana21" creationdate="20171205T173223Z">
+        <seg>trilead-ssh2 (ліцензія Trilead SSH)</seg>
       </tuv>
     </tu>
     <tu>
