@@ -184,16 +184,16 @@
       <tuv lang="EN">
         <seg>&amp;Browse</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="Маринка" changedate="20171114T215228Z" creationid="Маринка" creationdate="20171114T215228Z">
-        <seg>&amp;Пошук</seg>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180219T190812Z" creationid="Маринка" creationdate="20171114T215228Z">
+        <seg>&amp;Огляд</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>&amp;Browse Online</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="Лера9764" changedate="20171117T163449Z" creationid="nessyk" creationdate="20171026T174457Z">
-        <seg>&amp;Пошук онлайн</seg>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180219T190939Z" creationid="nessyk" creationdate="20171026T174457Z">
+        <seg>&amp;Переглянути онлайн</seg>
       </tuv>
     </tu>
     <tu>
@@ -2769,8 +2769,8 @@ may experience unexpected, but correct behaviour.</seg>
       <tuv lang="EN">
         <seg>B&amp;rowse</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="Лера9764" changedate="20171117T163539Z" creationid="Лера9764" creationdate="20171117T163539Z">
-        <seg>П&amp;ошук</seg>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180219T190820Z" creationid="Лера9764" creationdate="20171117T163539Z">
+        <seg>&amp;Огляд</seg>
       </tuv>
     </tu>
     <tu>
@@ -2881,32 +2881,32 @@ may experience unexpected, but correct behaviour.</seg>
       <tuv lang="EN">
         <seg>Bro&amp;wse</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="Лера9764" changedate="20171117T163549Z" creationid="Лера9764" creationdate="20171117T163549Z">
-        <seg>По&amp;шук</seg>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180219T190826Z" creationid="Лера9764" creationdate="20171117T163549Z">
+        <seg>Ог&amp;ляд</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Brows&amp;e</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="Лера9764" changedate="20171117T163607Z" creationid="Лера9764" creationdate="20171117T163607Z">
-        <seg>Пошу&amp;к</seg>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180219T190839Z" creationid="Лера9764" creationdate="20171117T163607Z">
+        <seg>Огля&amp;д</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Browse</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="Лера9764" changedate="20171117T163556Z" creationid="Маринка" creationdate="20171106T204931Z">
-        <seg>Пошук</seg>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180219T190832Z" creationid="Маринка" creationdate="20171106T204931Z">
+        <seg>Огляд</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Browse...</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="olexandr" changedate="20180216T152822Z" creationid="nessyk" creationdate="20171102T205822Z">
-        <seg>Пошук…</seg>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180219T190912Z" creationid="nessyk" creationdate="20171102T205822Z">
+        <seg>Огляд…</seg>
       </tuv>
     </tu>
     <tu>
@@ -10834,8 +10834,8 @@ project without team functionality.</seg>
       <tuv lang="EN">
         <seg>Remove Ta&amp;gs</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="Маринка" changedate="20171106T204901Z" creationid="Маринка" creationdate="20171106T204901Z">
-        <seg>Замінити те&amp;ги</seg>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180219T191547Z" creationid="Маринка" creationdate="20171106T204901Z">
+        <seg>Вилучити те&amp;ґи</seg>
       </tuv>
     </tu>
     <tu>
@@ -13076,8 +13076,8 @@ current folder will be used instead.</seg>
       <tuv lang="EN">
         <seg>The Java Resource Bundles filter threw an exception:</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="Diman966" changedate="20180124T113300Z" creationid="Diman966" creationdate="20180124T113226Z">
-        <seg>Фільтр компонентів ресурсів Java згенерував виняток: </seg>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180219T191724Z" creationid="Diman966" creationdate="20180124T113226Z">
+        <seg>Фільтр компонентів ресурсів Java згенерував виняток:</seg>
       </tuv>
     </tu>
     <tu>
