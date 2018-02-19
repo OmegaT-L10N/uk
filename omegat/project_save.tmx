@@ -1396,6 +1396,14 @@ To add files to the project, click on the Copy Files to Source Folder... button 
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>, one can find:</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180219T001024Z" creationid="olexandr" creationdate="20180219T001024Z">
+        <seg>, є наступне:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>---- Localization Notes ----</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Лера9764" changedate="20171205T063807Z" creationid="Маринка" creationdate="20171118T211834Z">
@@ -1668,6 +1676,22 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;c0&gt;&lt;event&gt;&lt;/c0&gt; can be: &lt;e1&gt;typed&lt;/e1&gt;, &lt;e2&gt;pressed&lt;/e2&gt;, &lt;e3&gt;released&lt;/e3&gt;</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180219T000619Z" creationid="olexandr" creationdate="20180219T000619Z">
+        <seg>&lt;c0&gt;&lt;подія&gt;&lt;/c0&gt; має значення: &lt;e1&gt;typed&lt;/e1&gt;, &lt;e2&gt;pressed&lt;/e2&gt;, &lt;e3&gt;released&lt;/e3&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;c0&gt;&lt;modifier&gt;&lt;/c0&gt; can be: &lt;e1&gt;shift&lt;/e1&gt;, &lt;e2&gt;control&lt;/e2&gt;, &lt;e3&gt;ctrl&lt;/e3&gt;, &lt;e4&gt;meta&lt;/e4&gt;</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180219T000450Z" creationid="olexandr" creationdate="20180219T000450Z">
+        <seg>&lt;c0&gt;&lt;модифікатор&gt;&lt;/c0&gt; приймає значення: &lt;e1&gt;shift&lt;/e1&gt;, &lt;e2&gt;control&lt;/e2&gt;, &lt;e3&gt;ctrl&lt;/e3&gt;, &lt;e4&gt;meta&lt;/e4&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;c0&gt;projectOpenMenuItem=shift ctrl O&lt;/c0&gt;.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="olexandr" changedate="20180218T235344Z" creationid="olexandr" creationdate="20180218T235344Z">
@@ -1872,6 +1896,14 @@ The current setting is {0}MB;</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="olexandr" changedate="20180125T221550Z" creationid="olexandr" creationdate="20180125T221550Z">
         <seg>&lt;r0&gt;Примітка:&lt;/r0&gt; На комп'ютерах Apple Mac використовується клавіша &lt;k1&gt;Command&lt;/k1&gt; замість клавіші &lt;k2&gt;Control&lt;/k2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;shortcut&gt; must be of the following form: 0 or more &lt;c0&gt;&lt;modifier&gt;&lt;/c0&gt; followed by 0 or 1 &lt;c1&gt;&lt;event&gt;&lt;/c1&gt; followed by 1 &lt;c2&gt;&lt;key&gt;&lt;/c2&gt;, where:</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180219T000431Z" creationid="olexandr" creationdate="20180219T000431Z">
+        <seg>&lt;shortcut&gt; складається з наступних елементів: 0 чи більше елементів &lt;c0&gt;&lt;модифікатор&gt;&lt;/c0&gt; потім 0 чи 1 &lt;c1&gt;&lt;подія&gt;&lt;/c1&gt; за ним 1 &lt;c2&gt;&lt;клавіша&gt;&lt;/c2&gt;, де:</seg>
       </tuv>
     </tu>
     <tu>
@@ -6167,6 +6199,14 @@ project_save.tmx не був завантажений, а SVN перейшов �
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>For example, in the default OmegaT shortcuts</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180219T001010Z" creationid="olexandr" creationdate="20180219T000936Z">
+        <seg>Для прикладу, в типових комбінаціях OmegaT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Format:</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Лера9764" changedate="20171205T064246Z" creationid="Diman966" creationdate="20171116T195724Z">
@@ -6881,6 +6921,14 @@ their defaults as a result of the location change.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="olexandr" changedate="20180130T215351Z" creationid="olexandr" creationdate="20180130T215351Z">
         <seg>якщо покласти файл памʼяті до підтеки &lt;f6&gt;/tm/&lt;/f6&gt;, OmegaT автоматично шукатиме схожі сегменти, позначивши знайдене як «Нечіткі збіги» (fuzzy matches).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If you want to use &lt;k0&gt; &lt;k1&gt;Shift&lt;/k1&gt; &lt;k2&gt;Ctrl&lt;/k2&gt; &lt;k3&gt;O&lt;/k3&gt; &lt;/k0&gt; to open a project, modify your &lt;f4&gt;MainMenuShortcuts.properties&lt;/f4&gt; as follows:</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180219T001605Z" creationid="olexandr" creationdate="20180219T001605Z">
+        <seg>Якщо ви бажаєте використовувати &lt;k0&gt; &lt;k1&gt;Shift&lt;/k1&gt; &lt;k2&gt;Ctrl&lt;/k2&gt; &lt;k3&gt;O&lt;/k3&gt; &lt;/k0&gt; для відкриття проекту, змініть у вашому &lt;f4&gt;MainMenuShortcuts.properties&lt;/f4&gt; значення на наступне:</seg>
       </tuv>
     </tu>
     <tu>
@@ -9373,6 +9421,14 @@ installed on your system.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="olexandr" changedate="20180130T212830Z" creationid="olexandr" creationdate="20180130T212830Z">
         <seg>Проте OmegaT покаже це речення у наступному вигляді:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>On the Mac, the modifier &lt;e0&gt;meta&lt;/e0&gt; must be used to specify the &lt;e1&gt;command&lt;/e1&gt; key.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180219T000600Z" creationid="olexandr" creationdate="20180219T000600Z">
+        <seg>На системах Mac, модифікатор &lt;e0&gt;meta&lt;/e0&gt; використовується для позначення кнопки &lt;e1&gt;command&lt;/e1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13134,10 +13190,34 @@ instead.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The default OmegaT shortcuts are available from Sourceforge: &lt;u0&gt;Default OmegaT Shortcuts&lt;/u0&gt;</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180219T001158Z" creationid="olexandr" creationdate="20180219T001158Z">
+        <seg>Типові комбінації OmegaT доступні на Sourceforge: &lt;u0&gt;Типові комбінації OmegaT&lt;/u0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The default OmegaT shortcuts for the Mac are also available from Sourceforge, they all use "meta" instead of "ctrl": &lt;u0&gt;Default OmegaT Shortcuts for the Mac&lt;/u0&gt;</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180219T001328Z" creationid="olexandr" creationdate="20180219T001328Z">
+        <seg>Типові комбінації OmegaT для Mac також доступні на Sourceforge, в них замість «ctrl» використовується «meta»: &lt;u0&gt;Типові комбінації OmegaT для Mac&lt;/u0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The file "{0}" is not supported.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="olexandr" changedate="20180217T095806Z" creationid="nessyk" creationdate="20171102T205820Z">
         <seg>Файл типу «{0}» не підтримується.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The first is the shortcut for &lt;g0&gt;Open Project&lt;/g0&gt;, the second for &lt;g1&gt;Create Glossary Entry&lt;/g1&gt;.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180219T001517Z" creationid="olexandr" creationdate="20180219T001517Z">
+        <seg>Перша комбінація використовується для &lt;g0&gt;відкриття проекту&lt;/g0&gt;, друга для &lt;g1&gt;створення запису до глосарію&lt;/g1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13221,6 +13301,14 @@ in /lib/licenses/Licenses.txt.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="olexandr" changedate="20180218T211431Z" creationid="nessyk" creationdate="20171026T180754Z">
         <seg>Паролі не сходяться.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The possible keyevents (keys) are listed in the following Java 1.6 documentation from Oracle: &lt;u0&gt;Java 1.6 keyEvents description&lt;/u0&gt;</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180219T000848Z" creationid="olexandr" creationdate="20180219T000848Z">
+        <seg>Можливі події клавіш перераховані в документації Java 1.6 від Oracle: &lt;u0&gt;Java 1.6 опис комбінацій клавіш&lt;/u0&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -15279,6 +15367,14 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Tetiana21" changedate="20171105T183449Z" creationid="Tetiana21" creationdate="20171105T183449Z">
         <seg>усі відповідні сегменти</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>and &lt;c0&gt;&lt;key&gt;&lt;/c0&gt; can be any key available on your keyboard</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180219T000649Z" creationid="olexandr" creationdate="20180219T000649Z">
+        <seg>та &lt;c0&gt;&lt;клавіша&gt;&lt;/c0&gt; приймає значення будь якої клавіші на вашій клавіатурі</seg>
       </tuv>
     </tu>
     <tu>
