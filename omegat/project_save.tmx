@@ -1323,8 +1323,8 @@
         <seg>(In the user's manual, see 'Files to translate' &gt; 'File formats' for a list of supported file formats.)
 To add files to the project, click on the Copy Files to Source Folder... button in the Project Files window or call this action from the Project menu and select the source files you want to copy.</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="olexandr" changedate="20180216T151133Z" creationid="Лера9764" creationdate="20171102T184657Z">
-        <seg>(У посібнику користувача дивіться «Файли для перекладу»&gt; «Формати файлів» для списку підтримуваних форматів файлів.)
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180219T194019Z" creationid="Лера9764" creationdate="20171102T184657Z">
+        <seg>(У посібнику користувача дивіться «Файли для перекладу» &gt; «Формати файлів» для списку підтримуваних форматів файлів.)
 Щоб додати файли до проекту, натисніть «Скопіювати файли до кореневої теки…» у вікні «Файли проекту» або виконайте ці дії в меню «Проект» та виберіть файли оригіналу, які потрібно скопіювати.</seg>
       </tuv>
     </tu>
@@ -9861,9 +9861,9 @@ installed on your system.</seg>
 material in ./tm, ./glossary, and ./dictionary as required, then commit
 everything.</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="olexandr" changedate="20180217T100554Z" creationid="Лера9764" creationdate="20180103T144527Z">
-        <seg>Розташувати файли оригіналу в ./source і додатковий
-матеріал у ./tm, ./glossary, та ./dictionary як обов'язковий, потім все
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180219T193907Z" creationid="Лера9764" creationdate="20180103T144527Z">
+        <seg>Розташувати файли оригіналу в «./source» і додатковий
+матеріал у «./tm», «./glossary», та «./dictionary» як обов'язковий, потім все
 закомітити.</seg>
       </tuv>
     </tu>
@@ -11412,8 +11412,8 @@ project without team functionality.</seg>
       <tuv lang="EN">
         <seg>Saving project...</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20170902T184542Z" creationid="Kos Ivantsov" creationdate="20170902T184542Z">
-        <seg>Йде збереження проекту…</seg>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180219T194341Z" creationid="Kos Ivantsov" creationdate="20170902T184542Z">
+        <seg>Збереження проекту…</seg>
       </tuv>
     </tu>
     <tu>
