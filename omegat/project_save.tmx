@@ -296,8 +296,8 @@
       <tuv lang="EN">
         <seg>&amp;Do not check printf-variables</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="Diman966" changedate="20180123T161849Z" creationid="Diman966" creationdate="20180123T161810Z">
-        <seg>&amp;Не перевіряти змінні - printf </seg>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180219T192427Z" creationid="Diman966" creationdate="20180123T161810Z">
+        <seg>&amp;Не перевіряти змінні - printf</seg>
       </tuv>
     </tu>
     <tu>
@@ -1750,8 +1750,8 @@ The current setting is {0}MB;</seg>
       <tuv lang="EN">
         <seg>&lt;html&gt;Repository URL:&lt;/html&gt;</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="nessyk" changedate="20171121T185901Z" creationid="nessyk" creationdate="20171118T193031Z">
-        <seg>&lt;html&gt; URL - адреса репозиторію:&lt;/html&gt;</seg>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180219T192929Z" creationid="nessyk" creationdate="20171118T193031Z">
+        <seg>&lt;html&gt;URL - адреса репозиторію:&lt;/html&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -1990,8 +1990,8 @@ The current setting is {0}MB;</seg>
       <tuv lang="EN">
         <seg>API Key:</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="nessyk" changedate="20171109T202258Z" creationid="nessyk" creationdate="20171109T202258Z">
-        <seg>Ключ API :</seg>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180219T192711Z" creationid="nessyk" creationdate="20171109T202258Z">
+        <seg>Ключ API:</seg>
       </tuv>
     </tu>
     <tu>
@@ -2572,14 +2572,6 @@ The TMX file will not be loaded.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
-        <seg>Apertium</seg>
-      </tuv>
-      <tuv lang="UK-UA" changeid="nessyk" changedate="20171126T111024Z" creationid="Tetiana21" creationdate="20171116T195602Z">
-        <seg>Аперціум</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
         <seg>Appearance</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="nessyk" changedate="20171026T171629Z" creationid="nessyk" creationdate="20171026T171621Z">
@@ -3081,16 +3073,16 @@ may experience unexpected, but correct behaviour.</seg>
       <tuv lang="EN">
         <seg>Changed by</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="Tetiana21" changedate="20171105T145939Z" creationid="Tetiana21" creationdate="20171105T145939Z">
-        <seg>Змінений</seg>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180219T193151Z" creationid="Tetiana21" creationdate="20171105T145939Z">
+        <seg>Змінено</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Changed on</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="Tetiana21" changedate="20171105T145929Z" creationid="Tetiana21" creationdate="20171105T145909Z">
-        <seg>Змінений на основі</seg>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180219T193117Z" creationid="Tetiana21" creationdate="20171105T145909Z">
+        <seg>Дата зміни</seg>
       </tuv>
     </tu>
     <tu>
@@ -3887,8 +3879,8 @@ may experience unexpected, but correct behaviour.</seg>
       <tuv lang="EN">
         <seg>Created by</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="Tetiana21" changedate="20171105T145904Z" creationid="Tetiana21" creationdate="20171105T145904Z">
-        <seg>Створений </seg>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180219T193207Z" creationid="Tetiana21" creationdate="20171105T145904Z">
+        <seg>Створено</seg>
       </tuv>
     </tu>
     <tu>
@@ -3903,8 +3895,8 @@ may experience unexpected, but correct behaviour.</seg>
       <tuv lang="EN">
         <seg>Created on</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="Tetiana21" changedate="20171105T145913Z" creationid="Tetiana21" creationdate="20171105T145855Z">
-        <seg>Створений на основі </seg>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180219T193216Z" creationid="Tetiana21" creationdate="20171105T145855Z">
+        <seg>Дата створення</seg>
       </tuv>
     </tu>
     <tu>
@@ -6887,8 +6879,8 @@ their defaults as a result of the location change.</seg>
       <tuv lang="EN">
         <seg>If the filter has any options, you may change them by clicking Options.</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="olexandr" changedate="20180217T130815Z" creationid="Маринка" creationdate="20171223T201155Z">
-        <seg>Якщо фільтр має певні параметри, ви можете змінити їх, натиснувши на вкладку «Параметри».</seg>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180219T192322Z" creationid="Маринка" creationdate="20171223T201155Z">
+        <seg>Якщо фільтр має певні параметри, ви можете змінити їх, натиснувши на кнопку «Параметри».</seg>
       </tuv>
     </tu>
     <tu>
@@ -9103,8 +9095,8 @@ inside the configuration folder.</seg>
       <tuv lang="EN">
         <seg>O&amp;ptions...</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="olexandr" changedate="20180216T153634Z" creationid="Лера9764" creationdate="20171102T161038Z">
-        <seg>Оп&amp;ції…</seg>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180219T192239Z" creationid="Лера9764" creationdate="20171102T161038Z">
+        <seg>Па&amp;раметри…</seg>
       </tuv>
     </tu>
     <tu>
@@ -10185,8 +10177,8 @@ additional steps need to be taken.</seg>
         <seg>Press 'Cancel' to leave the project unmodified and load it as a local
 project without team functionality.</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="nessyk" changedate="20171121T182920Z" creationid="nessyk" creationdate="20171121T182837Z">
-        <seg>Натисніть "Скасувати", щоб залишити проект незмінним і завантажити його як локальний
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180219T192900Z" creationid="nessyk" creationdate="20171121T182837Z">
+        <seg>Натисніть «Скасувати», щоб залишити проект незмінним і завантажити його як локальний
 проект без командної функціональності.</seg>
       </tuv>
     </tu>
