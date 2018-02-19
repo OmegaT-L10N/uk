@@ -2342,8 +2342,8 @@ The current setting is {0}MB;</seg>
       <tuv lang="EN">
         <seg>Allow translated tags to be in a di&amp;fferent order</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="nessyk" changedate="20180123T151558Z" creationid="nessyk" creationdate="20180123T151558Z">
-        <seg>Дозволити перекладеним тегам бути в рі&amp;зному порядку</seg>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180219T001808Z" creationid="nessyk" creationdate="20180123T151558Z">
+        <seg>Дозволити перекладеним теґам бути в рі&amp;зному порядку</seg>
       </tuv>
     </tu>
     <tu>
@@ -3775,8 +3775,8 @@ may experience unexpected, but correct behaviour.</seg>
       <tuv lang="EN">
         <seg>Count &amp;protected text and custom tags in statistics</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="olexandr" changedate="20180217T093947Z" creationid="nessyk" creationdate="20180123T151416Z">
-        <seg>Підрахунок &amp;захищеного тексту та користувацького тегу у статистиці</seg>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180219T001824Z" creationid="nessyk" creationdate="20180123T151416Z">
+        <seg>Підрахунок &amp;захищеного тексту та користувацького теґу у статистиці</seg>
       </tuv>
     </tu>
     <tu>
@@ -4679,24 +4679,24 @@ may experience unexpected, but correct behaviour.</seg>
       <tuv lang="EN">
         <seg>Do not allow creating translated documents with tag &amp;issues</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="nessyk" changedate="20180123T151506Z" creationid="nessyk" creationdate="20180123T151506Z">
-        <seg>Не дозволяти створювати перекладені документи з проблемними тегами</seg>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180219T001820Z" creationid="nessyk" creationdate="20180123T151506Z">
+        <seg>Не дозволяти створювати перекладені документи з проблемними теґами</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Do not translate the content attribute of meta-tags with the following attribute key-value pairs (separate with commas):</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="Лера9764" changedate="20180125T160645Z" creationid="Маринка" creationdate="20180104T190838Z">
-        <seg>Не перекладати текст атрибуту, який вміщений у мета-тегах, з наступними парами ключ-значення (окремо через коми):</seg>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180219T001740Z" creationid="Маринка" creationdate="20180104T190838Z">
+        <seg>Не перекладати текст атрибуту, який вміщений у мета-теґах, з наступними парами ключ-значення (окремо через коми):</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Do not translate the content of tags with the following attribute key-value pairs (separate with commas):</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="Лера9764" changedate="20180122T154727Z" creationid="Лера9764" creationdate="20180122T154727Z">
-        <seg>Не перекладати теги з наступними парами атрибутів ключ-значення (відокремлені комами):</seg>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180219T001748Z" creationid="Лера9764" creationdate="20180122T154727Z">
+        <seg>Не перекладати теґи з наступними парами атрибутів ключ-значення (відокремлені комами):</seg>
       </tuv>
     </tu>
     <tu>
@@ -5401,8 +5401,8 @@ project_save.tmx не був завантажений, а SVN перейшов �
       <tuv lang="EN">
         <seg>Error fixing tags</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="nessyk" changedate="20171113T221415Z" creationid="nessyk" creationdate="20171113T221415Z">
-        <seg>Помилка виправлення тегів</seg>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180219T001852Z" creationid="nessyk" creationdate="20171113T221415Z">
+        <seg>Помилка виправлення теґів</seg>
       </tuv>
     </tu>
     <tu>
@@ -7103,16 +7103,16 @@ their defaults as a result of the location change.</seg>
       <tuv lang="EN">
         <seg>Insert Missing Source &amp;Tags</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="Маринка" changedate="20180124T084955Z" creationid="Маринка" creationdate="20171106T203907Z">
-        <seg>Вставити відсутні джерела та теги</seg>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180219T001701Z" creationid="Маринка" creationdate="20171106T203907Z">
+        <seg>Вставити відсутні джерела та теґи</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Insert Next Missing Tag</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="Маринка" changedate="20180124T084949Z" creationid="Маринка" creationdate="20171106T203925Z">
-        <seg>Вставити наступний відсутній тег </seg>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180219T001706Z" creationid="Маринка" creationdate="20171106T203925Z">
+        <seg>Вставити наступний відсутній теґ</seg>
       </tuv>
     </tu>
     <tu>
@@ -7127,8 +7127,8 @@ their defaults as a result of the location change.</seg>
       <tuv lang="EN">
         <seg>Insert Tag {0}</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="Tetiana21" changedate="20171118T203629Z" creationid="Kos Ivantsov" creationdate="20170418T175821Z">
-        <seg>Вставити тег {0}</seg>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180219T001709Z" creationid="Kos Ivantsov" creationdate="20170418T175821Z">
+        <seg>Вставити теґ {0}</seg>
       </tuv>
     </tu>
     <tu>
@@ -7377,8 +7377,8 @@ inside the configuration folder.</seg>
       <tuv lang="EN">
         <seg>It was not possible to create translated documents, because some tags are missing or damaged.</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="Маринка" changedate="20171026T191716Z" creationid="Маринка" creationdate="20171026T191716Z">
-        <seg>Не вдалося створити перекладені документи, оскільки деякі теги відсутні або пошкоджені.</seg>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180219T001720Z" creationid="Маринка" creationdate="20171026T191716Z">
+        <seg>Не вдалося створити перекладені документи, оскільки деякі теґи відсутні або пошкоджені.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8411,8 +8411,8 @@ inside the configuration folder.</seg>
       <tuv lang="EN">
         <seg>Missing tags</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="nessyk" changedate="20171113T220334Z" creationid="nessyk" creationdate="20171113T220334Z">
-        <seg>Пропущенні теги</seg>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180219T001911Z" creationid="nessyk" creationdate="20171113T220334Z">
+        <seg>Пропущенні теґи</seg>
       </tuv>
     </tu>
     <tu>
@@ -9984,8 +9984,8 @@ additional steps need to be taken.</seg>
       <tuv lang="EN">
         <seg>Please redo tag validation.</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="nessyk" changedate="20171118T184702Z" creationid="nessyk" creationdate="20171113T220057Z">
-        <seg>Будь ласка, перевірте тег повторно.</seg>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180219T001857Z" creationid="nessyk" creationdate="20171113T220057Z">
+        <seg>Будь ласка, перевірте теґ повторно.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10176,8 +10176,8 @@ additional steps need to be taken.</seg>
       <tuv lang="EN">
         <seg>Preserve spaces &amp;for all tags</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="Лера9764" changedate="20171102T161121Z" creationid="Лера9764" creationdate="20171102T161121Z">
-        <seg>Зберігати пробіли &amp;для всіх тегів</seg>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180219T001732Z" creationid="Лера9764" creationdate="20171102T161121Z">
+        <seg>Зберігати пробіли &amp;для всіх теґів</seg>
       </tuv>
     </tu>
     <tu>
@@ -10690,8 +10690,8 @@ project without team functionality.</seg>
       <tuv lang="EN">
         <seg>Regular expression for custom tags:</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="Лера9764" changedate="20180125T161148Z" creationid="Diman966" creationdate="20180115T202954Z">
-        <seg>Регулярний вираз для користувацьких тегів:</seg>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180219T001755Z" creationid="Diman966" creationdate="20180115T202954Z">
+        <seg>Регулярний вираз для користувацьких теґів:</seg>
       </tuv>
     </tu>
     <tu>
@@ -10810,8 +10810,8 @@ project without team functionality.</seg>
       <tuv lang="EN">
         <seg>Remove &amp;leading and trailing tags</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="Маринка" changedate="20180123T174551Z" creationid="Маринка" creationdate="20180123T174551Z">
-        <seg>Видалити &amp;початкові та кінцеві теги.</seg>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180219T001729Z" creationid="Маринка" creationdate="20180123T174551Z">
+        <seg>Видалити &amp;початкові та кінцеві теґи.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10842,8 +10842,8 @@ project without team functionality.</seg>
       <tuv lang="EN">
         <seg>Remove Tags</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="nessyk" changedate="20171101T183543Z" creationid="nessyk" creationdate="20171101T183543Z">
-        <seg>Вилучити теги</seg>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180219T001924Z" creationid="nessyk" creationdate="20171101T183543Z">
+        <seg>Вилучити теґи</seg>
       </tuv>
     </tu>
     <tu>
@@ -12777,16 +12777,16 @@ The scope of a search is by default the project and can be set to be any files l
       <tuv lang="EN">
         <seg>Tag</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="Tetiana21" changedate="20171118T203614Z" creationid="nessyk" creationdate="20171113T220829Z">
-        <seg>Тег</seg>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180219T001848Z" creationid="nessyk" creationdate="20171113T220829Z">
+        <seg>Теґ</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Tag Issues</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="nessyk" changedate="20171030T174538Z" creationid="nessyk" creationdate="20171030T172347Z">
-        <seg>Проблеми з тегами</seg>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180219T001927Z" creationid="nessyk" creationdate="20171030T172347Z">
+        <seg>Проблеми з теґами</seg>
       </tuv>
     </tu>
     <tu>
@@ -12817,24 +12817,24 @@ The scope of a search is by default the project and can be set to be any files l
       <tuv lang="EN">
         <seg>Tag validation failed</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="Лера9764" changedate="20171209T190420Z" creationid="Tetiana21" creationdate="20171105T201412Z">
-        <seg>Перевірка тегу не виконана</seg>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180219T001838Z" creationid="Tetiana21" creationdate="20171105T201412Z">
+        <seg>Перевірка теґів не виконана</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Tag:</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="Tetiana21" changedate="20171105T201205Z" creationid="Tetiana21" creationdate="20171105T201205Z">
-        <seg>Тег:</seg>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180219T001843Z" creationid="Tetiana21" creationdate="20171105T201205Z">
+        <seg>Теґ:</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Tags</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="nessyk" changedate="20171030T172036Z" creationid="nessyk" creationdate="20171030T172036Z">
-        <seg>Теги</seg>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180219T001920Z" creationid="nessyk" creationdate="20171030T172036Z">
+        <seg>Теґи</seg>
       </tuv>
     </tu>
     <tu>
@@ -14687,8 +14687,8 @@ on line {1}, column {2}.</seg>
       <tuv lang="EN">
         <seg>Validating tags</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="Лера9764" changedate="20171226T114114Z" creationid="Tetiana21" creationdate="20171105T201513Z">
-        <seg>Перевірка тегів</seg>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180219T001935Z" creationid="Tetiana21" creationdate="20171105T201513Z">
+        <seg>Перевірка теґів</seg>
       </tuv>
     </tu>
     <tu>
@@ -14817,8 +14817,8 @@ on line {1}, column {2}.</seg>
       <tuv lang="EN">
         <seg>Warning: Changing tag order may break the translated document!</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="nessyk" changedate="20180123T151931Z" creationid="Diman966" creationdate="20180115T203102Z">
-        <seg>Попередження: зміна порядку тегів може порушити перекладений документ!</seg>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180219T001813Z" creationid="Diman966" creationdate="20180115T203102Z">
+        <seg>Попередження: зміна порядку теґів може порушити перекладений документ!</seg>
       </tuv>
     </tu>
     <tu>
