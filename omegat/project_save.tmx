@@ -1876,6 +1876,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;p0&gt;Project&lt;/p0&gt; &lt;s1&gt;Properties&lt;/s1&gt; &lt;s2&gt;Languages&lt;/s2&gt;</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180219T200828Z" creationid="olexandr" creationdate="20180219T200817Z">
+        <seg>&lt;p0&gt;Проект&lt;/p0&gt; &lt;s1&gt;Властивості&lt;/s1&gt; &lt;s2&gt;Мови&lt;/s2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;p0&gt;Shortcuts Customization&lt;/p0&gt; &lt;s1&gt;View Menu&lt;/s1&gt;</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="olexandr" changedate="20180218T233046Z" creationid="olexandr" creationdate="20180218T233046Z">
@@ -2000,6 +2008,14 @@ The current setting is {0}MB;</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="nessyk" changedate="20171025T185529Z" creationid="nessyk" creationdate="20171025T184210Z">
         <seg>Тільки ASCII </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Abkhaz</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180219T201805Z" creationid="olexandr" creationdate="20180219T201805Z">
+        <seg>Абхазька</seg>
       </tuv>
     </tu>
     <tu>
@@ -2192,6 +2208,14 @@ The current setting is {0}MB;</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="nessyk" changedate="20171109T203354Z" creationid="nessyk" creationdate="20171109T203332Z">
         <seg>Додано: {1}, Видалено: {2}, Змінено: {3} (Конфлікти: {0})</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Afar</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180219T201835Z" creationid="olexandr" creationdate="20180219T201835Z">
+        <seg>Афарська</seg>
       </tuv>
     </tu>
     <tu>
@@ -6783,6 +6807,38 @@ project_save.tmx не був завантажений, а SVN перейшов �
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>ISO 639-1</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180219T200736Z" creationid="olexandr" creationdate="20180219T200736Z">
+        <seg>ISO 639-1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>ISO 639-1/639-2 Language code list</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180219T201037Z" creationid="olexandr" creationdate="20180219T201037Z">
+        <seg>Перелік кодів мов за стандартом ISO 639-1/639-2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>ISO 639-2</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180219T200738Z" creationid="olexandr" creationdate="20180219T200738Z">
+        <seg>ISO 639-2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>ISO language codes</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180219T201046Z" creationid="olexandr" creationdate="20180219T201046Z">
+        <seg>Коди мов ISO</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Identifier used for alternative translations</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Маринка" changedate="20171221T184609Z" creationid="Маринка" creationdate="20171221T184609Z">
@@ -7631,6 +7687,14 @@ inside the configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Language name</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180219T200733Z" creationid="olexandr" creationdate="20180219T200733Z">
+        <seg>Назва мови</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Language not specified for translation unit variant.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Лера9764" changedate="20171204T135813Z" creationid="Diman966" creationdate="20171116T195041Z">
@@ -7787,6 +7851,14 @@ inside the configuration folder.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20170918T163047Z" creationid="Kos Ivantsov" creationdate="20170918T163047Z">
         <seg>Мови</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Languages - ISO 639 code list</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180219T200843Z" creationid="olexandr" creationdate="20180219T200843Z">
+        <seg>Мови - перелік кодів ISO 639</seg>
       </tuv>
     </tu>
     <tu>
@@ -9873,6 +9945,14 @@ everything.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="olexandr" changedate="20180125T205918Z" creationid="olexandr" creationdate="20180125T205918Z">
         <seg>Покладіть архів до будь-якої необхідної теки та розпакуйте його.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Please check the &lt;u0&gt;ISO 639 Code Tables&lt;/u0&gt; for further and up-to-date information about language codes.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180219T201000Z" creationid="olexandr" creationdate="20180219T201000Z">
+        <seg>Будь ласка, перевірте &lt;u0&gt;таблицю кодів ISO 639&lt;/u0&gt; для отримання актуальної інформації про мовні коди.</seg>
       </tuv>
     </tu>
     <tu>
@@ -14193,6 +14273,14 @@ Exact searches match the whole search string.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Ukrainian</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180219T202011Z" creationid="olexandr" creationdate="20180219T202011Z">
+        <seg>Українська</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Unable to build new TMX file!</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Маринка" changedate="20171101T215246Z" creationid="Маринка" creationdate="20171101T215246Z">
@@ -14761,6 +14849,14 @@ on line {1}, column {2}.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="nessyk" changedate="20171030T173456Z" creationid="nessyk" creationdate="20171025T175747Z">
         <seg>Вітербі</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Vito Smolej</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180219T202753Z" creationid="olexandr" creationdate="20180219T202753Z">
+        <seg>Vito Smolej</seg>
       </tuv>
     </tu>
     <tu>
@@ -15355,10 +15451,106 @@ create its configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>aa</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180219T201422Z" creationid="olexandr" creationdate="20180219T201422Z">
+        <seg>aa</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>aar</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180219T201423Z" creationid="olexandr" creationdate="20180219T201423Z">
+        <seg>aar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>ab</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180219T201420Z" creationid="olexandr" creationdate="20180219T201420Z">
+        <seg>ab</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>abk</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180219T201421Z" creationid="olexandr" creationdate="20180219T201421Z">
+        <seg>abk</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>ae</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180219T201436Z" creationid="olexandr" creationdate="20180219T201436Z">
+        <seg>ae</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>af</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180219T201424Z" creationid="olexandr" creationdate="20180219T201424Z">
+        <seg>af</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>afr</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180219T201424Z" creationid="olexandr" creationdate="20180219T201424Z">
+        <seg>afr</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>ak</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180219T201425Z" creationid="olexandr" creationdate="20180219T201425Z">
+        <seg>ak</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>aka</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180219T201426Z" creationid="olexandr" creationdate="20180219T201426Z">
+        <seg>aka</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>all matching segments</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Tetiana21" changedate="20171105T183449Z" creationid="Tetiana21" creationdate="20171105T183449Z">
         <seg>усі відповідні сегменти</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>am</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180219T201428Z" creationid="olexandr" creationdate="20180219T201428Z">
+        <seg>am</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>amh</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180219T201428Z" creationid="olexandr" creationdate="20180219T201428Z">
+        <seg>amh</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>an</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180219T201431Z" creationid="olexandr" creationdate="20180219T201431Z">
+        <seg>an</seg>
       </tuv>
     </tu>
     <tu>
@@ -15371,10 +15563,274 @@ create its configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>ar</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180219T201429Z" creationid="olexandr" creationdate="20180219T201429Z">
+        <seg>ar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>ara</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180219T201430Z" creationid="olexandr" creationdate="20180219T201430Z">
+        <seg>ara</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>arg</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180219T201431Z" creationid="olexandr" creationdate="20180219T201431Z">
+        <seg>arg</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>as</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180219T201433Z" creationid="olexandr" creationdate="20180219T201433Z">
+        <seg>as</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>asm</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180219T201434Z" creationid="olexandr" creationdate="20180219T201434Z">
+        <seg>asm</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>attributes.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Маринка" changedate="20171211T193313Z" creationid="Маринка" creationdate="20171118T213108Z">
         <seg>атрибути.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>av</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180219T201435Z" creationid="olexandr" creationdate="20180219T201435Z">
+        <seg>av</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>ava</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180219T201435Z" creationid="olexandr" creationdate="20180219T201435Z">
+        <seg>ava</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>ave</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180219T201437Z" creationid="olexandr" creationdate="20180219T201437Z">
+        <seg>ave</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>ay</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180219T201438Z" creationid="olexandr" creationdate="20180219T201438Z">
+        <seg>ay</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>aym</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180219T201438Z" creationid="olexandr" creationdate="20180219T201438Z">
+        <seg>aym</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>az</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180219T201439Z" creationid="olexandr" creationdate="20180219T201439Z">
+        <seg>az</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>aze</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180219T201440Z" creationid="olexandr" creationdate="20180219T201440Z">
+        <seg>aze</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>ba</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180219T201442Z" creationid="olexandr" creationdate="20180219T201442Z">
+        <seg>ba</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>bak</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180219T201442Z" creationid="olexandr" creationdate="20180219T201442Z">
+        <seg>bak</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>bam</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180219T201441Z" creationid="olexandr" creationdate="20180219T201441Z">
+        <seg>bam</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>be</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180219T201445Z" creationid="olexandr" creationdate="20180219T201445Z">
+        <seg>be</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>bel</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180219T201446Z" creationid="olexandr" creationdate="20180219T201446Z">
+        <seg>bel</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>ben</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180219T201447Z" creationid="olexandr" creationdate="20180219T201447Z">
+        <seg>ben</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>bg</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180219T201453Z" creationid="olexandr" creationdate="20180219T201453Z">
+        <seg>bg</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>bh</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180219T201448Z" creationid="olexandr" creationdate="20180219T201448Z">
+        <seg>bh</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>bi</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180219T201449Z" creationid="olexandr" creationdate="20180219T201449Z">
+        <seg>bi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>bih</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180219T201448Z" creationid="olexandr" creationdate="20180219T201448Z">
+        <seg>bih</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>bis</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180219T201450Z" creationid="olexandr" creationdate="20180219T201450Z">
+        <seg>bis</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>bm</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180219T201441Z" creationid="olexandr" creationdate="20180219T201441Z">
+        <seg>bm</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>bn</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180219T201447Z" creationid="olexandr" creationdate="20180219T201447Z">
+        <seg>bn</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>bo</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180219T202404Z" creationid="olexandr" creationdate="20180219T202404Z">
+        <seg>bo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>bod</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180219T202404Z" creationid="olexandr" creationdate="20180219T202404Z">
+        <seg>bod</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>bos</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180219T201451Z" creationid="olexandr" creationdate="20180219T201451Z">
+        <seg>bos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>br</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180219T201452Z" creationid="olexandr" creationdate="20180219T201452Z">
+        <seg>br</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>bre</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180219T201453Z" creationid="olexandr" creationdate="20180219T201453Z">
+        <seg>bre</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>bs</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180219T201451Z" creationid="olexandr" creationdate="20180219T201451Z">
+        <seg>bs</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>bul</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180219T201454Z" creationid="olexandr" creationdate="20180219T201454Z">
+        <seg>bul</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>ca</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180219T201456Z" creationid="olexandr" creationdate="20180219T201456Z">
+        <seg>ca</seg>
       </tuv>
     </tu>
     <tu>
@@ -15387,6 +15843,142 @@ create its configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>cat</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180219T201457Z" creationid="olexandr" creationdate="20180219T201457Z">
+        <seg>cat</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>ce</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180219T201500Z" creationid="olexandr" creationdate="20180219T201500Z">
+        <seg>ce</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>ces</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180219T201512Z" creationid="olexandr" creationdate="20180219T201512Z">
+        <seg>ces</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>ch</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180219T201458Z" creationid="olexandr" creationdate="20180219T201458Z">
+        <seg>ch</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>cha</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180219T201459Z" creationid="olexandr" creationdate="20180219T201459Z">
+        <seg>cha</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>che</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180219T201500Z" creationid="olexandr" creationdate="20180219T201500Z">
+        <seg>che</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>chu</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180219T202312Z" creationid="olexandr" creationdate="20180219T202312Z">
+        <seg>chu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>chv</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180219T201505Z" creationid="olexandr" creationdate="20180219T201505Z">
+        <seg>chv</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>co</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180219T201507Z" creationid="olexandr" creationdate="20180219T201507Z">
+        <seg>co</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>cor</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180219T201506Z" creationid="olexandr" creationdate="20180219T201506Z">
+        <seg>cor</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>cos</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180219T201508Z" creationid="olexandr" creationdate="20180219T201508Z">
+        <seg>cos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>cr</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180219T201509Z" creationid="olexandr" creationdate="20180219T201509Z">
+        <seg>cr</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>cre</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180219T201509Z" creationid="olexandr" creationdate="20180219T201509Z">
+        <seg>cre</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>cs</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180219T201512Z" creationid="olexandr" creationdate="20180219T201512Z">
+        <seg>cs</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>cu</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180219T202312Z" creationid="olexandr" creationdate="20180219T202312Z">
+        <seg>cu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>cv</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180219T201504Z" creationid="olexandr" creationdate="20180219T201504Z">
+        <seg>cv</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>cy</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180219T202432Z" creationid="olexandr" creationdate="20180219T202432Z">
+        <seg>cy</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>cycleSwitchCaseMenuItem</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="olexandr" changedate="20180218T233504Z" creationid="olexandr" creationdate="20180218T233504Z">
@@ -15395,10 +15987,82 @@ create its configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>cym</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180219T202432Z" creationid="olexandr" creationdate="20180219T202432Z">
+        <seg>cym</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>da</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180219T201513Z" creationid="olexandr" creationdate="20180219T201513Z">
+        <seg>da</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>dan</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180219T201514Z" creationid="olexandr" creationdate="20180219T201514Z">
+        <seg>dan</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>de</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180219T202136Z" creationid="olexandr" creationdate="20180219T202136Z">
+        <seg>de</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>deu</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180219T202137Z" creationid="olexandr" creationdate="20180219T202137Z">
+        <seg>deu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>div</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180219T201515Z" creationid="olexandr" creationdate="20180219T201515Z">
+        <seg>div</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>done ({0} ms elapsed)</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="olexandr" changedate="20180216T153825Z" creationid="nessyk" creationdate="20180123T135701Z">
         <seg>завершено ({0} мс закінчився)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>dv</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180219T201514Z" creationid="olexandr" creationdate="20180219T201514Z">
+        <seg>dv</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>dz</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180219T201518Z" creationid="olexandr" creationdate="20180219T201518Z">
+        <seg>dz</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>dzo</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180219T201518Z" creationid="olexandr" creationdate="20180219T201518Z">
+        <seg>dzo</seg>
       </tuv>
     </tu>
     <tu>
@@ -15611,10 +16275,82 @@ create its configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>ee</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180219T202125Z" creationid="olexandr" creationdate="20180219T202125Z">
+        <seg>ee</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>el</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180219T202138Z" creationid="olexandr" creationdate="20180219T202138Z">
+        <seg>el</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>ell</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180219T202138Z" creationid="olexandr" creationdate="20180219T202138Z">
+        <seg>ell</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>en</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="olexandr" changedate="20180218T225435Z" creationid="olexandr" creationdate="20180218T225435Z">
-        <seg>uk</seg>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180219T201554Z" creationid="olexandr" creationdate="20180219T201554Z">
+        <seg>en</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>eng</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180219T201931Z" creationid="olexandr" creationdate="20180219T201931Z">
+        <seg>eng</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>eo</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180219T202117Z" creationid="olexandr" creationdate="20180219T202117Z">
+        <seg>eo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>epo</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180219T202118Z" creationid="olexandr" creationdate="20180219T202118Z">
+        <seg>epo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>es</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180219T202350Z" creationid="olexandr" creationdate="20180219T202350Z">
+        <seg>es</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>est</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180219T202119Z" creationid="olexandr" creationdate="20180219T202119Z">
+        <seg>est</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>et</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180219T202119Z" creationid="olexandr" creationdate="20180219T202119Z">
+        <seg>et</seg>
       </tuv>
     </tu>
     <tu>
@@ -15627,10 +16363,82 @@ create its configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>eu</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180219T201443Z" creationid="olexandr" creationdate="20180219T201443Z">
+        <seg>eu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>eus</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180219T201444Z" creationid="olexandr" creationdate="20180219T201444Z">
+        <seg>eus</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>ewe</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180219T202126Z" creationid="olexandr" creationdate="20180219T202126Z">
+        <seg>ewe</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>extensions:</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Лера9764" changedate="20171110T160129Z" creationid="Лера9764" creationdate="20171110T160129Z">
         <seg>розширення:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>fa</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180219T202320Z" creationid="olexandr" creationdate="20180219T202320Z">
+        <seg>fa</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>fao</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180219T202127Z" creationid="olexandr" creationdate="20180219T202127Z">
+        <seg>fao</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>fas</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180219T202321Z" creationid="olexandr" creationdate="20180219T202321Z">
+        <seg>fas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>ff</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180219T202132Z" creationid="olexandr" creationdate="20180219T202132Z">
+        <seg>ff</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>fi</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180219T202129Z" creationid="olexandr" creationdate="20180219T202129Z">
+        <seg>fi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>fij</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180219T202128Z" creationid="olexandr" creationdate="20180219T202128Z">
+        <seg>fij</seg>
       </tuv>
     </tu>
     <tu>
@@ -15643,10 +16451,138 @@ create its configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>fin</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180219T202130Z" creationid="olexandr" creationdate="20180219T202130Z">
+        <seg>fin</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>findInProjectReuseLastWindow</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="olexandr" changedate="20180218T233513Z" creationid="olexandr" creationdate="20180218T233513Z">
         <seg>findInProjectReuseLastWindow</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>fj</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180219T202128Z" creationid="olexandr" creationdate="20180219T202128Z">
+        <seg>fj</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>fo</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180219T202127Z" creationid="olexandr" creationdate="20180219T202127Z">
+        <seg>fo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>fr</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180219T202131Z" creationid="olexandr" creationdate="20180219T202131Z">
+        <seg>fr</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>fra</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180219T202131Z" creationid="olexandr" creationdate="20180219T202131Z">
+        <seg>fra</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>fry</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180219T202435Z" creationid="olexandr" creationdate="20180219T202435Z">
+        <seg>fry</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>ful</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180219T202133Z" creationid="olexandr" creationdate="20180219T202133Z">
+        <seg>ful</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>fy</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180219T202434Z" creationid="olexandr" creationdate="20180219T202434Z">
+        <seg>fy</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>ga</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180219T202155Z" creationid="olexandr" creationdate="20180219T202155Z">
+        <seg>ga</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>gd</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180219T202341Z" creationid="olexandr" creationdate="20180219T202341Z">
+        <seg>gd</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>gl</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180219T202134Z" creationid="olexandr" creationdate="20180219T202134Z">
+        <seg>gl</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>gla</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180219T202342Z" creationid="olexandr" creationdate="20180219T202342Z">
+        <seg>gla</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>gle</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180219T202156Z" creationid="olexandr" creationdate="20180219T202156Z">
+        <seg>gle</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>glg</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180219T202134Z" creationid="olexandr" creationdate="20180219T202134Z">
+        <seg>glg</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>glv</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180219T202242Z" creationid="olexandr" creationdate="20180219T202242Z">
+        <seg>glv</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>gn</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180219T202139Z" creationid="olexandr" creationdate="20180219T202139Z">
+        <seg>gn</seg>
       </tuv>
     </tu>
     <tu>
@@ -15739,10 +16675,82 @@ create its configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>grn</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180219T202140Z" creationid="olexandr" creationdate="20180219T202140Z">
+        <seg>grn</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>gu</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180219T202140Z" creationid="olexandr" creationdate="20180219T202140Z">
+        <seg>gu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>guj</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180219T202141Z" creationid="olexandr" creationdate="20180219T202141Z">
+        <seg>guj</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>gv</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180219T202241Z" creationid="olexandr" creationdate="20180219T202241Z">
+        <seg>gv</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>h&amp;reflang (language of links)</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Tetiana21" changedate="20171206T194618Z" creationid="Tetiana21" creationdate="20171206T194618Z">
         <seg>h&amp;reflang (мова посилання)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>ha</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180219T202143Z" creationid="olexandr" creationdate="20180219T202143Z">
+        <seg>ha</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>hat</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180219T202142Z" creationid="olexandr" creationdate="20180219T202142Z">
+        <seg>hat</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>hau</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180219T202144Z" creationid="olexandr" creationdate="20180219T202144Z">
+        <seg>hau</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>he</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180219T202145Z" creationid="olexandr" creationdate="20180219T202145Z">
+        <seg>he</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>heb</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180219T202145Z" creationid="olexandr" creationdate="20180219T202145Z">
+        <seg>heb</seg>
       </tuv>
     </tu>
     <tu>
@@ -15779,10 +16787,74 @@ create its configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>her</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180219T202146Z" creationid="olexandr" creationdate="20180219T202146Z">
+        <seg>her</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>hi</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180219T202147Z" creationid="olexandr" creationdate="20180219T202147Z">
+        <seg>hi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>hin</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180219T202148Z" creationid="olexandr" creationdate="20180219T202148Z">
+        <seg>hin</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>hmo</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180219T202149Z" creationid="olexandr" creationdate="20180219T202149Z">
+        <seg>hmo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>ho</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180219T202148Z" creationid="olexandr" creationdate="20180219T202148Z">
+        <seg>ho</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>hr</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180219T201510Z" creationid="olexandr" creationdate="20180219T201510Z">
+        <seg>hr</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>href (URL of &amp;links)</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Лера9764" changedate="20171102T161350Z" creationid="Лера9764" creationdate="20171102T161350Z">
         <seg>href (URL &amp;посилання)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>hrv</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180219T201511Z" creationid="olexandr" creationdate="20180219T201511Z">
+        <seg>hrv</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>ht</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180219T202142Z" creationid="olexandr" creationdate="20180219T202142Z">
+        <seg>ht</seg>
       </tuv>
     </tu>
     <tu>
@@ -15835,6 +16907,14 @@ create its configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>http://www.sil.org/ISO639-3/codes.asp</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180219T200845Z" creationid="olexandr" creationdate="20180219T200845Z">
+        <seg>http://www.sil.org/ISO639-3/codes.asp</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>https://sourceforge.net/p/omegat/svn/HEAD/tree/trunk/src/org/omegat/gui/main/MainMenuShortcuts.mac.properties</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="olexandr" changedate="20180218T235456Z" creationid="olexandr" creationdate="20180218T235456Z">
@@ -15859,12 +16939,236 @@ create its configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>hu</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180219T202150Z" creationid="olexandr" creationdate="20180219T202150Z">
+        <seg>hu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>hun</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180219T202150Z" creationid="olexandr" creationdate="20180219T202150Z">
+        <seg>hun</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>hy</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180219T201432Z" creationid="olexandr" creationdate="20180219T201432Z">
+        <seg>hy</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>hye</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180219T201433Z" creationid="olexandr" creationdate="20180219T201433Z">
+        <seg>hye</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>hz</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180219T202146Z" creationid="olexandr" creationdate="20180219T202146Z">
+        <seg>hz</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>ia</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180219T202151Z" creationid="olexandr" creationdate="20180219T202151Z">
+        <seg>ia</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>ibo</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180219T202157Z" creationid="olexandr" creationdate="20180219T202157Z">
+        <seg>ibo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>id</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180219T202153Z" creationid="olexandr" creationdate="20180219T202153Z">
+        <seg>id</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>ido</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180219T202200Z" creationid="olexandr" creationdate="20180219T202200Z">
+        <seg>ido</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>ie</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180219T202154Z" creationid="olexandr" creationdate="20180219T202154Z">
+        <seg>ie</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>ig</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180219T202157Z" creationid="olexandr" creationdate="20180219T202157Z">
+        <seg>ig</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>ii</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180219T202307Z" creationid="olexandr" creationdate="20180219T202307Z">
+        <seg>ii</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>iii</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180219T202307Z" creationid="olexandr" creationdate="20180219T202307Z">
+        <seg>iii</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>ik</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180219T202158Z" creationid="olexandr" creationdate="20180219T202158Z">
+        <seg>ik</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>iku</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180219T202204Z" creationid="olexandr" creationdate="20180219T202204Z">
+        <seg>iku</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>ile</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180219T202154Z" creationid="olexandr" creationdate="20180219T202154Z">
+        <seg>ile</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>ina</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180219T202152Z" creationid="olexandr" creationdate="20180219T202152Z">
+        <seg>ina</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>ind</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180219T202153Z" creationid="olexandr" creationdate="20180219T202153Z">
+        <seg>ind</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>init &lt;source language&gt; &lt;target language&gt;
 		Initialize a minimal team project with the specified languages.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20180205T230230Z" creationid="Маринка" creationdate="20171118T194907Z">
         <seg>init &lt;мова оригіналу&gt; &lt;мова перекладу&gt;
 		Ініціалізувати мінімальний командний проект із зазначеними мовами.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>io</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180219T202159Z" creationid="olexandr" creationdate="20180219T202159Z">
+        <seg>io</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>ipk</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180219T202158Z" creationid="olexandr" creationdate="20180219T202158Z">
+        <seg>ipk</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>is</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180219T202201Z" creationid="olexandr" creationdate="20180219T202201Z">
+        <seg>is</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>isl</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180219T202202Z" creationid="olexandr" creationdate="20180219T202202Z">
+        <seg>isl</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>it</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180219T202203Z" creationid="olexandr" creationdate="20180219T202203Z">
+        <seg>it</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>ita</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180219T202203Z" creationid="olexandr" creationdate="20180219T202203Z">
+        <seg>ita</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>iu</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180219T202204Z" creationid="olexandr" creationdate="20180219T202204Z">
+        <seg>iu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>ja</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180219T202205Z" creationid="olexandr" creationdate="20180219T202205Z">
+        <seg>ja</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>jav</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180219T202207Z" creationid="olexandr" creationdate="20180219T202207Z">
+        <seg>jav</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>jpn</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180219T202206Z" creationid="olexandr" creationdate="20180219T202206Z">
+        <seg>jpn</seg>
       </tuv>
     </tu>
     <tu>
@@ -15885,10 +17189,354 @@ create its configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>jv</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180219T202207Z" creationid="olexandr" creationdate="20180219T202207Z">
+        <seg>jv</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>ka</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180219T202135Z" creationid="olexandr" creationdate="20180219T202135Z">
+        <seg>ka</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>kal</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180219T202209Z" creationid="olexandr" creationdate="20180219T202209Z">
+        <seg>kal</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>kan</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180219T202210Z" creationid="olexandr" creationdate="20180219T202210Z">
+        <seg>kan</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>kas</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180219T202213Z" creationid="olexandr" creationdate="20180219T202213Z">
+        <seg>kas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>kat</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180219T202136Z" creationid="olexandr" creationdate="20180219T202136Z">
+        <seg>kat</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>kau</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180219T202211Z" creationid="olexandr" creationdate="20180219T202211Z">
+        <seg>kau</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>kaz</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180219T202214Z" creationid="olexandr" creationdate="20180219T202214Z">
+        <seg>kaz</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>kg</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180219T202223Z" creationid="olexandr" creationdate="20180219T202223Z">
+        <seg>kg</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>khm</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180219T202215Z" creationid="olexandr" creationdate="20180219T202215Z">
+        <seg>khm</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>ki</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180219T202216Z" creationid="olexandr" creationdate="20180219T202216Z">
+        <seg>ki</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>kik</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180219T202217Z" creationid="olexandr" creationdate="20180219T202217Z">
+        <seg>kik</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>kin</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180219T202218Z" creationid="olexandr" creationdate="20180219T202218Z">
+        <seg>kin</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>kir</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180219T202219Z" creationid="olexandr" creationdate="20180219T202219Z">
+        <seg>kir</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>kj</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180219T202227Z" creationid="olexandr" creationdate="20180219T202227Z">
+        <seg>kj</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>kk</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180219T202213Z" creationid="olexandr" creationdate="20180219T202213Z">
+        <seg>kk</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>kl</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180219T202208Z" creationid="olexandr" creationdate="20180219T202208Z">
+        <seg>kl</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>km</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180219T202215Z" creationid="olexandr" creationdate="20180219T202215Z">
+        <seg>km</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>kn</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180219T202209Z" creationid="olexandr" creationdate="20180219T202209Z">
+        <seg>kn</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>ko</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180219T202225Z" creationid="olexandr" creationdate="20180219T202225Z">
+        <seg>ko</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>kom</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180219T202221Z" creationid="olexandr" creationdate="20180219T202221Z">
+        <seg>kom</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>kon</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180219T202224Z" creationid="olexandr" creationdate="20180219T202224Z">
+        <seg>kon</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>kor</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180219T202225Z" creationid="olexandr" creationdate="20180219T202225Z">
+        <seg>kor</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>kr</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180219T202211Z" creationid="olexandr" creationdate="20180219T202211Z">
+        <seg>kr</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>ks</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180219T202212Z" creationid="olexandr" creationdate="20180219T202212Z">
+        <seg>ks</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>ku</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180219T202226Z" creationid="olexandr" creationdate="20180219T202226Z">
+        <seg>ku</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>kua</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180219T202228Z" creationid="olexandr" creationdate="20180219T202228Z">
+        <seg>kua</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>kur</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180219T202227Z" creationid="olexandr" creationdate="20180219T202227Z">
+        <seg>kur</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>kv</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180219T202220Z" creationid="olexandr" creationdate="20180219T202220Z">
+        <seg>kv</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>kw</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180219T201506Z" creationid="olexandr" creationdate="20180219T201506Z">
+        <seg>kw</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>ky</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180219T202219Z" creationid="olexandr" creationdate="20180219T202219Z">
+        <seg>ky</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>la</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180219T202229Z" creationid="olexandr" creationdate="20180219T202229Z">
+        <seg>la</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>lan&amp;g (language attribute)</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Tetiana21" changedate="20171206T194606Z" creationid="Tetiana21" creationdate="20171206T194606Z">
         <seg>lan&amp;g (атрибут мови)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>lao</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180219T202236Z" creationid="olexandr" creationdate="20180219T202236Z">
+        <seg>lao</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>lat</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180219T202229Z" creationid="olexandr" creationdate="20180219T202229Z">
+        <seg>lat</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>lav</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180219T202241Z" creationid="olexandr" creationdate="20180219T202241Z">
+        <seg>lav</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>lb</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180219T202230Z" creationid="olexandr" creationdate="20180219T202230Z">
+        <seg>lb</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>lg</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180219T202232Z" creationid="olexandr" creationdate="20180219T202232Z">
+        <seg>lg</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>li</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180219T202233Z" creationid="olexandr" creationdate="20180219T202233Z">
+        <seg>li</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>lim</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180219T202233Z" creationid="olexandr" creationdate="20180219T202233Z">
+        <seg>lim</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>lin</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180219T202235Z" creationid="olexandr" creationdate="20180219T202235Z">
+        <seg>lin</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>lit</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180219T202237Z" creationid="olexandr" creationdate="20180219T202237Z">
+        <seg>lit</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>ln</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180219T202234Z" creationid="olexandr" creationdate="20180219T202234Z">
+        <seg>ln</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>lo</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180219T202235Z" creationid="olexandr" creationdate="20180219T202235Z">
+        <seg>lo</seg>
       </tuv>
     </tu>
     <tu>
@@ -15909,10 +17557,434 @@ create its configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>lt</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180219T202237Z" creationid="olexandr" creationdate="20180219T202237Z">
+        <seg>lt</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>ltz</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180219T202231Z" creationid="olexandr" creationdate="20180219T202231Z">
+        <seg>ltz</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>lu</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180219T202238Z" creationid="olexandr" creationdate="20180219T202238Z">
+        <seg>lu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>lub</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180219T202239Z" creationid="olexandr" creationdate="20180219T202239Z">
+        <seg>lub</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>lug</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180219T202232Z" creationid="olexandr" creationdate="20180219T202232Z">
+        <seg>lug</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>lv</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180219T202240Z" creationid="olexandr" creationdate="20180219T202240Z">
+        <seg>lv</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>mALIGNa (MIT License)</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="nessyk" changedate="20180123T122033Z" creationid="nessyk" creationdate="20180123T122033Z">
         <seg>mALIGNa (ліцензія MIT)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>mah</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180219T202253Z" creationid="olexandr" creationdate="20180219T202253Z">
+        <seg>mah</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>mal</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180219T202248Z" creationid="olexandr" creationdate="20180219T202248Z">
+        <seg>mal</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>mar</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180219T202252Z" creationid="olexandr" creationdate="20180219T202252Z">
+        <seg>mar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>mg</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180219T202244Z" creationid="olexandr" creationdate="20180219T202244Z">
+        <seg>mg</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>mh</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180219T202253Z" creationid="olexandr" creationdate="20180219T202253Z">
+        <seg>mh</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>mi</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180219T202250Z" creationid="olexandr" creationdate="20180219T202250Z">
+        <seg>mi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>mk</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180219T202243Z" creationid="olexandr" creationdate="20180219T202243Z">
+        <seg>mk</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>mkd</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180219T202243Z" creationid="olexandr" creationdate="20180219T202243Z">
+        <seg>mkd</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>ml</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180219T202247Z" creationid="olexandr" creationdate="20180219T202247Z">
+        <seg>ml</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>mlg</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180219T202245Z" creationid="olexandr" creationdate="20180219T202245Z">
+        <seg>mlg</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>mlt</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180219T202249Z" creationid="olexandr" creationdate="20180219T202249Z">
+        <seg>mlt</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>mn</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180219T202254Z" creationid="olexandr" creationdate="20180219T202254Z">
+        <seg>mn</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>mon</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180219T202255Z" creationid="olexandr" creationdate="20180219T202255Z">
+        <seg>mon</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>mr</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180219T202251Z" creationid="olexandr" creationdate="20180219T202251Z">
+        <seg>mr</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>mri</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180219T202250Z" creationid="olexandr" creationdate="20180219T202250Z">
+        <seg>mri</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>ms</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180219T202245Z" creationid="olexandr" creationdate="20180219T202245Z">
+        <seg>ms</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>msa</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180219T202246Z" creationid="olexandr" creationdate="20180219T202246Z">
+        <seg>msa</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>mt</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180219T202249Z" creationid="olexandr" creationdate="20180219T202249Z">
+        <seg>mt</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>my</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180219T201455Z" creationid="olexandr" creationdate="20180219T201455Z">
+        <seg>my</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>mya</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180219T201455Z" creationid="olexandr" creationdate="20180219T201455Z">
+        <seg>mya</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>na</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180219T202256Z" creationid="olexandr" creationdate="20180219T202256Z">
+        <seg>na</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>nau</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180219T202256Z" creationid="olexandr" creationdate="20180219T202256Z">
+        <seg>nau</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>nav</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180219T202258Z" creationid="olexandr" creationdate="20180219T202258Z">
+        <seg>nav</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>nb</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180219T202259Z" creationid="olexandr" creationdate="20180219T202259Z">
+        <seg>nb</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>nbl</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180219T202308Z" creationid="olexandr" creationdate="20180219T202308Z">
+        <seg>nbl</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>nd</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180219T202300Z" creationid="olexandr" creationdate="20180219T202300Z">
+        <seg>nd</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>nde</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180219T202300Z" creationid="olexandr" creationdate="20180219T202300Z">
+        <seg>nde</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>ndo</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180219T202303Z" creationid="olexandr" creationdate="20180219T202303Z">
+        <seg>ndo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>ne</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180219T202301Z" creationid="olexandr" creationdate="20180219T202301Z">
+        <seg>ne</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>nep</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180219T202302Z" creationid="olexandr" creationdate="20180219T202302Z">
+        <seg>nep</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>ng</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180219T202303Z" creationid="olexandr" creationdate="20180219T202303Z">
+        <seg>ng</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>nl</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180219T201516Z" creationid="olexandr" creationdate="20180219T201516Z">
+        <seg>nl</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>nld</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180219T201517Z" creationid="olexandr" creationdate="20180219T201517Z">
+        <seg>nld</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>nn</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180219T202304Z" creationid="olexandr" creationdate="20180219T202304Z">
+        <seg>nn</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>nno</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180219T202304Z" creationid="olexandr" creationdate="20180219T202304Z">
+        <seg>nno</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>no</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180219T202305Z" creationid="olexandr" creationdate="20180219T202305Z">
+        <seg>no</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>nob</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180219T202259Z" creationid="olexandr" creationdate="20180219T202259Z">
+        <seg>nob</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>nor</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180219T202306Z" creationid="olexandr" creationdate="20180219T202306Z">
+        <seg>nor</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>nr</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180219T202308Z" creationid="olexandr" creationdate="20180219T202308Z">
+        <seg>nr</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>nv</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180219T202257Z" creationid="olexandr" creationdate="20180219T202257Z">
+        <seg>nv</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>ny</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180219T201501Z" creationid="olexandr" creationdate="20180219T201501Z">
+        <seg>ny</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>nya</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180219T201502Z" creationid="olexandr" creationdate="20180219T201502Z">
+        <seg>nya</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>oc</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180219T202309Z" creationid="olexandr" creationdate="20180219T202309Z">
+        <seg>oc</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>oci</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180219T202310Z" creationid="olexandr" creationdate="20180219T202310Z">
+        <seg>oci</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>oj</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180219T202311Z" creationid="olexandr" creationdate="20180219T202311Z">
+        <seg>oj</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>oji</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180219T202311Z" creationid="olexandr" creationdate="20180219T202311Z">
+        <seg>oji</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>om</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180219T202313Z" creationid="olexandr" creationdate="20180219T202313Z">
+        <seg>om</seg>
       </tuv>
     </tu>
     <tu>
@@ -16109,6 +18181,102 @@ create its configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>or</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180219T202315Z" creationid="olexandr" creationdate="20180219T202315Z">
+        <seg>or</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>ori</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180219T202315Z" creationid="olexandr" creationdate="20180219T202315Z">
+        <seg>ori</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>orm</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180219T202314Z" creationid="olexandr" creationdate="20180219T202314Z">
+        <seg>orm</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>os</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180219T202316Z" creationid="olexandr" creationdate="20180219T202316Z">
+        <seg>os</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>oss</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180219T202317Z" creationid="olexandr" creationdate="20180219T202317Z">
+        <seg>oss</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>pa</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180219T202317Z" creationid="olexandr" creationdate="20180219T202317Z">
+        <seg>pa</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>pan</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180219T202318Z" creationid="olexandr" creationdate="20180219T202318Z">
+        <seg>pan</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>pi</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180219T202319Z" creationid="olexandr" creationdate="20180219T202319Z">
+        <seg>pi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>pl</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180219T202051Z" creationid="olexandr" creationdate="20180219T202051Z">
+        <seg>pl</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>pli</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180219T202319Z" creationid="olexandr" creationdate="20180219T202319Z">
+        <seg>pli</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>pol</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180219T202052Z" creationid="olexandr" creationdate="20180219T202052Z">
+        <seg>pol</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>por</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180219T202325Z" creationid="olexandr" creationdate="20180219T202325Z">
+        <seg>por</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>projectAccessCurrentSourceDocumentMenuItem</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="olexandr" changedate="20180218T233551Z" creationid="olexandr" creationdate="20180218T233551Z">
@@ -16285,6 +18453,166 @@ create its configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>ps</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180219T202323Z" creationid="olexandr" creationdate="20180219T202323Z">
+        <seg>ps</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>pt</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180219T202324Z" creationid="olexandr" creationdate="20180219T202324Z">
+        <seg>pt</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>pus</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180219T202323Z" creationid="olexandr" creationdate="20180219T202323Z">
+        <seg>pus</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>qu</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180219T202326Z" creationid="olexandr" creationdate="20180219T202326Z">
+        <seg>qu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>que</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180219T202326Z" creationid="olexandr" creationdate="20180219T202326Z">
+        <seg>que</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>rm</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180219T202327Z" creationid="olexandr" creationdate="20180219T202327Z">
+        <seg>rm</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>rn</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180219T202328Z" creationid="olexandr" creationdate="20180219T202328Z">
+        <seg>rn</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>ro</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180219T202330Z" creationid="olexandr" creationdate="20180219T202330Z">
+        <seg>ro</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>roh</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180219T202327Z" creationid="olexandr" creationdate="20180219T202327Z">
+        <seg>roh</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>ron</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180219T202330Z" creationid="olexandr" creationdate="20180219T202330Z">
+        <seg>ron</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>ru</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180219T202040Z" creationid="olexandr" creationdate="20180219T202040Z">
+        <seg>ru</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>run</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180219T202329Z" creationid="olexandr" creationdate="20180219T202329Z">
+        <seg>run</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>rus</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180219T202042Z" creationid="olexandr" creationdate="20180219T202042Z">
+        <seg>rus</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>rw</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180219T202217Z" creationid="olexandr" creationdate="20180219T202217Z">
+        <seg>rw</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>sa</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180219T202332Z" creationid="olexandr" creationdate="20180219T202332Z">
+        <seg>sa</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>sag</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180219T202339Z" creationid="olexandr" creationdate="20180219T202339Z">
+        <seg>sag</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>san</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180219T202332Z" creationid="olexandr" creationdate="20180219T202332Z">
+        <seg>san</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>sc</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180219T202333Z" creationid="olexandr" creationdate="20180219T202333Z">
+        <seg>sc</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>sd</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180219T202335Z" creationid="olexandr" creationdate="20180219T202335Z">
+        <seg>sd</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>se</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180219T202336Z" creationid="olexandr" creationdate="20180219T202336Z">
+        <seg>se</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>segment 0000</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20170902T144944Z" creationid="Kos Ivantsov" creationdate="20170902T144944Z">
@@ -16301,10 +18629,170 @@ create its configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>sg</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180219T202338Z" creationid="olexandr" creationdate="20180219T202338Z">
+        <seg>sg</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>si</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180219T202344Z" creationid="olexandr" creationdate="20180219T202344Z">
+        <seg>si</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>sin</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180219T202344Z" creationid="olexandr" creationdate="20180219T202344Z">
+        <seg>sin</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>sk</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180219T202345Z" creationid="olexandr" creationdate="20180219T202345Z">
+        <seg>sk</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>sl</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180219T202346Z" creationid="olexandr" creationdate="20180219T202346Z">
+        <seg>sl</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>slf4j (MIT License)</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="nessyk" changedate="20180123T121952Z" creationid="nessyk" creationdate="20180123T121904Z">
         <seg>slf4j (ліцензія MIT)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>slk</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180219T202345Z" creationid="olexandr" creationdate="20180219T202345Z">
+        <seg>slk</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>slv</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180219T202347Z" creationid="olexandr" creationdate="20180219T202347Z">
+        <seg>slv</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>sm</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180219T202337Z" creationid="olexandr" creationdate="20180219T202337Z">
+        <seg>sm</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>sme</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180219T202336Z" creationid="olexandr" creationdate="20180219T202336Z">
+        <seg>sme</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>smo</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180219T202338Z" creationid="olexandr" creationdate="20180219T202338Z">
+        <seg>smo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>sn</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180219T202342Z" creationid="olexandr" creationdate="20180219T202342Z">
+        <seg>sn</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>sna</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180219T202343Z" creationid="olexandr" creationdate="20180219T202343Z">
+        <seg>sna</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>snd</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180219T202335Z" creationid="olexandr" creationdate="20180219T202335Z">
+        <seg>snd</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>so</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180219T202348Z" creationid="olexandr" creationdate="20180219T202348Z">
+        <seg>so</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>som</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180219T202348Z" creationid="olexandr" creationdate="20180219T202348Z">
+        <seg>som</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>sot</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180219T202350Z" creationid="olexandr" creationdate="20180219T202350Z">
+        <seg>sot</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>spa</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180219T202351Z" creationid="olexandr" creationdate="20180219T202351Z">
+        <seg>spa</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>sq</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180219T201426Z" creationid="olexandr" creationdate="20180219T201426Z">
+        <seg>sq</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>sqi</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180219T201427Z" creationid="olexandr" creationdate="20180219T201427Z">
+        <seg>sqi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>sr</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180219T202340Z" creationid="olexandr" creationdate="20180219T202340Z">
+        <seg>sr</seg>
       </tuv>
     </tu>
     <tu>
@@ -16317,10 +18805,242 @@ create its configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>srd</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180219T202334Z" creationid="olexandr" creationdate="20180219T202334Z">
+        <seg>srd</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>srp</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180219T202340Z" creationid="olexandr" creationdate="20180219T202340Z">
+        <seg>srp</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>ss</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180219T202354Z" creationid="olexandr" creationdate="20180219T202354Z">
+        <seg>ss</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>ssw</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180219T202355Z" creationid="olexandr" creationdate="20180219T202355Z">
+        <seg>ssw</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>st</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180219T202349Z" creationid="olexandr" creationdate="20180219T202349Z">
+        <seg>st</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>su</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180219T202352Z" creationid="olexandr" creationdate="20180219T202352Z">
+        <seg>su</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>sun</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180219T202352Z" creationid="olexandr" creationdate="20180219T202352Z">
+        <seg>sun</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>sv</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180219T202032Z" creationid="olexandr" creationdate="20180219T202032Z">
+        <seg>sv</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>sw</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180219T202353Z" creationid="olexandr" creationdate="20180219T202353Z">
+        <seg>sw</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>swa</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180219T202354Z" creationid="olexandr" creationdate="20180219T202354Z">
+        <seg>swa</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>swe</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180219T202031Z" creationid="olexandr" creationdate="20180219T202031Z">
+        <seg>swe</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>ta</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180219T202356Z" creationid="olexandr" creationdate="20180219T202356Z">
+        <seg>ta</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>tah</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180219T202416Z" creationid="olexandr" creationdate="20180219T202416Z">
+        <seg>tah</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>tam</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180219T202357Z" creationid="olexandr" creationdate="20180219T202357Z">
+        <seg>tam</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>tat</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180219T202413Z" creationid="olexandr" creationdate="20180219T202413Z">
+        <seg>tat</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>te</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180219T202358Z" creationid="olexandr" creationdate="20180219T202358Z">
+        <seg>te</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>tel</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180219T202358Z" creationid="olexandr" creationdate="20180219T202358Z">
+        <seg>tel</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>tg</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180219T202359Z" creationid="olexandr" creationdate="20180219T202359Z">
+        <seg>tg</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>tgk</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180219T202400Z" creationid="olexandr" creationdate="20180219T202400Z">
+        <seg>tgk</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>tgl</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180219T202407Z" creationid="olexandr" creationdate="20180219T202407Z">
+        <seg>tgl</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>th</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180219T202401Z" creationid="olexandr" creationdate="20180219T202401Z">
+        <seg>th</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>tha</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180219T202402Z" creationid="olexandr" creationdate="20180219T202402Z">
+        <seg>tha</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>ti</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180219T202402Z" creationid="olexandr" creationdate="20180219T202402Z">
+        <seg>ti</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>tir</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180219T202403Z" creationid="olexandr" creationdate="20180219T202403Z">
+        <seg>tir</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>titleCaseMenuItem</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="olexandr" changedate="20180218T233507Z" creationid="olexandr" creationdate="20180218T233507Z">
         <seg>titleCaseMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>tk</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180219T202405Z" creationid="olexandr" creationdate="20180219T202405Z">
+        <seg>tk</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>tl</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180219T202406Z" creationid="olexandr" creationdate="20180219T202406Z">
+        <seg>tl</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>tn</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180219T202408Z" creationid="olexandr" creationdate="20180219T202408Z">
+        <seg>tn</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>to</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180219T202409Z" creationid="olexandr" creationdate="20180219T202409Z">
+        <seg>to</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>ton</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180219T202409Z" creationid="olexandr" creationdate="20180219T202409Z">
+        <seg>ton</seg>
       </tuv>
     </tu>
     <tu>
@@ -16373,6 +19093,14 @@ create its configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>tr</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180219T202410Z" creationid="olexandr" creationdate="20180219T202410Z">
+        <seg>tr</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>trie4j (Apache License 2.0)</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="nessyk" changedate="20180123T122042Z" creationid="nessyk" creationdate="20180123T122042Z">
@@ -16385,6 +19113,110 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="olexandr" changedate="20180218T204715Z" creationid="Tetiana21" creationdate="20171205T173223Z">
         <seg>trilead-ssh2 (ліцензія Trilead SSH)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>ts</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180219T202412Z" creationid="olexandr" creationdate="20180219T202412Z">
+        <seg>ts</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>tsn</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180219T202408Z" creationid="olexandr" creationdate="20180219T202408Z">
+        <seg>tsn</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>tso</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180219T202412Z" creationid="olexandr" creationdate="20180219T202412Z">
+        <seg>tso</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>tt</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180219T202413Z" creationid="olexandr" creationdate="20180219T202413Z">
+        <seg>tt</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>tuk</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180219T202405Z" creationid="olexandr" creationdate="20180219T202405Z">
+        <seg>tuk</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>tur</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180219T202411Z" creationid="olexandr" creationdate="20180219T202411Z">
+        <seg>tur</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>tw</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180219T202414Z" creationid="olexandr" creationdate="20180219T202414Z">
+        <seg>tw</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>twi</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180219T202415Z" creationid="olexandr" creationdate="20180219T202415Z">
+        <seg>twi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>ty</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180219T202416Z" creationid="olexandr" creationdate="20180219T202416Z">
+        <seg>ty</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>ug</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180219T202417Z" creationid="olexandr" creationdate="20180219T202417Z">
+        <seg>ug</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>uig</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180219T202418Z" creationid="olexandr" creationdate="20180219T202418Z">
+        <seg>uig</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>uk</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180219T202012Z" creationid="olexandr" creationdate="20180219T202012Z">
+        <seg>uk</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>ukr</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180219T202013Z" creationid="olexandr" creationdate="20180219T202013Z">
+        <seg>ukr</seg>
       </tuv>
     </tu>
     <tu>
@@ -16405,10 +19237,74 @@ create its configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>ur</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180219T202423Z" creationid="olexandr" creationdate="20180219T202423Z">
+        <seg>ur</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>urd</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180219T202424Z" creationid="olexandr" creationdate="20180219T202424Z">
+        <seg>urd</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>uz</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180219T202425Z" creationid="olexandr" creationdate="20180219T202425Z">
+        <seg>uz</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>uzb</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180219T202426Z" creationid="olexandr" creationdate="20180219T202426Z">
+        <seg>uzb</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>value (of button, &amp;submit and reset input)</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Diman966" changedate="20180123T170645Z" creationid="Tetiana21" creationdate="20171206T200121Z">
         <seg>значення (кнопок, &amp;підтвердження та скидання вводу)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>ve</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180219T202426Z" creationid="olexandr" creationdate="20180219T202426Z">
+        <seg>ve</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>ven</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180219T202427Z" creationid="olexandr" creationdate="20180219T202427Z">
+        <seg>ven</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>vi</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180219T202428Z" creationid="olexandr" creationdate="20180219T202428Z">
+        <seg>vi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>vie</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180219T202428Z" creationid="olexandr" creationdate="20180219T202428Z">
+        <seg>vie</seg>
       </tuv>
     </tu>
     <tu>
@@ -16513,6 +19409,158 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="olexandr" changedate="20180218T233342Z" creationid="olexandr" creationdate="20180218T233342Z">
         <seg>viewMarkWhitespaceCheckBoxMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>vo</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180219T202429Z" creationid="olexandr" creationdate="20180219T202429Z">
+        <seg>vo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>vol</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180219T202429Z" creationid="olexandr" creationdate="20180219T202429Z">
+        <seg>vol</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>vs</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180219T202752Z" creationid="olexandr" creationdate="20180219T202752Z">
+        <seg>vs</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>wa</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180219T202430Z" creationid="olexandr" creationdate="20180219T202430Z">
+        <seg>wa</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>wln</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180219T202431Z" creationid="olexandr" creationdate="20180219T202431Z">
+        <seg>wln</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>wo</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180219T202433Z" creationid="olexandr" creationdate="20180219T202433Z">
+        <seg>wo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>wol</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180219T202433Z" creationid="olexandr" creationdate="20180219T202433Z">
+        <seg>wol</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>xh</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180219T202435Z" creationid="olexandr" creationdate="20180219T202435Z">
+        <seg>xh</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>xho</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180219T202436Z" creationid="olexandr" creationdate="20180219T202436Z">
+        <seg>xho</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>yi</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180219T202437Z" creationid="olexandr" creationdate="20180219T202437Z">
+        <seg>yi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>yid</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180219T202437Z" creationid="olexandr" creationdate="20180219T202437Z">
+        <seg>yid</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>yo</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180219T202438Z" creationid="olexandr" creationdate="20180219T202438Z">
+        <seg>yo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>yor</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180219T202439Z" creationid="olexandr" creationdate="20180219T202439Z">
+        <seg>yor</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>za</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180219T202440Z" creationid="olexandr" creationdate="20180219T202440Z">
+        <seg>za</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>zh</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180219T201503Z" creationid="olexandr" creationdate="20180219T201503Z">
+        <seg>zh</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>zha</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180219T202440Z" creationid="olexandr" creationdate="20180219T202440Z">
+        <seg>zha</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>zho</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180219T201504Z" creationid="olexandr" creationdate="20180219T201504Z">
+        <seg>zho</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>zu</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180219T202441Z" creationid="olexandr" creationdate="20180219T202441Z">
+        <seg>zu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>zul</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180219T202442Z" creationid="olexandr" creationdate="20180219T202442Z">
+        <seg>zul</seg>
       </tuv>
     </tu>
     <tu>
@@ -16701,6 +19749,17 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="olexandr" changedate="20180218T232531Z" creationid="olexandr" creationdate="20180218T232531Z">
         <seg>Завантажити командний проект…</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">doc_src/OmegaTUsersManual_xinclude full.xml</prop>
+      <prop type="prev"></prop>
+      <prop type="next">OmegaT 3.5 - User's Guide</prop>
+      <tuv lang="EN">
+        <seg>en</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180219T202724Z" creationid="olexandr" creationdate="20180219T202724Z">
+        <seg>uk</seg>
       </tuv>
     </tu>
     <tu>
