@@ -2284,6 +2284,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Afrikaans</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180220T202129Z" creationid="olexandr" creationdate="20180220T202129Z">
+        <seg>Африкаанс</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>After the source files have loaded in the &lt;g3&gt;Editor&lt;/g3&gt; pane, you can close the &lt;g4&gt;Project Files&lt;/g4&gt; dialog.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="olexandr" changedate="20180130T221808Z" creationid="olexandr" creationdate="20180125T223454Z">
@@ -2312,6 +2320,22 @@ The current setting is {0}MB;</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Diman966" changedate="20180123T154134Z" creationid="nessyk" creationdate="20180123T143027Z">
         <seg>Агресивний &amp;Запасний шрифт</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Akan</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180220T202141Z" creationid="olexandr" creationdate="20180220T202141Z">
+        <seg>Акан</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Albanian</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180220T202213Z" creationid="olexandr" creationdate="20180220T202213Z">
+        <seg>Албанська</seg>
       </tuv>
     </tu>
     <tu>
@@ -2464,6 +2488,14 @@ The current setting is {0}MB;</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="olexandr" changedate="20180220T063934Z" creationid="olexandr" creationdate="20180220T063934Z">
         <seg>Завжди підтверджувати вихід</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Amharic</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180220T202226Z" creationid="olexandr" creationdate="20180220T202226Z">
+        <seg>Амхара</seg>
       </tuv>
     </tu>
     <tu>
@@ -2684,6 +2716,22 @@ The TMX file will not be loaded.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Arabic</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180220T202236Z" creationid="olexandr" creationdate="20180220T202236Z">
+        <seg>Арабська</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Aragonese</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180220T202245Z" creationid="olexandr" creationdate="20180220T202245Z">
+        <seg>Арагонська</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Are you sure you want to remove the {0} set of segmentation rules?</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="olexandr" changedate="20180217T131008Z" creationid="Лера9764" creationdate="20171117T153838Z">
@@ -2708,6 +2756,14 @@ The TMX file will not be loaded.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Armenian</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180220T202306Z" creationid="olexandr" creationdate="20180220T202306Z">
+        <seg>Вірменська</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Arrays must not be null</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Лера9764" changedate="20171205T065200Z" creationid="Tetiana21" creationdate="20171204T174543Z">
@@ -2723,6 +2779,14 @@ may experience unexpected, but correct behaviour.</seg>
       <tuv lang="UK-UA" changeid="Лера9764" changedate="20180125T161608Z" creationid="Tetiana21" creationdate="20171118T104818Z">
         <seg>В результаті цього
 всі налаштування будуть встановлюватись за замовчуванням, для вас це може бути несподіваним, але правильним.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Assamese</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180220T202316Z" creationid="olexandr" creationdate="20180220T202316Z">
+        <seg>Ассамська</seg>
       </tuv>
     </tu>
     <tu>
@@ -2847,10 +2911,42 @@ may experience unexpected, but correct behaviour.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Avaric</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180220T202326Z" creationid="olexandr" creationdate="20180220T202326Z">
+        <seg>Аварська</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Average Score: {0}</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="nessyk" changedate="20171101T183807Z" creationid="nessyk" creationdate="20171101T183807Z">
         <seg>Середній бал: {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Avestan</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180220T202626Z" creationid="olexandr" creationdate="20180220T202626Z">
+        <seg>Авестійська</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Aymara</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180220T202635Z" creationid="olexandr" creationdate="20180220T202635Z">
+        <seg>Аймара</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Azerbaijani</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180220T202642Z" creationid="olexandr" creationdate="20180220T202642Z">
+        <seg>Азербайджанська</seg>
       </tuv>
     </tu>
     <tu>
@@ -2927,10 +3023,42 @@ may experience unexpected, but correct behaviour.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Bambara</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180220T202649Z" creationid="olexandr" creationdate="20180220T202649Z">
+        <seg>Бамбара</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Bartender yells loud:&lt;p&gt;Your page cannot be found, boy&lt;p&gt;Buy another drink.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="olexandr" changedate="20180217T125739Z" creationid="Маринка" creationdate="20171101T210345Z">
         <seg>Бармен кричить голосно:&lt;p&gt;Ваша сторінка не може бути знайдена, парубче&lt;p&gt;Купи інший напій.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Bashkir</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180220T202659Z" creationid="olexandr" creationdate="20180220T202659Z">
+        <seg>Башкирська</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Basque</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180220T204612Z" creationid="olexandr" creationdate="20180220T204612Z">
+        <seg>Баскська</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Belarusian</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180220T204616Z" creationid="olexandr" creationdate="20180220T204616Z">
+        <seg>Білоруська</seg>
       </tuv>
     </tu>
     <tu>
@@ -2943,6 +3071,14 @@ may experience unexpected, but correct behaviour.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Bengali</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180220T204623Z" creationid="olexandr" creationdate="20180220T204623Z">
+        <seg>Бенгальська</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Bidirectional control characters</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="olexandr" changedate="20180125T211832Z" creationid="nessyk" creationdate="20171106T225150Z">
@@ -2951,10 +3087,34 @@ may experience unexpected, but correct behaviour.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Bihari</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180220T205046Z" creationid="olexandr" creationdate="20180220T205046Z">
+        <seg>Біхарські мови</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Bislama</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180220T204631Z" creationid="olexandr" creationdate="20180220T204631Z">
+        <seg>Біслама</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Bookmark &amp;references</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Маринка" changedate="20171203T195808Z" creationid="Маринка" creationdate="20171203T195808Z">
         <seg>Закладки &amp;посилань</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Bosnian</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180220T204634Z" creationid="olexandr" creationdate="20180220T204634Z">
+        <seg>Боснійська</seg>
       </tuv>
     </tu>
     <tu>
@@ -2971,6 +3131,14 @@ may experience unexpected, but correct behaviour.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Маринка" changedate="20180124T082534Z" creationid="Маринка" creationdate="20180124T082534Z">
         <seg>Перерва/Виняток</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Breton</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180220T204639Z" creationid="olexandr" creationdate="20180220T204639Z">
+        <seg>Бретонська</seg>
       </tuv>
     </tu>
     <tu>
@@ -3003,6 +3171,22 @@ may experience unexpected, but correct behaviour.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="olexandr" changedate="20180219T190912Z" creationid="nessyk" creationdate="20171102T205822Z">
         <seg>Огляд…</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Bulgarian</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180220T204642Z" creationid="olexandr" creationdate="20180220T204642Z">
+        <seg>Болгарська</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Burmese</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180220T204645Z" creationid="olexandr" creationdate="20180220T204645Z">
+        <seg>Бірманська</seg>
       </tuv>
     </tu>
     <tu>
@@ -3145,8 +3329,16 @@ may experience unexpected, but correct behaviour.</seg>
       <tuv lang="EN">
         <seg>Catalan</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="Лера9764" changedate="20171209T181549Z" creationid="Лера9764" creationdate="20171209T181549Z">
-        <seg>Каталонська</seg>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180220T210441Z" creationid="Лера9764" creationdate="20171209T181549Z">
+        <seg>Каталанська</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Chamorro</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180220T205127Z" creationid="olexandr" creationdate="20180220T205127Z">
+        <seg>Чаморо</seg>
       </tuv>
     </tu>
     <tu>
@@ -3247,6 +3439,14 @@ may experience unexpected, but correct behaviour.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Chechen</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180220T205131Z" creationid="olexandr" creationdate="20180220T205131Z">
+        <seg>Чеченська</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Check &amp;Issues...</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20170902T182709Z" creationid="Kos Ivantsov" creationdate="20170902T182709Z">
@@ -3319,6 +3519,14 @@ may experience unexpected, but correct behaviour.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Chichewa, Chewa, Nyanja</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180220T205147Z" creationid="olexandr" creationdate="20180220T205147Z">
+        <seg>Чичева; Чева; Ньянджа</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Chinese</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Лера9764" changedate="20171025T180025Z" creationid="Лера9764" creationdate="20171025T180025Z">
@@ -3347,6 +3555,14 @@ may experience unexpected, but correct behaviour.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="nessyk" changedate="20171102T210027Z" creationid="nessyk" creationdate="20171102T210017Z">
         <seg>Обрати цільовий документ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Chuvash</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180220T205153Z" creationid="olexandr" creationdate="20180220T205153Z">
+        <seg>Чуваська</seg>
       </tuv>
     </tu>
     <tu>
@@ -3845,6 +4061,22 @@ may experience unexpected, but correct behaviour.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Cornish</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180220T205156Z" creationid="olexandr" creationdate="20180220T205156Z">
+        <seg>Корнійська</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Corsican</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180220T205158Z" creationid="olexandr" creationdate="20180220T205158Z">
+        <seg>Корсиканська</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Could not create the specified folder.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="nessyk" changedate="20180123T145411Z" creationid="Маринка" creationdate="20171118T212425Z">
@@ -4025,6 +4257,22 @@ may experience unexpected, but correct behaviour.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="nessyk" changedate="20171109T203254Z" creationid="nessyk" creationdate="20171109T203254Z">
         <seg>Автор</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Cree</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180220T205201Z" creationid="olexandr" creationdate="20180220T205201Z">
+        <seg>Крі</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Croatian</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180220T205204Z" creationid="olexandr" creationdate="20180220T205204Z">
+        <seg>Хорватська</seg>
       </tuv>
     </tu>
     <tu>
@@ -4405,10 +4653,26 @@ may experience unexpected, but correct behaviour.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Czech</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180220T205206Z" creationid="olexandr" creationdate="20180220T205206Z">
+        <seg>Чеська</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>D&amp;iagrams</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Лера9764" changedate="20171121T145745Z" creationid="Diman966" creationdate="20171116T200918Z">
         <seg>&amp;Діаграми</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Danish</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180220T205209Z" creationid="olexandr" creationdate="20180220T205209Z">
+        <seg>Данська</seg>
       </tuv>
     </tu>
     <tu>
@@ -4781,6 +5045,14 @@ may experience unexpected, but correct behaviour.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Divehi, Dhivehi, Maldivian</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180220T205219Z" creationid="olexandr" creationdate="20180220T205219Z">
+        <seg>Дівехі; Дхівехі; Мальдівська</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Do not allow creating translated documents with tag &amp;issues</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="olexandr" changedate="20180219T001820Z" creationid="nessyk" creationdate="20180123T151506Z">
@@ -5081,8 +5353,16 @@ project_save.tmx не був завантажений, а SVN перейшов �
       <tuv lang="EN">
         <seg>Dutch</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="Маринка" changedate="20171107T194505Z" creationid="Маринка" creationdate="20171107T194505Z">
-        <seg>Датська</seg>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180220T205342Z" creationid="olexandr" creationdate="20180220T205342Z">
+        <seg>Нідерландська</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Dzongkha</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180220T205347Z" creationid="olexandr" creationdate="20180220T205347Z">
+        <seg>Дзонг-ке</seg>
       </tuv>
     </tu>
     <tu>
@@ -5687,6 +5967,22 @@ project_save.tmx не був завантажений, а SVN перейшов �
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Esperanto</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180220T205352Z" creationid="olexandr" creationdate="20180220T205352Z">
+        <seg>Есперанто</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Estonian</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180220T210751Z" creationid="olexandr" creationdate="20180220T210751Z">
+        <seg>Естонська</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Event: application shutdown</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="olexandr" changedate="20180217T095047Z" creationid="nessyk" creationdate="20171207T184338Z">
@@ -5731,6 +6027,14 @@ project_save.tmx не був завантажений, а SVN перейшов �
       </tuv>
       <tuv lang="UK-UA" changeid="olexandr" changedate="20180217T094913Z" creationid="nessyk" creationdate="20171207T183326Z">
         <seg>Подія: зміна проекту - «{0}»</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Ewe</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180220T210754Z" creationid="olexandr" creationdate="20180220T210754Z">
+        <seg>Еве</seg>
       </tuv>
     </tu>
     <tu>
@@ -6031,6 +6335,14 @@ project_save.tmx не був завантажений, а SVN перейшов �
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Faroese</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180220T210757Z" creationid="olexandr" creationdate="20180220T210757Z">
+        <seg>Фарерська</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Fatal error encountered - saving project file with '.recover' backup extension.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="olexandr" changedate="20180217T125921Z" creationid="Маринка" creationdate="20171101T214955Z">
@@ -6051,6 +6363,14 @@ project_save.tmx не був завантажений, а SVN перейшов �
       </tuv>
       <tuv lang="UK-UA" changeid="olexandr" changedate="20180130T214255Z" creationid="olexandr" creationdate="20180130T214255Z">
         <seg>Ще кілька порад</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Fijian</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180220T210759Z" creationid="olexandr" creationdate="20180220T210759Z">
+        <seg>Фіджійська</seg>
       </tuv>
     </tu>
     <tu>
@@ -6399,6 +6719,14 @@ project_save.tmx не був завантажений, а SVN перейшов �
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Fula, Fulah, Pulaar, Pular</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180220T211024Z" creationid="olexandr" creationdate="20180220T211024Z">
+        <seg>Фулах</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Full checking can lead to false positives in normal texts.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Diman966" changedate="20180115T202850Z" creationid="Diman966" creationdate="20180115T202850Z">
@@ -6447,6 +6775,14 @@ project_save.tmx не був завантажений, а SVN перейшов �
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Galician</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180220T211028Z" creationid="olexandr" creationdate="20180220T211028Z">
+        <seg>Галісійська</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>General</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="nessyk" changedate="20171026T171559Z" creationid="nessyk" creationdate="20171026T133031Z">
@@ -6459,6 +6795,14 @@ project_save.tmx не був завантажений, а SVN перейшов �
       </tuv>
       <tuv lang="UK-UA" changeid="olexandr" changedate="20180130T213903Z" creationid="olexandr" creationdate="20180130T213903Z">
         <seg>Створення файлу перекладу</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Georgian</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180220T211030Z" creationid="olexandr" creationdate="20180220T211030Z">
+        <seg>Грузинська</seg>
       </tuv>
     </tu>
     <tu>
@@ -6655,6 +6999,14 @@ project_save.tmx не був завантажений, а SVN перейшов �
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Greek, Modern</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180220T211102Z" creationid="olexandr" creationdate="20180220T211102Z">
+        <seg>Грецька</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Groovy (Apache Licence 2.0)</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="olexandr" changedate="20180217T094230Z" creationid="nessyk" creationdate="20180123T121825Z">
@@ -6667,6 +7019,22 @@ project_save.tmx не був завантажений, а SVN перейшов �
       </tuv>
       <tuv lang="UK-UA" changeid="olexandr" changedate="20180217T130322Z" creationid="olexandr" creationdate="20180217T130322Z">
         <seg>Група {0} не існує в пошуковому виразі</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Guaraní</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180220T211206Z" creationid="olexandr" creationdate="20180220T211206Z">
+        <seg>Гуарані</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Gujarati</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180220T211210Z" creationid="olexandr" creationdate="20180220T211210Z">
+        <seg>Гуджараті</seg>
       </tuv>
     </tu>
     <tu>
@@ -6719,6 +7087,14 @@ project_save.tmx не був завантажений, а SVN перейшов �
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Haitian, Haitian Creole</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180220T211219Z" creationid="olexandr" creationdate="20180220T211219Z">
+        <seg>Гаїтянська; Креольська гаїтянська</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Has note</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="nessyk" changedate="20171106T222304Z" creationid="nessyk" creationdate="20171106T222304Z">
@@ -6727,10 +7103,26 @@ project_save.tmx не був завантажений, а SVN перейшов �
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Hausa</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180220T211222Z" creationid="olexandr" creationdate="20180220T211222Z">
+        <seg>Хауса</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>He&amp;aders</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Маринка" changedate="20171203T195929Z" creationid="Маринка" creationdate="20171203T195929Z">
         <seg>За&amp;головки</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Hebrew (modern)</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180220T211230Z" creationid="olexandr" creationdate="20180220T211230Z">
+        <seg>Іврит</seg>
       </tuv>
     </tu>
     <tu>
@@ -6775,6 +7167,14 @@ project_save.tmx не був завантажений, а SVN перейшов �
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Herero</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180220T211233Z" creationid="olexandr" creationdate="20180220T211233Z">
+        <seg>Гереро</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Hide '{0}'</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Лера9764" changedate="20171110T193007Z" creationid="Лера9764" creationdate="20171110T193007Z">
@@ -6803,6 +7203,22 @@ project_save.tmx не був завантажений, а SVN перейшов �
       </tuv>
       <tuv lang="UK-UA" changeid="olexandr" changedate="20180216T154059Z" creationid="nessyk" creationdate="20171101T185114Z">
         <seg>Виділений шаблон…</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Hindi</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180220T211235Z" creationid="olexandr" creationdate="20180220T211235Z">
+        <seg>Хінді</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Hiri Motu</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180220T211239Z" creationid="olexandr" creationdate="20180220T211239Z">
+        <seg>Хірімоту</seg>
       </tuv>
     </tu>
     <tu>
@@ -6867,6 +7283,14 @@ project_save.tmx не був завантажений, а SVN перейшов �
       </tuv>
       <tuv lang="UK-UA" changeid="olexandr" changedate="20180130T213737Z" creationid="olexandr" creationdate="20180130T213737Z">
         <seg>Але, якщо теґи розставлені некоректно, можуть виникнути проблеми з відкриттям перекладених файлів.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Hungarian</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180220T211241Z" creationid="olexandr" creationdate="20180220T211241Z">
+        <seg>Угорська</seg>
       </tuv>
     </tu>
     <tu>
@@ -6951,10 +7375,26 @@ project_save.tmx не був завантажений, а SVN перейшов �
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Icelandic</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180220T211335Z" creationid="olexandr" creationdate="20180220T211335Z">
+        <seg>Ісландська</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Identifier used for alternative translations</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Маринка" changedate="20171221T184609Z" creationid="Маринка" creationdate="20171221T184609Z">
         <seg>Ідентифікатор, який використовується для альтернативних перекладів</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Ido</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180220T211332Z" creationid="olexandr" creationdate="20180220T211332Z">
+        <seg>Ідо</seg>
       </tuv>
     </tu>
     <tu>
@@ -7109,6 +7549,14 @@ their defaults as a result of the location change.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Igbo</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180220T211328Z" creationid="olexandr" creationdate="20180220T211328Z">
+        <seg>Ігбо</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Ignore All</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Лера9764" changedate="20171209T183152Z" creationid="Diman966" creationdate="20171116T210843Z">
@@ -7209,6 +7657,14 @@ their defaults as a result of the location change.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Маринка" changedate="20171209T215543Z" creationid="Маринка" creationdate="20171114T214541Z">
         <seg>Статистики по окремих файлах:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Indonesian</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180220T211304Z" creationid="olexandr" creationdate="20180220T211304Z">
+        <seg>Індонезійська</seg>
       </tuv>
     </tu>
     <tu>
@@ -7389,10 +7845,42 @@ their defaults as a result of the location change.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Interlingua</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180220T211259Z" creationid="olexandr" creationdate="20180220T211259Z">
+        <seg>Інтерлінгва</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Interlingue</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180220T211321Z" creationid="olexandr" creationdate="20180220T211321Z">
+        <seg>Окциденталь</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Introduction</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="olexandr" changedate="20180217T093700Z" creationid="olexandr" creationdate="20180217T093700Z">
         <seg>Вступ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Inuktitut</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180220T211338Z" creationid="olexandr" creationdate="20180220T211338Z">
+        <seg>Інуктітут</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Inupiaq</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180220T211330Z" creationid="olexandr" creationdate="20180220T211330Z">
+        <seg>Інупіак</seg>
       </tuv>
     </tu>
     <tu>
@@ -7433,6 +7921,14 @@ their defaults as a result of the location change.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20170902T144521Z" creationid="Kos Ivantsov" creationdate="20170902T144521Z">
         <seg>Детальнішу інформацію можна отримати, запустивши програму з параметром «team -h».</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Irish</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180220T211325Z" creationid="olexandr" creationdate="20180220T211325Z">
+        <seg>Ірландська</seg>
       </tuv>
     </tu>
     <tu>
@@ -7671,6 +8167,14 @@ inside the configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Javanese</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180220T211342Z" creationid="olexandr" creationdate="20180220T211342Z">
+        <seg>Яванська</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Jmyspell (LGPL License)</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Tetiana21" changedate="20171205T150758Z" creationid="Tetiana21" creationdate="20171205T150724Z">
@@ -7683,6 +8187,46 @@ inside the configuration folder.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20170914T170202Z" creationid="Kos Ivantsov" creationdate="20170914T170202Z">
         <seg>Перехід до останнього редагованого сегмента…</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Kalaallisut, Greenlandic</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180220T211350Z" creationid="olexandr" creationdate="20180220T211350Z">
+        <seg>Калаллісут; Гренландська</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Kannada</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180220T211354Z" creationid="olexandr" creationdate="20180220T211354Z">
+        <seg>Каннада</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Kanuri</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180220T211356Z" creationid="olexandr" creationdate="20180220T211356Z">
+        <seg>Канурі</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Kashmiri</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180220T211358Z" creationid="olexandr" creationdate="20180220T211358Z">
+        <seg>Кашмірська</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Kazakh</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180220T211401Z" creationid="olexandr" creationdate="20180220T211401Z">
+        <seg>Казахська</seg>
       </tuv>
     </tu>
     <tu>
@@ -7763,6 +8307,86 @@ inside the configuration folder.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Маринка" changedate="20171114T215911Z" creationid="Маринка" creationdate="20171114T215911Z">
         <seg>Пошук за ключовими словами відбувається незалежно від їх порядку.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Khmer</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180220T211413Z" creationid="olexandr" creationdate="20180220T211413Z">
+        <seg>Кхмерська</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Kikuyu, Gikuyu</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180220T211421Z" creationid="olexandr" creationdate="20180220T211415Z">
+        <seg>Кікую; Гікую</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Kinyarwanda</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180220T211424Z" creationid="olexandr" creationdate="20180220T211424Z">
+        <seg>Кіньяруанда</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Kirghiz, Kyrgyz</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180220T211428Z" creationid="olexandr" creationdate="20180220T211428Z">
+        <seg>Киргизька</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Kirundi</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180220T211946Z" creationid="olexandr" creationdate="20180220T211946Z">
+        <seg>Кірундійська</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Komi</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180220T211430Z" creationid="olexandr" creationdate="20180220T211430Z">
+        <seg>Комі</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Kongo</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180220T211432Z" creationid="olexandr" creationdate="20180220T211432Z">
+        <seg>Конго</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Korean</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180220T211435Z" creationid="olexandr" creationdate="20180220T211435Z">
+        <seg>Корейська</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Kurdish</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180220T211438Z" creationid="olexandr" creationdate="20180220T211438Z">
+        <seg>Курдська</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Kwanyama, Kuanyama</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180220T211443Z" creationid="olexandr" creationdate="20180220T211443Z">
+        <seg>Кіньяма; Кваньяма</seg>
       </tuv>
     </tu>
     <tu>
@@ -7983,6 +8607,14 @@ inside the configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Lao</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180220T211520Z" creationid="olexandr" creationdate="20180220T211520Z">
+        <seg>Лаоська</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Last Changes...</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="olexandr" changedate="20180218T233155Z" creationid="olexandr" creationdate="20180218T233155Z">
@@ -8003,6 +8635,22 @@ inside the configuration folder.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20170902T145030Z" creationid="Kos Ivantsov" creationdate="20170902T145030Z">
         <seg>Востаннє змінено користувачем {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Latin</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180220T211447Z" creationid="olexandr" creationdate="20180220T211447Z">
+        <seg>Латиниця</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Latvian</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180220T211529Z" creationid="olexandr" creationdate="20180220T211529Z">
+        <seg>Латиська</seg>
       </tuv>
     </tu>
     <tu>
@@ -8057,10 +8705,26 @@ inside the configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Limburgish, Limburgan, Limburger</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180220T211515Z" creationid="olexandr" creationdate="20180220T211515Z">
+        <seg>Лімбурганська; Лімбургенська; Лімбургійська</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Line length:</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Лера9764" changedate="20180125T123139Z" creationid="Лера9764" creationdate="20171031T070247Z">
         <seg>Довжина рядка:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Lingala</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180220T211518Z" creationid="olexandr" creationdate="20180220T211518Z">
+        <seg>Лінгала</seg>
       </tuv>
     </tu>
     <tu>
@@ -8093,6 +8757,14 @@ inside the configuration folder.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Лера9764" changedate="20171118T085245Z" creationid="Tetiana21" creationdate="20171105T155847Z">
         <seg>Вигляд списку</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Lithuanian</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180220T211523Z" creationid="olexandr" creationdate="20180220T211523Z">
+        <seg>Литовська</seg>
       </tuv>
     </tu>
     <tu>
@@ -8201,6 +8873,14 @@ inside the configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Luba-Katanga</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180220T211526Z" creationid="olexandr" creationdate="20180220T211526Z">
+        <seg>Луба-катанга</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Lucene (Apache License 2.0)</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="olexandr" changedate="20180217T094206Z" creationid="Tetiana21" creationdate="20171205T173253Z">
@@ -8209,10 +8889,34 @@ inside the configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Luganda</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180220T211504Z" creationid="olexandr" creationdate="20180220T211504Z">
+        <seg>Луганда</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Luxembourgish, Letzeburgesch</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180220T211450Z" creationid="olexandr" creationdate="20180220T211450Z">
+        <seg>Люксембурзька</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Mac&amp;hine Translate</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20170902T144805Z" creationid="Kos Ivantsov" creationdate="20170902T144805Z">
         <seg>&amp;Машинний переклад</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Macedonian</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180220T211536Z" creationid="olexandr" creationdate="20180220T211536Z">
+        <seg>Македонська</seg>
       </tuv>
     </tu>
     <tu>
@@ -8241,6 +8945,38 @@ inside the configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Malagasy</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180220T211539Z" creationid="olexandr" creationdate="20180220T211539Z">
+        <seg>Малагасійська</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Malay</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180220T211541Z" creationid="olexandr" creationdate="20180220T211541Z">
+        <seg>Малайська</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Malayalam</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180220T211544Z" creationid="olexandr" creationdate="20180220T211544Z">
+        <seg>Малаялам</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Maltese</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180220T211546Z" creationid="olexandr" creationdate="20180220T211546Z">
+        <seg>Мальтійська</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Manual</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20171209T223210Z" creationid="Kos Ivantsov" creationdate="20171209T223210Z">
@@ -8257,6 +8993,14 @@ inside the configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Manx</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180220T211533Z" creationid="olexandr" creationdate="20180220T211533Z">
+        <seg>Манкс</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Mapping of Local Folders to Remote Folders in Repositories</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="olexandr" changedate="20180216T151210Z" creationid="Маринка" creationdate="20171118T204529Z">
@@ -8269,6 +9013,14 @@ inside the configuration folder.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Маринка" changedate="20171217T182137Z" creationid="Маринка" creationdate="20171217T182137Z">
         <seg>Позна&amp;чити пробіли</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Marathi (Marāṭhī)</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180220T211606Z" creationid="olexandr" creationdate="20180220T211606Z">
+        <seg>Мараті</seg>
       </tuv>
     </tu>
     <tu>
@@ -8405,6 +9157,14 @@ inside the configuration folder.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="olexandr" changedate="20180220T063305Z" creationid="olexandr" creationdate="20180220T063305Z">
         <seg>Позначити пробіли</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Marshallese</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180220T211609Z" creationid="olexandr" creationdate="20180220T211609Z">
+        <seg>Маршальська</seg>
       </tuv>
     </tu>
     <tu>
@@ -8697,6 +9457,14 @@ inside the configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Mongolian</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180220T211612Z" creationid="olexandr" creationdate="20180220T211612Z">
+        <seg>Монгольська</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Monolingual</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Лера9764" changedate="20171205T064405Z" creationid="Diman966" creationdate="20171116T195736Z">
@@ -8857,6 +9625,14 @@ inside the configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Māori</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180220T211602Z" creationid="olexandr" creationdate="20180220T211602Z">
+        <seg>Маорі</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Name</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Лера9764" changedate="20180125T162400Z" creationid="Лера9764" creationdate="20171025T182020Z">
@@ -8877,6 +9653,38 @@ inside the configuration folder.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="nessyk" changedate="20171025T184928Z" creationid="nessyk" creationdate="20171025T184928Z">
         <seg>Назва: {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Nauru</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180220T211614Z" creationid="olexandr" creationdate="20180220T211614Z">
+        <seg>Науру</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Navajo, Navaho</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180220T211617Z" creationid="olexandr" creationdate="20180220T211617Z">
+        <seg>Навахо</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Ndonga</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180220T211702Z" creationid="olexandr" creationdate="20180220T211702Z">
+        <seg>Ндонга</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Nepali</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180220T211659Z" creationid="olexandr" creationdate="20180220T211659Z">
+        <seg>Непальська</seg>
       </tuv>
     </tu>
     <tu>
@@ -9181,6 +9989,46 @@ inside the configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>North Ndebele</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180220T211655Z" creationid="olexandr" creationdate="20180220T211655Z">
+        <seg>Північна ндебеле</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Northern Sami</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180220T212012Z" creationid="olexandr" creationdate="20180220T212012Z">
+        <seg>Північносаамська</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Norwegian</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180220T211720Z" creationid="olexandr" creationdate="20180220T211720Z">
+        <seg>Норвезька</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Norwegian Bokmål</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180220T211643Z" creationid="olexandr" creationdate="20180220T211643Z">
+        <seg>Букмол</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Norwegian Nynorsk</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180220T211715Z" creationid="olexandr" creationdate="20180220T211715Z">
+        <seg>Нюношк</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Not Set</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="nessyk" changedate="20171025T185626Z" creationid="nessyk" creationdate="20171025T185626Z">
@@ -9373,6 +10221,14 @@ inside the configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Nuosu</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180220T211734Z" creationid="olexandr" creationdate="20180220T211734Z">
+        <seg>Сичуань Йї</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>O&amp;ptions...</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="olexandr" changedate="20180219T192239Z" creationid="Лера9764" creationdate="20171102T161038Z">
@@ -9405,10 +10261,34 @@ inside the configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Occitan</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180220T211803Z" creationid="olexandr" creationdate="20180220T211803Z">
+        <seg>Окситанська</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Often documents will also have tags that have nothing to do with formatting, but which are also important in the source files (and in the translated files).</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="olexandr" changedate="20180130T212432Z" creationid="olexandr" creationdate="20180130T212432Z">
         <seg>Часто документи містять теґи, які не мають відношення до форматування, але вони відіграють важливу роль як в початкових файлах, так і в файлах перекладу.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Ojibwe, Ojibwa</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180220T211809Z" creationid="olexandr" creationdate="20180220T211809Z">
+        <seg>Оджибва</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Old Church Slavonic, Church Slavic, Church Slavonic, Old Bulgarian, Old Slavonic</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180220T211850Z" creationid="olexandr" creationdate="20180220T211850Z">
+        <seg>Церковнослов’янська; Давньослов’янська; Давньоболгарська; Давньослов’янська</seg>
       </tuv>
     </tu>
     <tu>
@@ -9921,6 +10801,22 @@ installed on your system.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Oriya</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180220T211856Z" creationid="olexandr" creationdate="20180220T211856Z">
+        <seg>Орія</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Oromo</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180220T211854Z" creationid="olexandr" creationdate="20180220T211854Z">
+        <seg>Оромо</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Orphan segments</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Маринка" changedate="20171204T170413Z" creationid="Маринка" creationdate="20171114T214135Z">
@@ -9933,6 +10829,14 @@ installed on your system.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="nessyk" changedate="20171113T221341Z" creationid="nessyk" creationdate="20171113T221341Z">
         <seg>Втрачений</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Ossetian, Ossetic</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180220T211900Z" creationid="olexandr" creationdate="20180220T211900Z">
+        <seg>Осетинська</seg>
       </tuv>
     </tu>
     <tu>
@@ -10033,6 +10937,14 @@ installed on your system.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Panjabi, Punjabi</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180220T211905Z" creationid="olexandr" creationdate="20180220T211905Z">
+        <seg>Пенджабі; Пунджабі</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Parse error encountered reading preferences file!</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Маринка" changedate="20180123T132224Z" creationid="Tetiana21" creationdate="20171105T165059Z">
@@ -10045,6 +10957,14 @@ installed on your system.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="nessyk" changedate="20171030T173308Z" creationid="nessyk" creationdate="20171025T175722Z">
         <seg>Розділити</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Pashto, Pushto</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180220T211924Z" creationid="olexandr" creationdate="20180220T211924Z">
+        <seg>Пушту; Пашту</seg>
       </tuv>
     </tu>
     <tu>
@@ -10117,6 +11037,14 @@ installed on your system.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="nessyk" changedate="20171125T173255Z" creationid="nessyk" creationdate="20171125T173255Z">
         <seg>Можливо, файл вже відкритий в іншій копії OmegaT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Persian</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180220T211918Z" creationid="olexandr" creationdate="20180220T211918Z">
+        <seg>Перська</seg>
       </tuv>
     </tu>
     <tu>
@@ -10402,6 +11330,14 @@ additional steps need to be taken.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20180205T231656Z" creationid="Маринка" creationdate="20171204T164708Z">
         <seg>Кінець вставленого тексту з іншим напрямком письма (PDF U+202C)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Portuguese</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180220T211927Z" creationid="olexandr" creationdate="20180220T211927Z">
+        <seg>Португальська</seg>
       </tuv>
     </tu>
     <tu>
@@ -10848,10 +11784,26 @@ project without team functionality.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Pāli</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180220T211916Z" creationid="olexandr" creationdate="20180220T211916Z">
+        <seg>Палі</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>QuarkXPress CopyFlow Gold</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Лера9764" changedate="20180127T143408Z" creationid="Лера9764" creationdate="20180127T143408Z">
         <seg>QuarkXPress CopyFlow Gold</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Quechua</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180220T211930Z" creationid="olexandr" creationdate="20180220T211930Z">
+        <seg>Кечуа</seg>
       </tuv>
     </tu>
     <tu>
@@ -11514,6 +12466,22 @@ project without team functionality.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Romanian, Moldavian, Moldovan</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180220T211955Z" creationid="olexandr" creationdate="20180220T211955Z">
+        <seg>Румунська; Молдавська</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Romansh</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180220T211934Z" creationid="olexandr" creationdate="20180220T211934Z">
+        <seg>Ретороманська</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Row</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="nessyk" changedate="20171101T184210Z" creationid="nessyk" creationdate="20171101T184140Z">
@@ -11650,6 +12618,14 @@ project without team functionality.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Samoan</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180220T212014Z" creationid="olexandr" creationdate="20180220T212014Z">
+        <seg>Самоанська</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Sample Output</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="nessyk" changedate="20171025T181000Z" creationid="nessyk" creationdate="20171025T181000Z">
@@ -11662,6 +12638,30 @@ project without team functionality.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20170902T184137Z" creationid="Kos Ivantsov" creationdate="20170902T184137Z">
         <seg>Зразок тексту</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Sango</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180220T212016Z" creationid="olexandr" creationdate="20180220T212016Z">
+        <seg>Санго</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Sanskrit (Saṁskṛta)</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180220T212002Z" creationid="olexandr" creationdate="20180220T212002Z">
+        <seg>Санскрит</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Sardinian</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180220T212005Z" creationid="olexandr" creationdate="20180220T212005Z">
+        <seg>Сардинська</seg>
       </tuv>
     </tu>
     <tu>
@@ -11784,6 +12784,14 @@ The scope of a search is by default the project and can be set to be any files l
       <tuv lang="UK-UA" changeid="olexandr" changedate="20180125T204401Z" creationid="nessyk" creationdate="20171025T174913Z">
         <seg>Сфера застосування:
 Межею пошуку є проект за замовчуванням, і його можна застосувати до будь-яких файлів, розташованих в певній ієрархії тек.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Scottish Gaelic, Gaelic</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180220T212025Z" creationid="olexandr" creationdate="20180220T212025Z">
+        <seg>Гаельська; Шотландська гаельська</seg>
       </tuv>
     </tu>
     <tu>
@@ -12293,6 +13301,14 @@ The scope of a search is by default the project and can be set to be any files l
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Serbian</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180220T212019Z" creationid="olexandr" creationdate="20180220T212019Z">
+        <seg>Сербська</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Server (original)</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Таня" changedate="20171214T164550Z" creationid="nessyk" creationdate="20171113T215711Z">
@@ -12405,6 +13421,14 @@ The scope of a search is by default the project and can be set to be any files l
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Shona</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180220T212028Z" creationid="olexandr" creationdate="20180220T212028Z">
+        <seg>Шона</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Shortcut</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="nessyk" changedate="20171025T184346Z" creationid="nessyk" creationdate="20171025T183151Z">
@@ -12493,6 +13517,22 @@ The scope of a search is by default the project and can be set to be any files l
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Sindhi</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180220T212007Z" creationid="olexandr" creationdate="20180220T212007Z">
+        <seg>Синдхі</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Sinhala, Sinhalese</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180220T212033Z" creationid="olexandr" creationdate="20180220T212033Z">
+        <seg>Сингала; Сингальська</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Size</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20170427T115541Z" creationid="Kos Ivantsov" creationdate="20170427T115541Z">
@@ -12529,6 +13569,30 @@ The scope of a search is by default the project and can be set to be any files l
       </tuv>
       <tuv lang="UK-UA" changeid="Маринка" changedate="20171223T193625Z" creationid="Маринка" creationdate="20171223T193625Z">
         <seg>Розмітка сла&amp;йду</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Slovak</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180220T212036Z" creationid="olexandr" creationdate="20180220T212036Z">
+        <seg>Словацька</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Slovene</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180220T212047Z" creationid="olexandr" creationdate="20180220T212047Z">
+        <seg>Словенська</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Somali</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180220T212056Z" creationid="olexandr" creationdate="20180220T212056Z">
+        <seg>Сомалійська</seg>
       </tuv>
     </tu>
     <tu>
@@ -12781,10 +13845,34 @@ The scope of a search is by default the project and can be set to be any files l
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>South Ndebele</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180220T211749Z" creationid="olexandr" creationdate="20180220T211749Z">
+        <seg>Південна ндебеле</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Southern Sotho</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180220T212119Z" creationid="olexandr" creationdate="20180220T212119Z">
+        <seg>Сесото</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Spanish</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Лера9764" changedate="20171025T175950Z" creationid="Лера9764" creationdate="20171025T175950Z">
         <seg>Іспанська</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Spanish, Castilian</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180220T212125Z" creationid="olexandr" creationdate="20180220T212125Z">
+        <seg>Іспанська; Кастільська</seg>
       </tuv>
     </tu>
     <tu>
@@ -12999,6 +14087,14 @@ The scope of a search is by default the project and can be set to be any files l
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Sundanese</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180220T212128Z" creationid="olexandr" creationdate="20180220T212128Z">
+        <seg>Сунданська</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>SuperTMXMerge (Apache License 2.0)</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="olexandr" changedate="20180217T094223Z" creationid="Маринка" creationdate="20171223T194414Z">
@@ -13011,6 +14107,22 @@ The scope of a search is by default the project and can be set to be any files l
       </tuv>
       <tuv lang="UK-UA" changeid="nessyk" changedate="20171102T210040Z" creationid="nessyk" creationdate="20171102T210019Z">
         <seg>Підтримувані файли</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Swahili</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180220T212131Z" creationid="olexandr" creationdate="20180220T212131Z">
+        <seg>Суахілі</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Swati</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180220T212134Z" creationid="olexandr" creationdate="20180220T212134Z">
+        <seg>Свазі</seg>
       </tuv>
     </tu>
     <tu>
@@ -13199,10 +14311,42 @@ The scope of a search is by default the project and can be set to be any files l
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Tagalog</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180220T212208Z" creationid="olexandr" creationdate="20180220T212208Z">
+        <seg>Тагальська</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Tags</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="olexandr" changedate="20180219T001920Z" creationid="nessyk" creationdate="20171030T172036Z">
         <seg>Теґи</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Tahitian</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180220T212228Z" creationid="olexandr" creationdate="20180220T212228Z">
+        <seg>Таїтянська</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Tajik</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180220T212143Z" creationid="olexandr" creationdate="20180220T212143Z">
+        <seg>Таджицька</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Tamil</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180220T212137Z" creationid="olexandr" creationdate="20180220T212137Z">
+        <seg>Тамільська</seg>
       </tuv>
     </tu>
     <tu>
@@ -13271,6 +14415,14 @@ The scope of a search is by default the project and can be set to be any files l
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Tatar</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180220T212223Z" creationid="olexandr" creationdate="20180220T212223Z">
+        <seg>Татарська</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Team</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Tetiana21" changedate="20171105T133445Z" creationid="Tetiana21" creationdate="20171105T133445Z">
@@ -13315,6 +14467,14 @@ The scope of a search is by default the project and can be set to be any files l
       </tuv>
       <tuv lang="UK-UA" changeid="olexandr" changedate="20180216T153917Z" creationid="nessyk" creationdate="20171118T185940Z">
         <seg>Командна синхронізація: Очікується завершення цього сегмента…</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Telugu</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180220T212140Z" creationid="olexandr" creationdate="20180220T212140Z">
+        <seg>Телугу</seg>
       </tuv>
     </tu>
     <tu>
@@ -13421,6 +14581,14 @@ The scope of a text replacement is the target segments of the project, whether t
       </tuv>
       <tuv lang="UK-UA" changeid="nessyk" changedate="20171113T220851Z" creationid="nessyk" creationdate="20171113T220832Z">
         <seg>Текст буде видалено</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Thai</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180220T212146Z" creationid="olexandr" creationdate="20180220T212146Z">
+        <seg>Тайська</seg>
       </tuv>
     </tu>
     <tu>
@@ -14062,6 +15230,22 @@ the server.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Tibetan Standard, Tibetan, Central</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180220T212203Z" creationid="olexandr" creationdate="20180220T212203Z">
+        <seg>Тибетська</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Tigrinya</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180220T212149Z" creationid="olexandr" creationdate="20180220T212149Z">
+        <seg>Тигринійська</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>To be sure that no translation will be lost, you need to:
 1.</seg>
       </tuv>
@@ -14137,6 +15321,14 @@ install.sh.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="nessyk" changedate="20171101T184943Z" creationid="nessyk" creationdate="20171101T184818Z">
         <seg>Змінити обране </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Tonga (Tonga Islands)</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180220T212214Z" creationid="olexandr" creationdate="20180220T212214Z">
+        <seg>Тонга (острови тонга)</seg>
       </tuv>
     </tu>
     <tu>
@@ -14447,10 +15639,50 @@ install.sh.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Tsonga</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180220T212220Z" creationid="olexandr" creationdate="20180220T212220Z">
+        <seg>Цонга</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Tswana</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180220T212211Z" creationid="olexandr" creationdate="20180220T212211Z">
+        <seg>Тсвана</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Turkish</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180220T212217Z" creationid="olexandr" creationdate="20180220T212217Z">
+        <seg>Турецька</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Turkmen</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180220T212206Z" creationid="olexandr" creationdate="20180220T212206Z">
+        <seg>Туркменська</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Tutorials</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20171209T223219Z" creationid="Kos Ivantsov" creationdate="20171209T223219Z">
         <seg>Тьюторіали</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Twi</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180220T212225Z" creationid="olexandr" creationdate="20180220T212225Z">
+        <seg>Тві</seg>
       </tuv>
     </tu>
     <tu>
@@ -14565,6 +15797,14 @@ Exact searches match the whole search string.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Таня" changedate="20180114T173712Z" creationid="nessyk" creationdate="20171025T182517Z">
         <seg>URL-адреса</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Uighur, Uyghur</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180220T212231Z" creationid="olexandr" creationdate="20180220T212231Z">
+        <seg>Уйгурська</seg>
       </tuv>
     </tu>
     <tu>
@@ -14901,6 +16141,14 @@ on line {1}, column {2}.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Urdu</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180220T212236Z" creationid="olexandr" creationdate="20180220T212236Z">
+        <seg>Урду</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Usage: java -jar OmegaT.jar [&lt;options&gt;] [&lt;project path&gt;]</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="TranslatorOne" changedate="20170413T142133Z" creationid="TranslatorOne" creationdate="20170413T142133Z">
@@ -15053,6 +16301,14 @@ on line {1}, column {2}.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Uzbek</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180220T212238Z" creationid="olexandr" creationdate="20180220T212238Z">
+        <seg>Узбецька</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>VLDocking Framework (LGPL License)</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Tetiana21" changedate="20171205T150726Z" creationid="Tetiana21" creationdate="20171205T150621Z">
@@ -15117,10 +16373,26 @@ on line {1}, column {2}.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Venda</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180220T212240Z" creationid="olexandr" creationdate="20180220T212240Z">
+        <seg>Венда</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Version: {0}</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Лера9764" changedate="20171031T070128Z" creationid="Лера9764" creationdate="20171031T070128Z">
         <seg>Версія: {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Vietnamese</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180220T212243Z" creationid="olexandr" creationdate="20180220T212243Z">
+        <seg>В'єтнамська</seg>
       </tuv>
     </tu>
     <tu>
@@ -15189,12 +16461,28 @@ on line {1}, column {2}.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Volapük</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180220T212245Z" creationid="olexandr" creationdate="20180220T212245Z">
+        <seg>Волапюк</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>WARNING: all unsaved data will be lost
 4.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Лера9764" changedate="20171107T200236Z" creationid="Лера9764" creationdate="20171107T200236Z">
         <seg>УВАГА: усі незбережені дані будуть втрачені
 4.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Walloon</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180220T212248Z" creationid="olexandr" creationdate="20180220T212248Z">
+        <seg>Валлонська</seg>
       </tuv>
     </tu>
     <tu>
@@ -15261,6 +16549,22 @@ trouble of selecting, obtaining and installing it.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Маринка" changedate="20171203T194400Z" creationid="Маринка" creationdate="20171203T194400Z">
         <seg>Субтитри WebVTT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Welsh</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180220T212251Z" creationid="olexandr" creationdate="20180220T212251Z">
+        <seg>Валлійська</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Western Frisian</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180220T212257Z" creationid="olexandr" creationdate="20180220T212257Z">
+        <seg>Західнофрізька</seg>
       </tuv>
     </tu>
     <tu>
@@ -15403,6 +16707,14 @@ Both exact and keyword searches support the wildcard characters * and ?.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Wolof</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180220T212253Z" creationid="olexandr" creationdate="20180220T212253Z">
+        <seg>Волоф</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Word</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Diman966" changedate="20171116T200815Z" creationid="nessyk" creationdate="20171030T173647Z">
@@ -15539,6 +16851,14 @@ Both exact and keyword searches support the wildcard characters * and ?.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Xhosa</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180220T212300Z" creationid="olexandr" creationdate="20180220T212300Z">
+        <seg>Хоза</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Yandex Translate</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="nessyk" changedate="20171126T112042Z" creationid="nessyk" creationdate="20171126T111050Z">
@@ -15551,6 +16871,22 @@ Both exact and keyword searches support the wildcard characters * and ?.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="nessyk" changedate="20171126T112029Z" creationid="nessyk" creationdate="20171126T112029Z">
         <seg>Yandex Переклад - Не вказано ключ API</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Yiddish</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180220T212302Z" creationid="olexandr" creationdate="20180220T212302Z">
+        <seg>Ідиш</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Yoruba</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180220T212304Z" creationid="olexandr" creationdate="20180220T212304Z">
+        <seg>Йоруба</seg>
       </tuv>
     </tu>
     <tu>
@@ -15743,6 +17079,22 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Маринка" changedate="20171106T205406Z" creationid="Маринка" creationdate="20171106T205406Z">
         <seg>ZIP-файли</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Zhuang, Chuang</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180220T212308Z" creationid="olexandr" creationdate="20180220T212308Z">
+        <seg>Чжуань</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Zulu</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180220T212311Z" creationid="olexandr" creationdate="20180220T212311Z">
+        <seg>Зулуська</seg>
       </tuv>
     </tu>
     <tu>
