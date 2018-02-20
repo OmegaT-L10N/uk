@@ -960,8 +960,8 @@
       <tuv lang="EN">
         <seg>&amp;Restore Main Window</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="Маринка" changedate="20171026T191357Z" creationid="Маринка" creationdate="20171026T191357Z">
-        <seg>&amp;Оновити головне вікно</seg>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180220T064022Z" creationid="Маринка" creationdate="20171026T191357Z">
+        <seg>Відн&amp;овити головне вікно</seg>
       </tuv>
     </tu>
     <tu>
@@ -2076,6 +2076,70 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Access Configuration Folder</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180220T064038Z" creationid="olexandr" creationdate="20180220T064038Z">
+        <seg>Доступ до теки конфігурації</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Access Project Contents/Current Source Document</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180220T063716Z" creationid="olexandr" creationdate="20180220T063716Z">
+        <seg>Доступ до контенту проекту/Поточний джерельний файл</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Access Project Contents/Current Target Document</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180220T063723Z" creationid="olexandr" creationdate="20180220T063723Z">
+        <seg>Доступ до контенту проекту/ПОточний перекладений документ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Access Project Contents/Dictionaries</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180220T063628Z" creationid="olexandr" creationdate="20180220T063628Z">
+        <seg>Доступ до контенту проекту/Словники</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Access Project Contents/Glossaries</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180220T063633Z" creationid="olexandr" creationdate="20180220T063633Z">
+        <seg>Доступ до контенту проекту/Глосарій</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Access Project Contents/Root</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180220T063624Z" creationid="olexandr" creationdate="20180220T063624Z">
+        <seg>Доступ до контенту проекту/Корінь</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Access Project Contents/Source Files</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180220T063658Z" creationid="olexandr" creationdate="20180220T063658Z">
+        <seg>Доступ до контенту проекту/Джерельні файли</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Access Project Contents/Target Files</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180220T063704Z" creationid="olexandr" creationdate="20180220T063704Z">
+        <seg>Доступ до контенту проекту/Перекладені файли</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Access Scripts Folder</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="olexandr" changedate="20180216T151533Z" creationid="nessyk" creationdate="20180123T130240Z">
@@ -2392,6 +2456,14 @@ The current setting is {0}MB;</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="nessyk" changedate="20171126T110733Z" creationid="nessyk" creationdate="20171126T110733Z">
         <seg>Альтернативна мова</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Always Confirm Quit</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180220T063934Z" creationid="olexandr" creationdate="20180220T063934Z">
+        <seg>Завжди підтверджувати вихід</seg>
       </tuv>
     </tu>
     <tu>
@@ -2787,6 +2859,14 @@ may experience unexpected, but correct behaviour.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="olexandr" changedate="20180219T190820Z" creationid="Лера9764" creationdate="20171117T163539Z">
         <seg>&amp;Огляд</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Back in history...</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180220T063205Z" creationid="olexandr" creationdate="20180220T063205Z">
+        <seg>Назад в історії…</seg>
       </tuv>
     </tu>
     <tu>
@@ -4589,6 +4669,14 @@ may experience unexpected, but correct behaviour.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Display Source Segments</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180220T063235Z" creationid="olexandr" creationdate="20180220T063235Z">
+        <seg>Показати сегменти з текстом оригіналу</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Display all &amp;source segments in bold</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="olexandr" changedate="20180218T203702Z" creationid="nessyk" creationdate="20171202T202552Z">
@@ -5815,6 +5903,14 @@ project_save.tmx не був завантажений, а SVN перейшов �
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>External TMXs...</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180220T064057Z" creationid="olexandr" creationdate="20180220T064057Z">
+        <seg>Зовнішні ТМХs…</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>External command completed.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Маринка" changedate="20171114T214300Z" creationid="Маринка" creationdate="20171114T214253Z">
@@ -6183,6 +6279,14 @@ project_save.tmx не був завантажений, а SVN перейшов �
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Font...</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180220T063044Z" creationid="olexandr" creationdate="20180220T063044Z">
+        <seg>Шрифт…</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Foote&amp;rs</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Лера9764" changedate="20180125T124150Z" creationid="Маринка" creationdate="20171203T200016Z">
@@ -6227,6 +6331,14 @@ project_save.tmx не був завантажений, а SVN перейшов �
       </tuv>
       <tuv lang="UK-UA" changeid="Лера9764" changedate="20171205T064246Z" creationid="Diman966" creationdate="20171116T195724Z">
         <seg>Формат:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Forward in history...</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180220T063211Z" creationid="olexandr" creationdate="20180220T063211Z">
+        <seg>Далі в історії…</seg>
       </tuv>
     </tu>
     <tu>
@@ -7137,6 +7249,14 @@ their defaults as a result of the location change.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="nessyk" changedate="20171202T200137Z" creationid="nessyk" creationdate="20171202T200137Z">
         <seg>Спочатку завантажте цю кількість сегментів:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Insert Match or Selection</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180220T063800Z" creationid="olexandr" creationdate="20180220T063800Z">
+        <seg>Вставити збіг або виділений текст</seg>
       </tuv>
     </tu>
     <tu>
@@ -8163,8 +8283,8 @@ inside the configuration folder.</seg>
       <tuv lang="EN">
         <seg>Mark &amp;Bidirectional Algorithm Control Characters</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="Маринка" changedate="20171217T182243Z" creationid="Маринка" creationdate="20171217T182243Z">
-        <seg>позначити &amp;двонаправлені керівні символи</seg>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180220T063538Z" creationid="Маринка" creationdate="20171217T182243Z">
+        <seg>Позначити &amp;двонаправлені керівні символи</seg>
       </tuv>
     </tu>
     <tu>
@@ -8201,6 +8321,14 @@ inside the configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Mark Bidirectional Algorithm Control Characters</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180220T063334Z" creationid="olexandr" creationdate="20180220T063334Z">
+        <seg>Позначити двонаправлені керівні символи</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Mark Glossary Matches</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="nessyk" changedate="20180123T143115Z" creationid="nessyk" creationdate="20180123T143115Z">
@@ -8225,10 +8353,58 @@ inside the configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Mark Non-Unique Segments</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180220T063247Z" creationid="olexandr" creationdate="20180220T063247Z">
+        <seg>Позначати неунікальні сегменти</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Mark Non-breakable Spaces</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180220T063256Z" creationid="olexandr" creationdate="20180220T063256Z">
+        <seg>Позначити нерозривні пробіли</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Mark Segments &amp;with Notes</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Маринка" changedate="20171217T181848Z" creationid="Маринка" creationdate="20171217T181848Z">
         <seg>Позначити сегменти &amp;з нотатками</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Mark Segments with Notes</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180220T063251Z" creationid="olexandr" creationdate="20180220T063251Z">
+        <seg>Позначити сегменти з нотатками</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Mark Translated Segments</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180220T063221Z" creationid="olexandr" creationdate="20180220T063221Z">
+        <seg>Позначити перекладені сегменти</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Mark Untranslated Segments</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180220T063225Z" creationid="olexandr" creationdate="20180220T063225Z">
+        <seg>Позначити неперекладені сегменти</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Mark Whitespace</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180220T063305Z" creationid="olexandr" creationdate="20180220T063305Z">
+        <seg>Позначити пробіли</seg>
       </tuv>
     </tu>
     <tu>
@@ -8769,6 +8945,14 @@ inside the configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Next Note</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180220T063131Z" creationid="olexandr" creationdate="20180220T063131Z">
+        <seg>Наступна нотатка</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Next Segment</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="olexandr" changedate="20180218T233437Z" creationid="olexandr" creationdate="20180218T233437Z">
@@ -8777,10 +8961,34 @@ inside the configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Next Translated Segment</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180220T063101Z" creationid="olexandr" creationdate="20180220T063101Z">
+        <seg>Наступний перекладений сегмент</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Next Uni&amp;que Segment</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Лера9764" changedate="20171031T065204Z" creationid="Лера9764" creationdate="20171031T065204Z">
         <seg>Наступний уні&amp;кальний сегмент</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Next Unique Segment</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180220T063153Z" creationid="olexandr" creationdate="20180220T063153Z">
+        <seg>Наступний унікальний сегмент</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Next Untranslated Segment</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180220T063056Z" creationid="olexandr" creationdate="20180220T063056Z">
+        <seg>Наступний неперекладений сегмент</seg>
       </tuv>
     </tu>
     <tu>
@@ -10312,6 +10520,22 @@ project without team functionality.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Previous Note</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180220T063135Z" creationid="olexandr" creationdate="20180220T063135Z">
+        <seg>Попередня нотатка</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Previous Segment</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180220T063112Z" creationid="olexandr" creationdate="20180220T063112Z">
+        <seg>Попередній сегмент</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Previous and &amp;next paragraphs</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Маринка" changedate="20171118T212121Z" creationid="Маринка" creationdate="20171118T212121Z">
@@ -10600,6 +10824,14 @@ project without team functionality.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Proxy Login...</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180220T063950Z" creationid="olexandr" creationdate="20180220T063950Z">
+        <seg>Проксі логін…</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Proxy User and Password</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Лера9764" changedate="20180125T161046Z" creationid="Лера9764" creationdate="20171114T173209Z">
@@ -10732,6 +10964,14 @@ project without team functionality.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Tetiana21" changedate="20171105T183710Z" creationid="Tetiana21" creationdate="20171105T183623Z">
         <seg>&amp;Рекурсивний пошук</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Redo Last Action</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180220T063739Z" creationid="olexandr" creationdate="20180220T063739Z">
+        <seg>Повторити останню дію</seg>
       </tuv>
     </tu>
     <tu>
@@ -11042,10 +11282,26 @@ project without team functionality.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Replace With Match or Selection</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180220T063754Z" creationid="olexandr" creationdate="20180220T063754Z">
+        <seg>Замінити збігом або виділеним текстом</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Replace with &amp;Machine Translation</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Лера9764" changedate="20171030T193719Z" creationid="Лера9764" creationdate="20171030T193719Z">
         <seg>Замінити &amp;машинним перекладом</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Replace with Machine Translation</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180220T063804Z" creationid="olexandr" creationdate="20180220T063804Z">
+        <seg>Замінити машинним перекладом</seg>
       </tuv>
     </tu>
     <tu>
@@ -11190,6 +11446,14 @@ project without team functionality.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20170902T163530Z" creationid="Kos Ivantsov" creationdate="20170902T163530Z">
         <seg>Відновити &amp;стандартні налаштування</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Restore Main Window</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180220T064006Z" creationid="olexandr" creationdate="20180220T064006Z">
+        <seg>Відновити головне вікно</seg>
       </tuv>
     </tu>
     <tu>
@@ -11490,6 +11754,14 @@ project without team functionality.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Saving and Output...</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180220T063947Z" creationid="olexandr" creationdate="20180220T063947Z">
+        <seg>Збереження та вихід…</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Saving project...</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="olexandr" changedate="20180219T194341Z" creationid="Kos Ivantsov" creationdate="20170902T184542Z">
@@ -11600,6 +11872,14 @@ The scope of a search is by default the project and can be set to be any files l
       </tuv>
       <tuv lang="UK-UA" changeid="nessyk" changedate="20171026T174221Z" creationid="nessyk" creationdate="20171026T174221Z">
         <seg>Пошук ({0})</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Search Project...</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180220T063839Z" creationid="olexandr" creationdate="20180220T063839Z">
+        <seg>Шукати в проекті…</seg>
       </tuv>
     </tu>
     <tu>
@@ -11757,6 +12037,14 @@ The scope of a search is by default the project and can be set to be any files l
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Segment number...</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180220T063119Z" creationid="olexandr" creationdate="20180220T063119Z">
+        <seg>Номер сегмента…</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Segment skipped.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Лера9764" changedate="20171117T154400Z" creationid="Diman966" creationdate="20171116T195116Z">
@@ -11809,6 +12097,14 @@ The scope of a search is by default the project and can be set to be any files l
       </tuv>
       <tuv lang="UK-UA" changeid="olexandr" changedate="20180217T130903Z" creationid="Лера9764" creationdate="20171117T154000Z">
         <seg>Правила сегментації виконуються наступним чином:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Segmentation...</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180220T062921Z" creationid="olexandr" creationdate="20180220T062921Z">
+        <seg>Сегментація…</seg>
       </tuv>
     </tu>
     <tu>
@@ -14369,6 +14665,14 @@ Exact searches match the whole search string.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Undo Last Action</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180220T063735Z" creationid="olexandr" creationdate="20180220T063735Z">
+        <seg>Скасувати останню дію</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Undock</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Diman966" changedate="20180123T155333Z" creationid="Tetiana21" creationdate="20171118T104735Z">
@@ -14757,6 +15061,22 @@ on line {1}, column {2}.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Validate Tags</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180220T063905Z" creationid="olexandr" creationdate="20180220T063905Z">
+        <seg>Перевірка теґів</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Validate Tags for Current Document</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180220T063926Z" creationid="olexandr" creationdate="20180220T063926Z">
+        <seg>Перевірка теґів у поточному документі</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Validate your tags</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="olexandr" changedate="20180130T212310Z" creationid="olexandr" creationdate="20180125T224147Z">
@@ -14833,6 +15153,14 @@ on line {1}, column {2}.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="olexandr" changedate="20180218T203237Z" creationid="Лера9764" creationdate="20171105T155236Z">
         <seg>Переглянути чи редагувати фільтри файлів.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>View...</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180220T064101Z" creationid="olexandr" creationdate="20180220T064101Z">
+        <seg>Вигляд…</seg>
       </tuv>
     </tu>
     <tu>
