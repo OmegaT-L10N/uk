@@ -6938,8 +6938,8 @@ project_save.tmx не був завантажений, а SVN перейшов �
       <tuv lang="EN">
         <seg>Git</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="Tetiana21" changedate="20171115T204249Z" creationid="Маринка" creationdate="20171114T215433Z">
-        <seg>Вхід</seg>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180220T231613Z" creationid="olexandr" creationdate="20180220T231613Z">
+        <seg>Git</seg>
       </tuv>
     </tu>
     <tu>
@@ -7766,6 +7766,14 @@ their defaults as a result of the location change.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Incompatibilities</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180220T232357Z" creationid="olexandr" creationdate="20180220T232357Z">
+        <seg>Несумісність</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Individual File Statistics:</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Маринка" changedate="20171209T215543Z" creationid="Маринка" creationdate="20171114T214541Z">
@@ -7898,6 +7906,14 @@ their defaults as a result of the location change.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="nessyk" changedate="20171202T181703Z" creationid="Лера9764" creationdate="20171118T085510Z">
         <seg>Встановити</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Installation and Use</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180220T232513Z" creationid="olexandr" creationdate="20180220T232513Z">
+        <seg>Встановлення та використання</seg>
       </tuv>
     </tu>
     <tu>
@@ -8118,6 +8134,22 @@ their defaults as a result of the location change.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>It can also detect some grammar mistakes.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180220T232949Z" creationid="olexandr" creationdate="20180220T232949Z">
+        <seg>Вона також визначає граматичні помилки.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>It does not include spell checking.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180220T232724Z" creationid="olexandr" creationdate="20180220T232724Z">
+        <seg>Додаток не займається перевіркою правопису.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>It is often useful to search for words and phrases in the source text and in your translation, so press &lt;k0&gt;Ctrl+F&lt;/k0&gt; for the &lt;g1&gt;Text Search&lt;/g1&gt; dialog at any time.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="olexandr" changedate="20180130T215843Z" creationid="olexandr" creationdate="20180130T215843Z">
@@ -8156,6 +8188,14 @@ inside the configuration folder.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="olexandr" changedate="20180219T001720Z" creationid="Маринка" creationdate="20171026T191716Z">
         <seg>Не вдалося створити перекладені документи, оскільки деякі теґи відсутні або пошкоджені.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>It will be used automatically by OmegaT if &lt;g0&gt;Options &gt; Language Checker&lt;/g0&gt; is checked.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180220T233242Z" creationid="olexandr" creationdate="20180220T233204Z">
+        <seg>Він автоматично використовується в OmegaT, якщо встановлено параметр &lt;g0&gt;Вигляд &gt; Перевірка мови&lt;/g0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8644,6 +8684,22 @@ inside the configuration folder.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="olexandr" changedate="20180218T205155Z" creationid="nessyk" creationdate="20171129T185329Z">
         <seg>LanguageTool буде вимкнуто до закриття проекту.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>LanguageTool will find errors for which a rule has been defined in its language-specific configuration files.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180220T232651Z" creationid="olexandr" creationdate="20180220T232651Z">
+        <seg>LanguageTool може шукати помилки згідно правил, які визначені у відповідному файлі конфігурації.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>LanguageTool will not work properly if an old version is found in the /plugin folder.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180220T232323Z" creationid="olexandr" creationdate="20180220T232323Z">
+        <seg>LanguageTool може працювати не коректно, якщо присутня стара версія в теці «/plugin».</seg>
       </tuv>
     </tu>
     <tu>
@@ -12225,6 +12281,14 @@ project without team functionality.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Remove LanguageTool from the /plugin folder before starting OmegaT.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180220T232345Z" creationid="olexandr" creationdate="20180220T232345Z">
+        <seg>Вилучіть додаток LanguageTool з теки «/plugin» перед запуском OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Remove Script</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Лера9764" changedate="20171110T192450Z" creationid="Лера9764" creationdate="20171110T192450Z">
@@ -14811,6 +14875,22 @@ current folder will be used instead.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The LanguageTool in OmegaT</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180220T232526Z" creationid="olexandr" creationdate="20180220T232526Z">
+        <seg>LanguageTool в OmegaT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The LanguageTool plugin is included in OmegaT.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180220T233028Z" creationid="olexandr" creationdate="20180220T233028Z">
+        <seg>Додаток LanguageTool тепер включено до типової конфігурації OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The Moses server URL is not set</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="nessyk" changedate="20180123T140632Z" creationid="nessyk" creationdate="20180123T140632Z">
@@ -15070,6 +15150,14 @@ in /lib/licenses/Licenses.txt.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="nessyk" changedate="20171121T182112Z" creationid="nessyk" creationdate="20171121T182112Z">
         <seg>Проект буде завантажено як локальний проект без командної функціональності.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The rules applied (if any) will depend on the source and target language of the project.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180220T233327Z" creationid="olexandr" creationdate="20180220T233327Z">
+        <seg>Застосовані правила залежать від мовної пари, що використовується в проекті.</seg>
       </tuv>
     </tu>
     <tu>
@@ -16786,6 +16874,14 @@ trouble of selecting, obtaining and installing it.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>When a rule is triggered, the corresponding phrase will be underlined in blue in the Editor (see &lt;e1&gt;also &lt;/e1&gt;and &lt;e2&gt;I didn't do nothing&lt;/e2&gt; in the picture above).</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180220T233506Z" creationid="olexandr" creationdate="20180220T233506Z">
+        <seg>Якщо правило спрацьовує, відповідну фразу буде позначено синім підкресленням у вікні редагування (дивіться &lt;e1&gt;also &lt;/e1&gt;та &lt;e2&gt;I didn't do nothing&lt;/e2&gt; на зображені вище).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>When a single file has more segments than this, additional segments will be loaded on-demand as you scroll.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="olexandr" changedate="20180217T100726Z" creationid="nessyk" creationdate="20171202T200400Z">
@@ -16798,6 +16894,14 @@ trouble of selecting, obtaining and installing it.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="nessyk" changedate="20171113T220618Z" creationid="nessyk" creationdate="20171113T220618Z">
         <seg>Якщо цю функцію обрано, то елементи у глосарійному вікні автоматичного заповнення також міститимуть вихідний текст.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>When hovering the mouse over the underlined phrase, an explanation will appear.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180220T232459Z" creationid="olexandr" creationdate="20180220T232459Z">
+        <seg>Якщо навести вказівник на підкреслену фразу, зʼявиться коротке пояснення.</seg>
       </tuv>
     </tu>
     <tu>
@@ -17190,6 +17294,14 @@ the installation script (linux-install.sh).</seg>
       <tuv lang="UK-UA" changeid="olexandr" changedate="20180125T210159Z" creationid="olexandr" creationdate="20180125T210159Z">
         <seg>Тим не менш, ви можете скористатися акуратнішим та більш дружнім до користувача
 встановленням використавши скрипт (linux-install.sh).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You can think of LanguageTool as a software to detect errors that a simple spell checker cannot detect, e.g. mixing up there/their, no/now etc.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180220T232930Z" creationid="olexandr" creationdate="20180220T232930Z">
+        <seg>Ви можете розглядати LanguageTool як програму для визначення помилок, які проста перевірка орфографії не визначає, наприклад варваризми, стиль, пунктуація та інше.</seg>
       </tuv>
     </tu>
     <tu>
