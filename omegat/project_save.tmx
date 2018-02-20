@@ -920,8 +920,8 @@
       <tuv lang="EN">
         <seg>&amp;Replace Next</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="Лера9764" changedate="20171030T181517Z" creationid="Лера9764" creationdate="20171030T181517Z">
-        <seg>&amp;Замінити наступний</seg>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180220T220652Z" creationid="Лера9764" creationdate="20171030T181517Z">
+        <seg>&amp;Замінити</seg>
       </tuv>
     </tu>
     <tu>
@@ -1700,6 +1700,30 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;e0&gt;Close:&lt;/e0&gt; close the window without any change.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180220T221121Z" creationid="olexandr" creationdate="20180220T220856Z">
+        <seg>&lt;e0&gt;Закрити:&lt;/e0&gt; закрити вікно без внесення змін.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;e0&gt;Replace All:&lt;/e0&gt; operates replacement of all occurrences (after displaying a confirmation window where the number of occurrences is shown).</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180220T220305Z" creationid="olexandr" creationdate="20180220T220128Z">
+        <seg>&lt;e0&gt;Замінити все:&lt;/e0&gt; проводить заміну всіх знайдених результатів (після цього буде показано вікно підтвердження із кількістю змін, які будуть внесені).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;e0&gt;Replace:&lt;/e0&gt; operates a "one by one" replacement, by the mean of buttons in the &lt;e1&gt;header of the Editor pane&lt;/e1&gt;.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180220T220505Z" creationid="olexandr" creationdate="20180220T220354Z">
+        <seg>&lt;e0&gt;Замінити:&lt;/e0&gt; проводить «покрокову» заміну, за допомогою кнопок в &lt;e1&gt;шапці панелі редагування&lt;/e1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;e0&gt;case sensitive&lt;/e0&gt;: the search will be performed for the exact string specified; i.e. capitalization is observed.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Лера9764" changedate="20171215T212626Z" creationid="Лера9764" creationdate="20171215T212626Z">
@@ -1896,6 +1920,14 @@ The current setting is {0}MB;</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="olexandr" changedate="20180218T230639Z" creationid="olexandr" creationdate="20180218T230355Z">
         <seg>&lt;p0&gt;Комбінація клавіш&lt;/p0&gt; &lt;s1&gt;Налаштування&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;p0&gt;Shortcuts&lt;/p0&gt; &lt;s1&gt;Search and replace - Ctrl+K&lt;/s1&gt;</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180220T214532Z" creationid="olexandr" creationdate="20180220T214431Z">
+        <seg>&lt;p0&gt;Комбінація клавіш&lt;/p0&gt; &lt;s1&gt;Пошук та заміна - Ctrl+K&lt;/s1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -3579,6 +3611,14 @@ may experience unexpected, but correct behaviour.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="nessyk" changedate="20171101T184701Z" creationid="nessyk" creationdate="20171101T184701Z">
         <seg>Очистити означення</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Click &lt;e2&gt;Replace Next&lt;/e2&gt; or &lt;e3&gt;Skip&lt;/e3&gt;, then end the replacement session with &lt;e4&gt;Finish&lt;/e4&gt;.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180220T220810Z" creationid="olexandr" creationdate="20180220T220810Z">
+        <seg>Натисніть &lt;e2&gt;Замінити&lt;/e2&gt; чи &lt;e3&gt;Пропустити&lt;/e3&gt;, по завершенню вийдіть з режиму заміни натиснувши кнопку &lt;e4&gt;Завершити&lt;/e4&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5679,6 +5719,14 @@ project_save.tmx не був завантажений, а SVN перейшов �
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Enter the new word or phrase (regular expressions are not supported) in the &lt;e0&gt;Replace with&lt;/e0&gt; box, then click one of the following options:</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180220T215705Z" creationid="olexandr" creationdate="20180220T215705Z">
+        <seg>Введіть нове слово, чи фразу, у поле (регулярні вирази не підтримуються) в поле &lt;e0&gt;Замінити на:&lt;/e0&gt;, тоді оберіть один з параметрів:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Enter the segment number:</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Маринка" changedate="20171101T205136Z" creationid="Маринка" creationdate="20171101T205136Z">
@@ -6051,6 +6099,14 @@ project_save.tmx не був завантажений, а SVN перейшов �
       </tuv>
       <tuv lang="UK-UA" changeid="Лера9764" changedate="20171105T154617Z" creationid="Лера9764" creationdate="20171105T154617Z">
         <seg>Точний збіг:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Example - Search and Replace</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180220T214607Z" creationid="olexandr" creationdate="20180220T214607Z">
+        <seg>Приклад - Пошук та заміна</seg>
       </tuv>
     </tu>
     <tu>
@@ -9457,6 +9513,14 @@ inside the configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Modified Segments:</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180220T214628Z" creationid="olexandr" creationdate="20180220T214628Z">
+        <seg>Змінені сегменти:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Mongolian</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="olexandr" changedate="20180220T211612Z" creationid="olexandr" creationdate="20180220T211612Z">
@@ -10701,6 +10765,14 @@ installed on your system.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Маринка" changedate="20171223T193121Z" creationid="Маринка" creationdate="20171223T193121Z">
         <seg>Відкрити параметри фільтра XML</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Open the Search and replace window with &lt;k0&gt; &lt;k1&gt;Ctrl&lt;/k1&gt; &lt;k2&gt;K&lt;/k2&gt; &lt;/k0&gt; and enter the word or expression you wish to replace in the &lt;e3&gt;Search for&lt;/e3&gt; box.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180220T215239Z" creationid="olexandr" creationdate="20180220T215239Z">
+        <seg>Відкрийте вікно «Пошук та заміна» натиснувши &lt;k0&gt; &lt;k1&gt;Ctrl&lt;/k1&gt; &lt;k2&gt;K&lt;/k2&gt; &lt;/k0&gt; та введіть слово чи вираз який ви бажаєте замінити у поле &lt;e3&gt;Шукати&lt;/e3&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12260,8 +12332,8 @@ project without team functionality.</seg>
       <tuv lang="EN">
         <seg>Replace with:</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="Маринка" changedate="20171107T195955Z" creationid="Маринка" creationdate="20171107T195955Z">
-        <seg>Замінити:</seg>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180220T215516Z" creationid="Маринка" creationdate="20171107T195955Z">
+        <seg>Замінити на:</seg>
       </tuv>
     </tu>
     <tu>
@@ -12876,6 +12948,14 @@ The scope of a search is by default the project and can be set to be any files l
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Search</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180220T214032Z" creationid="olexandr" creationdate="20180220T214032Z">
+        <seg>Пошук</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Search ({0})</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="nessyk" changedate="20171026T174221Z" creationid="nessyk" creationdate="20171026T174221Z">
@@ -12892,10 +12972,18 @@ The scope of a search is by default the project and can be set to be any files l
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Search and Replace</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180220T214048Z" creationid="olexandr" creationdate="20180220T214048Z">
+        <seg>Пошук та заміна</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Search and Replace...</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="olexandr" changedate="20180216T153201Z" creationid="Маринка" creationdate="20171026T191230Z">
-        <seg>Знайти та замінити…</seg>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180220T214708Z" creationid="Маринка" creationdate="20171026T191230Z">
+        <seg>Пошук та заміна…</seg>
       </tuv>
     </tu>
     <tu>
@@ -12924,10 +13012,34 @@ The scope of a search is by default the project and can be set to be any files l
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Search options</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180220T220903Z" creationid="olexandr" creationdate="20180220T220903Z">
+        <seg>Параметри пошуку</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Search options are similar to the ones displayed in &lt;l0&gt;Search window&lt;/l0&gt;.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180220T221019Z" creationid="olexandr" creationdate="20180220T221019Z">
+        <seg>Параметри пошуку такі ж, як і у розділі &lt;l0&gt;Вікно пошуку&lt;/l0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Search thread died unexpectedly!</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Маринка" changedate="20171211T192752Z" creationid="Маринка" creationdate="20171118T205740Z">
         <seg>Процес пошуку неочікувано припинився!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Search window</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180220T214541Z" creationid="olexandr" creationdate="20180220T214541Z">
+        <seg>Вікно пошуку</seg>
       </tuv>
     </tu>
     <tu>
@@ -13505,6 +13617,14 @@ The scope of a search is by default the project and can be set to be any files l
       </tuv>
       <tuv lang="UK-UA" changeid="olexandr" changedate="20180218T202818Z" creationid="Маринка" creationdate="20171209T194513Z">
         <seg>Показати панель пошуку та заміни</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Simple search and replace script</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180220T214616Z" creationid="olexandr" creationdate="20180220T214616Z">
+        <seg>Простий скрипт пошуку та заміни</seg>
       </tuv>
     </tu>
     <tu>
@@ -15013,6 +15133,14 @@ in /lib/licenses/Licenses.txt.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="nessyk" changedate="20180123T113527Z" creationid="nessyk" creationdate="20180123T113527Z">
         <seg>Файл, який слід перезаписати, повинен знаходитись у теці глосарію</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Then click on &lt;e0&gt;Search&lt;/e0&gt; button to display all the corresponding occurrences.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180220T215453Z" creationid="olexandr" creationdate="20180220T215453Z">
+        <seg>Натисніть кнопку &lt;e0&gt;Пошук&lt;/e0&gt;, аби показати результати пошуку.</seg>
       </tuv>
     </tu>
     <tu>
