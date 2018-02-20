@@ -32,8 +32,8 @@
       <tuv lang="EN">
         <seg>&amp;Access Project Contents</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="Маринка" changedate="20171209T212409Z" creationid="Маринка" creationdate="20171106T202238Z">
-        <seg>&amp;Відкрити проект</seg>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180220T224111Z" creationid="Маринка" creationdate="20171106T202238Z">
+        <seg>Доступ до контенту проекту</seg>
       </tuv>
     </tu>
     <tu>
@@ -280,8 +280,8 @@
       <tuv lang="EN">
         <seg>&amp;Defaults</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="Маринка" changedate="20171223T195656Z" creationid="Маринка" creationdate="20171223T195656Z">
-        <seg>&amp;За замовчуванням</seg>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180220T231401Z" creationid="Маринка" creationdate="20171223T195656Z">
+        <seg>&amp;Типово</seg>
       </tuv>
     </tu>
     <tu>
@@ -1128,16 +1128,16 @@
       <tuv lang="EN">
         <seg>&amp;Source Files</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="Лера9764" changedate="20180124T090443Z" creationid="Маринка" creationdate="20171026T191159Z">
-        <seg>&amp;Файли мовою оригіналу</seg>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180220T224247Z" creationid="Маринка" creationdate="20171026T191159Z">
+        <seg>&amp;Файли оригіналу</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>&amp;Source Files Language:</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="Маринка" changedate="20171118T204142Z" creationid="Маринка" creationdate="20171106T204840Z">
-        <seg>&amp;Мова файлів оригіналу:</seg>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180220T224532Z" creationid="Маринка" creationdate="20171106T204840Z">
+        <seg>Мова файлів ориг&amp;іналу:</seg>
       </tuv>
     </tu>
     <tu>
@@ -1176,8 +1176,8 @@
       <tuv lang="EN">
         <seg>&amp;Target Files</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="Лера9764" changedate="20180124T090453Z" creationid="Маринка" creationdate="20171026T191208Z">
-        <seg>Фа&amp;йли мовою перекладу</seg>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180220T224243Z" creationid="Маринка" creationdate="20171026T191208Z">
+        <seg>Фа&amp;йли перекладу</seg>
       </tuv>
     </tu>
     <tu>
@@ -1216,16 +1216,16 @@
       <tuv lang="EN">
         <seg>&amp;Translated Files Language:</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="Маринка" changedate="20171204T162002Z" creationid="Маринка" creationdate="20171107T195334Z">
-        <seg>&amp;Мова перекладених файлів:</seg>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180220T224521Z" creationid="Маринка" creationdate="20171107T195334Z">
+        <seg>&amp;Мова файлів перекладу:</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>&amp;Undo Changes</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="nessyk" changedate="20171026T174301Z" creationid="nessyk" creationdate="20171026T174301Z">
-        <seg>&amp;Відмінити зміни</seg>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180220T224713Z" creationid="nessyk" creationdate="20171026T174301Z">
+        <seg>&amp;Скасувати зміни</seg>
       </tuv>
     </tu>
     <tu>
@@ -1445,9 +1445,9 @@ To add files to the project, click on the Copy Files to Source Folder... button 
         <seg>--config-file=&lt;path&gt;
 		A Java .properties file from which to load default settings.</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20180205T224208Z" creationid="Kos Ivantsov" creationdate="20171003T223618Z">
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180220T225722Z" creationid="Kos Ivantsov" creationdate="20171003T223618Z">
         <seg>--config-file=&lt;шлях&gt;
-		Файл .properties Java з налаштуваннями, які будуть використанні як стандартні.</seg>
+		Файл «.properties» Java з налаштуваннями, які будуть використанні як типові.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1465,9 +1465,9 @@ To add files to the project, click on the Copy Files to Source Folder... button 
         <seg>--disable-project-locking
 		Do not attempt to lock the project's omegat.project file.</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20180205T224323Z" creationid="Маринка" creationdate="20171025T163726Z">
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180220T225756Z" creationid="Маринка" creationdate="20171025T163726Z">
         <seg>--disable-project-locking
-		Не намагатися блокувати файл проекту omegat.project.</seg>
+		Не намагатися блокувати файл проекту «omegat.project».</seg>
       </tuv>
     </tu>
     <tu>
@@ -1475,9 +1475,9 @@ To add files to the project, click on the Copy Files to Source Folder... button 
         <seg>--mode=[console-translate|console-pseudotranslatetmx|console-align]
 		Specify a mode other than default (GUI).</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20180205T224231Z" creationid="Kos Ivantsov" creationdate="20170902T144621Z">
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180220T225652Z" creationid="Kos Ivantsov" creationdate="20170902T144621Z">
         <seg>--mode=[console-translate|console-pseudotranslatetmx|console-align]
-		Вказати режим, відмінний від стандартного (GUI).</seg>
+		Вказати режим, відмінний від типового (GUI).</seg>
       </tuv>
     </tu>
     <tu>
@@ -1519,9 +1519,9 @@ To add files to the project, click on the Copy Files to Source Folder... button 
 	--config-dir=&lt;path&gt;
 		The directory to read/write OmegaT configuration files from/to.</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20180205T224203Z" creationid="Kos Ivantsov" creationdate="20171003T223852Z">
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180220T225744Z" creationid="Kos Ivantsov" creationdate="20171003T223852Z">
         <seg>--resource-bundle=&lt;шлях&gt;
-		Файл .properties Java, який має бути використаний для локалізації інтерфейсу
+		Файл «.properties» Java, який має бути використаний для локалізації інтерфейсу
 --config-dir=&lt;шлях&gt;
 		Тека для читання та запису файлів з налаштуваннями OmegaT.</seg>
       </tuv>
@@ -2856,9 +2856,10 @@ The TMX file will not be loaded.</seg>
 all settings will be at their defaults, due to which you
 may experience unexpected, but correct behaviour.</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="Лера9764" changedate="20180125T161608Z" creationid="Tetiana21" creationdate="20171118T104818Z">
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180220T230853Z" creationid="Tetiana21" creationdate="20171118T104818Z">
         <seg>В результаті цього
-всі налаштування будуть встановлюватись за замовчуванням, для вас це може бути несподіваним, але правильним.</seg>
+всі налаштування буде встановлено на типові, для вас це
+може бути несподіваним, але це правильна поведінка.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3401,8 +3402,8 @@ may experience unexpected, but correct behaviour.</seg>
       <tuv lang="EN">
         <seg>Cannot reset the filter to default patterns.</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="Маринка" changedate="20171223T195547Z" creationid="Маринка" creationdate="20171223T195547Z">
-        <seg>Не вдається скинути фільтр за замовчуванням.</seg>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180220T230642Z" creationid="Маринка" creationdate="20171223T195547Z">
+        <seg>Не вдається скинути фільтр на типовий.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4775,8 +4776,8 @@ may experience unexpected, but correct behaviour.</seg>
       <tuv lang="EN">
         <seg>Default</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="nessyk" changedate="20171025T184202Z" creationid="nessyk" creationdate="20171025T184202Z">
-        <seg>За замовчуванням</seg>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180220T231415Z" creationid="nessyk" creationdate="20171025T184202Z">
+        <seg>Типово</seg>
       </tuv>
     </tu>
     <tu>
@@ -5953,8 +5954,8 @@ project_save.tmx не був завантажений, а SVN перейшов �
       <tuv lang="EN">
         <seg>Error retrieve {0} as remote project file</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="nessyk" changedate="20171118T191323Z" creationid="nessyk" creationdate="20171118T191323Z">
-        <seg>Помилка завантаження {0} давній файл проекту</seg>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180220T223818Z" creationid="nessyk" creationdate="20171118T191323Z">
+        <seg>Помилка завантаження {0} як віддалений файл проекту</seg>
       </tuv>
     </tu>
     <tu>
@@ -7581,10 +7582,10 @@ project_save.tmx не був завантажений, а SVN перейшов �
 that location will be used and all settings will return to
 their defaults as a result of the location change.</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="olexandr" changedate="20180217T100805Z" creationid="nessyk" creationdate="20171205T181315Z">
-        <seg>Якщо пізніше доступ до потрібного місця буде надано,
-це місце розташування буде використано, і всі налаштування повернуться до
-налаштувань за замовчуванням в результаті зміни місця розташування.</seg>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180220T231002Z" creationid="nessyk" creationdate="20171205T181315Z">
+        <seg>Якщо пізніше доступ до потрібного місця буде надано, це місце
+розташування буде використано, і всі налаштування повернуться
+до типових значень в результаті зміни місця розташування.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7943,8 +7944,8 @@ their defaults as a result of the location change.</seg>
       <tuv lang="EN">
         <seg>Installing and running OmegaT" in the User Manual.</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="Лера9764" changedate="20171209T184612Z" creationid="Лера9764" creationdate="20171116T142440Z">
-        <seg>Встановлення та запуск OmegaT" у посібнику користувача.</seg>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180220T230027Z" creationid="Лера9764" creationdate="20171116T142440Z">
+        <seg>Встановлення та запуск OmegaT» у посібнику користувача.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8055,8 +8056,8 @@ their defaults as a result of the location change.</seg>
       <tuv lang="EN">
         <seg>Is default translation</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="nessyk" changedate="20171109T203320Z" creationid="nessyk" creationdate="20171109T203320Z">
-        <seg>Переклад за замовчуванням</seg>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180220T231036Z" creationid="nessyk" creationdate="20171109T203320Z">
+        <seg>Типовий переклад</seg>
       </tuv>
     </tu>
     <tu>
@@ -8095,8 +8096,8 @@ their defaults as a result of the location change.</seg>
       <tuv lang="EN">
         <seg>Issues for {0} ({1} of {2})</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="olexandr" changedate="20180125T211621Z" creationid="nessyk" creationdate="20171030T174040Z">
-        <seg>Помилки у файлі {0} ({1} з {2})</seg>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180220T225017Z" creationid="nessyk" creationdate="20171030T174040Z">
+        <seg>Помилки у файлі «{0}» ({1} з {2})</seg>
       </tuv>
     </tu>
     <tu>
@@ -10607,8 +10608,8 @@ to be launched.</seg>
       <tuv lang="EN">
         <seg>OmegaT ran out of memory, and will quit when you press OK.</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="olexandr" changedate="20180125T201646Z" creationid="Tetiana21" creationdate="20171118T194550Z">
-        <seg>У OmegaT недостатньо пам'яті. Вона завершить роботу, після того як ви натиснете ОК.</seg>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180220T230001Z" creationid="Tetiana21" creationdate="20171118T194550Z">
+        <seg>Недостатньо пам'яті для OmegaT, програму буде закрито після того як ви натиснете ОК.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11858,8 +11859,8 @@ project without team functionality.</seg>
       <tuv lang="EN">
         <seg>Project searches are by default performed on the source and target, reference TMs, glossaries, notes and comments of the project.</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="Маринка" changedate="20171118T205057Z" creationid="nessyk" creationdate="20171025T174917Z">
-        <seg>Пошуки проекту за замовчуванням виконуються мовами оригіналу та перекладу, посилання на термінологічні бази, глосарії, примітки та коментарі проекту.</seg>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180220T230517Z" creationid="nessyk" creationdate="20171025T174917Z">
+        <seg>Типово пошук в проекті ведеться по оригіналу, перекладу, посиланням на термінологічні бази, глосарію, приміткам та коментарях проекту.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12194,8 +12195,8 @@ project without team functionality.</seg>
       <tuv lang="EN">
         <seg>Remote Repositories</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="Лера9764" changedate="20171105T154811Z" creationid="Лера9764" creationdate="20171105T154811Z">
-        <seg>Вилучити репозиторії</seg>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180220T223719Z" creationid="Лера9764" creationdate="20171105T154811Z">
+        <seg>Віддалені репозиторії</seg>
       </tuv>
     </tu>
     <tu>
@@ -12524,8 +12525,8 @@ project without team functionality.</seg>
       <tuv lang="EN">
         <seg>Restore &amp;Defaults</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="nessyk" changedate="20171026T174333Z" creationid="nessyk" creationdate="20171026T174333Z">
-        <seg>Відновити значення за замовчуванням</seg>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180220T225622Z" creationid="nessyk" creationdate="20171026T174333Z">
+        <seg>Відновити типові значення</seg>
       </tuv>
     </tu>
     <tu>
@@ -12917,9 +12918,9 @@ project without team functionality.</seg>
         <seg>Scope:
 The scope of a search is by default the project and can be set to be any files located in a specified folder hierarchy.</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="olexandr" changedate="20180125T204401Z" creationid="nessyk" creationdate="20171025T174913Z">
-        <seg>Сфера застосування:
-Межею пошуку є проект за замовчуванням, і його можна застосувати до будь-яких файлів, розташованих в певній ієрархії тек.</seg>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180220T230337Z" creationid="nessyk" creationdate="20171025T174913Z">
+        <seg>Межі пошуку:
+Типово межею пошуку є сам проект, і можна вести пошук по будь-яким файлам, розташованих у окремій теці.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13070,8 +13071,8 @@ The scope of a search is by default the project and can be set to be any files l
       <tuv lang="EN">
         <seg>Search in</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="Лера9764" changedate="20171025T175745Z" creationid="Лера9764" creationdate="20171025T175745Z">
-        <seg>Шукати в</seg>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180220T223927Z" creationid="Лера9764" creationdate="20171025T175745Z">
+        <seg>Місце пошуку</seg>
       </tuv>
     </tu>
     <tu>
@@ -13134,8 +13135,8 @@ The scope of a search is by default the project and can be set to be any files l
       <tuv lang="EN">
         <seg>See "Chapter 3.</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="Лера9764" changedate="20171116T142348Z" creationid="Лера9764" creationdate="20171116T142348Z">
-        <seg>Див. "Розділ 3.</seg>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180220T230019Z" creationid="Лера9764" creationdate="20171116T142348Z">
+        <seg>Дивіться «Розділ 3.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13158,8 +13159,8 @@ The scope of a search is by default the project and can be set to be any files l
       <tuv lang="EN">
         <seg>See Help &gt; User's Manual for more information.</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="olexandr" changedate="20180217T125412Z" creationid="Лера9764" creationdate="20171030T181139Z">
-        <seg>Для отримання додаткової інформації див.
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180220T225830Z" creationid="Лера9764" creationdate="20171030T181139Z">
+        <seg>Для отримання додаткової інформації дивіться
 «Довідка» &gt; «Посібник користувача…».</seg>
       </tuv>
     </tu>
@@ -13183,8 +13184,8 @@ The scope of a search is by default the project and can be set to be any files l
       <tuv lang="EN">
         <seg>See below for details.</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20170902T144645Z" creationid="Kos Ivantsov" creationdate="20170902T144645Z">
-        <seg>Докладніше див. нижче.</seg>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180220T225702Z" creationid="Kos Ivantsov" creationdate="20170902T144645Z">
+        <seg>Докладніше дивіться нижче.</seg>
       </tuv>
     </tu>
     <tu>
@@ -16439,8 +16440,8 @@ on line {1}, column {2}.</seg>
       <tuv lang="EN">
         <seg>Use as Default Translation</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="Лера9764" changedate="20171110T192821Z" creationid="Лера9764" creationdate="20171110T192821Z">
-        <seg>Використовувати як переклад за замовчуванням</seg>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180220T231019Z" creationid="Лера9764" creationdate="20171110T192821Z">
+        <seg>Використовувати як типовий переклад</seg>
       </tuv>
     </tu>
     <tu>
@@ -16965,16 +16966,16 @@ Both exact and keyword searches support the wildcard characters * and ?.</seg>
       <tuv lang="EN">
         <seg>Writeable Glossary File</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="Таня" changedate="20171216T141147Z" creationid="Маринка" creationdate="20171107T195552Z">
-        <seg>Файл словника, який можна змінити</seg>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180220T225218Z" creationid="Маринка" creationdate="20171107T195552Z">
+        <seg>Файл глосарію для запису</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Writeable Glossary File:</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="Маринка" changedate="20171217T182626Z" creationid="Маринка" creationdate="20171106T204655Z">
-        <seg>Файл словника, який можна змінити:</seg>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180220T225203Z" creationid="Маринка" creationdate="20171106T204655Z">
+        <seg>Файл глосарію для запису:</seg>
       </tuv>
     </tu>
     <tu>
@@ -21656,6 +21657,17 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="olexandr" changedate="20180219T202724Z" creationid="olexandr" creationdate="20180219T202724Z">
         <seg>uk</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">doc_src/SearchAndReplace.xml</prop>
+      <prop type="prev">&lt;p0&gt;Shortcuts&lt;/p0&gt; &lt;s1&gt;Search and replace - Ctrl+K&lt;/s1&gt;</prop>
+      <prop type="next">Open the Search and replace window with &lt;k0&gt; &lt;k1&gt;Ctrl&lt;/k1&gt; &lt;k2&gt;K&lt;/k2&gt; &lt;/k0&gt; and enter the word or expression you wish to replace in the &lt;e3&gt;Search for&lt;/e3&gt; box.</prop>
+      <tuv lang="EN">
+        <seg>Search window</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180220T223527Z" creationid="olexandr" creationdate="20180220T223527Z">
+        <seg>Вікно пошуку та заміни</seg>
       </tuv>
     </tu>
     <tu>
