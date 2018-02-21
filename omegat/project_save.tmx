@@ -1708,6 +1708,22 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;e0&gt;Groovy&lt;/e0&gt; (http://groovy.codehaus.org): is a dynamic language for the Java Virtual machine.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180220T234047Z" creationid="olexandr" creationdate="20180220T234047Z">
+        <seg>&lt;e0&gt;Groovy&lt;/e0&gt; (http://groovy.codehaus.org): це динамічна мова для віртуальної машини Java.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;e0&gt;JavaScript&lt;/e0&gt; (sometimes abbreviated JS, not to be confused with Java): is a prototype-based scripting language that is dynamic, weakly typed and has first-class functions.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180221T000011Z" creationid="olexandr" creationdate="20180221T000011Z">
+        <seg>&lt;e0&gt;JavaScript&lt;/e0&gt; (іноді має абревіатуру JS, але не плутайте із Java): це прототипна-орієнтовна скриптова мова з динамічною, слабкою типізацією та функціями як обʼєктами першого класу.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;e0&gt;Replace All:&lt;/e0&gt; operates replacement of all occurrences (after displaying a confirmation window where the number of occurrences is shown).</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="olexandr" changedate="20180220T220305Z" creationid="olexandr" creationdate="20180220T220128Z">
@@ -2500,6 +2516,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>All the languages have access to the OmegaT object model, with the project as the top object.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180221T000139Z" creationid="olexandr" creationdate="20180221T000139Z">
+        <seg>Всі мови мають доступ до обʼєктної моделі OmegaT, де проект є головним обʼєктом.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Allo&amp;w tag editing</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="olexandr" changedate="20180218T204809Z" creationid="nessyk" creationdate="20171202T195815Z">
@@ -3272,6 +3296,14 @@ may experience unexpected, but correct behaviour.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>By default, scripts are stored in the "scripts" folder located in OmegaT installation folder (the folder that contains the OmegaT.jar).</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180220T235450Z" creationid="olexandr" creationdate="20180220T235450Z">
+        <seg>Типово скрипти зберігаються в теці «scripts», яка розташована в теці встановлення OmegaT (яка містить файл OmegaT.jar).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>C&amp;ase sensitive</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Маринка" changedate="20171217T182844Z" creationid="Маринка" creationdate="20171107T200136Z">
@@ -3692,6 +3724,14 @@ may experience unexpected, but correct behaviour.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="olexandr" changedate="20180220T222142Z" creationid="olexandr" creationdate="20180220T222142Z">
         <seg>Натиснувши на стрілку в полі &lt;e0&gt;Пошук:&lt;/e0&gt; отримаєте доступ до останніх 10 пошукових запитів.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Clicking &lt;g0&gt;Tools &gt; &lt;/g0&gt;&lt;g1&gt;Scripting&lt;/g1&gt; opens the Scripting window:&lt;s2&gt; &lt;s3&gt;Scripting window&lt;/s3&gt; &lt;m4&gt; &lt;i5&gt; &lt;i6/&gt; &lt;/i5&gt; &lt;/m4&gt; &lt;/s2&gt;</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180220T234415Z" creationid="olexandr" creationdate="20180220T234415Z">
+        <seg>Натисніть &lt;g0&gt;Інструменти &gt; &lt;/g0&gt;&lt;g1&gt;Скрипти…&lt;/g1&gt; для відкриття вікна скриптів:&lt;s2&gt; &lt;s3&gt;Вікно: скрипти &lt;/s3&gt; &lt;m4&gt; &lt;i5&gt; &lt;i6/&gt; &lt;/i5&gt; &lt;/m4&gt; &lt;/s2&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -7750,6 +7790,14 @@ their defaults as a result of the location change.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>In the above example, two scripts (position 1 and 2) have already been added.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180220T235118Z" creationid="olexandr" creationdate="20180220T235118Z">
+        <seg>На наведеному прикладі два скрипти вже назначено (позиції 1 та 2).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Include Pattern</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Маринка" changedate="20171211T190650Z" creationid="Маринка" creationdate="20171211T190650Z">
@@ -8130,6 +8178,14 @@ their defaults as a result of the location change.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="olexandr" changedate="20180218T225741Z" creationid="olexandr" creationdate="20180218T225741Z">
         <seg>Цей документ також містить інструкцію з встановлення.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>It builds upon the strengths of Java but has additional power features inspired by languages like Python, Ruby and Smalltalk.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180220T235708Z" creationid="olexandr" creationdate="20180220T235708Z">
+        <seg>Він поєднує сильні сторони Java, але з додатковою потужністю, яка властива таки мовам як Python, Ruby та Smalltalk.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8942,6 +8998,14 @@ inside the configuration folder.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="nessyk" changedate="20180123T144750Z" creationid="nessyk" creationdate="20171202T181448Z">
         <seg>Завантажте проект, щоб налаштувати правила для мов проекту.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Load a script into the editor by clicking on its name in the list on the left panel.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180220T234902Z" creationid="olexandr" creationdate="20180220T234902Z">
+        <seg>Завантажте скрипт до редактора натиснувши на його назву в переліку, що розташований на лівій панелі.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10522,6 +10586,14 @@ inside the configuration folder.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="olexandr" changedate="20180125T210543Z" creationid="olexandr" creationdate="20180125T210543Z">
         <seg>Мова інтерфейсу користувача OmegaT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>OmegaT allows to run scripts written in different scripting languages.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180220T234455Z" creationid="olexandr" creationdate="20180220T234455Z">
+        <seg>OmegaT дозволяє запускати скрипти, написані на різних скриптових мовах.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12651,6 +12723,14 @@ project without team functionality.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Right-click on a button from "&lt;1&gt;" to "&lt;12&gt;" in the bottom panel and select "Add".</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180220T235025Z" creationid="olexandr" creationdate="20180220T235025Z">
+        <seg>Натисніть правою кнопкою на будь-якій кнопці від «&lt;1&gt;» до «&lt;12&gt;» на нижній панелі та оберіть «Додати скрипт».</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Right-to-Left Embedding (RLE U+202B)</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20180205T231707Z" creationid="Маринка" creationdate="20171204T164400Z">
@@ -13053,10 +13133,18 @@ The scope of a search is by default the project and can be set to be any files l
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Scripting languages</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180220T234113Z" creationid="olexandr" creationdate="20180220T234113Z">
+        <seg>Скриптові мови</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Scripts</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="Tetiana21" changedate="20171105T131532Z" creationid="Tetiana21" creationdate="20171105T131532Z">
-        <seg>Scripts</seg>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180220T233830Z" creationid="Tetiana21" creationdate="20171105T131532Z">
+        <seg>Скрипти</seg>
       </tuv>
     </tu>
     <tu>
@@ -13850,6 +13938,14 @@ The scope of a search is by default the project and can be set to be any files l
       </tuv>
       <tuv lang="UK-UA" changeid="olexandr" changedate="20180220T212056Z" creationid="olexandr" creationdate="20180220T212056Z">
         <seg>Сомалійська</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Some additional scripts can be found here: &lt;u0&gt;OmegaT Scripts&lt;/u0&gt;</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180220T233945Z" creationid="olexandr" creationdate="20180220T233945Z">
+        <seg>Деякі додаткові скрипти можна знайти тут: &lt;u0&gt;OmegaT Scripts&lt;/u0&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -14923,6 +15019,14 @@ current folder will be used instead.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The Scripting window allows you to load an existing script into the text area and run it against the current opened project.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180220T234657Z" creationid="olexandr" creationdate="20180220T234657Z">
+        <seg>Вікно скриптів дозволяє завантажувати наявні скрипти до текстового поля та запускати його, застосовуючи до поточного проекту.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The TMX file will continue to be loaded.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Маринка" changedate="20171126T180403Z" creationid="Маринка" creationdate="20171118T211320Z">
@@ -15031,6 +15135,14 @@ instead.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The following code snippet in groovy for instance scans through all the segments in all files in the current project and, if the translation exists, prints out the source and the target of the segment:</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180221T000334Z" creationid="olexandr" creationdate="20180221T000334Z">
+        <seg>Нище наведений приклад коду на groovy зчитує всі сегменти у всіх файлах поточного проекту, і, якщо існує переклад, друкує початковий та перекладений сегмент:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The following example shows Merriam Webster 10th dictionary "in action":</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="olexandr" changedate="20180218T214352Z" creationid="olexandr" creationdate="20180218T214352Z">
@@ -15043,6 +15155,14 @@ instead.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Diman966" changedate="20180115T201621Z" creationid="Diman966" creationdate="20180115T201621Z">
         <seg>Наступні параметри застосовуються лише до фільтра 3.x</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The following scripting languages have been implemented:</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180220T234104Z" creationid="olexandr" creationdate="20180220T234104Z">
+        <seg>Підтримуються наступні скриптові мови:</seg>
       </tuv>
     </tu>
     <tu>
@@ -15557,6 +15677,14 @@ the server.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="nessyk" changedate="20171121T182330Z" creationid="nessyk" creationdate="20171121T182330Z">
         <seg>Щоб конвертувати файл в командний проект, відкрийте його в графічному інтерфейсі OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To customize the script feature, do the following:</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180220T234818Z" creationid="olexandr" creationdate="20180220T234818Z">
+        <seg>Для використання можливості запуску скриптів виконайте наступне:</seg>
       </tuv>
     </tu>
     <tu>
@@ -16462,6 +16590,14 @@ on line {1}, column {2}.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Use</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180220T234140Z" creationid="olexandr" creationdate="20180220T234140Z">
+        <seg>Використання</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Use &amp;Fuzzy Matching for Dictionary Entries</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Маринка" changedate="20171126T165711Z" creationid="Маринка" creationdate="20171126T165404Z">
@@ -16922,6 +17058,14 @@ trouble of selecting, obtaining and installing it.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>When you left-click on the number, the selected script will run.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180220T235152Z" creationid="olexandr" creationdate="20180220T235152Z">
+        <seg>Якщо натиснете лівою кнопкою на число, обраний скрипт буде запущено.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Whenever you want to see what your translation will look like in its final format, press &lt;k2&gt;Ctrl+D&lt;/k2&gt; to generate the translated documents, which will be created in the &lt;f3&gt;/target/&lt;/f3&gt; subfolder of your project folder.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="olexandr" changedate="20180125T224027Z" creationid="olexandr" creationdate="20180125T224027Z">
@@ -17236,6 +17380,14 @@ Both exact and keyword searches support the wildcard characters * and ?.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>You can add new scripts there, so they will appear in the list of available scripts in the Scripting window.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180220T235531Z" creationid="olexandr" creationdate="20180220T235531Z">
+        <seg>Ви можете додавати нові скрипти, і вони зʼявляться в переліку вікна скриптів.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>You can change the already assigned shortcuts and add new shortcuts by putting a shortcut definition file in your OmegaT preferences folder (see &lt;l0&gt;User files location&lt;/l0&gt;).</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="olexandr" changedate="20180218T231328Z" creationid="olexandr" creationdate="20180218T231217Z">
@@ -17294,6 +17446,14 @@ the installation script (linux-install.sh).</seg>
       <tuv lang="UK-UA" changeid="olexandr" changedate="20180125T210159Z" creationid="olexandr" creationdate="20180125T210159Z">
         <seg>Тим не менш, ви можете скористатися акуратнішим та більш дружнім до користувача
 встановленням використавши скрипт (linux-install.sh).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You can start the selected macros from the main menu as well by using their entries in the &lt;g0&gt;Tools &lt;/g0&gt;menu or by pressing&lt;k1&gt; Ctrl+Alt+F#&lt;/k1&gt; (# 1 to 12).</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180220T235405Z" creationid="olexandr" creationdate="20180220T235405Z">
+        <seg>Ви можете запустити обраний макрос головного вікна використовуючи відповідний пункт в меню &lt;g0&gt;Інструменти&lt;/g0&gt;  чи натиснувши &lt;k1&gt;Ctrl+Alt+F#&lt;/k1&gt; (# від 1 до 12).</seg>
       </tuv>
     </tu>
     <tu>
@@ -17924,6 +18084,14 @@ create its configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>console.println(source + " &gt;&gt;&gt;&gt; " + target);</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180220T233855Z" creationid="olexandr" creationdate="20180220T233855Z">
+        <seg>console.println(source + " &gt;&gt;&gt;&gt; " + target);</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>cor</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="olexandr" changedate="20180219T201506Z" creationid="olexandr" creationdate="20180219T201506Z">
@@ -17968,6 +18136,14 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="olexandr" changedate="20180219T202312Z" creationid="olexandr" creationdate="20180219T202312Z">
         <seg>cu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>currSegment = files[i].entries[j];</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180220T233849Z" creationid="olexandr" creationdate="20180220T233849Z">
+        <seg>currSegment = files[i].entries[j];</seg>
       </tuv>
     </tu>
     <tu>
@@ -18460,6 +18636,14 @@ create its configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>files = project.projectFiles;</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180220T233901Z" creationid="olexandr" creationdate="20180220T233901Z">
+        <seg>files = project.projectFiles;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>fin</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="olexandr" changedate="20180219T202130Z" creationid="olexandr" creationdate="20180219T202130Z">
@@ -18488,6 +18672,22 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="olexandr" changedate="20180219T202127Z" creationid="olexandr" creationdate="20180219T202127Z">
         <seg>fo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>for (i in 0 ..&lt; files.size())</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180220T233900Z" creationid="olexandr" creationdate="20180220T233900Z">
+        <seg>for (i in 0 ..&lt; files.size())</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>for (j in 0 ..&lt; files[i].entries.size())</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180220T233846Z" creationid="olexandr" creationdate="20180220T233846Z">
+        <seg>for (j in 0 ..&lt; files[i].entries.size())</seg>
       </tuv>
     </tu>
     <tu>
@@ -18948,6 +19148,14 @@ create its configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>https://sourceforge.net/projects/omegatscripts/</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180220T233913Z" creationid="olexandr" creationdate="20180220T233913Z">
+        <seg>https://sourceforge.net/projects/omegatscripts/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>hu</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="olexandr" changedate="20180219T202150Z" creationid="olexandr" creationdate="20180219T202150Z">
@@ -19024,6 +19232,14 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="olexandr" changedate="20180219T202154Z" creationid="olexandr" creationdate="20180219T202154Z">
         <seg>ie</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>if (project.getTranslationInfo(currSegment))</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180220T233851Z" creationid="olexandr" creationdate="20180220T233851Z">
+        <seg>if (project.getTranslationInfo(currSegment))</seg>
       </tuv>
     </tu>
     <tu>
@@ -20774,6 +20990,14 @@ create its configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>source = currSegment.getSrcText();</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180220T233853Z" creationid="olexandr" creationdate="20180220T233853Z">
+        <seg>source = currSegment.getSrcText();</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>spa</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="olexandr" changedate="20180219T202351Z" creationid="olexandr" creationdate="20180219T202351Z">
@@ -20922,6 +21146,14 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="olexandr" changedate="20180219T202357Z" creationid="olexandr" creationdate="20180219T202357Z">
         <seg>tam</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>target = project.getTranslationInfo(currSegment).translation;</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180220T233854Z" creationid="olexandr" creationdate="20180220T233854Z">
+        <seg>target = project.getTranslationInfo(currSegment).translation;</seg>
       </tuv>
     </tu>
     <tu>
@@ -21574,6 +21806,14 @@ create its configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>{</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180220T233841Z" creationid="olexandr" creationdate="20180220T233841Z">
+        <seg>{</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>{0}</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20170418T175736Z" creationid="Kos Ivantsov" creationdate="20170418T175736Z">
@@ -21706,6 +21946,14 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="nessyk" changedate="20180123T124412Z" creationid="nessyk" creationdate="20180123T124412Z">
         <seg>{1}: &lt;b&gt;{2}&lt;/b&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>}</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180220T233856Z" creationid="olexandr" creationdate="20180220T233856Z">
+        <seg>}</seg>
       </tuv>
     </tu>
     <tu>
