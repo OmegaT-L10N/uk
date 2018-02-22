@@ -1372,6 +1372,14 @@ To add files to the project, click on the Copy Files to Source Folder... button 
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>* These keys behave differently when the cursor is outside the editable segment:</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180222T223801Z" creationid="olexandr" creationdate="20180222T223801Z">
+        <seg>* Поведінка вказаних клавіш відрізняється, якщо курсор знаходиться поза межами сегменту, що редагується:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>+{0} more</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Лера9764" changedate="20171105T154943Z" creationid="Лера9764" creationdate="20171105T154943Z">
@@ -1700,6 +1708,22 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;e0&gt;Any char key,&lt;/e0&gt; if clicked outside editable segment, will be ignored.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180222T225051Z" creationid="olexandr" creationdate="20180222T225051Z">
+        <seg>&lt;e0&gt;Будь-які інші клавіші,&lt;/e0&gt; натиснути, коли курсор поза межами сегменту, будуть проігноровані.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;e0&gt;Backspace: &lt;/e0&gt;nothing</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180222T223630Z" creationid="olexandr" creationdate="20180222T223630Z">
+        <seg>&lt;e0&gt;Backspace: &lt;/e0&gt;нічого</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;e0&gt;Close:&lt;/e0&gt; close the window without any change.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="olexandr" changedate="20180220T221121Z" creationid="olexandr" creationdate="20180220T220856Z">
@@ -1708,10 +1732,34 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;e0&gt;Delete: &lt;/e0&gt;nothing</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180222T223654Z" creationid="olexandr" creationdate="20180222T223654Z">
+        <seg>&lt;e0&gt;Delete: &lt;/e0&gt;нічого</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;e0&gt;End: &lt;/e0&gt; cursor to the end of the active segment</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180222T223619Z" creationid="olexandr" creationdate="20180222T223619Z">
+        <seg>&lt;e0&gt;End: &lt;/e0&gt; перемістити курсор на кінець активного сегменту</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;e0&gt;Groovy&lt;/e0&gt; (http://groovy.codehaus.org): is a dynamic language for the Java Virtual machine.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="olexandr" changedate="20180220T234047Z" creationid="olexandr" creationdate="20180220T234047Z">
         <seg>&lt;e0&gt;Groovy&lt;/e0&gt; (http://groovy.codehaus.org): це динамічна мова для віртуальної машини Java.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;e0&gt;Home: &lt;/e0&gt; cursor to the beginning of the active segment</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180222T223606Z" creationid="olexandr" creationdate="20180222T223606Z">
+        <seg>&lt;e0&gt;Home: &lt;/e0&gt; перемістити курсор на початок активного сегменту</seg>
       </tuv>
     </tu>
     <tu>
@@ -1848,6 +1896,14 @@ The current setting is {0}MB;</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="olexandr" changedate="20180218T233424Z" creationid="olexandr" creationdate="20180218T233424Z">
         <seg>&lt;k0&gt;Ctrl+P&lt;/k0&gt; чи &lt;k1&gt;Ctrl+Enter&lt;/k1&gt; чи &lt;k2&gt;Ctrl+Tab&lt;/k2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;k1&gt;Ctrl+Shift+Tab&lt;/k1&gt; moves back to the previous pane.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180222T225524Z" creationid="olexandr" creationdate="20180222T225524Z">
+        <seg>&lt;k1&gt;Ctrl+Shift+Tab&lt;/k1&gt; переміщає назад до попередньої панелі.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2256,6 +2312,14 @@ The current setting is {0}MB;</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="olexandr" changedate="20180216T151533Z" creationid="nessyk" creationdate="20180123T130240Z">
         <seg>Доступ до теки скриптів</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Action</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180222T223428Z" creationid="olexandr" creationdate="20180222T223428Z">
+        <seg>Дія</seg>
       </tuv>
     </tu>
     <tu>
@@ -3116,6 +3180,14 @@ may experience unexpected, but correct behaviour.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="nessyk" changedate="20171109T201236Z" creationid="nessyk" creationdate="20171109T201222Z">
         <seg>Фон</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Backspace*</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180222T223523Z" creationid="olexandr" creationdate="20180222T223523Z">
+        <seg>Backspace*</seg>
       </tuv>
     </tu>
     <tu>
@@ -4630,10 +4702,34 @@ may experience unexpected, but correct behaviour.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Ctrl+A</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180222T223530Z" creationid="olexandr" creationdate="20180222T223530Z">
+        <seg>Ctrl+A</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Ctrl+Backspace</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180222T223527Z" creationid="olexandr" creationdate="20180222T223527Z">
+        <seg>Ctrl+Backspace</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Ctrl+D</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="olexandr" changedate="20180218T232734Z" creationid="olexandr" creationdate="20180218T232734Z">
         <seg>Ctrl+D</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Ctrl+Delete</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180222T223529Z" creationid="olexandr" creationdate="20180222T223529Z">
+        <seg>Ctrl+Delete</seg>
       </tuv>
     </tu>
     <tu>
@@ -4646,10 +4742,34 @@ may experience unexpected, but correct behaviour.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Ctrl+End</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180222T223516Z" creationid="olexandr" creationdate="20180222T223516Z">
+        <seg>Ctrl+End</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Ctrl+Enter</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180222T223529Z" creationid="olexandr" creationdate="20180222T223529Z">
+        <seg>Ctrl+Enter</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Ctrl+F</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="olexandr" changedate="20180218T233514Z" creationid="olexandr" creationdate="20180218T233514Z">
         <seg>Ctrl+F</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Ctrl+Home</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180222T223515Z" creationid="olexandr" creationdate="20180222T223515Z">
+        <seg>Ctrl+Home</seg>
       </tuv>
     </tu>
     <tu>
@@ -4686,6 +4806,14 @@ may experience unexpected, but correct behaviour.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Ctrl+Left:</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180222T223455Z" creationid="olexandr" creationdate="20180222T223455Z">
+        <seg>Ctrl+Стрілка вліво:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Ctrl+M</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="olexandr" changedate="20180218T233531Z" creationid="olexandr" creationdate="20180218T233531Z">
@@ -4702,6 +4830,22 @@ may experience unexpected, but correct behaviour.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Ctrl+PgDn</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180222T223518Z" creationid="olexandr" creationdate="20180222T223518Z">
+        <seg>Ctrl+PgDn</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Ctrl+PgUp</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180222T223517Z" creationid="olexandr" creationdate="20180222T223517Z">
+        <seg>Ctrl+PgUp</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Ctrl+Q</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="olexandr" changedate="20180218T232817Z" creationid="olexandr" creationdate="20180218T232817Z">
@@ -4714,6 +4858,14 @@ may experience unexpected, but correct behaviour.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="olexandr" changedate="20180218T233535Z" creationid="olexandr" creationdate="20180218T233535Z">
         <seg>Ctrl+R</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Ctrl+Right:</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180222T223502Z" creationid="olexandr" creationdate="20180222T223502Z">
+        <seg>Ctrl+Стрілка вправо:</seg>
       </tuv>
     </tu>
     <tu>
@@ -4782,6 +4934,14 @@ may experience unexpected, but correct behaviour.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Ctrl+Shift+O</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180222T223531Z" creationid="olexandr" creationdate="20180222T223531Z">
+        <seg>Ctrl+Shift+O</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Ctrl+Shift+P</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="olexandr" changedate="20180218T233051Z" creationid="olexandr" creationdate="20180218T233051Z">
@@ -4842,6 +5002,14 @@ may experience unexpected, but correct behaviour.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="olexandr" changedate="20180218T232716Z" creationid="olexandr" creationdate="20180218T232716Z">
         <seg>Ctrl+Shift+W</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Ctrl+Space</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180222T223534Z" creationid="olexandr" creationdate="20180222T223534Z">
+        <seg>Ctrl+Space</seg>
       </tuv>
     </tu>
     <tu>
@@ -4994,6 +5162,14 @@ may experience unexpected, but correct behaviour.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="olexandr" changedate="20180218T232229Z" creationid="olexandr" creationdate="20180218T232229Z">
         <seg>Типова комбінація</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Delete*</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180222T223525Z" creationid="olexandr" creationdate="20180222T223525Z">
+        <seg>Delete*</seg>
       </tuv>
     </tu>
     <tu>
@@ -5972,6 +6148,14 @@ project_save.tmx не був завантажений, а SVN перейшов �
       </tuv>
       <tuv lang="UK-UA" changeid="Tetiana21" changedate="20171210T155816Z" creationid="Tetiana21" creationdate="20171210T155816Z">
         <seg>Завершити переміщення</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>End*</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180222T223514Z" creationid="olexandr" creationdate="20180222T223514Z">
+        <seg>End*</seg>
       </tuv>
     </tu>
     <tu>
@@ -7626,6 +7810,14 @@ script provided (omegat.kaptn).</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Home*</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180222T223508Z" creationid="olexandr" creationdate="20180222T223508Z">
+        <seg>Home*</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>How to download and install dictionaries</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="olexandr" changedate="20180218T212026Z" creationid="olexandr" creationdate="20180218T212026Z">
@@ -8485,6 +8677,14 @@ click on that shortcut.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>It is possible to move from one pane to another (for instance, from the Editor to the Fuzzy Matches pane) using &lt;k0&gt;Ctrl+Tab&lt;/k0&gt;.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180222T225505Z" creationid="olexandr" creationdate="20180222T225505Z">
+        <seg>Можливо переміщати курсор між панелями (наприклад з редактора у панель «Нечіткий збіг») використовуючи &lt;k0&gt;Ctrl+Tab&lt;/k0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>It is used to mark your translations.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="olexandr" changedate="20180217T092550Z" creationid="Tetiana21" creationdate="20171105T133506Z">
@@ -8747,6 +8947,22 @@ inside the configuration folder.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="nessyk" changedate="20171106T222141Z" creationid="Tetiana21" creationdate="20171105T160216Z">
         <seg>Зберегти інше</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Key behavior in the editor</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180222T223419Z" creationid="olexandr" creationdate="20180222T223419Z">
+        <seg>Поведінка клавіш у редакторі</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Key combination</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180222T223426Z" creationid="olexandr" creationdate="20180222T223426Z">
+        <seg>Комбінація клавіш</seg>
       </tuv>
     </tu>
     <tu>
@@ -9235,6 +9451,14 @@ inside the configuration folder.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Маринка" changedate="20171204T164751Z" creationid="Маринка" creationdate="20171114T213946Z">
         <seg>Знак зліва направо (LRM U+200E)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Left:</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180222T223442Z" creationid="olexandr" creationdate="20180222T223442Z">
+        <seg>Стрілка вліво:</seg>
       </tuv>
     </tu>
     <tu>
@@ -10629,6 +10853,14 @@ inside the configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Note that you can reassign the shortcuts to your own preferences.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180222T225655Z" creationid="olexandr" creationdate="20180222T225655Z">
+        <seg>Майте на увазі, ви можете переналаштувати комбінації клавіш в налаштуваннях.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Note: All of the segmentation rule sets with a matching Language Pattern are applied in the given order.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Маринка" changedate="20171107T194805Z" creationid="Маринка" creationdate="20171107T194805Z">
@@ -11148,6 +11380,14 @@ installed on your system.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Once Auto-completer is open, use &lt;e1&gt;Ctrl+Space&lt;/e1&gt; again to switch successively from &lt;e2&gt;Glossaries entries&lt;/e2&gt;, &lt;e3&gt;Auto-text entries,&lt;/e3&gt; &lt;e4&gt;Missing tags&lt;/e4&gt; and &lt;e5&gt;Character table&lt;/e5&gt; options.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180222T225005Z" creationid="olexandr" creationdate="20180222T225005Z">
+        <seg>При відкритому діалозі автоматичного доповнення використовуйте &lt;e1&gt;Ctrl+Space&lt;/e1&gt; ще раз для перемикання між підказками з таких джерел: &lt;e2&gt;Записи глосарію&lt;/e2&gt;, &lt;e3&gt;Записи автоматичного тексту&lt;/e3&gt;, &lt;e4&gt;Пропущені теґи&lt;/e4&gt; та &lt;e5&gt;Таблиця символів&lt;/e5&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Once the &lt;f0&gt;MainMenuShortcuts.properties&lt;/f0&gt; file is modified, &lt;a1&gt;OmegaT&lt;/a1&gt; must be relaunched to take the new shortcuts into account.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="olexandr" changedate="20180222T064739Z" creationid="olexandr" creationdate="20180218T231720Z">
@@ -11616,6 +11856,22 @@ installed on your system.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="olexandr" changedate="20180220T211918Z" creationid="olexandr" creationdate="20180220T211918Z">
         <seg>Перська</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>PgDn:</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180222T223506Z" creationid="olexandr" creationdate="20180222T223506Z">
+        <seg>PgDn:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>PgUp:</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180222T223504Z" creationid="olexandr" creationdate="20180222T223504Z">
+        <seg>PgUp:</seg>
       </tuv>
     </tu>
     <tu>
@@ -12437,6 +12693,14 @@ project without team functionality.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>RTL-LTR switch</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180222T224612Z" creationid="olexandr" creationdate="20180222T224612Z">
+        <seg>перемикання письма зліва-направо (RTL-LTR)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Rather than beep&lt;p&gt;Or a rude error message&lt;p&gt;These words: 'Page not found'</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="olexandr" changedate="20180217T125831Z" creationid="Diman966" creationdate="20180115T200645Z">
@@ -13135,6 +13399,14 @@ project without team functionality.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Right:</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180222T223447Z" creationid="olexandr" creationdate="20180222T223447Z">
+        <seg>Стрілка вправо:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Romanian, Moldavian, Moldovan</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="olexandr" changedate="20180220T211955Z" creationid="olexandr" creationdate="20180220T211955Z">
@@ -13685,6 +13957,14 @@ The scope of a search is by default the project and can be set to be any files l
       </tuv>
       <tuv lang="UK-UA" changeid="Tetiana21" changedate="20171205T150506Z" creationid="Tetiana21" creationdate="20171205T150439Z">
         <seg>Дивіться /docs/contributors.txt</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>See &lt;l0&gt;Appendix ShortCut Customization&lt;/l0&gt;</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180222T225808Z" creationid="olexandr" creationdate="20180222T225808Z">
+        <seg>Дивіться &lt;l0&gt;Додаток — Налаштування комбінації клавіш&lt;/l0&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -14940,6 +15220,14 @@ The scope of a search is by default the project and can be set to be any files l
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>System-wide commands Select All (&lt;k0&gt;Ctrl+A&lt;/k0&gt;), Paste (&lt;e1&gt;Ctrl+V&lt;/e1&gt;), Cut (&lt;e2&gt;Ctrl+X&lt;/e2&gt;), copy (&lt;e3&gt;Ctrl+C)&lt;/e3&gt;, Insert Match or Selection &lt;e4&gt;(Ctrl+I&lt;/e4&gt;) and Insert source (&lt;e5&gt;Ctrl+Shift+I&lt;/e5&gt;) act in principle on the text within the currently open segment only.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180222T225353Z" creationid="olexandr" creationdate="20180222T225353Z">
+        <seg>Загальносистемні команди Обрати все (&lt;k0&gt;Ctrl+A&lt;/k0&gt;), Вставити (&lt;e1&gt;Ctrl+V&lt;/e1&gt;), Вирізати (&lt;e2&gt;Ctrl+X&lt;/e2&gt;), Копіювати (&lt;e3&gt;Ctrl+C)&lt;/e3&gt;, Вставити збіг чи виділення &lt;e4&gt;(Ctrl+I&lt;/e4&gt;) та вставити оригінал (&lt;e5&gt;Ctrl+Shift+I&lt;/e5&gt;) діють лише в середини поточного сегменту.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>T&amp;Ms</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Лера9764" changedate="20180124T090422Z" creationid="Маринка" creationdate="20171107T200209Z">
@@ -15399,6 +15687,14 @@ current folder will be used instead.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The "Shift" key doesn't exhibit any special behavior per se: when the "Shift" key is pressed, all keys move the cursor in their usual manner, except in the case of the &lt;l0&gt;Shift+Enter&lt;/l0&gt; combination, that inserts a line break into the text.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180222T230128Z" creationid="olexandr" creationdate="20180222T230010Z">
+        <seg>Клавіша «Shift» не має спеціальної поведінки: коли натиснута клавіша «Shift» всі клавіші пересувають курсор у звичному порядку, окрім комбінації &lt;l0&gt;Shift+Enter&lt;/l0&gt;, яка вставляє розрив рядка в текст.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The &lt;f3&gt;level1&lt;/f3&gt; and &lt;f4&gt;level2&lt;/f4&gt; memories can be shared with users of other translation programs.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="olexandr" changedate="20180130T215139Z" creationid="olexandr" creationdate="20180130T215139Z">
@@ -15760,6 +16056,14 @@ in /lib/licenses/Licenses.txt.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The shortcuts &lt;k2&gt;Ctrl+A&lt;/k2&gt; and &lt;k3&gt;Ctrl+C&lt;/k3&gt; work in panes, allowing to copy all or some of the information to the clipboard.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180222T230323Z" creationid="olexandr" creationdate="20180222T225616Z">
+        <seg>Комбінація клавіш &lt;k2&gt;Ctrl+A&lt;/k2&gt; та &lt;k3&gt;Ctrl+C&lt;/k3&gt; працює в панелі, дозволяючи копіювати всю чи деяку інформацію до буфера обміну.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The source file language entered is invalid!</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Лера9764" changedate="20180124T115136Z" creationid="Маринка" creationdate="20171107T195756Z">
@@ -15812,6 +16116,14 @@ in /lib/licenses/Licenses.txt.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="olexandr" changedate="20180130T213620Z" creationid="olexandr" creationdate="20180130T213620Z">
         <seg>Теґи в OmegaT, для кращого виявлення, позначаються іншим кольором (сірим).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The term "Move to inside segment" means, that the cursor moves to the beginning of the segment if it was previously before the segment, and to the end of the segment if it was previously after it.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180222T230309Z" creationid="olexandr" creationdate="20180222T223355Z">
+        <seg>Термін «перемістити вказівник у сегмент» означає, що вказівник переміщається на початок сегменту, якщо до цього він був перед сегментом, і в кінець, якщо він знаходився за ним.</seg>
       </tuv>
     </tu>
     <tu>
@@ -16073,6 +16385,14 @@ the server.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Лера9764" changedate="20171110T193023Z" creationid="Лера9764" creationdate="20171110T193023Z">
         <seg>Цей проект</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This short text describes key behavior in the editor pane.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180222T230115Z" creationid="olexandr" creationdate="20180222T223202Z">
+        <seg>Цей короткий текст описує поведінку клавіш у вікні редактору.</seg>
       </tuv>
     </tu>
     <tu>
@@ -20465,6 +20785,54 @@ create its configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>move to the beginning of the line in the segment</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180222T224036Z" creationid="olexandr" creationdate="20180222T224036Z">
+        <seg>перемістити курсор на початок лінії в сегменті</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>move to the end of the line in the segment</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180222T224044Z" creationid="olexandr" creationdate="20180222T224044Z">
+        <seg>перемістити курсор на кінець лінії в сегменті</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>move to the end of the segment</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180222T224111Z" creationid="olexandr" creationdate="20180222T224111Z">
+        <seg>перемістити курсор на кінець сегменту</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>move to the first segment of the document (Mac: &lt;e0&gt;Cmd+PgUp&lt;/e0&gt;)</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180222T224214Z" creationid="olexandr" creationdate="20180222T224214Z">
+        <seg>перемістити курсор в перший сегмент на початку документу (Для Mac: &lt;e0&gt;Cmd+PgUp&lt;/e0&gt;)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>move to the last segment of the document (Mac: &lt;e0&gt;Cmd+PgDn&lt;/e0&gt;)</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180222T224455Z" creationid="olexandr" creationdate="20180222T224238Z">
+        <seg>перемістити курсор в останній сегмент на кінці документу (Для Mac: &lt;e0&gt;Cmd+PgDn&lt;/e0&gt;)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>move to the start of the segment</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180222T224103Z" creationid="olexandr" creationdate="20180222T224103Z">
+        <seg>перемістити курсор на початок сегменту</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>mr</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="olexandr" changedate="20180219T202251Z" creationid="olexandr" creationdate="20180219T202251Z">
@@ -20753,6 +21121,54 @@ create its configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>one char left, but not further than the beginning of segment</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180222T223846Z" creationid="olexandr" creationdate="20180222T223846Z">
+        <seg>на один символ ліворуч, але не далі ніж за початок сегменту</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>one char right, but not further than the end of segment</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180222T223907Z" creationid="olexandr" creationdate="20180222T223907Z">
+        <seg>на один символ праворуч, але не далі ніж за кінець сегменту</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>one word left, but not further than the beginning of segment</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180222T223920Z" creationid="olexandr" creationdate="20180222T223920Z">
+        <seg>на одне слово ліворуч, але не далі ніж за початок сегменту</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>one word right, but not further than the end of segment</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180222T223933Z" creationid="olexandr" creationdate="20180222T223933Z">
+        <seg>на одне слово праворуч, але не далі ніж за початок сегменту</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>open Auto-completer dialog box with contextual suggestions (Mac: &lt;e0&gt;Esc&lt;/e0&gt;).</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180222T224658Z" creationid="olexandr" creationdate="20180222T224658Z">
+        <seg>відкрити діалог автоматичного доповнення із підказками (Для Mac: &lt;e0&gt;Esc&lt;/e0&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>open previous segment (Mac: &lt;e0&gt;Cmd+Enter&lt;/e0&gt;)</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180222T224527Z" creationid="olexandr" creationdate="20180222T224527Z">
+        <seg>відкрити попередній сегмент (Для Mac: &lt;e0&gt;Cmd+Enter&lt;/e0&gt;)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>optionsAccessConfigDirMenuItem</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="olexandr" changedate="20180218T233226Z" creationid="olexandr" creationdate="20180218T233226Z">
@@ -20989,6 +21405,22 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="olexandr" changedate="20180219T202317Z" creationid="olexandr" creationdate="20180219T202317Z">
         <seg>pa</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>page down through the document</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180222T224006Z" creationid="olexandr" creationdate="20180222T224006Z">
+        <seg>перейти на сторінку вниз, залишаючись в межах документу</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>page up through the document</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180222T224001Z" creationid="olexandr" creationdate="20180222T224001Z">
+        <seg>перейти на сторінку вверх, залишаючись в межах документу</seg>
       </tuv>
     </tu>
     <tu>
@@ -21257,6 +21689,38 @@ create its configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>remove char after cursor</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180222T224301Z" creationid="olexandr" creationdate="20180222T224301Z">
+        <seg>видалити символ після курсору</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>remove char before cursor</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180222T230220Z" creationid="olexandr" creationdate="20180222T224252Z">
+        <seg>видалити символ перед курсором</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>remove chars up to the start of next word (Mac: &lt;e0&gt;Alt+Delete&lt;/e0&gt;)</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180222T224445Z" creationid="olexandr" creationdate="20180222T224445Z">
+        <seg>видалити символи до початку наступного слова (Для Mac: &lt;e0&gt;Alt+Delete&lt;/e0&gt;)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>remove chars up to the start of the current word (Mac: &lt;e0&gt;Alt+Backspace&lt;/e0&gt;)</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180222T224427Z" creationid="olexandr" creationdate="20180222T224427Z">
+        <seg>видалити символи до початку поточного слова (Для Mac: &lt;e0&gt;Alt+Backspace&lt;/e0&gt;)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>rm</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="olexandr" changedate="20180219T202327Z" creationid="olexandr" creationdate="20180219T202327Z">
@@ -21381,6 +21845,14 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20170902T144944Z" creationid="Kos Ivantsov" creationdate="20170902T144944Z">
         <seg>сегмент 0000</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>select complete segment (Mac: &lt;e0&gt;Cmd+A&lt;/e0&gt;)</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180222T224540Z" creationid="olexandr" creationdate="20180222T224540Z">
+        <seg>виділити весь сегмент (Для Mac: &lt;e0&gt;Cmd+A&lt;/e0&gt;)</seg>
       </tuv>
     </tu>
     <tu>
