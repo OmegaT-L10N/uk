@@ -112,8 +112,8 @@
       <tuv lang="EN">
         <seg>&amp;Apply this font to tabular data (project files, statistics, etc.)</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="Маринка" changedate="20171101T205449Z" creationid="Маринка" creationdate="20171101T205449Z">
-        <seg>&amp;Застосувати цей шрифт до табличних даних (файли проекту, статистики тощо).</seg>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180222T222641Z" creationid="Маринка" creationdate="20171101T205449Z">
+        <seg>&amp;Застосувати цей шрифт до табличних даних (файли проекту, статистики тощо)</seg>
       </tuv>
     </tu>
     <tu>
@@ -2118,8 +2118,8 @@ The current setting is {0}MB;</seg>
       <tuv lang="EN">
         <seg>ASCII Only</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="nessyk" changedate="20171025T185529Z" creationid="nessyk" creationdate="20171025T184210Z">
-        <seg>Тільки ASCII </seg>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180222T221229Z" creationid="nessyk" creationdate="20171025T184210Z">
+        <seg>Тільки ASCII</seg>
       </tuv>
     </tu>
     <tu>
@@ -2494,8 +2494,8 @@ The current setting is {0}MB;</seg>
       <tuv lang="EN">
         <seg>Aligner Highlight</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="nessyk" changedate="20180114T103131Z" creationid="nessyk" creationdate="20180114T103105Z">
-        <seg>Виділення вирівнювача </seg>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180222T221127Z" creationid="nessyk" creationdate="20180114T103105Z">
+        <seg>Виділення вирівнювача</seg>
       </tuv>
     </tu>
     <tu>
@@ -2550,8 +2550,8 @@ The current setting is {0}MB;</seg>
       <tuv lang="EN">
         <seg>Allow to save password as plain text</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="Tetiana21" changedate="20171105T211604Z" creationid="Tetiana21" creationdate="20171105T211604Z">
-        <seg>Можливість зберегти паролі у вигляді звичайного тексту </seg>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180222T221543Z" creationid="Tetiana21" creationdate="20171105T211604Z">
+        <seg>Можливість зберегти паролі у вигляді звичайного тексту</seg>
       </tuv>
     </tu>
     <tu>
@@ -2790,8 +2790,8 @@ The TMX file will not be loaded.</seg>
       <tuv lang="EN">
         <seg>An item of the name "{0}" already exists at this location.</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="Лера9764" changedate="20180125T162559Z" creationid="nessyk" creationdate="20171030T172552Z">
-        <seg>Елемент з імʼям "{0}" вже існує в цьому місці.</seg>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180222T221317Z" creationid="nessyk" creationdate="20171030T172552Z">
+        <seg>Елемент з імʼям «{0}» вже існує в цьому місці.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3130,8 +3130,8 @@ may experience unexpected, but correct behaviour.</seg>
       <tuv lang="EN">
         <seg>Bad nesting</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="nessyk" changedate="20180123T164442Z" creationid="nessyk" creationdate="20171113T220940Z">
-        <seg>Неправильне місце розташування </seg>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180222T221435Z" creationid="nessyk" creationdate="20171113T220940Z">
+        <seg>Неправильне місце розташування</seg>
       </tuv>
     </tu>
     <tu>
@@ -3434,8 +3434,8 @@ may experience unexpected, but correct behaviour.</seg>
       <tuv lang="EN">
         <seg>Cannot install</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="Лера9764" changedate="20171117T160247Z" creationid="Diman966" creationdate="20171116T211032Z">
-        <seg>Не можна встановити </seg>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180222T221450Z" creationid="Diman966" creationdate="20171116T211032Z">
+        <seg>Не можливо встановити</seg>
       </tuv>
     </tu>
     <tu>
@@ -3586,8 +3586,8 @@ may experience unexpected, but correct behaviour.</seg>
       <tuv lang="EN">
         <seg>Check &amp;Issues...</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20170902T182709Z" creationid="Kos Ivantsov" creationdate="20170902T182709Z">
-        <seg>&amp;Пошук помилок</seg>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180222T222224Z" creationid="Kos Ivantsov" creationdate="20170902T182709Z">
+        <seg>&amp;Пошук помилок…</seg>
       </tuv>
     </tu>
     <tu>
@@ -3982,16 +3982,16 @@ may experience unexpected, but correct behaviour.</seg>
       <tuv lang="EN">
         <seg>Command does not contain "{0}"</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="nessyk" changedate="20171025T184445Z" creationid="nessyk" creationdate="20171025T184445Z">
-        <seg>Команда не містить "{0}"</seg>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180222T220957Z" creationid="nessyk" creationdate="20171025T184445Z">
+        <seg>Команда не містить «{0}»</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Command is missing command string</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="olexandr" changedate="20180125T205350Z" creationid="nessyk" creationdate="20171025T183723Z">
-        <seg>В команді відсутній командний рядок </seg>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180222T220952Z" creationid="nessyk" creationdate="20171025T183723Z">
+        <seg>В команді відсутній командний рядок</seg>
       </tuv>
     </tu>
     <tu>
@@ -4014,8 +4014,8 @@ may experience unexpected, but correct behaviour.</seg>
       <tuv lang="EN">
         <seg>Command is missing target</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="Лера9764" changedate="20180125T162859Z" creationid="nessyk" creationdate="20171025T183708Z">
-        <seg>В команді відсутній обʼєкт </seg>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180222T220958Z" creationid="nessyk" creationdate="20171025T183708Z">
+        <seg>В команді відсутній обʼєкт</seg>
       </tuv>
     </tu>
     <tu>
@@ -4318,8 +4318,8 @@ may experience unexpected, but correct behaviour.</seg>
       <tuv lang="EN">
         <seg>Convert Old Team Project</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="nessyk" changedate="20171121T182447Z" creationid="nessyk" creationdate="20171121T182447Z">
-        <seg>Конвертувати старий командний проект.</seg>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180222T222315Z" creationid="nessyk" creationdate="20171121T182447Z">
+        <seg>Конвертувати старий командний проект</seg>
       </tuv>
     </tu>
     <tu>
@@ -4928,8 +4928,8 @@ may experience unexpected, but correct behaviour.</seg>
       <tuv lang="EN">
         <seg>Custom Colours Selection</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="nessyk" changedate="20171109T201730Z" creationid="nessyk" creationdate="20171109T201730Z">
-        <seg>Вибір спеціальних кольорів </seg>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180222T221121Z" creationid="nessyk" creationdate="20171109T201730Z">
+        <seg>Вибір спеціальних кольорів</seg>
       </tuv>
     </tu>
     <tu>
@@ -5104,8 +5104,8 @@ may experience unexpected, but correct behaviour.</seg>
       <tuv lang="EN">
         <seg>Dictionary File Folder</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="nessyk" changedate="20171129T183653Z" creationid="nessyk" creationdate="20171129T183653Z">
-        <seg>Тека файлу словника:</seg>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180222T222246Z" creationid="nessyk" creationdate="20171129T183653Z">
+        <seg>Тека файлу словника</seg>
       </tuv>
     </tu>
     <tu>
@@ -5200,8 +5200,8 @@ may experience unexpected, but correct behaviour.</seg>
       <tuv lang="EN">
         <seg>Display</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="nessyk" changedate="20171113T215009Z" creationid="nessyk" creationdate="20171113T215009Z">
-        <seg>Показати </seg>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180222T221751Z" creationid="nessyk" creationdate="20171113T215009Z">
+        <seg>Показати</seg>
       </tuv>
     </tu>
     <tu>
@@ -5818,8 +5818,8 @@ project_save.tmx не був завантажений, а SVN перейшов �
       <tuv lang="EN">
         <seg>Edit Text</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="nessyk" changedate="20171030T172739Z" creationid="nessyk" creationdate="20171030T172739Z">
-        <seg>Редагувати текст?</seg>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180222T222338Z" creationid="nessyk" creationdate="20171030T172739Z">
+        <seg>Редагувати текст</seg>
       </tuv>
     </tu>
     <tu>
@@ -5962,8 +5962,8 @@ project_save.tmx не був завантажений, а SVN перейшов �
       <tuv lang="EN">
         <seg>End of stream encountered without finding close block!</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="olexandr" changedate="20180125T204511Z" creationid="Diman966" creationdate="20180125T133200Z">
-        <seg>Виник кінець потоку, не знайшовши кінцевий блок! </seg>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180222T221208Z" creationid="Diman966" creationdate="20180125T133200Z">
+        <seg>Виник кінець потоку, не знайшовши кінцевий блок!</seg>
       </tuv>
     </tu>
     <tu>
@@ -6018,8 +6018,8 @@ project_save.tmx не був завантажений, а SVN перейшов �
       <tuv lang="EN">
         <seg>Enter your master password.</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="nessyk" changedate="20171026T180349Z" creationid="nessyk" creationdate="20171026T180349Z">
-        <seg>Введіть ваш майстер-пароль</seg>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180222T222351Z" creationid="nessyk" creationdate="20171026T180349Z">
+        <seg>Введіть ваш майстер-пароль.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6498,8 +6498,8 @@ project_save.tmx не був завантажений, а SVN перейшов �
       <tuv lang="EN">
         <seg>External Lin&amp;ks</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="Маринка" changedate="20171118T212222Z" creationid="Diman966" creationdate="20171116T200912Z">
-        <seg>Зовнішні посилання </seg>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180222T221217Z" creationid="Diman966" creationdate="20171116T200912Z">
+        <seg>Зовнішні посилання</seg>
       </tuv>
     </tu>
     <tu>
@@ -6674,8 +6674,8 @@ project_save.tmx не був завантажений, а SVN перейшов �
       <tuv lang="EN">
         <seg>Failed to update project properties</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="Tetiana21" changedate="20171119T124950Z" creationid="Маринка" creationdate="20171118T201909Z">
-        <seg>Не вдалося оновити текст проекту </seg>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180222T221511Z" creationid="Маринка" creationdate="20171118T201909Z">
+        <seg>Не вдалося оновити текст проекту</seg>
       </tuv>
     </tu>
     <tu>
@@ -6914,8 +6914,8 @@ project_save.tmx не був завантажений, а SVN перейшов �
       <tuv lang="EN">
         <seg>Folder does not exist</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="Маринка" changedate="20171118T212338Z" creationid="Diman966" creationdate="20171116T211038Z">
-        <seg>Тека не існує </seg>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180222T221919Z" creationid="Diman966" creationdate="20171116T211038Z">
+        <seg>Тека не існує</seg>
       </tuv>
     </tu>
     <tu>
@@ -6971,8 +6971,8 @@ project_save.tmx не був завантажений, а SVN перейшов �
         <seg>For a more user-friendly way of launching OmegaT, you can use the Kaptain
 script provided (omegat.kaptn).</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="olexandr" changedate="20180222T215144Z" creationid="olexandr" creationdate="20180222T215144Z">
-        <seg>Для більш дружнього для користувача запуску OmegaT, ви можете використовувати 
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180222T222000Z" creationid="olexandr" creationdate="20180222T215144Z">
+        <seg>Для більш дружнього для користувача запуску OmegaT, ви можете використовувати
 наданий скрипт Kaptain (omegat.kaptn).</seg>
       </tuv>
     </tu>
@@ -7044,16 +7044,16 @@ script provided (omegat.kaptn).</seg>
       <tuv lang="EN">
         <seg>From 100% memory</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="nessyk" changedate="20171106T225306Z" creationid="nessyk" creationdate="20171106T225234Z">
-        <seg>З пам'яті 100% </seg>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180222T221352Z" creationid="nessyk" creationdate="20171106T225234Z">
+        <seg>З 100% пам'яті</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>From ICE memory</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="Лера9764" changedate="20180125T162427Z" creationid="nessyk" creationdate="20171106T225228Z">
-        <seg>З памʼяті ICE </seg>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180222T221400Z" creationid="nessyk" creationdate="20171106T225228Z">
+        <seg>З памʼяті ICE</seg>
       </tuv>
     </tu>
     <tu>
@@ -7220,8 +7220,8 @@ script provided (omegat.kaptn).</seg>
       <tuv lang="EN">
         <seg>Global</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="Маринка" changedate="20171118T212216Z" creationid="Diman966" creationdate="20171116T200859Z">
-        <seg>Глобальний </seg>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180222T221214Z" creationid="Diman966" creationdate="20171116T200859Z">
+        <seg>Глобальний</seg>
       </tuv>
     </tu>
     <tu>
@@ -7260,8 +7260,8 @@ script provided (omegat.kaptn).</seg>
       <tuv lang="EN">
         <seg>Glossary Matches</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="nessyk" changedate="20180114T102744Z" creationid="nessyk" creationdate="20180114T102744Z">
-        <seg>Збіги глосарію </seg>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180222T221324Z" creationid="nessyk" creationdate="20180114T102744Z">
+        <seg>Збіги глосарію</seg>
       </tuv>
     </tu>
     <tu>
@@ -7340,16 +7340,16 @@ script provided (omegat.kaptn).</seg>
       <tuv lang="EN">
         <seg>Google Api key not available.</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="Diman966" changedate="20180124T173330Z" creationid="nessyk" creationdate="20171126T111649Z">
-        <seg>Ключ Google Api недоступний</seg>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180222T222255Z" creationid="nessyk" creationdate="20171126T111649Z">
+        <seg>Ключ Google Api недоступний.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Google Translate v2</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="nessyk" changedate="20180123T141126Z" creationid="nessyk" creationdate="20171126T110828Z">
-        <seg>Перекладач Google v2 </seg>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180222T221726Z" creationid="nessyk" creationdate="20171126T110828Z">
+        <seg>Перекладач від Google v2</seg>
       </tuv>
     </tu>
     <tu>
@@ -7540,8 +7540,8 @@ script provided (omegat.kaptn).</seg>
       <tuv lang="EN">
         <seg>Hide '{0}'</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="Лера9764" changedate="20171110T193007Z" creationid="Лера9764" creationdate="20171110T193007Z">
-        <seg>Згорнути '{0}'</seg>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180222T221630Z" creationid="Лера9764" creationdate="20171110T193007Z">
+        <seg>Згорнути «{0}»</seg>
       </tuv>
     </tu>
     <tu>
@@ -7780,8 +7780,8 @@ script provided (omegat.kaptn).</seg>
       <tuv lang="EN">
         <seg>If a HHC or HHK file has an encoding declaration, it will be used regardless of any value you specify in this dialog.</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="Diman966" changedate="20180123T164904Z" creationid="Diman966" creationdate="20180123T164842Z">
-        <seg>Якщо у файлі HHC або HHK є декларація кодування, вона буде використана незалежно від будь-якого значення, яке ви вказали в цьому діалоговому вікні. </seg>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180222T221813Z" creationid="Diman966" creationdate="20180123T164842Z">
+        <seg>Якщо у файлі HHC або HHK є декларація кодування, вона буде використана незалежно від будь-якого значення, яке ви вказали в цьому діалоговому вікні.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7883,9 +7883,9 @@ their defaults as a result of the location change.</seg>
         <seg>If you can see the file OmegaT but not OmegaT.exe in your File Manager
 (Windows Explorer), change the settings so that file extensions are displayed.</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="olexandr" changedate="20180222T215714Z" creationid="olexandr" creationdate="20180222T215714Z">
-        <seg>Якщо ви бачите файл OmegaT, але не видно OmegaT.exe у вашому файловому 
-менеджері (Windows Explorer), змініть налаштування, аби він показував 
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180222T222049Z" creationid="olexandr" creationdate="20180222T215714Z">
+        <seg>Якщо ви бачите файл OmegaT, але не видно OmegaT.exe у вашому файловому
+менеджері (Windows Explorer), змініть налаштування, аби він показував
 розширення файлу.</seg>
       </tuv>
     </tu>
@@ -7901,8 +7901,8 @@ their defaults as a result of the location change.</seg>
       <tuv lang="EN">
         <seg>If you place such translation memory files in the &lt;f6&gt;/tm/&lt;/f6&gt; subfolder of a project, OmegaT will automatically search them for similar segments, called "fuzzy matches".</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="olexandr" changedate="20180130T215351Z" creationid="olexandr" creationdate="20180130T215351Z">
-        <seg>якщо покласти файл памʼяті до підтеки &lt;f6&gt;/tm/&lt;/f6&gt;, OmegaT автоматично шукатиме схожі сегменти, позначивши знайдене як «Нечіткі збіги» (fuzzy matches).</seg>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180222T222159Z" creationid="olexandr" creationdate="20180130T215351Z">
+        <seg>Якщо покласти файл памʼяті до підтеки &lt;f6&gt;/tm/&lt;/f6&gt;, OmegaT автоматично шукатиме схожі сегменти, позначивши знайдене як «Нечіткі збіги» (fuzzy matches).</seg>
       </tuv>
     </tu>
     <tu>
@@ -7999,8 +7999,8 @@ click on that shortcut.</seg>
       <tuv lang="EN">
         <seg>Importing Wiki Page Failed</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="Маринка" changedate="20171114T213709Z" creationid="Маринка" creationdate="20171114T213551Z">
-        <seg>Не вдалося імпортувати Wiki-сторінку </seg>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180222T221548Z" creationid="Маринка" creationdate="20171114T213551Z">
+        <seg>Не вдалося імпортувати Wiki-сторінку</seg>
       </tuv>
     </tu>
     <tu>
@@ -8039,8 +8039,8 @@ click on that shortcut.</seg>
       <tuv lang="EN">
         <seg>In so&amp;urce</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="Лера9764" changedate="20180124T115406Z" creationid="Tetiana21" creationdate="20171105T183313Z">
-        <seg>У дже&amp;релі </seg>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180222T221832Z" creationid="Tetiana21" creationdate="20171105T183313Z">
+        <seg>У дже&amp;релі</seg>
       </tuv>
     </tu>
     <tu>
@@ -8553,8 +8553,8 @@ inside the configuration folder.</seg>
       <tuv lang="EN">
         <seg>Item name is empty or missing</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="Лера9764" changedate="20180125T162837Z" creationid="nessyk" creationdate="20171025T183754Z">
-        <seg>Назва обʼєкта порожня або пропущена </seg>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180222T221252Z" creationid="nessyk" creationdate="20171025T183754Z">
+        <seg>Назва обʼєкта порожня або пропущено</seg>
       </tuv>
     </tu>
     <tu>
@@ -8577,8 +8577,8 @@ inside the configuration folder.</seg>
       <tuv lang="EN">
         <seg>JAR files</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="Tetiana21" changedate="20171105T174432Z" creationid="Tetiana21" creationdate="20171105T174432Z">
-        <seg>Файли JAR </seg>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180222T221817Z" creationid="Tetiana21" creationdate="20171105T174432Z">
+        <seg>Файли JAR</seg>
       </tuv>
     </tu>
     <tu>
@@ -8633,8 +8633,8 @@ inside the configuration folder.</seg>
       <tuv lang="EN">
         <seg>Java(TM) Resource Bundles</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="Diman966" changedate="20180124T113030Z" creationid="Diman966" creationdate="20180124T113030Z">
-        <seg>Компоненти ресурсів Java(TM) </seg>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180222T221530Z" creationid="Diman966" creationdate="20180124T113030Z">
+        <seg>Компоненти ресурсів Java(TM)</seg>
       </tuv>
     </tu>
     <tu>
@@ -8713,8 +8713,8 @@ inside the configuration folder.</seg>
       <tuv lang="EN">
         <seg>Keep</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="nessyk" changedate="20171101T184252Z" creationid="nessyk" creationdate="20171101T184213Z">
-        <seg>Утримування </seg>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180222T221935Z" creationid="nessyk" creationdate="20171101T184213Z">
+        <seg>Утримування</seg>
       </tuv>
     </tu>
     <tu>
@@ -8737,8 +8737,8 @@ inside the configuration folder.</seg>
       <tuv lang="EN">
         <seg>Keep None</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="nessyk" changedate="20171101T184914Z" creationid="nessyk" creationdate="20171101T184806Z">
-        <seg>Не зберігати </seg>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180222T221414Z" creationid="nessyk" creationdate="20171101T184806Z">
+        <seg>Не зберігати</seg>
       </tuv>
     </tu>
     <tu>
@@ -8753,8 +8753,8 @@ inside the configuration folder.</seg>
       <tuv lang="EN">
         <seg>Key:</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="Лера9764" changedate="20171114T172619Z" creationid="Лера9764" creationdate="20171114T172619Z">
-        <seg>Ключ</seg>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180222T222236Z" creationid="Лера9764" creationdate="20171114T172619Z">
+        <seg>Ключ:</seg>
       </tuv>
     </tu>
     <tu>
@@ -8929,8 +8929,8 @@ inside the configuration folder.</seg>
       <tuv lang="EN">
         <seg>Language not specified for translation unit variant.</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="Лера9764" changedate="20171204T135813Z" creationid="Diman966" creationdate="20171116T195041Z">
-        <seg>Не вказана мова для варіанту перекладу. </seg>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180222T221505Z" creationid="Diman966" creationdate="20171116T195041Z">
+        <seg>Не вказана мова для варіанту перекладу.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9579,8 +9579,8 @@ inside the configuration folder.</seg>
       <tuv lang="EN">
         <seg>Mark &amp;Auto-Populated Segments</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="olexandr" changedate="20180217T094005Z" creationid="nessyk" creationdate="20180123T141447Z">
-        <seg>Позначити &amp;Автоматизовані сегменти </seg>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180222T221746Z" creationid="nessyk" creationdate="20180123T141447Z">
+        <seg>Позначити &amp;Автоматизовані сегменти</seg>
       </tuv>
     </tu>
     <tu>
@@ -9891,8 +9891,8 @@ inside the configuration folder.</seg>
       <tuv lang="EN">
         <seg>Merge</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="Лера9764" changedate="20180125T162529Z" creationid="nessyk" creationdate="20171025T180622Z">
-        <seg>Обʼєднати </seg>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180222T221424Z" creationid="nessyk" creationdate="20171025T180622Z">
+        <seg>Обʼєднати</seg>
       </tuv>
     </tu>
     <tu>
@@ -9915,8 +9915,8 @@ inside the configuration folder.</seg>
       <tuv lang="EN">
         <seg>Microsoft Translator</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="nessyk" changedate="20180123T140739Z" creationid="Tetiana21" creationdate="20171116T195604Z">
-        <seg>Перекладач Microsoft </seg>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180222T221044Z" creationid="Tetiana21" creationdate="20171116T195604Z">
+        <seg>Перекладач від Microsoft</seg>
       </tuv>
     </tu>
     <tu>
@@ -10115,8 +10115,8 @@ inside the configuration folder.</seg>
       <tuv lang="EN">
         <seg>Move Down</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="olexandr" changedate="20180217T085250Z" creationid="nessyk" creationdate="20171025T180525Z">
-        <seg>Посунути вниз </seg>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180222T221759Z" creationid="nessyk" creationdate="20171025T180525Z">
+        <seg>Посунути вниз</seg>
       </tuv>
     </tu>
     <tu>
@@ -10131,8 +10131,8 @@ inside the configuration folder.</seg>
       <tuv lang="EN">
         <seg>Move Up</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="olexandr" changedate="20180217T085248Z" creationid="nessyk" creationdate="20171025T180401Z">
-        <seg>Посунути вгору </seg>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180222T221757Z" creationid="nessyk" creationdate="20171025T180401Z">
+        <seg>Посунути вгору</seg>
       </tuv>
     </tu>
     <tu>
@@ -10467,8 +10467,8 @@ inside the configuration folder.</seg>
       <tuv lang="EN">
         <seg>Non-ASCII Only</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="nessyk" changedate="20171025T185554Z" creationid="nessyk" creationdate="20171025T185430Z">
-        <seg>Тільки не ASCII </seg>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180222T221235Z" creationid="nessyk" creationdate="20171025T185430Z">
+        <seg>Тільки не ASCII</seg>
       </tuv>
     </tu>
     <tu>
@@ -10535,8 +10535,8 @@ inside the configuration folder.</seg>
       <tuv lang="EN">
         <seg>None</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="nessyk" changedate="20171025T184245Z" creationid="nessyk" creationdate="20171025T184245Z">
-        <seg>Жодний </seg>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180222T221223Z" creationid="nessyk" creationdate="20171025T184245Z">
+        <seg>Жодний</seg>
       </tuv>
     </tu>
     <tu>
@@ -10591,8 +10591,8 @@ inside the configuration folder.</seg>
       <tuv lang="EN">
         <seg>Not Set</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="nessyk" changedate="20171025T185626Z" creationid="nessyk" creationdate="20171025T185626Z">
-        <seg>Не встановлено </seg>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180222T221407Z" creationid="nessyk" creationdate="20171025T185626Z">
+        <seg>Не встановлено</seg>
       </tuv>
     </tu>
     <tu>
@@ -10895,8 +10895,8 @@ inside the configuration folder.</seg>
       <tuv lang="EN">
         <seg>OmegaT Project Folder</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="Лера9764" changedate="20171204T135340Z" creationid="Лера9764" creationdate="20171117T160118Z">
-        <seg>Тека проекту OmegaT </seg>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180222T221825Z" creationid="Лера9764" creationdate="20171117T160118Z">
+        <seg>Тека проекту OmegaT</seg>
       </tuv>
     </tu>
     <tu>
@@ -11438,8 +11438,8 @@ installed on your system.</seg>
       <tuv lang="EN">
         <seg>Other contributions are detailed in the readme.txt file</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="Tetiana21" changedate="20171205T150352Z" creationid="Tetiana21" creationdate="20171205T150239Z">
-        <seg>Інші внески описані у файлі readme.txt </seg>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180222T221525Z" creationid="Tetiana21" creationdate="20171205T150239Z">
+        <seg>Інші внески описані у файлі readme.txt</seg>
       </tuv>
     </tu>
     <tu>
@@ -11486,8 +11486,8 @@ installed on your system.</seg>
       <tuv lang="EN">
         <seg>PO Filter Options</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="Лера9764" changedate="20171205T063936Z" creationid="Маринка" creationdate="20171126T182915Z">
-        <seg>Параметри фільтру PO </seg>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180222T221714Z" creationid="Маринка" creationdate="20171126T182915Z">
+        <seg>Параметри фільтру PO</seg>
       </tuv>
     </tu>
     <tu>
@@ -11574,8 +11574,8 @@ installed on your system.</seg>
       <tuv lang="EN">
         <seg>Path:</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="Лера9764" changedate="20171114T172613Z" creationid="Лера9764" creationdate="20171114T172613Z">
-        <seg>Шлях</seg>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180222T222239Z" creationid="Лера9764" creationdate="20171114T172613Z">
+        <seg>Шлях:</seg>
       </tuv>
     </tu>
     <tu>
@@ -11755,8 +11755,8 @@ additional steps need to be taken.</seg>
       <tuv lang="EN">
         <seg>Please enter your password again for confirmation.</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="Лера9764" changedate="20180125T162814Z" creationid="nessyk" creationdate="20171026T180740Z">
-        <seg>Будь ласка, ведіть свій пароль для підтвердження знову </seg>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180222T221116Z" creationid="nessyk" creationdate="20171026T180740Z">
+        <seg>Будь ласка, ведіть свій пароль для підтвердження знову.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12295,8 +12295,8 @@ project without team functionality.</seg>
       <tuv lang="EN">
         <seg>Project saving end</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="Лера9764" changedate="20171209T182801Z" creationid="Tetiana21" creationdate="20171118T143203Z">
-        <seg>Завершення збереження проекту </seg>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180222T221307Z" creationid="Tetiana21" creationdate="20171118T143203Z">
+        <seg>Завершення збереження проекту</seg>
       </tuv>
     </tu>
     <tu>
@@ -12495,8 +12495,8 @@ project without team functionality.</seg>
       <tuv lang="EN">
         <seg>Realign Pending</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="olexandr" changedate="20180125T205201Z" creationid="nessyk" creationdate="20171101T184742Z">
-        <seg>Очікує редагування </seg>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180222T221606Z" creationid="nessyk" creationdate="20171101T184742Z">
+        <seg>Очікує редагування</seg>
       </tuv>
     </tu>
     <tu>
@@ -12679,8 +12679,8 @@ project without team functionality.</seg>
       <tuv lang="EN">
         <seg>Remove &amp;leading and trailing tags</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="olexandr" changedate="20180219T001729Z" creationid="Маринка" creationdate="20180123T174551Z">
-        <seg>Видалити &amp;початкові та кінцеві теґи.</seg>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180222T222648Z" creationid="Маринка" creationdate="20180123T174551Z">
+        <seg>Видалити &amp;початкові та кінцеві теґи</seg>
       </tuv>
     </tu>
     <tu>
@@ -12783,8 +12783,8 @@ project without team functionality.</seg>
       <tuv lang="EN">
         <seg>Remove the project folder manually.</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="olexandr" changedate="20180216T151542Z" creationid="nessyk" creationdate="20171125T174604Z">
-        <seg>Видаліть теку проекту вручну</seg>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180222T222303Z" creationid="nessyk" creationdate="20171125T174604Z">
+        <seg>Видаліть теку проекту вручну.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13345,8 +13345,8 @@ project without team functionality.</seg>
       <tuv lang="EN">
         <seg>Save Alignment Results</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="nessyk" changedate="20171118T184541Z" creationid="nessyk" creationdate="20171030T172439Z">
-        <seg>Зберегти результати вирівнювання </seg>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180222T221312Z" creationid="nessyk" creationdate="20171030T172439Z">
+        <seg>Зберегти результати вирівнювання</seg>
       </tuv>
     </tu>
     <tu>
@@ -13996,8 +13996,8 @@ The scope of a search is by default the project and can be set to be any files l
       <tuv lang="EN">
         <seg>Select issue types to check.</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="nessyk" changedate="20171026T175922Z" creationid="nessyk" creationdate="20171026T175922Z">
-        <seg>Обрати тип проблеми для перевірки</seg>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180222T222346Z" creationid="nessyk" creationdate="20171026T175922Z">
+        <seg>Обрати тип проблеми для перевірки.</seg>
       </tuv>
     </tu>
     <tu>
@@ -14076,8 +14076,8 @@ The scope of a search is by default the project and can be set to be any files l
       <tuv lang="EN">
         <seg>Set &amp; Stored</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="olexandr" changedate="20180125T205333Z" creationid="nessyk" creationdate="20171026T173045Z">
-        <seg>Встановлено&amp;збережено </seg>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180222T220936Z" creationid="nessyk" creationdate="20171026T173045Z">
+        <seg>Встановлено та збережено</seg>
       </tuv>
     </tu>
     <tu>
@@ -14156,8 +14156,8 @@ The scope of a search is by default the project and can be set to be any files l
       <tuv lang="EN">
         <seg>Shortcut</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="nessyk" changedate="20171025T184346Z" creationid="nessyk" creationdate="20171025T183151Z">
-        <seg>Комбінація клавіш:</seg>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180222T222326Z" creationid="nessyk" creationdate="20171025T183151Z">
+        <seg>Комбінація клавіш</seg>
       </tuv>
     </tu>
     <tu>
@@ -14412,8 +14412,8 @@ The scope of a search is by default the project and can be set to be any files l
       <tuv lang="EN">
         <seg>Sort fuzzy matches by:</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="Лера9764" changedate="20171117T153539Z" creationid="Diman966" creationdate="20171116T205950Z">
-        <seg>Сортувати нечіткий збіг за: </seg>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180222T221910Z" creationid="Diman966" creationdate="20171116T205950Z">
+        <seg>Сортувати нечіткий збіг за:</seg>
       </tuv>
     </tu>
     <tu>
@@ -14798,8 +14798,8 @@ The scope of a search is by default the project and can be set to be any files l
       <tuv lang="EN">
         <seg>Step 2: Make manual corrections</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="nessyk" changedate="20171101T184022Z" creationid="nessyk" creationdate="20171101T184016Z">
-        <seg>Крок 2. Виконайте коригування вручну </seg>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180222T221538Z" creationid="nessyk" creationdate="20171101T184016Z">
+        <seg>Крок 2. Виконайте коригування вручну</seg>
       </tuv>
     </tu>
     <tu>
@@ -14926,8 +14926,8 @@ The scope of a search is by default the project and can be set to be any files l
       <tuv lang="EN">
         <seg>Synchronisation of repositories</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="Лера9764" changedate="20180123T164808Z" creationid="nessyk" creationdate="20171118T191341Z">
-        <seg>Синхронізація репозиторіїв.</seg>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180222T222654Z" creationid="nessyk" creationdate="20171118T191341Z">
+        <seg>Синхронізація репозиторіїв</seg>
       </tuv>
     </tu>
     <tu>
@@ -14958,8 +14958,8 @@ The scope of a search is by default the project and can be set to be any files l
       <tuv lang="EN">
         <seg>TM Matching Options</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="Лера9764" changedate="20180125T162043Z" creationid="nessyk" creationdate="20180123T141220Z">
-        <seg>Параметри збігу в памʼяті перекладу </seg>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180222T221624Z" creationid="nessyk" creationdate="20180123T141220Z">
+        <seg>Параметри збігу в памʼяті перекладу</seg>
       </tuv>
     </tu>
     <tu>
@@ -14990,16 +14990,16 @@ The scope of a search is by default the project and can be set to be any files l
       <tuv lang="EN">
         <seg>TaaS Collections</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="nessyk" changedate="20171109T203635Z" creationid="nessyk" creationdate="20171109T203635Z">
-        <seg>Колекції TaaS </seg>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180222T221518Z" creationid="nessyk" creationdate="20171109T203635Z">
+        <seg>Колекції TaaS</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>TaaS Terminology</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="nessyk" changedate="20171109T202314Z" creationid="nessyk" creationdate="20171109T202314Z">
-        <seg>Термінологія TaaS </seg>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180222T221930Z" creationid="nessyk" creationdate="20171109T202314Z">
+        <seg>Термінологія TaaS</seg>
       </tuv>
     </tu>
     <tu>
@@ -15222,8 +15222,8 @@ The scope of a search is by default the project and can be set to be any files l
       <tuv lang="EN">
         <seg>Team Options</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="nessyk" changedate="20171205T173009Z" creationid="nessyk" creationdate="20171205T173009Z">
-        <seg>Командні налаштування </seg>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180222T221904Z" creationid="nessyk" creationdate="20171205T173009Z">
+        <seg>Налаштування командної роботи</seg>
       </tuv>
     </tu>
     <tu>
@@ -15433,8 +15433,8 @@ current folder will be used instead.</seg>
       <tuv lang="EN">
         <seg>The Moses server URL is not set</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="nessyk" changedate="20180123T140632Z" creationid="nessyk" creationdate="20180123T140632Z">
-        <seg>URL Moses сервер не встановлений </seg>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180222T220942Z" creationid="nessyk" creationdate="20180123T140632Z">
+        <seg>URL Moses сервер не встановлений</seg>
       </tuv>
     </tu>
     <tu>
@@ -16200,8 +16200,8 @@ install.sh.</seg>
       <tuv lang="EN">
         <seg>Toggle Selected</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="nessyk" changedate="20171101T184943Z" creationid="nessyk" creationdate="20171101T184818Z">
-        <seg>Змінити обране </seg>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180222T221328Z" creationid="nessyk" creationdate="20171101T184818Z">
+        <seg>Змінити обране</seg>
       </tuv>
     </tu>
     <tu>
@@ -16402,16 +16402,16 @@ install.sh.</seg>
       <tuv lang="EN">
         <seg>Translated segments</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="Лера9764" changedate="20171117T164711Z" creationid="nessyk" creationdate="20171106T223455Z">
-        <seg>Перекладені сегменти </seg>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180222T221732Z" creationid="nessyk" creationdate="20171106T223455Z">
+        <seg>Перекладені сегменти</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Translated segments text</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="nessyk" changedate="20171106T223522Z" creationid="nessyk" creationdate="20171106T223522Z">
-        <seg>Текст перекладеного сегмента </seg>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180222T221735Z" creationid="nessyk" creationdate="20171106T223522Z">
+        <seg>Текст перекладеного сегмента</seg>
       </tuv>
     </tu>
     <tu>
@@ -16620,32 +16620,32 @@ Exact searches match the whole search string.</seg>
       <tuv lang="EN">
         <seg>URL does not contain "{0}"</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="nessyk" changedate="20171025T190022Z" creationid="nessyk" creationdate="20171025T185908Z">
-        <seg>URL-адреса не містить "{0}"</seg>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180222T221008Z" creationid="nessyk" creationdate="20171025T185908Z">
+        <seg>URL-адреса не містить «{0}»</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>URL is missing URL string</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="olexandr" changedate="20180125T205344Z" creationid="nessyk" creationdate="20171025T185852Z">
-        <seg>В URL-адресі відсутній URL-рядок </seg>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180222T221010Z" creationid="nessyk" creationdate="20171025T185852Z">
+        <seg>В URL-адресі відсутній URL-рядок</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>URL is missing encoding</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="nessyk" changedate="20171025T190056Z" creationid="nessyk" creationdate="20171025T190013Z">
-        <seg>URL-адреса не містить кодування </seg>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180222T220949Z" creationid="nessyk" creationdate="20171025T190013Z">
+        <seg>URL-адреса не містить кодування</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>URL is missing target</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="nessyk" changedate="20171025T190026Z" creationid="nessyk" creationdate="20171025T185929Z">
-        <seg>URL-адреса не містить об'єкт </seg>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180222T221004Z" creationid="nessyk" creationdate="20171025T185929Z">
+        <seg>URL-адреса не містить об'єкт</seg>
       </tuv>
     </tu>
     <tu>
@@ -16788,8 +16788,8 @@ Exact searches match the whole search string.</seg>
       <tuv lang="EN">
         <seg>Undock</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="Diman966" changedate="20180123T155333Z" creationid="Tetiana21" creationdate="20171118T104735Z">
-        <seg>Розблокувати </seg>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180222T221914Z" creationid="Tetiana21" creationdate="20171118T104735Z">
+        <seg>Розблокувати</seg>
       </tuv>
     </tu>
     <tu>
@@ -16920,8 +16920,8 @@ on line {1}, column {2}.</seg>
       <tuv lang="EN">
         <seg>Unspecified</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="nessyk" changedate="20171113T221359Z" creationid="nessyk" creationdate="20171113T221359Z">
-        <seg>Невстановлений </seg>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180222T221455Z" creationid="nessyk" creationdate="20171113T221359Z">
+        <seg>Невстановлений</seg>
       </tuv>
     </tu>
     <tu>
@@ -17080,8 +17080,8 @@ on line {1}, column {2}.</seg>
       <tuv lang="EN">
         <seg>Use &amp;stemming for glossary entries</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="Маринка" changedate="20171209T213533Z" creationid="Маринка" creationdate="20171118T210644Z">
-        <seg>Використовувати &amp;стемінг для словникових статей </seg>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180222T221204Z" creationid="Маринка" creationdate="20171118T210644Z">
+        <seg>Використовувати &amp;стемінг для словникових статей</seg>
       </tuv>
     </tu>
     <tu>
@@ -17104,8 +17104,8 @@ on line {1}, column {2}.</seg>
       <tuv lang="EN">
         <seg>Use all updated</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="nessyk" changedate="20171113T215913Z" creationid="nessyk" creationdate="20171113T215913Z">
-        <seg>Використати оновлене </seg>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180222T221147Z" creationid="nessyk" creationdate="20171113T215913Z">
+        <seg>Використати оновлене</seg>
       </tuv>
     </tu>
     <tu>
@@ -17120,8 +17120,8 @@ on line {1}, column {2}.</seg>
       <tuv lang="EN">
         <seg>Use custom templates for modification &amp;info</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="Diman966" changedate="20180123T162539Z" creationid="Diman966" creationdate="20180123T162517Z">
-        <seg>Використати спеціальні шаблони для інформації про модернізацію </seg>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180222T221158Z" creationid="Diman966" creationdate="20180123T162517Z">
+        <seg>Використати спеціальні шаблони для інформації про модернізацію</seg>
       </tuv>
     </tu>
     <tu>
@@ -17168,8 +17168,8 @@ on line {1}, column {2}.</seg>
       <tuv lang="EN">
         <seg>User denied credentials</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="Diman966" changedate="20180123T153500Z" creationid="nessyk" creationdate="20171118T190517Z">
-        <seg>Користувач відхилив обліковий запис </seg>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180222T221534Z" creationid="nessyk" creationdate="20171118T190517Z">
+        <seg>Користувач відхилив обліковий запис</seg>
       </tuv>
     </tu>
     <tu>
@@ -17540,8 +17540,8 @@ trouble of selecting, obtaining and installing it.</seg>
       <tuv lang="EN">
         <seg>Whitespace</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="nessyk" changedate="20171113T221303Z" creationid="nessyk" creationdate="20171113T221303Z">
-        <seg>Пробіл </seg>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180222T221925Z" creationid="nessyk" creationdate="20171113T221303Z">
+        <seg>Пробіл</seg>
       </tuv>
     </tu>
     <tu>
@@ -17556,8 +17556,8 @@ trouble of selecting, obtaining and installing it.</seg>
       <tuv lang="EN">
         <seg>Whitespace - trailing</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="olexandr" changedate="20180222T211727Z" creationid="olexandr" creationdate="20180222T211727Z">
-        <seg>Пробіл в  кінці</seg>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180222T222029Z" creationid="olexandr" creationdate="20180222T211727Z">
+        <seg>Пробіл в кінці</seg>
       </tuv>
     </tu>
     <tu>
@@ -17606,8 +17606,8 @@ Both exact and keyword searches support the wildcard characters * and ?.</seg>
       <tuv lang="EN">
         <seg>Windows Resources</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="Лера9764" changedate="20171204T135918Z" creationid="Diman966" creationdate="20171116T200054Z">
-        <seg>Ресурси Windows </seg>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180222T221837Z" creationid="Diman966" creationdate="20171116T200054Z">
+        <seg>Ресурси Windows</seg>
       </tuv>
     </tu>
     <tu>
@@ -17734,8 +17734,8 @@ Both exact and keyword searches support the wildcard characters * and ?.</seg>
       <tuv lang="EN">
         <seg>Wrong username/password</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="Лера9764" changedate="20171118T085911Z" creationid="Tetiana21" creationdate="20171116T200409Z">
-        <seg>Неправильний логін/пароль </seg>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180222T221429Z" creationid="Tetiana21" creationdate="20171116T200409Z">
+        <seg>Неправильний логін/пароль</seg>
       </tuv>
     </tu>
     <tu>
@@ -17750,8 +17750,8 @@ Both exact and keyword searches support the wildcard characters * and ?.</seg>
       <tuv lang="EN">
         <seg>XHTML Filter Options</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="Маринка" changedate="20180104T191738Z" creationid="Маринка" creationdate="20180104T191738Z">
-        <seg>Параметри фільтру XHTML </seg>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180222T221721Z" creationid="Маринка" creationdate="20180104T191738Z">
+        <seg>Параметри фільтру XHTML</seg>
       </tuv>
     </tu>
     <tu>
@@ -17790,8 +17790,8 @@ Both exact and keyword searches support the wildcard characters * and ?.</seg>
       <tuv lang="EN">
         <seg>Yandex Translate</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="nessyk" changedate="20171126T112042Z" creationid="nessyk" creationdate="20171126T111050Z">
-        <seg>Yandex перекладач </seg>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180222T221051Z" creationid="nessyk" creationdate="20171126T111050Z">
+        <seg>Перекладач від Yandex</seg>
       </tuv>
     </tu>
     <tu>
@@ -17999,8 +17999,8 @@ the installation script (linux-install.sh).</seg>
       <tuv lang="EN">
         <seg>You need to update your JDK 1.6 to the latest version, or just remove the jaxb-*.jar files from the OmegaT /lib dir</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="Лера9764" changedate="20171209T191146Z" creationid="Tetiana21" creationdate="20171116T195914Z">
-        <seg>Потрібно оновити ваш JDK 1.6 до останньої версії або просто вилучити файли jaxb-*.jar з OmegaT /lib dir</seg>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180222T221704Z" creationid="Tetiana21" creationdate="20171116T195914Z">
+        <seg>Потрібно оновити ваш JDK 1.6 до останньої версії, або просто вилучити файли jaxb-*.jar з теки OmegaT /lib</seg>
       </tuv>
     </tu>
     <tu>
