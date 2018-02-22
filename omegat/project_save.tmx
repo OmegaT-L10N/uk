@@ -1485,9 +1485,9 @@ To add files to the project, click on the Copy Files to Source Folder... button 
         <seg>--no-team
 		Disable team project functionality.</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20180205T224453Z" creationid="Маринка" creationdate="20171025T170501Z">
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180222T063427Z" creationid="Маринка" creationdate="20171025T170501Z">
         <seg>--no-team
-		Вимкнути функціонування групового проекту.</seg>
+		Вимкнути функціонал командної роботи з проектом.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1968,6 +1968,14 @@ The current setting is {0}MB;</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="olexandr" changedate="20180218T230639Z" creationid="olexandr" creationdate="20180218T230355Z">
         <seg>&lt;p0&gt;Комбінація клавіш&lt;/p0&gt; &lt;s1&gt;Налаштування&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;p0&gt;Shortcuts&lt;/p0&gt; &lt;s1&gt;Project properties - Ctrl+E&lt;/s1&gt;</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180222T063733Z" creationid="olexandr" creationdate="20180222T063733Z">
+        <seg>&lt;p0&gt;Комбінація клавіш&lt;/p0&gt; &lt;s1&gt;Властивості проекту - Ctrl+E&lt;/s1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -2630,8 +2638,8 @@ The current setting is {0}MB;</seg>
       <tuv lang="EN">
         <seg>An error occurred when saving the TMX.</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="Tetiana21" changedate="20171118T114248Z" creationid="nessyk" creationdate="20171030T172640Z">
-        <seg>При збереженні TMX сталася помилка .</seg>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180222T064706Z" creationid="nessyk" creationdate="20171030T172640Z">
+        <seg>При збереженні TMX сталася помилка.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4336,8 +4344,8 @@ may experience unexpected, but correct behaviour.</seg>
       <tuv lang="EN">
         <seg>Create pseudo-translate TMX</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="Tetiana21" changedate="20171105T201843Z" creationid="Tetiana21" creationdate="20171105T201820Z">
-        <seg>Створити псевдо-переклад TMX</seg>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180222T064949Z" creationid="Tetiana21" creationdate="20171105T201820Z">
+        <seg>Створити псевдопереклад TMX</seg>
       </tuv>
     </tu>
     <tu>
@@ -5200,8 +5208,8 @@ may experience unexpected, but correct behaviour.</seg>
       <tuv lang="EN">
         <seg>Do not translate the content attribute of meta-tags with the following attribute key-value pairs (separate with commas):</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="olexandr" changedate="20180219T001740Z" creationid="Маринка" creationdate="20180104T190838Z">
-        <seg>Не перекладати текст атрибуту, який вміщений у мета-теґах, з наступними парами ключ-значення (окремо через коми):</seg>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180222T064939Z" creationid="Маринка" creationdate="20180104T190838Z">
+        <seg>Не перекладати текст атрибуту, який вміщений у метатеґах, з наступними парами ключ-значення (окремо через коми):</seg>
       </tuv>
     </tu>
     <tu>
@@ -6362,8 +6370,8 @@ project_save.tmx не був завантажений, а SVN перейшов �
       <tuv lang="EN">
         <seg>External TMXs...</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="olexandr" changedate="20180220T064057Z" creationid="olexandr" creationdate="20180220T064057Z">
-        <seg>Зовнішні ТМХs…</seg>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180222T063314Z" creationid="olexandr" creationdate="20180220T064057Z">
+        <seg>Зовнішні ТМХ…</seg>
       </tuv>
     </tu>
     <tu>
@@ -8746,8 +8754,8 @@ inside the configuration folder.</seg>
       <tuv lang="EN">
         <seg>LanguageTool will find errors for which a rule has been defined in its language-specific configuration files.</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="olexandr" changedate="20180220T232651Z" creationid="olexandr" creationdate="20180220T232651Z">
-        <seg>LanguageTool може шукати помилки згідно правил, які визначені у відповідному файлі конфігурації.</seg>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180222T065202Z" creationid="olexandr" creationdate="20180220T232651Z">
+        <seg>LanguageTool може шукати помилки згідно з правил, які визначені у відповідному файлі конфігурації.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9308,8 +9316,8 @@ inside the configuration folder.</seg>
       <tuv lang="EN">
         <seg>Mark Bidirectional Algorithm Control Characters</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="olexandr" changedate="20180220T063334Z" creationid="olexandr" creationdate="20180220T063334Z">
-        <seg>Позначити двонаправлені керівні символи</seg>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180222T063822Z" creationid="olexandr" creationdate="20180220T063334Z">
+        <seg>Позначити двонапрямні керівні символи</seg>
       </tuv>
     </tu>
     <tu>
@@ -10836,8 +10844,8 @@ installed on your system.</seg>
       <tuv lang="EN">
         <seg>Once the &lt;f0&gt;MainMenuShortcuts.properties&lt;/f0&gt; file is modified, &lt;a1&gt;OmegaT&lt;/a1&gt; must be relaunched to take the new shortcuts into account.</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="olexandr" changedate="20180218T231720Z" creationid="olexandr" creationdate="20180218T231720Z">
-        <seg>Аби нову комбінації набули чинності, після змін в файлі &lt;f0&gt;MainMenuShortcuts.properties&lt;/f0&gt;, необхідно перезавантажити &lt;a1&gt;OmegaT&lt;/a1&gt;.</seg>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180222T064739Z" creationid="olexandr" creationdate="20180218T231720Z">
+        <seg>Аби нову комбінації набули чинності, після змін у файлі &lt;f0&gt;MainMenuShortcuts.properties&lt;/f0&gt;, необхідно перезавантажити &lt;a1&gt;OmegaT&lt;/a1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11505,8 +11513,8 @@ additional steps need to be taken.</seg>
       <tuv lang="EN">
         <seg>Please select the interval at which the project should be saved automatically, in minutes and seconds.</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="olexandr" changedate="20180217T094329Z" creationid="nessyk" creationdate="20171118T191841Z">
-        <seg>Будь ласка, виберіть інтервал в хвилинах і секундах, протягом якого проект буде зберігатися автоматично.</seg>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180222T065151Z" creationid="nessyk" creationdate="20171118T191841Z">
+        <seg>Будь ласка, виберіть інтервал у хвилинах і секундах, протягом якого проект буде зберігатися автоматично.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11763,8 +11771,8 @@ project without team functionality.</seg>
       <tuv lang="EN">
         <seg>Problems with dictionaries</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="olexandr" changedate="20180218T214216Z" creationid="olexandr" creationdate="20180218T214216Z">
-        <seg>Проблеми з словниками</seg>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180222T064657Z" creationid="olexandr" creationdate="20180218T214216Z">
+        <seg>Проблеми зі словниками</seg>
       </tuv>
     </tu>
     <tu>
@@ -13062,9 +13070,9 @@ project without team functionality.</seg>
         <seg>Scope:
 The scope of a search is by default the project and can be set to be any files located in a specified folder hierarchy.</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="olexandr" changedate="20180220T230337Z" creationid="nessyk" creationdate="20171025T174913Z">
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180222T065142Z" creationid="nessyk" creationdate="20171025T174913Z">
         <seg>Межі пошуку:
-Типово межею пошуку є сам проект, і можна вести пошук по будь-яким файлам, розташованих у окремій теці.</seg>
+Типово межею пошуку є сам проект, і можна вести пошук по будь-яких файлах, розташованих в окремій теці.</seg>
       </tuv>
     </tu>
     <tu>
@@ -14778,8 +14786,8 @@ The scope of a search is by default the project and can be set to be any files l
       <tuv lang="EN">
         <seg>Team</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="Tetiana21" changedate="20171105T133445Z" creationid="Tetiana21" creationdate="20171105T133445Z">
-        <seg>Команда</seg>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180222T063655Z" creationid="Tetiana21" creationdate="20171105T133445Z">
+        <seg>Командна робота</seg>
       </tuv>
     </tu>
     <tu>
@@ -14820,6 +14828,14 @@ The scope of a search is by default the project and can be set to be any files l
       </tuv>
       <tuv lang="UK-UA" changeid="olexandr" changedate="20180216T153917Z" creationid="nessyk" creationdate="20171118T185940Z">
         <seg>Командна синхронізація: Очікується завершення цього сегмента…</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Team...</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180222T063635Z" creationid="olexandr" creationdate="20180222T063635Z">
+        <seg>Командна робота…</seg>
       </tuv>
     </tu>
     <tu>
@@ -15129,8 +15145,8 @@ instead.</seg>
       <tuv lang="EN">
         <seg>The first is the shortcut for &lt;g0&gt;Open Project&lt;/g0&gt;, the second for &lt;g1&gt;Create Glossary Entry&lt;/g1&gt;.</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="olexandr" changedate="20180219T001517Z" creationid="olexandr" creationdate="20180219T001517Z">
-        <seg>Перша комбінація використовується для &lt;g0&gt;відкриття проекту&lt;/g0&gt;, друга для &lt;g1&gt;створення запису до глосарію&lt;/g1&gt;.</seg>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180222T065051Z" creationid="olexandr" creationdate="20180219T001517Z">
+        <seg>Перша комбінація використовується для &lt;g0&gt;відкриття проекту&lt;/g0&gt;, друга для &lt;g1&gt;створення запису до глосарія&lt;/g1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -15699,8 +15715,8 @@ the server.</seg>
       <tuv lang="EN">
         <seg>To install the necessary files for the StarDict format, proceed as follows:</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="olexandr" changedate="20180218T212333Z" creationid="olexandr" creationdate="20180218T212333Z">
-        <seg>Для встановлення необхідних файлів в форматі StarDict, необхідно виконати наступне:</seg>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180222T063747Z" creationid="olexandr" creationdate="20180218T212333Z">
+        <seg>Для встановлення необхідних файлів у форматі StarDict, необхідно виконати наступне:</seg>
       </tuv>
     </tu>
     <tu>
@@ -16096,14 +16112,6 @@ install.sh.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
-        <seg>Tutorials</seg>
-      </tuv>
-      <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20171209T223219Z" creationid="Kos Ivantsov" creationdate="20171209T223219Z">
-        <seg>Тьюторіали</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
         <seg>Twi</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="olexandr" changedate="20180220T212225Z" creationid="olexandr" creationdate="20180220T212225Z">
@@ -16260,8 +16268,8 @@ Exact searches match the whole search string.</seg>
       <tuv lang="EN">
         <seg>Unable to download team project!</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="Маринка" changedate="20171106T205449Z" creationid="Маринка" creationdate="20171106T205449Z">
-        <seg>Не вдалося завантажити груповий проект!</seg>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180222T063530Z" creationid="Маринка" creationdate="20171106T205449Z">
+        <seg>Не вдалося завантажити командний проект!</seg>
       </tuv>
     </tu>
     <tu>
@@ -17452,8 +17460,8 @@ the installation script (linux-install.sh).</seg>
       <tuv lang="EN">
         <seg>You can start the selected macros from the main menu as well by using their entries in the &lt;g0&gt;Tools &lt;/g0&gt;menu or by pressing&lt;k1&gt; Ctrl+Alt+F#&lt;/k1&gt; (# 1 to 12).</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="olexandr" changedate="20180220T235405Z" creationid="olexandr" creationdate="20180220T235405Z">
-        <seg>Ви можете запустити обраний макрос головного вікна використовуючи відповідний пункт в меню &lt;g0&gt;Інструменти&lt;/g0&gt;  чи натиснувши &lt;k1&gt;Ctrl+Alt+F#&lt;/k1&gt; (# від 1 до 12).</seg>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180222T063835Z" creationid="olexandr" creationdate="20180220T235405Z">
+        <seg>Ви можете запустити обраний макрос головного вікна використовуючи відповідний пункт в меню &lt;g0&gt;Інструменти&lt;/g0&gt; чи натиснувши &lt;k1&gt;Ctrl+Alt+F#&lt;/k1&gt; (# від 1 до 12).</seg>
       </tuv>
     </tu>
     <tu>
