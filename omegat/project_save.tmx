@@ -1320,12 +1320,30 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>(If you think you have significantly contributed to the OmegaT Project but you
+(don't see your name on the lists, feel free to contact us.)</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180228T192057Z" creationid="olexandr" creationdate="20180228T192057Z">
+        <seg>(Якщо ви вважаєте, що серйозно допомогли проекту OmegaT, але не бачите вашого
+імені в списку, будь ласка, повідомте нам про це).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>(In the user's manual, see 'Files to translate' &gt; 'File formats' for a list of supported file formats.)
 To add files to the project, click on the Copy Files to Source Folder... button in the Project Files window or call this action from the Project menu and select the source files you want to copy.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="olexandr" changedate="20180219T194019Z" creationid="Лера9764" creationdate="20171102T184657Z">
         <seg>(У посібнику користувача дивіться «Файли для перекладу» &gt; «Формати файлів» для списку підтримуваних форматів файлів.)
 Щоб додати файли до проекту, натисніть «Скопіювати файли до кореневої теки…» у вікні «Файли проекту» або виконайте ці дії в меню «Проект» та виберіть файли оригіналу, які потрібно скопіювати.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>(The Java executable file is the file java on Linux and java.exe on Windows.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180228T190537Z" creationid="olexandr" creationdate="20180228T190537Z">
+        <seg>(Виконавчий файл Java на системі Linux «java» та «java.exe» на Windows.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2284,6 +2302,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;name and path of the Java executable file&gt; -jar OmegaT.jar</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180228T190454Z" creationid="olexandr" creationdate="20180228T190454Z">
+        <seg>&lt;назва та шлях виконавчого файлу java&gt; -jar OmegaT.jar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;none&gt;</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="nessyk" changedate="20180123T130703Z" creationid="nessyk" creationdate="20180123T130703Z">
@@ -2652,6 +2678,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Aaron Madlon-Kay (integration manager)</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180228T192239Z" creationid="olexandr" creationdate="20180228T192207Z">
+        <seg>Aaron Madlon-Kay (координатор з інтеграції)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Abkhaz</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="olexandr" changedate="20180219T201805Z" creationid="olexandr" creationdate="20180219T201805Z">
@@ -2992,6 +3026,14 @@ The current setting is {0}MB;</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="olexandr" changedate="20180220T202213Z" creationid="olexandr" creationdate="20180220T202213Z">
         <seg>Албанська</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Alex Buloichik (lead developer)</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180228T192224Z" creationid="olexandr" creationdate="20180228T192224Z">
+        <seg>Alex Buloichik (провідний розробник)</seg>
       </tuv>
     </tu>
     <tu>
@@ -3876,6 +3918,14 @@ may experience unexpected, but correct behaviour.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="olexandr" changedate="20180219T190912Z" creationid="nessyk" creationdate="20171102T205822Z">
         <seg>Огляд…</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Bug reports (in English), at the SourceForge site:</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180228T191734Z" creationid="olexandr" creationdate="20180228T190109Z">
+        <seg>Запити на нові можливості (англійською мовою) можна розмістити на сайті SourceForge:</seg>
       </tuv>
     </tu>
     <tu>
@@ -4912,6 +4962,24 @@ may experience unexpected, but correct behaviour.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="nessyk" changedate="20171030T172723Z" creationid="nessyk" creationdate="20171030T172723Z">
         <seg>Продовжити?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Contributions to the code are documented in /docs/contributors.txt.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180228T192529Z" creationid="olexandr" creationdate="20180228T192529Z">
+        <seg>Всіх, хто брав участь у розробці вказано у /docs/contributors.txt.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Contributors
+============</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180228T190817Z" creationid="olexandr" creationdate="20180228T190817Z">
+        <seg>Розробники
+============</seg>
       </tuv>
     </tu>
     <tu>
@@ -6266,6 +6334,14 @@ may experience unexpected, but correct behaviour.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Лера9764" changedate="20171107T195810Z" creationid="Лера9764" creationdate="20171107T195804Z">
         <seg>Готово</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Double-click on the OmegaT application.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180228T191102Z" creationid="olexandr" creationdate="20180228T191102Z">
+        <seg>Двічі клацніть мишею по файлу «OmegaT.app».</seg>
       </tuv>
     </tu>
     <tu>
@@ -7818,6 +7894,14 @@ script provided (omegat.kaptn).</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>For this purpose download the following file and then execute it:</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180228T191438Z" creationid="olexandr" creationdate="20180228T191438Z">
+        <seg>Для цього, завантажте вказаний нижче файл і запустіть його:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Format:</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Лера9764" changedate="20171205T064246Z" creationid="Diman966" creationdate="20171116T195724Z">
@@ -8642,6 +8726,16 @@ script provided (omegat.kaptn).</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If Java is installed at system level and is in the command path, the full path
+need not be entered.)</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180228T190729Z" creationid="olexandr" creationdate="20180228T190729Z">
+        <seg>Якщо Java встановлено в системі, і доступна через змінні оболонки, тоді повний
+шлях вказувати не обовʼязково.)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If a HHC or HHK file has an encoding declaration, it will be used regardless of any value you specify in this dialog.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="olexandr" changedate="20180222T221813Z" creationid="Diman966" creationdate="20180123T164842Z">
@@ -8759,6 +8853,16 @@ their defaults as a result of the location change.</seg>
         <seg>Якщо ви бачите файл OmegaT, але не видно OmegaT.exe у вашому файловому
 менеджері (Windows Explorer), змініть налаштування, аби він показував
 розширення файлу.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If you have already Java installed on your system, one way to install OmegaT
+is to use Java Web Start.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180228T191422Z" creationid="olexandr" creationdate="20180228T191422Z">
+        <seg>Якщо Java вже встановлена, то найпростіше встановити поточну версію OmegaT
+за допомогою Java Web Start.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9423,6 +9527,16 @@ inside the configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>It will install the correct environment for your computer and the application
+itself on the first run.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180228T191531Z" creationid="olexandr" creationdate="20180228T191531Z">
+        <seg>У результаті на ваш комп'ютер буде встановлено пакет програмного забезпечення,
+необхідний для роботи.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Italian</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Лера9764" changedate="20171102T163154Z" creationid="Лера9764" creationdate="20171102T163154Z">
@@ -9547,6 +9661,14 @@ inside the configuration folder.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="olexandr" changedate="20180220T211342Z" creationid="olexandr" creationdate="20180220T211342Z">
         <seg>Яванська</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Jean-Christophe Helary (localization manager)</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180228T192236Z" creationid="olexandr" creationdate="20180228T192201Z">
+        <seg>Jean-Christophe Helary (координатор з локалізації)</seg>
       </tuv>
     </tu>
     <tu>
@@ -10063,6 +10185,14 @@ inside the configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Later calls do not need to be online.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180228T191554Z" creationid="olexandr" creationdate="20180228T191554Z">
+        <seg>Подальша наявність мережевого з'єднання не обов'язкова.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Latin</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="olexandr" changedate="20180220T211447Z" creationid="olexandr" creationdate="20180220T211447Z">
@@ -10517,6 +10647,14 @@ inside the configuration folder.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="olexandr" changedate="20180220T211606Z" creationid="olexandr" creationdate="20180220T211606Z">
         <seg>Мараті</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Marc Prior (webmaster)</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180228T192126Z" creationid="olexandr" creationdate="20180228T192126Z">
+        <seg>Marc Prior (вебмайстер)</seg>
       </tuv>
     </tu>
     <tu>
@@ -11109,6 +11247,16 @@ inside the configuration folder.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="olexandr" changedate="20180222T221757Z" creationid="nessyk" creationdate="20171025T180401Z">
         <seg>Посунути вгору</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Move the folder to an
+appropriate location such as the Applications folder.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180228T185951Z" creationid="olexandr" creationdate="20180228T185930Z">
+        <seg>Перемістіть теку до необхідного місцерозташування,
+наприклад теку «Програми».</seg>
       </tuv>
     </tu>
     <tu>
@@ -12492,6 +12640,14 @@ installed on your system.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Other contributions by</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180228T192537Z" creationid="olexandr" creationdate="20180228T192537Z">
+        <seg>Також приймали участь</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Otherwise, OmegaT will use the language of the operating system.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="olexandr" changedate="20180125T210813Z" creationid="olexandr" creationdate="20180125T210813Z">
@@ -13137,6 +13293,16 @@ project without team functionality.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Маринка" changedate="20171118T212121Z" creationid="Маринка" creationdate="20171118T212121Z">
         <seg>Попередні та &amp;наступні параграфи</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Previous contributors include:
+(alphabetical order)</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180228T192418Z" creationid="olexandr" creationdate="20180228T192403Z">
+        <seg>У розробці взяли участь:
+(в алфавітному порядку)</seg>
       </tuv>
     </tu>
     <tu>
@@ -14123,6 +14289,14 @@ project without team functionality.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="nessyk" changedate="20171109T203408Z" creationid="nessyk" creationdate="20171109T203333Z">
         <seg>Запит на TaaS: {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Requests for Enhancements (in English), at the SourceForge site:</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180228T191725Z" creationid="olexandr" creationdate="20180228T190151Z">
+        <seg>Запити на нові можливості (англійською мовою) можна розмістити на сайті SourceForge:</seg>
       </tuv>
     </tu>
     <tu>
@@ -16865,6 +17039,14 @@ Please try to correct the error and reload the project.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The command to launch OmegaT is:</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180228T190953Z" creationid="olexandr" creationdate="20180228T190953Z">
+        <seg>Команда для запуску OmegaT:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The configuration folder will be used
 instead.</seg>
       </tuv>
@@ -17004,6 +17186,14 @@ in /lib/licenses/Licenses.txt.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="olexandr" changedate="20180130T215221Z" creationid="olexandr" creationdate="20180130T215221Z">
         <seg>Файл памʼяті &lt;f5&gt;omegat&lt;/f5&gt; може бути використаний OmegaT у майбутніх проектах, які ви створите.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The most current info about OmegaT can be found at:</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180228T191805Z" creationid="olexandr" creationdate="20180228T190244Z">
+        <seg>Найсвіжішу інформацію про OmegaT можна знайти тут:</seg>
       </tuv>
     </tu>
     <tu>
@@ -18298,6 +18488,16 @@ Exact searches match the whole search string.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Unpack the OmegaT .zip archive to obtain a folder that contains a
+documentation file and the OmegaT application.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180228T185833Z" creationid="olexandr" creationdate="20180228T185833Z">
+        <seg>Розпакуйте .zip архів OmegaT, який містить теку із файлом 
+документації та додатком OmegaT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Unrecoverable error while parsing TMX file
 {0}
 on line {1}, column {2}.</seg>
@@ -18566,6 +18766,16 @@ on line {1}, column {2}.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Useful links
+============</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180228T191839Z" creationid="olexandr" creationdate="20180228T191839Z">
+        <seg>Корисні посилання
+============</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>User Manual...</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="olexandr" changedate="20180218T233221Z" creationid="olexandr" creationdate="20180218T233221Z">
@@ -18590,10 +18800,30 @@ on line {1}, column {2}.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>User support, at the Yahoo user group (multilingual), where the archives are
+searchable without subscription:</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180228T191711Z" creationid="olexandr" creationdate="20180228T190402Z">
+        <seg>Підтримка користувачів здійснюється в багатомовній групі користувачів на Yahoo,
+архіви цієї групи доступні без підписки:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>User:</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Лера9764" changedate="20180125T161106Z" creationid="Лера9764" creationdate="20171102T164123Z">
         <seg>Імʼя користувача:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Using Java Web Start for installing OmegaT (all platforms)
+===========================================================</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180228T191339Z" creationid="olexandr" creationdate="20180228T191339Z">
+        <seg>Встановлення OmegaT за допомогою Java Web Start (всі платформи)
+===========================================================</seg>
       </tuv>
     </tu>
     <tu>
@@ -18738,6 +18968,14 @@ on line {1}, column {2}.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="olexandr" changedate="20180220T064101Z" creationid="olexandr" creationdate="20180220T064101Z">
         <seg>Вигляд…</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Vincent Bidaux (documentation manager)</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180228T192232Z" creationid="olexandr" creationdate="20180228T192232Z">
+        <seg>Vincent Bidaux (координатор з документації)</seg>
       </tuv>
     </tu>
     <tu>
@@ -19639,6 +19877,14 @@ create its configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>and many, many more very helpful people</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180228T192110Z" creationid="olexandr" creationdate="20180228T192110Z">
+        <seg>та багато, багато інших прекрасних людей</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>and then:</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="olexandr" changedate="20180222T214739Z" creationid="olexandr" creationdate="20180222T214739Z">
@@ -19931,6 +20177,14 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="olexandr" changedate="20180219T201457Z" creationid="olexandr" creationdate="20180219T201457Z">
         <seg>cat</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>cd &lt;folder where the file OmegaT.jar is located&gt;</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180228T190427Z" creationid="olexandr" creationdate="20180228T190427Z">
+        <seg>cd &lt;тека, де розташовано файл OmegaT.jar&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -21051,6 +21305,14 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="olexandr" changedate="20180222T214858Z" creationid="olexandr" creationdate="20180222T214858Z">
         <seg>https://groups.yahoo.com/neo/groups/OmegaT/info</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>https://omegat.sourceforge.io/webstart/OmegaT.jnlp</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180228T191226Z" creationid="olexandr" creationdate="20180228T191226Z">
+        <seg>https://omegat.sourceforge.io/webstart/OmegaT.jnlp</seg>
       </tuv>
     </tu>
     <tu>
