@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.3_2_ad1aaa5ea" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.4_1_10335M" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -3118,6 +3118,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>All DOCX files in the project</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20180419T131505Z" creationid="Kos Ivantsov" creationdate="20180419T131505Z">
+        <seg>Усі файли DOCX у проекті</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>All domains</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="nessyk" changedate="20171109T202719Z" creationid="nessyk" creationdate="20171109T202719Z">
@@ -3746,6 +3754,14 @@ may experience unexpected, but correct behaviour.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Backup</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20180419T131348Z" creationid="Kos Ivantsov" creationdate="20180419T131348Z">
+        <seg>Резервна копія</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Bad folder name {0}</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="olexandr" changedate="20180217T095357Z" creationid="Маринка" creationdate="20171118T205734Z">
@@ -3806,6 +3822,22 @@ may experience unexpected, but correct behaviour.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="olexandr" changedate="20180220T204612Z" creationid="olexandr" creationdate="20180220T204612Z">
         <seg>Баскська</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Beautify</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20180419T131621Z" creationid="Kos Ivantsov" creationdate="20180419T131333Z">
+        <seg>Покращений вигляд XML</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Beautify resulting DOCX</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20180419T131453Z" creationid="Kos Ivantsov" creationdate="20180419T131453Z">
+        <seg>Прикрасити XML в обробленому файлі DOCX</seg>
       </tuv>
     </tu>
     <tu>
@@ -4490,6 +4522,14 @@ may experience unexpected, but correct behaviour.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Cleaning entry '{0}'...</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20180419T131147Z" creationid="Kos Ivantsov" creationdate="20180419T131147Z">
+        <seg>Вилучаються теґи у записі "{0}"...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Clear</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="nessyk" changedate="20171025T184137Z" creationid="nessyk" creationdate="20171025T184137Z">
@@ -4992,10 +5032,34 @@ may experience unexpected, but correct behaviour.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Convert</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20180419T131341Z" creationid="Kos Ivantsov" creationdate="20180419T131341Z">
+        <seg>Конвертування</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Convert Old Team Project</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="olexandr" changedate="20180222T222315Z" creationid="nessyk" creationdate="20171121T182447Z">
         <seg>Конвертувати старий командний проект</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Converting all .DOCX in the project...</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20180419T130924Z" creationid="Kos Ivantsov" creationdate="20180419T130924Z">
+        <seg>Конвертування усіх файлів .DOCX у проекті...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Converting current .DOCX...</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20180419T130940Z" creationid="Kos Ivantsov" creationdate="20180419T130940Z">
+        <seg>Конвертування поточного файлу .DOCX...</seg>
       </tuv>
     </tu>
     <tu>
@@ -5210,6 +5274,14 @@ may experience unexpected, but correct behaviour.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Create backup files of original DOCX</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20180419T131546Z" creationid="Kos Ivantsov" creationdate="20180419T131546Z">
+        <seg>Створити резервну копію вихідних файлів DOCX</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Create pseudo-translate TMX</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="olexandr" changedate="20180222T064949Z" creationid="Tetiana21" creationdate="20171105T201820Z">
@@ -5246,6 +5318,14 @@ may experience unexpected, but correct behaviour.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="olexandr" changedate="20180219T193216Z" creationid="Tetiana21" creationdate="20171105T145855Z">
         <seg>Дата створення</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Creating output file '{0}'</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20180419T131122Z" creationid="Kos Ivantsov" creationdate="20180419T131122Z">
+        <seg>Створюється файл "{0}" після обробки</seg>
       </tuv>
     </tu>
     <tu>
@@ -5694,6 +5774,14 @@ may experience unexpected, but correct behaviour.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="olexandr" changedate="20180218T204448Z" creationid="olexandr" creationdate="20180218T204448Z">
         <seg>Ctrl+↓</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Current DOCX file</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20180419T131519Z" creationid="Kos Ivantsov" creationdate="20180419T131519Z">
+        <seg>Поточний файл DOCX</seg>
       </tuv>
     </tu>
     <tu>
@@ -10321,6 +10409,94 @@ itself on the first run.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Level</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20180419T131307Z" creationid="Kos Ivantsov" creationdate="20180419T131307Z">
+        <seg>Рівень</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Level 0:</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20180419T130843Z" creationid="Kos Ivantsov" creationdate="20180419T130843Z">
+        <seg>Рівень 0:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Level 1:</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20180419T130845Z" creationid="Kos Ivantsov" creationdate="20180419T130845Z">
+        <seg>Рівень 1:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Level 2:</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20180419T130846Z" creationid="Kos Ivantsov" creationdate="20180419T130846Z">
+        <seg>Рівень 2:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Level 3:</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20180419T130847Z" creationid="Kos Ivantsov" creationdate="20180419T130847Z">
+        <seg>Рівень 3:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Level 4:</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20180419T130848Z" creationid="Kos Ivantsov" creationdate="20180419T130848Z">
+        <seg>Рівень 4:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Level 5:</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20180419T130849Z" creationid="Kos Ivantsov" creationdate="20180419T130849Z">
+        <seg>Рівень 5:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Level 6:</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20180419T130850Z" creationid="Kos Ivantsov" creationdate="20180419T130850Z">
+        <seg>Рівень 6:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Level 7:</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20180419T130851Z" creationid="Kos Ivantsov" creationdate="20180419T130851Z">
+        <seg>Рівень 7:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Level 8:</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20180419T130852Z" creationid="Kos Ivantsov" creationdate="20180419T130852Z">
+        <seg>Рівень 8:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Level 9:</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20180419T130857Z" creationid="Kos Ivantsov" creationdate="20180419T130857Z">
+        <seg>Рівень 9:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Licensing information
 =====================</seg>
       </tuv>
@@ -11285,6 +11461,22 @@ appropriate location such as the Applications folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Moving cleaned '{0}' to '{1}'</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20180419T131301Z" creationid="Kos Ivantsov" creationdate="20180419T131301Z">
+        <seg>Оброблений файл "{0}" переміщується у "{1}"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Moving original '{0}' to '{1}'</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20180419T131238Z" creationid="Kos Ivantsov" creationdate="20180419T131238Z">
+        <seg>Вихідний файл "{0}" переміщується у "{1}"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Mozilla DTD</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Маринка" changedate="20180123T133457Z" creationid="Маринка" creationdate="20180123T133457Z">
@@ -11533,6 +11725,14 @@ appropriate location such as the Applications folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>No .DOCX files to clean.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20180419T131000Z" creationid="Kos Ivantsov" creationdate="20180419T131000Z">
+        <seg>Немає файлів .DOCX для обробки.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>No Issues Found</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="nessyk" changedate="20171030T174225Z" creationid="nessyk" creationdate="20171030T174225Z">
@@ -11585,6 +11785,14 @@ appropriate location such as the Applications folder.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="olexandr" changedate="20180217T132715Z" creationid="nessyk" creationdate="20171202T181650Z">
         <seg>На віддаленому сервері немає нових доступних словників.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>No project loaded.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20180419T130713Z" creationid="Kos Ivantsov" creationdate="20180419T130713Z">
+        <seg>Проект не завантажено.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12516,6 +12724,14 @@ installed on your system.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Лера9764" changedate="20171121T145854Z" creationid="Diman966" creationdate="20171116T200640Z">
         <seg>Відкрити функції фільтру документів</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Opening input file '{0}'</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20180419T131103Z" creationid="Kos Ivantsov" creationdate="20180419T131103Z">
+        <seg>Відкривається файл "{0}" для обробки</seg>
       </tuv>
     </tu>
     <tu>
@@ -13491,6 +13707,14 @@ project without team functionality.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Project contains no files.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20180419T130722Z" creationid="Kos Ivantsov" creationdate="20180419T130722Z">
+        <seg>Проект не містить файлів.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Project creating end</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Лера9764" changedate="20180102T142210Z" creationid="Лера9764" creationdate="20180102T142210Z">
@@ -14075,6 +14299,14 @@ project without team functionality.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Remove tags from DOCX documents</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20180419T130656Z" creationid="Kos Ivantsov" creationdate="20180419T130656Z">
+        <seg>Вилучити зайві теґи у документах у форматі DOCX</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Remove tags in the current target</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="olexandr" changedate="20180222T213019Z" creationid="olexandr" creationdate="20180222T213019Z">
@@ -14529,6 +14761,14 @@ project without team functionality.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="olexandr" changedate="20180217T100940Z" creationid="Tetiana21" creationdate="20171116T200011Z">
         <seg>Запустити скрипт на слоті #{0}.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Running Tagwipe for file '{0}'</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20180419T130818Z" creationid="Kos Ivantsov" creationdate="20180419T130818Z">
+        <seg>Вилучення теґів у файлі "{0}"</seg>
       </tuv>
     </tu>
     <tu>
@@ -15452,6 +15692,14 @@ The scope of a search is by default the project and can be set to be any files l
       </tuv>
       <tuv lang="UK-UA" changeid="olexandr" changedate="20180217T101021Z" creationid="Таня" creationdate="20171214T155801Z">
         <seg>Обраний рушій: {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Selected options:</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20180419T130826Z" creationid="Kos Ivantsov" creationdate="20180419T130826Z">
+        <seg>Обрані параметри:</seg>
       </tuv>
     </tu>
     <tu>
@@ -16638,6 +16886,22 @@ The scope of a search is by default the project and can be set to be any files l
       </tuv>
       <tuv lang="UK-UA" changeid="olexandr" changedate="20180222T211853Z" creationid="olexandr" creationdate="20180222T211853Z">
         <seg>Теґи - пробіли</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Tagwipe</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20180419T131645Z" creationid="Kos Ivantsov" creationdate="20180419T131645Z">
+        <seg>Очищення зайвих теґів</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Tagwipe finished, reloading project...</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20180419T131026Z" creationid="Kos Ivantsov" creationdate="20180419T131026Z">
+        <seg>Процес вилучення теґів закінчено, перезавантаження проекту...</seg>
       </tuv>
     </tu>
     <tu>
