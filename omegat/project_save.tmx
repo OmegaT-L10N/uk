@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.4_1_10335M" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.3_2_ad1aaa5ea" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -226,6 +226,14 @@
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20170929T122909Z" creationid="Kos Ivantsov" creationdate="20170929T122909Z">
         <seg>&amp;Скасувати</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;Clear Menu</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180507T122316Z" creationid="olexandr" creationdate="20180507T122316Z">
+        <seg>&amp;Очистити меню</seg>
       </tuv>
     </tu>
     <tu>
@@ -5130,6 +5138,14 @@ may experience unexpected, but correct behaviour.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Copyright © 2000-2018 Keith Godfrey, Maxym Mykhalchuk and others</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180507T122625Z" creationid="olexandr" creationdate="20180507T122625Z">
+        <seg>Авторські права © 2000-2018 Кайт Годфрі, Максим Михальчук та інші</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Cornish</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="olexandr" changedate="20180220T205156Z" creationid="olexandr" creationdate="20180220T205156Z">
@@ -5890,6 +5906,14 @@ may experience unexpected, but correct behaviour.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>DeepL Api key not available.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180507T122819Z" creationid="olexandr" creationdate="20180507T122819Z">
+        <seg>Ключ DeepL Api недоступний.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Default</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="olexandr" changedate="20180220T231415Z" creationid="nessyk" creationdate="20171025T184202Z">
@@ -6138,6 +6162,14 @@ may experience unexpected, but correct behaviour.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Display &amp;active source segment in bold</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180507T122743Z" creationid="olexandr" creationdate="20180507T122743Z">
+        <seg>Показувати активні сегменти оригіналу жирним шрифтом</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Display &amp;tags</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="olexandr" changedate="20180218T203711Z" creationid="nessyk" creationdate="20171202T200726Z">
@@ -6164,8 +6196,8 @@ may experience unexpected, but correct behaviour.</seg>
       <tuv lang="EN">
         <seg>Display all &amp;source segments in bold</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="olexandr" changedate="20180218T203702Z" creationid="nessyk" creationdate="20171202T202552Z">
-        <seg>Показувати всі &amp;сегменти оригіналу з жирним шрифтом</seg>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180507T122747Z" creationid="nessyk" creationdate="20171202T202552Z">
+        <seg>Показувати всі &amp;сегменти оригіналу жирним шрифтом</seg>
       </tuv>
     </tu>
     <tu>
@@ -17417,6 +17449,14 @@ instead.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The following options do not apply if "Compatibility with OmegaT 2.6" is checked</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180507T122615Z" creationid="olexandr" creationdate="20180507T122615Z">
+        <seg>Наступні параметри не застосовуються, якщо обрано пункт «Сумісність з версією OmegaT 2.6»</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The following scripting languages have been implemented:</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="olexandr" changedate="20180220T234104Z" creationid="olexandr" creationdate="20180220T234104Z">
@@ -19452,6 +19492,14 @@ trouble of selecting, obtaining and installing it.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Маринка" changedate="20171114T220448Z" creationid="Маринка" creationdate="20171114T220448Z">
         <seg>При використанні регулярних виразів рядок заміни не підтримує посилання на групи, визначені в рядку пошуку.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>When using regular expressions, the replacement string supports references to groups defined in the search string.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180507T122412Z" creationid="olexandr" creationdate="20180507T122412Z">
+        <seg>При використанні регулярних виразів рядок заміни підтримує посилання на групи, визначені в рядку пошуку.</seg>
       </tuv>
     </tu>
     <tu>
