@@ -230,6 +230,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Check for Updates...</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180604T070506Z" creationid="olexandr" creationdate="20180604T070506Z">
+        <seg>&amp;Перевірка оновлень...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;Clear Menu</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="olexandr" changedate="20180507T122316Z" creationid="olexandr" creationdate="20180507T122316Z">
@@ -506,6 +514,14 @@
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20170902T182636Z" creationid="Kos Ivantsov" creationdate="20170902T182636Z">
         <seg>&amp;Перехід</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;Go To Downloads</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180604T070921Z" creationid="olexandr" creationdate="20180604T070921Z">
+        <seg>&amp;Перейти до завантаження</seg>
       </tuv>
     </tu>
     <tu>
@@ -1878,6 +1894,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;html&gt;Current version: &lt;b&gt;{0}&lt;/b&gt;&lt;/html&gt;</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180604T070932Z" creationid="olexandr" creationdate="20180604T070932Z">
+        <seg>&lt;html&gt;Поточна версія: &lt;b&gt;{0}&lt;/b&gt;&lt;/html&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;html&gt;Per-project external commands are disabled and will not be executed.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="olexandr" changedate="20180218T205105Z" creationid="Маринка" creationdate="20171114T215215Z">
@@ -1906,6 +1930,14 @@ The current setting is {0}MB;</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="nessyk" changedate="20171118T183824Z" creationid="nessyk" creationdate="20171118T183809Z">
         <seg>&lt;html&gt;Термін: &lt;b&gt;{0}&lt;/b&gt;&lt;br&gt;Глосарії:&lt;br&gt;{1}&lt;/html&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;html&gt;Update channel: &lt;b&gt;{0}&lt;/b&gt;&lt;/html&gt;</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180604T070939Z" creationid="olexandr" creationdate="20180604T070939Z">
+        <seg>&lt;html&gt;Канал оновлень: &lt;b&gt;{0}&lt;/b&gt;&lt;/html&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -3642,6 +3674,14 @@ may experience unexpected, but correct behaviour.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Automatically check for updates</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180604T071004Z" creationid="olexandr" creationdate="20180604T071004Z">
+        <seg>Автоматично перевіряти оновлення</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Autotext</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="nessyk" changedate="20171113T215222Z" creationid="nessyk" creationdate="20171113T215222Z">
@@ -4282,6 +4322,14 @@ may experience unexpected, but correct behaviour.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Check &amp;automatically</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180604T070915Z" creationid="olexandr" creationdate="20180604T070915Z">
+        <seg>Перевіряти &amp;автоматично</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Check &amp;simple printf-variables (e.g., %s, %d)</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="olexandr" changedate="20180218T205831Z" creationid="Diman966" creationdate="20180123T161843Z">
@@ -4302,6 +4350,14 @@ may experience unexpected, but correct behaviour.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="olexandr" changedate="20180222T212056Z" creationid="olexandr" creationdate="20180222T212056Z">
         <seg>Перевіряти за правилами LanguageTools</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Check Now</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180604T071009Z" creationid="olexandr" creationdate="20180604T071009Z">
+        <seg>Перевірити зараз</seg>
       </tuv>
     </tu>
     <tu>
@@ -5158,6 +5214,14 @@ may experience unexpected, but correct behaviour.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="olexandr" changedate="20180220T205158Z" creationid="olexandr" creationdate="20180220T205158Z">
         <seg>Корсиканська</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Could not create project dir at {0}</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180604T070545Z" creationid="olexandr" creationdate="20180604T070545Z">
+        <seg>Не вдалося створити теку проекту {0}</seg>
       </tuv>
     </tu>
     <tu>
@@ -8774,6 +8838,14 @@ script provided (omegat.kaptn).</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>IBM Watson not available.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180604T070733Z" creationid="olexandr" creationdate="20180604T070733Z">
+        <seg>IBM Watson не доступний.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>ID</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="nessyk" changedate="20171025T175759Z" creationid="nessyk" creationdate="20171025T175720Z">
@@ -9425,6 +9497,14 @@ click on that shortcut.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Tetiana21" changedate="20171118T104927Z" creationid="Tetiana21" creationdate="20171118T104927Z">
         <seg>Швидкий запуск</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Insufficient permissions for project dir {0}</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180604T071148Z" creationid="olexandr" creationdate="20180604T071148Z">
+        <seg>Недостатньо дозволів до теки проекту {0}</seg>
       </tuv>
     </tu>
     <tu>
@@ -10333,6 +10413,14 @@ itself on the first run.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="olexandr" changedate="20180228T191554Z" creationid="olexandr" creationdate="20180228T191554Z">
         <seg>Подальша наявність мережевого з'єднання не обов'язкова.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Latest</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180604T070954Z" creationid="olexandr" creationdate="20180604T070954Z">
+        <seg>Крайній</seg>
       </tuv>
     </tu>
     <tu>
@@ -12345,6 +12433,14 @@ appropriate location such as the Applications folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>OmegaT does not have read and write permissions to this folder.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180604T070629Z" creationid="olexandr" creationdate="20180604T070629Z">
+        <seg>OmegaT не має доступу на запис та читання до вказаної теки.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>OmegaT encrypts sensitive passwords and API keys with a master password.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="nessyk" changedate="20171026T180527Z" creationid="nessyk" creationdate="20171026T171844Z">
@@ -12532,6 +12628,14 @@ installed on your system.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="olexandr" changedate="20180216T153510Z" creationid="Маринка" creationdate="20171203T191813Z">
         <seg>OmegaT спробує відновити файл TMX…</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>OmegaT {0} is now available.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180604T070836Z" creationid="olexandr" creationdate="20180604T070836Z">
+        <seg>OmegaT {0} вже доступний.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13012,6 +13116,14 @@ installed on your system.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="olexandr" changedate="20180220T211924Z" creationid="olexandr" creationdate="20180220T211924Z">
         <seg>Пушту; Пашту</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Password :</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180604T070721Z" creationid="olexandr" creationdate="20180604T070721Z">
+        <seg>Пароль:</seg>
       </tuv>
     </tu>
     <tu>
@@ -16464,6 +16576,14 @@ The scope of a search is by default the project and can be set to be any files l
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Stable</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180604T070944Z" creationid="olexandr" creationdate="20180604T070944Z">
+        <seg>Стабільний</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Standard</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Лера9764" changedate="20171205T064238Z" creationid="Diman966" creationdate="20171116T195729Z">
@@ -18918,6 +19038,14 @@ on line {1}, column {2}.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Updates</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180604T070924Z" creationid="olexandr" creationdate="20180604T070924Z">
+        <seg>Оновлення</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Upgrading...</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="olexandr" changedate="20180216T153506Z" creationid="Diman966" creationdate="20171116T195439Z">
@@ -19142,6 +19270,14 @@ searchable without subscription:</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Лера9764" changedate="20180125T161106Z" creationid="Лера9764" creationdate="20171102T164123Z">
         <seg>Імʼя користувача:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Username:</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180604T070710Z" creationid="olexandr" creationdate="20180604T070710Z">
+        <seg>Ім'я користувача:</seg>
       </tuv>
     </tu>
     <tu>
@@ -19810,6 +19946,14 @@ Both exact and keyword searches support the wildcard characters * and ?.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>You already have the latest version.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180604T070827Z" creationid="olexandr" creationdate="20180604T070827Z">
+        <seg>Ви вже маєте найновішу версію.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>You are going to modify {0} segments.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Лера9764" changedate="20180124T115447Z" creationid="Tetiana21" creationdate="20171105T183840Z">
@@ -19943,6 +20087,14 @@ the installation script (linux-install.sh).</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="olexandr" changedate="20180220T232930Z" creationid="olexandr" creationdate="20180220T232930Z">
         <seg>Ви можете розглядати LanguageTool як програму для визначення помилок, які проста перевірка орфографії не визначає, наприклад варваризми, стиль, пунктуація та інше.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You currently have {1}.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180604T070902Z" creationid="olexandr" creationdate="20180604T070902Z">
+        <seg>Ваша поточна версія: {1}.</seg>
       </tuv>
     </tu>
     <tu>
