@@ -5874,6 +5874,16 @@ may experience unexpected, but correct behaviour.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Current team:
+(alphabetical order)</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180609T053654Z" creationid="olexandr" creationdate="20180609T053654Z">
+        <seg>Поточна команда:
+(за абеткою)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Cursor lock off</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20170902T184208Z" creationid="Kos Ivantsov" creationdate="20170902T184208Z">
@@ -9689,6 +9699,14 @@ click on that shortcut.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="olexandr" changedate="20180220T232724Z" creationid="olexandr" creationdate="20180220T232724Z">
         <seg>Додаток не займається перевіркою правопису.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>It is a multi-paradigm language, supporting object-oriented, imperative, and functional programming styles.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180609T053033Z" creationid="olexandr" creationdate="20180609T053033Z">
+        <seg>Це мультипарадигмова мова, яка підтримує обʼєктно-орієнтовані, імперативні, та функціональні стилі програмування.</seg>
       </tuv>
     </tu>
     <tu>
@@ -14411,6 +14429,14 @@ project without team functionality.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Remove bidirectionality control characters in the current target</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180609T053822Z" creationid="olexandr" creationdate="20180609T053822Z">
+        <seg>Видалити контрольні символи двонапрямного тексту з поточного перекладу</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Remove defined fragments</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="olexandr" changedate="20180222T212933Z" creationid="olexandr" creationdate="20180222T212933Z">
@@ -16670,6 +16696,22 @@ The scope of a search is by default the project and can be set to be any files l
       </tuv>
       <tuv lang="UK-UA" changeid="olexandr" changedate="20180222T221538Z" creationid="nessyk" creationdate="20171101T184016Z">
         <seg>Крок 2. Виконайте коригування вручну</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Strip BiDi Marks</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180609T053849Z" creationid="olexandr" creationdate="20180609T053849Z">
+        <seg>Прибирання BiDi маркерів</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Strip BiDi marks in current segment</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180609T053840Z" creationid="olexandr" creationdate="20180609T053840Z">
+        <seg>Прибрати BiDi маркери з поточного сегменту</seg>
       </tuv>
     </tu>
     <tu>
@@ -19368,6 +19410,14 @@ searchable without subscription:</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="olexandr" changedate="20180220T212240Z" creationid="olexandr" creationdate="20180220T212240Z">
         <seg>Венда</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Version control - introduction</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180609T053154Z" creationid="olexandr" creationdate="20180609T053154Z">
+        <seg>Контроль версій - вступ</seg>
       </tuv>
     </tu>
     <tu>
