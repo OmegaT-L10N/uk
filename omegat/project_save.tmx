@@ -1321,8 +1321,8 @@
         <seg>'*' matches zero or more characters ('run*' matches 'run', 'runs', and'running', etc.)
 '?' matches exactly one character ('run?' matches 'runs' and 'rung', but not 'run' or 'running').</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="olexandr" changedate="20180222T211038Z" creationid="Маринка" creationdate="20171114T220239Z">
-        <seg>Знак «*» відповідає будь-якій (навіть нульовій) кількості символів (наприклад, при пошуковому запиту «run*» будуть знайдені «run», «runs», та «running» , і т.п.)
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180622T200413Z" creationid="Маринка" creationdate="20171114T220239Z">
+        <seg>Знак «*» відповідає будь-якій (навіть нульовій) кількості символів (наприклад, при пошуковому запиту «run*» будуть знайдені «run», «runs», та «running», і т.п.)
 Знак «?» відповідає тільки одному символу (наприклад, пошуковий запит «run?» видасть «runs» і «rung», але не «run» або «running»).</seg>
       </tuv>
     </tu>
@@ -1694,6 +1694,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;/e4&gt; They can also be complex, allowing for instance to search for segments with two or more consecutive spaces.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180622T185054Z" creationid="olexandr" creationdate="20180622T185054Z">
+        <seg>&lt;/e4&gt; Так і комплексним, дозволяючи шукати сегменти із двома чи більше послідовними пробілами.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;EMPTY&gt;</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20170427T120310Z" creationid="Kos Ivantsov" creationdate="20170427T120301Z">
@@ -1706,6 +1714,14 @@ The current setting is {0}MB;</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="nessyk" changedate="20171113T220148Z" creationid="nessyk" creationdate="20171113T220148Z">
         <seg>&lt;Жодної підказки&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;a0&gt;OmegaT&lt;/a0&gt; is a free multi platform Computer Aided Translation tool, with the following highlights:</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180622T183136Z" creationid="olexandr" creationdate="20180622T183136Z">
+        <seg>&lt;a0&gt;OmegaT&lt;/a0&gt; — це вільна мультиплатформенна компʼютерна система автоматизованого перекладу (CAT — Computer Aided Translation), із наступними можливостями:</seg>
       </tuv>
     </tu>
     <tu>
@@ -1750,10 +1766,26 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;e0&gt; &lt;a1&gt;OmegaT&lt;/a1&gt; &lt;/e0&gt;is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180622T194558Z" creationid="olexandr" creationdate="20180622T194558Z">
+        <seg>&lt;e0&gt; &lt;a1&gt;OmegaT&lt;/a1&gt; &lt;/e0&gt;надається у доступі, з надією, що вона буде корисною, але БЕЗ БУДЬ-ЯКИХ ГАРАНТІЙ; навіть без гарантій ПРИДАТНОСТІ ДО ПРОДАЖУ чи ПРИДАТНОСТІ ДЛЯ ПЕВНОЇ МЕТИ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;e0&gt;Any char key,&lt;/e0&gt; if clicked outside editable segment, will be ignored.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="olexandr" changedate="20180222T225051Z" creationid="olexandr" creationdate="20180222T225051Z">
         <seg>&lt;e0&gt;Будь-які інші клавіші,&lt;/e0&gt; натиснути, коли курсор поза межами сегменту, будуть проігноровані.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;e0&gt;Appendices&lt;/e0&gt; contain the following information</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180622T190851Z" creationid="olexandr" creationdate="20180622T190851Z">
+        <seg>&lt;e0&gt;Додатки&lt;/e0&gt; містять наступну інформацію</seg>
       </tuv>
     </tu>
     <tu>
@@ -1782,6 +1814,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;e0&gt;Dictionaries, Glossaries&lt;/e0&gt;, &lt;e1&gt;Machine translation&lt;/e1&gt; , &lt;e2&gt;Spellchecker, LanguageTool:&lt;/e2&gt; OmegaT supports an extensive use of dictionaries and glossaries.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180622T185433Z" creationid="olexandr" creationdate="20180622T185433Z">
+        <seg>&lt;e0&gt;Словники, Глосарії&lt;/e0&gt;, &lt;e1&gt;Машинний переклад&lt;/e1&gt; , &lt;e2&gt;Перевірка правопису, LanguageTool:&lt;/e2&gt; OmegaT підтримує широкий вибір словників та глосаріїв.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;e0&gt;End: &lt;/e0&gt; cursor to the end of the active segment</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="olexandr" changedate="20180222T223619Z" creationid="olexandr" creationdate="20180222T223619Z">
@@ -1806,10 +1846,90 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;e0&gt;Installing and running OmegaT: &lt;/e0&gt;this chapter is useful when you first begin using OmegaT.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180622T192659Z" creationid="olexandr" creationdate="20180622T192659Z">
+        <seg>&lt;e0&gt;Встановлення та запуск OmegaT: &lt;/e0&gt;цей розділ корисний для користувачів, які вперше починають використовувати OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;e0&gt;JavaScript&lt;/e0&gt; (sometimes abbreviated JS, not to be confused with Java): is a prototype-based scripting language that is dynamic, weakly typed and has first-class functions.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="olexandr" changedate="20180221T000011Z" creationid="olexandr" creationdate="20180221T000011Z">
         <seg>&lt;e0&gt;JavaScript&lt;/e0&gt; (іноді має абревіатуру JS, але не плутайте із Java): це прототипна-орієнтовна скриптова мова з динамічною, слабкою типізацією та функціями як обʼєктами першого класу.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;e0&gt;Keyboard shortcuts in the editor&lt;/e0&gt;: the list of shortcuts used in the editor</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180622T201452Z" creationid="olexandr" creationdate="20180622T190215Z">
+        <seg>&lt;e0&gt;Комбінації клавіш у редакторі&lt;/e0&gt;: перелік комбінацій клавіш, які використовуються у вікні редактора</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;e0&gt;Keyword index:&lt;/e0&gt; an extensive keyword index is provided to help the reader find the relevant information.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180622T190627Z" creationid="olexandr" creationdate="20180622T190627Z">
+        <seg>&lt;e0&gt;Індекс ключових слів:&lt;/e0&gt; докладний індекс ключових слів, для допомоги із пошуком необхідної інформації.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;e0&gt;Languages:&lt;/e0&gt; the ISO list of languages and language codes is provided</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180622T190114Z" creationid="olexandr" creationdate="20180622T190114Z">
+        <seg>&lt;e0&gt;Мови:&lt;/e0&gt; перелік мов та їхніх кодів згідно ISO, які підтримуються</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;e0&gt;Learn to use OmegaT in 5 minutes!:&lt;/e0&gt; this chapter is intended as a quick tutorial for beginners as well as people who already know CAT tools, showing the complete procedure from opening a new translation project through to completing the translation.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180622T193616Z" creationid="olexandr" creationdate="20180622T193447Z">
+        <seg>&lt;e0&gt;Навчіться використовувати OmegaT за 5 хвилин!:&lt;/e0&gt; цей розділ містить швидкий посібник для початківців та людей вже знайомих із системами автоматизовного перекладу, який показує процедуру від відкриття нового перекладу до його завершення.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;e0&gt;Miscellanea&lt;/e0&gt;: deals with other issues of interest, such as how to avoid losing data.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180622T200708Z" creationid="olexandr" creationdate="20180622T191003Z">
+        <seg>&lt;e0&gt;Різне&lt;/e0&gt;: ознайомлює з іншими цікавими питаннями, такими як запобігання втрати даних.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;e0&gt;No / I don't know:&lt;/e0&gt; download &lt;e1&gt;OmegaT_3.n.n_Linux.tar.bz2.&lt;/e1&gt;</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180622T203520Z" creationid="olexandr" creationdate="20180622T203520Z">
+        <seg>&lt;e0&gt;Ні / Я не знаю:&lt;/e0&gt; завантажте&lt;e1&gt; OmegaT_3.n.n_Linux.tar.bz2.&lt;/e1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;e0&gt;No / I don't know:&lt;/e0&gt; download&lt;e1&gt; OmegaT_3.n.n_Windows.exe.&lt;/e1&gt;</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180622T202954Z" creationid="olexandr" creationdate="20180622T202954Z">
+        <seg>&lt;e0&gt;Ні / Я не знаю:&lt;/e0&gt; завантажте&lt;e1&gt; OmegaT_3.n.n_Windows.exe.&lt;/e1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;e0&gt;OmegaT &lt;/e0&gt; is free software; you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation; either version 3 of the License, or (if you prefer) any later version.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180622T194540Z" creationid="olexandr" creationdate="20180622T194540Z">
+        <seg>&lt;e0&gt;OmegaT &lt;/e0&gt; — це вільне програмне забезпечення; ви можете вільно поширювати та/або змінювати його відповідно до умов the GNU General Public Licens, виданої Фондом Безкоштовного Програмного Забезпечення; або версії 3 ліцензії, або (за необхідністю) будь-якої пізнішої версії.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;e0&gt;OmegaT on the web:&lt;/e0&gt; information regarding on-line OmegaT resources</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180622T190822Z" creationid="olexandr" creationdate="20180622T190822Z">
+        <seg>&lt;e0&gt;OmegaT в мережі:&lt;/e0&gt; інформація щодо мережевих ресурсів OmegaT</seg>
       </tuv>
     </tu>
     <tu>
@@ -1826,6 +1946,70 @@ The current setting is {0}MB;</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="olexandr" changedate="20180220T220505Z" creationid="olexandr" creationdate="20180220T220354Z">
         <seg>&lt;e0&gt;Замінити:&lt;/e0&gt; проводить «покрокову» заміну, за допомогою кнопок в &lt;e1&gt;шапці панелі редагування&lt;/e1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;e0&gt;Searches&lt;/e0&gt; and&lt;e1&gt; &lt;/e1&gt;&lt;e2&gt;Regular expressions&lt;/e2&gt;: Searches in OmegaT can be as simple as "&lt;e3&gt;list segments with &lt;/e3&gt;&lt;e4&gt;the word 'kangaroo' ".</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180622T184931Z" creationid="olexandr" creationdate="20180622T184931Z">
+        <seg>&lt;e0&gt;Пошук&lt;/e0&gt; та&lt;e1&gt; &lt;/e1&gt;&lt;e2&gt;Регулярні вирази&lt;/e2&gt;: Пошук в OmegaT може бути простим, наприклад "&lt;e3&gt;перелік сегментів із &lt;/e3&gt;&lt;e4&gt;словом «kangaroo» ".</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;e0&gt;Segmentation&lt;/e0&gt;:translation memory tools work with textual units called segments.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180622T184054Z" creationid="olexandr" creationdate="20180622T184054Z">
+        <seg>&lt;e0&gt;Сегментація&lt;/e0&gt;:інструменти памʼяті перекладу працюють із текстовими одиницями, які називаються сегменти.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;e0&gt;Shortcuts customization:&lt;/e0&gt; shortcuts can be customized to your personal preferences</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180622T190751Z" creationid="olexandr" creationdate="20180622T190751Z">
+        <seg>&lt;e0&gt;Налаштування комбінації клавіш:&lt;/e0&gt; комбінації можливо налаштувати відповідно до персональних уподобань</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;e0&gt;Terminology management&lt;/e0&gt;: Terminology management is important for translation consistency.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180622T192055Z" creationid="olexandr" creationdate="20180622T192055Z">
+        <seg>&lt;e0&gt;Керування термінологією&lt;/e0&gt;: Керування термінологією є необхідним для узгодження перекладу.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;e0&gt;The user interface&lt;/e0&gt;,&lt;e1&gt;Main Menu and Keyboard Shortcuts&lt;/e1&gt;: these two chapters are likely to be heavily consulted, since they explain the user interface of OmegaT and the functions available via the main menu and the keyboard shortcuts.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180622T193126Z" creationid="olexandr" creationdate="20180622T193126Z">
+        <seg>&lt;e0&gt;Інтерфейс користувача&lt;/e0&gt;,&lt;e1&gt;Головне меню та комбінації клавіш&lt;/e1&gt;: ці два розділи винесені окремо, оскільки в них обговорюється інтерфейс OmegaT та набір функцій, які доступні через меню та комбінації клавіш.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;e0&gt;Translation memory:&lt;/e0&gt;&lt;a1&gt; OmegaT&lt;/a1&gt; stores your translations in a translation memory file.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180622T183321Z" creationid="olexandr" creationdate="20180622T183321Z">
+        <seg>&lt;e0&gt;Памʼять перекладів:&lt;/e0&gt;&lt;a1&gt; OmegaT&lt;/a1&gt; зберігає ваші переклади до файлу памʼяті перекладу.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;e0&gt;Yes: &lt;/e0&gt;download &lt;e1&gt;OmegaT_3.n.n_Windows_without_JRE.exe&lt;/e1&gt;.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180622T202933Z" creationid="olexandr" creationdate="20180622T202933Z">
+        <seg>&lt;e0&gt;Так: &lt;/e0&gt;завантажте &lt;e1&gt;OmegaT_3.n.n_Windows_without_JRE.exe&lt;/e1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;e0&gt;Yes: &lt;/e0&gt;download &lt;e1&gt;OmegaT_3.n.n_Without_JRE.zip&lt;/e1&gt;.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180622T203503Z" creationid="olexandr" creationdate="20180622T203503Z">
+        <seg>&lt;e0&gt;Так: &lt;/e0&gt;завантажте &lt;e1&gt;OmegaT_3.n.n_Without_JRE.zip&lt;/e1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2334,6 +2518,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;k1&gt;Ctrl&lt;/k1&gt; is used on Windows, UNIX and UNIX-like operating systems with keyboards featuring a &lt;k2&gt;Ctrl&lt;/k2&gt; or &lt;k3&gt;Control&lt;/k3&gt; key.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180622T204300Z" creationid="olexandr" creationdate="20180622T204300Z">
+        <seg>&lt;k1&gt;Ctrl&lt;/k1&gt; використовуються в Windows, UNIX та UNIX-подібних операційних системах із додатковими клавіатурними клавішами &lt;k2&gt;Ctrl&lt;/k2&gt; чи &lt;k3&gt;Control&lt;/k3&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;l0&gt;See Appendix - Shortcuts Customization&lt;/l0&gt;</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="olexandr" changedate="20180222T233115Z" creationid="olexandr" creationdate="20180222T233115Z">
@@ -2410,6 +2602,102 @@ The current setting is {0}MB;</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="olexandr" changedate="20180218T213546Z" creationid="olexandr" creationdate="20180218T213546Z">
         <seg>&lt;p0&gt;Словники&lt;/p0&gt; &lt;s1&gt;Webster&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;p0&gt;Installing OmegaT&lt;/p0&gt; &lt;s1&gt;Linux&lt;/s1&gt;</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180622T203421Z" creationid="olexandr" creationdate="20180622T203421Z">
+        <seg>&lt;p0&gt;Встановлення OmegaT&lt;/p0&gt; &lt;s1&gt;Linux&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;p0&gt;Installing OmegaT&lt;/p0&gt; &lt;s1&gt;OS X&lt;/s1&gt;</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180622T203602Z" creationid="olexandr" creationdate="20180622T203602Z">
+        <seg>&lt;p0&gt;Встановлення OmegaT&lt;/p0&gt; &lt;s1&gt;OS X&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;p0&gt;Installing OmegaT&lt;/p0&gt; &lt;s1&gt;Windows&lt;/s1&gt;</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180622T202850Z" creationid="olexandr" creationdate="20180622T202850Z">
+        <seg>&lt;p0&gt;Встановлення OmegaT&lt;/p0&gt; &lt;s1&gt;Windows&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;p0&gt;Legal notices&lt;/p0&gt; &lt;s1&gt;For the application&lt;/s1&gt;</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180622T194430Z" creationid="olexandr" creationdate="20180622T194430Z">
+        <seg>&lt;p0&gt;Юридична інформація&lt;/p0&gt; &lt;s1&gt;Для програмного забезпечення&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;p0&gt;Legal notices&lt;/p0&gt; &lt;s1&gt;For the documentation&lt;/s1&gt;</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180622T194042Z" creationid="olexandr" creationdate="20180622T194042Z">
+        <seg>&lt;p0&gt;Юридична інформація&lt;/p0&gt; &lt;s1&gt;Для документації&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;p0&gt;Machine Translation&lt;/p0&gt; &lt;s1&gt;Apertium&lt;/s1&gt;</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180622T203916Z" creationid="olexandr" creationdate="20180622T203916Z">
+        <seg>&lt;p0&gt;Машинний переклад&lt;/p0&gt; &lt;s1&gt;Apertium&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;p0&gt;Machine Translation&lt;/p0&gt; &lt;s1&gt;Belazar&lt;/s1&gt;</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180622T203845Z" creationid="olexandr" creationdate="20180622T203845Z">
+        <seg>&lt;p0&gt;Машинний переклад&lt;/p0&gt; &lt;s1&gt;Белазар&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;p0&gt;Machine Translation&lt;/p0&gt; &lt;s1&gt;Google Translate&lt;/s1&gt;</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180622T204130Z" creationid="olexandr" creationdate="20180622T203711Z">
+        <seg>&lt;p0&gt;Машинний переклад&lt;/p0&gt; &lt;s1&gt;Перекладач від Google&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;p0&gt;Machine Translation&lt;/p0&gt; &lt;s1&gt;Introduction&lt;/s1&gt;</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180622T203658Z" creationid="olexandr" creationdate="20180622T203658Z">
+        <seg>&lt;p0&gt;Машинний переклад&lt;/p0&gt; &lt;s1&gt;Вступ&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;p0&gt;Machine Translation&lt;/p0&gt; &lt;s1&gt;Microsoft Translator&lt;/s1&gt;</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180622T204111Z" creationid="olexandr" creationdate="20180622T204002Z">
+        <seg>&lt;p0&gt;Машинний переклад&lt;/p0&gt; &lt;s1&gt;Перекладач від Microsoft&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;p0&gt;Machine Translation&lt;/p0&gt; &lt;s1&gt;MyMemory&lt;/s1&gt;</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180622T203941Z" creationid="olexandr" creationdate="20180622T203941Z">
+        <seg>&lt;p0&gt;Машинний переклад&lt;/p0&gt; &lt;s1&gt;MyMemory&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;p0&gt;Machine Translation&lt;/p0&gt; &lt;s1&gt;Yandex Translate&lt;/s1&gt;</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180622T204044Z" creationid="olexandr" creationdate="20180622T204044Z">
+        <seg>&lt;p0&gt;Машинний переклад&lt;/p0&gt; &lt;s1&gt;Перекладач від Yandex&lt;/s1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -2542,6 +2830,30 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;p0&gt;Regular expressions&lt;/p0&gt; &lt;s1&gt;Segmentation&lt;/s1&gt; &lt;s2&gt;Searching&lt;/s2&gt;</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180622T204915Z" creationid="olexandr" creationdate="20180622T204915Z">
+        <seg>&lt;p0&gt;Регулярні вирази&lt;/p0&gt; &lt;s1&gt;Сегментація&lt;/s1&gt; &lt;s2&gt;Пошук&lt;/s2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;p0&gt;Running OmegaT&lt;/p0&gt; &lt;s1&gt;Linux&lt;/s1&gt;</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180622T203553Z" creationid="olexandr" creationdate="20180622T203553Z">
+        <seg>&lt;p0&gt;Запуск OmegaT&lt;/p0&gt; &lt;s1&gt;Linux&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;p0&gt;Running OmegaT&lt;/p0&gt; &lt;s1&gt;Windows&lt;/s1&gt;</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180622T203348Z" creationid="olexandr" creationdate="20180622T203348Z">
+        <seg>&lt;p0&gt;Запуск OmegaT&lt;/p0&gt; &lt;s1&gt;Windows&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;p0&gt;Shortcuts Customization&lt;/p0&gt; &lt;s1&gt;View Menu&lt;/s1&gt;</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="olexandr" changedate="20180218T233046Z" creationid="olexandr" creationdate="20180218T233046Z">
@@ -2566,6 +2878,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;p0&gt;Shortcuts&lt;/p0&gt; &lt;s1&gt;Machine Translate - Ctrl+M&lt;/s1&gt;</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180622T203759Z" creationid="olexandr" creationdate="20180622T203759Z">
+        <seg>&lt;p0&gt;Комбінація клавіш&lt;/p0&gt; &lt;s1&gt;Машинний переклад — Ctrl+M&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;p0&gt;Shortcuts&lt;/p0&gt; &lt;s1&gt;Project properties - Ctrl+E&lt;/s1&gt;</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="olexandr" changedate="20180222T063733Z" creationid="olexandr" creationdate="20180222T063733Z">
@@ -2586,6 +2906,14 @@ The current setting is {0}MB;</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="olexandr" changedate="20180220T214532Z" creationid="olexandr" creationdate="20180220T214431Z">
         <seg>&lt;p0&gt;Комбінація клавіш&lt;/p0&gt; &lt;s1&gt;Пошук та заміна - Ctrl+K&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;p0&gt;Spell checker&lt;/p0&gt; &lt;s1&gt;Hints&lt;/s1&gt;</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180622T205152Z" creationid="olexandr" creationdate="20180622T205152Z">
+        <seg>&lt;p0&gt;Перевірка правопису&lt;/p0&gt; &lt;s1&gt;Підказки&lt;/s1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -2722,6 +3050,14 @@ The current setting is {0}MB;</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="olexandr" changedate="20180222T221229Z" creationid="nessyk" creationdate="20171025T184210Z">
         <seg>Тільки ASCII</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>ASCII text (.txt, etc.)</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180622T202233Z" creationid="olexandr" creationdate="20180622T202233Z">
+        <seg>ASCII текст (.txt, etc.)</seg>
       </tuv>
     </tu>
     <tu>
@@ -2882,6 +3218,14 @@ The current setting is {0}MB;</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="olexandr" changedate="20180216T151533Z" creationid="nessyk" creationdate="20180123T130240Z">
         <seg>Доступ до теки скриптів</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Acknowledgements</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180622T193704Z" creationid="olexandr" creationdate="20180622T193704Z">
+        <seg>Подяка</seg>
       </tuv>
     </tu>
     <tu>
@@ -3470,6 +3814,14 @@ The TMX file will not be loaded.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Android resource (*.xml)</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180622T202451Z" creationid="olexandr" creationdate="20180622T202451Z">
+        <seg>Ресурси Android (*.xml)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Anything after the "//" will be ignored.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="olexandr" changedate="20180218T231547Z" creationid="olexandr" creationdate="20180218T231547Z">
@@ -3586,6 +3938,14 @@ may experience unexpected, but correct behaviour.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>At the same time, it can use memories files from previous translations for reference.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180622T183514Z" creationid="olexandr" creationdate="20180622T183514Z">
+        <seg>В той самий час, може використовувати файли перекладів від попередніх перекладів для довідки.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>At the top of that dialog, select your source file's language and the language that your translated file will be, and click &lt;g1&gt;OK&lt;/g1&gt; to continue.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="olexandr" changedate="20180130T221739Z" creationid="olexandr" creationdate="20180125T222625Z">
@@ -3646,6 +4006,38 @@ may experience unexpected, but correct behaviour.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="olexandr" changedate="20180222T234315Z" creationid="olexandr" creationdate="20180222T234315Z">
         <seg>Автоматичне завершення</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Auto-completion/Auto-text...</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180622T200223Z" creationid="olexandr" creationdate="20180622T200223Z">
+        <seg>Автоматичне завершення/Авто-текст...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Auto-completion/Character Table...</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180622T200156Z" creationid="olexandr" creationdate="20180622T200156Z">
+        <seg>Автоматичне завершення/Таблиця символів...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Auto-completion/Glossary...</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180622T200106Z" creationid="olexandr" creationdate="20180622T200106Z">
+        <seg>Автоматичне завершення/Глосарій...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Auto-completion/Show Relevant Suggestions Automatically</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180622T200119Z" creationid="olexandr" creationdate="20180622T200047Z">
+        <seg>Автоматичне завершення/Автоматично показувати відповідні пропозиції</seg>
       </tuv>
     </tu>
     <tu>
@@ -4244,8 +4636,8 @@ may experience unexpected, but correct behaviour.</seg>
       <tuv lang="EN">
         <seg>Changes the case of the highlighted text in the target segment to the selected option (Lower case, Upper case, Title case or Sentence case).</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="olexandr" changedate="20180222T232321Z" creationid="olexandr" creationdate="20180222T232321Z">
-        <seg>Зміна регістру виділеного тексту в сегменті перекладу на вказане значення (на нижній регістр, верхній, перше слово  великої чи як в реченні).</seg>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180622T200804Z" creationid="olexandr" creationdate="20180222T232321Z">
+        <seg>Зміна регістру виділеного тексту в сегменті перекладу на вказане значення (на нижній регістр, верхній, перше слово з великої чи як в реченні).</seg>
       </tuv>
     </tu>
     <tu>
@@ -4646,6 +5038,14 @@ may experience unexpected, but correct behaviour.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="olexandr" changedate="20180220T234415Z" creationid="olexandr" creationdate="20180220T234415Z">
         <seg>Натисніть &lt;g0&gt;Інструменти &gt; &lt;/g0&gt;&lt;g1&gt;Скрипти…&lt;/g1&gt; для відкриття вікна скриптів:&lt;s2&gt; &lt;s3&gt;Вікно: скрипти &lt;/s3&gt; &lt;m4&gt; &lt;i5&gt; &lt;i6/&gt; &lt;/i5&gt; &lt;/m4&gt; &lt;/s2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Clicking on one will save the current project, close it and open the other project.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180622T204755Z" creationid="olexandr" creationdate="20180622T204755Z">
+        <seg>Натискання збереже та закриє поточний проект і відкриє інший.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5138,16 +5538,16 @@ may experience unexpected, but correct behaviour.</seg>
       <tuv lang="EN">
         <seg>Copies the selected text to the clipboard and deletes the selected text.</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="olexandr" changedate="20180222T233437Z" creationid="olexandr" creationdate="20180222T233426Z">
-        <seg>Копіювати обраний текст до буферу обміну та видаляє обране.</seg>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180622T201426Z" creationid="olexandr" creationdate="20180222T233426Z">
+        <seg>Копіювати обраний текст до буфера обміну та видаляє обране.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Copies the selected text to the clipboard.</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="olexandr" changedate="20180222T233405Z" creationid="olexandr" creationdate="20180222T233405Z">
-        <seg>Копіювати обраний текст до буферу обміну.</seg>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180622T201423Z" creationid="olexandr" creationdate="20180222T233405Z">
+        <seg>Копіювати обраний текст до буфера обміну.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5182,6 +5582,14 @@ may experience unexpected, but correct behaviour.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="olexandr" changedate="20180222T233347Z" creationid="olexandr" creationdate="20180222T233347Z">
         <seg>Комбінація клавіш копіювати/Вирізати/Вставити</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Copyright</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180622T194059Z" creationid="olexandr" creationdate="20180622T194059Z">
+        <seg>Авторське право</seg>
       </tuv>
     </tu>
     <tu>
@@ -5398,6 +5806,30 @@ may experience unexpected, but correct behaviour.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="olexandr" changedate="20180219T193216Z" creationid="Tetiana21" creationdate="20171105T145855Z">
         <seg>Дата створення</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Creates a local copy of a remote OmegaT project.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180622T204623Z" creationid="olexandr" creationdate="20180622T204623Z">
+        <seg>Створення локальної копії віддаленого проекту OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Creates and opens a new project.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180622T204550Z" creationid="olexandr" creationdate="20180622T204550Z">
+        <seg>Створення та відкриття нового проекту.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Creating a key</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180622T205249Z" creationid="olexandr" creationdate="20180622T205249Z">
+        <seg>Створення ключа</seg>
       </tuv>
     </tu>
     <tu>
@@ -5972,10 +6404,26 @@ may experience unexpected, but correct behaviour.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>DTD files (*.DTD)</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180622T202412Z" creationid="olexandr" creationdate="20180622T202339Z">
+        <seg>Файли DTD (*.DTD)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Danish</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="olexandr" changedate="20180220T205209Z" creationid="olexandr" creationdate="20180220T205209Z">
         <seg>Данська</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>DeepL</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180622T182134Z" creationid="olexandr" creationdate="20180622T182134Z">
+        <seg>DeepL</seg>
       </tuv>
     </tu>
     <tu>
@@ -6326,8 +6774,16 @@ may experience unexpected, but correct behaviour.</seg>
       <tuv lang="EN">
         <seg>Displays the &lt;a0&gt;OmegaT&lt;/a0&gt; help files in a separate window</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="olexandr" changedate="20180222T234837Z" creationid="olexandr" creationdate="20180222T234837Z">
-        <seg>Показати файли довідки &lt;a0&gt;OmegaT&lt;/a0&gt; у окремому вікні</seg>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180622T200910Z" creationid="olexandr" creationdate="20180222T234837Z">
+        <seg>Показати файли довідки &lt;a0&gt;OmegaT&lt;/a0&gt; в окремому вікні</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Displays the Project files listing</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180622T201118Z" creationid="olexandr" creationdate="20180622T201118Z">
+        <seg>Показує перелік файлів проекту</seg>
       </tuv>
     </tu>
     <tu>
@@ -6384,6 +6840,14 @@ may experience unexpected, but correct behaviour.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="nessyk" changedate="20171101T184230Z" creationid="nessyk" creationdate="20171101T184211Z">
         <seg>Відстань</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Distribution and modifications</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180622T193919Z" creationid="olexandr" creationdate="20180622T193919Z">
+        <seg>Розповсюдження та модифікація</seg>
       </tuv>
     </tu>
     <tu>
@@ -6504,6 +6968,14 @@ may experience unexpected, but correct behaviour.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Маринка" changedate="20180124T090339Z" creationid="Маринка" creationdate="20180124T090339Z">
         <seg>DokuWiki</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>DokuWiki files (*.txt)</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180622T202408Z" creationid="olexandr" creationdate="20180622T202342Z">
+        <seg>Файли DokuWiki (*.txt)</seg>
       </tuv>
     </tu>
     <tu>
@@ -6644,6 +7116,14 @@ may experience unexpected, but correct behaviour.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Downloading the package</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180622T202908Z" creationid="olexandr" creationdate="20180622T202908Z">
+        <seg>Завантажте пакет</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Dra&amp;wings</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Tetiana21" changedate="20171204T203909Z" creationid="Tetiana21" creationdate="20171204T203909Z">
@@ -6770,6 +7250,14 @@ project_save.tmx не був завантажений, а SVN перейшов �
       </tuv>
       <tuv lang="UK-UA" changeid="Лера9764" changedate="20171114T174022Z" creationid="Лера9764" creationdate="20171114T174022Z">
         <seg>Ек&amp;спортувати сегмент до текстового файлу</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>ERROR: (declaring bean)</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180622T182307Z" creationid="olexandr" creationdate="20180622T182307Z">
+        <seg>ПОМИЛКА: (declaring bean)</seg>
       </tuv>
     </tu>
     <tu>
@@ -7002,6 +7490,14 @@ project_save.tmx не був завантажений, а SVN перейшов �
       </tuv>
       <tuv lang="UK-UA" changeid="nessyk" changedate="20171026T171522Z" creationid="nessyk" creationdate="20171026T133023Z">
         <seg>Дозволено</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Encoded text (*.UTF8)</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180622T202258Z" creationid="olexandr" creationdate="20180622T202258Z">
+        <seg>Закодований текст (*.UTF8)</seg>
       </tuv>
     </tu>
     <tu>
@@ -7878,6 +8374,14 @@ project_save.tmx не був завантажений, а SVN перейшов �
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>File formats</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180622T202207Z" creationid="olexandr" creationdate="20180622T202207Z">
+        <seg>Формати файлу</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>File locations</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Маринка" changedate="20171106T204524Z" creationid="Маринка" creationdate="20171106T204524Z">
@@ -8072,6 +8576,14 @@ script provided (omegat.kaptn).</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>For advanced users, the chapter describes the command line mode and its possibilities.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180622T192849Z" creationid="olexandr" creationdate="20180622T192849Z">
+        <seg>Для досвідчених користувачів, розділ містить опис режиму командного рядка та його можливості.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>For all files:</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Лера9764" changedate="20171105T154632Z" creationid="Лера9764" creationdate="20171105T154632Z">
@@ -8112,10 +8624,34 @@ script provided (omegat.kaptn).</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>For the application</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180622T194437Z" creationid="olexandr" creationdate="20180622T194437Z">
+        <seg>Для програмного забезпечення</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>For the documentation</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180622T194049Z" creationid="olexandr" creationdate="20180622T194049Z">
+        <seg>Для документації</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>For this purpose download the following file and then execute it:</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="olexandr" changedate="20180228T191438Z" creationid="olexandr" creationdate="20180228T191438Z">
         <seg>Для цього, завантажте вказаний нижче файл і запустіть його:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>For your reference, OmegaT displays the translation of any word that is both present in the segment and registered in the glossary.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180622T200635Z" creationid="olexandr" creationdate="20180622T192344Z">
+        <seg>Для рекомендації, OmegaT показує переклад будь-якого слова яке присутнє в сегменті та зареєстровано в глосарії.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8264,6 +8800,14 @@ script provided (omegat.kaptn).</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Generalities</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180622T205233Z" creationid="olexandr" creationdate="20180622T205233Z">
+        <seg>Загальні положення</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Generate the translated file</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="olexandr" changedate="20180130T213903Z" creationid="olexandr" creationdate="20180130T213903Z">
@@ -8336,6 +8880,14 @@ script provided (omegat.kaptn).</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Give access to the five last edited projects.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180622T204721Z" creationid="olexandr" creationdate="20180622T204721Z">
+        <seg>Надає швидкий доступ до 5 крайніх проектів, що редагувалися.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Global</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="olexandr" changedate="20180222T221214Z" creationid="Diman966" creationdate="20171116T200859Z">
@@ -8348,6 +8900,14 @@ script provided (omegat.kaptn).</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="olexandr" changedate="20180222T212528Z" creationid="olexandr" creationdate="20180222T212430Z">
         <seg>Глобальна перевірка правопису</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Glossaries</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180622T202546Z" creationid="olexandr" creationdate="20180622T202546Z">
+        <seg>Глосарії</seg>
       </tuv>
     </tu>
     <tu>
@@ -8424,6 +8984,22 @@ script provided (omegat.kaptn).</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Glossary/Display Context Description for TBX Glossaries</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180622T195918Z" creationid="olexandr" creationdate="20180622T195918Z">
+        <seg>Глосарій/Показ контекстного опису для глосаріїв TBX</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Glossary/Use Stemming for Glossary Entries</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180622T195943Z" creationid="olexandr" creationdate="20180622T195943Z">
+        <seg>Глосарій/Використовувати стемінг для словникових статей</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Go To Segment</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Маринка" changedate="20171118T201942Z" creationid="Kos Ivantsov" creationdate="20170902T184554Z">
@@ -8476,6 +9052,14 @@ script provided (omegat.kaptn).</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="olexandr" changedate="20180222T222255Z" creationid="nessyk" creationdate="20171126T111649Z">
         <seg>Ключ Google Api недоступний.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Google Translate</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180622T204132Z" creationid="olexandr" creationdate="20180622T204132Z">
+        <seg>Перекладач від Google</seg>
       </tuv>
     </tu>
     <tu>
@@ -8736,6 +9320,14 @@ script provided (omegat.kaptn).</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Hints</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180622T205156Z" creationid="olexandr" creationdate="20180622T205156Z">
+        <seg>Підказки</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Hiri Motu</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="olexandr" changedate="20180220T211239Z" creationid="olexandr" creationdate="20180220T211239Z">
@@ -8848,6 +9440,14 @@ script provided (omegat.kaptn).</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>IBM Watson</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180622T182139Z" creationid="olexandr" creationdate="20180622T182139Z">
+        <seg>IBM Watson</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>IBM Watson not available.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="olexandr" changedate="20180604T070733Z" creationid="olexandr" creationdate="20180604T070733Z">
@@ -8876,6 +9476,14 @@ script provided (omegat.kaptn).</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Таня" changedate="20180124T154431Z" creationid="Таня" creationdate="20180124T154431Z">
         <seg>Мовний файл ILIAS</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>INI (key=value) files (*.ini)</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180622T202336Z" creationid="olexandr" creationdate="20180622T202336Z">
+        <seg>INI (ключ=значення) файли (*.ini)</seg>
       </tuv>
     </tu>
     <tu>
@@ -8978,6 +9586,14 @@ need not be entered.)</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If an Internet connection is available, various MT services such as Google Translate and Microsoft Translator can be used from within OmegaT.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180622T200654Z" creationid="olexandr" creationdate="20180622T185544Z">
+        <seg>При наявності мережевого зʼєднання, різноманітні сервіси, такі як Google Translate та Microsoft Translator, можуть використовуватися разом з OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If checked, the entries are sorted alphabetically.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="nessyk" changedate="20171113T220631Z" creationid="nessyk" creationdate="20171113T214301Z">
@@ -9034,8 +9650,8 @@ their defaults as a result of the location change.</seg>
       <tuv lang="EN">
         <seg>If no text is selected, &lt;a1&gt;OmegaT&lt;/a1&gt; selects the word that contains the letter immediately to the right of the cursor.</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="olexandr" changedate="20180222T232516Z" creationid="olexandr" creationdate="20180222T232516Z">
-        <seg>Якщо текст не обрано, &lt;a1&gt;OmegaT&lt;/a1&gt; обирає слово, яке знаходиться праворуч від курсору.</seg>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180622T201321Z" creationid="olexandr" creationdate="20180222T232516Z">
+        <seg>Якщо текст не обрано, &lt;a1&gt;OmegaT&lt;/a1&gt; обирає слово, яке знаходиться праворуч від курсора.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9048,6 +9664,14 @@ their defaults as a result of the location change.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If spell checking is activated, spelling mistakes and typos are recognized and can be corrected during translation.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180622T185750Z" creationid="olexandr" creationdate="20180622T185750Z">
+        <seg>Якщо активовано перевірку правопису, помилки та друкарські помилки розпізнаються і можуть бути виправлені під час перекладу.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If the filter has any options, you may change them by clicking Options.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="olexandr" changedate="20180219T192322Z" creationid="Маринка" creationdate="20171223T201155Z">
@@ -9056,10 +9680,26 @@ their defaults as a result of the location change.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If they do not conflict with system shortcuts, they should be available from within OmegaT.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180622T195447Z" creationid="olexandr" creationdate="20180622T195447Z">
+        <seg>Якщо вони не конфліктують із системними комбінаціями, то вони будуть доступні через OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If you are interested in other settings of this dialog, you can return to it any time by pressing &lt;k0&gt;Ctrl+E.&lt;/k0&gt;</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="olexandr" changedate="20180125T222848Z" creationid="olexandr" creationdate="20180125T222848Z">
         <seg>Якщо надалі ви захочете змінити будь-які налаштування проекту, вікно параметрів проекту завжди можна викликати, натиснувши &lt;k0&gt;Ctrl+E.&lt;/k0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If you are on a Mac and you want to add a &lt;k0&gt; &lt;k1&gt;Shift&lt;/k1&gt; &lt;k2&gt;Command&lt;/k2&gt; &lt;k3&gt;S&lt;/k3&gt; &lt;/k0&gt; shortcut to &lt;m4&gt; &lt;g5&gt;Tools&lt;/g5&gt; &lt;g6&gt;Statistics&lt;/g6&gt; &lt;/m4&gt;, add the following line to your &lt;f7&gt;MainMenuShortcuts.properties&lt;/f7&gt;:</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180622T195235Z" creationid="olexandr" creationdate="20180622T195235Z">
+        <seg>Якщо ви використовуєте Mac та бажаєте додати &lt;k0&gt; &lt;k1&gt;Shift&lt;/k1&gt; &lt;k2&gt;Command&lt;/k2&gt; &lt;k3&gt;S&lt;/k3&gt; &lt;/k0&gt; скорочення до пункту &lt;m4&gt; &lt;g5&gt;Інструменти&lt;/g5&gt; &lt;g6&gt;Статистика&lt;/g6&gt; &lt;/m4&gt;, додайте наступний рядок до вашого &lt;f7&gt;MainMenuShortcuts.properties&lt;/f7&gt;:</seg>
       </tuv>
     </tu>
     <tu>
@@ -9215,6 +9855,14 @@ click on that shortcut.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>In OmegaT, segments can be based on paragraphs or on segmentation rules.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180622T184122Z" creationid="olexandr" creationdate="20180622T184122Z">
+        <seg>В OmegaT, сегменти можуть базуватися на параграфах, чи за правилами сегментації.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>In comments</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Маринка" changedate="20171107T200055Z" creationid="Маринка" creationdate="20171107T200055Z">
@@ -9259,6 +9907,14 @@ click on that shortcut.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="olexandr" changedate="20180220T235118Z" creationid="olexandr" creationdate="20180220T235118Z">
         <seg>На наведеному прикладі два скрипти вже назначено (позиції 1 та 2).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>In this case the regular expression ^s^s+ would be used to find and list the offending segments.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180622T185247Z" creationid="olexandr" creationdate="20180622T185247Z">
+        <seg>В даному випадку регулярний вираз ^s^s+ може бути використаний для пошуку та показу необхідних сегментів.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9455,6 +10111,14 @@ click on that shortcut.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Installing OmegaT</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180622T203217Z" creationid="olexandr" creationdate="20180622T203217Z">
+        <seg>Встановлення OmegaT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Installing OmegaT (Linux)
 =========================</seg>
       </tuv>
@@ -9491,6 +10155,14 @@ click on that shortcut.</seg>
       <tuv lang="UK-UA" changeid="olexandr" changedate="20180125T205748Z" creationid="olexandr" creationdate="20180125T205748Z">
         <seg>Встановлення OmegaT (Windows)
 ===========================</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Installing and running &lt;a0&gt;OmegaT&lt;/a0&gt;</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180622T202832Z" creationid="olexandr" creationdate="20180622T202832Z">
+        <seg>Встановлення та запуск &lt;a0&gt;OmegaT&lt;/a0&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -9539,6 +10211,14 @@ click on that shortcut.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="olexandr" changedate="20180217T093700Z" creationid="olexandr" creationdate="20180217T093700Z">
         <seg>Вступ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Introduction to tokenizers and scripts</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180622T190309Z" creationid="olexandr" creationdate="20180622T190309Z">
+        <seg>Ознайомлення із токенізацією та скриптами</seg>
       </tuv>
     </tu>
     <tu>
@@ -9691,6 +10371,14 @@ click on that shortcut.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="olexandr" changedate="20180220T232949Z" creationid="olexandr" creationdate="20180220T232949Z">
         <seg>Вона також визначає граматичні помилки.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>It contains the specific instructions on how to install OmegaT and run it on Windows, Mac OS X and Linux.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180622T192754Z" creationid="olexandr" creationdate="20180622T192754Z">
+        <seg>Розділ містить специфічні інструкції, такі як встановлення та запуск OmegaT в системах Windows, Mac OS X та Linux.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9879,6 +10567,14 @@ itself on the first run.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Diman966" changedate="20180124T113134Z" creationid="Diman966" creationdate="20180124T113134Z">
         <seg>Параметри фільтрування пакетів ресурсів Java</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Java resource bundles (*.properties)</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180622T202316Z" creationid="olexandr" creationdate="20180622T202316Z">
+        <seg>Компоненти ресурсів Java (*.properties)</seg>
       </tuv>
     </tu>
     <tu>
@@ -10309,8 +11005,8 @@ itself on the first run.</seg>
       <tuv lang="EN">
         <seg>LanguageTool will find errors for which a rule has been defined in its language-specific configuration files.</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="olexandr" changedate="20180222T065202Z" creationid="olexandr" creationdate="20180220T232651Z">
-        <seg>LanguageTool може шукати помилки згідно з правил, які визначені у відповідному файлі конфігурації.</seg>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180622T201400Z" creationid="olexandr" creationdate="20180220T232651Z">
+        <seg>LanguageTool може шукати помилки згідно із правил, які визначені у відповідному файлі конфігурації.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10543,6 +11239,22 @@ itself on the first run.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="olexandr" changedate="20180222T223442Z" creationid="olexandr" creationdate="20180222T223442Z">
         <seg>Стрілка вліво:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Legal notices</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180622T193805Z" creationid="olexandr" creationdate="20180622T193805Z">
+        <seg>Юридична інформація</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Legal notices and Acknowledgements</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180622T190433Z" creationid="olexandr" creationdate="20180622T190433Z">
+        <seg>Юридична інформація та подяки</seg>
       </tuv>
     </tu>
     <tu>
@@ -10853,6 +11565,14 @@ itself on the first run.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Mac users should instead use &lt;k4&gt; &lt;k5&gt;Cmd&lt;/k5&gt; &lt;k6&gt;key&lt;/k6&gt; &lt;/k4&gt; instead.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180622T204355Z" creationid="olexandr" creationdate="20180622T204355Z">
+        <seg>Користувачі Mac використовують &lt;k4&gt; &lt;k5&gt;Cmd&lt;/k5&gt; &lt;k6&gt;клавішу&lt;/k6&gt; &lt;/k4&gt; замість них.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Mac&amp;hine Translate</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20170902T144805Z" creationid="Kos Ivantsov" creationdate="20170902T144805Z">
@@ -10999,8 +11719,8 @@ itself on the first run.</seg>
       <tuv lang="EN">
         <seg>Mark &amp;Auto-Populated Segments</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="olexandr" changedate="20180222T221746Z" creationid="nessyk" creationdate="20180123T141447Z">
-        <seg>Позначити &amp;Автоматизовані сегменти</seg>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180622T195657Z" creationid="nessyk" creationdate="20180123T141447Z">
+        <seg>Позначити &amp;автоматично заповнені сегменти</seg>
       </tuv>
     </tu>
     <tu>
@@ -11041,6 +11761,14 @@ itself on the first run.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="nessyk" changedate="20171101T184636Z" creationid="nessyk" creationdate="20171025T180717Z">
         <seg>Прийняте означення</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Mark Auto-Populated Segments</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180622T195640Z" creationid="olexandr" creationdate="20180622T195640Z">
+        <seg>Позначити автоматично заповнені сегменти</seg>
       </tuv>
     </tu>
     <tu>
@@ -11351,7 +12079,7 @@ itself on the first run.</seg>
       <tuv lang="EN">
         <seg>Microsoft Translator</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="olexandr" changedate="20180222T221044Z" creationid="Tetiana21" creationdate="20171116T195604Z">
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180622T204106Z" creationid="olexandr" creationdate="20180622T204106Z">
         <seg>Перекладач від Microsoft</seg>
       </tuv>
     </tu>
@@ -11421,6 +12149,14 @@ itself on the first run.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Modification Info/Display Selected</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180622T195817Z" creationid="olexandr" creationdate="20180622T195817Z">
+        <seg>Інформація про модифікацію/Показувати обране</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Modification info</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="nessyk" changedate="20171106T223857Z" creationid="nessyk" creationdate="20171106T223857Z">
@@ -11449,6 +12185,14 @@ itself on the first run.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Лера9764" changedate="20171205T100731Z" creationid="nessyk" creationdate="20171106T223946Z">
         <seg>Текст інформації про модифікацію</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Modifications to the original document are thus handled with greater ease.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180622T191734Z" creationid="olexandr" creationdate="20180622T191734Z">
+        <seg>Таким чином модифікація оригінального документу значно полегшується.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11592,8 +12336,8 @@ itself on the first run.</seg>
         <seg>Move the folder to an
 appropriate location such as the Applications folder.</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="olexandr" changedate="20180228T185951Z" creationid="olexandr" creationdate="20180228T185930Z">
-        <seg>Перемістіть теку до необхідного місцерозташування,
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180622T200820Z" creationid="olexandr" creationdate="20180228T185930Z">
+        <seg>Перемістіть теку до необхідного місце розташування,
 наприклад теку «Програми».</seg>
       </tuv>
     </tu>
@@ -11723,6 +12467,14 @@ appropriate location such as the Applications folder.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="olexandr" changedate="20180220T211659Z" creationid="olexandr" creationdate="20180220T211659Z">
         <seg>Непальська</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Neural machine translation</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180622T182218Z" creationid="olexandr" creationdate="20180622T182218Z">
+        <seg>Машинний переклад за допомогою нейронної мережі</seg>
       </tuv>
     </tu>
     <tu>
@@ -12525,6 +13277,9 @@ OmegaT розповсюджується на умовах Загальної п�
 published by the Free Software Foundation, either version 3 of the License, or
 (at your option) any later version.</seg>
       </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180622T205602Z">
+        <seg>OmegaT доступно відповідно до умов the GNU General Public Licens, виданої Фондом Безкоштовного Програмного Забезпечення, або 3 ліцензії, або (за необхідністю) будь-якої пізнішої версії.</seg>
+      </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
@@ -12592,12 +13347,28 @@ installed on your system.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>OmegaT uses glossaries containing translations of single words or small phrases: a simplified bilingual dictionary for a specific domain.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180622T192217Z" creationid="olexandr" creationdate="20180622T192217Z">
+        <seg>OmegaT використовує глосарії із перекладом одиничних слів чи коротких виразів: спрощений двомовний словник для специфічної галузі.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>OmegaT uses the following libraries:
 {1}</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Tetiana21" changedate="20171205T150437Z" creationid="Tetiana21" creationdate="20171205T150437Z">
         <seg>OmegaT користується наступними бібліотеками:
 {1}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>OmegaT uses the standard tmx file format to store and access translation memories, which guarantees that you can exchange your translation material with other CAT applications supporting this file format.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180622T191934Z" creationid="olexandr" creationdate="20180622T191934Z">
+        <seg>OmegaT використовує стандартний формат файлу tmx для збереження та доступу до памʼяті перекладів, що гарантує можливість обміну інформацією між іншими системами автоматизованого перекладу, які підтримують даний формат.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12922,6 +13693,14 @@ installed on your system.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Opens a previously created project.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180622T204640Z" creationid="olexandr" creationdate="20180622T204640Z">
+        <seg>Відкриття попередньо створеного проекту.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Options</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Лера9764" changedate="20171025T182230Z" creationid="Лера9764" creationdate="20171025T182230Z">
@@ -13066,6 +13845,14 @@ installed on your system.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>PDF files</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180622T202510Z" creationid="olexandr" creationdate="20180622T202510Z">
+        <seg>PDF файли</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>PDFBox (Apache License 2.0)</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="olexandr" changedate="20180217T094216Z" creationid="nessyk" creationdate="20180123T121838Z">
@@ -13090,6 +13877,14 @@ installed on your system.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>PO files (*.po)</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180622T202320Z" creationid="olexandr" creationdate="20180622T202320Z">
+        <seg>PO файли (*.po)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Page Not Found</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20171209T223052Z" creationid="Kos Ivantsov" creationdate="20171209T223052Z">
@@ -13110,6 +13905,14 @@ installed on your system.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="olexandr" changedate="20180220T211905Z" creationid="olexandr" creationdate="20180220T211905Z">
         <seg>Пенджабі; Пунджабі</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Paragraph segmentation is less frequently used, but can be useful in cases of so-called "creative" texts.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180622T184603Z" creationid="olexandr" creationdate="20180622T184241Z">
+        <seg>Сегментація за параграфами використовується рідше, але може бути в нагоді при роботі із досить "креативними" текстами.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13172,8 +13975,8 @@ installed on your system.</seg>
       <tuv lang="EN">
         <seg>Pastes the text from the clipboard at the cursor position.</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="olexandr" changedate="20180222T233505Z" creationid="olexandr" creationdate="20180222T233505Z">
-        <seg>Вставити текст з буферу обміну в поточну позицію курсора.</seg>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180622T201337Z" creationid="olexandr" creationdate="20180222T233505Z">
+        <seg>Вставити текст з буфера обміну в поточну позицію курсора.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13901,6 +14704,14 @@ project without team functionality.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Project files listing</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180622T201135Z" creationid="olexandr" creationdate="20180622T201135Z">
+        <seg>Перелік файлів проекту</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Project is Empty</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20180205T223916Z" creationid="Julia" creationdate="20170424T144443Z">
@@ -14265,6 +15076,22 @@ project without team functionality.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Маринка" changedate="20171114T220000Z" creationid="Маринка" creationdate="20171114T220000Z">
         <seg>Пошук регулярного виразу відповідає регулярним виразам Java, як це задокументовано в посібнику користувача.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Regular expressions</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180622T204922Z" creationid="olexandr" creationdate="20180622T204922Z">
+        <seg>Регулярні вирази</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Regular expressions are also used extensively in the segmentation rules.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180622T185343Z" creationid="olexandr" creationdate="20180622T185343Z">
+        <seg>Регулярні вирази також широко використовуються в побудові правил сегментації.</seg>
       </tuv>
     </tu>
     <tu>
@@ -14735,6 +15562,14 @@ project without team functionality.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>ResX files (*.resx)</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180622T202445Z" creationid="olexandr" creationdate="20180622T202445Z">
+        <seg>Файли ResX (*.resx)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Reset</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="nessyk" changedate="20171025T180327Z" creationid="nessyk" creationdate="20171025T180327Z">
@@ -14931,6 +15766,14 @@ project without team functionality.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="olexandr" changedate="20180217T100940Z" creationid="Tetiana21" creationdate="20171116T200011Z">
         <seg>Запустити скрипт на слоті #{0}.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Running &lt;a0&gt;OmegaT&lt;i1/&gt;&lt;/a0&gt;</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180622T203352Z" creationid="olexandr" creationdate="20180622T203352Z">
+        <seg>Запуск &lt;a0&gt;OmegaT&lt;i1/&gt;&lt;/a0&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -15217,6 +16060,14 @@ The scope of a search is by default the project and can be set to be any files l
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Scribus</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180622T182118Z" creationid="olexandr" creationdate="20180622T182118Z">
+        <seg>Scribus</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Script "{0}" bound to slot #{1}.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="olexandr" changedate="20180217T100900Z" creationid="nessyk" creationdate="20180123T132601Z">
@@ -15449,6 +16300,14 @@ The scope of a search is by default the project and can be set to be any files l
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>See</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180622T204603Z" creationid="olexandr" creationdate="20180622T204603Z">
+        <seg>Дивіться</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>See "Chapter 3.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="olexandr" changedate="20180220T230019Z" creationid="Лера9764" creationdate="20171116T142348Z">
@@ -15510,6 +16369,22 @@ The scope of a search is by default the project and can be set to be any files l
       </tuv>
       <tuv lang="UK-UA" changeid="olexandr" changedate="20180220T225702Z" creationid="Kos Ivantsov" creationdate="20170902T144645Z">
         <seg>Докладніше дивіться нижче.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>See the GNU General Public License for more detail.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180622T194605Z" creationid="olexandr" creationdate="20180622T194605Z">
+        <seg>Дивіться GNU General Public License для більш детальної інформації.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>See the GNU General Public License for more details.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180622T194409Z" creationid="olexandr" creationdate="20180622T194409Z">
+        <seg>Дивіться GNU General Public License для більш детальної інформації.</seg>
       </tuv>
     </tu>
     <tu>
@@ -16514,6 +17389,14 @@ The scope of a search is by default the project and can be set to be any files l
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Spell checker</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180622T205131Z" creationid="olexandr" creationdate="20180622T205131Z">
+        <seg>Перевірка правопису</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Spell checking...</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="olexandr" changedate="20180222T231039Z" creationid="olexandr" creationdate="20180222T231039Z">
@@ -16736,6 +17619,14 @@ The scope of a search is by default the project and can be set to be any files l
       </tuv>
       <tuv lang="UK-UA" changeid="Маринка" changedate="20171203T194202Z" creationid="Маринка" creationdate="20171203T194202Z">
         <seg>Субтитри SubRip</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>SubRip title files (*.srt)</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180622T202403Z" creationid="olexandr" creationdate="20180622T202403Z">
+        <seg>Файли титрів SubRip (*.srt)</seg>
       </tuv>
     </tu>
     <tu>
@@ -17212,6 +18103,14 @@ The scope of a search is by default the project and can be set to be any files l
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Team Projects</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180622T190315Z" creationid="olexandr" creationdate="20180622T190315Z">
+        <seg>Командні проекти</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Team synchronization</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="nessyk" changedate="20171118T185634Z" creationid="nessyk" creationdate="20171118T185634Z">
@@ -17374,11 +18273,27 @@ The scope of a text replacement is the target segments of the project, whether t
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Thank you all!</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180622T193714Z" creationid="olexandr" creationdate="20180622T193714Z">
+        <seg>Дякую всім вам!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The
 current folder will be used instead.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="olexandr" changedate="20180216T151253Z" creationid="nessyk" creationdate="20171205T173925Z">
         <seg>Замість цього буде використана поточна тека.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The "Cmd" key either has a "command" label or an apple symbol on Apple keyboards.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180622T204444Z" creationid="olexandr" creationdate="20180622T204444Z">
+        <seg>Клавіша "Cmd" може маркуватися міткою "command" чи символом яблука на клавіатурах від Apple.</seg>
       </tuv>
     </tu>
     <tu>
@@ -17505,6 +18420,14 @@ Please try to correct the error and reload the project.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The author of the Chapter &lt;e1&gt;Learn to use OmegaT in 5 minutes!&lt;/e1&gt; is Samuel Murray, Copyright ©2005-2012.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180622T193903Z" creationid="olexandr" creationdate="20180622T193903Z">
+        <seg>Автором розділу &lt;e1&gt;Навчіться використовувати OmegaT за 5 хвилин!&lt;/e1&gt; є Samuel Murray, Copyright ©2005-2012.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The command is case-sensitive.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Лера9764" changedate="20180103T125641Z" creationid="Лера9764" creationdate="20180103T125641Z">
@@ -17567,6 +18490,30 @@ instead.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="olexandr" changedate="20180219T001328Z" creationid="olexandr" creationdate="20180219T001328Z">
         <seg>Типові комбінації OmegaT для Mac також доступні на Sourceforge, в них замість «ctrl» використовується «meta»: &lt;u0&gt;Типові комбінації OmegaT для Mac&lt;/u0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The documentation distributed with &lt;a0&gt;OmegaT&lt;/a0&gt; includes the User Manual and the readme.txt document.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180622T194154Z" creationid="olexandr" creationdate="20180622T194154Z">
+        <seg>Документація постачається разом із &lt;a0&gt;OmegaT&lt;/a0&gt; і містить посібник користувача та документ readme.txt.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The documentation is a free document; you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation; either version 3 of the License, or (if you prefer) any later version.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180622T194336Z" creationid="olexandr" creationdate="20180622T194336Z">
+        <seg>Це вільна документація; ви можете вільно поширювати та/або змінювати її відповідно до умов the GNU General Public Licens, виданої Фондом Безкоштовного Програмного Забезпечення; або версії 3 ліцензії, або (за необхідністю) будь-якої пізнішої версії.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The documentation is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180622T194019Z" creationid="olexandr" creationdate="20180622T194019Z">
+        <seg>Ця документація надається у доступі, з надією, що вона буде корисною, але БЕЗ БУДЬ-ЯКИХ ГАРАНТІЙ; навіть без гарантій ПРИДАТНОСТІ ДО ПРОДАЖУ чи ПРИДАТНОСТІ ДЛЯ ПЕВНОЇ МЕТИ.</seg>
       </tuv>
     </tu>
     <tu>
@@ -17696,6 +18643,14 @@ in /lib/licenses/Licenses.txt.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The open source LanguageTool can be used to correct common grammatical and stylistic mistakes.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180622T185928Z" creationid="olexandr" creationdate="20180622T185928Z">
+        <seg>Можливе використання LanguageTool із відкритим джерельним кодом для корекції основної частини граматичних та стилістичних помилок.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The password cannot be empty.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="nessyk" changedate="20171026T180709Z" creationid="nessyk" creationdate="20171026T180709Z">
@@ -17756,6 +18711,14 @@ in /lib/licenses/Licenses.txt.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="nessyk" changedate="20171121T182112Z" creationid="nessyk" creationdate="20171121T182112Z">
         <seg>Проект буде завантажено як локальний проект без командної функціональності.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The rule-based segmentation is usually synonymous with sentence-based segmentation.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180622T184659Z" creationid="olexandr" creationdate="20180622T184659Z">
+        <seg>Сегментація за правилами зазвичай є синонімом сегментації за реченнями.</seg>
       </tuv>
     </tu>
     <tu>
@@ -17844,6 +18807,14 @@ in /lib/licenses/Licenses.txt.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="nessyk" changedate="20171126T112516Z" creationid="Tetiana21" creationdate="20171118T192721Z">
         <seg>Вказаний напрямок перекладу не підтримується</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The tab character ('\u0009')</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180622T204945Z" creationid="olexandr" creationdate="20180622T204945Z">
+        <seg>Символ табуляції ('\u0009')</seg>
       </tuv>
     </tu>
     <tu>
@@ -17986,6 +18957,14 @@ configuration folder cannot be reliably determined.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>These translation memories can be very useful when a document that has already been translated needs to be updated.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180622T191448Z" creationid="olexandr" creationdate="20180622T191448Z">
+        <seg>Памʼять перекладів стає в нагоді, коли необхідно оновити вже перекладений документ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>These units have been skipped.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Маринка" changedate="20171118T211257Z" creationid="Маринка" creationdate="20171118T210834Z">
@@ -18029,6 +19008,14 @@ the server.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>This JRE will not interfere with other Java implementations that may already be installed on your system.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180622T203207Z" creationid="olexandr" creationdate="20180622T203207Z">
+        <seg>Цей пакунок JRE не взаємодіє із іншими реалізаціями Java, які можуть бути встановлені у вашій системі.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>This URL appears to be invalid.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="nessyk" changedate="20171125T150819Z" creationid="nessyk" creationdate="20171118T191025Z">
@@ -18049,6 +19036,14 @@ the server.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="nessyk" changedate="20180123T145532Z" creationid="nessyk" creationdate="20171207T185218Z">
         <seg>Цей виклик ПОВИНЕН перебувати в потоці</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This chapter describes the project properties, such as the source and target languages.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180622T193212Z" creationid="olexandr" creationdate="20180622T193212Z">
+        <seg>Даний розділ описує властивості проекту, такі як мова перекладу та оригіналу.</seg>
       </tuv>
     </tu>
     <tu>
@@ -18097,6 +19092,14 @@ the server.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20170902T145124Z" creationid="Kos Ivantsov" creationdate="20170902T145124Z">
         <seg>Так виглядатиме текст на екрані.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This package is bundled with Oracle's Java Runtime Environment.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180622T203020Z" creationid="olexandr" creationdate="20180622T203020Z">
+        <seg>Цей пакунок йде разом із Oracle's Java Runtime Environment.</seg>
       </tuv>
     </tu>
     <tu>
@@ -18195,6 +19198,14 @@ the server.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="olexandr" changedate="20180217T130807Z" creationid="Маринка" creationdate="20171223T201733Z">
         <seg>Щоб відредагувати певні файли та їхні кодування, які будуть оброблятися за допомогою фільтра, виберіть фільтр зі списку та натисніть «Редагувати».</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To install &lt;a0&gt;OmegaT&lt;/a0&gt;, double-click on the program you have downloaded.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180622T203258Z" creationid="olexandr" creationdate="20180622T203258Z">
+        <seg>Для встановлення &lt;a0&gt;OmegaT&lt;/a0&gt;, двічі клацність мишею по завантаженій програмі.</seg>
       </tuv>
     </tu>
     <tu>
@@ -18360,8 +19371,16 @@ install.sh.</seg>
       <tuv lang="EN">
         <seg>TransTips</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="nessyk" changedate="20171106T225514Z" creationid="nessyk" creationdate="20171106T225514Z">
-        <seg>Перекладацькі підказки</seg>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180622T202003Z" creationid="nessyk" creationdate="20171106T225514Z">
+        <seg>Підказки перекладу</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>TransTips/Enable Transtips</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180622T201939Z" creationid="olexandr" creationdate="20180622T201839Z">
+        <seg>Підказки перекладу/Увімкнути підказки перекладу</seg>
       </tuv>
     </tu>
     <tu>
@@ -18850,6 +19869,14 @@ Exact searches match the whole search string.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Unchanged sentences are automatically translated, while updated sentences are shown with the translation of the most similar, older sentence.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180622T191703Z" creationid="olexandr" creationdate="20180622T191703Z">
+        <seg>Незмінені речення будуть автоматично перекладені, коли для оновлених буде запропоноване максимально наближений варіант перекладу на основі старого речення.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Undo Last Action</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="olexandr" changedate="20180220T063735Z" creationid="olexandr" creationdate="20180220T063735Z">
@@ -18981,9 +20008,9 @@ Exact searches match the whole search string.</seg>
         <seg>Unpack the OmegaT .zip archive to obtain a folder that contains a
 documentation file and the OmegaT application.</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="olexandr" changedate="20180228T185833Z" creationid="olexandr" creationdate="20180228T185833Z">
-        <seg>Розпакуйте .zip архів OmegaT, який містить теку із файлом 
-документації та додатком OmegaT</seg>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180622T201510Z" creationid="olexandr" creationdate="20180228T185833Z">
+        <seg>Розпакуйте .zip архів OmegaT, який містить теку із файлом
+документації та додатком OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
@@ -19112,6 +20139,14 @@ on line {1}, column {2}.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Usage</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180622T202607Z" creationid="olexandr" creationdate="20180622T202607Z">
+        <seg>Використання</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Usage: java -jar OmegaT.jar [&lt;options&gt;] [&lt;project path&gt;]</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="TranslatorOne" changedate="20170413T142133Z" creationid="TranslatorOne" creationdate="20170413T142133Z">
@@ -19132,6 +20167,14 @@ on line {1}, column {2}.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="olexandr" changedate="20180220T234140Z" creationid="olexandr" creationdate="20180220T234140Z">
         <seg>Використання</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Use $n to refer to the nth group.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180622T182108Z" creationid="olexandr" creationdate="20180622T182108Z">
+        <seg>Використовуйте $n, аби звернутися до групи n.</seg>
       </tuv>
     </tu>
     <tu>
@@ -19188,6 +20231,14 @@ on line {1}, column {2}.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="olexandr" changedate="20180222T234243Z" creationid="olexandr" creationdate="20180222T234243Z">
         <seg>Використовувати TAB для переходу до наступного сегмента</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Use Terms Appearing Separately in the Source Text</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180622T195929Z" creationid="olexandr" creationdate="20180622T195929Z">
+        <seg>Використати терміни, що зʼявляються окремо у тексті оригіналу</seg>
       </tuv>
     </tu>
     <tu>
@@ -19334,6 +20385,14 @@ searchable without subscription:</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Using TaaS in OmegaT</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180622T205218Z" creationid="olexandr" creationdate="20180622T205218Z">
+        <seg>Використання TaaS в OmegaT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Uzbek</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="olexandr" changedate="20180220T212238Z" creationid="olexandr" creationdate="20180220T212238Z">
@@ -19402,6 +20461,14 @@ searchable without subscription:</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="olexandr" changedate="20180218T203606Z" creationid="Tetiana21" creationdate="20171105T164139Z">
         <seg>Варіанти будуть показані наступними мовами: {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Various shortcuts</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180622T201159Z" creationid="olexandr" creationdate="20180622T201159Z">
+        <seg>Різні комбінації клавіш</seg>
       </tuv>
     </tu>
     <tu>
@@ -19580,6 +20647,14 @@ searchable without subscription:</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="olexandr" changedate="20180219T001813Z" creationid="Diman966" creationdate="20180115T203102Z">
         <seg>Попередження: зміна порядку теґів може порушити перекладений документ!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Warranty</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180622T193938Z" creationid="olexandr" creationdate="20180622T193938Z">
+        <seg>Гарантія</seg>
       </tuv>
     </tu>
     <tu>
@@ -20079,6 +21154,14 @@ from there.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>You can customize existing shortcuts or add new ones according to your needs.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180622T204533Z" creationid="olexandr" creationdate="20180622T204533Z">
+        <seg>Ви можете змінювати наявні комбінації клавіш, або ж додавати нові в залежності від ваших потреб.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>You can find detailed statistic information in the file:
 {0}</seg>
       </tuv>
@@ -20225,6 +21308,14 @@ the installation script (linux-install.sh).</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Маринка" changedate="20171126T180905Z" creationid="Маринка" creationdate="20171126T180905Z">
         <seg>У вашому проекті використовується сегментація по реченню, але файл TMX був створений за допомогою сегментації по абзацу.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Your new shortcuts should now appear next to the menu items you have modified.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="olexandr" changedate="20180622T200554Z" creationid="olexandr" creationdate="20180622T195355Z">
+        <seg>Ваша нова комбінація повинна зʼявитися поруч зі зміненим пунктом меню.</seg>
       </tuv>
     </tu>
     <tu>
