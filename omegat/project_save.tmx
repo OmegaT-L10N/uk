@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.3_2_ad1aaa5ea" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.5_0_10418" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -18863,6 +18863,14 @@ in /lib/licenses/Licenses.txt.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="olexandr" changedate="20180125T205021Z" creationid="nessyk" creationdate="20171113T221429Z">
         <seg>Переклад був змінено.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The user interface</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Лера9764" changedate="20180701T154400Z" creationid="Лера9764" creationdate="20180701T154400Z">
+        <seg>Інтерфейс користувача</seg>
       </tuv>
     </tu>
     <tu>
