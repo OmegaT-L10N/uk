@@ -14,6 +14,118 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>${adjustedScore}</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Лера9764" changedate="20180701T155143Z" creationid="Лера9764" creationdate="20180701T155143Z">
+        <seg>${adjustedScore}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>${changedID}</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Лера9764" changedate="20180701T155205Z" creationid="Лера9764" creationdate="20180701T155205Z">
+        <seg>${changedID}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>${diffReversed}</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Лера9764" changedate="20180701T155133Z" creationid="Лера9764" creationdate="20180701T155133Z">
+        <seg>${diffReversed}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>${diff}</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Лера9764" changedate="20180701T155130Z" creationid="Лера9764" creationdate="20180701T155130Z">
+        <seg>${diff}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>${fileNameOnly}</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Лера9764" changedate="20180701T155148Z" creationid="Лера9764" creationdate="20180701T155148Z">
+        <seg>${fileNameOnly}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>${filePath}</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Лера9764" changedate="20180701T155153Z" creationid="Лера9764" creationdate="20180701T155153Z">
+        <seg>${filePath}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>${fileShortPath}</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Лера9764" changedate="20180701T155156Z" creationid="Лера9764" creationdate="20180701T155156Z">
+        <seg>${fileShortPath}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>${id}</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Лера9764" changedate="20180701T155018Z" creationid="Лера9764" creationdate="20180701T155018Z">
+        <seg>${id}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>${initialCreationDate}</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Лера9764" changedate="20180701T155201Z" creationid="Лера9764" creationdate="20180701T155201Z">
+        <seg>${initialCreationDate}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>${initialCreationID}</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Лера9764" changedate="20180701T155159Z" creationid="Лера9764" creationdate="20180701T155159Z">
+        <seg>${initialCreationID}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>${noStemScore}</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Лера9764" changedate="20180701T155140Z" creationid="Лера9764" creationdate="20180701T155140Z">
+        <seg>${noStemScore}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>${score}</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Лера9764" changedate="20180701T155136Z" creationid="Лера9764" creationdate="20180701T155136Z">
+        <seg>${score}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>${sourceText}</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Лера9764" changedate="20180701T155123Z" creationid="Лера9764" creationdate="20180701T155123Z">
+        <seg>${sourceText}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>${targetText}</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Лера9764" changedate="20180701T155127Z" creationid="Лера9764" creationdate="20180701T155127Z">
+        <seg>${targetText}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>${translationNotice}</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20170929T121632Z" creationid="Kos Ivantsov" creationdate="20170929T121632Z">
