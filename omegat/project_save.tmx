@@ -5244,6 +5244,14 @@ may experience unexpected, but correct behaviour.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Close the project</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Лера9764" changedate="20180701T160606Z" creationid="Лера9764" creationdate="20180701T160606Z">
+        <seg>Закрийте проект</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Closes the current project.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="olexandr" changedate="20180222T234555Z" creationid="olexandr" creationdate="20180222T234555Z">
