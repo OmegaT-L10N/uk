@@ -22,6 +22,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>${changedDate}</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Лера9764" changedate="20180701T155210Z" creationid="Лера9764" creationdate="20180701T155210Z">
+        <seg>${changedDate}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>${changedID}</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Лера9764" changedate="20180701T155205Z" creationid="Лера9764" creationdate="20180701T155205Z">
@@ -66,6 +74,14 @@
       </tuv>
       <tuv lang="UK-UA" changeid="Лера9764" changedate="20180701T155156Z" creationid="Лера9764" creationdate="20180701T155156Z">
         <seg>${fileShortPath}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>${fuzzyFlag}</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Лера9764" changedate="20180701T155213Z" creationid="Лера9764" creationdate="20180701T155213Z">
+        <seg>${fuzzyFlag}</seg>
       </tuv>
     </tu>
     <tu>
@@ -11781,6 +11797,14 @@ itself on the first run.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Main menu</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Лера9764" changedate="20180701T155238Z" creationid="Лера9764" creationdate="20180701T155238Z">
+        <seg>Головне меню</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Malagasy</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="olexandr" changedate="20180220T211539Z" creationid="olexandr" creationdate="20180220T211539Z">
@@ -14852,6 +14876,14 @@ project without team functionality.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="nessyk" changedate="20171118T190726Z" creationid="nessyk" creationdate="20171118T190635Z">
         <seg>Файл проекту повинен бути на http-протоколі.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Project files</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Лера9764" changedate="20180701T155339Z" creationid="Лера9764" creationdate="20180701T155339Z">
+        <seg>Файли проекту</seg>
       </tuv>
     </tu>
     <tu>
@@ -18767,6 +18799,14 @@ in /lib/licenses/Licenses.txt.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20170929T122757Z" creationid="Kos Ivantsov" creationdate="20170929T122757Z">
         <seg>У файлі /docs/OmegaT-license.txt названо ліцензії, відповідно до яких розповсюджується кожна бібліотека.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The main menu provides access to all &lt;a0&gt;OmegaT&lt;/a0&gt; functions.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Лера9764" changedate="20180701T155309Z" creationid="Лера9764" creationdate="20180701T155309Z">
+        <seg>Головне меню надає доступ до всіх функцій &lt;a0&gt;OmegaT&lt;/a0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
