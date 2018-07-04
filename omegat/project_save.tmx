@@ -11395,6 +11395,14 @@ itself on the first run.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Leave the segment empty</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Лера9764" changedate="20180704T103603Z" creationid="Лера9764" creationdate="20180704T103603Z">
+        <seg>Залишити сегмент порожнім</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Left-to-Right Embedding (LRE U+202A)</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20180205T231712Z" creationid="Маринка" creationdate="20171204T163630Z">
