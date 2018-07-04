@@ -13621,6 +13621,14 @@ installed on your system.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>OmegaT will then report these segments as not translated.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Лера9764" changedate="20180704T104430Z" creationid="Лера9764" creationdate="20180704T104430Z">
+        <seg>OmegaT позначить їх як „не перекладені“.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>OmegaT will try to resegment the TMX file...</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="olexandr" changedate="20180216T153510Z" creationid="Маринка" creationdate="20171203T191813Z">
@@ -21398,6 +21406,14 @@ from there.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="olexandr" changedate="20180622T204533Z" creationid="olexandr" creationdate="20180622T204533Z">
         <seg>Ви можете змінювати наявні комбінації клавіш, або ж додавати нові в залежності від ваших потреб.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You can decide not to translate such segments at all.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Лера9764" changedate="20180704T104330Z" creationid="Лера9764" creationdate="20180704T104330Z">
+        <seg>Ви можете не перекладати такі сегменти.</seg>
       </tuv>
     </tu>
     <tu>
