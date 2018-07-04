@@ -7566,6 +7566,14 @@ project_save.tmx не був завантажений, а SVN перейшов �
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Editing behavior options</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Лера9764" changedate="20180704T103503Z" creationid="Лера9764" creationdate="20180704T103503Z">
+        <seg>Параметри поведінки редактора</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Editor</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="olexandr" changedate="20180228T193213Z" creationid="Лера9764" creationdate="20171102T163251Z">
