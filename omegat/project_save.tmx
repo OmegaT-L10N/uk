@@ -5704,6 +5704,14 @@ may experience unexpected, but correct behaviour.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Copies the selected files to the &lt;f0&gt;source&lt;/f0&gt; folder and reloads the project to load the new files.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Лера9764" changedate="20180705T195112Z" creationid="Лера9764" creationdate="20180705T195112Z">
+        <seg>Копіювання вибраних файлів до теки &lt;f0&gt;source&lt;/f0&gt; і перезавантаження проекту.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Copies the selected text to the clipboard and deletes the selected text.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="olexandr" changedate="20180622T201426Z" creationid="olexandr" creationdate="20180222T233426Z">
@@ -16230,6 +16238,14 @@ project without team functionality.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="olexandr" changedate="20180222T233309Z" creationid="olexandr" creationdate="20180222T233309Z">
         <seg>Зберегти проект та вийти з &lt;a0&gt;OmegaT&lt;/a0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Saves the translation and closes the project.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Лера9764" changedate="20180705T195210Z" creationid="Лера9764" creationdate="20180705T195210Z">
+        <seg>Збереження перекладу та закриття проекту.</seg>
       </tuv>
     </tu>
     <tu>
