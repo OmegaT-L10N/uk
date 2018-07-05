@@ -10287,6 +10287,14 @@ click on that shortcut.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Inserts the currently selected fuzzy match at the cursor position.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Лера9764" changedate="20180705T200013Z" creationid="Лера9764" creationdate="20180705T200013Z">
+        <seg>Вставляє вибраний нечіткий збіг у активний сегмент на місце курсора.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Install</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="nessyk" changedate="20171202T181703Z" creationid="Лера9764" creationdate="20171118T085510Z">
@@ -15726,6 +15734,14 @@ project without team functionality.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="olexandr" changedate="20180220T215516Z" creationid="Маринка" creationdate="20171107T195955Z">
         <seg>Замінити на:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Replaces the whole target segment with the currently selected fuzzy match (by default the first match is selected).</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Лера9764" changedate="20180705T195924Z" creationid="Лера9764" creationdate="20180705T195924Z">
+        <seg>Заміняє увесь сегмент перекладу вибраним нечітким збігом (за замовчуванням встановлений перший збіг).</seg>
       </tuv>
     </tu>
     <tu>
