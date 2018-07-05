@@ -15890,6 +15890,22 @@ project without team functionality.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Restores the status before the last editing action was cancelled.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Лера9764" changedate="20180705T195816Z" creationid="Лера9764" creationdate="20180705T195816Z">
+        <seg>Повертає статус тексту до того, як остання дія була скасована.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Restores the status before the last editing action was taken.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Лера9764" changedate="20180705T195720Z" creationid="Лера9764" creationdate="20180705T195720Z">
+        <seg>Повертає статус тексту до того, як була здійснена остання дія.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Result:</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Лера9764" changedate="20171102T164412Z" creationid="Лера9764" creationdate="20171102T164412Z">
@@ -19316,6 +19332,14 @@ the server.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="olexandr" changedate="20180622T193212Z" creationid="olexandr" creationdate="20180622T193212Z">
         <seg>Даний розділ описує властивості проекту, такі як мова перекладу та оригіналу.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This command does not work once the modified segment has been validated.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Лера9764" changedate="20180705T195750Z" creationid="Лера9764" creationdate="20180705T195750Z">
+        <seg>Після підтвердження сегмента ця функція не працює.</seg>
       </tuv>
     </tu>
     <tu>
