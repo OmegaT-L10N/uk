@@ -13403,6 +13403,14 @@ appropriate location such as the Applications folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>OmegaT automatically saves translations every 10 minutes as well as when you close the project or quit OmegaT.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Лера9764" changedate="20180705T195457Z" creationid="Лера9764" creationdate="20180705T195457Z">
+        <seg>OmegaT автоматично зберігає переклад кожні 10 хвилин, а також під час закриття проекту чи виходу з програми.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>OmegaT can also check for programming variables (printf-function variables) like '%s'.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Diman966" changedate="20180123T162035Z" creationid="Diman966" creationdate="20180123T162035Z">
