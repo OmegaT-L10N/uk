@@ -1926,6 +1926,22 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;b0&gt;This formatting&lt;/b0&gt; has been &lt;b0&gt;duplicated here&lt;/b0&gt;.&lt;segment 0001&gt;</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Лера9764" changedate="20180708T194040Z" creationid="Лера9764" creationdate="20180708T194040Z">
+        <seg>&lt;b0&gt;Це форматування&lt;/b0&gt; було  &lt;b0&gt;скопійоване сюди&lt;/b0&gt;.&lt;сегмент 0001&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;b0&gt;This formatting&lt;/b0&gt; is going to be duplicated here.&lt;segment 0001&gt;</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Лера9764" changedate="20180708T194011Z" creationid="Лера9764" creationdate="20180708T194011Z">
+        <seg>&lt;b0&gt;Це форматування&lt;/b0&gt; буде скопійоване сюди.&lt;сегмент 0001&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;b2&gt;&lt;Enter&gt;&lt;/b2&gt;&lt;segment 2132&gt;</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Лера9764" changedate="20180708T193238Z" creationid="Лера9764" creationdate="20180708T193238Z">
@@ -3618,6 +3634,14 @@ The current setting is {0}MB;</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="olexandr" changedate="20180220T202129Z" creationid="olexandr" creationdate="20180220T202129Z">
         <seg>Африкаанс</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>After duplication:</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Лера9764" changedate="20180708T194017Z" creationid="Лера9764" creationdate="20180708T194017Z">
+        <seg>Після копіювання:</seg>
       </tuv>
     </tu>
     <tu>
@@ -8302,6 +8326,14 @@ project_save.tmx не був завантажений, а SVN перейшов �
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Example:</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Лера9764" changedate="20180708T193948Z" creationid="Лера9764" creationdate="20180708T193948Z">
+        <seg>Наприклад:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Excel</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Маринка" changedate="20171223T193305Z" creationid="Маринка" creationdate="20171223T193305Z">
@@ -11111,6 +11143,14 @@ itself on the first run.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="nessyk" changedate="20171106T222141Z" creationid="Tetiana21" creationdate="20171105T160216Z">
         <seg>Зберегти інше</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Keep in mind that in a pair group, the opening tag must come before the closing tag.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Лера9764" changedate="20180708T193917Z" creationid="Лера9764" creationdate="20180708T193912Z">
+        <seg>Памʼятайте, що в парних тегах відкриваючий тег завжди повинен передувати закриваючому.</seg>
       </tuv>
     </tu>
     <tu>
@@ -18463,6 +18503,14 @@ The scope of a search is by default the project and can be set to be any files l
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Tag duplication:</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Лера9764" changedate="20180708T193835Z" creationid="Лера9764" creationdate="20180708T193835Z">
+        <seg>Копіювання груп тегів:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Tag name:</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="olexandr" changedate="20180217T095407Z" creationid="Маринка" creationdate="20171118T212953Z">
@@ -19862,6 +19910,14 @@ the server.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="olexandr" changedate="20180220T234818Z" creationid="olexandr" creationdate="20180220T234818Z">
         <seg>Для використання можливості запуску скриптів виконайте наступне:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To duplicate tag groups, just copy them in the position of your choice.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Лера9764" changedate="20180708T193900Z" creationid="Лера9764" creationdate="20180708T193900Z">
+        <seg>Щоб дублювати групи тегів, просто скопіюйте їх у потрібне Вам місце.</seg>
       </tuv>
     </tu>
     <tu>
