@@ -5714,16 +5714,16 @@ may experience unexpected, but correct behaviour.</seg>
       <tuv lang="EN">
         <seg>Copies the selected text to the clipboard and deletes the selected text.</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="olexandr" changedate="20180622T201426Z" creationid="olexandr" creationdate="20180222T233426Z">
-        <seg>Копіювати обраний текст до буфера обміну та видаляє обране.</seg>
+      <tuv lang="UK-UA" changeid="Лера9764" changedate="20180708T175718Z" creationid="olexandr" creationdate="20180222T233426Z">
+        <seg>Копіює обраний текст до буфера обміну та видаляє обране.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Copies the selected text to the clipboard.</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="olexandr" changedate="20180622T201423Z" creationid="olexandr" creationdate="20180222T233405Z">
-        <seg>Копіювати обраний текст до буфера обміну.</seg>
+      <tuv lang="UK-UA" changeid="Лера9764" changedate="20180708T175801Z" creationid="olexandr" creationdate="20180222T233405Z">
+        <seg>Копіює обраний текст до буфера обміну.</seg>
       </tuv>
     </tu>
     <tu>
@@ -14231,8 +14231,8 @@ installed on your system.</seg>
       <tuv lang="EN">
         <seg>Pastes the text from the clipboard at the cursor position.</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="olexandr" changedate="20180622T201337Z" creationid="olexandr" creationdate="20180222T233505Z">
-        <seg>Вставити текст з буфера обміну в поточну позицію курсора.</seg>
+      <tuv lang="UK-UA" changeid="Лера9764" changedate="20180708T175822Z" creationid="olexandr" creationdate="20180222T233505Z">
+        <seg>Вставляє текст з буфера обміну в поточну позицію курсора.</seg>
       </tuv>
     </tu>
     <tu>
