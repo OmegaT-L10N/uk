@@ -4834,6 +4834,14 @@ may experience unexpected, but correct behaviour.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Care must be exercised with tags.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Лера9764" changedate="20180708T193734Z" creationid="Лера9764" creationdate="20180708T193734Z">
+        <seg>При роботі з тегами потрібно бути обережним.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Catalan</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="olexandr" changedate="20180220T210441Z" creationid="Лера9764" creationdate="20171209T181549Z">
@@ -10044,6 +10052,14 @@ their defaults as a result of the location change.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="olexandr" changedate="20180219T192322Z" creationid="Маринка" creationdate="20171223T201155Z">
         <seg>Якщо фільтр має певні параметри, ви можете змінити їх, натиснувши на кнопку «Параметри».</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If they are accidentally changed, the formatting of the final file may be corrupted.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Лера9764" changedate="20180708T193745Z" creationid="Лера9764" creationdate="20180708T193745Z">
+        <seg>Якщо їх випадково змінити, форматування файлу оригінала може бути пошкоджено.</seg>
       </tuv>
     </tu>
     <tu>
@@ -18467,6 +18483,14 @@ The scope of a search is by default the project and can be set to be any files l
       </tuv>
       <tuv lang="UK-UA" changeid="Лера9764" changedate="20180708T193031Z" creationid="Лера9764" creationdate="20180708T193031Z">
         <seg>Нумерація тегів:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Tag operations</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Лера9764" changedate="20180708T193722Z" creationid="Лера9764" creationdate="20180708T193722Z">
+        <seg>Операції з тегами</seg>
       </tuv>
     </tu>
     <tu>
