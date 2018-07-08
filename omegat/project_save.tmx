@@ -3982,6 +3982,14 @@ The TMX file will not be loaded.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>And of course, if you wish to be on the safe side, consider converting this kind of file to Unicode, i.e. to the &lt;l6&gt;.utf8 &lt;/l6&gt;file format.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Лера9764" changedate="20180708T181839Z" creationid="Лера9764" creationdate="20180708T181839Z">
+        <seg>І, звичайно, якщо Ви хочете, щоб Ваші файли бути в безпеці, не забудьте перетворити файли такого типу в Unicode, тобто у формат &lt;l6&gt;.utf8&lt;/l6&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Android Resources</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Маринка" changedate="20171203T195312Z" creationid="Маринка" creationdate="20171203T195312Z">
