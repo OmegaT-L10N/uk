@@ -1894,10 +1894,34 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;b0&gt; and &lt;/b0&gt; below are paired and affect the text log.txt.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Лера9764" changedate="20180708T193402Z" creationid="Лера9764" creationdate="20180708T193402Z">
+        <seg>&lt;b0&gt; і &lt;/b0&gt; є парними тегами, які впливають на текст log.txt.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;b0&gt;&lt;Ctr+N&gt;&lt;/b0&gt;, &lt;br1&gt;</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Лера9764" changedate="20180708T193212Z" creationid="Лера9764" creationdate="20180708T193212Z">
         <seg>&lt;b0&gt;&lt;Ctr+N&gt;&lt;/b0&gt;, &lt;br1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;b2&gt;&lt;Enter&gt;&lt;/b2&gt;&lt;segment 2132&gt;</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Лера9764" changedate="20180708T193238Z" creationid="Лера9764" creationdate="20180708T193238Z">
+        <seg>&lt;b2&gt;&lt;Enter&gt;&lt;/b2&gt;&lt;сегмент 2132&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;br1&gt;</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Лера9764" changedate="20180708T193241Z" creationid="Лера9764" creationdate="20180708T193241Z">
+        <seg>&lt;br1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -13267,6 +13291,14 @@ appropriate location such as the Applications folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Note that the opening tag must always come before the corresponding closing tag:</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Лера9764" changedate="20180708T193432Z" creationid="Лера9764" creationdate="20180708T193432Z">
+        <seg>Зауважте, що відкриваючий тег завжди повинен стояти перед закриваючим.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Note that you can reassign the shortcuts to your own preferences.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="olexandr" changedate="20180222T225655Z" creationid="olexandr" creationdate="20180222T225655Z">
@@ -14305,6 +14337,14 @@ installed on your system.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Таня" changedate="20171216T121329Z" creationid="Маринка" creationdate="20171101T214838Z">
         <seg>Сторінка упущена&lt;p&gt;Пульс б'ється важко та шалено&lt;p&gt;Зникає як туман.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Paired tags usually indicate style information that applies to the text between the opening tag and the closing tag of a pair.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Лера9764" changedate="20180708T193318Z" creationid="Лера9764" creationdate="20180708T193318Z">
+        <seg>Парні теги зазвичай впливають на інформацію про стиль, яка застосовується до тексту між відкриваючим і закриваючим тегами пари.</seg>
       </tuv>
     </tu>
     <tu>
@@ -23888,6 +23928,14 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="olexandr" changedate="20180219T202201Z" creationid="olexandr" creationdate="20180219T202201Z">
         <seg>is</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>is a single tag and does not affect any surrounding text.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Лера9764" changedate="20180708T193257Z" creationid="Лера9764" creationdate="20180708T193257Z">
+        <seg> — це окремий тег, який не впливає на текст, що його оточує.</seg>
       </tuv>
     </tu>
     <tu>
