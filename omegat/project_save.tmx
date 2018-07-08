@@ -10303,6 +10303,14 @@ click on that shortcut.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Inserts the source at the cursor position.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Лера9764" changedate="20180708T180100Z" creationid="Лера9764" creationdate="20180708T180100Z">
+        <seg>Вставляє текст оригіналу на місце курсора.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Install</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="nessyk" changedate="20171202T181703Z" creationid="Лера9764" creationdate="20171118T085510Z">
