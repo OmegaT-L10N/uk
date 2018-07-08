@@ -4762,6 +4762,14 @@ may experience unexpected, but correct behaviour.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Change the encoding of your files to Unicode</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Лера9764" changedate="20180708T180820Z" creationid="Лера9764" creationdate="20180708T180820Z">
+        <seg>Змініть кодування файлів на Unicode</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Changed &amp;before:</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Маринка" changedate="20171107T200132Z" creationid="Маринка" creationdate="20171107T200132Z">
@@ -24616,6 +24624,14 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="olexandr" changedate="20180222T224527Z" creationid="olexandr" creationdate="20180222T224527Z">
         <seg>відкрити попередній сегмент (Для Mac: &lt;e0&gt;Cmd+Enter&lt;/e0&gt;)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>open your source file in a text editor that correctly interprets its encoding and save the file in &lt;e0&gt;"UTF-8"&lt;/e0&gt; encoding.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Лера9764" changedate="20180708T180959Z" creationid="Лера9764" creationdate="20180708T180959Z">
+        <seg>відкрийте файл оригіналу в текстовому редакторі, який правильно читає це кодування, і збережіть його з кодуванням &lt;e0&gt;"UTF-8"&lt;/e0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
