@@ -8832,6 +8832,14 @@ script provided (omegat.kaptn).</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>For example, when you have a Czech text file (very probably written in the &lt;e2&gt;ISO-8859-2&lt;/e2&gt; code) you just need to change the extension&lt;l3&gt; .txt&lt;/l3&gt; to &lt;l4&gt;.txt2 &lt;/l4&gt;and &lt;a5&gt;OmegaT&lt;/a5&gt; will interpret its contents correctly.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Лера9764" changedate="20180708T181730Z" creationid="Лера9764" creationdate="20180708T181730Z">
+        <seg>Наприклад, якщо у Вас текстовий файл чеською мовою (скоріш за все написаний кодуванням &lt;e2&gt;ISO-8859-2&lt;/e2&gt;), Вам потрібно змінити розширення файлу  з&lt;l3&gt; .txt&lt;/l3&gt; на &lt;l4&gt;.txt2 &lt;/l4&gt; і &lt;a5&gt;OmegaT&lt;/a5&gt; буде правильно інтерпретувати його вміст.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>For example:</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="olexandr" changedate="20180222T233329Z" creationid="olexandr" creationdate="20180222T233329Z">
