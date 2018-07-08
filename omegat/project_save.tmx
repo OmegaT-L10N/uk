@@ -1934,6 +1934,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;b0&gt;This formatting&lt;/b0&gt; is going to be deleted.&lt;segment 0001&gt;</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Лера9764" changedate="20180708T194229Z" creationid="Лера9764" creationdate="20180708T194229Z">
+        <seg>&lt;b0&gt;Це форматування&lt;/b0&gt; буде виделено.&lt;сегмент 0001&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;b0&gt;This formatting&lt;/b0&gt; is going to be duplicated here.&lt;segment 0001&gt;</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Лера9764" changedate="20180708T194011Z" creationid="Лера9764" creationdate="20180708T194011Z">
@@ -3638,6 +3646,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>After deletion:</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Лера9764" changedate="20180708T194237Z" creationid="Лера9764" creationdate="20180708T194237Z">
+        <seg>Після видалення:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>After duplication:</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Лера9764" changedate="20180708T194017Z" creationid="Лера9764" creationdate="20180708T194017Z">
@@ -4718,6 +4734,14 @@ may experience unexpected, but correct behaviour.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="olexandr" changedate="20180220T235450Z" creationid="olexandr" creationdate="20180220T235450Z">
         <seg>Типово скрипти зберігаються в теці «scripts», яка розташована в теці встановлення OmegaT (яка містить файл OmegaT.jar).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>By deleting a tag group you will remove the related formatting from the translated file.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Лера9764" changedate="20180708T194154Z" creationid="Лера9764" creationdate="20180708T194154Z">
+        <seg>Видаляючи групу тегів, Ви видалите відповідне форматування у перекладеному файлі.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11143,6 +11167,14 @@ itself on the first run.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="nessyk" changedate="20171106T222141Z" creationid="Tetiana21" creationdate="20171105T160216Z">
         <seg>Зберегти інше</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Keep in mind that a pair group must have both its opening and its closing tag deleted to ensure that all traces of the formatting are properly erased, otherwise the translated file may become corrupted.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Лера9764" changedate="20180708T194142Z" creationid="Лера9764" creationdate="20180708T194142Z">
+        <seg>Памʼятайте, що для групи парних тегів як початковий, так і кінцевий теги повинні бути видалені, щоб переконатись, що видалені всі сліди форматування, інакше перекладений файл може бути пошкодженим.</seg>
       </tuv>
     </tu>
     <tu>
@@ -18511,6 +18543,14 @@ The scope of a search is by default the project and can be set to be any files l
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Tag group deletion:</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Лера9764" changedate="20180708T194055Z" creationid="Лера9764" creationdate="20180708T194055Z">
+        <seg>Видалення груп тегів:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Tag name:</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="olexandr" changedate="20180217T095407Z" creationid="Маринка" creationdate="20171118T212953Z">
@@ -19910,6 +19950,14 @@ the server.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="olexandr" changedate="20180220T234818Z" creationid="olexandr" creationdate="20180220T234818Z">
         <seg>Для використання можливості запуску скриптів виконайте наступне:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To delete tag groups, just remove them from the segment.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Лера9764" changedate="20180708T194118Z" creationid="Лера9764" creationdate="20180708T194118Z">
+        <seg>Щоб видалити групу сегментів, просто приберіть її в сегменті.</seg>
       </tuv>
     </tu>
     <tu>
