@@ -19816,6 +19816,14 @@ the server.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>This formatting has been deleted.&lt;segment 0001&gt;</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Лера9764" changedate="20180708T194251Z" creationid="Лера9764" creationdate="20180708T194251Z">
+        <seg>Це форматування було видалено.&lt;сегмент 0001&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>This is a Git repository.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="olexandr" changedate="20180216T154000Z" creationid="nessyk" creationdate="20171118T191021Z">
