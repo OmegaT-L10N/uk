@@ -4770,6 +4770,14 @@ may experience unexpected, but correct behaviour.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Change the file extension from &lt;l1&gt;.txt&lt;/l1&gt; to &lt;l2&gt;.utf8.&lt;/l2&gt; &lt;a3&gt;OmegaT&lt;/a3&gt; will automatically interpret the file as a UTF-8 file.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Лера9764" changedate="20180708T181111Z" creationid="Лера9764" creationdate="20180708T181111Z">
+        <seg>Змініть розширення файлу з &lt;l1&gt;.txt&lt;/l1&gt; на &lt;l2&gt;.utf8.&lt;/l2&gt; &lt;a3&gt;OmegaT&lt;/a3&gt; автоматично читатиме його як файл UTF-8.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Changed &amp;before:</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Маринка" changedate="20171107T200132Z" creationid="Маринка" creationdate="20171107T200132Z">
