@@ -3070,6 +3070,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;p0&gt;Source files&lt;/p0&gt; &lt;s1&gt;Plain text files&lt;/s1&gt;</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Лера9764" changedate="20180708T180313Z" creationid="Лера9764" creationdate="20180708T180313Z">
+        <seg>&lt;p0&gt;Файли оригіналу&lt;/p0&gt; &lt;s1&gt;Текстові файли&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;p0&gt;Spell checker&lt;/p0&gt; &lt;s1&gt;Hints&lt;/s1&gt;</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="olexandr" changedate="20180622T205152Z" creationid="olexandr" creationdate="20180622T205152Z">
@@ -6616,6 +6624,14 @@ may experience unexpected, but correct behaviour.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="olexandr" changedate="20180220T231415Z" creationid="nessyk" creationdate="20171025T184202Z">
         <seg>Типово</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Default encoding</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Лера9764" changedate="20180708T180352Z" creationid="Лера9764" creationdate="20180708T180352Z">
+        <seg>Кодування за замовчуванням</seg>
       </tuv>
     </tu>
     <tu>
@@ -14353,6 +14369,14 @@ everything.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Plain text files - in most cases files with a txt extension - contain just textual information and offer no clearly defined way to inform the computer which language they contain.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Лера9764" changedate="20180708T180434Z" creationid="Лера9764" creationdate="20180708T180434Z">
+        <seg>Текстові файли в більшості випадків мають розширення .txt та містять лише текстову інформацію. Немає точно визначеного способу, як інформувати компʼютер про те, якою мовою вони написані.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Please check the &lt;u0&gt;ISO 639 Code Tables&lt;/u0&gt; for further and up-to-date information about language codes.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="olexandr" changedate="20180219T201000Z" creationid="olexandr" creationdate="20180219T201000Z">
@@ -21267,6 +21291,14 @@ Both exact and keyword searches support the wildcard characters * and ?.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Лера9764" changedate="20171031T065802Z" creationid="Лера9764" creationdate="20171025T175500Z">
         <seg>Слів</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Working with plain text</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Лера9764" changedate="20180708T180249Z" creationid="Лера9764" creationdate="20180708T180249Z">
+        <seg>Робота з текстовими файлами</seg>
       </tuv>
     </tu>
     <tu>
