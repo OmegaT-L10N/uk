@@ -15754,6 +15754,14 @@ project without team functionality.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Replaces the whole target segment with the source.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Лера9764" changedate="20180708T180010Z" creationid="Лера9764" creationdate="20180708T180010Z">
+        <seg>Заміняє увесь сегмент перекладу текстом оригіналу.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Repository</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Tetiana21" changedate="20171210T184906Z" creationid="Лера9764" creationdate="20171105T154822Z">
