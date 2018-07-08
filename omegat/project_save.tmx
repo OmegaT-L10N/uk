@@ -18979,6 +18979,14 @@ in /lib/licenses/Licenses.txt.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The most that OmegaT can do in such a case, is to assume that the text is written in the same language the computer itself uses.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Лера9764" changedate="20180708T180613Z" creationid="Лера9764" creationdate="20180708T180613Z">
+        <seg>Компʼютер може лише припустити, що текст написаний тією мовою, яку він сам використовує.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The new colours have been saved.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="nessyk" changedate="20171106T221015Z" creationid="nessyk" creationdate="20171106T221015Z">
