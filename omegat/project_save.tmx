@@ -9160,6 +9160,14 @@ script provided (omegat.kaptn).</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Glossaries are files created and updated manually for use in &lt;a0&gt;OmegaT&lt;/a0&gt;.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Лера9764" changedate="20180708T192046Z" creationid="Лера9764" creationdate="20180708T192046Z">
+        <seg>Глосарії — це файли, які створюються та оновлюються вручну для використання в &lt;a0&gt;OmegaT&lt;/a0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Glossary</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Лера9764" changedate="20171031T065228Z" creationid="Лера9764" creationdate="20171031T065228Z">
@@ -9830,6 +9838,14 @@ need not be entered.)</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="olexandr" changedate="20180130T221711Z" creationid="olexandr" creationdate="20180130T214402Z">
         <seg>Якщо файл не з'являється в панелі &lt;g0&gt;«Редактор»&lt;/g0&gt;, можливо, формат вхідного файлу не підтримується OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If an &lt;a0&gt;OmegaT&lt;/a0&gt; project contains one or more glossaries, any terms in the glossary which are also found in the current segment will be automatically displayed in the Glossary viewer.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Лера9764" changedate="20180708T192158Z" creationid="Лера9764" creationdate="20180708T192158Z">
+        <seg>Якщо проект в &lt;a0&gt;OmegaT&lt;/a0&gt; містить один або більше глосаріїв, то вирази, які є в глосаріях і зустрічаються в сегментах, відображаються у вікні Глосарій.</seg>
       </tuv>
     </tu>
     <tu>
