@@ -3086,6 +3086,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;p0&gt;Source files&lt;/p0&gt; &lt;s1&gt;Formatted text&lt;/s1&gt;</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Лера9764" changedate="20180708T192646Z" creationid="Лера9764" creationdate="20180708T192646Z">
+        <seg>&lt;p0&gt;Файли оригінала&lt;/p0&gt; &lt;s1&gt;Форматований текст&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;p0&gt;Source files&lt;/p0&gt; &lt;s1&gt;Plain text files&lt;/s1&gt;</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Лера9764" changedate="20180708T180313Z" creationid="Лера9764" creationdate="20180708T180313Z">
@@ -8928,6 +8936,14 @@ script provided (omegat.kaptn).</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Formatting information present in the source file usually needs to be reproduced in the target file.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Лера9764" changedate="20180708T192716Z" creationid="Лера9764" creationdate="20180708T192716Z">
+        <seg>Інформація форматування у файлі оригінала зазвичай повинна відтворюватися в перекладеному файлі.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Forward in history...</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="olexandr" changedate="20180220T063211Z" creationid="olexandr" creationdate="20180220T063211Z">
@@ -13143,6 +13159,14 @@ appropriate location such as the Applications folder.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="olexandr" changedate="20180125T205256Z" creationid="nessyk" creationdate="20171030T173540Z">
         <seg>Середнє значення</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Normally tags are ignored when considering the similarity between different texts for matching purposes.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Лера9764" changedate="20180708T192801Z" creationid="Лера9764" creationdate="20180708T192801Z">
+        <seg>Зазвичай, під час оцінки схожості різних текстів з метою визначення збігів, теги ігноруються.</seg>
       </tuv>
     </tu>
     <tu>
@@ -18399,6 +18423,14 @@ The scope of a search is by default the project and can be set to be any files l
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Tags reproduced in the translated segment will be present in the translated document.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Лера9764" changedate="20180708T192818Z" creationid="Лера9764" creationdate="20180708T192818Z">
+        <seg>Теги, які Ви створили в перекладеному сегменті, також будуть і в перекладеному документі.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Tagwipe</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20180419T131645Z" creationid="Kos Ivantsov" creationdate="20180419T131645Z">
@@ -21411,6 +21443,14 @@ Both exact and keyword searches support the wildcard characters * and ?.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Лера9764" changedate="20171031T065802Z" creationid="Лера9764" creationdate="20171025T175500Z">
         <seg>Слів</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Working with formatted text</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Лера9764" changedate="20180708T192653Z" creationid="Лера9764" creationdate="20180708T192653Z">
+        <seg>Робота з форматованим текстом</seg>
       </tuv>
     </tu>
     <tu>
