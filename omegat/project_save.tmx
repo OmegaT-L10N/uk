@@ -19576,6 +19576,14 @@ the server.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>This will effectively return them to the "untranslated" status, as they will no longer match segments recorded in the project memory, even though their original translation is still there.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Лера9764" changedate="20180708T182709Z" creationid="Лера9764" creationdate="20180708T182709Z">
+        <seg>Це поверне їх у статус „неперекладені“, тому що вони більше не відповідають сегментам у памʼяті перекладу, хоча їхній старий і вже „невідповідний“ переклад усе ще там зберігається.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Thus, for example, rules for Canadian French (FR-CA) should be higher than rules for French (FR.*), and higher than Default (.*) ones.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="olexandr" changedate="20180217T092510Z" creationid="Маринка" creationdate="20171107T194904Z">
