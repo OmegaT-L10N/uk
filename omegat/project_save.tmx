@@ -19147,6 +19147,14 @@ in /lib/licenses/Licenses.txt.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The segmentation settings only address the way the source files are handled by &lt;a0&gt;OmegaT&lt;/a0&gt;.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Лера9764" changedate="20180708T182421Z" creationid="Лера9764" creationdate="20180708T182421Z">
+        <seg>Налаштування сегментації стосуються лише того, як &lt;a0&gt;OmegaT&lt;/a0&gt; опрацьовує файли оригінала.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The shortcut definition file must be named &lt;f0&gt;MainMenuShortcuts.properties&lt;/f0&gt; and must contain at most one shortcut definition per line.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="olexandr" changedate="20180218T231434Z" creationid="olexandr" creationdate="20180218T231434Z">
