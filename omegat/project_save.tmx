@@ -8944,6 +8944,14 @@ script provided (omegat.kaptn).</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Formatting tags</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Лера9764" changedate="20180708T192836Z" creationid="Лера9764" creationdate="20180708T192836Z">
+        <seg>Форматування тегів</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Forward in history...</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="olexandr" changedate="20180220T063211Z" creationid="olexandr" creationdate="20180220T063211Z">
@@ -18367,6 +18375,14 @@ The scope of a search is by default the project and can be set to be any files l
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Tag naming:</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Лера9764" changedate="20180708T192855Z" creationid="Лера9764" creationdate="20180708T192855Z">
+        <seg>Назва тегу:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Tag validation failed</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="olexandr" changedate="20180219T001838Z" creationid="Tetiana21" creationdate="20171105T201412Z">
@@ -19227,6 +19243,14 @@ in /lib/licenses/Licenses.txt.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The shortcut characters used try to reflect the underlying meaning of the tag (e.g. b for bold, i for italics, etc.)</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Лера9764" changedate="20180708T193016Z" creationid="Лера9764" creationdate="20180708T193016Z">
+        <seg>Символи можуть відображати (не обовʼязково) значення форматування даного тегу (наприклад, жирний шрифт, курсив тощо).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The shortcut definition file must be named &lt;f0&gt;MainMenuShortcuts.properties&lt;/f0&gt; and must contain at most one shortcut definition per line.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="olexandr" changedate="20180218T231434Z" creationid="olexandr" creationdate="20180218T231434Z">
@@ -19303,6 +19327,14 @@ in /lib/licenses/Licenses.txt.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="olexandr" changedate="20180622T204945Z" creationid="olexandr" creationdate="20180622T204945Z">
         <seg>Символ табуляції ('\u0009')</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The tags consist of one to three characters and a number.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Лера9764" changedate="20180708T192909Z" creationid="Лера9764" creationdate="20180708T192909Z">
+        <seg>Теги складаються з 1-3 літер та однієї цифри.</seg>
       </tuv>
     </tu>
     <tu>
@@ -20489,6 +20521,14 @@ Exact searches match the whole search string.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Маринка" changedate="20171114T214639Z" creationid="Маринка" creationdate="20171114T214639Z">
         <seg>Унікальні слова</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Unique numbering allows tags, corresponding to each other to be grouped together and differentiates between tags, that have the same shortcut character, but are in fact different.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Лера9764" changedate="20180708T192946Z" creationid="Лера9764" creationdate="20180708T192946Z">
+        <seg>Унікальний номер дозволяє групувати теги й розрізняти ті теги, які мають однакові символи, але насправді є різними.</seg>
       </tuv>
     </tu>
     <tu>
