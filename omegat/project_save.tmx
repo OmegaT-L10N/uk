@@ -2766,6 +2766,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;p0&gt;Encoding&lt;/p0&gt; &lt;s1&gt;Unicode&lt;/s1&gt;</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Лера9764" changedate="20180708T181154Z" creationid="Лера9764" creationdate="20180708T181154Z">
+        <seg>&lt;p0&gt;Кодування&lt;/p0&gt; &lt;s1&gt;Unicode&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;p0&gt;Installing OmegaT&lt;/p0&gt; &lt;s1&gt;Linux&lt;/s1&gt;</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="olexandr" changedate="20180622T203421Z" creationid="olexandr" creationdate="20180622T203421Z">
@@ -21526,6 +21534,14 @@ from there.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="olexandr" changedate="20180218T231328Z" creationid="olexandr" creationdate="20180218T231217Z">
         <seg>Ви можете змінити вже наявні комбінації та додати нові поклавши відповідний файл із визначеними комбінаціями в теку налаштувань OmegaT (дивіться &lt;l0&gt;Розміщення файлів користувача&lt;/l0&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You can check that yourself by selecting the item &lt;e0&gt;File Filters&lt;/e0&gt; in the menu &lt;e1&gt;Options&lt;/e1&gt;.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Лера9764" changedate="20180708T181344Z" creationid="Лера9764" creationdate="20180708T181344Z">
+        <seg>Ви можете це перевірити, натиснувши &lt;e0&gt;Файловий фільтр &lt;/e0&gt;  у меню &lt;e1&gt;Параметри&lt;/e1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
