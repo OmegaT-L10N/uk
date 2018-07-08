@@ -1894,6 +1894,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;b0&gt;&lt;Ctr+N&gt;&lt;/b0&gt;, &lt;br1&gt;</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Лера9764" changedate="20180708T193212Z" creationid="Лера9764" creationdate="20180708T193212Z">
+        <seg>&lt;b0&gt;&lt;Ctr+N&gt;&lt;/b0&gt;, &lt;br1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;br&gt;</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="nessyk" changedate="20180123T124432Z" creationid="nessyk" creationdate="20180123T124432Z">
@@ -14301,6 +14309,14 @@ installed on your system.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Pairs and singles:</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Лера9764" changedate="20180708T193128Z" creationid="Лера9764" creationdate="20180708T193128Z">
+        <seg>Парні та окремі теги:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Panjabi, Punjabi</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="olexandr" changedate="20180220T211905Z" creationid="olexandr" creationdate="20180220T211905Z">
@@ -17453,6 +17469,14 @@ The scope of a search is by default the project and can be set to be any files l
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Single tags indicate formatting information that does not affect the surrounding text (an extra space or line break for example).</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Лера9764" changedate="20180708T193209Z" creationid="Лера9764" creationdate="20180708T193209Z">
+        <seg>Окремі теги вказують інформацію форматування, яка не впливає на текст, що його оточує (наприклад, додатковий пробіл чи розрив рядка).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Sinhala, Sinhalese</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="olexandr" changedate="20180220T212033Z" creationid="olexandr" creationdate="20180220T212033Z">
@@ -18383,6 +18407,14 @@ The scope of a search is by default the project and can be set to be any files l
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Tag numbering:</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Лера9764" changedate="20180708T193031Z" creationid="Лера9764" creationdate="20180708T193031Z">
+        <seg>Нумерація тегів:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Tag validation failed</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="olexandr" changedate="20180219T001838Z" creationid="Tetiana21" creationdate="20171105T201412Z">
@@ -18435,6 +18467,22 @@ The scope of a search is by default the project and can be set to be any files l
       </tuv>
       <tuv lang="UK-UA" changeid="olexandr" changedate="20180222T211853Z" creationid="olexandr" creationdate="20180222T211853Z">
         <seg>Теґи - пробіли</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Tags are always either singles or paired.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Лера9764" changedate="20180708T193138Z" creationid="Лера9764" creationdate="20180708T193138Z">
+        <seg>Теги завжди є або окремими тегами або парними.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Tags are numbered incrementally by tag group.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Лера9764" changedate="20180708T193043Z" creationid="Лера9764" creationdate="20180708T193043Z">
+        <seg>Теги нумеруються в порядку зростання за групами тегів.</seg>
       </tuv>
     </tu>
     <tu>
