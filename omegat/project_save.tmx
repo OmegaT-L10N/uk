@@ -4450,6 +4450,14 @@ may experience unexpected, but correct behaviour.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Bear in mind that changing the languages may render the currently used translation memories useless since their language pair may not longer match the new languages.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Лера9764" changedate="20180708T182326Z" creationid="Лера9764" creationdate="20180708T182326Z">
+        <seg>Зверніть увагу, що зміна мови може призвести до того, що памʼять перекладу, яка наразі використовується, може стати непотрібною, оскільки її мови більше не відповідатимуть новим мовам.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Beautify</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20180419T131621Z" creationid="Kos Ivantsov" creationdate="20180419T131333Z">
