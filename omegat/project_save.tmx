@@ -1862,6 +1862,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;&lt;l0&gt;Log file (&lt;b0&gt;log.txt&lt;/b0&gt;) for tracking operations and errors.&lt;segment 3167&gt;&lt;/l0&gt;</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Лера9764" changedate="20180708T193518Z" creationid="Лера9764" creationdate="20180708T193518Z">
+        <seg>&lt;&lt;l0&gt;файл Log (&lt;b0&gt;log.txt&lt;/b0&gt;) для відстеження операцій та помилок.&lt;сегмент 3167&gt;&lt;/l0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;EMPTY&gt;</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20170427T120310Z" creationid="Kos Ivantsov" creationdate="20170427T120301Z">
@@ -1874,6 +1882,14 @@ The current setting is {0}MB;</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="nessyk" changedate="20171113T220148Z" creationid="nessyk" creationdate="20171113T220148Z">
         <seg>&lt;Жодної підказки&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;a0&gt;OmegaT&lt;/a0&gt; creates its tags before the process of sentence segmenting.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Лера9764" changedate="20180708T193626Z" creationid="Лера9764" creationdate="20180708T193626Z">
+        <seg>&lt;a0&gt;OmegaT&lt;/a0&gt; створює теги перш ніж буде застосовано сегментацію по реченнях.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1896,8 +1912,8 @@ The current setting is {0}MB;</seg>
       <tuv lang="EN">
         <seg>&lt;b0&gt; and &lt;/b0&gt; below are paired and affect the text log.txt.</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="Лера9764" changedate="20180708T193402Z" creationid="Лера9764" creationdate="20180708T193402Z">
-        <seg>&lt;b0&gt; і &lt;/b0&gt; є парними тегами, які впливають на текст log.txt.</seg>
+      <tuv lang="UK-UA" changeid="Лера9764" changedate="20180708T193604Z" creationid="Лера9764" creationdate="20180708T193402Z">
+        <seg>Теги &lt;b0&gt; і &lt;/b0&gt; парні і стосуються тексту log.txt.</seg>
       </tuv>
     </tu>
     <tu>
