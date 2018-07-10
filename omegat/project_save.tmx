@@ -17893,6 +17893,14 @@ The scope of a search is by default the project and can be set to be any files l
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Sometimes, however, your translated file may look strange, and – in the worst case – may even refuse to open.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Лера9764" changedate="20180710T061102Z" creationid="Лера9764" creationdate="20180710T061102Z">
+        <seg>Іноді перекладений файл може виглядати дивно, а у найгіршому випадку може не відкритися взагалі.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Sort &amp;alphabetically</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Лера9764" changedate="20171107T200005Z" creationid="Лера9764" creationdate="20171107T200005Z">
