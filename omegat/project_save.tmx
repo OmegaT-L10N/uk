@@ -13899,6 +13899,14 @@ published by the Free Software Foundation, either version 3 of the License, or
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>OmegaT is not yet able to detect mistakes in formatting fully automatically, so it will not prompt you if you make an error or change formatting to fit your target language better.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Лера9764" changedate="20180710T060936Z" creationid="Лера9764" creationdate="20180710T060936Z">
+        <seg>OmegaT ще не може автоматично виявляти помилки при форматуванні, тому програма не попередить Вас про будь-які помилки, які Ви робите, змінюючи форматування, яке краще відповідало б мові перекладу.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>OmegaT is refused access to the system property containing
 the name of your OS and/or the system property containing
 your home folder.</seg>
@@ -17733,6 +17741,14 @@ The scope of a search is by default the project and can be set to be any files l
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Since tags are included in the text itself, it is possible to use segmentation rules to create segments with fewer tags.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Лера9764" changedate="20180710T060801Z" creationid="Лера9764" creationdate="20180710T060801Z">
+        <seg>Оскільки теги входять до самого тексту, можна застосовувати правила сегментації для створення сегментів із меншою кількістю тегів.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Sindhi</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="olexandr" changedate="20180220T212007Z" creationid="olexandr" creationdate="20180220T212007Z">
@@ -20004,6 +20020,14 @@ the server.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Лера9764" changedate="20180710T055402Z" creationid="Лера9764" creationdate="20180710T055402Z">
         <seg>Це добре, якщо зовнішня група повністю оточує внутрішню групу.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This is an advanced feature and some experience is required in order for it to be applied properly.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Лера9764" changedate="20180710T060816Z" creationid="Лера9764" creationdate="20180710T060816Z">
+        <seg>Це додаткова функція, і для її правильного використання потрібен певний досвід.</seg>
       </tuv>
     </tu>
     <tu>
