@@ -12853,6 +12853,14 @@ itself on the first run.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>More can be found in the &lt;u0&gt;Painless Bug Tracking&lt;/u0&gt; article by Joel Spolsky.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Лера9764" changedate="20180710T061954Z" creationid="Лера9764" creationdate="20180710T061954Z">
+        <seg>Детальніше можна прочитати в статті &lt;u0&gt;Painless Bug Tracking&lt;/u0&gt;, автор Joel Spolsky.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Moses</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Diman966" changedate="20180124T173314Z" creationid="nessyk" creationdate="20180123T140723Z">
@@ -13503,6 +13511,14 @@ appropriate location such as the Applications folder.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Tetiana21" changedate="20171105T145459Z" creationid="Tetiana21" creationdate="20171105T145459Z">
         <seg>Примітка</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Note that bug reports and requests for enhancements are publicly visible, so you should not add any sensitive files.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Лера9764" changedate="20180710T062120Z" creationid="Лера9764" creationdate="20180710T062120Z">
+        <seg>Зверніть увагу, що повідомлення про помилки та запити на вдосконалення бачать усі, тому вони не повинні містити конфіденційні дані.</seg>
       </tuv>
     </tu>
     <tu>
@@ -22400,6 +22416,14 @@ the installation script (linux-install.sh).</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>You should add copies of files, portions of the log, screen shots, and anything else that you think will help the developers to find and fix your bug.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Лера9764" changedate="20180710T062042Z" creationid="Лера9764" creationdate="20180710T062042Z">
+        <seg>Вам потрібно прикріпити копії файлів, частини логів, скріншоти — все, що, на Вашу думку, допоможе розробникам знайти та виправити помилку.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>You should specify their new location or recreate them.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="olexandr" changedate="20180217T130108Z" creationid="Маринка" creationdate="20171106T205113Z">
@@ -24062,6 +24086,14 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Лера9764" changedate="20180701T161500Z" creationid="Лера9764" creationdate="20180701T161500Z">
         <seg>http://tortoisesvn.net/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>http://www.joelonsoftware.com/articles/fog0000000029.html</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Лера9764" changedate="20180710T061924Z" creationid="Лера9764" creationdate="20180710T061924Z">
+        <seg>http://www.joelonsoftware.com/articles/fog0000000029.html</seg>
       </tuv>
     </tu>
     <tu>
