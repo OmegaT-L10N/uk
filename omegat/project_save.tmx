@@ -1926,6 +1926,22 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;b0&gt;Formatting &lt;b1&gt;one&lt;/b1&gt;&lt;/b0&gt; has been nested inside formatting zero.&lt;segment 0001&gt;</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Лера9764" changedate="20180710T055904Z" creationid="Лера9764" creationdate="20180710T055831Z">
+        <seg>&lt;b0&gt;Форматування &lt;b1&gt;один&lt;/b1&gt;&lt;/b0&gt; було вкладено у форматування нуль.&lt;сегмент 0001&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;b0&gt;Formatting&lt;/b0&gt; &lt;b1&gt;one&lt;/b1&gt; is going to be nested inside formatting zero.&lt;segment 0001&gt;</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Лера9764" changedate="20180710T055815Z" creationid="Лера9764" creationdate="20180710T055815Z">
+        <seg>&lt;b0&gt;Форматування&lt;/b0&gt; &lt;b1&gt;один&lt;/b1&gt; буде вкладене у форматування нуль.&lt;сегмент 0001&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;b0&gt;This formatting&lt;/b0&gt; has been &lt;b0&gt;duplicated here&lt;/b0&gt;.&lt;segment 0001&gt;</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Лера9764" changedate="20180708T194040Z" creationid="Лера9764" creationdate="20180708T194040Z">
@@ -3658,6 +3674,14 @@ The current setting is {0}MB;</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Лера9764" changedate="20180708T194017Z" creationid="Лера9764" creationdate="20180708T194017Z">
         <seg>Після копіювання:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>After nesting:</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Лера9764" changedate="20180710T055826Z" creationid="Лера9764" creationdate="20180710T055826Z">
+        <seg>Після вкладення:</seg>
       </tuv>
     </tu>
     <tu>
