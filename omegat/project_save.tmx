@@ -10327,6 +10327,14 @@ click on that shortcut.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>In other words, when moving paired tags, ensure that both the opening and the closing tag are both either inside or outside other tag pairs, or the translated file may be corrupted and fail to open.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Лера9764" changedate="20180710T055737Z" creationid="Лера9764" creationdate="20180710T055737Z">
+        <seg>Іншими словами, при переміщенні парних тегів переконайтеся, щоб відкриваючий та закриваючий теги були або між парою інших тегів, або поза її межами, інакше перекладений файл може бути пошкоджений і не відкриється.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>In so&amp;urce</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="olexandr" changedate="20180222T221832Z" creationid="Tetiana21" creationdate="20171105T183313Z">
@@ -12705,6 +12713,14 @@ itself on the first run.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="olexandr" changedate="20180220T214628Z" creationid="olexandr" creationdate="20180220T214628Z">
         <seg>Змінені сегменти:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Modifying tag group order may result in the nesting of a tag group within another tag group.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Лера9764" changedate="20180710T055344Z" creationid="Лера9764" creationdate="20180710T055344Z">
+        <seg>Зміна порядку груп тегів може призвести до вкладення однієї групи тегів в іншу групу.</seg>
       </tuv>
     </tu>
     <tu>
@@ -18551,6 +18567,14 @@ The scope of a search is by default the project and can be set to be any files l
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Tag group nesting</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Лера9764" changedate="20180710T055328Z" creationid="Лера9764" creationdate="20180710T055328Z">
+        <seg>Ієрархія груп тегів</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Tag name:</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="olexandr" changedate="20180217T095407Z" creationid="Маринка" creationdate="20171118T212953Z">
@@ -19844,6 +19868,14 @@ the server.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="nessyk" changedate="20171125T150747Z" creationid="nessyk" creationdate="20171118T191023Z">
         <seg>Це дійсний файл проекту.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This is acceptable, provided the enclosing group totally encloses the enclosed group.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Лера9764" changedate="20180710T055402Z" creationid="Лера9764" creationdate="20180710T055402Z">
+        <seg>Це добре, якщо зовнішня група повністю оточує внутрішню групу.</seg>
       </tuv>
     </tu>
     <tu>
