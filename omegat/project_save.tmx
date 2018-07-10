@@ -9784,6 +9784,14 @@ script provided (omegat.kaptn).</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Hints for tags management</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Лера9764" changedate="20180710T060158Z" creationid="Лера9764" creationdate="20180710T060158Z">
+        <seg>Поради щодо керування тегами</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Hiri Motu</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="olexandr" changedate="20180220T211239Z" creationid="olexandr" creationdate="20180220T211239Z">
@@ -18739,6 +18747,14 @@ The scope of a search is by default the project and can be set to be any files l
       </tuv>
       <tuv lang="UK-UA" changeid="Лера9764" changedate="20180708T193043Z" creationid="Лера9764" creationdate="20180708T193043Z">
         <seg>Теги нумеруються в порядку зростання за групами тегів.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Tags generally represent formatting in some form of the original text.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Лера9764" changedate="20180710T060216Z" creationid="Лера9764" creationdate="20180710T060216Z">
+        <seg>Теги зазвичай містять певне форматування тексту оригінала.</seg>
       </tuv>
     </tu>
     <tu>
