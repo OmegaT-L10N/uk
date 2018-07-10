@@ -10237,6 +10237,14 @@ is to use Java Web Start.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If you need to see tags in OmegaT but do not need to retain most of the formatting in the translated document you are free not to include tags in the translation.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Лера9764" changedate="20180710T060642Z" creationid="Лера9764" creationdate="20180710T060642Z">
+        <seg>Якщо вам потрібно бачити теги в OmegaT, але не потрібно зберігати більшість форматування у перекладеному документі, Ви можете просто не включати теги у переклад.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If you place such translation memory files in the &lt;f6&gt;/tm/&lt;/f6&gt; subfolder of a project, OmegaT will automatically search them for similar segments, called "fuzzy matches".</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="olexandr" changedate="20180222T222159Z" creationid="olexandr" creationdate="20180130T215351Z">
@@ -10411,6 +10419,14 @@ click on that shortcut.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="olexandr" changedate="20180220T235118Z" creationid="olexandr" creationdate="20180220T235118Z">
         <seg>На наведеному прикладі два скрипти вже назначено (позиції 1 та 2).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>In this case pay extra attention to tag pairs since deleting one side of the pair but forgetting to delete the other is guaranteed to corrupt your document's formatting.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Лера9764" changedate="20180710T060735Z" creationid="Лера9764" creationdate="20180710T060735Z">
+        <seg>У цьому випадку слід особливо уважно ставитися до пар тегів, оскільки форматування документа можна легко зіпсувати, якщо видалити лише половину пари.</seg>
       </tuv>
     </tu>
     <tu>
@@ -15624,6 +15640,14 @@ project without team functionality.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Read the tag operations section to see what can be done with tags.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Лера9764" changedate="20180710T060518Z" creationid="Лера9764" creationdate="20180710T060518Z">
+        <seg>У розділі Операції з тегами Ви можете побачити, що можна зробити за допомогою тегів.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Read-only</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Tetiana21" changedate="20171105T211403Z" creationid="Tetiana21" creationdate="20171105T211403Z">
@@ -15796,6 +15820,14 @@ project without team functionality.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Маринка" changedate="20171209T215236Z" creationid="Маринка" creationdate="20171114T214504Z">
         <seg>Залишилось:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Remember that if you find tags a problem in OmegaT and formatting is not extremely relevant for the current translation, removing tags may be the easiest way out of problems.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Лера9764" changedate="20180710T060602Z" creationid="Лера9764" creationdate="20180710T060602Z">
+        <seg>Якщо теги створюють для Вас проблеми, а форматування для перекладу не надто важливе, видалення тегів — найлегший спосіб вирішення проблем.</seg>
       </tuv>
     </tu>
     <tu>
