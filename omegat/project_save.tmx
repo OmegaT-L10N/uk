@@ -12909,6 +12909,14 @@ itself on the first run.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Microsoft Office Open XML files</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Лера9764" changedate="20180819T081541Z" creationid="Лера9764" creationdate="20180819T081541Z">
+        <seg>Файли Microsoft Office Open XML</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Microsoft Open XML</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="nessyk" changedate="20180123T121727Z" creationid="nessyk" creationdate="20180123T121727Z">
@@ -18101,6 +18109,14 @@ The scope of a search is by default the project and can be set to be any files l
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Skip PO header</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Лера9764" changedate="20180819T081503Z" creationid="Лера9764" creationdate="20180819T081503Z">
+        <seg>Пропустити заголовок PO</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Skip segments where source=target</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="olexandr" changedate="20180222T212920Z" creationid="olexandr" creationdate="20180222T212920Z">
@@ -22419,6 +22435,14 @@ Both exact and keyword searches support the wildcard characters * and ?.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Таня" changedate="20180124T140012Z" creationid="Таня" creationdate="20180124T140012Z">
         <seg>XHTML</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>XHTML Files</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Лера9764" changedate="20180819T081519Z" creationid="Лера9764" creationdate="20180819T081519Z">
+        <seg>Файли XHTML</seg>
       </tuv>
     </tu>
     <tu>
