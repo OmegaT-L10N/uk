@@ -2054,6 +2054,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;e0&gt;Allow blank translations in the target file&lt;/e0&gt;:</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Лера9764" changedate="20180819T081446Z" creationid="Лера9764" creationdate="20180819T081446Z">
+        <seg>&lt;e0&gt;Дозволити порожні рядки в перекладеному файлі&lt;/e0&gt;:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;e0&gt;Any char key,&lt;/e0&gt; if clicked outside editable segment, will be ignored.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="olexandr" changedate="20180222T225051Z" creationid="olexandr" creationdate="20180222T225051Z">
@@ -9062,6 +9070,14 @@ project_save.tmx не був завантажений, а SVN перейшов �
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Filter options</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Лера9764" changedate="20180819T081231Z" creationid="Лера9764" creationdate="20180819T081231Z">
+        <seg>Параметри фільтра</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Filter:</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Маринка" changedate="20171118T202258Z" creationid="Маринка" creationdate="20171101T205647Z">
@@ -14783,8 +14799,16 @@ installed on your system.</seg>
       <tuv lang="EN">
         <seg>PO Filter Options</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="olexandr" changedate="20180222T221714Z" creationid="Маринка" creationdate="20171126T182915Z">
-        <seg>Параметри фільтру PO</seg>
+      <tuv lang="UK-UA" changeid="Лера9764" changedate="20180819T081247Z" creationid="Маринка" creationdate="20171126T182915Z">
+        <seg>Параметри фільтра PO</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>PO files</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Лера9764" changedate="20180819T081347Z" creationid="Лера9764" creationdate="20180819T081347Z">
+        <seg>PO файли</seg>
       </tuv>
     </tu>
     <tu>
@@ -19377,8 +19401,8 @@ The scope of a search is by default the project and can be set to be any files l
       <tuv lang="EN">
         <seg>Text Filter Options</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="Лера9764" changedate="20171205T063933Z" creationid="Diman966" creationdate="20171116T200330Z">
-        <seg>Параметри текстового фільтру</seg>
+      <tuv lang="UK-UA" changeid="Лера9764" changedate="20180819T081304Z" creationid="Diman966" creationdate="20171116T200330Z">
+        <seg>Параметри текстового фільтра</seg>
       </tuv>
     </tu>
     <tu>
@@ -22401,8 +22425,8 @@ Both exact and keyword searches support the wildcard characters * and ?.</seg>
       <tuv lang="EN">
         <seg>XHTML Filter Options</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="olexandr" changedate="20180222T221721Z" creationid="Маринка" creationdate="20180104T191738Z">
-        <seg>Параметри фільтру XHTML</seg>
+      <tuv lang="UK-UA" changeid="Лера9764" changedate="20180819T081256Z" creationid="Маринка" creationdate="20180104T191738Z">
+        <seg>Параметри фільтра XHTML</seg>
       </tuv>
     </tu>
     <tu>
