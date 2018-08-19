@@ -5538,6 +5538,14 @@ may experience unexpected, but correct behaviour.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Click &lt;e0&gt;Defaults&lt;/e0&gt; to reset the file filters to the default settings.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Лера9764" changedate="20180819T081051Z" creationid="Лера9764" creationdate="20180819T081051Z">
+        <seg>Натисність &lt;e0&gt;За замовчуванням&lt;/e0&gt;, щоб скинути фільтри файлів до типових налаштувань.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Click &lt;e2&gt;Replace Next&lt;/e2&gt; or &lt;e3&gt;Skip&lt;/e3&gt;, then end the replacement session with &lt;e4&gt;Finish&lt;/e4&gt;.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="olexandr" changedate="20180220T220810Z" creationid="olexandr" creationdate="20180220T220810Z">
@@ -22113,6 +22121,14 @@ trouble of selecting, obtaining and installing it.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="olexandr" changedate="20180220T235152Z" creationid="olexandr" creationdate="20180220T235152Z">
         <seg>Якщо натиснете лівою кнопкою на число, обраний скрипт буде запущено.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>When you wish to use the filter again, just tick the check box.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Лера9764" changedate="20180819T080858Z" creationid="Лера9764" creationdate="20180819T080858Z">
+        <seg>Якщо Ви знову хочете використовувати фільтр, установість прапорець.</seg>
       </tuv>
     </tu>
     <tu>
