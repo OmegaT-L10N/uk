@@ -3030,6 +3030,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;p0&gt;Menu Options&lt;/p0&gt; &lt;s1&gt;Editing behaviour&lt;/s1&gt; &lt;t2&gt;Segments with alternative translation&lt;/t2&gt;</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Лера9764" changedate="20180819T075457Z" creationid="Лера9764" creationdate="20180819T075457Z">
+        <seg>&lt;p0&gt;Меню Параметри&lt;/p0&gt; &lt;s1&gt;Поведінка редактора&lt;/s1&gt; &lt;t2&gt;Сегменти з альтернативним перекладом&lt;/t2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;p0&gt;Menu Options&lt;/p0&gt; &lt;s1&gt;Editing behaviour&lt;/s1&gt; &lt;t2&gt;Translation equal to source&lt;/t2&gt;</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Лера9764" changedate="20180819T075120Z" creationid="Лера9764" creationdate="20180819T075120Z">
@@ -9604,6 +9612,14 @@ script provided (omegat.kaptn).</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="olexandr" changedate="20180622T195943Z" creationid="olexandr" creationdate="20180622T195943Z">
         <seg>Глосарій/Використовувати стемінг для словникових статей</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Go To Next Untranslated Segment stops where there is at least one alternative translation</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Лера9764" changedate="20180819T075541Z" creationid="Лера9764" creationdate="20180819T075541Z">
+        <seg>Перехід до наступного неперекладеного сегмента зупиняється, коли існує принаймні один альтернативний переклад</seg>
       </tuv>
     </tu>
     <tu>
@@ -24334,6 +24350,14 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Лера9764" changedate="20180710T062208Z" creationid="Лера9764" creationdate="20180710T062208Z">
         <seg>http://www.omegat.org/en/howtos/localizing_omegat.php</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>http://www.omegat.org/en/howtos/text_export.html</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Лера9764" changedate="20180819T075330Z" creationid="Лера9764" creationdate="20180819T075330Z">
+        <seg>http://www.omegat.org/en/howtos/text_export.html</seg>
       </tuv>
     </tu>
     <tu>
