@@ -3022,6 +3022,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;p0&gt;Menu Options&lt;/p0&gt; &lt;s1&gt;Editing behaviour&lt;/s1&gt; &lt;t2&gt;Exporting the current segment&lt;/t2&gt;</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Лера9764" changedate="20180819T075256Z" creationid="Лера9764" creationdate="20180819T075256Z">
+        <seg>&lt;p0&gt;Меню Параметри&lt;/p0&gt; &lt;s1&gt;Поведінка редактора&lt;/s1&gt; &lt;t2&gt;Експорт поточного сегмента&lt;/t2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;p0&gt;Menu Options&lt;/p0&gt; &lt;s1&gt;Editing behaviour&lt;/s1&gt; &lt;t2&gt;Translation equal to source&lt;/t2&gt;</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Лера9764" changedate="20180819T075120Z" creationid="Лера9764" creationdate="20180819T075120Z">
@@ -8634,6 +8642,14 @@ project_save.tmx не був завантажений, а SVN перейшов �
       </tuv>
       <tuv lang="UK-UA" changeid="olexandr" changedate="20180222T230727Z" creationid="olexandr" creationdate="20180222T230727Z">
         <seg>Експорт обраного</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Export the segment to text files</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Лера9764" changedate="20180819T075221Z" creationid="Лера9764" creationdate="20180819T075221Z">
+        <seg>Експортувати сегмент до текстового файлу</seg>
       </tuv>
     </tu>
     <tu>
