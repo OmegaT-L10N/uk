@@ -3014,6 +3014,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;p0&gt;Menu Options&lt;/p0&gt; &lt;s1&gt;Editing behaviour&lt;/s1&gt; &lt;t2&gt;Empty translation&lt;/t2&gt;</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Лера9764" changedate="20180819T074620Z" creationid="Лера9764" creationdate="20180819T074620Z">
+        <seg>&lt;p0&gt;Меню Параметри&lt;/p0&gt; &lt;s1&gt;Поведінка редактора&lt;/s1&gt; &lt;t2&gt;Порожній переклад&lt;/t2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;p0&gt;Menu Project&lt;/p0&gt; &lt;s1&gt;New...&lt;/s1&gt;</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="olexandr" changedate="20180130T221419Z" creationid="olexandr" creationdate="20180125T220218Z">
