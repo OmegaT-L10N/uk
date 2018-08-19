@@ -4006,6 +4006,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Allow tag editing</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Лера9764" changedate="20180819T075603Z" creationid="Лера9764" creationdate="20180819T075603Z">
+        <seg>Дозволити редагування теґів</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Allow the translation to be equal to source</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Лера9764" changedate="20180819T075024Z" creationid="Лера9764" creationdate="20180819T075001Z">
@@ -10695,6 +10703,14 @@ click on that shortcut.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Initially load this many segments</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Лера9764" changedate="20180819T075715Z" creationid="Лера9764" creationdate="20180819T075648Z">
+        <seg>Спочатку завантажити цю кількість сегментів</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Initially load this many segments:</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="nessyk" changedate="20171202T200137Z" creationid="nessyk" creationdate="20171202T200137Z">
@@ -16938,6 +16954,14 @@ project without team functionality.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Save auto-populated status</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Лера9764" changedate="20180819T075630Z" creationid="Лера9764" creationdate="20180819T075630Z">
+        <seg>Зберегти автоматично заповнений статус</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Save changes to filter settings?</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="nessyk" changedate="20171030T173127Z" creationid="nessyk" creationdate="20171030T173127Z">
@@ -21709,6 +21733,14 @@ searchable without subscription:</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="olexandr" changedate="20180220T063926Z" creationid="olexandr" creationdate="20180220T063926Z">
         <seg>Перевірка теґів у поточному документі</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Validate tags when leaving a segment</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Лера9764" changedate="20180819T075616Z" creationid="Лера9764" creationdate="20180819T075616Z">
+        <seg>Перевірити теґи при переході до іншого сегмента</seg>
       </tuv>
     </tu>
     <tu>
