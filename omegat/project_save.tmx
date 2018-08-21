@@ -20682,6 +20682,14 @@ the server.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>To modify a file filter pattern, either modify the fields directly or click &lt;e0&gt;Edit.&lt;/e0&gt; To add a new file filter pattern, click &lt;e1&gt;Add&lt;/e1&gt;.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Лера9764" changedate="20180821T083551Z" creationid="Лера9764" creationdate="20180821T083551Z">
+        <seg>Щоб налаштувати шаблон фільтра файлів, змінюйте відразу поля або натисніть на &lt;e0&gt;Редагувати.&lt;/e0&gt; Щоб додати новий шаблон фільтра файлів, натисніть &lt;e1&gt;Додати&lt;/e1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>To remind yourself of the project's initial settings, open the project properties dialog by pressing &lt;k0&gt;Ctrl+E&lt;/k0&gt;.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="olexandr" changedate="20180130T214740Z" creationid="olexandr" creationdate="20180130T214707Z">
