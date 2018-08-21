@@ -14533,6 +14533,14 @@ installed on your system.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Open Document Format (ODF) files</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Лера9764" changedate="20180821T083753Z" creationid="Лера9764" creationdate="20180821T083753Z">
+        <seg>Файли Open Document Format (ODF)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Open MED Project...</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="olexandr" changedate="20180216T152919Z" creationid="Лера9764" creationdate="20171030T193551Z">
@@ -19830,6 +19838,14 @@ instead.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The dialog is useful because it includes a special target filename pattern editor with which you can customize the names of output files.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Лера9764" changedate="20180821T083650Z" creationid="Лера9764" creationdate="20180821T083650Z">
+        <seg>Діалогове вікно корисне тим, що містить спеціальний редактор шаблонів назв перекладених файлів, який дозволяє налаштувати назви перекладених файлів.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The documentation distributed with &lt;a0&gt;OmegaT&lt;/a0&gt; includes the User Manual and the readme.txt document.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="olexandr" changedate="20180622T194154Z" creationid="olexandr" creationdate="20180622T194154Z">
@@ -20079,6 +20095,14 @@ in /lib/licenses/Licenses.txt.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="olexandr" changedate="20180220T233327Z" creationid="olexandr" creationdate="20180220T233327Z">
         <seg>Застосовані правила залежать від мовної пари, що використовується в проекті.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The same dialog is used to add a pattern or to edit a particular pattern.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Лера9764" changedate="20180821T083615Z" creationid="Лера9764" creationdate="20180821T083615Z">
+        <seg>У тому ж самому діалоговому вікні можна як додати, так і редагувати шаблон.</seg>
       </tuv>
     </tu>
     <tu>
