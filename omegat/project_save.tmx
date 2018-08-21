@@ -7124,6 +7124,14 @@ may experience unexpected, but correct behaviour.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Default is &lt;l0&gt;${filename}&lt;/l0&gt;– full filename of the source file with extension: in this case the name of the translated file is the same as that of the source file.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Лера9764" changedate="20180821T083220Z" creationid="Лера9764" creationdate="20180821T083220Z">
+        <seg>За замовчуванням встановлено &lt;l0&gt;${filename}&lt;/l0&gt;– повна назва файлу оригінала з розширенням, тобто назва перекладеного файлу збігається з назвою файлу оригінала.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Default shortcut</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="olexandr" changedate="20180218T232229Z" creationid="olexandr" creationdate="20180218T232229Z">
@@ -8050,6 +8058,14 @@ project_save.tmx не був завантажений, а SVN перейшов �
       </tuv>
       <tuv lang="UK-UA" changeid="olexandr" changedate="20180222T222338Z" creationid="nessyk" creationdate="20171030T172739Z">
         <seg>Редагувати текст</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Edit filter dialog</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Лера9764" changedate="20180821T083337Z" creationid="Лера9764" creationdate="20180821T083337Z">
+        <seg>Діалогове вікно редагування фільтра</seg>
       </tuv>
     </tu>
     <tu>
@@ -20444,6 +20460,14 @@ the server.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Лера9764" changedate="20171209T185553Z" creationid="nessyk" creationdate="20171118T192106Z">
         <seg>Ця команда буде виконана після створення перекладених документів</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This dialog enables you to set up the source filename patterns of files to be processed by the filter, customize the filenames of translated files, and select which encodings should be used for loading the file and saving its translated counterpart.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Лера9764" changedate="20180821T083426Z" creationid="Лера9764" creationdate="20180821T083426Z">
+        <seg>У діалоговому вікні можна налаштувати шаблон назви файлу оригінала, який оброблятиметься фільтром, та назви перекладеного файлу, а також встановити, які кодування будуть використовуватися для завантаження файлу та збереження його перекладеного аналога.</seg>
       </tuv>
     </tu>
     <tu>
