@@ -2840,8 +2840,8 @@ The current setting is {0}MB;</seg>
       <tuv lang="EN">
         <seg>&lt;l0&gt;${extension} &lt;/l0&gt;- the original file extension</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="Лера9764" changedate="20180821T082919Z" creationid="Лера9764" creationdate="20180821T082919Z">
-        <seg>&lt;l0&gt;${extension} &lt;/l0&gt;- розширення файлу оригінала</seg>
+      <tuv lang="UK-UA" changeid="Лера9764" changedate="20180821T082941Z" creationid="Лера9764" creationdate="20180821T082919Z">
+        <seg>&lt;l0&gt;${extension} &lt;/l0&gt;- розширення файлу оригінала.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2874,6 +2874,38 @@ The current setting is {0}MB;</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Лера9764" changedate="20180821T082859Z" creationid="Лера9764" creationdate="20180821T082859Z">
         <seg>&lt;l0&gt;${nameOnly}&lt;/l0&gt;– дозволяє вписати назву файлу оригінала без розширення.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;l0&gt;${targetCountryCode}&lt;/l0&gt;– the target country - only "YY"</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Лера9764" changedate="20180821T083106Z" creationid="Лера9764" creationdate="20180821T083106Z">
+        <seg>&lt;l0&gt;${targetCountryCode}&lt;/l0&gt;– лише код країни перекладу ("YY").</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;l0&gt;${targetLanguageCode}&lt;/l0&gt; – the target language - only "XX"</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Лера9764" changedate="20180821T083042Z" creationid="Лера9764" creationdate="20180821T083042Z">
+        <seg>&lt;l0&gt;${targetLanguageCode}&lt;/l0&gt; – лише код мови перекладу ("XX").</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;l0&gt;${targetLanguage}&lt;/l0&gt;– the target language and country code together (of a form "XX-YY").</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Лера9764" changedate="20180821T083021Z" creationid="Лера9764" creationdate="20180821T083021Z">
+        <seg>&lt;l0&gt;${targetLanguage}&lt;/l0&gt;– код мови перекладу та країни перекладу (у формі "XX-YY").</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;l0&gt;${targetLocale}&lt;/l0&gt;– target locale code (of a form "xx_YY").</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Лера9764" changedate="20180821T082948Z" creationid="Лера9764" creationdate="20180821T082948Z">
+        <seg>&lt;l0&gt;${targetLocale}&lt;/l0&gt;– код локалі перекладу (у формі "xx_YY").</seg>
       </tuv>
     </tu>
     <tu>
@@ -24422,6 +24454,14 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Лера9764" changedate="20180701T161503Z" creationid="Лера9764" creationdate="20180701T161503Z">
         <seg>http://code.google.com/p/tortoisegit/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>http://docs.oracle.com/javase/1.4.2/docs/api/java/text/SimpleDateFormat.html</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Лера9764" changedate="20180821T083118Z" creationid="Лера9764" creationdate="20180821T083118Z">
+        <seg>http://docs.oracle.com/javase/1.4.2/docs/api/java/text/SimpleDateFormat.html</seg>
       </tuv>
     </tu>
     <tu>
