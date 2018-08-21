@@ -2838,6 +2838,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;l0&gt;${extension} &lt;/l0&gt;- the original file extension</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Лера9764" changedate="20180821T082919Z" creationid="Лера9764" creationdate="20180821T082919Z">
+        <seg>&lt;l0&gt;${extension} &lt;/l0&gt;- розширення файлу оригінала</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;l0&gt;${nameOnly-0}&lt;/l0&gt; Document</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Лера9764" changedate="20180821T082309Z" creationid="Лера9764" creationdate="20180821T082309Z">
@@ -2858,6 +2866,14 @@ The current setting is {0}MB;</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Лера9764" changedate="20180821T082315Z" creationid="Лера9764" creationdate="20180821T082315Z">
         <seg>&lt;l0&gt;${nameOnly-2}&lt;/l0&gt; Document.xx.docx</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;l0&gt;${nameOnly}&lt;/l0&gt;– allows you to insert only the name of the source file without the extension.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Лера9764" changedate="20180821T082859Z" creationid="Лера9764" creationdate="20180821T082859Z">
+        <seg>&lt;l0&gt;${nameOnly}&lt;/l0&gt;– дозволяє вписати назву файлу оригінала без розширення.</seg>
       </tuv>
     </tu>
     <tu>
