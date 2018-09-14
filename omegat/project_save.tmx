@@ -4522,6 +4522,14 @@ may experience unexpected, but correct behaviour.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>As this is the standard behavior for PO files, it is on by default.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Лера9764" changedate="20180914T164726Z" creationid="Лера9764" creationdate="20180914T164726Z">
+        <seg>Це типова поведінка файлів PO, встановлена за замовчуванням.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Assamese</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="olexandr" changedate="20180220T202316Z" creationid="olexandr" creationdate="20180220T202316Z">
@@ -19585,6 +19593,14 @@ The scope of a text replacement is the target segments of the project, whether t
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Text files</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Лера9764" changedate="20180914T164745Z" creationid="Лера9764" creationdate="20180914T164745Z">
+        <seg>Текстові файли</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Text files segmentation</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Маринка" changedate="20171107T194540Z" creationid="Маринка" creationdate="20171107T194540Z">
@@ -19776,6 +19792,14 @@ Please try to correct the error and reload the project.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="olexandr" changedate="20180622T193903Z" creationid="olexandr" creationdate="20180622T193903Z">
         <seg>Автором розділу &lt;e1&gt;Навчіться використовувати OmegaT за 5 хвилин!&lt;/e1&gt; є Samuel Murray, Copyright ©2005-2012.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The available options are:</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Лера9764" changedate="20180914T164831Z" creationid="Лера9764" creationdate="20180914T164831Z">
+        <seg>Доступні параметри:</seg>
       </tuv>
     </tu>
     <tu>
