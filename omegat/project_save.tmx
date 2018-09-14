@@ -1918,6 +1918,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;a0&gt;OmegaT&lt;/a0&gt; works with three types of files.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Лера9764" changedate="20180914T165320Z" creationid="Лера9764" creationdate="20180914T165320Z">
+        <seg>&lt;a0&gt;OmegaT&lt;/a0&gt; працює з трьома типами файлів.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;auto&gt;</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Маринка" changedate="20171118T195246Z" creationid="Маринка" creationdate="20171118T195013Z">
@@ -15828,6 +15836,14 @@ project without team functionality.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Лера9764" changedate="20180701T155339Z" creationid="Лера9764" creationdate="20180701T155339Z">
         <seg>Файли проекту</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Project files are the most important files in &lt;a0&gt;OmegaT&lt;/a0&gt;.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Лера9764" changedate="20180914T165438Z" creationid="Лера9764" creationdate="20180914T165438Z">
+        <seg>Файли проекту — найважливіші файли в &lt;a0&gt;OmegaT&lt;/a0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
