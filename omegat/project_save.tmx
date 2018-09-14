@@ -3286,6 +3286,22 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;p0&gt;Project files&lt;/p0&gt; &lt;s1&gt;File omegat.project&lt;/s1&gt;</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Лера9764" changedate="20180914T165646Z" creationid="Лера9764" creationdate="20180914T165646Z">
+        <seg>&lt;p0&gt;Файли проекту&lt;/p0&gt; &lt;s1&gt;Файл omegat.project&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;p0&gt;Project files&lt;/p0&gt; &lt;s1&gt;Translation project files&lt;/s1&gt;</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Лера9764" changedate="20180914T165556Z" creationid="Лера9764" creationdate="20180914T165556Z">
+        <seg>&lt;p0&gt;Файли проекту&lt;/p0&gt; &lt;s1&gt;Файли проекту перекладу&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;p0&gt;Project&lt;/p0&gt; &lt;s1&gt;Create / open new&lt;/s1&gt;</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="olexandr" changedate="20180222T210103Z" creationid="olexandr" creationdate="20180125T220016Z">
@@ -14377,6 +14393,14 @@ to be launched.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>OmegaT project</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Лера9764" changedate="20180914T165610Z" creationid="Лера9764" creationdate="20180914T165610Z">
+        <seg>Проект OmegaT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>OmegaT ran out of memory, and will quit when you press OK.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="olexandr" changedate="20180220T230001Z" creationid="Tetiana21" creationdate="20171118T194550Z">
@@ -21151,6 +21175,14 @@ install.sh.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Лера9764" changedate="20180125T162207Z" creationid="nessyk" creationdate="20171125T171319Z">
         <seg>Тека памʼяті перекладу{0} не існує.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Translation project files</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Лера9764" changedate="20180914T165519Z" creationid="Лера9764" creationdate="20180914T165519Z">
+        <seg>Файли проекту перекладу</seg>
       </tuv>
     </tu>
     <tu>
