@@ -20754,6 +20754,14 @@ the server.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>To modify the options select the filter from the list and click on &lt;e0&gt;Options&lt;/e0&gt;.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Лера9764" changedate="20180914T164939Z" creationid="Лера9764" creationdate="20180914T164939Z">
+        <seg>Щоб відредагувати параметри, виберіть фільтр зі списку та натисніть &lt;e0&gt;Параметри&lt;/e0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>To remind yourself of the project's initial settings, open the project properties dialog by pressing &lt;k0&gt;Ctrl+E&lt;/k0&gt;.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="olexandr" changedate="20180130T214740Z" creationid="olexandr" creationdate="20180130T214707Z">
