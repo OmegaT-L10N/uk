@@ -22527,6 +22527,14 @@ Both exact and keyword searches support the wildcard characters * and ?.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Windows 2000 and XP</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Лера9764" changedate="20180914T165849Z" creationid="Лера9764" creationdate="20180914T165831Z">
+        <seg>Windows 2000 й XP</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Windows Resources</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="olexandr" changedate="20180222T221837Z" creationid="Diman966" creationdate="20171116T200054Z">
@@ -22539,6 +22547,14 @@ Both exact and keyword searches support the wildcard characters * and ?.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="olexandr" changedate="20180716T140020Z" creationid="olexandr" creationdate="20180716T140020Z">
         <seg>Користувачам Windows</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Windows Vista and 7</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Лера9764" changedate="20180914T165843Z" creationid="Лера9764" creationdate="20180914T165837Z">
+        <seg>Windows Vista й 7</seg>
       </tuv>
     </tu>
     <tu>
@@ -24186,6 +24202,14 @@ create its configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>filters.xml</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Лера9764" changedate="20180914T165743Z" creationid="Лера9764" creationdate="20180914T165743Z">
+        <seg>filters.xml</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>fin</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="olexandr" changedate="20180219T202130Z" creationid="olexandr" creationdate="20180219T202130Z">
@@ -24962,6 +24986,14 @@ create its configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>ignored_words.txt.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Лера9764" changedate="20180914T165723Z" creationid="Лера9764" creationdate="20180914T165723Z">
+        <seg>ignored_words.txt.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>ii</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="olexandr" changedate="20180219T202307Z" creationid="olexandr" creationdate="20180219T202307Z">
@@ -25428,6 +25460,14 @@ create its configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>learned_words.txt</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Лера9764" changedate="20180914T165727Z" creationid="Лера9764" creationdate="20180914T165727Z">
+        <seg>learned_words.txt</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>lg</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="olexandr" changedate="20180219T202232Z" creationid="olexandr" creationdate="20180219T202232Z">
@@ -25488,6 +25528,14 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Маринка" changedate="20171118T213100Z" creationid="Маринка" creationdate="20171118T213100Z">
         <seg>завантажено</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>logs/OmegaT.log</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Лера9764" changedate="20180914T165801Z" creationid="Лера9764" creationdate="20180914T165801Z">
+        <seg>logs/OmegaT.log</seg>
       </tuv>
     </tu>
     <tu>
@@ -26016,6 +26064,14 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="olexandr" changedate="20180222T214740Z" creationid="olexandr" creationdate="20180222T214740Z">
         <seg>omegat.kaptn</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>omegat.prefs</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Лера9764" changedate="20180914T165812Z" creationid="Лера9764" creationdate="20180914T165812Z">
+        <seg>omegat.prefs</seg>
       </tuv>
     </tu>
     <tu>
@@ -26556,6 +26612,14 @@ create its configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>project_stats_match.txt</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Лера9764" changedate="20180914T165734Z" creationid="Лера9764" creationdate="20180914T165734Z">
+        <seg>project_stats_match.txt</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>ps</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="olexandr" changedate="20180219T202323Z" creationid="olexandr" creationdate="20180219T202323Z">
@@ -26752,6 +26816,14 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20170902T144944Z" creationid="Kos Ivantsov" creationdate="20170902T144944Z">
         <seg>сегмент 0000</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>segmentation.conf</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Лера9764" changedate="20180914T165738Z" creationid="Лера9764" creationdate="20180914T165738Z">
+        <seg>segmentation.conf</seg>
       </tuv>
     </tu>
     <tu>
@@ -26992,6 +27064,14 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="olexandr" changedate="20180219T202349Z" creationid="olexandr" creationdate="20180219T202349Z">
         <seg>st</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>stats.txt</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Лера9764" changedate="20180914T165713Z" creationid="Лера9764" creationdate="20180914T165713Z">
+        <seg>stats.txt</seg>
       </tuv>
     </tu>
     <tu>
@@ -27352,6 +27432,14 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="olexandr" changedate="20180219T202417Z" creationid="olexandr" creationdate="20180219T202417Z">
         <seg>ug</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>uiLayout.xml</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Лера9764" changedate="20180914T165747Z" creationid="Лера9764" creationdate="20180914T165747Z">
+        <seg>uiLayout.xml</seg>
       </tuv>
     </tu>
     <tu>
