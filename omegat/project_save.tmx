@@ -1744,6 +1744,30 @@ To add files to the project, click on the Copy Files to Source Folder... button 
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>/docs/</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Лера9764" changedate="20180914T165924Z" creationid="Лера9764" creationdate="20180914T165924Z">
+        <seg>/docs/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>/images/</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Лера9764" changedate="20180914T165929Z" creationid="Лера9764" creationdate="20180914T165929Z">
+        <seg>/images/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>/lib/</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Лера9764" changedate="20180914T165936Z" creationid="Лера9764" creationdate="20180914T165936Z">
+        <seg>/lib/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>1 conflict</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="nessyk" changedate="20171113T215811Z" creationid="nessyk" creationdate="20171113T215811Z">
@@ -12381,6 +12405,14 @@ itself on the first run.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Linux/Solaris/FreeBSD</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Лера9764" changedate="20180914T165907Z" creationid="Лера9764" creationdate="20180914T165907Z">
+        <seg>Linux/Solaris/FreeBSD</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>List View</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Лера9764" changedate="20171118T085245Z" creationid="Tetiana21" creationdate="20171105T155847Z">
@@ -12537,6 +12569,14 @@ itself on the first run.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="olexandr" changedate="20180220T211450Z" creationid="olexandr" creationdate="20180220T211450Z">
         <seg>Люксембурзька</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>MAC OS X</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Лера9764" changedate="20180914T165911Z" creationid="Лера9764" creationdate="20180914T165911Z">
+        <seg>MAC OS X</seg>
       </tuv>
     </tu>
     <tu>
@@ -19730,6 +19770,14 @@ current folder will be used instead.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The GNU GENERAL PUBLIC LICENSE.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Лера9764" changedate="20180914T170012Z" creationid="Лера9764" creationdate="20180914T170012Z">
+        <seg>The GNU GENERAL PUBLIC LICENSE.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The Java Resource Bundles filter threw an exception:</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="olexandr" changedate="20180219T191724Z" creationid="Diman966" creationdate="20180124T113226Z">
@@ -23610,6 +23658,14 @@ create its configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>changes.txt</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Лера9764" changedate="20180914T165948Z" creationid="Лера9764" creationdate="20180914T165948Z">
+        <seg>changes.txt</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>che</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="olexandr" changedate="20180219T201500Z" creationid="olexandr" creationdate="20180219T201500Z">
@@ -23774,6 +23830,14 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="olexandr" changedate="20180219T201515Z" creationid="olexandr" creationdate="20180219T201515Z">
         <seg>div</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>doc-license.txt</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Лера9764" changedate="20180914T170018Z" creationid="Лера9764" creationdate="20180914T170018Z">
+        <seg>doc-license.txt</seg>
       </tuv>
     </tu>
     <tu>
@@ -25140,6 +25204,14 @@ create its configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>join.html</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Лера9764" changedate="20180914T165941Z" creationid="Лера9764" creationdate="20180914T165941Z">
+        <seg>join.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>jpn</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="olexandr" changedate="20180219T202206Z" creationid="olexandr" creationdate="20180219T202206Z">
@@ -25480,6 +25552,14 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="olexandr" changedate="20180219T202233Z" creationid="olexandr" creationdate="20180219T202233Z">
         <seg>li</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>license.txt</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Лера9764" changedate="20180914T165952Z" creationid="Лера9764" creationdate="20180914T165952Z">
+        <seg>license.txt</seg>
       </tuv>
     </tu>
     <tu>
@@ -26656,6 +26736,14 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="olexandr" changedate="20180219T202326Z" creationid="olexandr" creationdate="20180219T202326Z">
         <seg>que</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>readme.txt</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Лера9764" changedate="20180914T170025Z" creationid="Лера9764" creationdate="20180914T170025Z">
+        <seg>readme.txt</seg>
       </tuv>
     </tu>
     <tu>
