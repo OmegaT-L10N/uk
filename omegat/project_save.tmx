@@ -6,6 +6,16 @@
 <!-- Default translations -->
     <tu>
       <tuv lang="EN">
+        <seg>#!/bin/bash java
+java -jar OmegaT.jar $*</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Лера9764" changedate="20180914T170120Z" creationid="Лера9764" creationdate="20180914T170120Z">
+        <seg>#!/bin/bash java
+java -jar OmegaT.jar $*</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>#Files</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Маринка" changedate="20171114T214450Z" creationid="Маринка" creationdate="20171114T214450Z">
@@ -3594,6 +3604,14 @@ The current setting is {0}MB;</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="olexandr" changedate="20180130T212715Z" creationid="olexandr" creationdate="20180130T212715Z">
         <seg>Оригінальне речення може виглядати так:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>A text file containing two lines:</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Лера9764" changedate="20180914T170224Z" creationid="Лера9764" creationdate="20180914T170224Z">
+        <seg>Текстовий файл, який містить два рядки:</seg>
       </tuv>
     </tu>
     <tu>
@@ -14565,6 +14583,22 @@ installed on your system.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>OmegaT.bat</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Лера9764" changedate="20180914T170125Z" creationid="Лера9764" creationdate="20180914T170125Z">
+        <seg>OmegaT.bat</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>OmegaT.jar</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Лера9764" changedate="20180914T170134Z" creationid="Лера9764" creationdate="20180914T170134Z">
+        <seg>OmegaT.jar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>On the Mac, the modifier &lt;e0&gt;meta&lt;/e0&gt; must be used to specify the &lt;e1&gt;command&lt;/e1&gt; key.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="olexandr" changedate="20180219T000600Z" creationid="olexandr" creationdate="20180219T000600Z">
@@ -17641,6 +17675,14 @@ The scope of a search is by default the project and can be set to be any files l
       </tuv>
       <tuv lang="UK-UA" changeid="olexandr" changedate="20180217T125254Z" creationid="Маринка" creationdate="20171026T162340Z">
         <seg>Припустимі значення наведено у файлі «OmegaT.jar/META-INF/MANIFEST.MF».</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>See above.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Лера9764" changedate="20180914T170255Z" creationid="Лера9764" creationdate="20180914T170255Z">
+        <seg>Дивіться вище.</seg>
       </tuv>
     </tu>
     <tu>
@@ -25200,6 +25242,14 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="olexandr" changedate="20180219T202207Z" creationid="olexandr" creationdate="20180219T202207Z">
         <seg>jav</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>java -jar OmegaT.jar %*</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Лера9764" changedate="20180914T170130Z" creationid="Лера9764" creationdate="20180914T170130Z">
+        <seg>java -jar OmegaT.jar %*</seg>
       </tuv>
     </tu>
     <tu>
