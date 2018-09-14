@@ -20405,6 +20405,14 @@ configuration folder cannot be reliably determined.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>They will appear as separate segments in the translation.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Лера9764" changedate="20180914T164454Z" creationid="Лера9764" creationdate="20180914T164454Z">
+        <seg>Вони будуть відображатися у тексті перекладу як окремі сегменти.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>This
 will delete your local data and re-download the project contents from
 the server.</seg>
@@ -22820,6 +22828,22 @@ the installation script (linux-install.sh).</seg>
       <tuv lang="UK-UA" changeid="olexandr" changedate="20180125T210159Z" creationid="olexandr" creationdate="20180125T210159Z">
         <seg>Тим не менш, ви можете скористатися акуратнішим та більш дружнім до користувача
 встановленням використавши скрипт (linux-install.sh).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You can select which elements are to be translated.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Лера9764" changedate="20180914T164410Z" creationid="Лера9764" creationdate="20180914T164410Z">
+        <seg>Ви можете обрати, які елементи будуть перекладатися</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You can select which of the following items are to be translated:</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Лера9764" changedate="20180914T164300Z" creationid="Лера9764" creationdate="20180914T164300Z">
+        <seg>Ви можете обрати, які з наступних елементів будуть перекладатися:</seg>
       </tuv>
     </tu>
     <tu>
