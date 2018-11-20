@@ -22689,6 +22689,14 @@ Both exact and keyword searches support the wildcard characters * and ?.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Windows</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20181120T101845Z" creationid="Kos Ivantsov" creationdate="20181120T101845Z">
+        <seg>Windows</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Windows 2000 and XP</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Лера9764" changedate="20180914T165849Z" creationid="Лера9764" creationdate="20180914T165831Z">
