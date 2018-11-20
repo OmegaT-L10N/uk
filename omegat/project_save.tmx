@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.5_0_10418" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.5_4_10493M" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -13291,6 +13291,22 @@ itself on the first run.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Лера9764" changedate="20171205T064405Z" creationid="Diman966" creationdate="20171116T195736Z">
         <seg>Одномовний</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Moodle PHP</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20181120T100322Z" creationid="Kos Ivantsov" creationdate="20181120T100322Z">
+        <seg>Moodle PHP</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Moodle PHP Filter Options</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20181120T100337Z" creationid="Kos Ivantsov" creationdate="20181120T100337Z">
+        <seg>Параметри фільтра Moodle PHP</seg>
       </tuv>
     </tu>
     <tu>
