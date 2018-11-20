@@ -18623,6 +18623,14 @@ The scope of a search is by default the project and can be set to be any files l
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Source code packages are not required by users and are intended for developers only.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20181120T101514Z" creationid="Kos Ivantsov" creationdate="20181120T101514Z">
+        <seg>Кінцевим користувачам немає потреби працювати з пакетами джерельного коду. Вони призначені лише для розробників.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Source count</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="nessyk" changedate="20171109T202619Z" creationid="nessyk" creationdate="20171109T202619Z">
