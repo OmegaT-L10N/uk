@@ -9434,6 +9434,14 @@ script provided (omegat.kaptn).</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>For installation on Windows System.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20181120T101918Z" creationid="Kos Ivantsov" creationdate="20181120T101918Z">
+        <seg>Для встановлення в ОС Windows.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>For readability purposes, letters are written in uppercase here.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="olexandr" changedate="20180222T233028Z" creationid="olexandr" creationdate="20180222T233028Z">
@@ -12603,6 +12611,14 @@ itself on the first run.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Лера9764" changedate="20180914T165911Z" creationid="Лера9764" creationdate="20180914T165911Z">
         <seg>MAC OS X</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Mac OS X</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20181120T101929Z" creationid="Kos Ivantsov" creationdate="20181120T101929Z">
+        <seg>MAC OS X.</seg>
       </tuv>
     </tu>
     <tu>
