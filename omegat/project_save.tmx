@@ -20599,6 +20599,14 @@ configuration folder cannot be reliably determined.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>They can be found in the folders of the corresponding compiled versions.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20181120T101551Z" creationid="Kos Ivantsov" creationdate="20181120T101551Z">
+        <seg>Їх можна знайти в окремих теках відповідних скомпільованих версій.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>They will appear as separate segments in the translation.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Лера9764" changedate="20180914T164454Z" creationid="Лера9764" creationdate="20180914T164454Z">
