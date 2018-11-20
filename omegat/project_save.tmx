@@ -8802,8 +8802,8 @@ project_save.tmx не був завантажений, а SVN перейшов �
       <tuv lang="EN">
         <seg>Exception while parsing:</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="Маринка" changedate="20171217T184748Z" creationid="Маринка" creationdate="20171121T205644Z">
-        <seg>Виняток під час аналізу:</seg>
+      <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20181120T100852Z" creationid="Маринка" creationdate="20171121T205644Z">
+        <seg>Помилка під час обробки:</seg>
       </tuv>
     </tu>
     <tu>
@@ -19862,8 +19862,8 @@ current folder will be used instead.</seg>
       <tuv lang="EN">
         <seg>The Moodle PHP filter threw an exception:</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20181120T100356Z" creationid="Kos Ivantsov" creationdate="20181120T100356Z">
-        <seg>Фільтр Moodle PHP згенерував виняток:</seg>
+      <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20181120T100811Z" creationid="Kos Ivantsov" creationdate="20181120T100356Z">
+        <seg>Помилка у роботі фільтра Moodle PHP:</seg>
       </tuv>
     </tu>
     <tu>
@@ -19878,8 +19878,8 @@ current folder will be used instead.</seg>
       <tuv lang="EN">
         <seg>The Mozilla DTD filter threw an exception:</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="Маринка" changedate="20180123T133639Z" creationid="Маринка" creationdate="20180123T133639Z">
-        <seg>Фільтр Mozilla DTD згенерував виняток:</seg>
+      <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20181120T100801Z" creationid="Маринка" creationdate="20180123T133639Z">
+        <seg>Помилка у роботі фільтра Mozilla DTD:</seg>
       </tuv>
     </tu>
     <tu>
@@ -19894,8 +19894,8 @@ current folder will be used instead.</seg>
       <tuv lang="EN">
         <seg>The PO filter threw an exception:</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="Маринка" changedate="20180123T133338Z" creationid="Маринка" creationdate="20180123T133338Z">
-        <seg>Фільтр PO згенерував виняток:</seg>
+      <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20181120T100841Z" creationid="Маринка" creationdate="20180123T133338Z">
+        <seg>Помилка у роботі фільтра файлів PO:</seg>
       </tuv>
     </tu>
     <tu>
