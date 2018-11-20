@@ -9458,6 +9458,14 @@ script provided (omegat.kaptn).</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>For installation on other operating systems (such as FreeBSD and Solaris).&lt;br0/&gt;</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20181120T102113Z" creationid="Kos Ivantsov" creationdate="20181120T102113Z">
+        <seg>Для встановлення в інших ОС (наприклад, FreeBSD або Solaris).&lt;br0/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>For readability purposes, letters are written in uppercase here.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="olexandr" changedate="20180222T233028Z" creationid="olexandr" creationdate="20180222T233028Z">
@@ -28311,6 +28319,17 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="olexandr" changedate="20180220T223527Z" creationid="olexandr" creationdate="20180220T223527Z">
         <seg>Вікно пошуку та заміни</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">website/download.html</prop>
+      <prop type="prev">For installation on Linux.</prop>
+      <prop type="next">For installation on other operating systems (such as FreeBSD and Solaris).&lt;br0/&gt;</prop>
+      <tuv lang="EN">
+        <seg>Other</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20181120T102036Z" creationid="Kos Ivantsov" creationdate="20181120T102036Z">
+        <seg>Інші ОС</seg>
       </tuv>
     </tu>
     <tu>
