@@ -8794,8 +8794,8 @@ project_save.tmx не був завантажений, а SVN перейшов �
       <tuv lang="EN">
         <seg>Exception while editing options:</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20181120T100638Z" creationid="Маринка" creationdate="20180104T191526Z">
-        <seg>Помилка під час параметрів редагування:</seg>
+      <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20181120T100650Z" creationid="Маринка" creationdate="20180104T191526Z">
+        <seg>Помилка під час редагування параметрів:</seg>
       </tuv>
     </tu>
     <tu>
@@ -19838,8 +19838,8 @@ current folder will be used instead.</seg>
       <tuv lang="EN">
         <seg>The Java Resource Bundles filter threw an exception:</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="olexandr" changedate="20180219T191724Z" creationid="Diman966" creationdate="20180124T113226Z">
-        <seg>Фільтр компонентів ресурсів Java згенерував виняток:</seg>
+      <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20181120T100735Z" creationid="Diman966" creationdate="20180124T113226Z">
+        <seg>Помилка у роботі фільтра Java Resource Bundles:</seg>
       </tuv>
     </tu>
     <tu>
