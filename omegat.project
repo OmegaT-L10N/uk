@@ -47,7 +47,9 @@
                 <mapping local="glossary/alphanumlist.txt" repository="raw/8b6a8f8d115ba3c3769c574ff476722ba72e05bf/ukr_alphanum_list.txt"/>
             </repository>
             <repository type="svn" url="https://github.com/omegat-org/omegat-website.git/trunk/_i18n/en/">
-                <mapping local="source/website/" repository="/"/>
+                <mapping local="source/website/" repository="/">
+                    <excludes>**/howtos/**</excludes>
+                </mapping>
             </repository>
             <repository type="http" url="https://github.com/omegat-org/omegat-website/">
                 <mapping local="source/website/yml/uk.yml" repository="raw/master/_i18n/en.yml"/>
