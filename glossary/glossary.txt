@@ -1,14 +1,30 @@
-Note	Примітка
-Match	Збіг
-OmegaT	OmegaT	назва програми, залишається латинкою
-GNU	GNU	назва організації та операційної системи
-Localization	Локалізація
-Allow	Дозволяє
+Alternative Translation	варіант перекладу
+Auto-Completion	Автодоповнення
+check out	отримати зі сховища
+Copy Files to Source Folder	Скопіювати документи до теки з файлами для перекладу
 Displays	Відображає
-tag	теґ	tags
-memory	памʼять	Файл памʼяті перекладу (tm)
-LanguageTool	LanguageTool	Назва програми
-Shortcuts	Комбінація клавіш
-segment	сегмент
+Editor	Вікно редагування
 file filters	фільтри файлів
 File Filters	Фільтри файлів
+GNU	GNU	назва організації та операційної системи
+History Completion	Доповнення зі збереженого
+History Prediction	Прогнозовані доповнення зі збереженого
+Java	Java
+LanguageTool	LanguageTool	Назва програми
+Localization	Локалізація
+Match	Збіг
+memory	памʼять	Файл памʼяті перекладів (tm)
+MyMemory	MyMemory
+note	примітка	частина інтерфейсу
+OmegaT	OmegaT	назва програми, залишається латинкою
+Preferences	Параметри	меню
+Project Files	Файли проекту
+project properties	властивості проекту
+repository	сховище
+Saving and Output	Збереження та вивід
+segment	сегмент
+Shortcuts	Комбінація клавіш
+Source Files Folder	Тека для файлів для перекладу
+tag	теґ	tags
+TMX	TMX
+Translated Files Folder	Тека для перекладених файлів
