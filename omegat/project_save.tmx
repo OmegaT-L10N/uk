@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.1.0_0_ee2fbf89d" segtype="sentence" srclang="en"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.1.0_0_ba04ac855" segtype="sentence" srclang="en"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -1952,6 +1952,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>API Key (optional)</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20191016T084955Z" creationid="Kos Ivantsov" creationdate="20191016T084955Z">
+        <seg>Ключ API (необов’язково):</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>API Key:</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20190422T205325Z" creationid="Kos Ivantsov" creationdate="20190422T205325Z">
@@ -3841,6 +3849,14 @@ Buy another drink</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Connect to custom server instead of apertium.org</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20191016T084932Z" creationid="Kos Ivantsov" creationdate="20191016T084932Z">
+        <seg>Під’єднатися до іншого сервера замість apertium.org</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Connection available, the project is in team project mode.</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20190812T071420Z" creationid="Kos Ivantsov" creationdate="20190812T070625Z">
@@ -4250,6 +4266,14 @@ Buy another drink</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20190817T210336Z" creationid="Kos Ivantsov" creationdate="20190817T210336Z">
         <seg>Вибір кольорів для налаштування</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Custom server URL</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20191016T084942Z" creationid="Kos Ivantsov" creationdate="20191016T084942Z">
+        <seg>URL-адреса іншого сервера:</seg>
       </tuv>
     </tu>
     <tu>
@@ -5242,6 +5266,22 @@ Your help page not found</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20190422T210021Z" creationid="Kos Ivantsov" creationdate="20190422T210021Z">
         <seg>Англійська</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Ensure the URL is correct.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20191016T085252Z" creationid="Kos Ivantsov" creationdate="20191016T085252Z">
+        <seg>Перевірте правильність зазначеної URL-адреси.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Ensure the server URL is correct.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20191016T085120Z" creationid="Kos Ivantsov" creationdate="20191016T085120Z">
+        <seg>Перевірте правильність зазначеної URL-адреси.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13763,6 +13803,14 @@ in /lib/licenses/Licenses.txt.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The server is not a valid Apertium server.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20191016T085245Z" creationid="Kos Ivantsov" creationdate="20191016T085245Z">
+        <seg>Указаний сервер не є належним сервером Apertium.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The source file language entered is invalid!</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20190516T180449Z" creationid="Kos Ivantsov" creationdate="20190516T180449Z">
@@ -14612,6 +14660,14 @@ Exact searches match the whole search string.</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20190504T124154Z" creationid="Kos Ivantsov" creationdate="20190504T124154Z">
         <seg>Не вдається створити новий файл TMX!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Unable to connect to server.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20191016T085053Z" creationid="Kos Ivantsov" creationdate="20191016T085024Z">
+        <seg>Не вдалося під’єднатися до сервера.</seg>
       </tuv>
     </tu>
     <tu>
