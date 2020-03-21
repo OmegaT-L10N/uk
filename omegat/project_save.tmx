@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.2_0_6a661c5e0" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="OmegaT-4.3.2" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -2523,6 +2523,14 @@ The TMX file will not be loaded.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20190807T182952Z" creationid="Kos Ivantsov" creationdate="20190807T182727Z">
         <seg>Попередній переклад було замінено текстом, який не збігається із тим, який увели ви.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>An important aspect of this freedom is that users may also modify the program's code.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="lesia" changedate="20200321T125937Z" creationid="lesia" creationdate="20200321T125937Z">
+        <seg>Важливий аспект такої свободи: користувачі можуть змінювати код програми відповідно до своїх потреб.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9328,6 +9336,14 @@ appropriate location such as the Applications folder.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20190517T141623Z" creationid="Kos Ivantsov" creationdate="20190517T141623Z">
         <seg>Недопустимий файл XML!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Not only may it be used free of charge, users are also free to make copies of it and distribute them.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="lesia" changedate="20200321T125704Z" creationid="lesia" creationdate="20200321T125704Z">
+        <seg>Можна не лише безкоштовно користуватися кодом програми, але й робити його копії та поширювати їх.</seg>
       </tuv>
     </tu>
     <tu>
