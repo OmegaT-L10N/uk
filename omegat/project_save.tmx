@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="OmegaT-4.3.2" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.2_0_6a661c5e0" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -4386,6 +4386,14 @@ Buy another drink</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20190821T153649Z" creationid="Kos Ivantsov" creationdate="20190821T153649Z">
         <seg>Визначення…</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Developers</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200321T125221Z" creationid="maximo" creationdate="20200321T125221Z">
+        <seg>Розробники</seg>
       </tuv>
     </tu>
     <tu>
@@ -9588,6 +9596,14 @@ appropriate location such as the Applications folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>OmegaT has a very active, supportive and multilingual user group.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200321T125740Z" creationid="maximo" creationdate="20200321T125740Z">
+        <seg>OmegaT має активну багатомовну дружню групу підтримки користувачів.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>OmegaT has chosen option 'Yes' automatically.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20190420T182112Z" creationid="Kos Ivantsov" creationdate="20190420T182112Z">
@@ -12626,6 +12642,14 @@ The scope of a search is by default the project and can be set to be any files l
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Since the project's inception, it has received the support of dozens of other contributors, too numerous to mention here, but for whose help we are very grateful.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200321T125515Z" creationid="maximo" creationdate="20200321T125515Z">
+        <seg>Із початку існування проєкту, десятки людей доклали до нього рук. Ми не можемо всіх згадати на цій сторінці, але ми дуже вдячні за їх допомогу.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Size</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20190420T125215Z" creationid="Kos Ivantsov" creationdate="20190420T125215Z">
@@ -13855,6 +13879,14 @@ in /lib/licenses/Licenses.txt.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20190808T131729Z" creationid="Kos Ivantsov" creationdate="20190808T131729Z">
         <seg>Паролі не збігаються.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The philosophy of the project is described &lt;a0&gt;here&lt;/a0&gt;.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200321T125303Z" creationid="maximo" creationdate="20200321T125303Z">
+        <seg>Філософія проєкту описана &lt;a0&gt;тут&lt;/a0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -15259,6 +15291,14 @@ on line {1}, column {2}.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20190822T143516Z" creationid="Kos Ivantsov" creationdate="20190821T204147Z">
         <seg>Користувач не надав облікові дані</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>User group</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200321T125637Z" creationid="maximo" creationdate="20200321T125637Z">
+        <seg>Група користувачів</seg>
       </tuv>
     </tu>
     <tu>
