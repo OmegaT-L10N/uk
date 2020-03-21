@@ -2992,6 +2992,14 @@ Buy another drink</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Bugs, feature requests and documentation issues are handled on Sourceforge by the following tracking systems.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200321T130709Z" creationid="maximo" creationdate="20200321T130709Z">
+        <seg>Помилки та запити щодо функціональності та документації обробляються на Sourceforge за допомогою поданих нижче систем відстеження.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>C&amp;ase sensitive</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20190516T181924Z" creationid="Kos Ivantsov" creationdate="20190516T181924Z">
@@ -4807,6 +4815,14 @@ Buy another drink</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Documentation tracking system</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200321T130805Z" creationid="maximo" creationdate="20200321T130805Z">
+        <seg>Система відстеження документаціїґ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>DokuWiki</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20190706T132600Z" creationid="Kos Ivantsov" creationdate="20190706T132600Z">
@@ -6002,6 +6018,14 @@ Gossamer threads hold you back
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20190701T125938Z" creationid="Kos Ivantsov" creationdate="20190701T125938Z">
         <seg>Під час обробки була виявлена критична помилка у рядку {0}, у позиції {1}:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Feature requests tracking system</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200321T130754Z" creationid="maximo" creationdate="20200321T130754Z">
+        <seg>Система відстеження запитів щодо нової функціональності</seg>
       </tuv>
     </tu>
     <tu>
@@ -7538,6 +7562,14 @@ click on that shortcut.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20190821T125213Z" creationid="Kos Ivantsov" creationdate="20190821T125213Z">
         <seg>Проблеми у файлі {0} ({1})</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Issues/bugs tracking system</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200321T130732Z" creationid="maximo" creationdate="20200321T130732Z">
+        <seg>Система відстеження проблем/помилок</seg>
       </tuv>
     </tu>
     <tu>
@@ -9628,6 +9660,14 @@ appropriate location such as the Applications folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>OmegaT has a presence on various social networks.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200321T130903Z" creationid="maximo" creationdate="20200321T130845Z">
+        <seg>OmegaT є в багатьох соціальних мережах.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>OmegaT has a very active, supportive and multilingual user group.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="maximo" changedate="20200321T125740Z" creationid="maximo" creationdate="20200321T125740Z">
@@ -10342,6 +10382,14 @@ additional steps need to be taken.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20190504T102306Z" creationid="Kos Ivantsov" creationdate="20190504T102306Z">
         <seg>Виправте проблеми з теґами, а потім знову спробуйте створити перекладені файли.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Please do not use these tracking systems before first raising the issue on the user group and/or mailing lists.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200321T130723Z" creationid="maximo" creationdate="20200321T130723Z">
+        <seg>Будь ласка, використовуйте ці системи відстеження лише після того, як ви вже звернулися за допомогою до групи користувачів або скористалися списками розсилок.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12754,6 +12802,14 @@ The scope of a search is by default the project and can be set to be any files l
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Social Networks</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200321T130818Z" creationid="maximo" creationdate="20200321T130818Z">
+        <seg>Соціальні мережі</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Some alignments still need review.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20190821T212819Z" creationid="Kos Ivantsov" creationdate="20190821T212819Z">
@@ -14292,6 +14348,22 @@ the server.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>This list is for more technical discussion of features and development, and is intended for OmegaT developers and other interested parties.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200321T130627Z" creationid="maximo" creationdate="20200321T130627Z">
+        <seg>Цей список використовується переважно для обговорення технічних питань, функціональності та розвитку програми. Він спрямований в першу чергу на розробників OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This mailing list is for localizers of OmegaT.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200321T130643Z" creationid="maximo" creationdate="20200321T130643Z">
+        <seg>Розсилка для тих, хто локалізує OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>This means that the source code of the OmegaT program is freely available, and that OmegaT's license gives its users considerable freedom in its use.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="lesia" changedate="20200321T125511Z" creationid="lesia" creationdate="20200321T125511Z">
@@ -14497,6 +14569,14 @@ su -c ./linux-install.sh</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20190504T130757Z" creationid="Kos Ivantsov" creationdate="20190504T130757Z">
         <seg>Загалом:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Tracking system</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200321T130656Z" creationid="maximo" creationdate="20200321T130656Z">
+        <seg>Системи відстеження помилок</seg>
       </tuv>
     </tu>
     <tu>
