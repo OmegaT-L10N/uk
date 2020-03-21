@@ -4825,8 +4825,8 @@ Buy another drink</seg>
       <tuv lang="EN">
         <seg>Documentation tracking system</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="maximo" changedate="20200321T130805Z" creationid="maximo" creationdate="20200321T130805Z">
-        <seg>Система відстеження документаціїґ</seg>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200321T131509Z" creationid="maximo" creationdate="20200321T130805Z">
+        <seg>Система відстеження документації</seg>
       </tuv>
     </tu>
     <tu>
@@ -10396,6 +10396,14 @@ to determine the source of the error and try again.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="maximo" changedate="20200321T131132Z" creationid="maximo" creationdate="20200321T130954Z">
         <seg>З усіх питань, що не були пояснені вище, звертайтесь до &lt;a0&gt;координатора проекту OmegaT&lt;/a0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Please contact the &lt;a3&gt;webmaster&lt;/a3&gt; for any point regarding specifically the website.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200321T131505Z" creationid="maximo" creationdate="20200321T131505Z">
+        <seg>З усіх питань, що стосуються конкретно вебсайту, пишіть &lt;a3&gt;його розробнику&lt;/a3&gt;.</seg>
       </tuv>
     </tu>
     <tu>
