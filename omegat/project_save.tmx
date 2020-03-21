@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.2_0_6a661c5e0" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="OmegaT-4.3.2" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -9622,6 +9622,14 @@ translation leveraging into updated projects.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>OmegaT is an open-source application and project.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="lesia" changedate="20200321T125221Z" creationid="lesia" creationdate="20200321T125221Z">
+        <seg>OmegaT - це доступний та відкритий проект.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>OmegaT is available under the terms of the GNU General Public License as
 published by the Free Software Foundation, either version 3 of the License, or
 (at your option) any later version.</seg>
@@ -13819,6 +13827,14 @@ in /lib/licenses/Licenses.txt.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The open-source philosophy</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="lesia" changedate="20200321T124717Z" creationid="lesia" creationdate="20200321T124717Z">
+        <seg>Філософія опен-сорсу</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The password cannot be empty.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20190808T131631Z" creationid="Kos Ivantsov" creationdate="20190808T131631Z">
@@ -14192,6 +14208,14 @@ the server.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20190420T125607Z" creationid="Kos Ivantsov" creationdate="20190420T125607Z">
         <seg>Так виглядатиме текст на екрані.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This means that the source code of the OmegaT program is freely available, and that OmegaT's license gives its users considerable freedom in its use.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="lesia" changedate="20200321T125511Z" creationid="lesia" creationdate="20200321T125511Z">
+        <seg>Це означає, що вихідний код програми OmegaT доступний всім, а ліцензія OmegaT надає користувачам значну свободу під час роботи з ним.</seg>
       </tuv>
     </tu>
     <tu>
