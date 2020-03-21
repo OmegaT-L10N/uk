@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.2_0_6a661c5e0" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="OmegaT-4.3.2" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -13989,8 +13989,8 @@ in /lib/licenses/Licenses.txt.</seg>
       <tuv lang="EN">
         <seg>The open-source philosophy</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="lesia" changedate="20200321T124717Z" creationid="lesia" creationdate="20200321T124717Z">
-        <seg>Філософія опен-сорсу</seg>
+      <tuv lang="UK-UA" changeid="lesia" changedate="20200321T130557Z" creationid="lesia" creationdate="20200321T124717Z">
+        <seg>Філософія open source</seg>
       </tuv>
     </tu>
     <tu>
@@ -14372,6 +14372,14 @@ the server.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>This is described as "free as in speech", in contrast to "free as in beer".</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="lesia" changedate="20200321T151332Z" creationid="lesia" creationdate="20200321T151332Z">
+        <seg>Отже, ви абсолютно вільні у користуванні програмою і можете змінювати вихідний код OmegaT на свій розсуд, а не лише безкоштовно користуватися функціями програми.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>This is the &lt;a0&gt;recommended support channel&lt;/a0&gt;, which users are strongly encouraged to join.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="maximo" changedate="20200321T130546Z" creationid="maximo" creationdate="20200321T130546Z">
@@ -14522,6 +14530,14 @@ the server.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20190812T103444Z" creationid="Kos Ivantsov" creationdate="20190812T103444Z">
         <seg>Для початку роботи у програмі OmegaT створіть проєкт, який буде містити усі файли, необхідні для перекладу: файли мовою оригіналу, файли пам’яті перекладів, файли глосаріїв, а згодом і перекладені файли.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To the open-source movement, the freedom that users have to change the program to suit their own needs is more important than the fact that they do not have to pay for it.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="lesia" changedate="20200321T130430Z" creationid="lesia" creationdate="20200321T130430Z">
+        <seg>Для руху open source ця свобода важливіша, ніж той факт, що програмне забезпечення безкоштовне.</seg>
       </tuv>
     </tu>
     <tu>
