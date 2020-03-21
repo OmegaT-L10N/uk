@@ -6327,6 +6327,14 @@ script provided (omegat.kaptn).</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>For example, there is nothing to stop a user writing their own user manual or a demonstration video for OmegaT, and if the project considers it remotely useful, it is likely to be made available to OmegaT's community of users.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="lesia" changedate="20200321T153849Z" creationid="lesia" creationdate="20200321T153849Z">
+        <seg>Наприклад, нічого не заважає користувачеві написати власну інструкцію або записати демонстраційне відео про те, як працювати в OmegaT, і якщо адміністрація проєкту вважатиме їх вдалими, то матеріал стане доступним спільноті користувачів OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>For support requests, use the &lt;a1&gt;recommended support channel&lt;/a1&gt;.&lt;br2/&gt;</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="maximo" changedate="20200321T131222Z" creationid="maximo" creationdate="20200321T131222Z">
