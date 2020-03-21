@@ -7416,8 +7416,8 @@ click on that shortcut.</seg>
       <tuv lang="EN">
         <seg>Integration manager</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="maximo" changedate="20200321T124717Z" creationid="maximo" creationdate="20200321T124717Z">
-        <seg>Менеджер із інтеграції</seg>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200321T124828Z" creationid="maximo" creationdate="20200321T124717Z">
+        <seg>Відповідальний за інтеграції</seg>
       </tuv>
     </tu>
     <tu>
@@ -8335,6 +8335,14 @@ itself on the first run.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20190823T143621Z" creationid="Kos Ivantsov" creationdate="20190823T143621Z">
         <seg>Очищено місцевих робочих копій: {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Localization manager, user group owner</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200321T125212Z" creationid="maximo" creationdate="20200321T125212Z">
+        <seg>Відповідальний за локалізацію, менеджер групи підтримки користувачів</seg>
       </tuv>
     </tu>
     <tu>
