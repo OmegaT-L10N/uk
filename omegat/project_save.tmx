@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="OmegaT-4.3.2" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.2_0_6a661c5e0" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -8427,6 +8427,14 @@ itself on the first run.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Mailing lists</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200321T130242Z" creationid="maximo" creationdate="20200321T130242Z">
+        <seg>Розсилки</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Manually defined rules</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20190821T135324Z" creationid="Kos Ivantsov" creationdate="20190821T135314Z">
@@ -9576,6 +9584,14 @@ appropriate location such as the Applications folder.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20190823T141611Z" creationid="Kos Ivantsov" creationdate="20190823T141611Z">
         <seg>Мова інтерфейсу користувача OmegaT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>OmegaT also has the following mailing lists and trackers, which are hosted on Sourceforge:</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200321T130307Z" creationid="maximo" creationdate="20200321T130307Z">
+        <seg>OmegaT має такі списки розсилки, розміщені в Sourceforge:</seg>
       </tuv>
     </tu>
     <tu>
