@@ -2152,6 +2152,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Administration</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200321T130923Z" creationid="maximo" creationdate="20200321T130923Z">
+        <seg>Адміністрація</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>After the source files have loaded in the &lt;g3&gt;Editor&lt;/g3&gt; pane, you can close the &lt;g4&gt;Project Files&lt;/g4&gt; dialog.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20190812T105741Z" creationid="Kos Ivantsov" creationdate="20190812T105741Z">
@@ -5934,6 +5942,14 @@ Gossamer threads hold you back
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Facebook group</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200321T130915Z" creationid="maximo" creationdate="20200321T130915Z">
+        <seg>Група у Facebook</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Failed to back up preferences file.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20190701T114512Z" creationid="Kos Ivantsov" creationdate="20190701T114512Z">
@@ -6307,6 +6323,14 @@ script provided (omegat.kaptn).</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20190822T164003Z" creationid="Kos Ivantsov" creationdate="20190821T114311Z">
         <seg>Для отримання найкращих результатів установіть відповідні словники у розділі «Перевірка правопису» (меню «Налаштування» → «Параметри...»).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>For support requests, use the &lt;a1&gt;recommended support channel&lt;/a1&gt;.&lt;br2/&gt;</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200321T131222Z" creationid="maximo" creationdate="20200321T131222Z">
+        <seg>За підтримкою звертайтесь до &lt;a1&gt;основного каналу підтримки&lt;/a1&gt;.&lt;br2/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -10364,6 +10388,14 @@ to determine the source of the error and try again.</seg>
         <seg>Перегляньте файл журналу
 ({1}),
 щоб визначити причину виникнення помилки, а потім спробуйте знову.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Please contact the &lt;a0&gt;OmegaT project manager&lt;/a0&gt; regarding any point not covered above.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200321T131132Z" creationid="maximo" creationdate="20200321T130954Z">
+        <seg>З усіх питань, що не були пояснені вище, звертайтесь до &lt;a0&gt;координатора проекту OmegaT&lt;/a0&gt;</seg>
       </tuv>
     </tu>
     <tu>
