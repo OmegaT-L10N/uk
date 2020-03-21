@@ -7617,6 +7617,14 @@ itself on the first run.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Its purpose is to develop, distribute and support the use of OmegaT, an open-source translation memory software application.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200321T124527Z" creationid="maximo" creationdate="20200321T124527Z">
+        <seg>Наша мета - це розробка, розповсюдження та підтримка використання OmegaT, перекладацької програми з відкритим кодом, заснованої на принципі памʼяті перекладів.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>JAR files</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20190821T135259Z" creationid="Kos Ivantsov" creationdate="20190821T135259Z">
@@ -13579,6 +13587,14 @@ current folder will be used instead.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="maximo" changedate="20200321T123836Z" creationid="maximo" creationdate="20200321T123806Z">
         <seg>Проєкт OmegaT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The OmegaT project is maintained by an informal, international group of volunteers.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200321T124042Z" creationid="maximo" creationdate="20200321T124042Z">
+        <seg>Проєкт OmegaT підтримує неформальна інтернаціональна група ентузіастів.</seg>
       </tuv>
     </tu>
     <tu>
