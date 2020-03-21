@@ -9736,8 +9736,8 @@ translation leveraging into updated projects.</seg>
       <tuv lang="EN">
         <seg>OmegaT is an open-source application and project.</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="lesia" changedate="20200321T125221Z" creationid="lesia" creationdate="20200321T125221Z">
-        <seg>OmegaT - це доступний та відкритий проект.</seg>
+      <tuv lang="UK-UA" changeid="lesia" changedate="20200321T151608Z" creationid="lesia" creationdate="20200321T125221Z">
+        <seg>OmegaT - це доступний та відкритий проєкт.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13815,6 +13815,14 @@ current folder will be used instead.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The OmegaT project philosophy</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="lesia" changedate="20200321T151615Z" creationid="lesia" creationdate="20200321T151603Z">
+        <seg>Як працює проєкт OmegaT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The PO filter threw an exception:</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20190701T155407Z" creationid="Kos Ivantsov" creationdate="20190701T155407Z">
@@ -13989,8 +13997,8 @@ in /lib/licenses/Licenses.txt.</seg>
       <tuv lang="EN">
         <seg>The open-source philosophy</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="lesia" changedate="20200321T130557Z" creationid="lesia" creationdate="20200321T124717Z">
-        <seg>Філософія open source</seg>
+      <tuv lang="UK-UA" changeid="lesia" changedate="20200321T151508Z" creationid="lesia" creationdate="20200321T124717Z">
+        <seg>Як працює open source</seg>
       </tuv>
     </tu>
     <tu>
