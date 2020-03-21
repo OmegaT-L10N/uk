@@ -6327,6 +6327,14 @@ script provided (omegat.kaptn).</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>For example, anyone is free to make changes to OmegaT's program code and to submit these changes to the development team.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="lesia" changedate="20200321T154329Z" creationid="lesia" creationdate="20200321T154329Z">
+        <seg>Наприклад, внести зміни в програмний код OmegaT і представити ці зміни команді розробників проекту може будь-хто.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>For example, there is nothing to stop a user writing their own user manual or a demonstration video for OmegaT, and if the project considers it remotely useful, it is likely to be made available to OmegaT's community of users.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="lesia" changedate="20200321T153849Z" creationid="lesia" creationdate="20200321T153849Z">
@@ -7250,6 +7258,14 @@ click on that shortcut.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20190516T182736Z" creationid="Kos Ivantsov" creationdate="20190516T182736Z">
         <seg>В &amp;оригіналі</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>In some areas, some degree of co-ordination is required.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="lesia" changedate="20200321T154240Z" creationid="lesia" creationdate="20200321T154240Z">
+        <seg>Проте інколи координація необхідна.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9955,6 +9971,14 @@ installed on your system.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20190815T134202Z" creationid="Kos Ivantsov" creationdate="20190814T103751Z">
         <seg>Лише якщо файл (X)HTML має &amp;оголошення про кодування</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Only if they are considered beneficial for OmegaT's users, however, will the development team include them in OmegaT.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="lesia" changedate="20200321T154414Z" creationid="lesia" creationdate="20200321T154414Z">
+        <seg>Але тільки якщо вони будуть визнані корисними для користувачів OmegaT, команда розробників включить їх до проекту.</seg>
       </tuv>
     </tu>
     <tu>
@@ -14384,6 +14408,14 @@ the server.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20190811T131142Z" creationid="Kos Ivantsov" creationdate="20190811T130909Z">
         <seg>Ця команда виконуватиметься щоразу після створення перекладених документів.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This ensures that the users' interests are protected, and has also resulted in OmegaT being awarded the &lt;a0&gt;Softpedia "100% FREE" guarantee&lt;/a0&gt;.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="lesia" changedate="20200321T161228Z" creationid="lesia" creationdate="20200321T161228Z">
+        <seg>Це гарантує захист інтересів користувачів, і саме за це OmegaT отримала нагороду &lt;a0&gt;Softpedia "100% FREE"&lt;/a0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
