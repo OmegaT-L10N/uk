@@ -3640,6 +3640,14 @@ Buy another drink</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Checks for language errors (style, grammar, etc.).</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="lesia" changedate="20200322T150627Z" creationid="lesia" creationdate="20200322T150627Z">
+        <seg>Перевіряє мовні помилки (граматичні, стилістичні та ін.).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Chinese</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20190422T210531Z" creationid="Kos Ivantsov" creationdate="20190422T210531Z">
@@ -5458,6 +5466,14 @@ Your help page not found</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20190517T152210Z" creationid="Kos Ivantsov" creationdate="20190517T152210Z">
         <seg>Активовано</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Enables external scripts to access OmegaT's functionality.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="lesia" changedate="20200322T150751Z" creationid="lesia" creationdate="20200322T150751Z">
+        <seg>Дає доступ до функціональності OmegaT зовнішнім скриптам.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8445,6 +8461,14 @@ itself on the first run.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20190821T140905Z" creationid="Kos Ivantsov" creationdate="20190821T140854Z">
         <seg>LanguageTool не працює з вашою мовою перекладу.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>LanguageTool plug-in</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="lesia" changedate="20200322T150535Z" creationid="lesia" creationdate="20200322T150535Z">
+        <seg>Плагін LanguageTool</seg>
       </tuv>
     </tu>
     <tu>
@@ -12748,6 +12772,14 @@ The scope of a search is by default the project and can be set to be any files l
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20190422T205226Z" creationid="Kos Ivantsov" creationdate="20190422T205226Z">
         <seg>Скрипти</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Scripting plug-in</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="lesia" changedate="20200322T150637Z" creationid="lesia" creationdate="20200322T150637Z">
+        <seg>Плагін Scripting</seg>
       </tuv>
     </tu>
     <tu>
