@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.2_0_6a661c5e0" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="OmegaT-4.3.2" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -7139,6 +7139,14 @@ Its winter has come</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>However, submission of an RFE does not mean that the desired feature or improvement will automatically be implemented.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="lesia" changedate="20200322T145002Z" creationid="lesia" creationdate="20200322T145002Z">
+        <seg>Проте подача RFE не означає, що бажана функція або удосконалення обов'язково будуть реалізовані.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Hyperlinks</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20190807T171248Z" creationid="Kos Ivantsov" creationdate="20190807T171248Z">
@@ -8687,6 +8695,14 @@ itself on the first run.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20190807T182626Z" creationid="Kos Ivantsov" creationdate="20190807T164927Z">
         <seg>Показувати списком</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Literally hundreds of RFEs have already been made, and many of them already implemented.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="lesia" changedate="20200322T144819Z" creationid="lesia" creationdate="20200322T144819Z">
+        <seg>Ми отримали сотні RFE, і багато з них вже впроваджені.</seg>
       </tuv>
     </tu>
     <tu>
