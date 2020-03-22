@@ -6947,6 +6947,14 @@ Its winter has come</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>How to translate Wordpress XLIFF files</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200322T113909Z" creationid="maximo" creationdate="20200322T113909Z">
+        <seg>Переклад XLIFF файлів Wordpress</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>However, if you made mistakes when you typed the formatting tags, your translated files might fail to open.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20190822T153947Z" creationid="Kos Ivantsov" creationdate="20190822T153947Z">
@@ -10930,16 +10938,24 @@ project without team functionality.</seg>
       <tuv lang="EN">
         <seg>Procedure for using OmegaT to localize Magento.</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="maximo" changedate="20200322T113756Z" creationid="maximo" creationdate="20200322T113756Z">
-        <seg>Як локалізувати Magento з використанням OmegaT.</seg>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200322T113807Z" creationid="maximo" creationdate="20200322T113756Z">
+        <seg>Як локалізувати Magento використовуючи OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Procedure for using OmegaT to localize XLIFF files exported from Wordpress.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200322T113959Z" creationid="maximo" creationdate="20200322T113959Z">
+        <seg>Як локалізувати файли XLIFF, що були експортовані з Wordpress використовуючи OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Procedure for using OmegaT to localize the NetBeans IDE.</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="maximo" changedate="20200322T113653Z" creationid="maximo" creationdate="20200322T113653Z">
-        <seg>Процедура локалізації IDE NetBeans з використанням OmegaT.</seg>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200322T113830Z" creationid="maximo" creationdate="20200322T113653Z">
+        <seg>Як локалізувати IDE NetBeans використовуючи OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
@@ -15010,6 +15026,14 @@ su -c ./linux-install.sh</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20190807T190922Z" creationid="Kos Ivantsov" creationdate="20190807T190922Z">
         <seg>Переклад проєкту</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Translating with Rainbow and OmegaT</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200322T125314Z" creationid="maximo" creationdate="20200322T125314Z">
+        <seg>Переклад з Rainbow і OmegaT</seg>
       </tuv>
     </tu>
     <tu>
