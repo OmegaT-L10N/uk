@@ -8422,6 +8422,14 @@ click on that shortcut.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>It can also be obtained using the git command:</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200322T164003Z" creationid="maximo" creationdate="20200322T164003Z">
+        <seg>Її також можна отримати за допомогою команди git:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>It can be found in the "docs" folder in your OmegaT program folder.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="maximo" changedate="20200322T112839Z" creationid="maximo" creationdate="20200322T112839Z">
@@ -8458,6 +8466,14 @@ click on that shortcut.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20190823T145957Z" creationid="Kos Ivantsov" creationdate="20190823T145957Z">
         <seg>Доволі часто виникає потреба шукати слова та словосполучення в оригіналі та в перекладі. Для цього у будь-який момент можна натиснути &lt;s0&gt;&lt;s1&gt;Ctrl+F&lt;/s1&gt;&lt;/s0&gt; і викликати вікно &lt;s2&gt;«Пошук тексту»&lt;/s2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>It is recommended for serious developers and testers only.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200322T163937Z" creationid="maximo" creationdate="20200322T163937Z">
+        <seg>Її рекомендується використовувати тільки розробникам та тестувальникам.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11534,6 +11550,14 @@ Vanishing like mist</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Periodic builds are available on Sourceforge.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200322T164028Z" creationid="maximo" creationdate="20200322T164028Z">
+        <seg>Щоденні збірки доступні на Sourceforge.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Pinpoint Align: Select corresponding cell</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20190821T212204Z" creationid="Kos Ivantsov" creationdate="20190821T212204Z">
@@ -14386,6 +14410,14 @@ The scope of a search is by default the project and can be set to be any files l
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Source code packages are not required by users and are intended for developers only.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200322T164111Z" creationid="maximo" creationdate="20200322T164111Z">
+        <seg>Кінцевим користувачам немає потреби працювати з пакетами вихідного коду. Вони призначені лише для розробників.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Source count</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20190821T222513Z" creationid="Kos Ivantsov" creationdate="20190821T222513Z">
@@ -15957,6 +15989,14 @@ You, victim of one</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20190822T153540Z" creationid="Kos Ivantsov" creationdate="20190822T153540Z">
         <seg>Текст теґів захищений, тому його неможливо змінити, проте у перекладі їх можна видаляти, вводити вручну або переставляти місцями.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>They can be found in the folders of the corresponding compiled versions.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200322T164202Z" creationid="maximo" creationdate="20200322T164202Z">
+        <seg>Їх можна знайти у внутрішніх директоріях відповідних скомпільованих версій.</seg>
       </tuv>
     </tu>
     <tu>
