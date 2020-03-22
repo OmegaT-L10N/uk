@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.2_0_6a661c5e0" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="OmegaT-4.3.2" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -1383,6 +1383,14 @@ To add files to the project, click on the Copy Files to Source Folder... button 
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20190807T184214Z" creationid="Kos Ivantsov" creationdate="20190807T184214Z">
         <seg>(Якщо використовується ключ API, поле пароля має залишатися пустим.)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>(Not to be confused with the "Text Export" feature, which also enables scripts to be used with OmegaT, but on a more basic level.)</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="lesia" changedate="20200322T151152Z" creationid="lesia" creationdate="20200322T150842Z">
+        <seg>(не слід плутати з функцією "Text Export", яка також запускає скрипти в OmegaT, але на більш базовому рівні).</seg>
       </tuv>
     </tu>
     <tu>
@@ -5472,8 +5480,8 @@ Your help page not found</seg>
       <tuv lang="EN">
         <seg>Enables external scripts to access OmegaT's functionality.</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="lesia" changedate="20200322T150751Z" creationid="lesia" creationdate="20200322T150751Z">
-        <seg>Дає доступ до функціональності OmegaT зовнішнім скриптам.</seg>
+      <tuv lang="UK-UA" changeid="lesia" changedate="20200322T151149Z" creationid="lesia" creationdate="20200322T150751Z">
+        <seg>Дає доступ до функціональності OmegaT зовнішнім скриптам </seg>
       </tuv>
     </tu>
     <tu>
@@ -10132,6 +10140,14 @@ appropriate location such as the Applications folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Okapi Filters Plugin</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="lesia" changedate="20200322T151249Z" creationid="lesia" creationdate="20200322T151249Z">
+        <seg>Плагін Okapi Filters</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>OmegaT</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20190419T171228Z" creationid="Kos Ivantsov" creationdate="20190419T171228Z">
@@ -11708,6 +11724,14 @@ project without team functionality.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20190807T185532Z" creationid="Kos Ivantsov" creationdate="20190807T185532Z">
         <seg>Служба</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Provides filters for handling further file formats, including Trados TTX.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="lesia" changedate="20200322T151406Z" creationid="lesia" creationdate="20200322T151406Z">
+        <seg>Дозволяє обробляти додаткові формати файлів, серед яких Trados TTX.</seg>
       </tuv>
     </tu>
     <tu>
