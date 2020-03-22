@@ -2815,6 +2815,14 @@ The TMX file will not be loaded.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>And when they find things that don't work, or deficiencies in the documentation, to tell us about them.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200322T180443Z" creationid="maximo" creationdate="20200322T180443Z">
+        <seg>І коли щось не працює, чи документація неправильна, повідомляти нам про ці недоліки.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Android Resources</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20190706T132545Z" creationid="Kos Ivantsov" creationdate="20190706T132545Z">
@@ -11623,6 +11631,14 @@ installed on your system.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>One of the most useful things OmegaT users can do is... to use OmegaT.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200322T180325Z" creationid="maximo" creationdate="20200322T180325Z">
+        <seg>Одна з найкорисніших задач, яку можуть виконувати користувачі OmegaT - це... користуватися OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>One reason for this is that the desired function may already have been implemented, or that there may be reasons why it cannot be implemented.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="lesia" changedate="20200322T131349Z" creationid="lesia" creationdate="20200322T131202Z">
@@ -12948,6 +12964,14 @@ project without team functionality.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20190820T192529Z" creationid="Kos Ivantsov" creationdate="20190820T192529Z">
         <seg>Проксі: імʼя користувача та пароль</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Publicity</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200322T180452Z" creationid="maximo" creationdate="20200322T180452Z">
+        <seg>Публічність</seg>
       </tuv>
     </tu>
     <tu>
@@ -15888,6 +15912,14 @@ The scope of a search is by default the project and can be set to be any files l
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20190807T184801Z" creationid="Kos Ivantsov" creationdate="20190807T184801Z">
         <seg>Перевірка</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Testing</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200322T180221Z" creationid="maximo" creationdate="20200322T180221Z">
+        <seg>Тестування</seg>
       </tuv>
     </tu>
     <tu>
