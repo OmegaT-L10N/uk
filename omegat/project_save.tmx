@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="OmegaT-4.3.2" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.2_0_6a661c5e0" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -8198,6 +8198,14 @@ click on that shortcut.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>It is a more recent version than the Standard version and includes new features not present in the latter.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200322T153443Z" creationid="maximo" creationdate="20200322T153443Z">
+        <seg>Ця версія новіша, ніж стандартна, у ній може бути новий функціонал.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>It is often useful to search for words and phrases in the source text and in your translation, so press &lt;k0&gt;Ctrl+F&lt;/k0&gt; for the &lt;g1&gt;Text Search&lt;/g1&gt; dialog at any time.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20190822T204421Z" creationid="Kos Ivantsov" creationdate="20190822T204421Z">
@@ -8773,6 +8781,14 @@ itself on the first run.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="maximo" changedate="20200322T145436Z" creationid="maximo" creationdate="20200322T145436Z">
         <seg>Остання версія</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Latest Version - {{site.data.versions.latest.name}}</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200322T153155Z" creationid="maximo" creationdate="20200322T153155Z">
+        <seg>Остання версія - {{site.data.versions.latest.name}}</seg>
       </tuv>
     </tu>
     <tu>
@@ -14731,6 +14747,14 @@ current folder will be used instead.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20190504T132714Z" creationid="Kos Ivantsov" creationdate="20190504T132714Z">
         <seg>У роботі фільтра пакетів ресурсів Java сталася помилка:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The Latest version requires Java {{site.data.versions.latest.java_version}}.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200322T153304Z" creationid="maximo" creationdate="20200322T153304Z">
+        <seg>Остання версія вимагає Java версії {{site.data.versions.latest.java_version}}.</seg>
       </tuv>
     </tu>
     <tu>
