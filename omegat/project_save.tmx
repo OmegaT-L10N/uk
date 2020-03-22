@@ -1642,6 +1642,14 @@ To add files to the project, click on the Copy Files to Source Folder... button 
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>...and around 30 other file formats</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200322T171544Z" creationid="maximo" creationdate="20200322T171544Z">
+        <seg>...та близько 30 інших форматів файлів</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>1 conflict</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20190821T114928Z" creationid="Kos Ivantsov" creationdate="20190821T114928Z">
@@ -9995,6 +10003,14 @@ itself on the first run.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>MediaWiki (Wikipedia)</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200322T171506Z" creationid="maximo" creationdate="20200322T171506Z">
+        <seg>MediaWiki (Вікіпедія)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Memor&amp;y</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20190516T182544Z" creationid="Kos Ivantsov" creationdate="20190516T182329Z">
@@ -10031,6 +10047,14 @@ itself on the first run.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20190807T184317Z" creationid="Kos Ivantsov" creationdate="20190807T184317Z">
         <seg>Ключ підписки до Microsoft Translator не доступний.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Microsoft Word, Excel, Power</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200322T171439Z" creationid="maximo" creationdate="20200322T171439Z">
+        <seg>Microsoft Word, Excel, PowerPoint</seg>
       </tuv>
     </tu>
     <tu>
@@ -11399,6 +11423,14 @@ installed on your system.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Open Document Format (LibreOffice, OpenOffice.org)</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200322T171452Z" creationid="maximo" creationdate="20200322T171452Z">
+        <seg>Формат Open Document (LibreOffice, OpenOffice.org)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Open MED Project...</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20190821T145417Z" creationid="Kos Ivantsov" creationdate="20190420T182338Z">
@@ -11878,6 +11910,14 @@ everything.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20190822T150632Z" creationid="Kos Ivantsov" creationdate="20190822T150632Z">
         <seg>Помістіть архів в будь-яку теку та розпакуйте його —</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Plain text</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200322T171521Z" creationid="maximo" creationdate="20200322T171521Z">
+        <seg>Простий текст</seg>
       </tuv>
     </tu>
     <tu>
@@ -17831,6 +17871,14 @@ on line {1}, column {2}.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>User glossaries with recognition of inflected forms</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200322T171354Z" creationid="maximo" creationdate="20200322T171354Z">
+        <seg>Користувацькі словники із підтримкою флективних мов</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>User group</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="maximo" changedate="20200321T125637Z" creationid="maximo" creationdate="20200321T125637Z">
@@ -18443,6 +18491,14 @@ Your page is not found</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Work with more than 30 file formats</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200322T171416Z" creationid="maximo" creationdate="20200322T171416Z">
+        <seg>Працює більш ніж із 30 форматами файлів</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Writeable Glossary File</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20190807T191355Z" creationid="Kos Ivantsov" creationdate="20190504T132910Z">
@@ -18527,6 +18583,14 @@ Your page is not found</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20190817T203743Z" creationid="Kos Ivantsov" creationdate="20190817T203743Z">
         <seg>Параметри фільтра XHTML</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>XHTML and HTML</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200322T171426Z" creationid="maximo" creationdate="20200322T171426Z">
+        <seg>XHTML та HTML</seg>
       </tuv>
     </tu>
     <tu>
