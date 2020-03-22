@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="OmegaT-4.3.2" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.2_0_6a661c5e0" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -3032,6 +3032,14 @@ Buy another drink</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Before proceeding</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200322T151652Z" creationid="maximo" creationdate="20200322T151652Z">
+        <seg>Перед тим, як іти далі</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Belazar</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20190807T183949Z" creationid="Kos Ivantsov" creationdate="20190422T215817Z">
@@ -5906,6 +5914,14 @@ No one hears your screams</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Even though this software is free, if you find OmegaT useful and would like to express your gratitude, you can make a donation on our Paypal account.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200322T152013Z" creationid="maximo" creationdate="20200322T152013Z">
+        <seg>OmegaT безкоштовна. Але якщо ви бачите користь від її існування, ви можете виразити свою вдячність пожертвою на наш акаунт Paypal.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Event: application shutdown</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20190820T172551Z" creationid="Kos Ivantsov" creationdate="20190820T172551Z">
@@ -7067,6 +7083,14 @@ script provided (omegat.kaptn).</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20190807T150222Z" creationid="Kos Ivantsov" creationdate="20190807T150222Z">
         <seg>Містить примітку</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Have you considered donating to OmegaT?</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200322T151714Z" creationid="maximo" creationdate="20200322T151714Z">
+        <seg>Чи не хочете ви підтримати OmegaT?</seg>
       </tuv>
     </tu>
     <tu>
