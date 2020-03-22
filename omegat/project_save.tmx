@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="OmegaT-4.3.2" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.2_0_6a661c5e0" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -1916,6 +1916,14 @@ The current setting is {0}MB;</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20190516T204932Z" creationid="Kos Ivantsov" creationdate="20190516T204932Z">
         <seg>&lt;r0&gt;Примітка:&lt;/r0&gt; На комп’ютерах Apple Mac замість клавіші &lt;k2&gt;Control&lt;/k2&gt; використовується клавіша &lt;k1&gt;Command&lt;/k1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;s0&gt;Linux users&lt;/s0&gt;: most Linux distributions are supplied with a Java Runtime Environment, but some open-source implementations do not work properly with OmegaT (although this may not be immediately apparent).</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200322T160657Z" creationid="maximo" creationdate="20200322T160657Z">
+        <seg>&lt;s0&gt;Користувачі Linux&lt;/s0&gt;: більшість дистрибутивів Linux постачаються із встановленим середовищем Java, але деякі його відкриті імплементації погано працюють із OmegaT (і це до того ж може бути помітно не одразу).</seg>
       </tuv>
     </tu>
     <tu>
@@ -7627,6 +7635,14 @@ their defaults as a result of the location change.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If you are confident that a suitable version of the JRE is already installed on your computer, you can download a version of OmegaT without the JRE.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200322T155631Z" creationid="maximo" creationdate="20200322T155631Z">
+        <seg>Якщо ви впевнені що на вашому комп'ютері вже є підходяща версія середовища Java, ви можете обрати варіант без JRE.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If you are confused about which version to download, you can use the &lt;a0&gt;Download selector&lt;/a0&gt;.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="maximo" changedate="20200322T135854Z" creationid="maximo" creationdate="20200322T135854Z">
@@ -7667,6 +7683,14 @@ their defaults as a result of the location change.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If you are unsure whether or not you have a suitable version of the JRE, select a version with JRE (or the Default version).</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200322T160340Z" creationid="maximo" creationdate="20200322T160340Z">
+        <seg>Якщо ви не впевнені, чи є у вас підходяще JRE, обирайте версію із JRE (або версію за замовченням).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If you are using an authenticated proxy, please enter here your user and password.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20190821T150205Z" creationid="Kos Ivantsov" creationdate="20190821T150205Z">
@@ -7697,6 +7721,14 @@ is to use Java Web Start.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20190822T210059Z" creationid="Kos Ivantsov" creationdate="20190822T210059Z">
         <seg>Якщо у вас вже встановлено середовище JRE, то найпростіший спосіб встановити OmegaT — це Java Web Start.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If you install the OmegaT version with JRE even though the JRE is already installed on your computer, OmegaT's JRE will be installed separately and will not conflict with it.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200322T160103Z" creationid="maximo" creationdate="20200322T160103Z">
+        <seg>Якщо ви встановите версію OmegaT із JRE, то навіть якщо у вас вже було встановлене середовище Java, нова його версія буде встановлена окремо і ніяк не буде впливати на стару, чи на програми, що її використовували.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7882,6 +7914,14 @@ click on that shortcut.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20190823T144751Z" creationid="Kos Ivantsov" creationdate="20190823T144751Z">
         <seg>У меню &lt;s0&gt;«Проєкт»&lt;/s0&gt; оберіть пункт &lt;s1&gt;«Новий…»&lt;/s1&gt; і введіть назву проєкту.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>In this case, do not select the Default version; select a different version (e.g. Standard or Latest), then select a version marked "Java not included".</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200322T155858Z" creationid="maximo" creationdate="20200322T155858Z">
+        <seg>У цьому випадку не обирайте версію за замовченням - оберіть іншу версію (наприклад, стандартну чи останню), а потім оберіть версію, позначену як "без JRE".</seg>
       </tuv>
     </tu>
     <tu>
@@ -8306,6 +8346,14 @@ click on that shortcut.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="maximo" changedate="20200322T145421Z" creationid="maximo" creationdate="20200322T145421Z">
         <seg>Якщо ви вперше користуєтесь OmegaT - обирайте цю версію.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>It is therefore always safe to install the version of OmegaT with JRE.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200322T160211Z" creationid="maximo" creationdate="20200322T160211Z">
+        <seg>Таким чином, ви завжди можете без сумнівів обирати версію OmegaT із JRE.</seg>
       </tuv>
     </tu>
     <tu>
@@ -15176,6 +15224,14 @@ instead.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20190808T093053Z" creationid="Kos Ivantsov" creationdate="20190808T093053Z">
         <seg>Для застосування цих змін потрібно перезавантажити проєкт</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The download will be faster, and the installation will require less space on your hard drive.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200322T155705Z" creationid="maximo" creationdate="20200322T155705Z">
+        <seg>Завантаження пройде швидше, і програма займе менше місця на диску.</seg>
       </tuv>
     </tu>
     <tu>
