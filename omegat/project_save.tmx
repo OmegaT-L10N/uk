@@ -14759,6 +14759,14 @@ current folder will be used instead.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The Latest version will usually be reasonably stable and usable, but may have some bugs.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200322T153839Z" creationid="maximo" creationdate="20200322T153839Z">
+        <seg>Остання версія зазвичай достатньо надійна, але все ж можливі непередбачувані ситуації.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The Moodle PHP filter threw an exception:</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20190701T155732Z" creationid="Kos Ivantsov" creationdate="20190701T155732Z">
