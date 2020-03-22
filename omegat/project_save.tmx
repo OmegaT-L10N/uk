@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="OmegaT-4.3.2" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.2_0_6a661c5e0" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -8142,6 +8142,14 @@ click on that shortcut.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>It has usually been in use for some time and is therefore proven.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200322T152747Z" creationid="maximo" creationdate="20200322T152747Z">
+        <seg>Ця версія перевірена, як правило, нею вже деякий час користувались люди.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>It is often useful to search for words and phrases in the source text and in your translation, so press &lt;k0&gt;Ctrl+F&lt;/k0&gt; for the &lt;g1&gt;Text Search&lt;/g1&gt; dialog at any time.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20190822T204421Z" creationid="Kos Ivantsov" creationdate="20190822T204421Z">
@@ -8261,6 +8269,14 @@ itself on the first run.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20190808T121809Z" creationid="Kos Ivantsov" creationdate="20190808T121809Z">
         <seg>Елементи</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Its documentation, at least in English, is usually reasonably up to date.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200322T152845Z" creationid="maximo" creationdate="20200322T152845Z">
+        <seg>Її документація, як мінімум, англійською мовою</seg>
       </tuv>
     </tu>
     <tu>
@@ -14002,6 +14018,14 @@ The scope of a search is by default the project and can be set to be any files l
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Standard Version - {{site.data.versions.standard.name}}</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200322T152135Z" creationid="maximo" creationdate="20200322T152135Z">
+        <seg>Стандартна версія - {{site.data.versions.standard.name}}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Start OmegaT again, download the team project, close OmegaT
 5.</seg>
       </tuv>
@@ -14699,6 +14723,14 @@ current folder will be used instead.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20190701T155407Z" creationid="Kos Ivantsov" creationdate="20190701T155407Z">
         <seg>Сталася помилка у роботі фільтра файлів PO:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The Standard version requires Java {{site.data.versions.standard.java_version}}.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200322T152230Z" creationid="maximo" creationdate="20200322T152230Z">
+        <seg>Стандартна версія вимагає Java {{site.data.versions.standard.java_version}}.</seg>
       </tuv>
     </tu>
     <tu>
@@ -16076,6 +16108,14 @@ Exact searches match the whole search string.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20190808T130100Z" creationid="Kos Ivantsov" creationdate="20190808T125802Z">
         <seg>URL-адреси</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>USD &lt;a0&gt;Donate&lt;/a0&gt;</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200322T152123Z" creationid="maximo" creationdate="20200322T152123Z">
+        <seg>USD &lt;a0&gt;Пожертвувати&lt;/a0&gt;</seg>
       </tuv>
     </tu>
     <tu>
