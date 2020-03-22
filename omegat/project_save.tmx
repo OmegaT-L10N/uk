@@ -1960,6 +1960,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;s0&gt;OmegaT&lt;/s0&gt; is available in many different versions in order to suit a range of user requirements.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200322T172131Z" creationid="maximo" creationdate="20200322T172131Z">
+        <seg>&lt;s0&gt;OmegaT&lt;/s0&gt; доступна у багатьох версіях, з метою</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;s1&gt;The benefit&lt;/s1&gt;: once launched, future updates of the Web Start version will be installed automatically on your computer.&lt;br2/&gt;</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="maximo" changedate="20200322T140856Z" creationid="maximo" creationdate="20200322T140856Z">
@@ -4181,6 +4189,14 @@ Buy another drink</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="maximo" changedate="20200322T165605Z" creationid="maximo" creationdate="20200322T165605Z">
         <seg>Сумісність</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Compatible with other translation memory applications (TMX, TTX, TXML, XLIFF, SDLXLIFF)</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200322T172023Z" creationid="maximo" creationdate="20200322T172023Z">
+        <seg>Сумісна із іншими програмами пам'яті перекладів (TMX, TTX, TXML, XLIFF, SDLXLIFF)</seg>
       </tuv>
     </tu>
     <tu>
@@ -8502,6 +8518,14 @@ click on that shortcut.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Integral spelling checker</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200322T171930Z" creationid="maximo" creationdate="20200322T171930Z">
+        <seg>Вбудована перевірка орфографії</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Integrates the Apertium machine translation functionality into OmegaT.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="lesia" changedate="20200322T151907Z" creationid="lesia" creationdate="20200322T151544Z">
@@ -8514,6 +8538,14 @@ click on that shortcut.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="maximo" changedate="20200321T124828Z" creationid="maximo" creationdate="20200321T124717Z">
         <seg>Відповідальний за інтеграції</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Interface to Google Translate</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200322T172037Z" creationid="maximo" creationdate="20200322T172037Z">
+        <seg>Інтерфейс до Google Translate</seg>
       </tuv>
     </tu>
     <tu>
@@ -10968,6 +11000,14 @@ appropriate location such as the Applications folder.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20190516T181211Z" creationid="Kos Ivantsov" creationdate="20190516T181211Z">
         <seg>Тека проєкту OmegaT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>OmegaT Screenshot</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200322T172051Z" creationid="maximo" creationdate="20200322T172051Z">
+        <seg>Як виглядає OmegaT</seg>
       </tuv>
     </tu>
     <tu>
