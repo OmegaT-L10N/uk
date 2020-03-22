@@ -1808,6 +1808,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;a2&gt;Libre Office&lt;/a2&gt;</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200322T202732Z" creationid="maximo" creationdate="20200322T202732Z">
+        <seg>&lt;a2&gt;LibreOffice&lt;/a2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;auto&gt;</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20190420T181125Z" creationid="Kos Ivantsov" creationdate="20190420T181125Z">
@@ -7241,8 +7249,8 @@ script provided (omegat.kaptn).</seg>
       <tuv lang="EN">
         <seg>Free (compatible) alternatives to Microsoft Office.</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="lesia" changedate="20200322T160640Z" creationid="lesia" creationdate="20200322T160640Z">
-        <seg>Альтернативні до Microsoft Office (сумісні) опен-сорс програми.</seg>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200322T202758Z" creationid="lesia" creationdate="20200322T160640Z">
+        <seg>Альтернативні до Microsoft Office (сумісні) open source програми.</seg>
       </tuv>
     </tu>
     <tu>
@@ -17006,8 +17014,8 @@ the server.</seg>
       <tuv lang="EN">
         <seg>This collection of scripts may be useful to scripters with a knowledge of tcl/tk.</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="lesia" changedate="20200322T154207Z" creationid="lesia" creationdate="20200322T154207Z">
-        <seg>Ці скрипти можуть бути корисними тим, хто знайомий з tcl/tk.</seg>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200322T202632Z" creationid="lesia" creationdate="20200322T154207Z">
+        <seg>Ці скрипти можуть бути корисними тим, хто знайомий з Tcl/Tk.</seg>
       </tuv>
     </tu>
     <tu>
@@ -18759,8 +18767,8 @@ trouble of selecting, obtaining and installing it.</seg>
       <tuv lang="EN">
         <seg>Website support can be scripted in Groovy.</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="lesia" changedate="20200322T152436Z" creationid="lesia" creationdate="20200322T152436Z">
-        <seg>Фукнція підтримується з допомогою скриптів Groovy.</seg>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200322T202530Z" creationid="lesia" creationdate="20200322T152436Z">
+        <seg>Функція підтримується за допомогою скриптів Groovy.</seg>
       </tuv>
     </tu>
     <tu>
