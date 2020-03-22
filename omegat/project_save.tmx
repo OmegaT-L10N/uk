@@ -5111,6 +5111,14 @@ Buy another drink</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Documentation, particularly of new features, will be less comprehensive than that of the Standard version.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200322T154029Z" creationid="maximo" creationdate="20200322T154029Z">
+        <seg>Документація, особливо що стосується нових функцій, буде менш детальною та консистентною.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>DokuWiki</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20190706T132600Z" creationid="Kos Ivantsov" creationdate="20190706T132600Z">
@@ -16780,6 +16788,14 @@ searchable without subscription:</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="lesia" changedate="20200321T153013Z" creationid="lesia" creationdate="20200321T152837Z">
         <seg>Програму можна безкоштовно завантажувати та використовувати для своїх потреб.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Users who already have some experience with OmegaT often prefer the Latest version.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200322T154121Z" creationid="maximo" creationdate="20200322T154121Z">
+        <seg>Користувачі, що мають досвід використання OmegaT часто надають перевагу останній версії.</seg>
       </tuv>
     </tu>
     <tu>
