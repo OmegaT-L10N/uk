@@ -3026,8 +3026,8 @@ Buy another drink</seg>
       <tuv lang="EN">
         <seg>By Susan Welsh (Open Document Format).</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="maximo" changedate="20200322T113301Z" creationid="maximo" creationdate="20200322T113301Z">
-        <seg>Автор Susan Welsh (Open Document Format).</seg>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200322T113503Z" creationid="maximo" creationdate="20200322T113301Z">
+        <seg>Автор Susan Welsh (формат Open Document).</seg>
       </tuv>
     </tu>
     <tu>
@@ -5966,6 +5966,14 @@ Gossamer threads hold you back
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>External documentation</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200322T113525Z" creationid="maximo" creationdate="20200322T113525Z">
+        <seg>Зовнішня документація</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Extracted comments:</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20190807T190358Z" creationid="Kos Ivantsov" creationdate="20190807T190358Z">
@@ -6931,6 +6939,14 @@ Its winter has come</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>How to translate Magento</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200322T113725Z" creationid="maximo" creationdate="20200322T113725Z">
+        <seg>Переклад Magento</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>However, if you made mistakes when you typed the formatting tags, your translated files might fail to open.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20190822T153947Z" creationid="Kos Ivantsov" creationdate="20190822T153947Z">
@@ -7394,6 +7410,14 @@ click on that shortcut.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20190820T172203Z" creationid="Kos Ivantsov" creationdate="20190820T172203Z">
         <seg>Інформація</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Information on procedures and features of OmegaT for advanced users which can be found on other sites.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200322T113538Z" creationid="maximo" creationdate="20200322T113538Z">
+        <seg>Інформація про методи та функції OmegaT для досвідчених користувачів, яку можна знайти на інших сайтах.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10900,6 +10924,22 @@ project without team functionality.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20190504T124333Z" creationid="Kos Ivantsov" creationdate="20190504T124333Z">
         <seg>Проблема під час завантаження файлу проєкту!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Procedure for using OmegaT to localize Magento.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200322T113756Z" creationid="maximo" creationdate="20200322T113756Z">
+        <seg>Як локалізувати Magento з використанням OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Procedure for using OmegaT to localize the NetBeans IDE.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200322T113653Z" creationid="maximo" creationdate="20200322T113653Z">
+        <seg>Процедура локалізації IDE NetBeans з використанням OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
@@ -14954,6 +14994,14 @@ su -c ./linux-install.sh</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20190420T143614Z" creationid="Kos Ivantsov" creationdate="20190420T132144Z">
         <seg>Кількість перекладених унікальних сегментів</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Translating NetBeans IDE</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200322T113719Z" creationid="maximo" creationdate="20200322T113607Z">
+        <seg>Переклад IDE NetBeans</seg>
       </tuv>
     </tu>
     <tu>
