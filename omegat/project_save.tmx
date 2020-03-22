@@ -2732,6 +2732,14 @@ may experience unexpected, but correct behaviour.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>As its name suggests, the "Latest" version of Omegat is more up to date.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200322T145457Z" creationid="maximo" creationdate="20200322T145457Z">
+        <seg>ЯкAs its name suggests, the "Latest" version of Omegat is more up to date.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>At the end of your translation, OmegaT exports three translation memories called &lt;c0&gt;level1&lt;/c0&gt;, &lt;c1&gt;level2&lt;/c1&gt; and &lt;c2&gt;omegat&lt;/c2&gt; to your project folder.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20190823T145935Z" creationid="Kos Ivantsov" creationdate="20190823T145635Z">
@@ -7990,6 +7998,14 @@ click on that shortcut.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>It is the recommended version for first-time users.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200322T145421Z" creationid="maximo" creationdate="20200322T145421Z">
+        <seg>Якщо ви вперше користуєтесь OmegaT - обирайте цю версію.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>It is used to mark your translations.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20190808T132542Z" creationid="Kos Ivantsov" creationdate="20190808T132542Z">
@@ -8493,6 +8509,14 @@ itself on the first run.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20190822T210307Z" creationid="Kos Ivantsov" creationdate="20190822T210307Z">
         <seg>Для подальших запусків не обов’язково бути під’єднаним до мережі.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Latest</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200322T145436Z" creationid="maximo" creationdate="20200322T145436Z">
+        <seg>Остання версія</seg>
       </tuv>
     </tu>
     <tu>
@@ -14289,8 +14313,8 @@ current folder will be used instead.</seg>
       <tuv lang="EN">
         <seg>The "Standard" version of OmegaT includes a full user manual (at least in English) and will usually have been tested for some time to eliminate any bugs.</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="maximo" changedate="20200322T145325Z" creationid="maximo" creationdate="20200322T145325Z">
-        <seg>Стандартна версія OmegaT включає в себе повноцінну інструкцію користувача (як мінімум, англійською), і її як правило деякий час тестували на предмет помилок.</seg>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200322T145525Z" creationid="maximo" creationdate="20200322T145325Z">
+        <seg>Стандартна версія OmegaT має повноцінну інструкцію користувача (як мінімум, англійською), і її як правило деякий час тестували на предмет помилок.</seg>
       </tuv>
     </tu>
     <tu>
