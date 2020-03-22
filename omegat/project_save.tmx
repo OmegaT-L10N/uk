@@ -7355,6 +7355,14 @@ their defaults as a result of the location change.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If you are unsure whether a suitable JRE is already installed on your system, you can still download and install an OmegaT version with JRE.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200322T142407Z" creationid="maximo" creationdate="20200322T142407Z">
+        <seg>Якщо ви не впевнені, чи маєте у своїй системі підходящу версію JRE, ви завжди можете завантажити і встановити версію OmegaT із власним JRE.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If you are using an authenticated proxy, please enter here your user and password.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20190821T150205Z" creationid="Kos Ivantsov" creationdate="20190821T150205Z">
