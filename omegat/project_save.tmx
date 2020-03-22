@@ -8030,8 +8030,8 @@ need not be entered.)</seg>
       <tuv lang="EN">
         <seg>If a suitable JRE is already installed on your Windows system, select "Without JRE".</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="maximo" changedate="20200322T141635Z" creationid="maximo" creationdate="20200322T141635Z">
-        <seg>Якщо підходяща версіяe JRE вже встановлена у вас на Windows, оберіть "Без JRE".</seg>
+      <tuv lang="UK-UA" changeid="lesia" changedate="20200322T213117Z" creationid="maximo" creationdate="20200322T141635Z">
+        <seg>Якщо потрібна версія JRE вже встановлена у вас на Windows, оберіть "Без JRE".</seg>
       </tuv>
     </tu>
     <tu>
@@ -8101,8 +8101,8 @@ their defaults as a result of the location change.</seg>
       <tuv lang="EN">
         <seg>If not, or if you are not sure, select "with JRE".</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="maximo" changedate="20200322T141709Z" creationid="maximo" creationdate="20200322T141709Z">
-        <seg>Якщо ні, або ви не впевнені, оберіть "Із JRE".</seg>
+      <tuv lang="UK-UA" changeid="lesia" changedate="20200322T213138Z" creationid="maximo" creationdate="20200322T141709Z">
+        <seg>Якщо ні, або ви не впевнені, оберіть "з JRE".</seg>
       </tuv>
     </tu>
     <tu>
@@ -14756,8 +14756,8 @@ The scope of a search is by default the project and can be set to be any files l
       <tuv lang="EN">
         <seg>Select whether to download OmegaT with or without the Java Runtime Environment (JRE) included.</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="maximo" changedate="20200322T142421Z" creationid="maximo" creationdate="20200322T141440Z">
-        <seg>Оберіть, чи завантажувати OmegaT із, чи без власної версії середовища Java (JRE).</seg>
+      <tuv lang="UK-UA" changeid="lesia" changedate="20200322T213058Z" creationid="maximo" creationdate="20200322T141440Z">
+        <seg>Оберіть, чи завантажувати OmegaT з власною версією середовища Java чи без неї (JRE).</seg>
       </tuv>
     </tu>
     <tu>
