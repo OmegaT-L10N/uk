@@ -1978,8 +1978,8 @@ The current setting is {0}MB;</seg>
       <tuv lang="EN">
         <seg>&lt;s0&gt;Linux users&lt;/s0&gt;: most Linux distributions are supplied with a Java Runtime Environment, but some open-source implementations do not work properly with OmegaT (although this may not be immediately apparent).</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="maximo" changedate="20200322T160657Z" creationid="maximo" creationdate="20200322T160657Z">
-        <seg>&lt;s0&gt;Користувачі Linux&lt;/s0&gt;: більшість дистрибутивів Linux постачаються із встановленим середовищем Java, але деякі його відкриті імплементації погано працюють із OmegaT (і це до того ж може бути помітно не одразу).</seg>
+      <tuv lang="UK-UA" changeid="lesia" changedate="20200322T214816Z" creationid="maximo" creationdate="20200322T160657Z">
+        <seg>&lt;s0&gt;Користувачам Linux&lt;/s0&gt;: більшість дистрибутивів Linux постачаються із встановленим середовищем Java, але деякі його відкриті імплементації погано працюють із OmegaT (і це до того ж може бути помітно не одразу).</seg>
       </tuv>
     </tu>
     <tu>
@@ -8197,8 +8197,8 @@ their defaults as a result of the location change.</seg>
       <tuv lang="EN">
         <seg>If you are unsure whether or not you have a suitable version of the JRE, select a version with JRE (or the Default version).</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="maximo" changedate="20200322T160340Z" creationid="maximo" creationdate="20200322T160340Z">
-        <seg>Якщо ви не впевнені, чи є у вас підходяще JRE, обирайте версію із JRE (або версію за замовченням).</seg>
+      <tuv lang="UK-UA" changeid="lesia" changedate="20200322T214751Z" creationid="maximo" creationdate="20200322T160340Z">
+        <seg>Якщо ви не впевнені, чи є у вас потрібне JRE, обирайте версію із JRE (або дефолтну версію).</seg>
       </tuv>
     </tu>
     <tu>
@@ -9933,8 +9933,8 @@ itself on the first run.</seg>
       <tuv lang="EN">
         <seg>Mac OS X has a feature called Gatekeeper that increases security by making it difficult to run unsigned programs.</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="maximo" changedate="20200322T161113Z" creationid="maximo" creationdate="20200322T161113Z">
-        <seg>Mac OS X має вбудовану програму Gatekeeper, що створює перешкоди для запуску непідписаних програм.</seg>
+      <tuv lang="UK-UA" changeid="lesia" changedate="20200322T214849Z" creationid="maximo" creationdate="20200322T161113Z">
+        <seg>Mac OS X має сервіс Gatekeeper, що створює перешкоди для запуску непідписаних програм.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11342,8 +11342,8 @@ appropriate location such as the Applications folder.</seg>
       <tuv lang="EN">
         <seg>OmegaT for Mac OS X is available in both signed and unsigned versions; they are functionally identical, but the signed version is preferred as it is recognized by the system as being published by a known developer.</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="maximo" changedate="20200322T161430Z" creationid="maximo" creationdate="20200322T161430Z">
-        <seg>OmegaT для Mac OS X доступна як у підписаному, так і непідписаному вигляді. Функціонально вони ідентичні, але підписану версію система розпізнає як таку, що була опублікована відомим розробником.</seg>
+      <tuv lang="UK-UA" changeid="lesia" changedate="20200322T214913Z" creationid="maximo" creationdate="20200322T161430Z">
+        <seg>OmegaT для Mac OS X доступна як у підписаному, так і в непідписаному вигляді. Функціонально вони ідентичні, але підписану версію система розпізнає як таку, що була опублікована відомим розробником.</seg>
       </tuv>
     </tu>
     <tu>
