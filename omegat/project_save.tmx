@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="OmegaT-4.3.2" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.2_0_6a661c5e0" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -7387,6 +7387,14 @@ their defaults as a result of the location change.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If you are sure that a suitable Java Runtime Environment is already installed on your computer at system level, you can select the option without JRE included.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200322T145117Z" creationid="maximo" creationdate="20200322T145117Z">
+        <seg>Якщо ви впевнені що на вашому комп'ютері вже є підходяща версія середовища Java, ви можете обрати варіант без JRE.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If you are unsure whether a suitable JRE is already installed on your system, you can still download and install an OmegaT version with JRE.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="maximo" changedate="20200322T142407Z" creationid="maximo" creationdate="20200322T142407Z">
@@ -13698,6 +13706,14 @@ The scope of a search is by default the project and can be set to be any files l
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Standard</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200322T145132Z" creationid="maximo" creationdate="20200322T145132Z">
+        <seg>Стандартна версія</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Start OmegaT again, download the team project, close OmegaT
 5.</seg>
       </tuv>
@@ -14271,6 +14287,14 @@ current folder will be used instead.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The "Standard" version of OmegaT includes a full user manual (at least in English) and will usually have been tested for some time to eliminate any bugs.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200322T145325Z" creationid="maximo" creationdate="20200322T145325Z">
+        <seg>Стандартна версія OmegaT включає в себе повноцінну інструкцію користувача (як мінімум, англійською), і її як правило деякий час тестували на предмет помилок.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The "batteries included" version of OmegaT, with its own Java Runtime Environment.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="maximo" changedate="20200322T144718Z" creationid="maximo" creationdate="20200322T144718Z">
@@ -14500,6 +14524,14 @@ But others await</seg>
         <seg>Сторінку шукав,
 А вона за межею.
 Інші досі тут.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The included JRE is the 64-bit version.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200322T144955Z" creationid="maximo" creationdate="20200322T144955Z">
+        <seg>JRE в пакеті 64-бітної версії.</seg>
       </tuv>
     </tu>
     <tu>
@@ -16703,6 +16735,14 @@ Your page is not found</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="maximo" changedate="20200322T144635Z" creationid="maximo" creationdate="20200322T144635Z">
         <seg>Із JRE</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Without JRE</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200322T145002Z" creationid="maximo" creationdate="20200322T145002Z">
+        <seg>Без JRE</seg>
       </tuv>
     </tu>
     <tu>
