@@ -1840,6 +1840,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;i1&gt;OmegaT can be installed on any operating system capable of running version 1.6 of the Java runtime environment.&lt;/i1&gt;</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200322T141329Z" creationid="maximo" creationdate="20200322T141329Z">
+        <seg>&lt;i1&gt;OmegaT можна встановити на будь-яку операційну систему, що може запустити Java версії 1.6.&lt;/i1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;name and path of the Java executable file&gt; -jar OmegaT.jar</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20190822T212959Z" creationid="Kos Ivantsov" creationdate="20190822T212959Z">
@@ -12958,6 +12966,14 @@ The scope of a search is by default the project and can be set to be any files l
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20190821T135256Z" creationid="Kos Ivantsov" creationdate="20190821T135256Z">
         <seg>Виберіть файл languagetool-server.jar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Select whether to download OmegaT with or without the Java Runtime Environment (JRE) included.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200322T141450Z" creationid="maximo" creationdate="20200322T141440Z">
+        <seg>Оберіть, чи завантажувати OmegaT із, чи без власного Java Runtime Environment (JRE).</seg>
       </tuv>
     </tu>
     <tu>
