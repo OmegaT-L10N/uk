@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="OmegaT-4.3.2" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.2_0_6a661c5e0" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -7292,6 +7292,14 @@ need not be entered.)</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If in doubt, select this option.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200322T144854Z" creationid="maximo" creationdate="20200322T144854Z">
+        <seg>Якщо сумніваєтесь - обирайте цей варіант.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If in doubt, select this version.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="maximo" changedate="20200322T140659Z" creationid="maximo" creationdate="20200322T140659Z">
@@ -14247,6 +14255,14 @@ current folder will be used instead.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The "batteries included" version of OmegaT, with its own Java Runtime Environment.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200322T144718Z" creationid="maximo" creationdate="20200322T144718Z">
+        <seg>Самодостатня версія OmegaT, із власним середовищем Java.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The &lt;c3&gt;level1&lt;/c3&gt; and &lt;c4&gt;level2&lt;/c4&gt; memories can be shared with users of other translation programs.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20190823T145638Z" creationid="Kos Ivantsov" creationdate="20190823T145638Z">
@@ -15080,6 +15096,14 @@ the server.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="maximo" changedate="20200322T144624Z" creationid="maximo" creationdate="20200322T144624Z">
         <seg>Ця версія JRE буде використовуватися лише OmegaT. Вона не буде ніяким чином впливати на ті версії JRE, що вже є у вашій системі, підміняти, чи видаляти їх. Це абсолютно безпечний варіант встановлення.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This version will take longer to download and will require more space on your hard drive, but you can be confident that it will run.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200322T144826Z" creationid="maximo" creationdate="20200322T144826Z">
+        <seg>Ця версія буде довше завантажуватись та займе більше місця на диску, але ви можете бути точно впевнені, що вона нормально запуститься.</seg>
       </tuv>
     </tu>
     <tu>
@@ -16647,6 +16671,22 @@ Your page is not found</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20190517T152315Z" creationid="Kos Ivantsov" creationdate="20190517T152315Z">
         <seg>Файли ресурсів Windows</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>With 64-bit JRE</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200322T144913Z" creationid="maximo" creationdate="20200322T144913Z">
+        <seg>Із 64-бітною версією JRE</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>With JRE</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200322T144635Z" creationid="maximo" creationdate="20200322T144635Z">
+        <seg>Із JRE</seg>
       </tuv>
     </tu>
     <tu>
