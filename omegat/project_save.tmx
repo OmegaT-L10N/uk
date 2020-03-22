@@ -7159,6 +7159,14 @@ script provided (omegat.kaptn).</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Has been tested on Linux.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="lesia" changedate="20200322T155109Z" creationid="lesia" creationdate="20200322T155109Z">
+        <seg>Протестована на Linux.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Has note</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20190807T150222Z" creationid="Kos Ivantsov" creationdate="20190807T150222Z">
@@ -10316,6 +10324,14 @@ appropriate location such as the Applications folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>ONline DIctionary LOokup TOol.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="lesia" changedate="20200322T155145Z" creationid="lesia" creationdate="20200322T155145Z">
+        <seg>Утиліта ONline DIctionary LOokup TOol для використання онлайн-словників.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>OVR</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20190516T165128Z" creationid="Kos Ivantsov" creationdate="20190516T165128Z">
@@ -12578,6 +12594,22 @@ These words: 'Page not found'</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="maximo" changedate="20200322T150149Z" creationid="maximo" creationdate="20200322T150149Z">
         <seg>Вимоги</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Requires Linux, w3m and tcl/tk (both generally supplied with Linux).</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="lesia" changedate="20200322T155229Z" creationid="lesia" creationdate="20200322T155229Z">
+        <seg>Вимагає Linux, w3m та tcl/tk (обидві програми, як правило, вже є на Linux).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Requires tcl/tk, Abiword and pdftotext.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="lesia" changedate="20200322T155058Z" creationid="lesia" creationdate="20200322T155058Z">
+        <seg>Вимагає tcl/tk, Abiword та pdftotext.</seg>
       </tuv>
     </tu>
     <tu>
