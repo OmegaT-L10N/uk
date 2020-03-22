@@ -4208,6 +4208,14 @@ Buy another drink</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Contributed by Marc Prior.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="lesia" changedate="20200322T154745Z" creationid="lesia" creationdate="20200322T154745Z">
+        <seg>Розробник: Marc Prior.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Contributions to the code are documented in /docs/contributors.txt.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20190822T214050Z" creationid="Kos Ivantsov" creationdate="20190822T214050Z">
@@ -11234,6 +11242,14 @@ everything.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Platform-independent; require tcl/tk.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="lesia" changedate="20200322T154631Z" creationid="lesia" creationdate="20200322T154631Z">
+        <seg>Для всіх платформ, потрібні Tcl/Tk.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Playlist of OmegaT videos</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="maximo" changedate="20200322T125426Z" creationid="maximo" creationdate="20200322T125426Z">
@@ -12566,6 +12582,14 @@ These words: 'Page not found'</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Requires tcl/tk.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="lesia" changedate="20200322T154734Z" creationid="lesia" creationdate="20200322T154734Z">
+        <seg>Вимагає tcl/tk.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>ResX</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20190820T123803Z" creationid="Kos Ivantsov" creationdate="20190422T210754Z">
@@ -13012,6 +13036,14 @@ The scope of a search is by default the project and can be set to be any files l
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20190807T213516Z" creationid="Kos Ivantsov" creationdate="20190807T213516Z">
         <seg>Результат скрипту</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Script for extracting text for translation from plain-text files (e.g. computer source code) for translation in OmegaT.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="lesia" changedate="20200322T154728Z" creationid="lesia" creationdate="20200322T154728Z">
+        <seg>Скрипт для вилучення тексту для перекладу з файлів plain text (наприклад, з вихідного коду) для перекладу в OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
@@ -14360,6 +14392,14 @@ The scope of a search is by default the project and can be set to be any files l
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20190421T152216Z" creationid="Kos Ivantsov" creationdate="20190421T151325Z">
         <seg>Теку з файлами &amp;пам’яті</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>TKount text counting utility.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="lesia" changedate="20200322T155030Z" creationid="lesia" creationdate="20200322T155030Z">
+        <seg>Утиліта для підрахунку слів.</seg>
       </tuv>
     </tu>
     <tu>
