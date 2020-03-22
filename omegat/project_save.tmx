@@ -14298,6 +14298,14 @@ The scope of a search is by default the project and can be set to be any files l
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Spelling dictionaries</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="lesia" changedate="20200322T160414Z" creationid="lesia" creationdate="20200322T160414Z">
+        <seg>Словники правопису</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Spelling errors(s)</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20190823T142328Z" creationid="Kos Ivantsov" creationdate="20190823T142328Z">
@@ -15637,6 +15645,22 @@ You, victim of one</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20190822T153540Z" creationid="Kos Ivantsov" creationdate="20190822T153540Z">
         <seg>Текст теґів захищений, тому його неможливо змінити, проте у перекладі їх можна видаляти, вводити вручну або переставляти місцями.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Third-party software</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="lesia" changedate="20200322T160308Z" creationid="lesia" creationdate="20200322T160308Z">
+        <seg>Сторонні ресурси</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Third-party software for use with OmegaT</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="lesia" changedate="20200322T160358Z" creationid="lesia" creationdate="20200322T160358Z">
+        <seg>Сторонні ресурси для використання з OmegaT</seg>
       </tuv>
     </tu>
     <tu>
