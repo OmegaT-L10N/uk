@@ -1,9 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.2_0_6a661c5e0" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="OmegaT-4.3.2" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
+    <tu>
+      <tuv lang="EN">
+        <seg>"Aligner" aligner utility</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="lesia" changedate="20200322T152905Z" creationid="lesia" creationdate="20200322T152905Z">
+        <seg>Вирівнювач "Aligner"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>"Bligner" aligner utility</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="lesia" changedate="20200322T153043Z" creationid="lesia" creationdate="20200322T153043Z">
+        <seg>Вирівнювач "Bligner"</seg>
+      </tuv>
+    </tu>
     <tu>
       <tuv lang="EN">
         <seg>#Files</seg>
@@ -4164,6 +4180,22 @@ Buy another drink</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20190821T212608Z" creationid="Kos Ivantsov" creationdate="20190821T212608Z">
         <seg>Продовжити?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Contributed by Didier Briel.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="lesia" changedate="20200322T153102Z" creationid="lesia" creationdate="20200322T153102Z">
+        <seg>Розробник: Didier Briel.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Contributed by Dmitri Gabinski.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="lesia" changedate="20200322T153025Z" creationid="lesia" creationdate="20200322T153025Z">
+        <seg>Розробник: Dmitri Gabinski.</seg>
       </tuv>
     </tu>
     <tu>
@@ -17183,6 +17215,22 @@ Your page is not found</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20190516T181003Z" creationid="Kos Ivantsov" creationdate="20190516T181003Z">
         <seg>Вказана тека для глосарія для запису не існує!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Written in Python.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="lesia" changedate="20200322T152953Z" creationid="lesia" creationdate="20200322T152953Z">
+        <seg>Написаний на Python.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Written in Python/Perl.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="lesia" changedate="20200322T153053Z" creationid="lesia" creationdate="20200322T153053Z">
+        <seg>Написаний на Python/Perl.</seg>
       </tuv>
     </tu>
     <tu>
