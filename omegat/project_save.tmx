@@ -6495,6 +6495,38 @@ script provided (omegat.kaptn).</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>For installation on Linux.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200322T141114Z" creationid="maximo" creationdate="20200322T141114Z">
+        <seg>Для встановлення на Linux.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>For installation on Mac OS X.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200322T141105Z" creationid="maximo" creationdate="20200322T141105Z">
+        <seg>Для встановлення на Mac OS X.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>For installation on Windows System.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200322T141054Z" creationid="maximo" creationdate="20200322T141054Z">
+        <seg>Для встановлення на Windows.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>For installation on other operating systems (such as FreeBSD and Solaris).&lt;br0/&gt;</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200322T141218Z" creationid="maximo" creationdate="20200322T141218Z">
+        <seg>Для встановлення на інші операційні системи (такі як FreeBSD та Solaris).&lt;br0/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>For support requests, use the &lt;a1&gt;recommended support channel&lt;/a1&gt;.&lt;br2/&gt;</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="maximo" changedate="20200321T131222Z" creationid="maximo" creationdate="20200321T131222Z">
@@ -10470,6 +10502,14 @@ installed on your system.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20190821T155835Z" creationid="Kos Ivantsov" creationdate="20190821T155835Z">
         <seg>Покинутий</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Other</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200322T141122Z" creationid="maximo" creationdate="20200322T141122Z">
+        <seg>Інші</seg>
       </tuv>
     </tu>
     <tu>
