@@ -10012,6 +10012,14 @@ appropriate location such as the Applications folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>OmegaT currently requires version 1.6 of the JRE or later.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200322T141952Z" creationid="maximo" creationdate="20200322T141952Z">
+        <seg>OmegaT вимагає JRE версії 1.6 чи більше.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>OmegaT does not have read and write permissions to this folder.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20190516T181405Z" creationid="Kos Ivantsov" creationdate="20190516T181405Z">
@@ -15050,6 +15058,14 @@ the server.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="maximo" changedate="20200322T112751Z" creationid="maximo" creationdate="20200322T112751Z">
         <seg>Для того, щоб запустити посібник в OmegaT, натисніть "Довідка" &gt; "Посібник користувача" або клавішу F1.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To check what version of the JRE, if any, is installed on your Linux system, open a console (command-line window) and type:</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200322T142132Z" creationid="maximo" creationdate="20200322T142132Z">
+        <seg>Щоб перевірити, яка у вас версія JRE, відкрийте консоль (вікно командного рядка) та напишіть:</seg>
       </tuv>
     </tu>
     <tu>
