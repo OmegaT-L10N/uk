@@ -3240,6 +3240,14 @@ Buy another drink</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>By Arno Peters and Mariëtte van Drunen (in Dutch).</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200322T165713Z" creationid="maximo" creationdate="20200322T165713Z">
+        <seg>Arno Peters та Mariëtte van Drunen (датською).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>By Marco Cevoli and Sergio Alasia.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="maximo" changedate="20200322T135438Z" creationid="maximo" creationdate="20200322T135438Z">
@@ -4081,6 +4089,14 @@ Buy another drink</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Compatibility</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200322T165605Z" creationid="maximo" creationdate="20200322T165605Z">
+        <seg>Сумісність</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Compress whitespace in translated document</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20190822T134832Z" creationid="Kos Ivantsov" creationdate="20190815T135815Z">
@@ -4169,6 +4185,14 @@ Buy another drink</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Connect</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200322T165501Z" creationid="maximo" creationdate="20200322T165501Z">
+        <seg>Зв'язок</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Connect to custom server instead of apertium.org</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20191016T084932Z" creationid="Kos Ivantsov" creationdate="20191016T084932Z">
@@ -4236,6 +4260,14 @@ Buy another drink</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="maximo" changedate="20200322T165420Z" creationid="maximo" creationdate="20200322T165420Z">
         <seg>Контактна інформація</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Contact and Support</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200322T165518Z" creationid="maximo" creationdate="20200322T165518Z">
+        <seg>Контакти та підтримка</seg>
       </tuv>
     </tu>
     <tu>
@@ -7515,6 +7547,14 @@ Its winter has come</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>How-To</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200322T165543Z" creationid="maximo" creationdate="20200322T165543Z">
+        <seg>Практичні вказівки How To</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>However, if you made mistakes when you typed the formatting tags, your translated files might fail to open.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20190822T153947Z" creationid="Kos Ivantsov" creationdate="20190822T153947Z">
@@ -8338,6 +8378,14 @@ click on that shortcut.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="maximo" changedate="20200321T124828Z" creationid="maximo" creationdate="20200321T124717Z">
         <seg>Відповідальний за інтеграції</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Introduction to OmegaT (2.5.0).</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200322T165653Z" creationid="maximo" creationdate="20200322T165653Z">
+        <seg>Вступ до OmegaT (2.5.0).</seg>
       </tuv>
     </tu>
     <tu>
@@ -9511,6 +9559,14 @@ itself on the first run.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="maximo" changedate="20200321T130242Z" creationid="maximo" creationdate="20200321T130242Z">
         <seg>Розсилки</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Manual</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200322T165538Z" creationid="maximo" creationdate="20200322T165538Z">
+        <seg>Інструкція користувача</seg>
       </tuv>
     </tu>
     <tu>
@@ -11466,6 +11522,14 @@ installed on your system.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Page Not Found</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200322T165513Z" creationid="maximo" creationdate="20200322T165513Z">
+        <seg>Сторінку не знайдено</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Page slips through fingers
 Pulse pounding hard and frantic
 Vanishing like mist</seg>
@@ -11602,6 +11666,14 @@ Vanishing like mist</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="maximo" changedate="20200322T164028Z" creationid="maximo" creationdate="20200322T164028Z">
         <seg>Щоденні збірки доступні на Sourceforge.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Philosophy</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200322T165532Z" creationid="maximo" creationdate="20200322T165532Z">
+        <seg>Філософія проєкту</seg>
       </tuv>
     </tu>
     <tu>
@@ -13078,6 +13150,14 @@ These words: 'Page not found'</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Resources</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200322T165426Z" creationid="maximo" creationdate="20200322T165426Z">
+        <seg>Додаткові ресурси для OmegaT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Restore</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20190807T100308Z" creationid="Kos Ivantsov" creationdate="20190807T100308Z">
@@ -13122,6 +13202,30 @@ These words: 'Page not found'</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20190817T205333Z" creationid="Kos Ivantsov" creationdate="20190817T205333Z">
         <seg>Отримання переліку тематичних областей...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Review of OmegaT 2.3.0.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200322T165730Z" creationid="maximo" creationdate="20200322T165730Z">
+        <seg>Огляд OmegaT 2.3.0.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Reviews</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200322T165551Z" creationid="maximo" creationdate="20200322T165551Z">
+        <seg>Огляди OmegaT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Reviews of OmegaT</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200322T165638Z" creationid="maximo" creationdate="20200322T165638Z">
+        <seg>Огляди OmegaT</seg>
       </tuv>
     </tu>
     <tu>
@@ -14844,6 +14948,14 @@ The scope of a search is by default the project and can be set to be any files l
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Support</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200322T165438Z" creationid="maximo" creationdate="20200322T165438Z">
+        <seg>Підтримка</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Supported Files</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20190817T215304Z" creationid="Kos Ivantsov" creationdate="20190817T215304Z">
@@ -15395,6 +15507,14 @@ current folder will be used instead.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20190701T155822Z" creationid="Kos Ivantsov" creationdate="20190701T155822Z">
         <seg>Сталася помилка у роботі фільтра файлів Mozilla DTD:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The OmegaT Project</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200322T165508Z" creationid="maximo" creationdate="20200322T165508Z">
+        <seg>Проєкт OmegaT</seg>
       </tuv>
     </tu>
     <tu>
