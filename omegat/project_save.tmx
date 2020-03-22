@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.2_0_6a661c5e0" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="OmegaT-4.3.2" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -1744,6 +1744,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;a0&gt;Sponsorship of development has already resulted in the addition of certain features.&lt;/a0&gt; If you are willing to finance the work of implementing your desired feature, please contact the development team privately for a quotation.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="lesia" changedate="20200322T145739Z" creationid="lesia" creationdate="20200322T145719Z">
+        <seg>&lt;a0&gt;Спонсорство з розробки вже посприяло впровадженню в проєкт деяких функцій.&lt;/a0&gt; Якщо ви готові фінансувати роботу з реалізації вашого запиту, будь ласка, зв'яжіться з командою розробників особисто.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;auto&gt;</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20190420T181125Z" creationid="Kos Ivantsov" creationdate="20190420T181125Z">
@@ -2736,6 +2744,14 @@ may experience unexpected, but correct behaviour.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="maximo" changedate="20200322T145457Z" creationid="maximo" creationdate="20200322T145457Z">
         <seg>ЯкAs its name suggests, the "Latest" version of Omegat is more up to date.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>As with free developments, however, the principle still applies that any changes to OmegaT must be beneficial to the application and its users.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="lesia" changedate="20200322T145919Z" creationid="lesia" creationdate="20200322T145919Z">
+        <seg>Однак, як і у випадку з безкоштовними розробками, будь-які зміни в OmegaT повинні бути корисними для програми та її користувачів.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7149,8 +7165,8 @@ Its winter has come</seg>
       <tuv lang="EN">
         <seg>However, submission of an RFE does not mean that the desired feature or improvement will automatically be implemented.</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="lesia" changedate="20200322T145002Z" creationid="lesia" creationdate="20200322T145002Z">
-        <seg>Проте подача RFE не означає, що бажана функція або удосконалення обов'язково будуть реалізовані.</seg>
+      <tuv lang="UK-UA" changeid="lesia" changedate="20200322T145043Z" creationid="lesia" creationdate="20200322T145002Z">
+        <seg>Проте подання RFE не означає, що бажана функція або удосконалення обов'язково будуть реалізовані.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8010,6 +8026,14 @@ click on that shortcut.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20190808T132542Z" creationid="Kos Ivantsov" creationdate="20190808T132542Z">
         <seg>Ним позначатимуться ваші переклади.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>It may also be possible for developments commissioned from external developers to be implemented within OmegaT.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="lesia" changedate="20200322T145824Z" creationid="lesia" creationdate="20200322T145824Z">
+        <seg>Також можлива імплементація в OmegaT певних зовнішніх розробок.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10355,6 +10379,14 @@ installed on your system.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20190808T090610Z" creationid="Kos Ivantsov" creationdate="20190808T090610Z">
         <seg>Доступна OmegaT версії {0}.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>OmegaT's developers, who are all volunteers, may be more willing to implement an RFE if the development work is funded by the requester.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="lesia" changedate="20200322T145551Z" creationid="lesia" creationdate="20200322T145551Z">
+        <seg>Всі програмісти OmegaT - волонтери і не отримують плати за свою роботу. Можливо, хтось із них з більшою готовністю візьметься за запит, якщо він буде оплачений.</seg>
       </tuv>
     </tu>
     <tu>
@@ -16657,6 +16689,14 @@ trouble of selecting, obtaining and installing it.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="lesia" changedate="20200321T154041Z" creationid="lesia" creationdate="20200321T154019Z">
         <seg>Щ стосується стандартних завдань, волонтерам, як правило, надається максимальна свобода при визначенні форми їх внеску в розвиток проєкту.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Whether or not it is adopted depends firstly upon whether the development team considers it beneficial to OmegaT, and secondly, upon whether one of the developers is willing to do the work of implementing it.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="lesia" changedate="20200322T145203Z" creationid="lesia" creationdate="20200322T145203Z">
+        <seg>Запит буде взято в роботу, якщо команда розробників вважатиме таке вдосконалення доцільним, а хтось із розробників захоче його реалізувати.</seg>
       </tuv>
     </tu>
     <tu>
