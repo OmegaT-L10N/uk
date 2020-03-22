@@ -1784,6 +1784,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;a0&gt;Documentation&lt;/a0&gt; is very important.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200322T175250Z" creationid="maximo" creationdate="20200322T175250Z">
+        <seg>&lt;a0&gt;Документація&lt;/a0&gt; надзвичайно важлива.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;a0&gt;Download&lt;/a0&gt; &lt;a1&gt;Get Started&lt;/a1&gt;</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="maximo" changedate="20200322T170812Z" creationid="maximo" creationdate="20200322T170812Z">
@@ -3200,6 +3208,14 @@ Buy another drink</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Below is a list of areas for which further volunteers would be more than welcome!</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200322T175216Z" creationid="maximo" creationdate="20200322T175216Z">
+        <seg>Далі перераховано області роботи, в яких дуже знадобився би вклад волонтерів.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Bidirectional control characters</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20190807T170657Z" creationid="Kos Ivantsov" creationdate="20190807T170657Z">
@@ -3324,6 +3340,14 @@ Buy another drink</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="maximo" changedate="20200321T130709Z" creationid="maximo" creationdate="20200321T130709Z">
         <seg>Помилки та запити щодо функціональності та документації обробляються на Sourceforge за допомогою поданих нижче систем відстеження.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>But programming isn't the only job needing to be done.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200322T175117Z" creationid="maximo" creationdate="20200322T175117Z">
+        <seg>Але не лише одне програмування треба робити.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5435,6 +5459,14 @@ Buy another drink</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="maximo" changedate="20200322T165412Z" creationid="maximo" creationdate="20200322T165412Z">
         <seg>Документація</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Documentation authoring</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200322T175228Z" creationid="maximo" creationdate="20200322T175228Z">
+        <seg>Написання документації</seg>
       </tuv>
     </tu>
     <tu>
@@ -12604,6 +12636,14 @@ project without team functionality.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="maximo" changedate="20200322T171137Z" creationid="maximo" creationdate="20200322T171137Z">
         <seg>Професійні функції</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Programming is certainly the most important function, and without programming, there is no program.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200322T175039Z" creationid="maximo" creationdate="20200322T175039Z">
+        <seg>Програмування - це, безумовно, найважливіша задача, оскільки без програмування просто не буде програми.</seg>
       </tuv>
     </tu>
     <tu>
