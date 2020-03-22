@@ -3426,8 +3426,8 @@ Buy another drink</seg>
       <tuv lang="EN">
         <seg>Certain program functions have however been commissioned by commercial sponsors who have then donated the features back to the community.</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="maximo" changedate="20200322T164602Z" creationid="maximo" creationdate="20200322T164602Z">
-        <seg> Certain program functions have however been commissioned by commercial sponsors who have then donated the features back to the community.</seg>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200322T164955Z" creationid="maximo" creationdate="20200322T164602Z">
+        <seg>Але деякі функції програми були розроблені комерційними установами, які згодом надали їх у загальне користування.</seg>
       </tuv>
     </tu>
     <tu>
@@ -16314,6 +16314,14 @@ the server.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20190821T151520Z" creationid="Kos Ivantsov" creationdate="20190821T151520Z">
         <seg>Для перетворення його у командний проєкт нового формату відкрийте його у графічному інтерфейсі OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To date, these sponsors are:</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200322T164805Z" creationid="maximo" creationdate="20200322T164805Z">
+        <seg>На сьогоднішній день це такі спонсори:</seg>
       </tuv>
     </tu>
     <tu>
