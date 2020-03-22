@@ -9304,6 +9304,14 @@ appropriate location such as the Applications folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>New users of OmegaT are encouraged to make any suggestions here.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="lesia" changedate="20200322T131122Z" creationid="lesia" creationdate="20200322T131122Z">
+        <seg>Якщо ви нещодавно почали користуватися програмою, ми просимо вас звертатися з пропозиціями саме до групи користувачів.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Next &amp;Translated Segment</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20190420T172424Z" creationid="Kos Ivantsov" creationdate="20190420T155049Z">
@@ -10083,6 +10091,14 @@ installed on your system.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20190823T145501Z" creationid="Kos Ivantsov" creationdate="20190823T145501Z">
         <seg>Переконавшись, що у перекладі відсутні помилки, пов’язані з теґами, натисніть &lt;s0&gt;&lt;s1&gt;Ctrl+D&lt;/s1&gt;&lt;/s0&gt; для створення перекладених файлів. Вони будуть створені у теці, призначеній для перекладних файлів (у типовій конфігурації — тека &lt;c2&gt;/target&lt;/c2&gt; всередині теки проєкту).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>One reason for this is that the desired function may already have been implemented, or that there may be reasons why it cannot be implemented.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="lesia" changedate="20200322T131202Z" creationid="lesia" creationdate="20200322T131202Z">
+        <seg>One reason for this is that the desired function may already have been implemented, or that there may be reasons why it cannot be implement</seg>
       </tuv>
     </tu>
     <tu>
