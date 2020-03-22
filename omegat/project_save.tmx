@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="OmegaT-4.3.2" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.2_0_6a661c5e0" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -6398,6 +6398,22 @@ Gossamer threads hold you back
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Files in Microsoft Office XML format can be translated directly in OmegaT.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200322T150624Z" creationid="maximo" creationdate="20200322T150624Z">
+        <seg>Файли у форматі Microsoft Office XML можна перекладати у OmegaT без додаткової конвертації.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Files in older MS Word, Excel and Powerpoint formats can be translated following conversion to the equivalent current Microsoft Office formats, or alternatively to the Office Open XML format, which can be done in OpenOffice.org or LibreOffice (also free).</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200322T150904Z" creationid="maximo" creationdate="20200322T150904Z">
+        <seg>Файли у старіших форматах MS Word, Excel та Powerpoint можна перекладати, попередньо сконвертувавши їх у відповідні сучасні формати Microsoft Office, або ж у формати Office Open XML. Це можна зробити за допомогою OpenOffice.org чи LibreOffice (також вільне програмне забезпечення).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Filter</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20190420T130857Z" creationid="Kos Ivantsov" creationdate="20190420T130857Z">
@@ -10224,6 +10240,14 @@ appropriate location such as the Applications folder.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="maximo" changedate="20200321T125740Z" creationid="maximo" creationdate="20200321T125740Z">
         <seg>OmegaT має активну багатомовну дружню групу підтримки користувачів.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>OmegaT has been successfully installed on Windows (all versions from 98 onwards), Macintosh OS X and Linux.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200322T150533Z" creationid="maximo" creationdate="20200322T150533Z">
+        <seg>Можливість встановлення OmegaT протестована на Windows (всіх версій починаючи з 98), Macintosh OS X та Linux.</seg>
       </tuv>
     </tu>
     <tu>
@@ -15386,6 +15410,14 @@ the server.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20190807T105017Z" creationid="Kos Ivantsov" creationdate="20190807T104833Z">
         <seg>Для налаштування того, в якому кодуванні фільтри оброблятимуть певні типи файлів, виберіть потрібний фільтр у переліку та натисніть «Редагувати».</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To obtain OpenOffice.org or LibreOffice, follow the link from "Third-party software" button on the left.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200322T151135Z" creationid="maximo" creationdate="20200322T151135Z">
+        <seg>Посилання на OpenOffice.org та LibreOffice можна знайти на сторінці "Додаткові ресурси для OmegaT".</seg>
       </tuv>
     </tu>
     <tu>
