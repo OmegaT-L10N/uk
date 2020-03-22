@@ -14124,6 +14124,14 @@ instead.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The first of these is the &lt;a0&gt;OmegaT user group&lt;/a0&gt;.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="lesia" changedate="20200322T130523Z" creationid="lesia" creationdate="20200322T130523Z">
+        <seg>Перший з них - &lt;a0&gt;група користувачів OmegaT&lt;/a0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The following options do not apply if "Compatibility with OmegaT 2.6" is checked</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20190805T104136Z" creationid="Kos Ivantsov" creationdate="20190805T104136Z">
@@ -14463,6 +14471,14 @@ in /lib/licenses/Licenses.txt.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20190823T143543Z" creationid="Kos Ivantsov" creationdate="20190823T143543Z">
         <seg>У теці {0} немає локальних робочих копій.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>There is however considerable scope within the project for users to suggest improvements and influence the course of future development.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="lesia" changedate="20200322T130807Z" creationid="lesia" creationdate="20200322T130807Z">
+        <seg>Але й користувачі можуть пропонувати потрібні їм зміни і впивати на розвиток програми. Для цього є кілька можливостей.</seg>
       </tuv>
     </tu>
     <tu>
