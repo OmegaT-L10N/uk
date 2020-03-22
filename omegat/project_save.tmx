@@ -2687,6 +2687,14 @@ The TMX file will not be loaded.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Apertium Plugin</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="lesia" changedate="20200322T151415Z" creationid="lesia" creationdate="20200322T151415Z">
+        <seg>Плагін Apertium</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Apply &amp;Fix</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20190807T185654Z" creationid="Kos Ivantsov" creationdate="20190807T185654Z">
@@ -7938,6 +7946,14 @@ click on that shortcut.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20190504T124309Z" creationid="Kos Ivantsov" creationdate="20190504T124309Z">
         <seg>Недостатньо дозволів для доступу до теки проєкту {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Integrates the Apertium machine translation functionality into OmegaT.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="lesia" changedate="20200322T151544Z" creationid="lesia" creationdate="20200322T151544Z">
+        <seg>Інтегрує в OmegaT функціональність машинного перекладу Apertium.</seg>
       </tuv>
     </tu>
     <tu>
