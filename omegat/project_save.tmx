@@ -1768,6 +1768,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;a0&gt;Download&lt;/a0&gt; &lt;a1&gt;Get Started&lt;/a1&gt;</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200322T170812Z" creationid="maximo" creationdate="20200322T170812Z">
+        <seg>&lt;a0&gt;Завантажити&lt;/a0&gt; &lt;a1&gt;Початок роботи&lt;/a1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;a0&gt;Sponsorship of development has already resulted in the addition of certain features.&lt;/a0&gt; If you are willing to finance the work of implementing your desired feature, please contact the development team privately for a quotation.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="lesia" changedate="20200322T145739Z" creationid="lesia" creationdate="20200322T145719Z">
@@ -1924,6 +1932,14 @@ The current setting is {0}MB;</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="maximo" changedate="20200322T160657Z" creationid="maximo" creationdate="20200322T160657Z">
         <seg>&lt;s0&gt;Користувачі Linux&lt;/s0&gt;: більшість дистрибутивів Linux постачаються із встановленим середовищем Java, але деякі його відкриті імплементації погано працюють із OmegaT (і це до того ж може бути помітно не одразу).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;s0&gt;OmegaT&lt;/s0&gt; is a free translation memory application that works on Windows, macOS, Linux...</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200322T170902Z" creationid="maximo" creationdate="20200322T170902Z">
+        <seg>&lt;s0&gt;OmegaT&lt;/s0&gt; — це безкоштовна програма з перекладацькою пам'яттю, розрахована на професійних перекладачів. Написана на Java.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7199,6 +7215,14 @@ script provided (omegat.kaptn).</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Get Started with OmegaT</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200322T170827Z" creationid="maximo" creationdate="20200322T170827Z">
+        <seg>Початок роботи із OmegaT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Git</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20190504T132255Z" creationid="Kos Ivantsov" creationdate="20190504T132255Z">
@@ -8618,6 +8642,14 @@ click on that shortcut.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="maximo" changedate="20200322T153443Z" creationid="maximo" creationdate="20200322T153443Z">
         <seg>Ця версія новіша, ніж стандартна, у ній може бути новий функціонал.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>It is a tool intended for professional translators.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200322T170940Z" creationid="maximo" creationdate="20200322T170940Z">
+        <seg>Це інструмент, що призначений для професійних перекладачів.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10860,6 +10892,14 @@ appropriate location such as the Applications folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>OmegaT &lt;s0&gt;the free translation memory tool&lt;/s0&gt;</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200322T170751Z" creationid="maximo" creationdate="20200322T170751Z">
+        <seg>OmegaT &lt;s0&gt;безкоштовна програма для перекладу&lt;/s0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>OmegaT Javadoc...</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20190807T190314Z" creationid="Kos Ivantsov" creationdate="20190807T190314Z">
@@ -11096,6 +11136,22 @@ to be launched.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20190424T213354Z" creationid="Kos Ivantsov" creationdate="20190424T213354Z">
         <seg>Ліцензія OmegaT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>OmegaT on Wikipedia</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200322T170628Z" creationid="maximo" creationdate="20200322T170628Z">
+        <seg>OmegaT на Wikipedia</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>OmegaT on Wikipedia &lt;s0&gt;25 languages&lt;/s0&gt;</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200322T170637Z" creationid="maximo" creationdate="20200322T170637Z">
+        <seg>OmegaT на Wikipedia &lt;s0&gt;25 мов&lt;/s0&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -17934,6 +17990,14 @@ searchable without subscription:</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="maximo" changedate="20200322T135314Z" creationid="maximo" creationdate="20200322T135314Z">
         <seg>Відео 3</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Video by &lt;a0&gt;CATguruEN&lt;/a0&gt; (Dominique Pivard)</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200322T170836Z" creationid="maximo" creationdate="20200322T170836Z">
+        <seg>Відео &lt;a0&gt;CATguruEN&lt;/a0&gt; (Dominique Pivard)</seg>
       </tuv>
     </tu>
     <tu>
