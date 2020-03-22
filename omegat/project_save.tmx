@@ -10273,8 +10273,8 @@ installed on your system.</seg>
       <tuv lang="EN">
         <seg>OmegaT will usually run on any Linux system on which a suitable version of the Java Runtime Environment (JRE) can be be installed.</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="maximo" changedate="20200322T141900Z" creationid="maximo" creationdate="20200322T141900Z">
-        <seg>Як правило, OmegaT працює на будь-якій версії Linux, де встановлена підходяща версія Java (JRE).</seg>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200322T142444Z" creationid="maximo" creationdate="20200322T141900Z">
+        <seg>Як правило, OmegaT працює на будь-якій версії Linux, де встановлена підходяща версія середовища Java (JRE).</seg>
       </tuv>
     </tu>
     <tu>
@@ -13012,8 +13012,8 @@ The scope of a search is by default the project and can be set to be any files l
       <tuv lang="EN">
         <seg>Select whether to download OmegaT with or without the Java Runtime Environment (JRE) included.</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="maximo" changedate="20200322T141531Z" creationid="maximo" creationdate="20200322T141440Z">
-        <seg>Оберіть, чи завантажувати OmegaT із, чи без власної версії Java (JRE).</seg>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200322T142421Z" creationid="maximo" creationdate="20200322T141440Z">
+        <seg>Оберіть, чи завантажувати OmegaT із, чи без власної версії середовища Java (JRE).</seg>
       </tuv>
     </tu>
     <tu>
@@ -15032,6 +15032,14 @@ the server.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20190823T143652Z" creationid="Kos Ivantsov" creationdate="20190823T143652Z">
         <seg>Скрипт призначений для OmegaT версії 3.6 або вище.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This version of the JRE will only be used locally for OmegaT, will not conflict with, override or uninstall any other JRE installations, and is therefore safe to use.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200322T144624Z" creationid="maximo" creationdate="20200322T144624Z">
+        <seg>Ця версія JRE буде використовуватися лише OmegaT. Вона не буде ніяким чином впливати на ті версії JRE, що вже є у вашій системі, підміняти, чи видаляти їх. Це абсолютно безпечний варіант встановлення.</seg>
       </tuv>
     </tu>
     <tu>
