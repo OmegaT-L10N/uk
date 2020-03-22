@@ -9003,6 +9003,14 @@ itself on the first run.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Linux binary version of Toxic.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="lesia" changedate="20200322T154549Z" creationid="lesia" creationdate="20200322T154454Z">
+        <seg>Скомпільований файл Toxic для Linux.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>List View</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20190807T182626Z" creationid="Kos Ivantsov" creationdate="20190807T164927Z">
@@ -13008,6 +13016,14 @@ The scope of a search is by default the project and can be set to be any files l
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Script versions of Toxic.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="lesia" changedate="20200322T154625Z" creationid="lesia" creationdate="20200322T154625Z">
+        <seg>Версії скриптів Toxic.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Scriptin&amp;g...</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20190807T122416Z" creationid="Kos Ivantsov" creationdate="20190421T194520Z">
@@ -15829,10 +15845,34 @@ su -c ./linux-install.sh</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Toxic for Linux</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="lesia" changedate="20200322T154355Z" creationid="lesia" creationdate="20200322T154355Z">
+        <seg>Toxic для Linux</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Toxic for Windows</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="lesia" changedate="20200322T154328Z" creationid="lesia" creationdate="20200322T154328Z">
+        <seg>Toxic для Windows</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Toxic scripts</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="lesia" changedate="20200322T154532Z" creationid="lesia" creationdate="20200322T154532Z">
+        <seg>Скрипти Toxic</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Toxic was contributed by Marc Prior.</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="lesia" changedate="20200322T154308Z" creationid="lesia" creationdate="20200322T154308Z">
-        <seg>Автор Toxic: Marc Prior.</seg>
+      <tuv lang="UK-UA" changeid="lesia" changedate="20200322T154323Z" creationid="lesia" creationdate="20200322T154308Z">
+        <seg>Розробник Toxic: Marc Prior.</seg>
       </tuv>
     </tu>
     <tu>
@@ -17263,6 +17303,14 @@ Your page is not found</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20190517T152315Z" creationid="Kos Ivantsov" creationdate="20190517T152315Z">
         <seg>Файли ресурсів Windows</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Windows executable version of Toxic.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="lesia" changedate="20200322T154350Z" creationid="lesia" creationdate="20200322T154350Z">
+        <seg>Версія Toxic для Windows.</seg>
       </tuv>
     </tu>
     <tu>
