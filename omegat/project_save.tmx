@@ -1880,6 +1880,22 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;s1&gt;The benefit&lt;/s1&gt;: once launched, future updates of the Web Start version will be installed automatically on your computer.&lt;br2/&gt;</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200322T140856Z" creationid="maximo" creationdate="20200322T140856Z">
+        <seg>&lt;s1&gt;Переваги&lt;/s1&gt;: після запуску, оновлення для версії Web Start будуть встановлюватися автоматично.&lt;br2/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;s3&gt;The drawback&lt;/s3&gt;: at present, this version cannot be used in conjunction with plug-ins, so not all functions are available.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200322T141013Z" creationid="maximo" creationdate="20200322T141013Z">
+        <seg>&lt;s3&gt;Недоліки&lt;/s3&gt;: на даний момент, ця версія не підтримує плагіни, тому не всі функції OmegaT є доступними.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;trans-unit&gt; &amp;resname attribute when available</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20190805T103922Z" creationid="Kos Ivantsov" creationdate="20190803T190507Z">
@@ -14237,6 +14253,14 @@ Please try to correct the error and reload the project.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20190819T104614Z" creationid="Kos Ivantsov" creationdate="20190819T104614Z">
         <seg>URL-адреса має містити «{target}» (без лапок). Коли відкриватиметься вказана адреса, «{target}» буде замінено вибраним текстом.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The Web Start version is the "install and forget" version.&lt;br0/&gt;</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200322T140753Z" creationid="maximo" creationdate="20200322T140753Z">
+        <seg>Версія Web Start - тип встановлення "встановив і забув"&lt;br0/&gt;</seg>
       </tuv>
     </tu>
     <tu>
