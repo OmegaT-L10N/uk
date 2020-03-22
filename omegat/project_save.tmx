@@ -3248,6 +3248,30 @@ Buy another drink</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>By Asier Sarasua Garmendia (in Basque).</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200322T165904Z" creationid="maximo" creationdate="20200322T165904Z">
+        <seg>Asier Sarasua Garmendia (баскською).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>By Corinne McKay (in English).</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200322T170004Z" creationid="maximo" creationdate="20200322T170004Z">
+        <seg>Corinne McKay (англійською).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>By Leo Viëtor (in Dutch).</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200322T170026Z" creationid="maximo" creationdate="20200322T170026Z">
+        <seg>Leo Viëtor (датською).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>By Marco Cevoli and Sergio Alasia.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="maximo" changedate="20200322T135438Z" creationid="maximo" creationdate="20200322T135438Z">
@@ -3280,10 +3304,34 @@ Buy another drink</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>By Takashi Miyamoto (in Japanese).</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200322T165921Z" creationid="maximo" creationdate="20200322T165921Z">
+        <seg>Takashi Miyamoto (японською).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>By Vladimir Zhdanov (in Russian).</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="maximo" changedate="20200322T113354Z" creationid="maximo" creationdate="20200322T113354Z">
         <seg>Автор Володимир Жданов (російською мовою).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>By Václav Hejda (in Czech).</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200322T165825Z" creationid="maximo" creationdate="20200322T165825Z">
+        <seg>Václav Hejda (чеською).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>By Yutaka Kachi (in Japanese).</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200322T165844Z" creationid="maximo" creationdate="20200322T165844Z">
+        <seg>Yutaka Kachi (японською).</seg>
       </tuv>
     </tu>
     <tu>
@@ -4786,6 +4834,14 @@ Buy another drink</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20190817T204903Z" creationid="Kos Ivantsov" creationdate="20190817T204903Z">
         <seg>Опис</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Description of OmegaT (2008).</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200322T165851Z" creationid="maximo" creationdate="20200322T165851Z">
+        <seg>Опис OmegaT (2008).</seg>
       </tuv>
     </tu>
     <tu>
@@ -13206,10 +13262,42 @@ These words: 'Page not found'</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Review of OmegaT 1.6 RC5.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200322T165833Z" creationid="maximo" creationdate="20200322T165833Z">
+        <seg>Огляд OmegaT 1.6 RC5.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Review of OmegaT 1.6.1_1.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200322T165910Z" creationid="maximo" creationdate="20200322T165910Z">
+        <seg>Огляд OmegaT 1.6.1_1.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Review of OmegaT 2.3.0.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="maximo" changedate="20200322T165730Z" creationid="maximo" creationdate="20200322T165730Z">
         <seg>Огляд OmegaT 2.3.0.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Review of OmegaT, 11 April 2008.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200322T165951Z" creationid="maximo" creationdate="20200322T165951Z">
+        <seg>Огляд OmegaT, 11 квітня 2008.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Review of OmegaT, 2010.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200322T170016Z" creationid="maximo" creationdate="20200322T170016Z">
+        <seg>Огляд OmegaT, 2010.</seg>
       </tuv>
     </tu>
     <tu>
