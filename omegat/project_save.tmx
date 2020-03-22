@@ -10312,6 +10312,14 @@ published by the Free Software Foundation, either version 3 of the License, or
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>OmegaT is not particularly difficult to install or use, but it does require a willingness to read and follow the instructions.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200322T151328Z" creationid="maximo" creationdate="20200322T151328Z">
+        <seg>OmegaT не те щоб важко встановити чи використовувати, але для цього потрібне бажання читати і виконувати інструкції.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>OmegaT is refused access to the system property containing
 the name of your OS and/or the system property containing
 your home folder.</seg>
@@ -16491,6 +16499,14 @@ on line {1}, column {2}.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="maximo" changedate="20200322T112705Z" creationid="maximo" creationdate="20200322T112705Z">
         <seg>Посібники користувача</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>User requirements</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200322T151216Z" creationid="maximo" creationdate="20200322T151216Z">
+        <seg>Вимоги до користувача</seg>
       </tuv>
     </tu>
     <tu>
