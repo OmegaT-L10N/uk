@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="OmegaT-4.3.2" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.2_0_6a661c5e0" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -15747,6 +15747,14 @@ in /lib/licenses/Licenses.txt.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>There may be a delay in publishing signed versions.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200322T161515Z" creationid="maximo" creationdate="20200322T161515Z">
+        <seg>Підписані версії можуть виходити із затримкою.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>There was an error initializing LanguageTool.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20190821T140938Z" creationid="Kos Ivantsov" creationdate="20190821T140938Z">
@@ -17284,6 +17292,14 @@ searchable without subscription:</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="lesia" changedate="20200321T153013Z" creationid="lesia" creationdate="20200321T152837Z">
         <seg>Програму можна безкоштовно завантажувати та використовувати для своїх потреб.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Users in a hurry can use the unsigned version instead; if you have difficulty launching the app, see &lt;a0&gt;how to open an app from an unidentified developer&lt;/a0&gt;.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200322T161724Z" creationid="maximo" creationdate="20200322T161724Z">
+        <seg>Якщо ви поспішаєте, то можете використати і непідписану версію. Якщо у вас виникають труднощі із запуском програми, подивіться &lt;a0&gt;як запустити програму від невідомого розробника&lt;/a0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
