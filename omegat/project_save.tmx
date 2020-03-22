@@ -12226,6 +12226,14 @@ additional steps need to be taken.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Powerful tools</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200322T171600Z" creationid="maximo" creationdate="20200322T171600Z">
+        <seg>Потужні інструменти</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Pre-built binaries, are available as Nightly Builds.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="maximo" changedate="20200322T155116Z" creationid="maximo" creationdate="20200322T155116Z">
@@ -15236,6 +15244,14 @@ The scope of a search is by default the project and can be set to be any files l
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Support for right-to-left languages</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200322T171909Z" creationid="maximo" creationdate="20200322T171909Z">
+        <seg>Підтримка мов з письмом справа наліво</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Supported Files</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20190817T215304Z" creationid="Kos Ivantsov" creationdate="20190817T215304Z">
@@ -17492,6 +17508,14 @@ Exact searches match the whole search string.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20190517T141739Z" creationid="Kos Ivantsov" creationdate="20190517T141739Z">
         <seg>Неочікуваний символ {0} ({1})!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Unicode (UTF-8) support: can be used with non-Latin alphabets</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200322T171735Z" creationid="maximo" creationdate="20200322T171735Z">
+        <seg>Unicode (UTF-8): підтримка мов з нелатинськими алфавітами</seg>
       </tuv>
     </tu>
     <tu>
