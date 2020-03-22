@@ -10383,6 +10383,14 @@ installed on your system.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>OmegaT will run on any system on which the appropriate JRE (Java Runtime Environment) has been or can be installed.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200322T150253Z" creationid="maximo" creationdate="20200322T150253Z">
+        <seg>Як правило, OmegaT працює на будь-якій системі, де встановлена або може бути встановлена підходяща версія середовища Java (JRE).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>OmegaT will then copy the selected files to the &lt;c2&gt;/source/&lt;/c2&gt; subfolder of your newly created project.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20190823T145022Z" creationid="Kos Ivantsov" creationdate="20190823T145022Z">
@@ -12254,6 +12262,14 @@ These words: 'Page not found'</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Requirements</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200322T150149Z" creationid="maximo" creationdate="20200322T150149Z">
+        <seg>Вимоги</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>ResX</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20190820T123803Z" creationid="Kos Ivantsov" creationdate="20190422T210754Z">
@@ -14012,6 +14028,14 @@ The scope of a search is by default the project and can be set to be any files l
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>System requirements</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200322T150200Z" creationid="maximo" creationdate="20200322T150200Z">
+        <seg>Системні вимоги</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>T&amp;Ms</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20190421T152216Z" creationid="Kos Ivantsov" creationdate="20190421T151325Z">
@@ -14419,6 +14443,14 @@ current folder will be used instead.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="maximo" changedate="20200322T113135Z" creationid="maximo" creationdate="20200322T113135Z">
         <seg>Посібник користувача для OmegaT стандартної версії.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The JRE is now supplied with OmegaT and need not be obtained separately.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200322T150421Z" creationid="maximo" creationdate="20200322T150421Z">
+        <seg>OmegaT може бути завантажена із власним JRE, тож нема потреби встановлювати його окремо.</seg>
       </tuv>
     </tu>
     <tu>
