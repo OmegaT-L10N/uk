@@ -8181,8 +8181,8 @@ their defaults as a result of the location change.</seg>
       <tuv lang="EN">
         <seg>If you are sure that a suitable Java Runtime Environment is already installed on your computer at system level, you can select the option without JRE included.</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="maximo" changedate="20200322T145117Z" creationid="maximo" creationdate="20200322T145117Z">
-        <seg>Якщо ви впевнені що на вашому комп'ютері вже є підходяща версія середовища Java, ви можете обрати варіант без JRE.</seg>
+      <tuv lang="UK-UA" changeid="lesia" changedate="20200322T213556Z" creationid="maximo" creationdate="20200322T145117Z">
+        <seg>Якщо ви впевнені, що на вашому комп'ютері вже є підходяща версія середовища Java, ви можете обрати варіант без JRE.</seg>
       </tuv>
     </tu>
     <tu>
@@ -16137,8 +16137,8 @@ current folder will be used instead.</seg>
       <tuv lang="EN">
         <seg>The "Standard" version of OmegaT includes a full user manual (at least in English) and will usually have been tested for some time to eliminate any bugs.</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="maximo" changedate="20200322T145525Z" creationid="maximo" creationdate="20200322T145325Z">
-        <seg>Стандартна версія OmegaT має повноцінну інструкцію користувача (як мінімум, англійською), і її як правило деякий час тестували на предмет помилок.</seg>
+      <tuv lang="UK-UA" changeid="lesia" changedate="20200322T213758Z" creationid="maximo" creationdate="20200322T145325Z">
+        <seg>Стандартна версія OmegaT має повноцінну інструкцію користувача (щонайменше, англійською). До того ж, її як правило деякий час тестували на предмет помилок.</seg>
       </tuv>
     </tu>
     <tu>
