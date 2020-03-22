@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.2_0_6a661c5e0" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="OmegaT-4.3.2" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -4542,6 +4542,14 @@ Buy another drink</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Detailed technical discussion of changes is best conducted directly with OmegaT's developers.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="lesia" changedate="20200322T141726Z" creationid="lesia" creationdate="20200322T141726Z">
+        <seg>Детальне технічне обговорення змін найкраще проводити безпосередньо з розробниками OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Details unavailable</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20190821T184254Z" creationid="Kos Ivantsov" creationdate="20190821T114947Z">
@@ -6547,6 +6555,14 @@ script provided (omegat.kaptn).</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20190822T210120Z" creationid="Kos Ivantsov" creationdate="20190822T210120Z">
         <seg>Для цього стягніть указаний нижче файл і запустіть його:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>For this purpose, a dedicated &lt;a0&gt;developers' mailing list&lt;/a0&gt; exists.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="lesia" changedate="20200322T141804Z" creationid="lesia" creationdate="20200322T141804Z">
+        <seg>Для цього існує &lt;a0&gt;список розсилки для розробників&lt;/a0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10299,6 +10315,14 @@ installed on your system.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20190823T144755Z" creationid="Kos Ivantsov" creationdate="20190823T144755Z">
         <seg>OmegaT.css</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Once a user has formulated a proposed change or enhancement to OmegaT, a defined procedure exists for its submission to the development team for consideration.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="lesia" changedate="20200322T144557Z" creationid="lesia" creationdate="20200322T144557Z">
+        <seg>В OmegaT є спеціальна процедура, за якою розробники проєкту розглядають пропозиції про зміни чи вдосконалення, які надсилають користувачі.</seg>
       </tuv>
     </tu>
     <tu>
@@ -14555,6 +14579,14 @@ in /lib/licenses/Licenses.txt.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The procedure is termed an &lt;a0&gt;"RFE" (Request for Feature Enhancement) and is managed here&lt;/a0&gt;.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="lesia" changedate="20200322T144757Z" creationid="lesia" creationdate="20200322T144757Z">
+        <seg>Процедура називається &lt;a0&gt;"RFE" (Request for Feature Enhancement) і здійснюється тут&lt;/a0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The project cannot be verified</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20190820T195710Z" creationid="Kos Ivantsov" creationdate="20190820T195710Z">
@@ -14904,6 +14936,14 @@ the server.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20190811T131142Z" creationid="Kos Ivantsov" creationdate="20190811T130909Z">
         <seg>Ця команда виконуватиметься щоразу після створення перекладених документів.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This enables the numerous suggestions to be managed more easily.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="lesia" changedate="20200322T144638Z" creationid="lesia" creationdate="20200322T144638Z">
+        <seg>Це полегшує роботу з численними пропозиціями.</seg>
       </tuv>
     </tu>
     <tu>
