@@ -2112,6 +2112,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>About</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200322T165405Z" creationid="maximo" creationdate="20200322T165405Z">
+        <seg>Про програму</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>About OmegaT</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20190424T212539Z" creationid="Kos Ivantsov" creationdate="20190424T212539Z">
@@ -3426,8 +3434,8 @@ Buy another drink</seg>
       <tuv lang="EN">
         <seg>Certain program functions have however been commissioned by commercial sponsors who have then donated the features back to the community.</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="maximo" changedate="20200322T164955Z" creationid="maximo" creationdate="20200322T164602Z">
-        <seg>Але деякі функції програми були розроблені комерційними установами, які згодом надали їх у загальне користування.</seg>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200322T165206Z" creationid="maximo" creationdate="20200322T164602Z">
+        <seg>Але деякі функції програми були замовлені комерційними спонсорами, які згодом надали їх у загальне користування.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4220,6 +4228,14 @@ Buy another drink</seg>
 
 --source-pattern=&lt;шаблон&gt;
 		Білий список (у формі регулярного виразу) файлів для перекладу, які мають бути опрацьовані.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Contact</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200322T165420Z" creationid="maximo" creationdate="20200322T165420Z">
+        <seg>Контактна інформація</seg>
       </tuv>
     </tu>
     <tu>
@@ -5203,6 +5219,14 @@ Buy another drink</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20190422T205548Z" creationid="Kos Ivantsov" creationdate="20190422T205548Z">
         <seg>Закріпити</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Documentation</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200322T165412Z" creationid="maximo" creationdate="20200322T165412Z">
+        <seg>Документація</seg>
       </tuv>
     </tu>
     <tu>
@@ -10676,6 +10700,14 @@ appropriate location such as the Applications folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>OmegaT - The Free Translation Memory Tool</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200322T165342Z" creationid="maximo" creationdate="20200322T165342Z">
+        <seg>OmegaT — безкоштовна програма для перекладу</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>OmegaT Javadoc...</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20190807T190314Z" creationid="Kos Ivantsov" creationdate="20190807T190314Z">
@@ -10834,6 +10866,14 @@ translation leveraging into updated projects.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20190807T145658Z" creationid="Kos Ivantsov" creationdate="20190424T212911Z">
         <seg>OmegaT — це безкоштовна та відкрита мультиплатформенна програма для автоматизованого перекладу, яка підтримує нечіткі збіги, пам’ять перекладів, пошук за ключовими слова, глосарії та використання раніше виконаних перекладів в оновлених проєктах.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>OmegaT is a free open-source translation memory application for professional translators written in Java.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200322T165351Z" creationid="maximo" creationdate="20200322T165351Z">
+        <seg>OmegaT — це безкоштовна програма з перекладацькою пам'яттю, розрахована на професійних перекладачів. Написана на Java.</seg>
       </tuv>
     </tu>
     <tu>
@@ -16320,8 +16360,8 @@ the server.</seg>
       <tuv lang="EN">
         <seg>To date, these sponsors are:</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="maximo" changedate="20200322T164805Z" creationid="maximo" creationdate="20200322T164805Z">
-        <seg>На сьогоднішній день це такі спонсори:</seg>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200322T165223Z" creationid="maximo" creationdate="20200322T164805Z">
+        <seg>На сьогоднішній день цими спонсорами є:</seg>
       </tuv>
     </tu>
     <tu>
