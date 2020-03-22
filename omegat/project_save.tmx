@@ -8189,8 +8189,8 @@ their defaults as a result of the location change.</seg>
       <tuv lang="EN">
         <seg>If you are unsure whether a suitable JRE is already installed on your system, you can still download and install an OmegaT version with JRE.</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="maximo" changedate="20200322T142407Z" creationid="maximo" creationdate="20200322T142407Z">
-        <seg>Якщо ви не впевнені, чи маєте у своїй системі підходящу версію JRE, ви завжди можете завантажити і встановити версію OmegaT із власним JRE.</seg>
+      <tuv lang="UK-UA" changeid="lesia" changedate="20200322T213328Z" creationid="maximo" creationdate="20200322T142407Z">
+        <seg>Якщо ви не впевнені, чи маєте у своїй системі потрібну версію JRE, ви завжди можете завантажити і встановити версію OmegaT із власним JRE.</seg>
       </tuv>
     </tu>
     <tu>
@@ -16145,8 +16145,8 @@ current folder will be used instead.</seg>
       <tuv lang="EN">
         <seg>The "batteries included" version of OmegaT, with its own Java Runtime Environment.</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="maximo" changedate="20200322T144718Z" creationid="maximo" creationdate="20200322T144718Z">
-        <seg>Самодостатня версія OmegaT, із власним середовищем Java.</seg>
+      <tuv lang="UK-UA" changeid="lesia" changedate="20200322T213456Z" creationid="maximo" creationdate="20200322T144718Z">
+        <seg>Самодостатня версія OmegaT із власним середовищем Java.</seg>
       </tuv>
     </tu>
     <tu>
@@ -17166,8 +17166,8 @@ the server.</seg>
       <tuv lang="EN">
         <seg>This version of the JRE will only be used locally for OmegaT, will not conflict with, override or uninstall any other JRE installations, and is therefore safe to use.</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="maximo" changedate="20200322T144624Z" creationid="maximo" creationdate="20200322T144624Z">
-        <seg>Ця версія JRE буде використовуватися лише OmegaT. Вона не буде ніяким чином впливати на ті версії JRE, що вже є у вашій системі, підміняти, чи видаляти їх. Це абсолютно безпечний варіант встановлення.</seg>
+      <tuv lang="UK-UA" changeid="lesia" changedate="20200322T213347Z" creationid="maximo" creationdate="20200322T144624Z">
+        <seg>Ця версія JRE буде використовуватися лише OmegaT. Вона не буде ніяким чином впливати на ті версії JRE, що вже є у вашій системі, підміняти чи видаляти їх. Це абсолютно безпечний варіант встановлення.</seg>
       </tuv>
     </tu>
     <tu>
@@ -18957,8 +18957,8 @@ Your page is not found</seg>
       <tuv lang="EN">
         <seg>With JRE</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="maximo" changedate="20200322T144635Z" creationid="maximo" creationdate="20200322T144635Z">
-        <seg>Із JRE</seg>
+      <tuv lang="UK-UA" changeid="lesia" changedate="20200322T213422Z" creationid="maximo" creationdate="20200322T144635Z">
+        <seg>З JRE</seg>
       </tuv>
     </tu>
     <tu>
