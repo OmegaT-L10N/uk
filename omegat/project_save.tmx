@@ -5535,6 +5535,14 @@ Buy another drink</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Donations</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200322T180633Z" creationid="maximo" creationdate="20200322T180633Z">
+        <seg>Пожертви</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Done</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20190821T115100Z" creationid="Kos Ivantsov" creationdate="20190821T115100Z">
@@ -7663,6 +7671,14 @@ script provided (omegat.kaptn).</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Have you ever written an article for your professional association's journal?</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200322T180601Z" creationid="maximo" creationdate="20200322T180601Z">
+        <seg>Ви колись публікувались у журналах вашого професійного спрямування?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>He&amp;aders</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20190805T115701Z" creationid="Kos Ivantsov" creationdate="20190805T115650Z">
@@ -8067,6 +8083,14 @@ their defaults as a result of the location change.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If not, why not write an article on using OmegaT?</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200322T180625Z" creationid="maximo" creationdate="20200322T180625Z">
+        <seg>Якщо ні, то чому б не почати із написання статті про OmegaT?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If the filter has any options, you may change them by clicking Options.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20190822T171746Z" creationid="Kos Ivantsov" creationdate="20190807T105118Z">
@@ -8181,6 +8205,14 @@ is to use Java Web Start.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If you have found OmegaT useful and would like to express your gratitude by making a &lt;a0&gt;donation&lt;/a0&gt; on our Paypal account.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200322T180657Z" creationid="maximo" creationdate="20200322T180657Z">
+        <seg>Якщо ви бачите користь від OmegaT, ви можете виразити свою вдячність пожертвою на наш акаунт Paypal.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If you install the OmegaT version with JRE even though the JRE is already installed on your computer, OmegaT's JRE will be installed separately and will not conflict with it.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="maximo" changedate="20200322T160103Z" creationid="maximo" creationdate="20200322T160103Z">
@@ -8233,6 +8265,14 @@ is to use Java Web Start.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20190823T142203Z" creationid="Kos Ivantsov" creationdate="20190823T141748Z">
         <seg>Якщо ви бажаєте, щоб інтерфейс OmegaT був тією самою мовою, яка була обрана для програми встановлення, встановіть прапорець.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If you're a programmer and you happen to know Java, please check the documentation in the &lt;a0&gt;source code&lt;/a0&gt; under /docs_devel for information on how to get started.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200322T180933Z" creationid="maximo" creationdate="20200322T180933Z">
+        <seg>Якщо ви програміст та знаєте Java, то прочитати про те, як можна почати допомагати проєкту можна прочитати у &lt;a0&gt;вихідному коді&lt;/a0&gt; у директорії /docs_devel.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11420,6 +11460,14 @@ to be launched.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>OmegaT is written in Java.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200322T180720Z" creationid="maximo" creationdate="20200322T180720Z">
+        <seg>OmegaT написана на Java.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>OmegaT isn't just a product; it's an exciting project, and you can be part of it.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="maximo" changedate="20200322T174329Z" creationid="maximo" creationdate="20200322T174329Z">
@@ -12700,6 +12748,14 @@ project without team functionality.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="maximo" changedate="20200322T171137Z" creationid="maximo" creationdate="20200322T171137Z">
         <seg>Професійні функції</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Programming (Java)</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200322T180707Z" creationid="maximo" creationdate="20200322T180707Z">
+        <seg>Програмування (Java)</seg>
       </tuv>
     </tu>
     <tu>
