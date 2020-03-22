@@ -1345,10 +1345,26 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>(In English)</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200322T135735Z" creationid="maximo" creationdate="20200322T135735Z">
+        <seg>(англійською)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>(In Italian)</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="maximo" changedate="20200322T135431Z" creationid="maximo" creationdate="20200322T135431Z">
         <seg>(італійською)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>(In Russian)</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200322T135746Z" creationid="maximo" creationdate="20200322T135746Z">
+        <seg>(російською)</seg>
       </tuv>
     </tu>
     <tu>
@@ -2956,6 +2972,14 @@ Buy another drink</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20190807T170657Z" creationid="Kos Ivantsov" creationdate="20190807T170657Z">
         <seg>Символи керування напрямком тексту</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Blog pages on OmegaT.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200322T135725Z" creationid="maximo" creationdate="20200322T135725Z">
+        <seg>Блоги про OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7227,6 +7251,14 @@ their defaults as a result of the location change.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If you are confused about which version to download, you can use the &lt;a0&gt;Download selector&lt;/a0&gt;.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200322T135854Z" creationid="maximo" creationdate="20200322T135854Z">
+        <seg>Вибрати найзручнішу для вас версію можна за посиланням &lt;a0&gt;Download selector&lt;/a0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If you are interested in other settings of this dialog, you can return to it any time by pressing &lt;k0&gt;Ctrl+E.&lt;/k0&gt;</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20190812T104148Z" creationid="Kos Ivantsov" creationdate="20190812T104148Z">
@@ -7610,6 +7642,14 @@ click on that shortcut.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20190821T141943Z" creationid="Kos Ivantsov" creationdate="20190821T141943Z">
         <seg>Установити</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Installation Type</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200322T135913Z" creationid="maximo" creationdate="20200322T135913Z">
+        <seg>Тип встановлення</seg>
       </tuv>
     </tu>
     <tu>
@@ -8519,6 +8559,14 @@ itself on the first run.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20190822T135618Z" creationid="Kos Ivantsov" creationdate="20190803T185548Z">
         <seg>Посила&amp;ння (URL)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Links are provided below to the various versions of OmegaT.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200322T135817Z" creationid="maximo" creationdate="20200322T135817Z">
+        <seg>Щоб задовільнити потреби різних користувачів, OmegaT доступна у багатьох версіях.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10331,6 +10379,14 @@ installed on your system.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20190811T113021Z" creationid="Kos Ivantsov" creationdate="20190811T112949Z">
         <seg>Відкриття командного проєкту</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Operating System</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200322T135932Z" creationid="maximo" creationdate="20200322T135932Z">
+        <seg>Операційна система</seg>
       </tuv>
     </tu>
     <tu>
@@ -15037,6 +15093,14 @@ su -c ./linux-install.sh</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Traditional</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200322T135952Z" creationid="maximo" creationdate="20200322T135952Z">
+        <seg>Звичайний</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Training</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="maximo" changedate="20200322T135456Z" creationid="maximo" creationdate="20200322T135456Z">
@@ -16046,6 +16110,14 @@ searchable without subscription:</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="maximo" changedate="20200322T135638Z" creationid="maximo" creationdate="20200322T135638Z">
         <seg>Корпоративний блог компанії Velior&lt;br0/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Version</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200322T135921Z" creationid="maximo" creationdate="20200322T135921Z">
+        <seg>Версія</seg>
       </tuv>
     </tu>
     <tu>
@@ -17132,6 +17204,14 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20190822T134812Z" creationid="Kos Ivantsov" creationdate="20190422T210744Z">
         <seg>src (URL-адреси зобра&amp;жень)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>translation industry</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200322T135703Z" creationid="maximo" creationdate="20200322T135703Z">
+        <seg>індустрію перекладу</seg>
       </tuv>
     </tu>
     <tu>
