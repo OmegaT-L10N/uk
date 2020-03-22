@@ -12000,6 +12000,14 @@ project without team functionality.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Privacy information: OmegaT Java Web Start does not save any of your information to OmegaT's web servers.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200322T162815Z" creationid="maximo" creationdate="20200322T162815Z">
+        <seg>Обробка користувацьких даних: OmegaT Java Web Start не надсилає ніяку вашу інформацію на сервери OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Pro&amp;ject</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20190516T183031Z" creationid="Kos Ivantsov" creationdate="20190516T183031Z">
@@ -15389,6 +15397,14 @@ Please try to correct the error and reload the project.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="maximo" changedate="20200322T161805Z" creationid="maximo" creationdate="20200322T161805Z">
         <seg>Версія Web Start - це альтернативний спосіб встановлення OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The application runs on your machine.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200322T163536Z" creationid="maximo" creationdate="20200322T163536Z">
+        <seg>Програма працює на вашому комп'ютері.</seg>
       </tuv>
     </tu>
     <tu>
