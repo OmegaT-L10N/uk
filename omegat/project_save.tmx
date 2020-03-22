@@ -5543,6 +5543,14 @@ Buy another drink</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Download Selector</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200322T172646Z" creationid="maximo" creationdate="20200322T172646Z">
+        <seg>Вибір версії</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Download collection {0}</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20190821T222217Z" creationid="Kos Ivantsov" creationdate="20190817T205342Z">
@@ -11008,6 +11016,14 @@ appropriate location such as the Applications folder.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="maximo" changedate="20200322T170751Z" creationid="maximo" creationdate="20200322T170751Z">
         <seg>OmegaT &lt;s0&gt;безкоштовна програма для перекладу&lt;/s0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>OmegaT Download Selector</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200322T172816Z" creationid="maximo" creationdate="20200322T172816Z">
+        <seg>Вибір версії OmegaT</seg>
       </tuv>
     </tu>
     <tu>
@@ -16864,8 +16880,8 @@ the server.</seg>
       <tuv lang="EN">
         <seg>To find the version most suitable for you, follow the link below to the Download Selector.</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="maximo" changedate="20200322T172329Z" creationid="maximo" creationdate="20200322T172329Z">
-        <seg>Вибрати найзручнішу для вас версію можна за посиланням Download selector нижче.</seg>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200322T172701Z" creationid="maximo" creationdate="20200322T172329Z">
+        <seg>Вибрати найзручнішу для вас версію можна за посиланням "вибір версії" нижче.</seg>
       </tuv>
     </tu>
     <tu>
@@ -18011,6 +18027,14 @@ on line {1}, column {2}.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="maximo" changedate="20200322T112705Z" creationid="maximo" creationdate="20200322T112705Z">
         <seg>Посібники користувача</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>User portrait</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200322T172737Z" creationid="maximo" creationdate="20200322T172737Z">
+        <seg>Картинка користувача</seg>
       </tuv>
     </tu>
     <tu>
