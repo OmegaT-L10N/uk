@@ -3016,6 +3016,38 @@ Buy another drink</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>By Sheila Gomes (in Brasilian Portuguese).</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200322T113455Z" creationid="maximo" creationdate="20200322T113455Z">
+        <seg>Автор Sheila Gomes (бразильська португальська).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>By Susan Welsh (Open Document Format).</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200322T113301Z" creationid="maximo" creationdate="20200322T113301Z">
+        <seg>Автор Susan Welsh (Open Document Format).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>By Susan Welsh (PDF format).</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200322T113318Z" creationid="maximo" creationdate="20200322T113318Z">
+        <seg>Автор Susan Welsh (PDF).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>By Vladimir Zhdanov (in Russian).</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200322T113354Z" creationid="maximo" creationdate="20200322T113354Z">
+        <seg>Автор Володимир Жданов (російською мовою).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>C&amp;ase sensitive</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20190516T181924Z" creationid="Kos Ivantsov" creationdate="20190516T181924Z">
@@ -9748,6 +9780,14 @@ appropriate location such as the Applications folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>OmegaT for Beginners tutorial</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200322T113246Z" creationid="maximo" creationdate="20200322T113246Z">
+        <seg>OmegaT для початківців</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>OmegaT has a presence on various social networks.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="maximo" changedate="20200321T130903Z" creationid="maximo" creationdate="20200321T130845Z">
@@ -14008,6 +14048,14 @@ instead.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20190805T104136Z" creationid="Kos Ivantsov" creationdate="20190805T104136Z">
         <seg>Наступні параметри ігноруються, якщо вибрано пункт «Сумісність з OmegaT 2.6»</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The following tutorials are available online/for download:</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200322T113230Z" creationid="maximo" creationdate="20200322T113230Z">
+        <seg>Ці інструкції доступні онлайн та для завантаження:</seg>
       </tuv>
     </tu>
     <tu>
