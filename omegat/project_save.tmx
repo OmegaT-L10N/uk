@@ -9779,6 +9779,14 @@ itself on the first run.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Localization</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200322T175743Z" creationid="maximo" creationdate="20200322T175743Z">
+        <seg>Локалізація</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Localization manager, user group owner</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="maximo" changedate="20200321T125212Z" creationid="maximo" creationdate="20200321T125212Z">
@@ -15922,6 +15930,14 @@ The scope of a text replacement is the target segments of the project, whether t
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20190811T132353Z" creationid="Kos Ivantsov" creationdate="20190811T132353Z">
         <seg>Текст, який має бути видалено</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Thanks to the work of translators in the past, OmegaT's user interface and/or Help texts have been translated into several languages.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200322T175925Z" creationid="maximo" creationdate="20200322T175925Z">
+        <seg>Завдяки роботі перекладачів, на даний момент користувацький інтерфейс OmegaT та тексти допомоги користувачу вже були перекладені на кілька мов.</seg>
       </tuv>
     </tu>
     <tu>
