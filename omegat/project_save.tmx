@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.2_0_6a661c5e0" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="OmegaT-4.3.2" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -1984,6 +1984,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>A detailed tutorial is available.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="lesia" changedate="20200322T160944Z" creationid="lesia" creationdate="20200322T160944Z">
+        <seg>Є навчальний посібник.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>A note is just a comment regarding this set of source text and translation.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20190807T152121Z" creationid="Kos Ivantsov" creationdate="20190807T152121Z">
@@ -2651,6 +2659,14 @@ The TMX file will not be loaded.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="lesia" changedate="20200321T125937Z" creationid="lesia" creationdate="20200321T125937Z">
         <seg>Важливий аспект такої свободи: користувачі можуть змінювати код програми відповідно до своїх потреб.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>An intelligent command-line alignment tool for producing translation memory files from legacy texts and their translations.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="lesia" changedate="20200322T161449Z" creationid="lesia" creationdate="20200322T161434Z">
+        <seg>Зручна консольна програма-вирівнювач для створення файлів ТМ з текстів та їх перекладів.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4686,6 +4702,14 @@ Buy another drink</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Descriptions of and links to Samuel Murray's scripts/procedures.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="lesia" changedate="20200322T161637Z" creationid="lesia" creationdate="20200322T161637Z">
+        <seg>Описи скриптів та процедур, розроблених Самюелем Мюрреєм, та посилання на них.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Detail View</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20190821T115337Z" creationid="Kos Ivantsov" creationdate="20190821T115337Z">
@@ -5602,6 +5626,14 @@ Your help page not found</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20190517T152210Z" creationid="Kos Ivantsov" creationdate="20190517T152210Z">
         <seg>Активовано</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Enables a number of file formats to be translated which cannot be handled natively in OmegaT.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="lesia" changedate="20200322T160913Z" creationid="lesia" creationdate="20200322T160913Z">
+        <seg>Дозволяє працювати в OmegaT з низкою невластивих для програми форматів файлів.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6939,6 +6971,14 @@ script provided (omegat.kaptn).</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20190807T145039Z" creationid="Kos Ivantsov" creationdate="20190807T145039Z">
         <seg>Нечіткі збіги</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>GUI alignment tool for producing translation memory files from legacy texts and their translations.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="lesia" changedate="20200322T161146Z" creationid="lesia" creationdate="20200322T161146Z">
+        <seg>Вирівнювач текстів з графічним інтерфейсом. Дозволяє створювати з текстів та їх перекладів файли перекладацької пам'яті.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13138,6 +13178,14 @@ These words: 'Page not found'</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20190822T214642Z" creationid="Kos Ivantsov" creationdate="20190822T214642Z">
         <seg>Самуель Мюррей [Samuel Murray];</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Samuel Murray's scripts and procedures</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="lesia" changedate="20200322T161541Z" creationid="lesia" creationdate="20200322T161541Z">
+        <seg>Скрипти та процедури Самюеля Мюррея</seg>
       </tuv>
     </tu>
     <tu>
