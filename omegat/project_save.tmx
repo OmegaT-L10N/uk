@@ -14126,8 +14126,8 @@ instead.</seg>
       <tuv lang="EN">
         <seg>The first of these is the &lt;a0&gt;OmegaT user group&lt;/a0&gt;.</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="lesia" changedate="20200322T130523Z" creationid="lesia" creationdate="20200322T130523Z">
-        <seg>Перший з них - &lt;a0&gt;група користувачів OmegaT&lt;/a0&gt;.</seg>
+      <tuv lang="UK-UA" changeid="lesia" changedate="20200322T130815Z" creationid="lesia" creationdate="20200322T130523Z">
+        <seg>Перша з них - &lt;a0&gt;група користувачів OmegaT&lt;/a0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -14656,6 +14656,14 @@ the server.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="maximo" changedate="20200321T130546Z" creationid="maximo" creationdate="20200321T130546Z">
         <seg>Її рекомендується використовувати як &lt;a0&gt;основний канал підтримки&lt;/a0&gt;. Тому бажано, щоб ви до неї приєдналися.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This is the main focus of the OmegaT user community.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="lesia" changedate="20200322T131006Z" creationid="lesia" creationdate="20200322T131006Z">
+        <seg>Саме тут спільнота OmegaT обговорює більшість всіх важливих питань.</seg>
       </tuv>
     </tu>
     <tu>
