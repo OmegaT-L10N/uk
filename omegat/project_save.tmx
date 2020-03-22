@@ -8141,8 +8141,8 @@ their defaults as a result of the location change.</seg>
       <tuv lang="EN">
         <seg>If you are confident that a suitable version of the JRE is already installed on your computer, you can download a version of OmegaT without the JRE.</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="maximo" changedate="20200322T155631Z" creationid="maximo" creationdate="20200322T155631Z">
-        <seg>Якщо ви впевнені що на вашому комп'ютері вже є підходяща версія середовища Java, ви можете обрати варіант без JRE.</seg>
+      <tuv lang="UK-UA" changeid="lesia" changedate="20200322T214617Z" creationid="maximo" creationdate="20200322T155631Z">
+        <seg>Якщо ви впевнені, що на вашому комп'ютері вже є потрібна версія середовища Java, ви можете обрати варіант без JRE.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8472,8 +8472,8 @@ click on that shortcut.</seg>
       <tuv lang="EN">
         <seg>In this case, do not select the Default version; select a different version (e.g. Standard or Latest), then select a version marked "Java not included".</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="maximo" changedate="20200322T155858Z" creationid="maximo" creationdate="20200322T155858Z">
-        <seg>У цьому випадку не обирайте версію за замовченням - оберіть іншу версію (наприклад, стандартну чи останню), а потім оберіть версію, позначену як "без JRE".</seg>
+      <tuv lang="UK-UA" changeid="lesia" changedate="20200322T214714Z" creationid="maximo" creationdate="20200322T155858Z">
+        <seg>У цьому випадку не обирайте дефолтну версію - оберіть іншу версію (наприклад, стандартну чи останню), а потім оберіть версію, позначену як "без JRE".</seg>
       </tuv>
     </tu>
     <tu>
@@ -18466,8 +18466,8 @@ searchable without subscription:</seg>
       <tuv lang="EN">
         <seg>Users who already have some experience with OmegaT often prefer the Latest version.</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="maximo" changedate="20200322T154121Z" creationid="maximo" creationdate="20200322T154121Z">
-        <seg>Користувачі, що мають досвід використання OmegaT часто надають перевагу останній версії.</seg>
+      <tuv lang="UK-UA" changeid="lesia" changedate="20200322T214519Z" creationid="maximo" creationdate="20200322T154121Z">
+        <seg>Користувачі, що мають досвід використання OmegaT, часто надають перевагу останній версії.</seg>
       </tuv>
     </tu>
     <tu>
