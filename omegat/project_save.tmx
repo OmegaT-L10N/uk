@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="OmegaT-4.3.2" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.2_0_6a661c5e0" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -2380,6 +2380,14 @@ The current setting is {0}MB;</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20190807T183723Z" creationid="Kos Ivantsov" creationdate="20190807T183723Z">
         <seg>Альтернативна мова</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>An Instant Start Guide, which guides you through the main procedures and functions of OmegaT, is displayed in the OmegaT user interface by default.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200322T112810Z" creationid="maximo" creationdate="20200322T112810Z">
+        <seg>Рекомендації для швидкого початку роботи, які допоможуть ознайомитися з основними методами та функціями OmegaT, з'являються одразу після запуску програми.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7638,6 +7646,14 @@ click on that shortcut.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>It can be found in the "docs" folder in your OmegaT program folder.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200322T112839Z" creationid="maximo" creationdate="20200322T112839Z">
+        <seg>Він розташований у папці програми OmegaT "docs".</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>It is often useful to search for words and phrases in the source text and in your translation, so press &lt;k0&gt;Ctrl+F&lt;/k0&gt; for the &lt;g1&gt;Text Search&lt;/g1&gt; dialog at any time.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20190822T204421Z" creationid="Kos Ivantsov" creationdate="20190822T204421Z">
@@ -9799,6 +9815,14 @@ your home folder.</seg>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20190821T122633Z" creationid="Kos Ivantsov" creationdate="20190813T121833Z">
         <seg>OmegaT відмовлено у доступі до системних властивостей,
 що містять імʼя ОС та розташування домашньої теки.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>OmegaT is supplied with a comprehensive user manual.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200322T112736Z" creationid="maximo" creationdate="20200322T112736Z">
+        <seg>В OmegaT інтегрований повний посібник користувача.</seg>
       </tuv>
     </tu>
     <tu>
@@ -14558,6 +14582,14 @@ the server.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>To call up the manual from within OmegaT, simply select Help &gt; Users manual, or press F1.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200322T112751Z" creationid="maximo" creationdate="20200322T112751Z">
+        <seg>Для того, щоб запустити посібник в OmegaT, натисніть "Довідка" &gt; "Посібник користувача" або клавішу F1.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>To convert it into a new team project, open it in the OmegaT GUI.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20190821T151520Z" creationid="Kos Ivantsov" creationdate="20190821T151520Z">
@@ -15575,6 +15607,14 @@ on line {1}, column {2}.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>User manuals</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200322T112705Z" creationid="maximo" creationdate="20200322T112705Z">
+        <seg>Посібники користувача</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>User support, at the Yahoo user group (multilingual), where the archives are
 searchable without subscription:</seg>
       </tuv>
@@ -16167,6 +16207,14 @@ Your page is not found</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20190823T145951Z" creationid="Kos Ivantsov" creationdate="20190823T145951Z">
         <seg>Щоб додати новий термін до глосарія, потрібно натиснути &lt;s0&gt;&lt;s1&gt;Ctrl+Shift+G&lt;/s1&gt;&lt;/s0&gt;. Якщо скопіювати файли глосаріїв у призначену для них теку (у типовій конфігурації — підтека &lt;c2&gt;/glossary&lt;/c2&gt; у теці проєкту), OmegaT автоматично почне шукати слова в них.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You can also call up the user manual supplied with OmegaT without launching OmegaT itself.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200322T112826Z" creationid="maximo" creationdate="20200322T112826Z">
+        <seg>Посібник користувача також можна відкрити, не запускаючи OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
