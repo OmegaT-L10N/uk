@@ -2618,8 +2618,8 @@ The current setting is {0}MB;</seg>
       <tuv lang="EN">
         <seg>An Instant Start Guide, which guides you through the main procedures and functions of OmegaT, is displayed in the OmegaT user interface by default.</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="maximo" changedate="20200322T112810Z" creationid="maximo" creationdate="20200322T112810Z">
-        <seg>Рекомендації для швидкого початку роботи, які допоможуть ознайомитися з основними методами та функціями OmegaT, з'являються одразу після запуску програми.</seg>
+      <tuv lang="UK-UA" changeid="lesia" changedate="20200322T211859Z" creationid="maximo" creationdate="20200322T112810Z">
+        <seg>Рекомендації для швидкого початку роботи, які описують основні методи та функції OmegaT, з'являються одразу після запуску програми.</seg>
       </tuv>
     </tu>
     <tu>
@@ -16185,8 +16185,8 @@ current folder will be used instead.</seg>
       <tuv lang="EN">
         <seg>The HTML user manual for OmegaT standard version.</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="maximo" changedate="20200322T113135Z" creationid="maximo" creationdate="20200322T113135Z">
-        <seg>Посібник користувача для OmegaT стандартної версії.</seg>
+      <tuv lang="UK-UA" changeid="lesia" changedate="20200322T212000Z" creationid="maximo" creationdate="20200322T113135Z">
+        <seg>Посібник користувача для стандартної версії OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
@@ -17216,8 +17216,8 @@ the server.</seg>
       <tuv lang="EN">
         <seg>To call up the manual from within OmegaT, simply select Help &gt; Users manual, or press F1.</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="maximo" changedate="20200322T112751Z" creationid="maximo" creationdate="20200322T112751Z">
-        <seg>Для того, щоб запустити посібник в OmegaT, натисніть "Довідка" &gt; "Посібник користувача" або клавішу F1.</seg>
+      <tuv lang="UK-UA" changeid="lesia" changedate="20200322T211754Z" creationid="maximo" creationdate="20200322T112751Z">
+        <seg>Щоб запустити посібник в OmegaT, натисніть "Довідка" &gt; "Посібник користувача" або клавішу F1.</seg>
       </tuv>
     </tu>
     <tu>
