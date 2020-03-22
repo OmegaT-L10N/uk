@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="OmegaT-4.3.2" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.2_0_6a661c5e0" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -5406,6 +5406,14 @@ project_save.tmx was not really uploaded and SVN switched to unstable status.</s
         <seg>Через помилку SVN ({0})
 project_save.tmx не був переданий на віддалений сервер,
 статус SVN було змінено на нестабільний.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>During installation, depending on your operating system, you may receive several security warnings.&lt;br0/&gt;</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200322T162007Z" creationid="maximo" creationdate="20200322T162007Z">
+        <seg>Під час встановлення ви можете отримати кілька попереджень від системи безпеки вашої операційної системи.&lt;br0/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -15369,6 +15377,22 @@ Please try to correct the error and reload the project.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The Web Start version offers an alternative means of installing OmegaT on your computer.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200322T161805Z" creationid="maximo" creationdate="20200322T161805Z">
+        <seg>Версія Web Start - це альтернативний спосіб встановлення OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The certificate is signed by &lt;a1&gt;PnS Concept Sarl&lt;/a1&gt;, a French registered company.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200322T162112Z" creationid="maximo" creationdate="20200322T162112Z">
+        <seg>Сертифікат підписаний компанією &lt;a1&gt;PnS Concept Sarl&lt;/a1&gt;, що зареєстрована у Франції.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The command must include "{target}", which will be replaced with the search text.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20190819T104700Z" creationid="Kos Ivantsov" creationdate="20190819T104700Z">
@@ -15567,6 +15591,14 @@ in /lib/licenses/Licenses.txt.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20190808T131729Z" creationid="Kos Ivantsov" creationdate="20190808T131729Z">
         <seg>Паролі не збігаються.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The permissions you give to this version (which may be described as "unrestricted access to the computer") are no different from the permissions you assign to the local version, i.e., an access to the hard drive of your computer.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200322T162447Z" creationid="maximo" creationdate="20200322T162447Z">
+        <seg>Дозволи, які вам треба надати для цієї версії (вони можуть описуватись як "необмежений доступ до комп'ютера"), насправді нічим не відрізняються від дозволів, які ви б надали звичайній версії OmegaT, тобто доступ до жорсткого диску.</seg>
       </tuv>
     </tu>
     <tu>
@@ -17847,6 +17879,14 @@ Your page is not found</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="maximo" changedate="20200322T144635Z" creationid="maximo" creationdate="20200322T144635Z">
         <seg>Із JRE</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>With this version, future updates will be installed automatically.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200322T161843Z" creationid="maximo" creationdate="20200322T161843Z">
+        <seg>Оновлення для цієї версії будуть встановлюватись автоматично.</seg>
       </tuv>
     </tu>
     <tu>
