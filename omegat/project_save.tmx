@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.2_0_6a661c5e0" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="OmegaT-4.3.2" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -4113,6 +4113,14 @@ Buy another drink</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Consists of a model student's manual with instructions to trainers for adaptation, and sample resources.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="lesia" changedate="20200322T155643Z" creationid="lesia" creationdate="20200322T155643Z">
+        <seg>Містить навчальні матеріали для студентів, керівника курсу та підбірку пробних файлів для перекладу.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Console-align mode:
 	--alignDir=&lt;path&gt;
 		A directory containing the translated files.</seg>
@@ -6755,6 +6763,14 @@ script provided (omegat.kaptn).</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="maximo" changedate="20200321T131222Z" creationid="maximo" creationdate="20200321T131222Z">
         <seg>За підтримкою звертайтесь до &lt;a1&gt;основного каналу підтримки&lt;/a1&gt;.&lt;br2/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>For testing and demonstrating OmegaT.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="lesia" changedate="20200322T155858Z" creationid="lesia" creationdate="20200322T155858Z">
+        <seg>Для тестування та демонстрації роботи в OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10679,8 +10695,8 @@ installed on your system.</seg>
       <tuv lang="EN">
         <seg>OmegaT training course.</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="lesia" changedate="20200322T155528Z" creationid="lesia" creationdate="20200322T155528Z">
-        <seg>Тренувальний курс з роботи в OmegaT.</seg>
+      <tuv lang="UK-UA" changeid="lesia" changedate="20200322T155700Z" creationid="lesia" creationdate="20200322T155528Z">
+        <seg>Навчальний курс з роботи в OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12998,6 +13014,14 @@ These words: 'Page not found'</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Sample texts</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="lesia" changedate="20200322T155752Z" creationid="lesia" creationdate="20200322T155752Z">
+        <seg>Пробні тексти</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Samuel Murray</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20190822T214642Z" creationid="Kos Ivantsov" creationdate="20190822T214642Z">
@@ -13662,6 +13686,14 @@ The scope of a search is by default the project and can be set to be any files l
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20190516T205132Z" creationid="Kos Ivantsov" creationdate="20190516T205132Z">
         <seg>Обрані параметри:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Selection of alternative icons for use with OmegaT.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="lesia" changedate="20200322T155733Z" creationid="lesia" creationdate="20200322T155724Z">
+        <seg>Альтернативні іконки OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
