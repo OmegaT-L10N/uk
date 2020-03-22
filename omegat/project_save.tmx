@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.2_0_6a661c5e0" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="OmegaT-4.3.2" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -7960,8 +7960,8 @@ click on that shortcut.</seg>
       <tuv lang="EN">
         <seg>Integrates the Apertium machine translation functionality into OmegaT.</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="lesia" changedate="20200322T151544Z" creationid="lesia" creationdate="20200322T151544Z">
-        <seg>Інтегрує в OmegaT функціональність машинного перекладу Apertium.</seg>
+      <tuv lang="UK-UA" changeid="lesia" changedate="20200322T151907Z" creationid="lesia" creationdate="20200322T151544Z">
+        <seg>Інтегрує в OmegaT можливість використання машинного перекладу з Apertium.</seg>
       </tuv>
     </tu>
     <tu>
