@@ -8179,6 +8179,14 @@ their defaults as a result of the location change.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If you can program in another language, you can write code to support the core application.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200322T181103Z" creationid="maximo" creationdate="20200322T181103Z">
+        <seg>Якщо ви програмуєте якоюсь іншою мовою, ви можете писати код, що обслуговує ядро програми.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If you can see the file OmegaT but not OmegaT.exe in your File Manager
 (Windows Explorer), change the settings so that file extensions are displayed.</seg>
       </tuv>
@@ -12756,6 +12764,14 @@ project without team functionality.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="maximo" changedate="20200322T180707Z" creationid="maximo" creationdate="20200322T180707Z">
         <seg>Програмування (Java)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Programming (not Java)</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200322T180956Z" creationid="maximo" creationdate="20200322T180956Z">
+        <seg>Програмування (інші мови)</seg>
       </tuv>
     </tu>
     <tu>
