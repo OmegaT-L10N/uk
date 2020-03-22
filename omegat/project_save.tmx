@@ -2240,10 +2240,26 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Add numbers to all segments, making them all "unique"</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="lesia" changedate="20200322T162140Z" creationid="lesia" creationdate="20200322T162140Z">
+        <seg>Додавати числа до всіх сегментів, роблячи їх "унікальними"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Add or rewrite encoding declaration in HTML and XHTML files:</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20190814T102034Z" creationid="Kos Ivantsov" creationdate="20190814T102009Z">
         <seg>Додавати чи перезаписувати оголошення про кодування у файлах HTML і XHTML:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Add terms to a glossary whilst translating in OmegaT</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="lesia" changedate="20200322T162055Z" creationid="lesia" creationdate="20200322T162055Z">
+        <seg>Додавати поняття до глосарію OmegaT під час перекладу</seg>
       </tuv>
     </tu>
     <tu>
@@ -3688,6 +3704,14 @@ Buy another drink</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Check spelling (various procedures)</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="lesia" changedate="20200322T162247Z" creationid="lesia" creationdate="20200322T162247Z">
+        <seg>Перевіряти орфографію (кілька різних способів)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Check start case</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20190822T220915Z" creationid="Kos Ivantsov" creationdate="20190822T220915Z">
@@ -4470,8 +4494,8 @@ Buy another drink</seg>
       <tuv lang="EN">
         <seg>Create a TMX file containing all strings, with identical source and target</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="lesia" changedate="20200322T162023Z" creationid="lesia" creationdate="20200322T162023Z">
-        <seg>Створити файл TMX, що містить всі стрічки, у яких оригінал та переклад будуть ідентичні</seg>
+      <tuv lang="UK-UA" changeid="lesia" changedate="20200322T162030Z" creationid="lesia" creationdate="20200322T162023Z">
+        <seg>Створити файл TMX, що містить всі стрічки, у яких оригінал та переклад будуть ідентичними</seg>
       </tuv>
     </tu>
     <tu>
@@ -12600,6 +12624,14 @@ These words: 'Page not found'</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20190808T120909Z" creationid="Kos Ivantsov" creationdate="20190516T165810Z">
         <seg>Вилучити &amp;теґи</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Remove all text except tags, or all tags except text</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="lesia" changedate="20200322T162217Z" creationid="lesia" creationdate="20200322T162217Z">
+        <seg>Видаляти весь текст крім тегів або ж всі теги крім тексту</seg>
       </tuv>
     </tu>
     <tu>
