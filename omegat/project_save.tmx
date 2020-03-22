@@ -14595,6 +14595,14 @@ in /lib/licenses/Licenses.txt.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The version for installation by the user, familiar to existing OmegaT users.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200322T140449Z" creationid="maximo" creationdate="20200322T140449Z">
+        <seg>Це версія для встановлення користувачем. Це тип встановлення, що знайомий для всіх користувачів OmegaT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The writeable glossary file is not in the glossary folder.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20190807T191338Z" creationid="Kos Ivantsov" creationdate="20190807T191338Z">
@@ -15095,8 +15103,8 @@ su -c ./linux-install.sh</seg>
       <tuv lang="EN">
         <seg>Traditional</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="maximo" changedate="20200322T135952Z" creationid="maximo" creationdate="20200322T135952Z">
-        <seg>Звичайний</seg>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200322T140121Z" creationid="maximo" creationdate="20200322T135952Z">
+        <seg>Традиційний</seg>
       </tuv>
     </tu>
     <tu>
