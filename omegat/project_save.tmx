@@ -1411,6 +1411,14 @@ To add files to the project, click on the Copy Files to Source Folder... button 
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>(Software that does this is called "machine translation", and you will have to look elsewhere for it.)</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200322T171120Z" creationid="maximo" creationdate="20200322T171120Z">
+        <seg>(Програми, що це роблять, називаються програмами "машинного перекладу", і вам треба шукати їх в іншому місці.)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>(The Java executable file is the file java on Linux and java.exe on Windows.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20190822T213015Z" creationid="Kos Ivantsov" creationdate="20190822T213015Z">
@@ -7183,6 +7191,14 @@ script provided (omegat.kaptn).</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Fuzzy matching</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200322T171146Z" creationid="maximo" creationdate="20200322T171146Z">
+        <seg>Нечіткі збіги</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>GUI alignment tool for producing translation memory files from legacy texts and their translations.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="lesia" changedate="20200322T161146Z" creationid="lesia" creationdate="20200322T161146Z">
@@ -8626,6 +8642,14 @@ click on that shortcut.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="maximo" changedate="20200322T112839Z" creationid="maximo" creationdate="20200322T112839Z">
         <seg>Він розташований у папці програми OmegaT "docs".</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>It does not translate for you!</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200322T171003Z" creationid="maximo" creationdate="20200322T171003Z">
+        <seg>Вона не буде перекладати замість вас!</seg>
       </tuv>
     </tu>
     <tu>
@@ -12360,6 +12384,14 @@ project without team functionality.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Professional features</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200322T171137Z" creationid="maximo" creationdate="20200322T171137Z">
+        <seg>Професійні функції</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Project &amp;Files...</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20190421T202643Z" creationid="Kos Ivantsov" creationdate="20190421T151128Z">
@@ -14526,6 +14558,22 @@ The scope of a search is by default the project and can be set to be any files l
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20190822T095055Z" creationid="Kos Ivantsov" creationdate="20190807T094611Z">
         <seg>Спрощені підказки до &amp;захищених частин</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Simultaneous processing of multiple-file projects</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200322T171226Z" creationid="maximo" creationdate="20200322T171226Z">
+        <seg>Одночасна робота у проєктах з великою кількістю файлів</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Simultaneous use of multiple translation memories</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200322T171312Z" creationid="maximo" creationdate="20200322T171312Z">
+        <seg>Одночасне використання багатьох джерел пам'яті перекладача</seg>
       </tuv>
     </tu>
     <tu>
