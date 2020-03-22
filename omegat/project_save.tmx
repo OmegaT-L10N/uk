@@ -7212,6 +7212,14 @@ need not be entered.)</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If in doubt, select this version.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200322T140659Z" creationid="maximo" creationdate="20200322T140659Z">
+        <seg>Якщо маєте сумніви, що вам обрати, беріть цю версію.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If invoked in a git working tree or svn checkout, the results
 		will be staged/added.</seg>
       </tuv>
