@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="OmegaT-4.3.2" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.2_0_6a661c5e0" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -7683,6 +7683,14 @@ their defaults as a result of the location change.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If you are relatively new to Linux, we advise you to select an OmegaT version with the JRE included.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200322T160738Z" creationid="maximo" creationdate="20200322T160738Z">
+        <seg>Якщо ви відносний новачок у Linux, ми радимо обрати версію із JRE.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If you are sure that a suitable Java Runtime Environment is already installed on your computer at system level, you can select the option without JRE included.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="maximo" changedate="20200322T145117Z" creationid="maximo" creationdate="20200322T145117Z">
@@ -9315,6 +9323,14 @@ itself on the first run.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Mac OS X has a feature called Gatekeeper that increases security by making it difficult to run unsigned programs.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200322T161113Z" creationid="maximo" creationdate="20200322T161113Z">
+        <seg>Mac OS X має вбудовану програму Gatekeeper, що створює перешкоди для запуску непідписаних програм.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Mac&amp;hine Translate</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20190421T194921Z" creationid="Kos Ivantsov" creationdate="20190421T194921Z">
@@ -9799,6 +9815,14 @@ itself on the first run.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20190516T165017Z" creationid="Kos Ivantsov" creationdate="20190516T165017Z">
         <seg>Ще</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>More experienced Linux users may prefer to install the Oracle (formerly Sun) JRE at system level.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200322T160901Z" creationid="maximo" creationdate="20200322T160901Z">
+        <seg>Більш досвідчені користувачі Linux можуть надати перевагу встановленню версії JRE від Oracle (раніше Sun) на рівні системи.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13966,6 +13990,14 @@ The scope of a search is by default the project and can be set to be any files l
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20190807T190758Z" creationid="Kos Ivantsov" creationdate="20190807T190758Z">
         <seg>Показати панель пошуку та заміни</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Signed/Unsigned</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200322T160929Z" creationid="maximo" creationdate="20200322T160929Z">
+        <seg>Підписана та непідписана версії</seg>
       </tuv>
     </tu>
     <tu>
