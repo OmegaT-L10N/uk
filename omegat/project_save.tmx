@@ -11280,6 +11280,14 @@ published by the Free Software Foundation, either version 3 of the License, or
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>OmegaT is open-source software.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200322T174610Z" creationid="maximo" creationdate="20200322T174610Z">
+        <seg>OmegaT - це open-source.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>OmegaT is refused access to the system property containing
 the name of your OS and/or the system property containing
 your home folder.</seg>
@@ -15838,6 +15846,22 @@ The scope of a text replacement is the target segments of the project, whether t
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>That means that if you feel so inclined, you may modify OmegaT to suit your own requirements.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200322T174651Z" creationid="maximo" creationdate="20200322T174651Z">
+        <seg>Це означає, що якщо вам це треба, ви можете змінювати OmegaT відповідно до ваших потреб.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>That means that users like you are free to download and use it with very little in the way of restrictions.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200322T174517Z" creationid="maximo" creationdate="20200322T174517Z">
+        <seg>Це означає, що користувачі можуть безкоштовно завантажити та використовувати її з мінімальними обмеженнями.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The
 current folder will be used instead.</seg>
       </tuv>
@@ -18855,6 +18879,14 @@ Your page is not found</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20190808T090839Z" creationid="Kos Ivantsov" creationdate="20190808T090521Z">
         <seg>У вас уже встановлена найновіша версія.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You are also free to copy it and pass it on to other people.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200322T174549Z" creationid="maximo" creationdate="20200322T174549Z">
+        <seg>Ви також можете без обмежень копіювати її та передавати іншим.</seg>
       </tuv>
     </tu>
     <tu>
