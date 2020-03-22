@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.2_0_6a661c5e0" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="OmegaT-4.3.2" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -1972,6 +1972,14 @@ The current setting is {0}MB;</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20190828T102908Z" creationid="Kos Ivantsov" creationdate="20190822T144513Z">
         <seg>Перекладачі (за абеткою): Кость Іванцов, Олександр Нестеренко, Валерія Росовська © 2018-2019</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>A comprehensive suite of utilities for preparing files for translation in a CAT tool.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="lesia" changedate="20200322T160803Z" creationid="lesia" creationdate="20200322T160803Z">
+        <seg>Набір програм для підготовки файлів до перекладу в САТ-інструментах.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6823,6 +6831,14 @@ script provided (omegat.kaptn).</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Free (compatible) alternatives to Microsoft Office.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="lesia" changedate="20200322T160640Z" creationid="lesia" creationdate="20200322T160640Z">
+        <seg>Альтернативні до Microsoft Office (сумісні) опен-сорс програми.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>French</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20190422T210029Z" creationid="Kos Ivantsov" creationdate="20190422T210029Z">
@@ -10919,6 +10935,14 @@ installed on your system.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Online repositories of spelling dictionaries for use within OmegaT.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="lesia" changedate="20200322T160537Z" creationid="lesia" creationdate="20200322T160537Z">
+        <seg>Онлайн-репозиторії орфографічних словників для використання в OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Only if (X)HTML file has a &amp;header</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20190814T102120Z" creationid="Kos Ivantsov" creationdate="20190814T102120Z">
@@ -14348,8 +14372,8 @@ The scope of a search is by default the project and can be set to be any files l
       <tuv lang="EN">
         <seg>Spelling dictionaries</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="lesia" changedate="20200322T160414Z" creationid="lesia" creationdate="20200322T160414Z">
-        <seg>Словники правопису</seg>
+      <tuv lang="UK-UA" changeid="lesia" changedate="20200322T160450Z" creationid="lesia" creationdate="20200322T160414Z">
+        <seg>Орфографічні словники</seg>
       </tuv>
     </tu>
     <tu>
