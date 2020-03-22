@@ -1944,6 +1944,22 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;s0&gt;&lt;a1&gt;{{site.data.versions.latest.name}}&lt;/a1&gt;&lt;/s0&gt; Latest Version</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200322T172547Z" creationid="maximo" creationdate="20200322T172547Z">
+        <seg>&lt;s0&gt;&lt;a1&gt;{{site.data.versions.latest.name}}&lt;/a1&gt;&lt;/s0&gt; Остання версія</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;s0&gt;&lt;a1&gt;{{site.data.versions.standard.name}}&lt;/a1&gt;&lt;/s0&gt; Standard Version</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200322T172538Z" creationid="maximo" creationdate="20200322T172538Z">
+        <seg>&lt;s0&gt;&lt;a1&gt;{{site.data.versions.standard.name}}&lt;/a1&gt;&lt;/s0&gt; Стандартна версія</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;s0&gt;Linux users&lt;/s0&gt;: most Linux distributions are supplied with a Java Runtime Environment, but some open-source implementations do not work properly with OmegaT (although this may not be immediately apparent).</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="maximo" changedate="20200322T160657Z" creationid="maximo" creationdate="20200322T160657Z">
@@ -2556,6 +2572,14 @@ The current setting is {0}MB;</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20190807T183723Z" creationid="Kos Ivantsov" creationdate="20190807T183723Z">
         <seg>Альтернативна мова</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Alternatively, if you already know which version you wish to download, click on the button to have an overview of the different OmegaT versions available.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200322T172443Z" creationid="maximo" creationdate="20200322T172443Z">
+        <seg>Якщо ж ви вже знаєте, яка версія вам потрібна, натисніть на кнопку, щоб побачити, які версії OmegaT доступні.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5507,6 +5531,14 @@ Buy another drink</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20190420T141648Z" creationid="Kos Ivantsov" creationdate="20190420T141648Z">
         <seg>Стягнути сторінку MediaWiki...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Download Overview</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200322T172524Z" creationid="maximo" creationdate="20200322T172524Z">
+        <seg>Огляд можливих завантажень</seg>
       </tuv>
     </tu>
     <tu>
@@ -16826,6 +16858,14 @@ the server.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20190807T105017Z" creationid="Kos Ivantsov" creationdate="20190807T104833Z">
         <seg>Для налаштування того, в якому кодуванні фільтри оброблятимуть певні типи файлів, виберіть потрібний фільтр у переліку та натисніть «Редагувати».</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To find the version most suitable for you, follow the link below to the Download Selector.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200322T172329Z" creationid="maximo" creationdate="20200322T172329Z">
+        <seg>Вибрати найзручнішу для вас версію можна за посиланням Download selector нижче.</seg>
       </tuv>
     </tu>
     <tu>
