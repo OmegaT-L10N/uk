@@ -4034,6 +4034,14 @@ Buy another drink</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Convenient alternative functions or solutions may also exist.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="lesia" changedate="20200322T131449Z" creationid="lesia" creationdate="20200322T131449Z">
+        <seg>Цілком ймовірно, що є й альтернативні рішення.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Convert</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20190516T205745Z" creationid="Kos Ivantsov" creationdate="20190516T205618Z">
@@ -10097,8 +10105,8 @@ installed on your system.</seg>
       <tuv lang="EN">
         <seg>One reason for this is that the desired function may already have been implemented, or that there may be reasons why it cannot be implemented.</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="lesia" changedate="20200322T131202Z" creationid="lesia" creationdate="20200322T131202Z">
-        <seg>One reason for this is that the desired function may already have been implemented, or that there may be reasons why it cannot be implement</seg>
+      <tuv lang="UK-UA" changeid="lesia" changedate="20200322T131349Z" creationid="lesia" creationdate="20200322T131202Z">
+        <seg>Справа в тому, що функція, яка вас цікавить, може бути вже реалізована або, навпаки, можуть бути об'єктивні причини, з яких її не виходить реалізувати. </seg>
       </tuv>
     </tu>
     <tu>
