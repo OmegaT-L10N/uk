@@ -9211,6 +9211,14 @@ itself on the first run.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Localization resources</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="lesia" changedate="20200322T155913Z" creationid="lesia" creationdate="20200322T155913Z">
+        <seg>Ресурси для локалізації</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Location</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20190817T203105Z" creationid="Kos Ivantsov" creationdate="20190516T182920Z">
@@ -14580,6 +14588,14 @@ The scope of a search is by default the project and can be set to be any files l
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>TMX files of localizations of the OmegaT documentation and of this site, for use by localizers.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="lesia" changedate="20200322T160026Z" creationid="lesia" creationdate="20200322T160026Z">
+        <seg>Файли TMX з локалізації/перекладу документації OmegaT та цього сайту. Для тих, хто займається локалізацією проєкту.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>TaaS</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20190808T120244Z" creationid="Kos Ivantsov" creationdate="20190808T120244Z">
@@ -15160,6 +15176,14 @@ instead.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20190821T204334Z" creationid="Kos Ivantsov" creationdate="20190821T204334Z">
         <seg>Файл {0} не підтримується.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The files of this site, in a convenient package for those wishing to localize it.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="lesia" changedate="20200322T160157Z" creationid="lesia" creationdate="20200322T160157Z">
+        <seg>Зручний архів цього сайту для тих, хто хоче його локалізувати.</seg>
       </tuv>
     </tu>
     <tu>
@@ -15832,6 +15856,14 @@ the server.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="maximo" changedate="20200322T144826Z" creationid="maximo" creationdate="20200322T144826Z">
         <seg>Ця версія буде довше завантажуватись та займе більше місця на диску, але ви можете бути точно впевнені, що вона нормально запуститься.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This web site</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="lesia" changedate="20200322T160055Z" creationid="lesia" creationdate="20200322T160055Z">
+        <seg>Цей сайт</seg>
       </tuv>
     </tu>
     <tu>
