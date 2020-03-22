@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="OmegaT-4.3.2" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.2_0_6a661c5e0" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -2555,6 +2555,14 @@ The TMX file will not be loaded.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="lesia" changedate="20200321T125937Z" creationid="lesia" creationdate="20200321T125937Z">
         <seg>Важливий аспект такої свободи: користувачі можуть змінювати код програми відповідно до своїх потреб.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>An introductory video to OmegaT in English by John Moran.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200322T125502Z" creationid="maximo" creationdate="20200322T125502Z">
+        <seg>Вступне відео про OmegaT, Джон Моран (англійською мовою).</seg>
       </tuv>
     </tu>
     <tu>
@@ -6511,6 +6519,14 @@ script provided (omegat.kaptn).</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>From the YouTube OmegaT series by Miguel Navarro (in Spanish).</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200322T135302Z" creationid="maximo" creationdate="20200322T135235Z">
+        <seg>Про OmegaT на YouTube, Мігель Наварро (іспанською).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Full checking can lead to false positives in normal texts.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20190813T111325Z" creationid="Kos Ivantsov" creationdate="20190813T111325Z">
@@ -6771,6 +6787,14 @@ script provided (omegat.kaptn).</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20190517T104414Z" creationid="Kos Ivantsov" creationdate="20190517T104414Z">
         <seg>Група {0} не існує у виразі, за яким було здійснено пошук</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Guida completa a OmegaT: tecniche, trucchi e consigli per traduttori e project manager</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200322T135416Z" creationid="maximo" creationdate="20200322T135416Z">
+        <seg>Повний посібник про OmegaT: методи, поради та підказки для перекладачів та менеджерів проектів</seg>
       </tuv>
     </tu>
     <tu>
@@ -9892,6 +9916,14 @@ appropriate location such as the Applications folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>OmegaT introduction tutorial</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200322T125456Z" creationid="maximo" creationdate="20200322T125456Z">
+        <seg>Вправи для початку роботи з OmegaT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>OmegaT is a free and open source multiplatform Computer Assisted Translation
 tool with fuzzy matching, translation memory, keyword search, glossaries, and
 translation leveraging into updated projects.</seg>
@@ -10019,6 +10051,14 @@ installed on your system.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20190424T213744Z" creationid="Kos Ivantsov" creationdate="20190424T213744Z">
         <seg>OmegaT версії {0}, оновлення {1} ({2})</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>OmegaT videos on the Qabiria YouTube channel.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200322T125435Z" creationid="maximo" creationdate="20200322T125435Z">
+        <seg>Відео про OmegaT на каналі YouTube Qabiria.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10558,6 +10598,14 @@ everything.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20190822T150632Z" creationid="Kos Ivantsov" creationdate="20190822T150632Z">
         <seg>Помістіть архів в будь-яку теку та розпакуйте його —</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Playlist of OmegaT videos</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200322T125426Z" creationid="maximo" creationdate="20200322T125426Z">
+        <seg>Відеоролики про OmegaT</seg>
       </tuv>
     </tu>
     <tu>
@@ -14561,6 +14609,14 @@ You, victim of one</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>These utilities enable OmegaT to be used to translate file formats for which XLIFF conversion filters are available.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200322T125353Z" creationid="maximo" creationdate="20200322T125353Z">
+        <seg>Ці утиліти дозволяють використовувати OmegaT для перекладу форматів файлів, для яких доступні фільтри XLIFF..</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>They are protected, so that you cannot modify their contents, but you can delete them, enter them by hand or move them around in the target sentence.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20190822T153540Z" creationid="Kos Ivantsov" creationdate="20190822T153540Z">
@@ -14945,6 +15001,14 @@ su -c ./linux-install.sh</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="maximo" changedate="20200321T130656Z" creationid="maximo" creationdate="20200321T130656Z">
         <seg>Системи відстеження помилок</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Training videos</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200322T125408Z" creationid="maximo" creationdate="20200322T125408Z">
+        <seg>Навчальні відео</seg>
       </tuv>
     </tu>
     <tu>
@@ -15942,6 +16006,30 @@ searchable without subscription:</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20190517T142800Z" creationid="Kos Ivantsov" creationdate="20190517T142800Z">
         <seg>Версія: {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Video 1</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200322T125514Z" creationid="maximo" creationdate="20200322T125514Z">
+        <seg>Відео 1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Video 2</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200322T135244Z" creationid="maximo" creationdate="20200322T135244Z">
+        <seg>Відео 2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Video 3</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200322T135314Z" creationid="maximo" creationdate="20200322T135314Z">
+        <seg>Відео 3</seg>
       </tuv>
     </tu>
     <tu>
