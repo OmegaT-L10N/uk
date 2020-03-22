@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.2_0_6a661c5e0" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="OmegaT-4.3.2" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -10722,6 +10722,14 @@ installed on your system.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Other OmegaT resources</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="lesia" changedate="20200322T150350Z" creationid="lesia" creationdate="20200322T150350Z">
+        <seg>Додаткові ресурси для OmegaT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Other Options:</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20190805T120738Z" creationid="Kos Ivantsov" creationdate="20190805T120738Z">
@@ -11644,6 +11652,14 @@ project without team functionality.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20190807T185532Z" creationid="Kos Ivantsov" creationdate="20190807T185532Z">
         <seg>Служба</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Provides recognition of inflected forms in fuzzy matches and glossary hits.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="lesia" changedate="20200322T150510Z" creationid="lesia" creationdate="20200322T150510Z">
+        <seg>забезпечує розпізнавання відмінків та флексій у неточних збігах та збігах у глосарії.</seg>
       </tuv>
     </tu>
     <tu>
@@ -15417,6 +15433,14 @@ su -c ./linux-install.sh</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20190821T214920Z" creationid="Kos Ivantsov" creationdate="20190821T214920Z">
         <seg>Інвертувати вибір</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Tokenizers plug-in</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="lesia" changedate="20200322T150414Z" creationid="lesia" creationdate="20200322T150414Z">
+        <seg>Плагін Tokenizers</seg>
       </tuv>
     </tu>
     <tu>
