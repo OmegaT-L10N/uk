@@ -7803,6 +7803,14 @@ Its winter has come</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>I've been using OmegaT as a professional translator for over 10 years, benefiting in the early days from its ease of use and extremely helpful forum.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200322T174005Z" creationid="maximo" creationdate="20200322T174005Z">
+        <seg>Я вже 10 років використовую OmegaT як професійний перекладач. І з самого початку я відчував її зручність та надзвичайно дружній форум.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>IBM Watson</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20190422T220021Z" creationid="Kos Ivantsov" creationdate="20190422T220021Z">
@@ -9987,6 +9995,14 @@ itself on the first run.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Match propagation</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200322T173534Z" creationid="maximo" creationdate="20200322T173534Z">
+        <seg>Перенесення збігів</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Match type</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20190821T204221Z" creationid="Kos Ivantsov" creationdate="20190821T204221Z">
@@ -10966,8 +10982,8 @@ appropriate location such as the Applications folder.</seg>
       <tuv lang="EN">
         <seg>ODFAuthors and LibreOffice's Italian translators are proud to use such a good tool for their hard work within the LibreOffice Community.</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="maximo" changedate="20200322T173521Z" creationid="maximo" creationdate="20200322T173521Z">
-        <seg>ODFAuthors та італійські перекладачі LibreOffice горді тим, що можуть використовувати такий хороший інструмент у їхній складній роботі у ком'юніті LibreOffice.</seg>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200322T173601Z" creationid="maximo" creationdate="20200322T173521Z">
+        <seg>ODFAuthors та італійські перекладачі LibreOffice горді тим, що можуть використовувати такий хороший інструмент у своїй складній роботі у ком'юніті LibreOffice.</seg>
       </tuv>
     </tu>
     <tu>
@@ -18166,6 +18182,14 @@ searchable without subscription:</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20190807T190934Z" creationid="Kos Ivantsov" creationdate="20190807T190934Z">
         <seg>Перевірка теґів</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Valter Mura - Translator EN &gt; IT</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200322T173611Z" creationid="maximo" creationdate="20200322T173611Z">
+        <seg>Valter Mura - Перекладач EN &gt; IT</seg>
       </tuv>
     </tu>
     <tu>
