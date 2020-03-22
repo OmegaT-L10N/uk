@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="OmegaT-4.3.2" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.2_0_6a661c5e0" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -4694,6 +4694,14 @@ Buy another drink</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Developer Version</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200322T154137Z" creationid="maximo" creationdate="20200322T154137Z">
+        <seg>Версія для розробників</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Developers</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="maximo" changedate="20200321T125221Z" creationid="maximo" creationdate="20200321T125221Z">
@@ -8897,6 +8905,22 @@ itself on the first run.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Legacy versions</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200322T155138Z" creationid="maximo" creationdate="20200322T155138Z">
+        <seg>Старі версії</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Legacy versions are older versions that have been superseded.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200322T155304Z" creationid="maximo" creationdate="20200322T155304Z">
+        <seg>Старі версії більше не підтримуються.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Level</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20190516T205451Z" creationid="Kos Ivantsov" creationdate="20190516T205451Z">
@@ -9940,6 +9964,14 @@ appropriate location such as the Applications folder.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20190823T144917Z" creationid="Kos Ivantsov" creationdate="20190823T144917Z">
         <seg>Далі з’явиться діалогове вікно &lt;s0&gt;«Файли проєкту»&lt;/s0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Nightly Builds</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200322T155128Z" creationid="maximo" creationdate="20200322T155128Z">
+        <seg>Щоденні збірки</seg>
       </tuv>
     </tu>
     <tu>
@@ -11550,6 +11582,14 @@ additional steps need to be taken.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20190803T191427Z" creationid="Kos Ivantsov" creationdate="20190803T191427Z">
         <seg>Power Point</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Pre-built binaries, are available as Nightly Builds.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200322T155116Z" creationid="maximo" creationdate="20200322T155116Z">
+        <seg>Скомпільовані файли доступні у форматі щоденних збірок.</seg>
       </tuv>
     </tu>
     <tu>
@@ -14815,6 +14855,14 @@ current folder will be used instead.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The "master" version is a cutting-edge, "alpha" version, still in development.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200322T154242Z" creationid="maximo" creationdate="20200322T154242Z">
+        <seg>Це версія з гілки "master", альфа-версія, ще у процесі розробки.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The &lt;c3&gt;level1&lt;/c3&gt; and &lt;c4&gt;level2&lt;/c4&gt; memories can be shared with users of other translation programs.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20190823T145638Z" creationid="Kos Ivantsov" creationdate="20190823T145638Z">
@@ -17703,6 +17751,14 @@ the installation script (linux-install.sh).</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20190822T205802Z" creationid="Kos Ivantsov" creationdate="20190822T205802Z">
         <seg>Крім того, для більшої зручності та легкості у користуванні ви може встановити програму скриптом встановлення (linux-install.sh).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You can still find &lt;a0&gt;older, superseded versions&lt;/a0&gt; of OmegaT.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200322T155221Z" creationid="maximo" creationdate="20200322T155221Z">
+        <seg>Ви можете знайти &lt;a0&gt;старіші версії&lt;/a0&gt; OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
