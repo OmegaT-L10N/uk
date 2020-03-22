@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="OmegaT-4.3.2" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.2_0_6a661c5e0" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -2742,8 +2742,8 @@ may experience unexpected, but correct behaviour.</seg>
       <tuv lang="EN">
         <seg>As its name suggests, the "Latest" version of Omegat is more up to date.</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="maximo" changedate="20200322T145457Z" creationid="maximo" creationdate="20200322T145457Z">
-        <seg>ЯкAs its name suggests, the "Latest" version of Omegat is more up to date.</seg>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200322T145617Z" creationid="maximo" creationdate="20200322T145457Z">
+        <seg>Як видно із назви, ця версія завжди новіша за стандартну.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2988,6 +2988,14 @@ Buy another drink</seg>
         <seg>Волає бармен:
 «Не знайдено такий файл!
 Хильни ще одну!»</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Based on your choices, we recommand you use:</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200322T150028Z" creationid="maximo" creationdate="20200322T150028Z">
+        <seg>Виходячи з ваших відповідей ми рекомендуємо вам:</seg>
       </tuv>
     </tu>
     <tu>
@@ -5075,6 +5083,14 @@ Buy another drink</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20190822T221345Z" creationid="Kos Ivantsov" creationdate="20190822T221345Z">
         <seg>Повтор слів</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Download</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200322T150047Z" creationid="maximo" creationdate="20200322T150047Z">
+        <seg>Завантажити</seg>
       </tuv>
     </tu>
     <tu>
@@ -7171,6 +7187,14 @@ Its winter has come</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>However, the user manual may no longer be up to date (and therefore possibly confusing), and some minor bugs are possible.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200322T145804Z" creationid="maximo" creationdate="20200322T145804Z">
+        <seg>Але інструкція користувача може не встигати за змінами, що може створювати ситуації непорозуміння. Також ця версія значно менше тестується.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Hyperlinks</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20190807T171248Z" creationid="Kos Ivantsov" creationdate="20190807T171248Z">
@@ -7383,6 +7407,14 @@ their defaults as a result of the location change.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20190822T171746Z" creationid="Kos Ivantsov" creationdate="20190807T105118Z">
         <seg>Якщо фільтр має додаткові налаштування, то їх можна вибрати, натиснувши кнопку «Параметри...».</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If this version is not available, you can try to &lt;a0&gt;download the unsigned version&lt;/a0&gt;.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200322T150143Z" creationid="maximo" creationdate="20200322T150143Z">
+        <seg>Якщо ця версія недоступна, ви можете спробувати &lt;a0&gt;завантажити непідписану версію&lt;/a0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9564,6 +9596,14 @@ appropriate location such as the Applications folder.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20190807T184337Z" creationid="Kos Ivantsov" creationdate="20190807T184337Z">
         <seg>Нейронний машинний переклад</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Nevertheless, the "Latest" versions of OmegaT are usually very stable and are recommended for any users who already have some experience with OmegaT.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200322T145951Z" creationid="maximo" creationdate="20200322T145951Z">
+        <seg>Не зважаючи на це, "останні" версії OmegaT як правило дуже надійні, і їх рекомендується використовувати всім, хто вже має досвід використання OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
@@ -17548,6 +17588,14 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20190424T212248Z" creationid="Kos Ivantsov" creationdate="20190424T212248Z">
         <seg>slf4j (ліцензія MIT)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>some version</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200322T150040Z" creationid="maximo" creationdate="20200322T150040Z">
+        <seg>певна версія</seg>
       </tuv>
     </tu>
     <tu>
