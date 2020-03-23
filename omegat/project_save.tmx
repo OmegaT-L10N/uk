@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="OmegaT-4.3.2" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.2_0_6a661c5e0" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -8239,8 +8239,8 @@ is to use Java Web Start.</seg>
       <tuv lang="EN">
         <seg>If you have found OmegaT useful and would like to express your gratitude by making a &lt;a0&gt;donation&lt;/a0&gt; on our Paypal account.</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="lesia" changedate="20200323T073053Z" creationid="maximo" creationdate="20200322T180657Z">
-        <seg>Якщо OmegaT видається вам корисною, ви можете виразити свою вдячність пожертвою на наш акаунт Paypal.</seg>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200323T214850Z" creationid="maximo" creationdate="20200322T180657Z">
+        <seg>Якщо OmegaT видається вам корисною, ви можете виразити свою вдячність &lt;a0&gt;пожертвою&lt;/a0&gt; через Paypal.</seg>
       </tuv>
     </tu>
     <tu>
