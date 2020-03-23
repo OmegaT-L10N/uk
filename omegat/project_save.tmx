@@ -8141,8 +8141,8 @@ their defaults as a result of the location change.</seg>
       <tuv lang="EN">
         <seg>If you are confused about which version to download, you can use the &lt;a0&gt;Download selector&lt;/a0&gt;.</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="maximo" changedate="20200322T135854Z" creationid="maximo" creationdate="20200322T135854Z">
-        <seg>Вибрати найзручнішу для вас версію можна за посиланням &lt;a0&gt;Download selector&lt;/a0&gt;.</seg>
+      <tuv lang="UK-UA" changeid="lesia" changedate="20200323T160716Z" creationid="maximo" creationdate="20200322T135854Z">
+        <seg>Вибрати найзручнішу для вас версію можна за посиланням &lt;a0&gt;Вибір версії&lt;/a0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8173,8 +8173,8 @@ their defaults as a result of the location change.</seg>
       <tuv lang="EN">
         <seg>If you are sure that a suitable Java Runtime Environment is already installed on your computer at system level, you can select the option without JRE included.</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="lesia" changedate="20200322T213556Z" creationid="maximo" creationdate="20200322T145117Z">
-        <seg>Якщо ви впевнені, що на вашому комп'ютері вже є підходяща версія середовища Java, ви можете обрати варіант без JRE.</seg>
+      <tuv lang="UK-UA" changeid="lesia" changedate="20200323T160935Z" creationid="maximo" creationdate="20200322T145117Z">
+        <seg>Якщо ви впевнені, що на вашому комп'ютері вже є потрібна версія середовища Java, ви можете обрати варіант без JRE.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11649,8 +11649,8 @@ installed on your system.</seg>
       <tuv lang="EN">
         <seg>OmegaT will usually run on any Linux system on which a suitable version of the Java Runtime Environment (JRE) can be be installed.</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="maximo" changedate="20200322T142444Z" creationid="maximo" creationdate="20200322T141900Z">
-        <seg>Як правило, OmegaT працює на будь-якій версії Linux, де встановлена підходяща версія середовища Java (JRE).</seg>
+      <tuv lang="UK-UA" changeid="lesia" changedate="20200323T160831Z" creationid="maximo" creationdate="20200322T141900Z">
+        <seg>Як правило, OmegaT працює на будь-якій версії Linux, де встановлена потрібна версія середовища Java (JRE).</seg>
       </tuv>
     </tu>
     <tu>
@@ -16129,8 +16129,8 @@ current folder will be used instead.</seg>
       <tuv lang="EN">
         <seg>The "Standard" version of OmegaT includes a full user manual (at least in English) and will usually have been tested for some time to eliminate any bugs.</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="lesia" changedate="20200322T213758Z" creationid="maximo" creationdate="20200322T145325Z">
-        <seg>Стандартна версія OmegaT має повноцінну інструкцію користувача (щонайменше, англійською). До того ж, її як правило деякий час тестували на предмет помилок.</seg>
+      <tuv lang="UK-UA" changeid="lesia" changedate="20200323T160947Z" creationid="maximo" creationdate="20200322T145325Z">
+        <seg>Стандартна версія OmegaT має повноцінну інструкцію користувача (щонайменше, англійською). До того ж, її, як правило, деякий час тестували на предмет помилок.</seg>
       </tuv>
     </tu>
     <tu>
