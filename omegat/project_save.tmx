@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.2_0_6a661c5e0" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="OmegaT-4.3.2" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -2825,8 +2825,8 @@ The TMX file will not be loaded.</seg>
       <tuv lang="EN">
         <seg>And when they find things that don't work, or deficiencies in the documentation, to tell us about them.</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="lesia" changedate="20200323T072930Z" creationid="maximo" creationdate="20200322T180443Z">
-        <seg>І коли щось не працює чи документація неправильна, повідомляти нам про ці недоліки.</seg>
+      <tuv lang="UK-UA" changeid="lesia" changedate="20200323T223024Z" creationid="maximo" creationdate="20200322T180443Z">
+        <seg>І коли щось не працює чи є помилки в документації, повідомляти нам про ці недоліки.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12314,8 +12314,8 @@ to determine the source of the error and try again.</seg>
       <tuv lang="EN">
         <seg>Please contact the &lt;a0&gt;OmegaT Localization Co-ordinator&lt;/a0&gt; for details of what is involved in localizing/translating OmegaT.</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="lesia" changedate="20200323T072851Z" creationid="maximo" creationdate="20200322T180216Z">
-        <seg>Будь ласка, зв'яжіться із &lt;a0&gt;відповідальним за локалізацію OmegaT&lt;/a0&gt;, щоб взнати більше про те, як відбувається локалізація та переклад OmegaT.</seg>
+      <tuv lang="UK-UA" changeid="lesia" changedate="20200323T222919Z" creationid="maximo" creationdate="20200322T180216Z">
+        <seg>Будь ласка, зв'яжіться із &lt;a0&gt;відповідальним за локалізацію OmegaT&lt;/a0&gt;, щоб дізнатися більше про те, як відбувається локалізація та переклад OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
@@ -16112,8 +16112,8 @@ The scope of a text replacement is the target segments of the project, whether t
       <tuv lang="EN">
         <seg>That means there are only a few thousand left!</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="lesia" changedate="20200323T072740Z" creationid="maximo" creationdate="20200322T175949Z">
-        <seg>А це означає, що залишилося лише кілька тисяч!</seg>
+      <tuv lang="UK-UA" changeid="lesia" changedate="20200323T222838Z" creationid="maximo" creationdate="20200322T175949Z">
+        <seg>А це означає, що залишилося лише кілька тисяч ;)</seg>
       </tuv>
     </tu>
     <tu>
