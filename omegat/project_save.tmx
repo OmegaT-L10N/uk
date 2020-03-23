@@ -8247,8 +8247,8 @@ is to use Java Web Start.</seg>
       <tuv lang="EN">
         <seg>If you install the OmegaT version with JRE even though the JRE is already installed on your computer, OmegaT's JRE will be installed separately and will not conflict with it.</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="maximo" changedate="20200322T160103Z" creationid="maximo" creationdate="20200322T160103Z">
-        <seg>Якщо ви встановите версію OmegaT із JRE, то навіть якщо у вас вже було встановлене середовище Java, нова його версія буде встановлена окремо і ніяк не буде впливати на стару, чи на програми, що її використовували.</seg>
+      <tuv lang="UK-UA" changeid="lesia" changedate="20200323T215748Z" creationid="maximo" creationdate="20200322T160103Z">
+        <seg>Якщо ви встановите версію OmegaT із JRE, то навіть якщо у вас вже було середовище Java, нова його версія встановиться окремо і ніяк не впливатиме на стару чи на програми, що її використовували.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8952,8 +8952,8 @@ click on that shortcut.</seg>
       <tuv lang="EN">
         <seg>It is therefore always safe to install the version of OmegaT with JRE.</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="maximo" changedate="20200322T160211Z" creationid="maximo" creationdate="20200322T160211Z">
-        <seg>Таким чином, ви завжди можете без сумнівів обирати версію OmegaT із JRE.</seg>
+      <tuv lang="UK-UA" changeid="lesia" changedate="20200323T215847Z" creationid="maximo" creationdate="20200322T160211Z">
+        <seg>Тому можна завжди сміливо обирати версію OmegaT із JRE.</seg>
       </tuv>
     </tu>
     <tu>
