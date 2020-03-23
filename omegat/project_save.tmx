@@ -7861,8 +7861,8 @@ Its winter has come</seg>
       <tuv lang="EN">
         <seg>However, some users may face restrictions (imposed by their operating systems or Java version) that may result in a preference for an older version.</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="maximo" changedate="20200322T155520Z" creationid="maximo" creationdate="20200322T155520Z">
-        <seg>Але дехто може стикнутися із обмеженнями (наприклад, у зв'язку з версією операційної системи чи середовища Java), що змусять надати перевагу старішій версії.</seg>
+      <tuv lang="UK-UA" changeid="lesia" changedate="20200323T214356Z" creationid="maximo" creationdate="20200322T155520Z">
+        <seg>Але декому доводиться встановлювати старішу версію програми з технічних причин - (наприклад, через обмеження, пов'язані з операційною системою чи середовищем Java).</seg>
       </tuv>
     </tu>
     <tu>
@@ -9619,8 +9619,8 @@ itself on the first run.</seg>
       <tuv lang="EN">
         <seg>Legacy versions are older versions that have been superseded.</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="maximo" changedate="20200322T155304Z" creationid="maximo" creationdate="20200322T155304Z">
-        <seg>Старі версії більше не підтримуються.</seg>
+      <tuv lang="UK-UA" changeid="lesia" changedate="20200323T214102Z" creationid="maximo" creationdate="20200322T155304Z">
+        <seg>Але вони більше не підтримуються.</seg>
       </tuv>
     </tu>
     <tu>
@@ -19301,8 +19301,8 @@ the installation script (linux-install.sh).</seg>
       <tuv lang="EN">
         <seg>You can still find &lt;a0&gt;older, superseded versions&lt;/a0&gt; of OmegaT.</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="lesia" changedate="20200323T213735Z" creationid="maximo" creationdate="20200322T155221Z">
-        <seg>&lt;a0&gt;Старіші версії&lt;/a0&gt; OmegaT все ще доступні.</seg>
+      <tuv lang="UK-UA" changeid="lesia" changedate="20200323T214049Z" creationid="maximo" creationdate="20200322T155221Z">
+        <seg>&lt;a0&gt;Попередні версії&lt;/a0&gt; OmegaT все ще доступні.</seg>
       </tuv>
     </tu>
     <tu>
