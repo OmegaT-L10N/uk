@@ -2602,8 +2602,8 @@ The current setting is {0}MB;</seg>
       <tuv lang="EN">
         <seg>Alternatively, if you already know which version you wish to download, click on the button to have an overview of the different OmegaT versions available.</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="maximo" changedate="20200322T172443Z" creationid="maximo" creationdate="20200322T172443Z">
-        <seg>Якщо ж ви вже знаєте, яка версія вам потрібна, натисніть на кнопку, щоб побачити, які версії OmegaT доступні.</seg>
+      <tuv lang="UK-UA" changeid="lesia" changedate="20200323T065402Z" creationid="maximo" creationdate="20200322T172443Z">
+        <seg>Якщо ви вже знаєте, яка версія вам потрібна, натисніть тут, щоб побачити всі доступні версії.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5641,8 +5641,8 @@ Buy another drink</seg>
       <tuv lang="EN">
         <seg>Download Selector</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="maximo" changedate="20200322T172646Z" creationid="maximo" creationdate="20200322T172646Z">
-        <seg>Вибір версії</seg>
+      <tuv lang="UK-UA" changeid="lesia" changedate="20200323T065412Z" creationid="maximo" creationdate="20200322T172646Z">
+        <seg>Вибрати версію</seg>
       </tuv>
     </tu>
     <tu>
@@ -17256,8 +17256,8 @@ the server.</seg>
       <tuv lang="EN">
         <seg>To find the version most suitable for you, follow the link below to the Download Selector.</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="maximo" changedate="20200322T172701Z" creationid="maximo" creationdate="20200322T172329Z">
-        <seg>Вибрати найзручнішу для вас версію можна за посиланням "вибір версії" нижче.</seg>
+      <tuv lang="UK-UA" changeid="lesia" changedate="20200323T065239Z" creationid="maximo" creationdate="20200322T172329Z">
+        <seg>Підібрати найзручнішу для вас версію можна за посиланням "вибрати версію" нижче.</seg>
       </tuv>
     </tu>
     <tu>
