@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="OmegaT-4.3.2" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.2_0_6a661c5e0" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -9749,8 +9749,8 @@ itself on the first run.</seg>
       <tuv lang="EN">
         <seg>Linux binary version of Toxic.</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="maximo" changedate="20200323T221020Z" creationid="lesia" creationdate="20200322T154454Z">
-        <seg>Скомпільований Toxic для Linux.</seg>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200323T221116Z" creationid="lesia" creationdate="20200322T154454Z">
+        <seg>Toxic скомпільований для Linux.</seg>
       </tuv>
     </tu>
     <tu>
@@ -14258,16 +14258,16 @@ The scope of a search is by default the project and can be set to be any files l
       <tuv lang="EN">
         <seg>Script for extracting text for translation from plain-text files (e.g. computer source code) for translation in OmegaT.</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="lesia" changedate="20200322T154728Z" creationid="lesia" creationdate="20200322T154728Z">
-        <seg>Скрипт для вилучення тексту для перекладу з файлів plain text (наприклад, з вихідного коду) для перекладу в OmegaT.</seg>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200323T221902Z" creationid="lesia" creationdate="20200322T154728Z">
+        <seg>Скрипт для вилучення тексту для перекладу із структурованих текстових файлів (наприклад, з вихідного коду) та підготовки його для перекладу в OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Script versions of Toxic.</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="lesia" changedate="20200322T154625Z" creationid="lesia" creationdate="20200322T154625Z">
-        <seg>Версії скриптів Toxic.</seg>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200323T221139Z" creationid="lesia" creationdate="20200322T154625Z">
+        <seg>Скриптова версія Toxic.</seg>
       </tuv>
     </tu>
     <tu>
@@ -18933,8 +18933,8 @@ Your page is not found</seg>
       <tuv lang="EN">
         <seg>Windows executable version of Toxic.</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="lesia" changedate="20200322T154350Z" creationid="lesia" creationdate="20200322T154350Z">
-        <seg>Версія Toxic для Windows.</seg>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200323T221057Z" creationid="lesia" creationdate="20200322T154350Z">
+        <seg>Toxic скомпільований для Windows.</seg>
       </tuv>
     </tu>
     <tu>
