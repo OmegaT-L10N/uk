@@ -3362,8 +3362,8 @@ Buy another drink</seg>
       <tuv lang="EN">
         <seg>But I can't program at all, I hear you say.</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="maximo" changedate="20200322T181244Z" creationid="maximo" creationdate="20200322T181244Z">
-        <seg>Але я взагалі не вмію програмувати, скажете ви.</seg>
+      <tuv lang="UK-UA" changeid="lesia" changedate="20200323T223409Z" creationid="maximo" creationdate="20200322T181244Z">
+        <seg>"Але я взагалі не вмію програмувати!" - скажете ви.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8303,8 +8303,8 @@ is to use Java Web Start.</seg>
       <tuv lang="EN">
         <seg>If you're a programmer and you happen to know Java, please check the documentation in the &lt;a0&gt;source code&lt;/a0&gt; under /docs_devel for information on how to get started.</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="maximo" changedate="20200323T213346Z" creationid="maximo" creationdate="20200322T180933Z">
-        <seg>Якщо ви програміст і знаєте Java, прочитайте про те, як можна почати допомагати проєкту у &lt;a0&gt;вихідному коді&lt;/a0&gt; у директорії /docs_devel.</seg>
+      <tuv lang="UK-UA" changeid="lesia" changedate="20200323T223236Z" creationid="maximo" creationdate="20200322T180933Z">
+        <seg>Якщо ви програмуєте і знаєте Java, прочитайте про те, як можна почати допомагати проєкту у &lt;a0&gt;вихідному коді&lt;/a0&gt; у директорії /docs_devel.</seg>
       </tuv>
     </tu>
     <tu>
