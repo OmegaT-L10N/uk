@@ -14258,8 +14258,8 @@ The scope of a search is by default the project and can be set to be any files l
       <tuv lang="EN">
         <seg>Script for extracting text for translation from plain-text files (e.g. computer source code) for translation in OmegaT.</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="maximo" changedate="20200323T221902Z" creationid="lesia" creationdate="20200322T154728Z">
-        <seg>Скрипт для вилучення тексту для перекладу із структурованих текстових файлів (наприклад, з вихідного коду) та підготовки його для перекладу в OmegaT.</seg>
+      <tuv lang="UK-UA" changeid="lesia" changedate="20200323T224338Z" creationid="lesia" creationdate="20200322T154728Z">
+        <seg>Скрипт для екстрагування тексту для перекладу із структурованих текстових файлів (наприклад, з вихідного коду) та підготовки його для перекладу в OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
