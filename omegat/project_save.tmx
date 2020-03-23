@@ -7861,8 +7861,8 @@ Its winter has come</seg>
       <tuv lang="EN">
         <seg>However, some users may face restrictions (imposed by their operating systems or Java version) that may result in a preference for an older version.</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="lesia" changedate="20200323T214356Z" creationid="maximo" creationdate="20200322T155520Z">
-        <seg>Але декому доводиться встановлювати старішу версію програми з технічних причин - (наприклад, через обмеження, пов'язані з операційною системою чи середовищем Java).</seg>
+      <tuv lang="UK-UA" changeid="lesia" changedate="20200323T214437Z" creationid="maximo" creationdate="20200322T155520Z">
+        <seg>Але декому доводиться встановлювати старішу версію програми з технічних причин, наприклад, через обмеження, пов'язані з операційною системою чи середовищем Java.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8424,8 +8424,8 @@ click on that shortcut.</seg>
       <tuv lang="EN">
         <seg>In order to run, OmegaT requires the Java Runtime Environment (JRE) to be installed on your computer.</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="maximo" changedate="20200322T155612Z" creationid="maximo" creationdate="20200322T155612Z">
-        <seg>Для роботи OmegaT необхідно, щоб у вас на комп'ютері було встановлене середовище виконання Java Runtime Environment (JRE).</seg>
+      <tuv lang="UK-UA" changeid="lesia" changedate="20200323T214554Z" creationid="maximo" creationdate="20200322T155612Z">
+        <seg>Для роботи OmegaT необхідно, щоб у вас на комп'ютері було встановлене середовище Java Runtime Environment (JRE).</seg>
       </tuv>
     </tu>
     <tu>
@@ -18965,8 +18965,8 @@ Your page is not found</seg>
       <tuv lang="EN">
         <seg>With/without JRE</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="maximo" changedate="20200322T155534Z" creationid="maximo" creationdate="20200322T155534Z">
-        <seg>Із/без JRE</seg>
+      <tuv lang="UK-UA" changeid="lesia" changedate="20200323T214517Z" creationid="maximo" creationdate="20200322T155534Z">
+        <seg>З/Без JRE</seg>
       </tuv>
     </tu>
     <tu>
