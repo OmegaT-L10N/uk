@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.2_0_6a661c5e0" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="OmegaT-4.3.2" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -8311,8 +8311,8 @@ is to use Java Web Start.</seg>
       <tuv lang="EN">
         <seg>If you're a programmer and you happen to know Java, please check the documentation in the &lt;a0&gt;source code&lt;/a0&gt; under /docs_devel for information on how to get started.</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="maximo" changedate="20200322T180933Z" creationid="maximo" creationdate="20200322T180933Z">
-        <seg>Якщо ви програміст та знаєте Java, то прочитати про те, як можна почати допомагати проєкту можна прочитати у &lt;a0&gt;вихідному коді&lt;/a0&gt; у директорії /docs_devel.</seg>
+      <tuv lang="UK-UA" changeid="lesia" changedate="20200323T073237Z" creationid="maximo" creationdate="20200322T180933Z">
+        <seg>Якщо ви програміст і знаєте Java, прочитайте про те, як можна почати допомагати проєкту у&lt;a0&gt;вихідному коді&lt;/a0&gt; у директорії /docs_devel.</seg>
       </tuv>
     </tu>
     <tu>
@@ -17078,8 +17078,8 @@ the server.</seg>
       <tuv lang="EN">
         <seg>This is described as "free as in speech", in contrast to "free as in beer".</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="lesia" changedate="20200321T151332Z" creationid="lesia" creationdate="20200321T151332Z">
-        <seg>Отже, ви абсолютно вільні у користуванні програмою і можете змінювати вихідний код OmegaT на свій розсуд, а не лише безкоштовно користуватися функціями програми.</seg>
+      <tuv lang="UK-UA" changeid="lesia" changedate="20200323T101915Z" creationid="lesia" creationdate="20200321T151332Z">
+        <seg>Тут вам дають свободу дій, а не просто дають щось на дурничку.</seg>
       </tuv>
     </tu>
     <tu>
