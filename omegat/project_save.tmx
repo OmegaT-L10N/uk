@@ -12722,8 +12722,8 @@ project without team functionality.</seg>
       <tuv lang="EN">
         <seg>Privacy information: OmegaT Java Web Start does not save any of your information to OmegaT's web servers.</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="maximo" changedate="20200322T162815Z" creationid="maximo" creationdate="20200322T162815Z">
-        <seg>Обробка користувацьких даних: OmegaT Java Web Start не надсилає ніяку вашу інформацію на сервери OmegaT.</seg>
+      <tuv lang="UK-UA" changeid="lesia" changedate="20200322T215046Z" creationid="maximo" creationdate="20200322T162815Z">
+        <seg>Обробка персональних даних: OmegaT Java Web Start не надсилає ніяку вашу інформацію на сервери OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
@@ -16153,8 +16153,8 @@ current folder will be used instead.</seg>
       <tuv lang="EN">
         <seg>The "master" (alpha) version reflects the very latest state of development.</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="maximo" changedate="20200322T163855Z" creationid="maximo" creationdate="20200322T163855Z">
-        <seg>Версія з гілки "master" (альфа-версія) відображає останній стан розробки програми.</seg>
+      <tuv lang="UK-UA" changeid="lesia" changedate="20200322T215118Z" creationid="maximo" creationdate="20200322T163855Z">
+        <seg>Версія з гілки "master" (альфа-версія) відображує останній стан розробки програми.</seg>
       </tuv>
     </tu>
     <tu>
