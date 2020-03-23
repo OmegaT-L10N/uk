@@ -1413,8 +1413,8 @@ To add files to the project, click on the Copy Files to Source Folder... button 
       <tuv lang="EN">
         <seg>(Software that does this is called "machine translation", and you will have to look elsewhere for it.)</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="maximo" changedate="20200322T171120Z" creationid="maximo" creationdate="20200322T171120Z">
-        <seg>(Програми, що це роблять, називаються програмами "машинного перекладу", і вам треба шукати їх в іншому місці.)</seg>
+      <tuv lang="UK-UA" changeid="lesia" changedate="20200323T063154Z" creationid="maximo" creationdate="20200322T171120Z">
+        <seg>(це робить так званий "машинний переклад", і якщо вам треба саме він, шукайте відповідні програми в іншому місці).</seg>
       </tuv>
     </tu>
     <tu>
@@ -8896,8 +8896,8 @@ click on that shortcut.</seg>
       <tuv lang="EN">
         <seg>It does not translate for you!</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="maximo" changedate="20200322T171003Z" creationid="maximo" creationdate="20200322T171003Z">
-        <seg>Вона не буде перекладати замість вас!</seg>
+      <tuv lang="UK-UA" changeid="lesia" changedate="20200323T062904Z" creationid="maximo" creationdate="20200322T171003Z">
+        <seg>OmegaT не перекладатиме замість вас!</seg>
       </tuv>
     </tu>
     <tu>
@@ -8920,8 +8920,8 @@ click on that shortcut.</seg>
       <tuv lang="EN">
         <seg>It is a tool intended for professional translators.</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="maximo" changedate="20200322T170940Z" creationid="maximo" creationdate="20200322T170940Z">
-        <seg>Це інструмент, що призначений для професійних перекладачів.</seg>
+      <tuv lang="UK-UA" changeid="lesia" changedate="20200323T062821Z" creationid="maximo" creationdate="20200322T170940Z">
+        <seg>Це інструмент, призначений для професійних перекладачів.</seg>
       </tuv>
     </tu>
     <tu>
