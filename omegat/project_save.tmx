@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.2_0_6a661c5e0" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="OmegaT-4.3.2" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -1994,7 +1994,7 @@ The current setting is {0}MB;</seg>
       <tuv lang="EN">
         <seg>&lt;s0&gt;OmegaT&lt;/s0&gt; is available in many different versions in order to suit a range of user requirements.</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="maximo" changedate="20200322T172226Z" creationid="maximo" creationdate="20200322T172131Z">
+      <tuv lang="UK-UA" changeid="lesia" changedate="20200323T222308Z" creationid="maximo" creationdate="20200322T172131Z">
         <seg>Щоб задовільнити потреби різних користувачів, &lt;s0&gt;OmegaT&lt;/s0&gt; доступна у багатьох версіях.</seg>
       </tuv>
     </tu>
@@ -2602,8 +2602,8 @@ The current setting is {0}MB;</seg>
       <tuv lang="EN">
         <seg>Alternatively, if you already know which version you wish to download, click on the button to have an overview of the different OmegaT versions available.</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="lesia" changedate="20200323T065402Z" creationid="maximo" creationdate="20200322T172443Z">
-        <seg>Якщо ви вже знаєте, яка версія вам потрібна, натисніть тут, щоб побачити всі доступні версії.</seg>
+      <tuv lang="UK-UA" changeid="lesia" changedate="20200323T222405Z" creationid="maximo" creationdate="20200322T172443Z">
+        <seg>Якщо ви вже знаєте, яка версія вам потрібна, натисніть тут, щоб побачити всі доступні варіанти.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4283,8 +4283,8 @@ Buy another drink</seg>
       <tuv lang="EN">
         <seg>Compatible with other translation memory applications (TMX, TTX, TXML, XLIFF, SDLXLIFF)</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="lesia" changedate="20200323T065023Z" creationid="maximo" creationdate="20200322T172023Z">
-        <seg>Сумісна із іншими програмами для перекладу (TMX, TTX, TXML, XLIFF, SDLXLIFF)</seg>
+      <tuv lang="UK-UA" changeid="lesia" changedate="20200323T222222Z" creationid="maximo" creationdate="20200322T172023Z">
+        <seg>Сумісність із іншими програмами для перекладу (TMX, TTX, TXML, XLIFF, SDLXLIFF)</seg>
       </tuv>
     </tu>
     <tu>
