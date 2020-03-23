@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="OmegaT-4.3.2" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.2_0_6a661c5e0" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -8880,8 +8880,8 @@ click on that shortcut.</seg>
       <tuv lang="EN">
         <seg>It can be found in the "docs" folder in your OmegaT program folder.</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="maximo" changedate="20200322T112839Z" creationid="maximo" creationdate="20200322T112839Z">
-        <seg>Він розташований у папці програми OmegaT "docs".</seg>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200323T220110Z" creationid="maximo" creationdate="20200322T112839Z">
+        <seg>Він розташований у директорії програми OmegaT "docs".</seg>
       </tuv>
     </tu>
     <tu>
