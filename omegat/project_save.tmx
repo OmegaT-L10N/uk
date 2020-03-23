@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.2_0_6a661c5e0" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="OmegaT-4.3.2" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -5521,8 +5521,8 @@ Buy another drink</seg>
       <tuv lang="EN">
         <seg>Documentation, particularly of new features, will be less comprehensive than that of the Standard version.</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="maximo" changedate="20200322T154029Z" creationid="maximo" creationdate="20200322T154029Z">
-        <seg>Документація, особливо що стосується нових функцій, буде менш детальною та консистентною.</seg>
+      <tuv lang="UK-UA" changeid="lesia" changedate="20200323T161909Z" creationid="maximo" creationdate="20200322T154029Z">
+        <seg>Документація буде менш детальною та консистентною. Особливо це стосується нових функцій.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8896,8 +8896,8 @@ click on that shortcut.</seg>
       <tuv lang="EN">
         <seg>It has usually been in use for some time and is therefore proven.</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="maximo" changedate="20200322T152747Z" creationid="maximo" creationdate="20200322T152747Z">
-        <seg>Ця версія перевірена, як правило, нею вже деякий час користувались люди.</seg>
+      <tuv lang="UK-UA" changeid="lesia" changedate="20200323T161627Z" creationid="maximo" creationdate="20200322T152747Z">
+        <seg>Ця версія перевірена - вона вже деякий час використовується.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9067,8 +9067,8 @@ itself on the first run.</seg>
       <tuv lang="EN">
         <seg>Its documentation, at least in English, is usually reasonably up to date.</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="maximo" changedate="20200322T153106Z" creationid="maximo" creationdate="20200322T152845Z">
-        <seg>Її функціонал покритий документацією (як мінімум, англійською мовою).</seg>
+      <tuv lang="UK-UA" changeid="lesia" changedate="20200323T161718Z" creationid="maximo" creationdate="20200322T152845Z">
+        <seg>Її функціонал покритий документацією (щонайменше, англійською мовою).</seg>
       </tuv>
     </tu>
     <tu>
