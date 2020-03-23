@@ -8936,8 +8936,8 @@ click on that shortcut.</seg>
       <tuv lang="EN">
         <seg>It is recommended for serious developers and testers only.</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="maximo" changedate="20200322T163937Z" creationid="maximo" creationdate="20200322T163937Z">
-        <seg>Її рекомендується використовувати тільки розробникам та тестувальникам.</seg>
+      <tuv lang="UK-UA" changeid="lesia" changedate="20200323T221655Z" creationid="maximo" creationdate="20200322T163937Z">
+        <seg>Вона потрібна лише розробникам та тестувальникам.</seg>
       </tuv>
     </tu>
     <tu>
@@ -15236,8 +15236,8 @@ The scope of a search is by default the project and can be set to be any files l
       <tuv lang="EN">
         <seg>Source code packages are not required by users and are intended for developers only.</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="maximo" changedate="20200322T164111Z" creationid="maximo" creationdate="20200322T164111Z">
-        <seg>Кінцевим користувачам немає потреби працювати з пакетами вихідного коду. Вони призначені лише для розробників.</seg>
+      <tuv lang="UK-UA" changeid="lesia" changedate="20200323T221904Z" creationid="maximo" creationdate="20200322T164111Z">
+        <seg>Користувачам не потрібні пакети вихідного коду. Вони призначені лише для розробників.</seg>
       </tuv>
     </tu>
     <tu>
@@ -16145,8 +16145,8 @@ current folder will be used instead.</seg>
       <tuv lang="EN">
         <seg>The "master" (alpha) version reflects the very latest state of development.</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="lesia" changedate="20200322T215118Z" creationid="maximo" creationdate="20200322T163855Z">
-        <seg>Версія з гілки "master" (альфа-версія) відображує останній стан розробки програми.</seg>
+      <tuv lang="UK-UA" changeid="lesia" changedate="20200323T221742Z" creationid="maximo" creationdate="20200322T163855Z">
+        <seg>Версія з гілки "master" (альфа-версія) відображує останній стан розвитку програми.</seg>
       </tuv>
     </tu>
     <tu>
