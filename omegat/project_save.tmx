@@ -7137,8 +7137,8 @@ script provided (omegat.kaptn).</seg>
       <tuv lang="EN">
         <seg>For example, anyone is free to make changes to OmegaT's program code and to submit these changes to the development team.</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="lesia" changedate="20200321T154329Z" creationid="lesia" creationdate="20200321T154329Z">
-        <seg>Наприклад, внести зміни в програмний код OmegaT і представити ці зміни команді розробників проекту може будь-хто.</seg>
+      <tuv lang="UK-UA" changeid="lesia" changedate="20200323T154612Z" creationid="lesia" creationdate="20200321T154329Z">
+        <seg>Наприклад, внести зміни в програмний код OmegaT і представити ці зміни команді розробників у може будь-хто.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7595,14 +7595,6 @@ script provided (omegat.kaptn).</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20190517T104414Z" creationid="Kos Ivantsov" creationdate="20190517T104414Z">
         <seg>Група {0} не існує у виразі, за яким було здійснено пошук</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>Guida completa a OmegaT: tecniche, trucchi e consigli per traduttori e project manager</seg>
-      </tuv>
-      <tuv lang="UK-UA" changeid="maximo" changedate="20200322T135416Z" creationid="maximo" creationdate="20200322T135416Z">
-        <seg>Повний посібник про OmegaT: методи, поради та підказки для перекладачів та менеджерів проектів</seg>
       </tuv>
     </tu>
     <tu>
