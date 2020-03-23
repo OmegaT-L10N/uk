@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="OmegaT-4.3.2" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.2_0_6a661c5e0" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -18401,8 +18401,8 @@ on line {1}, column {2}.</seg>
       <tuv lang="EN">
         <seg>User portrait</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="lesia" changedate="20200323T065551Z" creationid="maximo" creationdate="20200322T172737Z">
-        <seg>Наші користувачі</seg>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200323T161220Z" creationid="maximo" creationdate="20200322T172737Z">
+        <seg>Відгуки користувачів</seg>
       </tuv>
     </tu>
     <tu>
