@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="OmegaT-4.3.2" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.2_0_6a661c5e0" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -9885,8 +9885,8 @@ itself on the first run.</seg>
       <tuv lang="EN">
         <seg>Localizing OmegaT into other languages is also an ongoing task, since new features and functions are being added all the time.</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="lesia" changedate="20200323T072812Z" creationid="maximo" creationdate="20200322T180053Z">
-        <seg>Локалізація OmegaT іншими мовами - це постійне завдання, оскільки до весь час додаються нові функції.</seg>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200323T213132Z" creationid="maximo" creationdate="20200322T180053Z">
+        <seg>Локалізація - це постійне завдання, оскільки до OmegaT весь час додаються нові функції.</seg>
       </tuv>
     </tu>
     <tu>
