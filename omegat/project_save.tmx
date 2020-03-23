@@ -2825,8 +2825,8 @@ The TMX file will not be loaded.</seg>
       <tuv lang="EN">
         <seg>And when they find things that don't work, or deficiencies in the documentation, to tell us about them.</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="maximo" changedate="20200322T180443Z" creationid="maximo" creationdate="20200322T180443Z">
-        <seg>І коли щось не працює, чи документація неправильна, повідомляти нам про ці недоліки.</seg>
+      <tuv lang="UK-UA" changeid="lesia" changedate="20200323T072930Z" creationid="maximo" creationdate="20200322T180443Z">
+        <seg>І коли щось не працює чи документація неправильна, повідомляти нам про ці недоліки.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7697,8 +7697,8 @@ script provided (omegat.kaptn).</seg>
       <tuv lang="EN">
         <seg>Have you ever written an article for your professional association's journal?</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="maximo" changedate="20200322T180601Z" creationid="maximo" creationdate="20200322T180601Z">
-        <seg>Ви колись публікувались у журналах вашого професійного спрямування?</seg>
+      <tuv lang="UK-UA" changeid="lesia" changedate="20200323T073010Z" creationid="maximo" creationdate="20200322T180601Z">
+        <seg>Ви колись публікували статтю у журналах вашого професійного спрямування?</seg>
       </tuv>
     </tu>
     <tu>
@@ -8247,8 +8247,8 @@ is to use Java Web Start.</seg>
       <tuv lang="EN">
         <seg>If you have found OmegaT useful and would like to express your gratitude by making a &lt;a0&gt;donation&lt;/a0&gt; on our Paypal account.</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="maximo" changedate="20200322T180657Z" creationid="maximo" creationdate="20200322T180657Z">
-        <seg>Якщо ви бачите користь від OmegaT, ви можете виразити свою вдячність пожертвою на наш акаунт Paypal.</seg>
+      <tuv lang="UK-UA" changeid="lesia" changedate="20200323T073053Z" creationid="maximo" creationdate="20200322T180657Z">
+        <seg>Якщо OmegaT видається вам корисною, ви можете виразити свою вдячність пожертвою на наш акаунт Paypal.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12322,8 +12322,8 @@ to determine the source of the error and try again.</seg>
       <tuv lang="EN">
         <seg>Please contact the &lt;a0&gt;OmegaT Localization Co-ordinator&lt;/a0&gt; for details of what is involved in localizing/translating OmegaT.</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="maximo" changedate="20200322T180216Z" creationid="maximo" creationdate="20200322T180216Z">
-        <seg>Будь ласка, зв'яжіться із &lt;a0&gt;відповідальним за локалізацію OmegaT&lt;/a0&gt;, щоб взнати більше про те, що включає в себе локалізація та переклад OmegaT.</seg>
+      <tuv lang="UK-UA" changeid="lesia" changedate="20200323T072851Z" creationid="maximo" creationdate="20200322T180216Z">
+        <seg>Будь ласка, зв'яжіться із &lt;a0&gt;відповідальним за локалізацію OmegaT&lt;/a0&gt;, щоб взнати більше про те, як відбувається локалізація та переклад OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
