@@ -15004,16 +15004,16 @@ The scope of a search is by default the project and can be set to be any files l
       <tuv lang="EN">
         <seg>Simultaneous processing of multiple-file projects</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="maximo" changedate="20200322T171226Z" creationid="maximo" creationdate="20200322T171226Z">
-        <seg>Одночасна робота у проєктах з великою кількістю файлів</seg>
+      <tuv lang="UK-UA" changeid="lesia" changedate="20200323T063902Z" creationid="maximo" creationdate="20200322T171226Z">
+        <seg>Зручна робота над проєктами з багатьма файлами</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Simultaneous use of multiple translation memories</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="maximo" changedate="20200322T171312Z" creationid="maximo" creationdate="20200322T171312Z">
-        <seg>Одночасне використання багатьох джерел пам'яті перекладача</seg>
+      <tuv lang="UK-UA" changeid="lesia" changedate="20200323T063941Z" creationid="maximo" creationdate="20200322T171312Z">
+        <seg> Одночасне використання кількох файлів пам'яті перекладів</seg>
       </tuv>
     </tu>
     <tu>
