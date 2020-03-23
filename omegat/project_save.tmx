@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.2_0_6a661c5e0" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="OmegaT-4.3.2" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -8424,8 +8424,8 @@ click on that shortcut.</seg>
       <tuv lang="EN">
         <seg>In order to run, OmegaT requires the Java Runtime Environment (JRE) to be installed on your computer.</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="lesia" changedate="20200323T214554Z" creationid="maximo" creationdate="20200322T155612Z">
-        <seg>Для роботи OmegaT необхідно, щоб у вас на комп'ютері було встановлене середовище Java Runtime Environment (JRE).</seg>
+      <tuv lang="UK-UA" changeid="lesia" changedate="20200323T214720Z" creationid="maximo" creationdate="20200322T155612Z">
+        <seg>Для роботи OmegaT необхідно, щоб у вас на комп'ютері було встановлене середовище Java - Java Runtime Environment (JRE).</seg>
       </tuv>
     </tu>
     <tu>
