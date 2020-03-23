@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.2_0_6a661c5e0" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="OmegaT-4.3.2" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -16597,8 +16597,8 @@ in /lib/licenses/Licenses.txt.</seg>
       <tuv lang="EN">
         <seg>The permissions you give to this version (which may be described as "unrestricted access to the computer") are no different from the permissions you assign to the local version, i.e., an access to the hard drive of your computer.</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="maximo" changedate="20200322T162447Z" creationid="maximo" creationdate="20200322T162447Z">
-        <seg>Дозволи, які вам треба надати для цієї версії (вони можуть описуватись як "необмежений доступ до комп'ютера"), насправді нічим не відрізняються від дозволів, які ви б надали звичайній версії OmegaT, тобто доступ до жорсткого диску.</seg>
+      <tuv lang="UK-UA" changeid="lesia" changedate="20200323T221215Z" creationid="maximo" creationdate="20200322T162447Z">
+        <seg>Для встановлення цієї версії ваша система може просити у вас "необмеженого доступу до комп'ютера". Однак насправді потрібен той самий дозвіл, що і для встановлення звичайної версії OmegaT, тобто доступ до жорстокого диску. Дозволи, які вам треба надати для цієї версії (вони можуть описуватись як "необмежений доступ до комп'ютера"), насправді нічим не відрізняються від дозволів, які ви б надали звичайній версії OmegaT, тобто доступ до жорсткого диску.</seg>
       </tuv>
     </tu>
     <tu>
