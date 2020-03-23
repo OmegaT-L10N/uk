@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.2_0_6a661c5e0" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="OmegaT-4.3.2" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -10682,8 +10682,8 @@ appropriate location such as the Applications folder.</seg>
       <tuv lang="EN">
         <seg>Nevertheless, the "Latest" versions of OmegaT are usually very stable and are recommended for any users who already have some experience with OmegaT.</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="maximo" changedate="20200322T145951Z" creationid="maximo" creationdate="20200322T145951Z">
-        <seg>Не зважаючи на це, "останні" версії OmegaT як правило дуже надійні, і їх рекомендується використовувати всім, хто вже має досвід використання OmegaT.</seg>
+      <tuv lang="UK-UA" changeid="lesia" changedate="20200323T161104Z" creationid="maximo" creationdate="20200322T145951Z">
+        <seg>Незважаючи на це, "останні" версії OmegaT, як правило, дуже надійні, і їх рекомендується використовувати всім, хто вже має досвід використання OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
