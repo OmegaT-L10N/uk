@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="OmegaT-4.3.2" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.2_0_6a661c5e0" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -2942,8 +2942,8 @@ may experience unexpected, but correct behaviour.</seg>
       <tuv lang="EN">
         <seg>As with free developments, however, the principle still applies that any changes to OmegaT must be beneficial to the application and its users.</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="maximo" changedate="20200322T203451Z" creationid="lesia" creationdate="20200322T145919Z">
-        <seg>Однак, як і у випадку із розробками що приходять зі спільноти, будь-які зміни в OmegaT повинні бути корисними для програми та її користувачів.</seg>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200323T082438Z" creationid="lesia" creationdate="20200322T145919Z">
+        <seg>Однак, як і у випадку із розробками, що приходять зі спільноти, будь-які зміни в OmegaT повинні бути корисними для програми та її користувачів.</seg>
       </tuv>
     </tu>
     <tu>
