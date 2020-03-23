@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="OmegaT-4.3.2" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.2_0_6a661c5e0" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -2793,8 +2793,8 @@ The TMX file will not be loaded.</seg>
       <tuv lang="EN">
         <seg>An introductory video to OmegaT in English by John Moran.</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="maximo" changedate="20200322T125502Z" creationid="maximo" creationdate="20200322T125502Z">
-        <seg>Вступне відео про OmegaT, Джон Моран (англійською мовою).</seg>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200323T154929Z" creationid="maximo" creationdate="20200322T125502Z">
+        <seg>Вступне відео про OmegaT, John Moran (англійською мовою).</seg>
       </tuv>
     </tu>
     <tu>
@@ -3410,8 +3410,8 @@ Buy another drink</seg>
       <tuv lang="EN">
         <seg>By Marco Cevoli and Sergio Alasia.</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="maximo" changedate="20200322T135438Z" creationid="maximo" creationdate="20200322T135438Z">
-        <seg>Марко Чеволі та Серджіо Алазія</seg>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200323T155007Z" creationid="maximo" creationdate="20200322T135438Z">
+        <seg>Marco Cevoli та Sergio Alasia.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7305,8 +7305,8 @@ script provided (omegat.kaptn).</seg>
       <tuv lang="EN">
         <seg>From the YouTube OmegaT series by Miguel Navarro (in Spanish).</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="maximo" changedate="20200322T135302Z" creationid="maximo" creationdate="20200322T135235Z">
-        <seg>Про OmegaT на YouTube, Мігель Наварро (іспанською).</seg>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200323T154939Z" creationid="maximo" creationdate="20200322T135235Z">
+        <seg>Про OmegaT на YouTube, Miguel Navarro (іспанською).</seg>
       </tuv>
     </tu>
     <tu>
