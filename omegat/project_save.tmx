@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="OmegaT-4.3.2" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.2_0_6a661c5e0" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -5641,8 +5641,8 @@ Buy another drink</seg>
       <tuv lang="EN">
         <seg>Download Selector</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="lesia" changedate="20200323T065412Z" creationid="maximo" creationdate="20200322T172646Z">
-        <seg>Вибрати версію</seg>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200323T161149Z" creationid="maximo" creationdate="20200322T172646Z">
+        <seg>Вибір версії</seg>
       </tuv>
     </tu>
     <tu>
@@ -17248,8 +17248,8 @@ the server.</seg>
       <tuv lang="EN">
         <seg>To find the version most suitable for you, follow the link below to the Download Selector.</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="lesia" changedate="20200323T065239Z" creationid="maximo" creationdate="20200322T172329Z">
-        <seg>Підібрати найзручнішу для вас версію можна за посиланням "вибрати версію" нижче.</seg>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200323T161135Z" creationid="maximo" creationdate="20200322T172329Z">
+        <seg>Підібрати найзручнішу для вас версію можна за посиланням "Вибір версії" нижче.</seg>
       </tuv>
     </tu>
     <tu>
