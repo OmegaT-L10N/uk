@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.2_0_6a661c5e0" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="OmegaT-4.3.2" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -1978,8 +1978,8 @@ The current setting is {0}MB;</seg>
       <tuv lang="EN">
         <seg>&lt;s0&gt;Linux users&lt;/s0&gt;: most Linux distributions are supplied with a Java Runtime Environment, but some open-source implementations do not work properly with OmegaT (although this may not be immediately apparent).</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="lesia" changedate="20200322T214816Z" creationid="maximo" creationdate="20200322T160657Z">
-        <seg>&lt;s0&gt;Користувачам Linux&lt;/s0&gt;: більшість дистрибутивів Linux постачаються із встановленим середовищем Java, але деякі його відкриті імплементації погано працюють із OmegaT (і це до того ж може бути помітно не одразу).</seg>
+      <tuv lang="UK-UA" changeid="lesia" changedate="20200323T220131Z" creationid="maximo" creationdate="20200322T160657Z">
+        <seg>&lt;s0&gt;Користувачам Linux&lt;/s0&gt;: більшість дистрибутивів Linux вже мають середовище Java, але деякі його відкриті імплементації погано працюють із OmegaT (це може бути помітно не одразу).</seg>
       </tuv>
     </tu>
     <tu>
