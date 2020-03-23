@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.2_0_6a661c5e0" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="OmegaT-4.3.2" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -11342,8 +11342,8 @@ appropriate location such as the Applications folder.</seg>
       <tuv lang="EN">
         <seg>OmegaT has a presence on various social networks.</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="maximo" changedate="20200321T130903Z" creationid="maximo" creationdate="20200321T130845Z">
-        <seg>OmegaT є в багатьох соціальних мережах.</seg>
+      <tuv lang="UK-UA" changeid="lesia" changedate="20200323T155421Z" creationid="maximo" creationdate="20200321T130845Z">
+        <seg>OmegaT є у багатьох соціальних мережах.</seg>
       </tuv>
     </tu>
     <tu>
@@ -17102,8 +17102,8 @@ the server.</seg>
       <tuv lang="EN">
         <seg>This list is for more technical discussion of features and development, and is intended for OmegaT developers and other interested parties.</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="lesia" changedate="20200322T211226Z" creationid="maximo" creationdate="20200321T130627Z">
-        <seg>Цей список використовується для обговорення технічних питань, функціональності та розвитку програми. Він спрямований в першу чергу на розробників OmegaT.</seg>
+      <tuv lang="UK-UA" changeid="lesia" changedate="20200323T155320Z" creationid="maximo" creationdate="20200321T130627Z">
+        <seg>Цей список використовується для обговорення технічних питань, функціональності та розвитку програми. Він спрямований у першу чергу на розробників OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
