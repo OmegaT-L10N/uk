@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="OmegaT-4.3.2" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.2_0_6a661c5e0" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -12004,8 +12004,8 @@ installed on your system.</seg>
       <tuv lang="EN">
         <seg>Other users are advised to use the &lt;a0&gt;Okapi Filters Plugin&lt;/a0&gt; instead.</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="lesia" changedate="20200323T102349Z" creationid="lesia" creationdate="20200322T154249Z">
-        <seg>Іншим користувачам ми радимо вдатися до плагіну &lt;a0&gt;Okapi Filters&lt;/a0&gt;.</seg>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200323T220837Z" creationid="lesia" creationdate="20200322T154249Z">
+        <seg>Іншим користувачам ми радимо вдатися до плагіна &lt;a0&gt;Okapi Filters&lt;/a0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -15004,8 +15004,8 @@ The scope of a search is by default the project and can be set to be any files l
       <tuv lang="EN">
         <seg>Simultaneous use of multiple translation memories</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="lesia" changedate="20200323T063941Z" creationid="maximo" creationdate="20200322T171312Z">
-        <seg> Одночасне використання кількох файлів пам'яті перекладів</seg>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200323T220748Z" creationid="maximo" creationdate="20200322T171312Z">
+        <seg>Одночасне використання кількох файлів пам'яті перекладів</seg>
       </tuv>
     </tu>
     <tu>
