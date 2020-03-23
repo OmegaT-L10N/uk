@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="OmegaT-4.3.2" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.2_0_6a661c5e0" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -12268,8 +12268,8 @@ everything.</seg>
       <tuv lang="EN">
         <seg>Platform-independent; require tcl/tk.</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="lesia" changedate="20200322T154631Z" creationid="lesia" creationdate="20200322T154631Z">
-        <seg>Для всіх платформ, потрібні Tcl/Tk.</seg>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200323T222319Z" creationid="lesia" creationdate="20200322T154631Z">
+        <seg>Для всіх платформ, вимагає Tcl/Tk.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13688,24 +13688,24 @@ These words: 'Page not found'</seg>
       <tuv lang="EN">
         <seg>Requires Linux, w3m and tcl/tk (both generally supplied with Linux).</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="maximo" changedate="20200323T222127Z" creationid="lesia" creationdate="20200322T155229Z">
-        <seg>Вимагає Linux, w3m та tcl/tk (обидві програми, як правило, вже є на Linux).</seg>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200323T222922Z" creationid="lesia" creationdate="20200322T155229Z">
+        <seg>Для Linux. Вимагає w3m та Tcl/Tk (обидві програми, як правило, вже є на Linux).</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Requires tcl/tk, Abiword and pdftotext.</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="lesia" changedate="20200322T155058Z" creationid="lesia" creationdate="20200322T155058Z">
-        <seg>Вимагає tcl/tk, Abiword та pdftotext.</seg>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200323T222353Z" creationid="lesia" creationdate="20200322T155058Z">
+        <seg>Вимагає Tcl/Tk, Abiword та pdftotext.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Requires tcl/tk.</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="lesia" changedate="20200322T154734Z" creationid="lesia" creationdate="20200322T154734Z">
-        <seg>Вимагає tcl/tk.</seg>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200323T222339Z" creationid="lesia" creationdate="20200322T154734Z">
+        <seg>Вимагає Tcl/Tk.</seg>
       </tuv>
     </tu>
     <tu>
@@ -17006,8 +17006,8 @@ the server.</seg>
       <tuv lang="EN">
         <seg>This collection of scripts may be useful to scripters with a knowledge of tcl/tk.</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="maximo" changedate="20200323T222105Z" creationid="lesia" creationdate="20200322T154207Z">
-        <seg>Ці скрипти можуть бути корисними тим, хто знайомий з tcl/tk.</seg>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200323T222255Z" creationid="lesia" creationdate="20200322T154207Z">
+        <seg>Ці скрипти можуть бути корисними тим, хто знайомий з Tcl/Tk.</seg>
       </tuv>
     </tu>
     <tu>
