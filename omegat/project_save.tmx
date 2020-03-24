@@ -8054,8 +8054,8 @@ need not be entered.)</seg>
       <tuv lang="EN">
         <seg>If in doubt, select this option.</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="maximo" changedate="20200322T144854Z" creationid="maximo" creationdate="20200322T144854Z">
-        <seg>Якщо сумніваєтесь - обирайте цей варіант.</seg>
+      <tuv lang="UK-UA" changeid="lesia" changedate="20200324T173512Z" creationid="maximo" creationdate="20200322T144854Z">
+        <seg>Якщо сумніваєтесь — обирайте цей варіант.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8472,8 +8472,8 @@ click on that shortcut.</seg>
       <tuv lang="EN">
         <seg>In this case, do not select the Default version; select a different version (e.g. Standard or Latest), then select a version marked "Java not included".</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="lesia" changedate="20200322T214714Z" creationid="maximo" creationdate="20200322T155858Z">
-        <seg>У цьому випадку не обирайте дефолтну версію - оберіть іншу версію (наприклад, стандартну чи останню), а потім оберіть версію, позначену як "без JRE".</seg>
+      <tuv lang="UK-UA" changeid="lesia" changedate="20200324T173446Z" creationid="maximo" creationdate="20200322T155858Z">
+        <seg>У цьому випадку не обирайте дефолтну версію — оберіть іншу версію (наприклад, стандартну чи останню), а потім оберіть версію, позначену як "без JRE".</seg>
       </tuv>
     </tu>
     <tu>
@@ -11665,8 +11665,8 @@ installed on your system.</seg>
       <tuv lang="EN">
         <seg>OmegaT will run on any system on which the appropriate JRE (Java Runtime Environment) has been or can be installed.</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="maximo" changedate="20200322T150253Z" creationid="maximo" creationdate="20200322T150253Z">
-        <seg>Як правило, OmegaT працює на будь-якій системі, де встановлена або може бути встановлена підходяща версія середовища Java (JRE).</seg>
+      <tuv lang="UK-UA" changeid="lesia" changedate="20200324T173240Z" creationid="maximo" creationdate="20200322T150253Z">
+        <seg>Як правило, OmegaT працює на будь-якій системі, де встановлена або може бути встановлена потрібна версія середовища Java (JRE).</seg>
       </tuv>
     </tu>
     <tu>
