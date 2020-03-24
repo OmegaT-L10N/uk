@@ -2825,8 +2825,8 @@ The TMX file will not be loaded.</seg>
       <tuv lang="EN">
         <seg>And when they find things that don't work, or deficiencies in the documentation, to tell us about them.</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="lesia" changedate="20200323T223024Z" creationid="maximo" creationdate="20200322T180443Z">
-        <seg>І коли щось не працює чи є помилки в документації, повідомляти нам про ці недоліки.</seg>
+      <tuv lang="UK-UA" changeid="lesia" changedate="20200324T160213Z" creationid="maximo" creationdate="20200322T180443Z">
+        <seg>І коли щось не працює чи є помилки в документації, повідомляти нам, щоб ми могли це виправити.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3362,8 +3362,8 @@ Buy another drink</seg>
       <tuv lang="EN">
         <seg>But I can't program at all, I hear you say.</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="lesia" changedate="20200323T223409Z" creationid="maximo" creationdate="20200322T181244Z">
-        <seg>"Але я взагалі не вмію програмувати!" - скажете ви.</seg>
+      <tuv lang="UK-UA" changeid="lesia" changedate="20200324T160345Z" creationid="maximo" creationdate="20200322T181244Z">
+        <seg>"Але я взагалі не вмію програмувати!" — скажете ви.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8133,8 +8133,8 @@ their defaults as a result of the location change.</seg>
       <tuv lang="EN">
         <seg>If you are already reasonably familiar with computers in general and choose a straightforward scripting language like Javascript or Tcl/Tk, you could teach yourself enough to be able to write simple but useful scripts within just a couple of weeks.</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="lesia" changedate="20200323T223524Z" creationid="maximo" creationdate="20200322T181517Z">
-        <seg>Якщо ви вже досвідчений користувач ПК і оберете зрозумілу скриптову мову програмування, як от Javascript чи Tcl/Tk, то ви зможете навчитись писати прості але корисні скрипти дуже швидко. Кількох тижнів буде достатньо.</seg>
+      <tuv lang="UK-UA" changeid="lesia" changedate="20200324T160336Z" creationid="maximo" creationdate="20200322T181517Z">
+        <seg>Якщо ви вже досвідчений користувач ПК і оберете зрозумілу скриптову мову програмування, як от Javascript чи Tcl/Tk, то зможете навчитись писати прості але корисні скрипти дуже швидко. Кількох тижнів буде достатньо.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9885,8 +9885,8 @@ itself on the first run.</seg>
       <tuv lang="EN">
         <seg>Localization</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="lesia" changedate="20200324T155647Z" creationid="maximo" creationdate="20200322T175743Z">
-        <seg>Локалізаці</seg>
+      <tuv lang="UK-UA" changeid="lesia" changedate="20200324T160111Z" creationid="maximo" creationdate="20200322T175743Z">
+        <seg>Локалізація</seg>
       </tuv>
     </tu>
     <tu>
@@ -9917,8 +9917,8 @@ itself on the first run.</seg>
       <tuv lang="EN">
         <seg>Localizing OmegaT into other languages is also an ongoing task, since new features and functions are being added all the time.</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="lesia" changedate="20200324T155743Z" creationid="maximo" creationdate="20200322T180053Z">
-        <seg>Локалізація – це постійне завдання, оскільки до OmegaT весь час додаються нові функції.</seg>
+      <tuv lang="UK-UA" changeid="lesia" changedate="20200324T160123Z" creationid="maximo" creationdate="20200322T180053Z">
+        <seg>Локалізація — це постійне завдання, оскільки до OmegaT весь час додаються нові функції.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11761,8 +11761,8 @@ installed on your system.</seg>
       <tuv lang="EN">
         <seg>One of the most useful things OmegaT users can do is... to use OmegaT.</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="lesia" changedate="20200324T160100Z" creationid="maximo" creationdate="20200322T180325Z">
-        <seg>Одна з найкорисніших задач, яку можуть виконувати користувачі OmegaT – це... користуватися OmegaT.</seg>
+      <tuv lang="UK-UA" changeid="lesia" changedate="20200324T160145Z" creationid="maximo" creationdate="20200322T180325Z">
+        <seg>Одна з найкорисніших задач, яку можуть виконувати користувачі OmegaT — це... користуватися OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
