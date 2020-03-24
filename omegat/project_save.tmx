@@ -2602,8 +2602,8 @@ The current setting is {0}MB;</seg>
       <tuv lang="EN">
         <seg>Alternatively, if you already know which version you wish to download, click on the button to have an overview of the different OmegaT versions available.</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="lesia" changedate="20200323T222405Z" creationid="maximo" creationdate="20200322T172443Z">
-        <seg>Якщо ви вже знаєте, яка версія вам потрібна, натисніть тут, щоб побачити всі доступні варіанти.</seg>
+      <tuv lang="UK-UA" changeid="lesia" changedate="20200324T154804Z" creationid="maximo" creationdate="20200322T172443Z">
+        <seg>Якщо ви вже знаєте, яка версія вам потрібна, натисніть тут:</seg>
       </tuv>
     </tu>
     <tu>
@@ -5641,8 +5641,8 @@ Buy another drink</seg>
       <tuv lang="EN">
         <seg>Download Overview</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="maximo" changedate="20200322T172524Z" creationid="maximo" creationdate="20200322T172524Z">
-        <seg>Огляд можливих завантажень</seg>
+      <tuv lang="UK-UA" changeid="lesia" changedate="20200324T154815Z" creationid="maximo" creationdate="20200322T172524Z">
+        <seg>Всі доступні версії</seg>
       </tuv>
     </tu>
     <tu>
