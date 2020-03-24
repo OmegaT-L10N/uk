@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="OmegaT-4.3.2" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.2_0_6a661c5e" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -3378,8 +3378,8 @@ Buy another drink</seg>
       <tuv lang="EN">
         <seg>By Arno Peters and Mariëtte van Drunen (in Dutch).</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="maximo" changedate="20200322T165713Z" creationid="maximo" creationdate="20200322T165713Z">
-        <seg>Arno Peters та Mariëtte van Drunen (датською).</seg>
+      <tuv lang="UK-UA" changeid="lesia" changedate="20200324T094838Z" creationid="maximo" creationdate="20200322T165713Z">
+        <seg>Arno Peters та Mariëtte van Drunen (данською).</seg>
       </tuv>
     </tu>
     <tu>
@@ -3402,8 +3402,8 @@ Buy another drink</seg>
       <tuv lang="EN">
         <seg>By Leo Viëtor (in Dutch).</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="maximo" changedate="20200322T170026Z" creationid="maximo" creationdate="20200322T170026Z">
-        <seg>Leo Viëtor (датською).</seg>
+      <tuv lang="UK-UA" changeid="lesia" changedate="20200324T094907Z" creationid="maximo" creationdate="20200322T170026Z">
+        <seg>Leo Viëtor (данською).</seg>
       </tuv>
     </tu>
     <tu>
@@ -13880,7 +13880,7 @@ These words: 'Page not found'</seg>
       <tuv lang="EN">
         <seg>Reviews of OmegaT</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="maximo" changedate="20200322T165638Z" creationid="maximo" creationdate="20200322T165638Z">
+      <tuv lang="UK-UA" changeid="lesia" changedate="20200324T094824Z" creationid="maximo" creationdate="20200322T165638Z">
         <seg>Огляди OmegaT</seg>
       </tuv>
     </tu>
