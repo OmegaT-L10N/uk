@@ -8125,8 +8125,8 @@ their defaults as a result of the location change.</seg>
       <tuv lang="EN">
         <seg>If this version is not available, you can try to &lt;a0&gt;download the unsigned version&lt;/a0&gt;.</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="maximo" changedate="20200322T150143Z" creationid="maximo" creationdate="20200322T150143Z">
-        <seg>Якщо ця версія недоступна, ви можете спробувати &lt;a0&gt;завантажити непідписану версію&lt;/a0&gt;.</seg>
+      <tuv lang="UK-UA" changeid="lesia" changedate="20200324T174903Z" creationid="maximo" creationdate="20200322T150143Z">
+        <seg>Якщо ця версія недоступна, ви можете спробувати &lt;a0&gt;завантажити незавірену версію&lt;/a0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11214,16 +11214,16 @@ appropriate location such as the Applications folder.</seg>
       <tuv lang="EN">
         <seg>OS X Notarized</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="maximo" changedate="20200324T143425Z" creationid="Kos Ivantsov" creationdate="20200324T114649Z">
-        <seg>Версія для OS X (підписана)</seg>
+      <tuv lang="UK-UA" changeid="lesia" changedate="20200324T174918Z" creationid="Kos Ivantsov" creationdate="20200324T114649Z">
+        <seg>Версія для OS X (завірена)</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>OS X Unsigned</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="maximo" changedate="20200324T143434Z" creationid="Kos Ivantsov" creationdate="20200324T114657Z">
-        <seg>Версія для OS X (непідписана)</seg>
+      <tuv lang="UK-UA" changeid="lesia" changedate="20200324T175041Z" creationid="Kos Ivantsov" creationdate="20200324T114657Z">
+        <seg>Версія для OS X (незавірена)</seg>
       </tuv>
     </tu>
     <tu>
