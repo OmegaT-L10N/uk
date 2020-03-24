@@ -8904,8 +8904,8 @@ click on that shortcut.</seg>
       <tuv lang="EN">
         <seg>It has usually been in use for some time and is therefore proven.</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="lesia" changedate="20200323T161627Z" creationid="maximo" creationdate="20200322T152747Z">
-        <seg>Ця версія перевірена - вона вже деякий час використовується.</seg>
+      <tuv lang="UK-UA" changeid="lesia" changedate="20200324T174555Z" creationid="maximo" creationdate="20200322T152747Z">
+        <seg>Ця версія перевірена — вона вже деякий час використовується.</seg>
       </tuv>
     </tu>
     <tu>
@@ -15524,8 +15524,8 @@ The scope of a search is by default the project and can be set to be any files l
       <tuv lang="EN">
         <seg>Standard Version - {{site.data.versions.standard.name}}</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="maximo" changedate="20200322T152135Z" creationid="maximo" creationdate="20200322T152135Z">
-        <seg>Стандартна версія - {{site.data.versions.standard.name}}</seg>
+      <tuv lang="UK-UA" changeid="lesia" changedate="20200324T174349Z" creationid="maximo" creationdate="20200322T152135Z">
+        <seg>Стандартна версія — {{site.data.versions.standard.name}}</seg>
       </tuv>
     </tu>
     <tu>
