@@ -9957,8 +9957,8 @@ itself on the first run.</seg>
       <tuv lang="EN">
         <seg>Mac OS X has a feature called Gatekeeper that increases security by making it difficult to run unsigned programs.</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="lesia" changedate="20200322T214849Z" creationid="maximo" creationdate="20200322T161113Z">
-        <seg>Mac OS X має сервіс Gatekeeper, що створює перешкоди для запуску непідписаних програм.</seg>
+      <tuv lang="UK-UA" changeid="lesia" changedate="20200324T174621Z" creationid="maximo" creationdate="20200322T161113Z">
+        <seg>Mac OS X має сервіс Gatekeeper, що створює перешкоди для запуску незавірених програм.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11382,8 +11382,8 @@ appropriate location such as the Applications folder.</seg>
       <tuv lang="EN">
         <seg>OmegaT for Mac OS X is available in both signed and unsigned versions; they are functionally identical, but the signed version is preferred as it is recognized by the system as being published by a known developer.</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="lesia" changedate="20200322T214913Z" creationid="maximo" creationdate="20200322T161430Z">
-        <seg>OmegaT для Mac OS X доступна як у підписаному, так і в непідписаному вигляді. Функціонально вони ідентичні, але підписану версію система розпізнає як таку, що була опублікована відомим розробником.</seg>
+      <tuv lang="UK-UA" changeid="lesia" changedate="20200324T174639Z" creationid="maximo" creationdate="20200322T161430Z">
+        <seg>OmegaT для Mac OS X доступна як у завіреному, так і в незавіреному вигляді. Функціонально вони ідентичні, але завірену версію система розпізнає як таку, що була опублікована відомим розробником.</seg>
       </tuv>
     </tu>
     <tu>
@@ -15028,8 +15028,8 @@ The scope of a search is by default the project and can be set to be any files l
       <tuv lang="EN">
         <seg>Signed/Unsigned</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="maximo" changedate="20200322T160929Z" creationid="maximo" creationdate="20200322T160929Z">
-        <seg>Підписана та непідписана версії</seg>
+      <tuv lang="UK-UA" changeid="lesia" changedate="20200324T174612Z" creationid="maximo" creationdate="20200322T160929Z">
+        <seg>Завірена та незавірена версії</seg>
       </tuv>
     </tu>
     <tu>
@@ -16917,8 +16917,8 @@ in /lib/licenses/Licenses.txt.</seg>
       <tuv lang="EN">
         <seg>There may be a delay in publishing signed versions.</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="maximo" changedate="20200322T161515Z" creationid="maximo" creationdate="20200322T161515Z">
-        <seg>Підписані версії можуть виходити із затримкою.</seg>
+      <tuv lang="UK-UA" changeid="lesia" changedate="20200324T174652Z" creationid="maximo" creationdate="20200322T161515Z">
+        <seg>Завірені версії можуть виходити із затримкою.</seg>
       </tuv>
     </tu>
     <tu>
@@ -18514,8 +18514,8 @@ searchable without subscription:</seg>
       <tuv lang="EN">
         <seg>Users in a hurry can use the unsigned version instead; if you have difficulty launching the app, see &lt;a0&gt;how to open an app from an unidentified developer&lt;/a0&gt;.</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="lesia" changedate="20200323T220552Z" creationid="maximo" creationdate="20200322T161724Z">
-        <seg>Якщо часу чекати немає, то можете використати і непідписану версію. Виникли труднощі із запуском програми? Подивіться &lt;a0&gt;як запустити програму від невідомого розробника&lt;/a0&gt;.</seg>
+      <tuv lang="UK-UA" changeid="lesia" changedate="20200324T174716Z" creationid="maximo" creationdate="20200322T161724Z">
+        <seg>Якщо часу чекати немає, то можете використати і незавірену версію. Виникли труднощі із запуском програми? Подивіться &lt;a0&gt;як запустити програму від невідомого розробника&lt;/a0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
