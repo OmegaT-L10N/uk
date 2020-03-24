@@ -1413,8 +1413,8 @@ To add files to the project, click on the Copy Files to Source Folder... button 
       <tuv lang="EN">
         <seg>(Software that does this is called "machine translation", and you will have to look elsewhere for it.)</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="lesia" changedate="20200323T063154Z" creationid="maximo" creationdate="20200322T171120Z">
-        <seg>(це робить так званий "машинний переклад", і якщо вам треба саме він, шукайте відповідні програми в іншому місці).</seg>
+      <tuv lang="UK-UA" changeid="lesia" changedate="20200324T161418Z" creationid="maximo" creationdate="20200322T171120Z">
+        <seg>(це робить так званий "машинний переклад", шукайте його деінде).</seg>
       </tuv>
     </tu>
     <tu>
@@ -11482,8 +11482,8 @@ published by the Free Software Foundation, either version 3 of the License, or
       <tuv lang="EN">
         <seg>OmegaT is free software.</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="lesia" changedate="20200323T071359Z" creationid="maximo" creationdate="20200322T174410Z">
-        <seg>OmegaT - це безкоштовна програма.</seg>
+      <tuv lang="UK-UA" changeid="lesia" changedate="20200324T160859Z" creationid="maximo" creationdate="20200322T174410Z">
+        <seg>OmegaT — це безкоштовна програма.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11550,8 +11550,8 @@ to be launched.</seg>
       <tuv lang="EN">
         <seg>OmegaT isn't just a product; it's an exciting project, and you can be part of it.</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="lesia" changedate="20200323T071351Z" creationid="maximo" creationdate="20200322T174329Z">
-        <seg>OmegaT - це не просто продукт. Це захоплюючий проєкт, і ви можете до нього долучитися.</seg>
+      <tuv lang="UK-UA" changeid="lesia" changedate="20200324T160847Z" creationid="maximo" creationdate="20200322T174329Z">
+        <seg>OmegaT — це не просто продукт. Це захоплюючий проєкт, і ви можете до нього долучитися.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12850,8 +12850,8 @@ project without team functionality.</seg>
       <tuv lang="EN">
         <seg>Programming is certainly the most important function, and without programming, there is no program.</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="lesia" changedate="20200323T072012Z" creationid="maximo" creationdate="20200322T175039Z">
-        <seg>Програмування - це, звісно, найважливіша робота, адже без програмування просто не буде програми.</seg>
+      <tuv lang="UK-UA" changeid="lesia" changedate="20200324T160911Z" creationid="maximo" creationdate="20200322T175039Z">
+        <seg>Програмування — це, звісно, найважливіша робота, адже без програмування просто не буде програми.</seg>
       </tuv>
     </tu>
     <tu>
@@ -16645,8 +16645,8 @@ in /lib/licenses/Licenses.txt.</seg>
       <tuv lang="EN">
         <seg>The perfect companion for those of us who don't need complexity but efficiency; glossaries, auto-complete and automatic translation makes my work in literary translation so much more efficient</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="lesia" changedate="20200323T070235Z" creationid="maximo" creationdate="20200322T173213Z">
-        <seg>OmegaT - чудовий помічник для тих, кому потрібна не складність, а ефективність. Словники, автодоповнення та автоматичний переклад - все це надзвичайно збільшує ефективність моєї роботи як літературного перекладача.</seg>
+      <tuv lang="UK-UA" changeid="lesia" changedate="20200324T160835Z" creationid="maximo" creationdate="20200322T173213Z">
+        <seg>OmegaT — чудовий помічник для тих, кому потрібна не складність, а ефективність. Словники, автодоповнення та автоматичний переклад - все це надзвичайно збільшує ефективність моєї роботи як літературного перекладача.</seg>
       </tuv>
     </tu>
     <tu>
