@@ -11374,8 +11374,8 @@ appropriate location such as the Applications folder.</seg>
       <tuv lang="EN">
         <seg>OmegaT for Beginners tutorial</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="maximo" changedate="20200322T113246Z" creationid="maximo" creationdate="20200322T113246Z">
-        <seg>OmegaT для початківців</seg>
+      <tuv lang="UK-UA" changeid="lesia" changedate="20200324T164021Z" creationid="maximo" creationdate="20200322T113246Z">
+        <seg>OmegaT для початківців (можна завантажити)</seg>
       </tuv>
     </tu>
     <tu>
@@ -16516,6 +16516,14 @@ instead.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The following tutorials are available online/for download:</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="lesia" changedate="20200324T163915Z" creationid="lesia" creationdate="20200324T163915Z">
+        <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The great majority of work on the OmegaT project has been completed on a voluntary basis.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="maximo" changedate="20200322T164406Z" creationid="maximo" creationdate="20200322T164406Z">
@@ -20088,6 +20096,14 @@ create its configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>В помощь переводчику: 10 советов по OmegaT</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="lesia" changedate="20200324T164105Z" creationid="lesia" creationdate="20200324T164105Z">
+        <seg>В помощь переводчику: 10 советов по OmegaT (онлайн)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>“{0}”</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20190821T124336Z" creationid="Kos Ivantsov" creationdate="20190821T124336Z">
@@ -20809,6 +20825,17 @@ script provided (omegat.kaptn).</prop>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20190823T180305Z" creationid="Kos Ivantsov" creationdate="20190823T180305Z">
         <seg>Tagwipe — Прибрати зайві теґи</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">website/documentation.html</prop>
+      <prop type="prev">By Susan Welsh (Open Document Format).</prop>
+      <prop type="next">By Susan Welsh (PDF format).</prop>
+      <tuv lang="EN">
+        <seg>OmegaT for Beginners tutorial</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="lesia" changedate="20200324T164034Z" creationid="lesia" creationdate="20200324T164034Z">
+        <seg>OmegaT для початківців (онлайн)</seg>
       </tuv>
     </tu>
   </body>
