@@ -9763,6 +9763,22 @@ itself on the first run.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Linux with 64-bit JRE</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20200324T114734Z" creationid="Kos Ivantsov" creationdate="20200324T114734Z">
+        <seg>Версія для Linux із JRE (64 біти)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Linux with JRE</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20200324T114659Z" creationid="Kos Ivantsov" creationdate="20200324T114659Z">
+        <seg>Версія для Linux з JRE</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>List View</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20190807T182626Z" creationid="Kos Ivantsov" creationdate="20190807T164927Z">
@@ -11192,6 +11208,22 @@ appropriate location such as the Applications folder.</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="lesia" changedate="20200322T155145Z" creationid="lesia" creationdate="20200322T155145Z">
         <seg>Утиліта ONline DIctionary LOokup TOol для використання онлайн-словників.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>OS X Notarized</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20200324T114649Z" creationid="Kos Ivantsov" creationdate="20200324T114649Z">
+        <seg>Версія для OS X (завірена)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>OS X Unsigned</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20200324T114657Z" creationid="Kos Ivantsov" creationdate="20200324T114657Z">
+        <seg>Версія для OS X (незавірена)</seg>
       </tuv>
     </tu>
     <tu>
@@ -18967,6 +18999,30 @@ Your page is not found</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="maximo" changedate="20200323T221057Z" creationid="lesia" creationdate="20200322T154350Z">
         <seg>Toxic скомпільований для Windows.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Windows with 64-bit JRE</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20200324T114624Z" creationid="Kos Ivantsov" creationdate="20200324T114624Z">
+        <seg>Версія для Windows із 64-бітною версією JRE</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Windows with JRE</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20200324T114545Z" creationid="Kos Ivantsov" creationdate="20200324T114545Z">
+        <seg>Версія для Windows з JRE</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Windows without JRE</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20200324T114633Z" creationid="Kos Ivantsov" creationdate="20200324T114633Z">
+        <seg>Версія для Windows без JRE</seg>
       </tuv>
     </tu>
     <tu>
