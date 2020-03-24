@@ -11214,16 +11214,16 @@ appropriate location such as the Applications folder.</seg>
       <tuv lang="EN">
         <seg>OS X Notarized</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20200324T114649Z" creationid="Kos Ivantsov" creationdate="20200324T114649Z">
-        <seg>Версія для OS X (завірена)</seg>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200324T143425Z" creationid="Kos Ivantsov" creationdate="20200324T114649Z">
+        <seg>Версія для OS X (підписана)</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>OS X Unsigned</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20200324T114657Z" creationid="Kos Ivantsov" creationdate="20200324T114657Z">
-        <seg>Версія для OS X (незавірена)</seg>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200324T143434Z" creationid="Kos Ivantsov" creationdate="20200324T114657Z">
+        <seg>Версія для OS X (непідписана)</seg>
       </tuv>
     </tu>
     <tu>
