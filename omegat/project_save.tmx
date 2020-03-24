@@ -1786,8 +1786,8 @@ The current setting is {0}MB;</seg>
       <tuv lang="EN">
         <seg>&lt;a0&gt;Documentation&lt;/a0&gt; is very important.</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="maximo" changedate="20200322T175250Z" creationid="maximo" creationdate="20200322T175250Z">
-        <seg>&lt;a0&gt;Документація&lt;/a0&gt; надзвичайно важлива.</seg>
+      <tuv lang="UK-UA" changeid="lesia" changedate="20200324T155521Z" creationid="maximo" creationdate="20200322T175250Z">
+        <seg>&lt;a0&gt;Документація&lt;/a0&gt; дуже важлива.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9885,8 +9885,8 @@ itself on the first run.</seg>
       <tuv lang="EN">
         <seg>Localization</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="maximo" changedate="20200322T175743Z" creationid="maximo" creationdate="20200322T175743Z">
-        <seg>Локалізація</seg>
+      <tuv lang="UK-UA" changeid="lesia" changedate="20200324T155647Z" creationid="maximo" creationdate="20200322T175743Z">
+        <seg>Локалізаці</seg>
       </tuv>
     </tu>
     <tu>
@@ -9917,8 +9917,8 @@ itself on the first run.</seg>
       <tuv lang="EN">
         <seg>Localizing OmegaT into other languages is also an ongoing task, since new features and functions are being added all the time.</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="maximo" changedate="20200323T213132Z" creationid="maximo" creationdate="20200322T180053Z">
-        <seg>Локалізація - це постійне завдання, оскільки до OmegaT весь час додаються нові функції.</seg>
+      <tuv lang="UK-UA" changeid="lesia" changedate="20200324T155743Z" creationid="maximo" creationdate="20200322T180053Z">
+        <seg>Локалізація – це постійне завдання, оскільки до OmegaT весь час додаються нові функції.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10021,8 +10021,8 @@ itself on the first run.</seg>
       <tuv lang="EN">
         <seg>Many of you reading this will be translators who have translated a lot of user documentation.</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="lesia" changedate="20200323T072504Z" creationid="maximo" creationdate="20200322T175413Z">
-        <seg>Серед вас напевне багато професійних перекладачів, які переклали цілі гори користувацької документації.</seg>
+      <tuv lang="UK-UA" changeid="lesia" changedate="20200324T155527Z" creationid="maximo" creationdate="20200322T175413Z">
+        <seg>Серед вас напевне багато професійних перекладачів, які переклали цілі гори документації.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11761,8 +11761,8 @@ installed on your system.</seg>
       <tuv lang="EN">
         <seg>One of the most useful things OmegaT users can do is... to use OmegaT.</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="maximo" changedate="20200322T180325Z" creationid="maximo" creationdate="20200322T180325Z">
-        <seg>Одна з найкорисніших задач, яку можуть виконувати користувачі OmegaT - це... користуватися OmegaT.</seg>
+      <tuv lang="UK-UA" changeid="lesia" changedate="20200324T160100Z" creationid="maximo" creationdate="20200322T180325Z">
+        <seg>Одна з найкорисніших задач, яку можуть виконувати користувачі OmegaT – це... користуватися OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
