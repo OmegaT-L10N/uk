@@ -2002,8 +2002,8 @@ The current setting is {0}MB;</seg>
       <tuv lang="EN">
         <seg>&lt;s1&gt;The benefit&lt;/s1&gt;: once launched, future updates of the Web Start version will be installed automatically on your computer.&lt;br2/&gt;</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="maximo" changedate="20200322T140856Z" creationid="maximo" creationdate="20200322T140856Z">
-        <seg>&lt;s1&gt;Переваги&lt;/s1&gt;: після запуску, оновлення для версії Web Start будуть встановлюватися автоматично.&lt;br2/&gt;</seg>
+      <tuv lang="UK-UA" changeid="lesia" changedate="20200324T154250Z" creationid="maximo" creationdate="20200322T140856Z">
+        <seg>&lt;s1&gt;Переваги&lt;/s1&gt;: після запуску оновлення для версії Web Start будуть встановлюватися автоматично.&lt;br2/&gt;</seg>
       </tuv>
     </tu>
     <tu>
