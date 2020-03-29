@@ -3872,6 +3872,14 @@ Buy another drink</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Check in &lt;m0&gt; &lt;s1&gt; &lt;k2&gt; &lt;k3&gt;Ctrl&lt;/k3&gt; &lt;k4&gt;E&lt;/k4&gt; &lt;/k2&gt; &lt;/s1&gt; &lt;g5&gt;Project&lt;/g5&gt; &lt;g6&gt;Properties&lt;/g6&gt; &lt;/m0&gt;.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200329T200918Z" creationid="maximo" creationdate="20200329T200918Z">
+        <seg>Перевірте у &lt;m0&gt;меню &lt;g5&gt;Проєкт&lt;/g5&gt; &lt;g6&gt;Властивості&lt;/g6&gt; &lt;s1&gt;&lt;k2&gt; &lt;k3&gt;Ctrl&lt;/k3&gt; &lt;k4&gt;E&lt;/k4&gt;&lt;/k2&gt;&lt;/s1&gt;&lt;/m0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Check number of tags</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20190822T221013Z" creationid="Kos Ivantsov" creationdate="20190822T221013Z">
@@ -3924,6 +3932,14 @@ Buy another drink</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20190822T220915Z" creationid="Kos Ivantsov" creationdate="20190822T220915Z">
         <seg>Шукати розбіжності регістра на початку</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Check that your dict files are in the correct folder (or in a subfolder below it).</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200329T200640Z" creationid="maximo" creationdate="20200329T200640Z">
+        <seg>Перевірте, що файли словників розташовані в правильній директорії (чи піддиректорії).</seg>
       </tuv>
     </tu>
     <tu>
@@ -10363,6 +10379,14 @@ itself on the first run.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Merriam Webster dictionary - use</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200329T200617Z" creationid="maximo" creationdate="20200329T200617Z">
+        <seg>Словник Мерріам-Вебстер - використання</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Microsoft Open XML</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20190803T190536Z" creationid="Kos Ivantsov" creationdate="20190803T190536Z">
@@ -11056,6 +11080,14 @@ appropriate location such as the Applications folder.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20190807T150200Z" creationid="Kos Ivantsov" creationdate="20190807T150200Z">
         <seg>Примітка</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Note that in addition to "source-target" dictionaries you can, using the Dictionary feature, obtain access to information such as:</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200329T200436Z" creationid="maximo" creationdate="20200329T200436Z">
+        <seg>Майте на увазі, за допомогою функції словника, окрім звичайних словників типу "source-target", ви можете отримувати доступ до такої інформації:</seg>
       </tuv>
     </tu>
     <tu>
@@ -12812,6 +12844,14 @@ project without team functionality.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20190504T124333Z" creationid="Kos Ivantsov" creationdate="20190504T124333Z">
         <seg>Проблема під час завантаження файлу проєкту!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Problems with dictionaries</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200329T200618Z" creationid="maximo" creationdate="20200329T200618Z">
+        <seg>Проблеми зі словниками</seg>
       </tuv>
     </tu>
     <tu>
@@ -15210,6 +15250,14 @@ The scope of a search is by default the project and can be set to be any files l
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Some of the dictionaries have no strings attached - i.e. are "Free to use", and others, like the selection above, are under the GPL license.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200329T200607Z" creationid="maximo" creationdate="20200329T200607Z">
+        <seg>Деякі словники не мають ніяких обмежень у ліцензії, тобто є вільними для використання, а інші, такі як наведені вище, видані під ліцензією GPL.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Some project folders seem to have been moved.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20190504T134234Z" creationid="Kos Ivantsov" creationdate="20190504T134234Z">
@@ -16556,6 +16604,14 @@ instead.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The following example shows Merriam Webster 10th dictionary "in action":</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200329T200613Z" creationid="maximo" creationdate="20200329T200613Z">
+        <seg>Нижче показано приклад використання словника Мерріам-Вебстера 10-видання «в дії»:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The following options do not apply if "Compatibility with OmegaT 2.6" is checked</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20190805T104136Z" creationid="Kos Ivantsov" creationdate="20190805T104136Z">
@@ -16959,6 +17015,14 @@ in /lib/licenses/Licenses.txt.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="lesia" changedate="20200324T174652Z" creationid="maximo" creationdate="20200322T161515Z">
         <seg>Завірені версії можуть виходити із затримкою.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>There should be three files, with extensions &lt;e1&gt;dz, idx &lt;/e1&gt;and &lt;e2&gt;ifo&lt;/e2&gt;.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200329T200427Z" creationid="maximo" creationdate="20200329T200427Z">
+        <seg>Там повинно бути три файли з розширенням &lt;e1&gt;dz, idx&lt;/e1&gt; та &lt;e2&gt;ifo&lt;/e2&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -19682,6 +19746,14 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20190808T092830Z" creationid="Kos Ivantsov" creationdate="20190422T215513Z">
         <seg>Виконано (минуло {0} мс)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>etc...</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200329T200451Z" creationid="maximo" creationdate="20200329T200451Z">
+        <seg>та інше…</seg>
       </tuv>
     </tu>
     <tu>
