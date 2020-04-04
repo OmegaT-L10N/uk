@@ -22,6 +22,62 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>"Cannot launch from folder that contains a \"/\" in its name.";</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200404T170319Z" creationid="maximo" creationdate="20200404T170319Z">
+        <seg>"Запуск неможливий, оскільки назва теки містить \"/\".";</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>"Main class name is required.";</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200404T170122Z" creationid="maximo" creationdate="20200404T170122Z">
+        <seg>"Треба вказати ім'я головного класу.";</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>"This application requires that Java %d or later be installed on your computer.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200404T165805Z" creationid="maximo" creationdate="20200404T165805Z">
+        <seg>"Цей застосунок вимагає встановленого середовища Java версії %d або більше.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>"This application requires that a Java %d JDK or later be installed on your computer.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200404T170043Z" creationid="maximo" creationdate="20200404T165946Z">
+        <seg>"Цей застосунок вимагає встановленого Java JDK версії %d або більше.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>"Unable to enumerate Java directory contents.";</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200404T170213Z" creationid="maximo" creationdate="20200404T170213Z">
+        <seg>"Не вдалося проглянути вміст директорії Java.";</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>"Unable to load Java Runtime Environment.";</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200404T165656Z" creationid="maximo" creationdate="20200404T165614Z">
+        <seg>"Не вдалося завантажити середовище Java.";</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>"Unable to load a Java %d Runtime Environment.";</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200404T165648Z" creationid="maximo" creationdate="20200404T165648Z">
+        <seg>"Не вдалося завантажити середовище Java %d.";</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>#Files</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20190504T130939Z" creationid="Kos Ivantsov" creationdate="20190504T130939Z">
@@ -1485,6 +1541,54 @@ To add files to the project, click on the Copy Files to Source Folder... button 
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>- Anthony Baldwin (localisation manager)
+- Didier Briel (project manager)
+- Alex Buloichik (lead developer)
+- Sabine Cretella
+- Dmitri Gabinski
+- Jean-Christophe Helary (support group owner, localisation manager)
+- Maxym Mykhalchuk (lead developer)
+- Samuel Murray
+- Henry Pijffers (release manager)
+- Marc Prior (project co-ordinator, webmaster)
+- Vito Smolej (documentation manager)</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200404T165504Z" creationid="maximo" creationdate="20200404T165504Z">
+        <seg>- Anthony Baldwin (менеджер з локалізації)
+- Didier Briel (проєктний менеджер)
+- Alex Buloichik (головний розробник)
+- Sabine Cretella
+- Dmitri Gabinski
+- Jean-Christophe Helary (менеджер групи підтримки, менеджер з локалізації)
+- Maxym Mykhalchuk (головний розробник)
+- Samuel Murray
+- Henry Pijffers (менеджер релізного процесу)
+- Marc Prior (координатор проєкту, розробник вебсайту)
+- Vito Smolej (менеджер з документації)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>- Vincent Bidaux (documentation manager)
+- Marco Cevoli (Telegram community manager)
+- Jean-Christophe Helary (Twitter community manager)
+- Kos Ivantsof (localisation manager)
+- Concepción Martin (Facebook community manager)
+- Briac Pilpré (webmaster)
+- Lucie Vecerova (Facebook community manager)</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200404T165218Z" creationid="maximo" creationdate="20200404T165218Z">
+        <seg>- Vincent Bidaux (менеджер документації)
+- Marco Cevoli (менеджер спільноти Telegram)
+- Jean-Christophe Helary (менеджер спільноти Twitter)
+- Kos Ivantsof (менеджер з локалізації)
+- Concepción Martin (менеджер спільноти Facebook)
+- Briac Pilpré (розробник сайту)
+- Lucie Vecerova (менеджер спільноти Facebook)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>---- Localization Notes ----</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20190504T132428Z" creationid="Kos Ivantsov" creationdate="20190504T132428Z">
@@ -1804,6 +1908,14 @@ The current setting is {0}MB;</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="lesia" changedate="20200322T145739Z" creationid="lesia" creationdate="20200322T145719Z">
         <seg>&lt;a0&gt;Спонсорство з розробки вже посприяло впровадженню в проєкт деяких функцій.&lt;/a0&gt; Якщо ви готові фінансувати роботу з реалізації вашого запиту, будь ласка, зв'яжіться з командою розробників особисто.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;a1&gt;OmegaT&lt;/a1&gt; automatically detects glossary files in this folder when a project is opened.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200404T171846Z" creationid="maximo" creationdate="20200404T171846Z">
+        <seg>&lt;a1&gt;OmegaT&lt;/a1&gt; автоматично визначає файли глосаріїв у цій теці, коли відкриває проєкт.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2936,6 +3048,14 @@ may experience unexpected, but correct behaviour.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="maximo" changedate="20200322T145617Z" creationid="maximo" creationdate="20200322T145457Z">
         <seg>Як видно із назви, ця версія завжди новіша за стандартну.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>As the existing content will not be touched, damage to an existing file would be limited.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200404T171639Z" creationid="maximo" creationdate="20200404T171639Z">
+        <seg>Оскільки попередній вміст не змінюється, то у випадку помилки файл пошкоджується мінімально.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5567,6 +5687,14 @@ Buy another drink</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Does the folder contain three files of the same name, with extensions?</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200404T170613Z" creationid="maximo" creationdate="20200404T170613Z">
+        <seg>Чи містить тека три файли з однаковим імʼям та різним розширенням?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>DokuWiki</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20190706T132600Z" creationid="Kos Ivantsov" creationdate="20190706T132600Z">
@@ -7159,6 +7287,15 @@ script provided (omegat.kaptn).</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>For a more user-friendly way of launching OmegaT, you can use the Kaptain script
+provided (omegat.kaptn).</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200404T164931Z" creationid="maximo" creationdate="20200404T164931Z">
+        <seg>Для зручнішого запуску OmegaT можна використовувати скрипт на мові Kaptain (omegat.kaptn), який міститься у пакеті встановлення.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>For advocates of open-source software, this freedom is even more important than the exemption from having to pay anything.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="lesia" changedate="20200323T071653Z" creationid="maximo" creationdate="20200322T174726Z">
@@ -7511,6 +7648,22 @@ script provided (omegat.kaptn).</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Glossaries</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200404T170754Z" creationid="maximo" creationdate="20200404T170754Z">
+        <seg>Глосарії</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Glossaries are files created and updated manually for use in &lt;a0&gt;OmegaT&lt;/a0&gt;.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200404T170759Z" creationid="maximo" creationdate="20200404T170759Z">
+        <seg>Глосарії — це файли, які створюються та оновлюються вручну для використання в &lt;a0&gt;OmegaT&lt;/a0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Glossary</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20190422T204502Z" creationid="Kos Ivantsov" creationdate="20190422T204502Z">
@@ -7579,6 +7732,14 @@ script provided (omegat.kaptn).</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20190807T191058Z" creationid="Kos Ivantsov" creationdate="20190807T191058Z">
         <seg>Тека для глосаріїв {0} не існує.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Glossary pane</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200404T172107Z" creationid="maximo" creationdate="20200404T172107Z">
+        <seg>Панель Глосарій</seg>
       </tuv>
     </tu>
     <tu>
@@ -8035,6 +8196,16 @@ Its winter has come</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If
+Java is installed at system level and is in the command path, the full path need
+not be entered.)</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200404T164956Z" creationid="maximo" creationdate="20200404T164956Z">
+        <seg>Якщо Java встановлена на рівні системи та шлях до виконуваного файлу додано до змінної PATH, то при запуску OmegaT повний шлях до Java вводити не обов’язково.)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If HTML file has the encoding declaration, it will be used disregarding any value you set in this dialog.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20190815T133238Z" creationid="Kos Ivantsov" creationdate="20190814T101834Z">
@@ -8080,6 +8251,14 @@ need not be entered.)</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="lesia" changedate="20200322T213117Z" creationid="maximo" creationdate="20200322T141635Z">
         <seg>Якщо потрібна версія JRE вже встановлена у вас на Windows, оберіть "Без JRE".</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If an &lt;a0&gt;OmegaT&lt;/a0&gt; project contains one or more glossaries, any terms in the glossary which are also found in the current segment will be automatically displayed in the Glossary viewer.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200404T170817Z" creationid="maximo" creationdate="20200404T170817Z">
+        <seg>Якщо проєкт в &lt;a0&gt;OmegaT&lt;/a0&gt; містить один або більше глосаріїв, то вирази, які є в глосаріях і зустрічаються в сегментах, відображаються у вікні Глосарій.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8134,6 +8313,14 @@ need not be entered.)</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If it is &lt;e0&gt;tar.bz&lt;/e0&gt;, you have forgotten to unpack (untar) it.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200404T170737Z" creationid="maximo" creationdate="20200404T170737Z">
+        <seg>Якщо це &lt;e0&gt;tar.bz&lt;/e0&gt;, ви забули його розпакувати.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If later access to the desired location is granted
 that location will be used and all settings will return to
 their defaults as a result of the location change.</seg>
@@ -8159,6 +8346,22 @@ their defaults as a result of the location change.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="maximo" changedate="20200322T180625Z" creationid="maximo" creationdate="20200322T180625Z">
         <seg>Якщо ні, то чому б не почати із написання статті про OmegaT?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If only one file is present, check its extension.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200404T170732Z" creationid="maximo" creationdate="20200404T170732Z">
+        <seg>Якщо там лише один, перевірте його розширення.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If the file already exists, no attempt is done to verify the format or the character set of the file: the new entries will always be in tab-separated format and UTF-8.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200404T171504Z" creationid="maximo" creationdate="20200404T171504Z">
+        <seg>Якщо файл вже існує, то він не перевіряється на валідність формату чи кодування. Нові записи завжди додаються у табульованому форматі та UTF-8.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8276,6 +8479,15 @@ their defaults as a result of the location change.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If you can see the file OmegaT but not OmegaT.exe in your File Manager (Windows
+Explorer), change the settings so that file extensions are displayed.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200404T164826Z" creationid="maximo" creationdate="20200404T164826Z">
+        <seg>Якщо у файловому менеджері (Провіднику Windows) видно лише файл OmegaT, а не OmegaT.exe, то увімкніть показ розширень файлів у налаштуваннях Провідника Windows.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If you have a natural aversion to reading instructions, and your approach to new software is to click on every button you see until something resembling the desired effect occurs, then OmegaT is probably not suitable for you.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="maximo" changedate="20200322T151634Z" creationid="maximo" creationdate="20200322T151634Z">
@@ -8289,6 +8501,15 @@ is to use Java Web Start.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20190822T210059Z" creationid="Kos Ivantsov" creationdate="20190822T210059Z">
         <seg>Якщо у вас вже встановлено середовище JRE, то найпростіший спосіб встановити OmegaT — це Java Web Start.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If you have already Java installed on your system, one way to install OmegaT is
+to use Java Web Start.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200404T164737Z" creationid="maximo" creationdate="20200404T164737Z">
+        <seg>Якщо у вас вже встановлено середовище Java, то найпростіший спосіб встановити OmegaT — це Java Web Start.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8369,6 +8590,15 @@ is to use Java Web Start.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20190822T151620Z" creationid="Kos Ivantsov" creationdate="20190822T151620Z">
         <seg>Якщо ваші файли для перекладу містять форматування (наприклад, файли Microsoft Word, LibreOffice Writer або файли HTML), то воно буде представлене в OmegaT у вигляді теґів навколо тексту, який ви перекладатимете.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If, during installation, you have created a shortcut on the desktop,
+double-click on that shortcut.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200404T164745Z" creationid="maximo" creationdate="20200404T164745Z">
+        <seg>Якщо під час установлення ви створили ярлик на робочому столі, то просто двічі клацніть по ньому.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8734,6 +8964,16 @@ click on that shortcut.</seg>
 =========================================</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20190504T154842Z" creationid="Kos Ivantsov" creationdate="20190504T154842Z">
+        <seg>Встановлення OmegaT (Solaris, FreeBSD та інші Unix-подібні системи)
+===================================================================</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Installing OmegaT (Solaris, FreeBSD, etc.)
+=========================================</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200404T164714Z" creationid="maximo" creationdate="20200404T164714Z">
         <seg>Встановлення OmegaT (Solaris, FreeBSD та інші Unix-подібні системи)
 ===================================================================</seg>
       </tuv>
@@ -10672,6 +10912,15 @@ appropriate location such as the Applications folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Move the folder to an appropriate location such
+as the Applications folder.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200404T164616Z" creationid="maximo" creationdate="20200404T164616Z">
+        <seg>Перемістіть цю теку до теки програм або в інше місце, звідки ви зможете запустити застосунок.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Moving cleaned '{0}' to '{1}'</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20190516T205449Z" creationid="Kos Ivantsov" creationdate="20190516T205449Z">
@@ -11604,6 +11853,15 @@ to be launched.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>OmegaT is then ready to
+be launched.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200404T164622Z" creationid="maximo" creationdate="20200404T164622Z">
+        <seg>програма OmegaT готова до роботи.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>OmegaT is written in Java.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="maximo" changedate="20200322T180720Z" creationid="maximo" creationdate="20200322T180720Z">
@@ -12124,8 +12382,8 @@ installed on your system.</seg>
       <tuv lang="EN">
         <seg>Otherwise, OmegaT will use the language of the operating system.</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20190823T142227Z" creationid="Kos Ivantsov" creationdate="20190823T141936Z">
-        <seg>В іншому разі для інтерфейсу OmegaT використовуватиметься мова операційної системи.</seg>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200404T170405Z" creationid="Kos Ivantsov" creationdate="20190823T141936Z">
+        <seg>Інакше для інтерфейсу OmegaT буде використана мова операційної системи.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12486,6 +12744,22 @@ additional steps need to be taken.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20190808T131738Z" creationid="Kos Ivantsov" creationdate="20190808T131738Z">
         <seg>Перевірте ще раз.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Please download and install the latest Java JDK from Oracle.com and try again.";</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200404T170003Z" creationid="maximo" creationdate="20200404T170003Z">
+        <seg>Будь ласка, завантажте та встановіть останню версію Java JDK із www.java.com та спробуйте ще раз.";</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Please download and install the latest version of Java from www.java.com and try again.";</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200404T165858Z" creationid="maximo" creationdate="20200404T165858Z">
+        <seg>Будь ласка, завантажте та встановіть останню версію Java із www.java.com та спробуйте ще раз.";</seg>
       </tuv>
     </tu>
     <tu>
@@ -16156,6 +16430,14 @@ The scope of a search is by default the project and can be set to be any files l
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Terms in the current segment which &lt;a2&gt;OmegaT&lt;/a2&gt; finds in the glossary file(s) are displayed in the Glossary pane:</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200404T172052Z" creationid="maximo" creationdate="20200404T172052Z">
+        <seg>Ті вирази для сегменту, які &lt;a2&gt;OmegaT&lt;/a2&gt; може знайти у глосаріях, відображаються у панелі Глосарій:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Terms with multiple targets</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20190820T110126Z" creationid="Kos Ivantsov" creationdate="20190820T110126Z">
@@ -16580,10 +16862,26 @@ instead.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The extension must be &lt;f0&gt;.txt&lt;/f0&gt; or &lt;f1&gt;.utf8&lt;/f1&gt; (if not, it will be added).</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200404T170956Z" creationid="maximo" creationdate="20200404T170956Z">
+        <seg>Розширення має бути &lt;f0&gt;.txt&lt;/f0&gt; чи &lt;f1&gt;.utf8&lt;/f1&gt; (якщо його не вказати, воно буде додане автоматично).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The file "{0}" is not supported.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20190821T204334Z" creationid="Kos Ivantsov" creationdate="20190821T204334Z">
         <seg>Файл {0} не підтримується.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The file does not need to exist when setting it, it will be created (if necessary) when adding a glossary entry.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200404T171258Z" creationid="maximo" creationdate="20200404T171258Z">
+        <seg>Файл може не існувати тоді, коли його вказують у властивостях проєкту. У цьому випадку він буде створений коли ви додасте перший запис у глосарій.</seg>
       </tuv>
     </tu>
     <tu>
@@ -16665,6 +16963,15 @@ desktop and in the quick launch area.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The installer can create shortcuts for you in the start menu, on the desktop and
+in the quick launch area.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200404T164751Z" creationid="maximo" creationdate="20200404T164751Z">
+        <seg>Програма встановлення може створити ярлики в меню «Пуск», на робочому столі та на панелі швидкого запуску.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The language code should be in the form xx-YY, xxx-YY, xx_YY or xxx_YY, where 
 xx or xxx is the language code and YY is the region or country code (optional).</seg>
       </tuv>
@@ -16674,11 +16981,28 @@ xx or xxx is the language code and YY is the region or country code (optional).<
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The license of each library is mentioned in
+/lib/licenses/Licenses.txt.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200404T164531Z" creationid="maximo" creationdate="20200404T164531Z">
+        <seg>У файлі /lib/licenses/Licenses.txt названо ліцензії, за якими розповсюджується кожна бібліотека.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The license of each library is mentionned
 in /lib/licenses/Licenses.txt.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20190822T145313Z" creationid="Kos Ivantsov" creationdate="20190822T145313Z">
         <seg>У файлі /docs/OmegaT-license.txt названо ліцензії, за якими розповсюджується кожна бібліотека.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The location of the file must be within the &lt;f2&gt;/glossary&lt;/f2&gt; folder, but it can be in a deeper folder (e.g., &lt;f3&gt;glossary/sub/glossary.txt&lt;/f3&gt;).</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200404T171120Z" creationid="maximo" creationdate="20200404T171120Z">
+        <seg>Файл глосарію має бути у межах теки &lt;f2&gt;/glossary&lt;/f2&gt;, але він може також бути у глибшій теці (наприклад &lt;f3&gt;glossary/sub/glossary.txt&lt;/f3&gt;).</seg>
       </tuv>
     </tu>
     <tu>
@@ -17486,10 +17810,26 @@ the server.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>To use an existing glossary, simply place it in the &lt;f0&gt;/glossary&lt;/f0&gt; folder after creating the project.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200404T171743Z" creationid="maximo" creationdate="20200404T171743Z">
+        <seg>Щоб використати існуючий глосарій, просто розмістіть його у теці &lt;f0&gt;/glossary&lt;/f0&gt; після створення проєкту.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>To use this script you must first install
 Kaptain.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20190822T212738Z" creationid="Kos Ivantsov" creationdate="20190822T212738Z">
+        <seg>Для використання цього скрипту спершу встановіть Kaptain.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To use this script you must first install Kaptain.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200404T164933Z" creationid="maximo" creationdate="20200404T164933Z">
         <seg>Для використання цього скрипту спершу встановіть Kaptain.</seg>
       </tuv>
     </tu>
@@ -17505,6 +17845,16 @@ install.sh.</seg>
 sudo ./linux-install.sh
 або
 su -c ./linux-install.sh</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To use this script, open a terminal
+window (console), change folder to the folder containing OmegaT.jar and the
+linux-install.sh script, and execute the script with ./linux-install.sh.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200404T164708Z" creationid="maximo" creationdate="20200404T164708Z">
+        <seg>Для цього запустіть емулятор термінала (консоль), перейдіть у теку, де розміщуються файли OmegaT.jar і linux-install.sh, і запустіть скрипт командою ./linux-install.sh</seg>
       </tuv>
     </tu>
     <tu>
@@ -18273,6 +18623,15 @@ documentation file and the OmegaT application.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Unpack the OmegaT .zip archive to obtain a folder that contains a documentation
+file and the OmegaT application.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200404T164555Z" creationid="maximo" creationdate="20200404T164555Z">
+        <seg>Розпакуйте zip-архів OmegaT, який містить теку із файлом документації та застосунком OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Unrecoverable error while parsing TMX file
 {0}
 on line {1}, column {2}.</seg>
@@ -18385,6 +18744,14 @@ on line {1}, column {2}.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20190820T200016Z" creationid="Kos Ivantsov" creationdate="20190820T200016Z">
         <seg>Передавання на віддалений сервер неможливе, оскільки сховище доступне лише для читання</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Usage</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200404T171642Z" creationid="maximo" creationdate="20200404T171642Z">
+        <seg>Використання</seg>
       </tuv>
     </tu>
     <tu>
@@ -18519,8 +18886,8 @@ on line {1}, column {2}.</seg>
       <tuv lang="EN">
         <seg>Use untar utility (or its equivalent, for instance&lt;f0&gt; winrar&lt;/f0&gt; in Windows) to extract its contents into the project folder "Dictionary".</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="maximo" changedate="20200329T200416Z" creationid="maximo" creationdate="20200329T200416Z">
-        <seg>Використовуючи утиліту untar (чи її еквівалент, на кшталт &lt;f0&gt;winrar&lt;/f0&gt; для Windows) розпакувати вміст до директорії проєкту «Dictionary».</seg>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200404T170729Z" creationid="maximo" creationdate="20200329T200416Z">
+        <seg>Використовуючи утиліту (чи її еквівалент, на кшталт &lt;f0&gt;winrar&lt;/f0&gt; для Windows) розпакувати вміст до теки проекту «Dictionary».</seg>
       </tuv>
     </tu>
     <tu>
@@ -18595,6 +18962,14 @@ on line {1}, column {2}.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="maximo" changedate="20200322T151216Z" creationid="maximo" creationdate="20200322T151216Z">
         <seg>Вимоги до користувача</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>User support resources:</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200404T165550Z" creationid="maximo" creationdate="20200404T165550Z">
+        <seg>Канали підтримки:</seg>
       </tuv>
     </tu>
     <tu>
@@ -18904,6 +19279,15 @@ searchable without subscription:</seg>
 trouble of selecting, obtaining and installing it.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20190823T210415Z" creationid="Kos Ivantsov" creationdate="20190822T150353Z">
+        <seg>Щоб не витрачати часу на пошук, стягнення та встановлення середовища виконання, рекомендується використовувати інсталяційні пакети OmegaT, які містять JRE.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>We recommend using OmegaT packages that include the JRE, to save you the trouble
+of selecting, obtaining and installing it.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200404T164544Z" creationid="maximo" creationdate="20200404T164544Z">
         <seg>Щоб не витрачати часу на пошук, стягнення та встановлення середовища виконання, рекомендується використовувати інсталяційні пакети OmegaT, які містять JRE.</seg>
       </tuv>
     </tu>
@@ -19363,6 +19747,15 @@ Your page is not found</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>You
+can then launch the Kaptain launch script with:</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200404T164942Z" creationid="maximo" creationdate="20200404T164942Z">
+        <seg>Потім цей Kaptain-скрипт можна запустити, натиснувши</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>You already have the latest version.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20190808T090839Z" creationid="Kos Ivantsov" creationdate="20190808T090521Z">
@@ -19444,11 +19837,29 @@ it from the Spotlight search field.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>You can also launch it from
+the Spotlight search field.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200404T164921Z" creationid="maximo" creationdate="20200404T164921Z">
+        <seg>Крім того, OmegaT можна запустити зі Spotlight.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>You can also manually drag the file
 OmegaT.exe to the start menu, the desktop or the quick launch area to link it
 from there.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20190822T212140Z" creationid="Kos Ivantsov" creationdate="20190822T212140Z">
+        <seg>Крім того, можна створити ярлик, перетягнувши файл OmegaT.exe у меню «Пуск», на робочий стіл або на панель швидкого запуску.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You can also manually drag the file OmegaT.exe to the
+start menu, the desktop or the quick launch area to link it from there.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200404T164758Z" creationid="maximo" creationdate="20200404T164758Z">
         <seg>Крім того, можна створити ярлик, перетягнувши файл OmegaT.exe у меню «Пуск», на робочий стіл або на панель швидкого запуску.</seg>
       </tuv>
     </tu>
@@ -19515,6 +19926,15 @@ the installation script (linux-install.sh).</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>You can however obtain a neater and more user-friendly installation by using the
+installation script (linux-install.sh).</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200404T164629Z" creationid="maximo" creationdate="20200404T164629Z">
+        <seg>Крім того, для більшої зручності та легкості у користуванні ви може встановити програму скриптом встановлення (linux-install.sh).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>You can still find &lt;a0&gt;older, superseded versions&lt;/a0&gt; of OmegaT.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="lesia" changedate="20200323T214049Z" creationid="maximo" creationdate="20200322T155221Z">
@@ -19535,6 +19955,14 @@ the installation script (linux-install.sh).</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20190808T090637Z" creationid="Kos Ivantsov" creationdate="20190808T090637Z">
         <seg>Зараз запущена версія {1}.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You define its location and name in the project properties dialog.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200404T170913Z" creationid="maximo" creationdate="20200404T170913Z">
+        <seg>Ви можете вказати його у діалозі властивості проєкту.</seg>
       </tuv>
     </tu>
     <tu>
@@ -19567,6 +19995,15 @@ the installation script (linux-install.sh).</seg>
 Finder window to be able to launch it from any location.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20190822T212407Z" creationid="Kos Ivantsov" creationdate="20190822T212407Z">
+        <seg>Для зручності запуску можна перетягнути застосунок OmegaT в док або на панель Finder.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You may drag the OmegaT application to your dock or to the toolbar of a Finder
+window to be able to launch it from any location.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200404T164900Z" creationid="maximo" creationdate="20200404T164900Z">
         <seg>Для зручності запуску можна перетягнути застосунок OmegaT в док або на панель Finder.</seg>
       </tuv>
     </tu>
