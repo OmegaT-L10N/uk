@@ -10819,6 +10819,14 @@ itself on the first run.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Most of the items that appear in the main menu can have a new shortcut assigned.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200404T172233Z" creationid="maximo" creationdate="20200404T172233Z">
+        <seg>Для більшості елементів головного меню є можливість налаштувати комбінації клавіш.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Most of these scripts require MS Windows, although some procedures may also work on other platforms.&lt;br0/&gt;</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="lesia" changedate="20200322T161728Z" creationid="lesia" creationdate="20200322T161722Z">
@@ -13662,6 +13670,14 @@ These words: 'Page not found'</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Regular expressions</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200404T172154Z" creationid="maximo" creationdate="20200404T172154Z">
+        <seg>Регулярні вирази</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Reload</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20190807T150326Z" creationid="Kos Ivantsov" creationdate="20190807T150326Z">
@@ -15320,6 +15336,14 @@ The scope of a search is by default the project and can be set to be any files l
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20190808T125710Z" creationid="Kos Ivantsov" creationdate="20190808T125710Z">
         <seg>Комбінація клавіш:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Shortcuts customization</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200404T172221Z" creationid="maximo" creationdate="20200404T172221Z">
+        <seg>Налаштування комбінації клавіш</seg>
       </tuv>
     </tu>
     <tu>
