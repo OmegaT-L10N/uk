@@ -2832,6 +2832,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Always Confirm Quit</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200405T190105Z" creationid="maximo" creationdate="20200405T190105Z">
+        <seg>Завжди підтверджувати вихід</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>An Instant Start Guide, which guides you through the main procedures and functions of OmegaT, is displayed in the OmegaT user interface by default.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="lesia" changedate="20200322T211859Z" creationid="maximo" creationdate="20200322T112810Z">
@@ -3256,6 +3264,22 @@ may experience unexpected, but correct behaviour.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20190424T211556Z" creationid="Kos Ivantsov" creationdate="20190424T211417Z">
         <seg>Автодоповнення</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Auto-completion/Glossary...</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200405T190259Z" creationid="maximo" creationdate="20200405T190259Z">
+        <seg>Автодоповнення/Глосарій...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Auto-completion/Show Relevant Suggestions Automatically</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200405T190234Z" creationid="maximo" creationdate="20200405T190234Z">
+        <seg>Автодоповнення/Автоматично показувати відповідні пропозиції</seg>
       </tuv>
     </tu>
     <tu>
@@ -7956,6 +7980,22 @@ provided (omegat.kaptn).</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="maximo" changedate="20200404T172107Z" creationid="maximo" creationdate="20200404T172107Z">
         <seg>Панель Глосарій</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Glossary/Display Context Description for TBX Glossaries</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200405T190128Z" creationid="maximo" creationdate="20200405T190128Z">
+        <seg>Глосарій/Показувати опис контексту для глосаріїв TBX</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Glossary/Use Stemming for Glossary Entries</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200405T190142Z" creationid="maximo" creationdate="20200405T190142Z">
+        <seg>Глосарій/Використовувати стемінг для словникових статей</seg>
       </tuv>
     </tu>
     <tu>
@@ -12749,6 +12789,14 @@ installed on your system.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20190420T182450Z" creationid="Kos Ivantsov" creationdate="20190420T182450Z">
         <seg>Налаштування</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Options Menu</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200405T190046Z" creationid="maximo" creationdate="20200405T190046Z">
+        <seg>Меню «Налаштування»</seg>
       </tuv>
     </tu>
     <tu>
@@ -18635,6 +18683,14 @@ linux-install.sh script, and execute the script with ./linux-install.sh.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Tools Menu</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200405T190010Z" creationid="maximo" creationdate="20200405T190010Z">
+        <seg>Меню «Інструменти»</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Total Characters (including spaces)</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20200325T111835Z" creationid="Kos Ivantsov" creationdate="20190504T131521Z">
@@ -18759,6 +18815,14 @@ linux-install.sh script, and execute the script with ./linux-install.sh.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20190817T172329Z" creationid="Kos Ivantsov" creationdate="20190516T182817Z">
         <seg>Перекладене &amp;або неперекладене</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>TransTips/Enable Transtips</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200405T190159Z" creationid="maximo" creationdate="20200405T190159Z">
+        <seg>Підказки перекладу/Увімкнути підказки перекладу</seg>
       </tuv>
     </tu>
     <tu>
@@ -19580,6 +19644,22 @@ on line {1}, column {2}.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Use TAB To Advance</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200405T190059Z" creationid="maximo" creationdate="20200405T190059Z">
+        <seg>Використовувати TAB для переходу до наступного сегмента</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Use Terms Appearing Separately in the Source Text</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200405T190134Z" creationid="maximo" creationdate="20200405T190134Z">
+        <seg>Використати терміни, вжиті окремо у тексті оригіналу</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Use all mine</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20190821T115035Z" creationid="Kos Ivantsov" creationdate="20190821T115006Z">
@@ -19813,6 +19893,22 @@ searchable without subscription:</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20190424T212446Z" creationid="Kos Ivantsov" creationdate="20190424T212446Z">
         <seg>VLDocking Framework (ліцензія LGPL)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Validate Tags</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200405T190015Z" creationid="maximo" creationdate="20200405T190015Z">
+        <seg>Перевірка теґів</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Validate Tags for Current Document</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200405T190041Z" creationid="maximo" creationdate="20200405T190041Z">
+        <seg>Перевірка теґів у поточному документі</seg>
       </tuv>
     </tu>
     <tu>
