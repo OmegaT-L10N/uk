@@ -4980,6 +4980,14 @@ Buy another drink</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Create Glossary Entry</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200405T185349Z" creationid="maximo" creationdate="20200405T185349Z">
+        <seg>Створити запис у глосарії</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Create MED Project...</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20190420T182409Z" creationid="Kos Ivantsov" creationdate="20190420T182409Z">
@@ -6202,6 +6210,14 @@ project_save.tmx не був переданий на віддалений сер
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Edit Menu</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200405T185119Z" creationid="maximo" creationdate="20200405T185119Z">
+        <seg>Меню «Редагування»</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Edit Pattern</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20190807T105440Z" creationid="Kos Ivantsov" creationdate="20190807T105440Z">
@@ -6930,6 +6946,14 @@ Gossamer threads hold you back
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20190424T213850Z" creationid="Kos Ivantsov" creationdate="20190424T213850Z">
         <seg>Код виходу: {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Export Selection</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200405T185341Z" creationid="maximo" creationdate="20200405T185341Z">
+        <seg>Експорт вибраного</seg>
       </tuv>
     </tu>
     <tu>
@@ -9036,6 +9060,14 @@ click on that shortcut.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Insert Match or Selection</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200405T185219Z" creationid="maximo" creationdate="20200405T185219Z">
+        <seg>Вставити збіг або вибраний текст</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Insert Match or Selection Into Translation</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20190807T164104Z" creationid="Kos Ivantsov" creationdate="20190807T164104Z">
@@ -9048,6 +9080,14 @@ click on that shortcut.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20190807T104312Z" creationid="Kos Ivantsov" creationdate="20190421T171235Z">
         <seg>Вставити всі пропу&amp;щені теґи</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Insert Missing Source Tags</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200405T185324Z" creationid="maximo" creationdate="20200405T185324Z">
+        <seg>Вставити всі пропущені теґи</seg>
       </tuv>
     </tu>
     <tu>
@@ -9072,6 +9112,14 @@ click on that shortcut.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20190807T140155Z" creationid="Kos Ivantsov" creationdate="20190807T140155Z">
         <seg>Вставити вибране</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Insert Source</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200405T185316Z" creationid="maximo" creationdate="20200405T185316Z">
+        <seg>Вставити оригінал</seg>
       </tuv>
     </tu>
     <tu>
@@ -13762,6 +13810,14 @@ project without team functionality.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Quit</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200405T185103Z" creationid="maximo" creationdate="20200405T185103Z">
+        <seg>Вийти</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>R&amp;emove</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20190420T151833Z" creationid="Kos Ivantsov" creationdate="20190420T151833Z">
@@ -13874,6 +13930,14 @@ These words: 'Page not found'</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="lesia" changedate="20200324T164111Z" creationid="lesia" creationdate="20200324T164111Z">
         <seg>Recursos do OmegaT: primeiros passos (онлайн)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Redo Last Action</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200405T185134Z" creationid="maximo" creationdate="20200405T185134Z">
+        <seg>Повторити останню дію</seg>
       </tuv>
     </tu>
     <tu>
@@ -14248,6 +14312,22 @@ These words: 'Page not found'</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Replace With Match or Selection</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200405T185212Z" creationid="maximo" creationdate="20200405T185212Z">
+        <seg>Замінити переклад збігом або вибраним текстом</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Replace With Source</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200405T185302Z" creationid="maximo" creationdate="20200405T185302Z">
+        <seg>Замінити на оригінал</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Replace custom tags with space</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20190823T142753Z" creationid="Kos Ivantsov" creationdate="20190823T142753Z">
@@ -14276,6 +14356,14 @@ These words: 'Page not found'</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20190421T171010Z" creationid="Kos Ivantsov" creationdate="20190421T171010Z">
         <seg>Замінити &amp;машинним перекладом</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Replace with Machine Translation</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200405T185228Z" creationid="maximo" creationdate="20200405T185228Z">
+        <seg>Замінити машинним перекладом</seg>
       </tuv>
     </tu>
     <tu>
@@ -18842,6 +18930,14 @@ Exact searches match the whole search string.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20190817T205542Z" creationid="Kos Ivantsov" creationdate="20190817T205542Z">
         <seg>Неавторизований запит до служби TaaS.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Undo Last Action</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200405T185128Z" creationid="maximo" creationdate="20200405T185128Z">
+        <seg>Скасувати останню дію</seg>
       </tuv>
     </tu>
     <tu>
