@@ -2056,6 +2056,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;k0&gt;Ctrl+P&lt;/k0&gt; or &lt;k1&gt;Ctrl+Enter&lt;/k1&gt; or &lt;k2&gt;Ctrl+Tab&lt;/k2&gt;</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200405T185648Z" creationid="maximo" creationdate="20200405T185648Z">
+        <seg>&lt;k0&gt;Ctrl+P&lt;/k0&gt; чи &lt;k1&gt;Ctrl+Enter&lt;/k1&gt; чи &lt;k2&gt;Ctrl+Tab&lt;/k2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;name and path of the Java executable file&gt; -jar OmegaT.jar</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20190822T212959Z" creationid="Kos Ivantsov" creationdate="20190822T212959Z">
@@ -7952,6 +7960,14 @@ provided (omegat.kaptn).</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>GoTo Menu</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200405T185608Z" creationid="maximo" creationdate="20200405T185608Z">
+        <seg>Меню «Перехід»</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Google Api key not available.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20190807T184119Z" creationid="Kos Ivantsov" creationdate="20190807T184048Z">
@@ -11345,10 +11361,34 @@ as the Applications folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Next Segment</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200405T185629Z" creationid="maximo" creationdate="20200405T185629Z">
+        <seg>До наступного сегмента</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Next Translated Segment</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200405T185625Z" creationid="maximo" creationdate="20200405T185625Z">
+        <seg>До наступного перекладеного сегмента</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Next Uni&amp;que Segment</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20190421T151026Z" creationid="Kos Ivantsov" creationdate="20190420T155419Z">
         <seg>До наступного &amp;унікального сегмента</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Next Untranslated Segment</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200405T185619Z" creationid="maximo" creationdate="20200405T185619Z">
+        <seg>До наступного неперекладеного сегмента</seg>
       </tuv>
     </tu>
     <tu>
@@ -13376,6 +13416,14 @@ project without team functionality.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Previous Segment</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200405T185637Z" creationid="maximo" creationdate="20200405T185637Z">
+        <seg>До попереднього сегмента</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Previous and &amp;next paragraphs</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20190803T190202Z" creationid="Kos Ivantsov" creationdate="20190803T190202Z">
@@ -15138,6 +15186,14 @@ The scope of a search is by default the project and can be set to be any files l
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Search Project...</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200405T185354Z" creationid="maximo" creationdate="20200405T185354Z">
+        <seg>Шукати в проєкті...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Search Replaced Mark</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20190807T171311Z" creationid="Kos Ivantsov" creationdate="20190807T171311Z">
@@ -15480,6 +15536,62 @@ The scope of a search is by default the project and can be set to be any files l
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20190420T152254Z" creationid="Kos Ivantsov" creationdate="20190420T152254Z">
         <seg>Вибрати збіг № &amp;5</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Select Match #1</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200405T185523Z" creationid="maximo" creationdate="20200405T185523Z">
+        <seg>Вибрати збіг № 1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Select Match #2</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200405T185530Z" creationid="maximo" creationdate="20200405T185530Z">
+        <seg>Вибрати збіг № 2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Select Match #3</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200405T185535Z" creationid="maximo" creationdate="20200405T185535Z">
+        <seg>Вибрати збіг № 3</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Select Match #4</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200405T185543Z" creationid="maximo" creationdate="20200405T185543Z">
+        <seg>Вибрати збіг № 4</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Select Match #5</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200405T185548Z" creationid="maximo" creationdate="20200405T185548Z">
+        <seg>Вибрати збіг № 5</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Select Next Match</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200405T185515Z" creationid="maximo" creationdate="20200405T185515Z">
+        <seg>Вибрати наступний збіг</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Select Previous Match</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200405T185510Z" creationid="maximo" creationdate="20200405T185510Z">
+        <seg>Вибрати попередній збіг</seg>
       </tuv>
     </tu>
     <tu>
@@ -16474,6 +16586,46 @@ The scope of a search is by default the project and can be set to be any files l
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20190422T210528Z" creationid="Kos Ivantsov" creationdate="20190422T210528Z">
         <seg>Шведська</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Switch Case To/Cycle</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200405T185504Z" creationid="maximo" creationdate="20200405T185504Z">
+        <seg>Змінити регістр/Циклічно</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Switch Case To/Lower Case</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200405T185409Z" creationid="maximo" creationdate="20200405T185409Z">
+        <seg>Змінити регістр/На нижній</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Switch Case To/Sentence Case</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200405T185444Z" creationid="maximo" creationdate="20200405T185444Z">
+        <seg>Змінити регістр/Як в реченні</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Switch Case To/Title Case</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200405T185453Z" creationid="maximo" creationdate="20200405T185428Z">
+        <seg>Змінити регістр/Починати всі слова з великої літери</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Switch Case To/Upper Case</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200405T185416Z" creationid="maximo" creationdate="20200405T185416Z">
+        <seg>Змінити регістр/На верхній</seg>
       </tuv>
     </tu>
     <tu>
