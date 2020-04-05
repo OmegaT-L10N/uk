@@ -19897,6 +19897,14 @@ start menu, the desktop or the quick launch area to link it from there.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>You can change the already assigned shortcuts and add new shortcuts by putting a shortcut definition file in your &lt;a0&gt;OmegaT&lt;/a0&gt; preferences folder (accessible by &lt;m1&gt; &lt;g2&gt;Options&lt;/g2&gt; &lt;g3&gt;Access Configuration Folder&lt;/g3&gt; &lt;/m1&gt; menu).</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200405T042953Z" creationid="maximo" creationdate="20200405T042953Z">
+        <seg>Ви можете змінити вже наявні комбінації та додати нові поклавши відповідний файл із визначеними комбінаціями в теку налаштувань &lt;a0&gt;OmegaT&lt;/a0&gt; (меню &lt;m1&gt; &lt;g2&gt;Налаштування&lt;/g2&gt; &lt;g3&gt;Відкрити теку з налаштуваннями&lt;/g3&gt; &lt;/m1&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>You can create a new project for each new job, and you can add new source files to a project at anytime.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20190822T174332Z" creationid="Kos Ivantsov" creationdate="20190822T174332Z">
