@@ -2368,6 +2368,22 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Access Project Contents/Dictionaries</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200405T184732Z" creationid="maximo" creationdate="20200405T184732Z">
+        <seg>Відкрити вміст проєкту/Теку зі словниками</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Access Project Contents/Root</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200405T184810Z" creationid="maximo" creationdate="20200405T184628Z">
+        <seg>Відкрити вміст проєкту/Кореневу теку проєкту</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Access Scripts Folder</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20190422T205135Z" creationid="Kos Ivantsov" creationdate="20190422T205135Z">
@@ -4908,6 +4924,14 @@ Buy another drink</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Create Current Translated Documents</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200405T184546Z" creationid="maximo" creationdate="20200405T184546Z">
+        <seg>Створити перекладений поточний документ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Create MED Project...</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20190420T182409Z" creationid="Kos Ivantsov" creationdate="20190420T182409Z">
@@ -4920,6 +4944,14 @@ Buy another drink</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20190504T132125Z" creationid="Kos Ivantsov" creationdate="20190504T132125Z">
         <seg>Створити новий проєкт</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Create Translated Documents</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200405T184542Z" creationid="maximo" creationdate="20200405T184542Z">
+        <seg>Створити перекладені документи</seg>
       </tuv>
     </tu>
     <tu>
@@ -5847,6 +5879,14 @@ Buy another drink</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Download MediaWiki Page...</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200405T184525Z" creationid="maximo" creationdate="20200405T184525Z">
+        <seg>Стягнути сторінку MediaWiki...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Download Overview</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="lesia" changedate="20200324T154815Z" creationid="maximo" creationdate="20200322T172524Z">
@@ -5859,6 +5899,14 @@ Buy another drink</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="maximo" changedate="20200323T161149Z" creationid="maximo" creationdate="20200322T172646Z">
         <seg>Вибір версії</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Download Team Project</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200405T184504Z" creationid="maximo" creationdate="20200405T184504Z">
+        <seg>Стягнути командний проєкт...</seg>
       </tuv>
     </tu>
     <tu>
@@ -11137,6 +11185,14 @@ as the Applications folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>New</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200405T184455Z" creationid="maximo" creationdate="20200405T184455Z">
+        <seg>Новий...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>New Language and Country</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20190422T205932Z" creationid="Kos Ivantsov" creationdate="20190422T205932Z">
@@ -12257,6 +12313,14 @@ installed on your system.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Open</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200405T184508Z" creationid="maximo" creationdate="20200405T184508Z">
+        <seg>Відкрити...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Open Document Format (LibreOffice, OpenOffice.org)</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="maximo" changedate="20200322T171452Z" creationid="maximo" creationdate="20200322T171452Z">
@@ -12285,6 +12349,14 @@ installed on your system.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20190421T203043Z" creationid="Kos Ivantsov" creationdate="20190420T182209Z">
         <seg>Відкрити недавн&amp;ій проєкт</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Open Recent Project</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200405T184515Z" creationid="maximo" creationdate="20200405T184515Z">
+        <seg>Відкрити недавній проєкт</seg>
       </tuv>
     </tu>
     <tu>
@@ -13354,6 +13426,14 @@ project without team functionality.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Project Files...</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200405T184558Z" creationid="maximo" creationdate="20200405T184558Z">
+        <seg>Файли проєкту...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Project Menu</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="maximo" changedate="20200405T184413Z" creationid="maximo" creationdate="20200405T184413Z">
@@ -13550,6 +13630,14 @@ project without team functionality.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20190821T153059Z" creationid="Kos Ivantsov" creationdate="20190821T153059Z">
         <seg>Проєкт не буде оновлено.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Properties...</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200405T184551Z" creationid="maximo" creationdate="20200405T184551Z">
+        <seg>Властивості...</seg>
       </tuv>
     </tu>
     <tu>
@@ -14644,6 +14732,14 @@ These words: 'Page not found'</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="lesia" changedate="20200322T161541Z" creationid="lesia" creationdate="20200322T161541Z">
         <seg>Скрипти та процедури Самюеля Мюррея</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Save</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200405T184534Z" creationid="maximo" creationdate="20200405T184534Z">
+        <seg>Зберегти</seg>
       </tuv>
     </tu>
     <tu>
