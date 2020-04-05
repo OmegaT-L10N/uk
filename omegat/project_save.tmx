@@ -3340,6 +3340,14 @@ may experience unexpected, but correct behaviour.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Back in history...</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200405T185723Z" creationid="maximo" creationdate="20200405T185723Z">
+        <seg>До попереднього сегмента з відвіданих</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Back to the initial segment on close</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20190817T202748Z" creationid="Kos Ivantsov" creationdate="20190516T185221Z">
@@ -5575,6 +5583,14 @@ Buy another drink</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Display Source Segments</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200405T185749Z" creationid="maximo" creationdate="20200405T185749Z">
+        <seg>Показувати текст оригіналу в перекладених сегментах</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Display all &amp;source segments in bold</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20190805T190239Z" creationid="Kos Ivantsov" creationdate="20190805T185630Z">
@@ -7604,6 +7620,14 @@ provided (omegat.kaptn).</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20190701T155253Z" creationid="Kos Ivantsov" creationdate="20190701T155253Z">
         <seg>Формат:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Forward in history...</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200405T185719Z" creationid="maximo" creationdate="20200405T185719Z">
+        <seg>До наступного сегмента з відвіданих</seg>
       </tuv>
     </tu>
     <tu>
@@ -10651,6 +10675,22 @@ itself on the first run.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Mark Auto-Populated Segments</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200405T185844Z" creationid="maximo" creationdate="20200405T185844Z">
+        <seg>Позначати автоматично заповнені сегменти</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Mark Bidirectional Algorithm Control Characters</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200405T185839Z" creationid="maximo" creationdate="20200405T185839Z">
+        <seg>Позначати керівні символи керування напрямком письма</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Mark Glossary Matches</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20190807T121737Z" creationid="Kos Ivantsov" creationdate="20190807T100235Z">
@@ -10675,10 +10715,58 @@ itself on the first run.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Mark Non-Unique Segments</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200405T185804Z" creationid="maximo" creationdate="20200405T185753Z">
+        <seg>Позначати неунікальні сегменти</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Mark Non-breakable Spaces</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200405T185826Z" creationid="maximo" creationdate="20200405T185826Z">
+        <seg>Позначати нерозривні пробіли</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Mark Segments &amp;with Notes</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20190807T150751Z" creationid="Kos Ivantsov" creationdate="20190807T095450Z">
         <seg>Позначати &amp;сегменти з примітками</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Mark Segments with Notes</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200405T185818Z" creationid="maximo" creationdate="20200405T185818Z">
+        <seg>Позначати сегменти з примітками</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Mark Translated Segments</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200405T185736Z" creationid="maximo" creationdate="20200405T185736Z">
+        <seg>Позначати перекладені сегменти</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Mark Untranslated Segments</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200405T185742Z" creationid="maximo" creationdate="20200405T185742Z">
+        <seg>Позначати неперекладені сегменти</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Mark Whitespace</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200405T185831Z" creationid="maximo" creationdate="20200405T185831Z">
+        <seg>Позначити пробіли</seg>
       </tuv>
     </tu>
     <tu>
@@ -10983,6 +11071,30 @@ itself on the first run.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20190422T220241Z" creationid="Kos Ivantsov" creationdate="20190422T220241Z">
         <seg>Id моделі:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Modification Info/Display All</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200405T190007Z" creationid="maximo" creationdate="20200405T190007Z">
+        <seg>Інформація про зміни/Показувати для всіх сегментів</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Modification Info/Display None</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200405T185905Z" creationid="maximo" creationdate="20200405T185905Z">
+        <seg>Інформація про зміни/Не показувати</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Modification Info/Display Selected</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200405T185944Z" creationid="maximo" creationdate="20200405T185944Z">
+        <seg>Інформація про зміни/Показувати для поточного сегменту</seg>
       </tuv>
     </tu>
     <tu>
@@ -11361,6 +11473,14 @@ as the Applications folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Next Note</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200405T185656Z" creationid="maximo" creationdate="20200405T185656Z">
+        <seg>Наступна нотатка</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Next Segment</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="maximo" changedate="20200405T185629Z" creationid="maximo" creationdate="20200405T185629Z">
@@ -11381,6 +11501,14 @@ as the Applications folder.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20190421T151026Z" creationid="Kos Ivantsov" creationdate="20190420T155419Z">
         <seg>До наступного &amp;унікального сегмента</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Next Unique Segment</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200405T185702Z" creationid="maximo" creationdate="20200405T185702Z">
+        <seg>Наступний унікальний сегмент</seg>
       </tuv>
     </tu>
     <tu>
@@ -13416,6 +13544,14 @@ project without team functionality.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Previous Note</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200405T185700Z" creationid="maximo" creationdate="20200405T185700Z">
+        <seg>Попередня нотатка</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Previous Segment</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="maximo" changedate="20200405T185637Z" creationid="maximo" creationdate="20200405T185637Z">
@@ -15371,6 +15507,14 @@ The scope of a search is by default the project and can be set to be any files l
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Segment number...</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200405T185653Z" creationid="maximo" creationdate="20200405T185653Z">
+        <seg>До сегмента за номером...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Segment skipped.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20190517T142956Z" creationid="Kos Ivantsov" creationdate="20190517T142956Z">
@@ -16224,6 +16368,14 @@ The scope of a search is by default the project and can be set to be any files l
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20190421T151003Z" creationid="Kos Ivantsov" creationdate="20190420T155408Z">
         <seg>До сегмента, з &amp;якого взято активний збіг</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Source of Selected Match</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200405T185709Z" creationid="maximo" creationdate="20200405T185709Z">
+        <seg>До сегмента, з якого взято активний збіг</seg>
       </tuv>
     </tu>
     <tu>
@@ -19773,6 +19925,14 @@ searchable without subscription:</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20190805T185636Z" creationid="Kos Ivantsov" creationdate="20190805T185636Z">
         <seg>Вигляд</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>View Menu</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200405T185727Z" creationid="maximo" creationdate="20200405T185727Z">
+        <seg>Меню «Вигляд»</seg>
       </tuv>
     </tu>
     <tu>
