@@ -7368,6 +7368,14 @@ provided (omegat.kaptn).</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>For example, in the default OmegaT shortcuts</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200405T184110Z" creationid="maximo" creationdate="20200405T184040Z">
+        <seg>Для прикладу, в стандартних комбінаціях OmegaT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>For example, there is nothing to stop a user writing their own user manual or a demonstration video for OmegaT, and if the project considers it remotely useful, it is likely to be made available to OmegaT's community of users.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="lesia" changedate="20200321T153849Z" creationid="lesia" creationdate="20200321T153849Z">
@@ -16934,6 +16942,22 @@ instead.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The default OmegaT shortcuts are available from Sourceforge: &lt;u0&gt;Default OmegaT Shortcuts&lt;/u0&gt;</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200405T184125Z" creationid="maximo" creationdate="20200405T184125Z">
+        <seg>Стандартні комбінації OmegaT доступні на Sourceforge: &lt;u0&gt;Типові комбінації OmegaT&lt;/u0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The default OmegaT shortcuts for the Mac are also available from Sourceforge, they all use "meta" instead of "ctrl": &lt;u0&gt;Default OmegaT Shortcuts for the Mac&lt;/u0&gt;</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200405T184200Z" creationid="maximo" creationdate="20200405T184200Z">
+        <seg>Стандартні комбінації OmegaT для Mac також доступні на Sourceforge, в них замість «ctrl» використовується «meta»: &lt;u0&gt;Стандартні комбінації OmegaT для Mac&lt;/u0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The download will be faster, and the installation will require less space on your hard drive.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="maximo" changedate="20200322T155705Z" creationid="maximo" creationdate="20200322T155705Z">
@@ -17179,6 +17203,14 @@ in /lib/licenses/Licenses.txt.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="maximo" changedate="20200321T125303Z" creationid="maximo" creationdate="20200321T125303Z">
         <seg>Філософія проєкту описана &lt;a0&gt;тут&lt;/a0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The possible keyevents (keys) are listed in the following Java 1.6 documentation from Oracle: &lt;u0&gt;Java 1.6 keyEvents description&lt;/u0&gt;</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200405T184037Z" creationid="maximo" creationdate="20200405T184037Z">
+        <seg>Можливі події для клавіш перераховані в документації Java 1.6 від Oracle: &lt;u0&gt;Java 1.6 опис keyEvent&lt;/u0&gt;</seg>
       </tuv>
     </tu>
     <tu>
