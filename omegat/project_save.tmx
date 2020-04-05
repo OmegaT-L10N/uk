@@ -2368,6 +2368,22 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Access Project Contents/Current Source Document</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200405T185018Z" creationid="maximo" creationdate="20200405T185018Z">
+        <seg>Відкрити вміст проєкту/Поточний документ для перекладу</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Access Project Contents/Current Target Document</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200405T185033Z" creationid="maximo" creationdate="20200405T185033Z">
+        <seg>Відкрити вміст проєкту/Поточний перекладений документ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Access Project Contents/Dictionaries</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="maximo" changedate="20200405T184732Z" creationid="maximo" creationdate="20200405T184732Z">
@@ -2376,10 +2392,42 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Access Project Contents/Glossaries</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200405T184828Z" creationid="maximo" creationdate="20200405T184828Z">
+        <seg>Відкрити вміст проєкту/Теку з глосаріями</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Access Project Contents/Root</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="maximo" changedate="20200405T184810Z" creationid="maximo" creationdate="20200405T184628Z">
         <seg>Відкрити вміст проєкту/Кореневу теку проєкту</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Access Project Contents/Source Files</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200405T184902Z" creationid="maximo" creationdate="20200405T184902Z">
+        <seg>Відкрити вміст проєкту/Теку з файлами для перекладу</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Access Project Contents/Target Files</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200405T184930Z" creationid="maximo" creationdate="20200405T184930Z">
+        <seg>Відкрити вміст проєкту/Теку з перекладеними файлами</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Access Project Contents/Writeable Glossary</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200405T185059Z" creationid="maximo" creationdate="20200405T185059Z">
+        <seg>Відкрити вміст проєкту/Глосарій для запису</seg>
       </tuv>
     </tu>
     <tu>
