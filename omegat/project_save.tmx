@@ -2360,6 +2360,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>About...</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200405T190518Z" creationid="maximo" creationdate="20200405T190518Z">
+        <seg>Про програму…</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Access Configurat&amp;ion Folder</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20190422T205028Z" creationid="Kos Ivantsov" creationdate="20190422T205028Z">
@@ -3264,6 +3272,22 @@ may experience unexpected, but correct behaviour.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20190424T211556Z" creationid="Kos Ivantsov" creationdate="20190424T211417Z">
         <seg>Автодоповнення</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Auto-completion/Auto-text...</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200405T190316Z" creationid="maximo" creationdate="20200405T190316Z">
+        <seg>Автодоповнення/Авто-текст...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Auto-completion/Character Table...</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200405T190324Z" creationid="maximo" creationdate="20200405T190324Z">
+        <seg>Автодоповнення/Таблиця символів...</seg>
       </tuv>
     </tu>
     <tu>
@@ -5214,6 +5238,14 @@ Buy another drink</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Custom Colours...</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200405T190350Z" creationid="maximo" creationdate="20200405T190350Z">
+        <seg>Налаштування кольорів...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Custom server URL</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20191016T084942Z" creationid="Kos Ivantsov" creationdate="20191016T084942Z">
@@ -6298,6 +6330,14 @@ project_save.tmx не був переданий на віддалений сер
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Editing Behavior...</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200405T190425Z" creationid="maximo" creationdate="20200405T190425Z">
+        <seg>Поведінка редактора…</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Editor</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20190807T145903Z" creationid="Kos Ivantsov" creationdate="20190807T145903Z">
@@ -7062,6 +7102,14 @@ Gossamer threads hold you back
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>External TMXs...</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200405T190446Z" creationid="maximo" creationdate="20200405T190446Z">
+        <seg>Зовнішні ТМХ…</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>External command completed.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20190504T130534Z" creationid="Kos Ivantsov" creationdate="20190504T130534Z">
@@ -7474,6 +7522,14 @@ Gossamer threads hold you back
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20190420T125212Z" creationid="Kos Ivantsov" creationdate="20190420T125212Z">
         <seg>Шрифт</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Font...</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200405T190341Z" creationid="maximo" creationdate="20200405T190341Z">
+        <seg>Шрифт…</seg>
       </tuv>
     </tu>
     <tu>
@@ -8188,6 +8244,14 @@ provided (omegat.kaptn).</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20190706T131202Z" creationid="Kos Ivantsov" creationdate="20190706T131202Z">
         <seg>Файли довідки та посібників</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Help Menu</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200405T190509Z" creationid="maximo" creationdate="20200405T190509Z">
+        <seg>Меню «Довідка»</seg>
       </tuv>
     </tu>
     <tu>
@@ -10097,6 +10161,14 @@ itself on the first run.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Last Changes...</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200405T190522Z" creationid="maximo" creationdate="20200405T190522Z">
+        <seg>Останні зміни...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Last changes</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20190424T213358Z" creationid="Kos Ivantsov" creationdate="20190424T213358Z">
@@ -10527,6 +10599,14 @@ itself on the first run.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20190817T203105Z" creationid="Kos Ivantsov" creationdate="20190516T182920Z">
         <seg>Розміщення</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Log...</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200405T190530Z" creationid="maximo" creationdate="20200405T190530Z">
+        <seg>Журнал...</seg>
       </tuv>
     </tu>
     <tu>
@@ -14002,6 +14082,14 @@ project without team functionality.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Proxy Login...</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200405T190459Z" creationid="maximo" creationdate="20200405T190459Z">
+        <seg>Авторизація на проксі-сервері...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Proxy User and Password</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20190820T192529Z" creationid="Kos Ivantsov" creationdate="20190820T192529Z">
@@ -14788,6 +14876,14 @@ These words: 'Page not found'</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20190813T123851Z" creationid="Kos Ivantsov" creationdate="20190420T151914Z">
         <seg>Відновити &amp;типові значення</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Restore Main Window</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200405T190504Z" creationid="maximo" creationdate="20200405T190504Z">
+        <seg>Відновити вигляд головного вікна</seg>
       </tuv>
     </tu>
     <tu>
@@ -15616,6 +15712,14 @@ The scope of a search is by default the project and can be set to be any files l
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20190819T111154Z" creationid="Kos Ivantsov" creationdate="20190819T111154Z">
         <seg>Правила сегментації застосовуються у наступній послідовності:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Segmentation...</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200405T190359Z" creationid="maximo" creationdate="20200405T190359Z">
+        <seg>Сегментація...</seg>
       </tuv>
     </tu>
     <tu>
@@ -16492,6 +16596,14 @@ The scope of a search is by default the project and can be set to be any files l
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Spell checking...</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200405T190407Z" creationid="maximo" creationdate="20200405T190407Z">
+        <seg>Перевірка правопису…</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Spellcheck</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20190807T171011Z" creationid="Kos Ivantsov" creationdate="20190807T171011Z">
@@ -16998,6 +17110,14 @@ The scope of a search is by default the project and can be set to be any files l
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Tag Processing...</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200405T190429Z" creationid="maximo" creationdate="20200405T190429Z">
+        <seg>Обробка теґів...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Tag name:</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20190517T142212Z" creationid="Kos Ivantsov" creationdate="20190517T142212Z">
@@ -17146,6 +17266,14 @@ The scope of a search is by default the project and can be set to be any files l
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20190812T070851Z" creationid="Kos Ivantsov" creationdate="20190812T070851Z">
         <seg>Синхронізація командного проєкту: очікується закінчення роботи в поточному сегменті...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Team...</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200405T190439Z" creationid="maximo" creationdate="20200405T190439Z">
+        <seg>Командна робота...</seg>
       </tuv>
     </tu>
     <tu>
@@ -19742,6 +19870,14 @@ on line {1}, column {2}.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>User Manual...</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200405T190515Z" creationid="maximo" creationdate="20200405T190515Z">
+        <seg>Посібник користувача...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>User denied credentials</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20190822T143516Z" creationid="Kos Ivantsov" creationdate="20190821T204147Z">
@@ -20045,6 +20181,14 @@ searchable without subscription:</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20190805T185421Z" creationid="Kos Ivantsov" creationdate="20190805T185421Z">
         <seg>Перегляд або редагування файлових фільтрів.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>View...</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200405T190453Z" creationid="maximo" creationdate="20200405T190453Z">
+        <seg>Вигляд...</seg>
       </tuv>
     </tu>
     <tu>
