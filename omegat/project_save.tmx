@@ -1541,6 +1541,14 @@ To add files to the project, click on the Copy Files to Source Folder... button 
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>, one can find:</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200405T184247Z" creationid="maximo" creationdate="20200405T184247Z">
+        <seg>, наприклад:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>- Anthony Baldwin (localisation manager)
 - Didier Briel (project manager)
 - Alex Buloichik (lead developer)
@@ -5150,6 +5158,14 @@ Buy another drink</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Default shortcut</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200405T184438Z" creationid="maximo" creationdate="20200405T184438Z">
+        <seg>Стандартна комбінація клавіш</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Degree thesis by Sébastien Guillardeau, 2010 (in German).</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="maximo" changedate="20200322T170554Z" creationid="maximo" creationdate="20200322T170554Z">
@@ -8422,6 +8438,14 @@ their defaults as a result of the location change.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If they do not conflict with system shortcuts, they should be available from within OmegaT.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200405T184406Z" creationid="maximo" creationdate="20200405T184406Z">
+        <seg>Якщо вони не конфліктують із системними комбінаціями, то вони будуть доступні через OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If this version is not available, you can try to &lt;a0&gt;download the unsigned version&lt;/a0&gt;.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="lesia" changedate="20200324T174903Z" creationid="maximo" creationdate="20200322T150143Z">
@@ -8466,6 +8490,14 @@ their defaults as a result of the location change.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20190823T144914Z" creationid="Kos Ivantsov" creationdate="20190823T144914Z">
         <seg>Змінити інші параметри у цьому діалоговому вікні можна коли завгодно — для виклику діалогу потрібно натиснути &lt;s0&gt;&lt;s1&gt;Ctrl+E&lt;/s1&gt;&lt;/s0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If you are on a Mac and you want to add a &lt;k0&gt; &lt;k1&gt;Shift&lt;/k1&gt; &lt;k2&gt;Command&lt;/k2&gt; &lt;k3&gt;S&lt;/k3&gt; &lt;/k0&gt; shortcut to &lt;m4&gt; &lt;g5&gt;Tools&lt;/g5&gt; &lt;g6&gt;Statistics&lt;/g6&gt; &lt;/m4&gt;, add the following line to your &lt;f7&gt;MainMenuShortcuts.properties&lt;/f7&gt;:</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200405T184336Z" creationid="maximo" creationdate="20200405T184336Z">
+        <seg>Якщо ви використовуєте Mac та бажаєте додати &lt;k0&gt; &lt;k1&gt;Shift&lt;/k1&gt; &lt;k2&gt;Command&lt;/k2&gt; &lt;k3&gt;S&lt;/k3&gt; &lt;/k0&gt; скорочення до пункту &lt;m4&gt; &lt;g5&gt;Інструменти&lt;/g5&gt; &lt;g6&gt;Статистика&lt;/g6&gt; &lt;/m4&gt;, додайте наступний рядок до вашого &lt;f7&gt;MainMenuShortcuts.properties&lt;/f7&gt;:</seg>
       </tuv>
     </tu>
     <tu>
@@ -8614,6 +8646,14 @@ to use Java Web Start.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20190822T212540Z" creationid="Kos Ivantsov" creationdate="20190822T212518Z">
         <seg>Якщо програма OmegaT була встановлена скриптом linux-install.sh, то запускати її можна, натиснувши</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If you want to use &lt;k0&gt; &lt;k1&gt;Shift&lt;/k1&gt; &lt;k2&gt;Ctrl&lt;/k2&gt; &lt;k3&gt;O&lt;/k3&gt; &lt;/k0&gt; to open a project, modify your &lt;f4&gt;MainMenuShortcuts.properties&lt;/f4&gt; as follows:</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200405T184318Z" creationid="maximo" creationdate="20200405T184318Z">
+        <seg>Якщо ви бажаєте використовувати &lt;k0&gt; &lt;k1&gt;Shift&lt;/k1&gt; &lt;k2&gt;Ctrl&lt;/k2&gt; &lt;k3&gt;O&lt;/k3&gt; &lt;/k0&gt; для відкриття проєкту, змініть у вашому &lt;f4&gt;MainMenuShortcuts.properties&lt;/f4&gt; значення на наступне:</seg>
       </tuv>
     </tu>
     <tu>
@@ -10655,6 +10695,22 @@ itself on the first run.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20190516T182544Z" creationid="Kos Ivantsov" creationdate="20190516T182329Z">
         <seg>У пам’яті проєкт&amp;у</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Menu Item</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200405T184419Z" creationid="maximo" creationdate="20200405T184419Z">
+        <seg>Пункт меню</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Menu Item Code</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200405T184441Z" creationid="maximo" creationdate="20200405T184441Z">
+        <seg>Код пункту меню</seg>
       </tuv>
     </tu>
     <tu>
@@ -13298,6 +13354,14 @@ project without team functionality.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Project Menu</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200405T184413Z" creationid="maximo" creationdate="20200405T184413Z">
+        <seg>Меню «Проєкт»</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Project Specific External Search</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20190808T123412Z" creationid="Kos Ivantsov" creationdate="20190808T123412Z">
@@ -14636,6 +14700,14 @@ These words: 'Page not found'</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20190821T204815Z" creationid="Kos Ivantsov" creationdate="20190821T204729Z">
         <seg>Зберегти зміни у правилах сегментації?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Save then the file and relaunch &lt;a0&gt;OmegaT&lt;/a0&gt;.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200405T184346Z" creationid="maximo" creationdate="20200405T184346Z">
+        <seg>Збережіть файл та перезапустіть &lt;a0&gt;OmegaT&lt;/a0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -16994,6 +17066,14 @@ instead.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="lesia" changedate="20200322T160157Z" creationid="lesia" creationdate="20200322T160157Z">
         <seg>Зручний архів цього сайту для тих, хто хоче його локалізувати.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The first is the shortcut for &lt;g0&gt;Open Project&lt;/g0&gt;, the second for &lt;g1&gt;Create Glossary Entry&lt;/g1&gt;.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200405T184303Z" creationid="maximo" creationdate="20200405T184303Z">
+        <seg>Перша комбінація використовується для &lt;g0&gt;відкриття проєкту&lt;/g0&gt;, друга для &lt;g1&gt;створення запису до глосарія&lt;/g1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -20213,6 +20293,14 @@ window to be able to launch it from any location.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="maximo" changedate="20200322T163755Z" creationid="maximo" creationdate="20200322T163755Z">
         <seg>Ваші документи та ваша памʼять перекладів залишаються у вас на комп'ютері. Проєкт OmegaT не має доступу до вашої роботи чи ваших даних.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Your new shortcuts should now appear next to the menu items you have modified.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200405T184401Z" creationid="maximo" creationdate="20200405T184401Z">
+        <seg>Ваша нова комбінація клавіш повинна зʼявитися поруч зі зміненим пунктом меню.</seg>
       </tuv>
     </tu>
     <tu>
