@@ -2808,6 +2808,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Also check that the target language code of your project against the available vocabularies in the setup window.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200411T135131Z" creationid="maximo" creationdate="20200411T135131Z">
+        <seg>Також перевірте, чи є код вашої цільової мови у списку доступних словників.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Alt+F2</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20190516T205915Z" creationid="Kos Ivantsov" creationdate="20190516T205915Z">
@@ -3504,6 +3512,14 @@ Buy another drink</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Before the spell check function can be used, a suitable dictionary or dictionaries (i.e. for your target language) must be installed.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200411T103942Z" creationid="maximo" creationdate="20200411T103942Z">
+        <seg>Для того щоб використовувати функцію перевірки правопису ви маєте спершу встановити словники для потрібної мови.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Belazar</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20190807T183949Z" creationid="Kos Ivantsov" creationdate="20190422T215817Z">
@@ -4160,6 +4176,14 @@ Buy another drink</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Check however that the language codes are exactly the same: an FR-FR dictionary will not work with an FR target setting, for example.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200411T133911Z" creationid="maximo" creationdate="20200411T133911Z">
+        <seg>Але обов'язково перевірте, щоб коди були однакові. Наприклад, словник FR-FR не буде працювати для цільової мови FR.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Check in &lt;m0&gt; &lt;s1&gt; &lt;k2&gt; &lt;k3&gt;Ctrl&lt;/k3&gt; &lt;k4&gt;E&lt;/k4&gt; &lt;/k2&gt; &lt;/s1&gt; &lt;g5&gt;Project&lt;/g5&gt; &lt;g6&gt;Properties&lt;/g6&gt; &lt;/m0&gt;.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="maximo" changedate="20200329T200918Z" creationid="maximo" creationdate="20200329T200918Z">
@@ -4348,6 +4372,14 @@ Buy another drink</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20190823T144923Z" creationid="Kos Ivantsov" creationdate="20190823T144923Z">
         <seg>Для вибору файлів, які мають перекладатися у цьому проєкті, натисніть кнопку &lt;s1&gt;«Скопіювати документи до теки з файлами для перекладу...»&lt;/s1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Clicking on &lt;g0&gt;Install new dictionary&lt;/g0&gt; button will open the Dictionary installer window, where you can select the dictionaries you want to install.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200411T110319Z" creationid="maximo" creationdate="20200411T110319Z">
+        <seg>Натистаючи на кнопку &lt;g0&gt;Установити новий словник...&lt;/g0&gt;, ви відкриєте вікно встановлення словників. У ньому ви зможете обрати словники для встановлення.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4944,6 +4976,14 @@ Buy another drink</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20190421T150818Z" creationid="Kos Ivantsov" creationdate="20190420T132342Z">
         <seg>Скопіювати документи до теки з файлами для перекладу...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Copying the files manually makes sense if you already have suitable dictionary files on your system, for instance as part of your Apache OpenOffice, LibreOffice, Firefox or Thunderbird installation.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200411T105934Z" creationid="maximo" creationdate="20200411T105934Z">
+        <seg>Копіювання файлів словників самостійно має сенс лише якщо у вас вже встановлені відповідні словники, наприклад, для Apache OpenOffice, LibreOffice, Firefox чи Thunderbird.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7608,6 +7648,14 @@ provided (omegat.kaptn).</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>For example, if you have selected ES-MX (Mexican Spanish) as the target language, the dictionary files must be named es_MX.dic and es_MX.aff.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200411T111248Z" creationid="maximo" creationdate="20200411T111248Z">
+        <seg>Наприклад, якщо ви обрали ES-MX (мексиканська іспанська) як цільову мову, то файли словників мусять називатися es_MX.dic та es_MX.aff.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>For example, in the default OmegaT shortcuts</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="maximo" changedate="20200405T184110Z" creationid="maximo" creationdate="20200405T184040Z">
@@ -8316,6 +8364,14 @@ Its winter has come</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Hints</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200411T134806Z" creationid="maximo" creationdate="20200411T134806Z">
+        <seg>Підказки</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>History</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20190422T204710Z" creationid="Kos Ivantsov" creationdate="20190422T204710Z">
@@ -8662,6 +8718,14 @@ their defaults as a result of the location change.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If necessary, edit the file names of the dictionary or change your project's language settings.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200411T134018Z" creationid="maximo" creationdate="20200411T134018Z">
+        <seg>За необхідності, змініть назву файлу словника, або змініть код цільової мови.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If not, or if you are not sure, select "with JRE".</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="lesia" changedate="20200322T213138Z" creationid="maximo" creationdate="20200322T141709Z">
@@ -8698,6 +8762,22 @@ their defaults as a result of the location change.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20190822T171746Z" creationid="Kos Ivantsov" creationdate="20190807T105118Z">
         <seg>Якщо фільтр має додаткові налаштування, то їх можна вибрати, натиснувши кнопку «Параметри...».</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If the spell checker is not working, then make sure first that the check box &lt;g0&gt;"Automatically check the spelling of text"&lt;/g0&gt; in the spell checker dialog (&lt;g1&gt;Options &gt; Spell checking...)&lt;/g1&gt; is checked.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200411T135030Z" creationid="maximo" creationdate="20200411T135030Z">
+        <seg>Якщо перевірка правопису не працює, то перш за все перевірте, що у вас відмічено &lt;g0&gt;"Автоматично перевіряти правопис у тексті"&lt;/g0&gt; у діалозі перевірки правопису (&lt;g1&gt;Параметри &gt; Перевірка правопису...)&lt;/g1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If they are used by some other application on your system, they will disappear from that application, too.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200411T140019Z" creationid="maximo" creationdate="20200411T140019Z">
+        <seg>Якщо вони використовуються якимись ще програмами у вашій системі, вони стануть недоступні і в тій програмі також.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8858,6 +8938,14 @@ to use Java Web Start.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If you have already translated a large body of text, and then realize the target language code of the project does not match the spell checker's language code (you specified pt_BR as the language, but there are no pt_BR vocabularies, for instance) you can simply copy the two corresponding files and rename them (e.g. from &lt;e0&gt;pt_PT.aff&lt;/e0&gt; and &lt;e1&gt;pt_PT.dic&lt;/e1&gt; to &lt;e2&gt;pt_BR.aff&lt;/e2&gt; and &lt;e3&gt;pt_BR.dic&lt;/e3&gt;).</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200411T135721Z" creationid="maximo" creationdate="20200411T135721Z">
+        <seg>Якщо ви вже переклали великий шмат тексту і раптом зрозуміли, що код цільової мови не збігається із кодом орфографічного словника (наприклад, ви вказали pt_BR як цільову мову, але словників pt_BR нема) ви можете просто скопіювати відповідні файли та перейменувати їх: &lt;e0&gt;pt_PT.aff&lt;/e0&gt; та &lt;e1&gt;pt_PT.dic&lt;/e1&gt; у, відповідно, &lt;e2&gt;pt_BR.aff&lt;/e2&gt; та &lt;e3&gt;pt_BR.dic&lt;/e3&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If you have found OmegaT useful and would like to express your gratitude by making a &lt;a0&gt;donation&lt;/a0&gt; on our Paypal account.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="maximo" changedate="20200323T214850Z" creationid="maximo" creationdate="20200322T180657Z">
@@ -8886,6 +8974,14 @@ to use Java Web Start.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20190822T205334Z" creationid="Kos Ivantsov" creationdate="20190822T205334Z">
         <seg>Якщо вам знадобиться допомога щодо будь-якого аспекту роботи OmegaT, приєднуйтесь до &lt;u1&gt;групи користувачів OmegaT&lt;/u1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If you only have a standard Spanish dictionary available, with file names es_es.dic and es_es.aff for instance, you can copy these files to es_MX.dic and es_MX.aff, and the spelling dictionary will work.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200411T111444Z" creationid="maximo" creationdate="20200411T111444Z">
+        <seg>Якщо у вас є тільки стандартний словник іспанської, з іменами es_es.dic та es_es.aff, ви можете просто зробити їх копії es_MX.dic та es_MX.aff, і словник орфографії запрацює.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8964,6 +9060,14 @@ click on that shortcut.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If, for whatever reason, you need to do this from time to time, it may make sense to copy the files involved to a different folder, reserved just for use by OmegaT.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200411T140158Z" creationid="maximo" creationdate="20200411T140158Z">
+        <seg>Якщо з якоїсь причини вам іноді треба робити це, є сенс виділити окрему теку виключно для OmegaT і щоразу копіювати туди потрібні словники.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Ignore All</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20190820T184759Z" creationid="Kos Ivantsov" creationdate="20190820T184236Z">
@@ -9016,6 +9120,14 @@ click on that shortcut.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20190808T121948Z" creationid="Kos Ivantsov" creationdate="20190808T121948Z">
         <seg>У контекстному меню</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>In OmegaT, select &lt;g0&gt;Options &gt; Spell Checking&lt;/g0&gt;, then click &lt;g1&gt;Choose &lt;/g1&gt; beside the Dictionary file folder field.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200411T134240Z" creationid="maximo" creationdate="20200411T105010Z">
+        <seg>У OmegaT оберіть &lt;g0&gt;Параметри &gt; Перевірка правопису&lt;/g0&gt;, а там натисніть &lt;g1&gt;Огляд&lt;/g1&gt; біля поля Тека для файлів словників.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9112,6 +9224,14 @@ click on that shortcut.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="lesia" changedate="20200321T153342Z" creationid="lesia" creationdate="20200321T153342Z">
         <seg>Ми будемо раді, якщо, користуючись програмою, ви захочете щось зробити для розвитку проєкту. Однак, звісно, ви нічого такого не повинні.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>In your file manager, create a new folder in a suitable location in which to store spelling dictionaries (D:\Translations\spellcheckers in the example below).</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200411T104227Z" creationid="maximo" creationdate="20200411T104227Z">
+        <seg>У зручному місці за допомогою файлового менеджера створіть теку для збереження словників (у прикладі це D:\Translations\spellcheckers).</seg>
       </tuv>
     </tu>
     <tu>
@@ -9374,6 +9494,14 @@ click on that shortcut.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Installing spelling dictionaries</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200411T103752Z" creationid="maximo" creationdate="20200411T103752Z">
+        <seg>Встановлення орфографічних словників</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Instant Start</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20190422T205720Z" creationid="Kos Ivantsov" creationdate="20190422T205720Z">
@@ -9590,6 +9718,14 @@ click on that shortcut.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>It is consequently able to use the huge range of free spelling dictionaries available for these applications.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200411T103733Z" creationid="maximo" creationdate="20200411T103712Z">
+        <seg>Таким чином, є можливість використовувати безліч безкоштовних орфографічних словників, що доступні для цих програм.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>It is often useful to search for words and phrases in the source text and in your translation, so press &lt;k0&gt;Ctrl+F&lt;/k0&gt; for the &lt;g1&gt;Text Search&lt;/g1&gt; dialog at any time.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20190822T204421Z" creationid="Kos Ivantsov" creationdate="20190822T204421Z">
@@ -9610,6 +9746,14 @@ click on that shortcut.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="lesia" changedate="20200323T221655Z" creationid="maximo" creationdate="20200322T163937Z">
         <seg>Вона потрібна лише розробникам та тестувальникам.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>It is simpler, however, to look for dictionaries online, using the &lt;e0&gt;URL of online dictionaries&lt;/e0&gt; field:</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200411T110113Z" creationid="maximo" creationdate="20200411T110113Z">
+        <seg>Але насправді простіше шукати словники онлайн, використовуючи поле &lt;e0&gt;URL-адреса словників в інтернеті&lt;/e0&gt;:</seg>
       </tuv>
     </tu>
     <tu>
@@ -11513,6 +11657,14 @@ as the Applications folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Navigate to and select the folder you created for dictionaries.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200411T105034Z" creationid="maximo" creationdate="20200411T105034Z">
+        <seg>Оберіть там теку, яку ви щойно створили.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Neural machine translation</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20190807T184337Z" creationid="Kos Ivantsov" creationdate="20190807T184337Z">
@@ -11885,10 +12037,34 @@ as the Applications folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Note that &lt;f0&gt;Remove&lt;/f0&gt; physically removes the selected vocabularies.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200411T135909Z" creationid="maximo" creationdate="20200411T135909Z">
+        <seg>Зверніть увагу, що кнопка &lt;f0&gt;Вилучити&lt;/f0&gt; буквально видаляє файли словників.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Note that in addition to "source-target" dictionaries you can, using the Dictionary feature, obtain access to information such as:</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="maximo" changedate="20200329T200436Z" creationid="maximo" creationdate="20200329T200436Z">
         <seg>Майте на увазі, за допомогою функції словника, окрім звичайних словників типу "source-target", ви можете отримувати доступ до такої інформації:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Note that the "Install" function requires an Internet connection.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200411T110118Z" creationid="maximo" creationdate="20200411T105441Z">
+        <seg>Врахуйте, що ця функція вимагає підключення до інтернету.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Note that this will of course check for the standard (Castillian) rather than for Mexican Spanish.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200411T112153Z" creationid="maximo" creationdate="20200411T112153Z">
+        <seg>Зверніть увагу, що перевіряти воно буде стандартну (кастильську) іспанську, а не мексиканський діалект.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12101,6 +12277,14 @@ as the Applications folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Of course it is much wiser, to take a short break and download the correct versions of the spell checker.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200411T135817Z" creationid="maximo" creationdate="20200411T135817Z">
+        <seg>Звичайно, розумніше буде зробити перерву та завантажити правильні версії словників з інтернету.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Often documents will also have tags that have nothing to do with formatting, but which are also important in the source files (and in the translated files).</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20190822T151758Z" creationid="Kos Ivantsov" creationdate="20190822T151758Z">
@@ -12249,6 +12433,14 @@ as the Applications folder.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="lesia" changedate="20200324T174639Z" creationid="maximo" creationdate="20200322T161430Z">
         <seg>OmegaT для Mac OS X доступна як у завіреному, так і в незавіреному вигляді. Функціонально вони ідентичні, але завірену версію система розпізнає як таку, що була опублікована відомим розробником.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>OmegaT has a built-in spell checker based on the spelling checker used in Apache OpenOffice, LibreOffice, Firefox and Thunderbird.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200411T103557Z" creationid="maximo" creationdate="20200411T103557Z">
+        <seg>В OmegaT вбудована перевірка правопису на базі того, що використовується у Apache OpenOffice, LibreOffice, Firefox та Thunderbird.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13208,6 +13400,14 @@ everything.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20190822T150632Z" creationid="Kos Ivantsov" creationdate="20190822T150632Z">
         <seg>Помістіть архів в будь-яку теку та розпакуйте його —</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Place the dictionary files you wish to use in this folder.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200411T105102Z" creationid="maximo" creationdate="20200411T105102Z">
+        <seg>Помістіть файли словників у цю теку.</seg>
       </tuv>
     </tu>
     <tu>
@@ -14976,6 +15176,14 @@ These words: 'Page not found'</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Right-clicking on an underlined word (Artund in the figure above) opens a drop-down menu listing suggestions for the correction (Art und).</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200411T134451Z" creationid="maximo" creationdate="20200411T134451Z">
+        <seg>Якщо натиснути правою кнопкою миші на підкреслене слово (Artund у прикладі), то відкриється меню зі списком варіантів виправлень (Art und).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Right-to-Left Embedding (RLE U+202B)</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20190420T154148Z" creationid="Kos Ivantsov" creationdate="20190420T154148Z">
@@ -16596,6 +16804,14 @@ The scope of a search is by default the project and can be set to be any files l
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Spell checker</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200411T103458Z" creationid="maximo" creationdate="20200411T103458Z">
+        <seg>Перевірка правопису</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Spell checking...</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="maximo" changedate="20200405T190407Z" creationid="maximo" creationdate="20200405T190407Z">
@@ -16631,6 +16847,14 @@ The scope of a search is by default the project and can be set to be any files l
         <seg>Spellchecker Setup</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20190820T184808Z" creationid="Kos Ivantsov" creationdate="20190820T184808Z">
+        <seg>Налаштування перевірки правопису</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Spellchecker setup</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200411T110122Z" creationid="maximo" creationdate="20200411T110122Z">
         <seg>Налаштування перевірки правопису</seg>
       </tuv>
     </tu>
@@ -17935,6 +18159,14 @@ in /lib/licenses/Licenses.txt.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The names of the files must correspond to the language code of your target language as defined in the project properties dialog (&lt;g0&gt;Project &gt; Properties&lt;/g0&gt;).</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200411T110520Z" creationid="maximo" creationdate="20200411T110520Z">
+        <seg>Назви файлів мають відповідати коду цільової мови, яку вказано у властивостях проєкту(діалог &lt;g0&gt;Проєкт &gt; Властивості...&lt;/g0&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The new colours have been saved.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20190817T215059Z" creationid="Kos Ivantsov" creationdate="20190817T215059Z">
@@ -18079,6 +18311,14 @@ in /lib/licenses/Licenses.txt.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The selected languages will then be installed and will eventually appear in your spell checker setup window (this may take a while).</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200411T105758Z" creationid="maximo" creationdate="20200411T105758Z">
+        <seg>Обрані мови за деякий час будуть встановлені і з'являться у вікні налаштувань перевірки правопису.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The server is not a valid Apertium server.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20191016T085245Z" creationid="Kos Ivantsov" creationdate="20191016T085245Z">
@@ -18147,6 +18387,14 @@ in /lib/licenses/Licenses.txt.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20190807T184708Z" creationid="Kos Ivantsov" creationdate="20190807T184708Z">
         <seg>Зазначений напрямок перекладу не підтримується</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The spell checker uses the target language code to determine the language to be used : if the target language is Brazilian Portuguese (PT_BR), the subfolder with vocabularies must contain the two vocabulary files, called &lt;e0&gt;pt_br.aff&lt;/e0&gt; and &lt;e1&gt;pt_br.dic&lt;/e1&gt;.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200411T135400Z" creationid="maximo" creationdate="20200411T135400Z">
+        <seg>Перевірка правопису використовує код цільової мови, щоб визначити, який словник використовувати. Якщо цільова мова - бразильська португальська (PT_BR), тека зі словниками мусить мати два файла словників: &lt;e0&gt;pt_br.aff&lt;/e0&gt; та &lt;e1&gt;pt_br.dic&lt;/e1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -18239,6 +18487,14 @@ in /lib/licenses/Licenses.txt.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>There are essentially two ways in which you can do this.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200411T105126Z" creationid="maximo" creationdate="20200411T105126Z">
+        <seg>Є два основних шляхи, як це зробити..</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>There are many plugins available for OmegaT online.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20190808T093231Z" creationid="Kos Ivantsov" creationdate="20190808T093231Z">
@@ -18259,6 +18515,14 @@ in /lib/licenses/Licenses.txt.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="lesia" changedate="20200324T172414Z" creationid="lesia" creationdate="20200322T130807Z">
         <seg>Але й користувачі можуть пропонувати потрібні їм зміни і впливати на розвиток програми. Для цього є кілька можливостей.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>There is no need to instruct OmegaT to use a particular spelling dictionary; OmegaT will use the correct language dictionary based upon the language codes of your project.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200411T133732Z" creationid="maximo" creationdate="20200411T133732Z">
+        <seg>Немає потреби вказувати OmegaT, який орфографічний словник використовувати, - OmegaT використовує потрібний словник у відповідності до кодів мов вашого проєкту.</seg>
       </tuv>
     </tu>
     <tu>
@@ -18666,10 +18930,26 @@ the server.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>To enable the spell checker, select &lt;g0&gt;Options &gt; Spell Checking&lt;/g0&gt; and tick the &lt;g1&gt;Automatically check the spelling of text&lt;/g1&gt; check box (see above).</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200411T134233Z" creationid="maximo" creationdate="20200411T134233Z">
+        <seg>Щоб увімкнути перевірку правопису, відкрийте &lt;g0&gt;Параметри &gt; Перевірка правопису&lt;/g0&gt; та відмітьте &lt;g1&gt;Автоматично перевіряти правопис у тексті&lt;/g1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>To find the version most suitable for you, follow the link below to the Download Selector.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="lesia" changedate="20200324T154640Z" creationid="maximo" creationdate="20200322T172329Z">
         <seg>Визначити, яка версія вам підійде, можна тут:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To install spelling dictionaries, follow this procedure:</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200411T104006Z" creationid="maximo" creationdate="20200411T104006Z">
+        <seg>Для встановлення орфографічних словників зробіть наступні кроки:</seg>
       </tuv>
     </tu>
     <tu>
@@ -20009,6 +20289,22 @@ searchable without subscription:</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Using spellchecker</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200411T134316Z" creationid="maximo" creationdate="20200411T134316Z">
+        <seg>Як використовувати перевірку правопису</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Using spelling dictionaries</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200411T133545Z" creationid="maximo" creationdate="20200411T133545Z">
+        <seg>Використання орфографічних словників</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Utilities</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="lesia" changedate="20200322T152802Z" creationid="lesia" creationdate="20200322T152802Z">
@@ -20836,6 +21132,14 @@ can then launch the Kaptain launch script with:</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>You can also instruct the spell checker to ignore all the occurrences of the mis-spelled word, or add it to the dictionary.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200411T134802Z" creationid="maximo" creationdate="20200411T134802Z">
+        <seg>Ви також можете пропустити всі інші випадки, коли слово зустрічається у такому написанні, чи додати його до словника.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>You can also launch
 it from the Spotlight search field.</seg>
       </tuv>
@@ -20901,6 +21205,14 @@ start menu, the desktop or the quick launch area to link it from there.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20190807T182030Z" creationid="Kos Ivantsov" creationdate="20190807T182030Z">
         <seg>Записи глосарія можна створити, вибравши пункт «Створити запис у глосарії» в меню «Редагування».</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You can either copy files manually, i.e. from elsewhere on your system, using your file manager; or you can use OmegaT's &lt;e0&gt;"Install new dictionary"&lt;/e0&gt; function to provide a list of available dictionaries to select from.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200411T105401Z" creationid="maximo" creationdate="20200411T105401Z">
+        <seg>Ви можете або вручну скопіювати їх з будь-якого місця вашої системи, або ж ви можете скористатися функцією OmegaT &lt;e0&gt;"Установити новий словник"&lt;/e0&gt;, яка запропонує вам вибірку словників.</seg>
       </tuv>
     </tu>
     <tu>
