@@ -2928,6 +2928,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Allow translation to be equal to source</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200412T201824Z" creationid="maximo" creationdate="20200412T201824Z">
+        <seg>Дозволити, щоб оригінал і переклад були однаковими</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Allows to view, add, remove or edit a note in the active segment.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20190807T152009Z" creationid="Kos Ivantsov" creationdate="20190807T152009Z">
@@ -3424,6 +3432,14 @@ may experience unexpected, but correct behaviour.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20190820T160056Z" creationid="Kos Ivantsov" creationdate="20190820T160056Z">
         <seg>Намагатися перетворювати &amp;числа у вставлених нечітких збігах</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Attempt to convert numbers when inserting a fuzzy match</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200412T201831Z" creationid="maximo" creationdate="20200412T201831Z">
+        <seg>Намагатися перетворювати числа у вставлених нечітких збігах</seg>
       </tuv>
     </tu>
     <tu>
@@ -7422,6 +7438,14 @@ Gossamer threads hold you back
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Export the segment to text files</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200412T201806Z" creationid="maximo" creationdate="20200412T201806Z">
+        <seg>Експортувати текст сегмента до текстових файлів</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>External Lin&amp;ks</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20190822T133009Z" creationid="Kos Ivantsov" creationdate="20190807T103423Z">
@@ -8500,6 +8524,14 @@ provided (omegat.kaptn).</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="maximo" changedate="20200405T190142Z" creationid="maximo" creationdate="20200405T190142Z">
         <seg>Глосарій/Використовувати стемінг для словникових статей</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Go To Next Untranslated Segment stops where there is at least one alternative translation</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200412T201750Z" creationid="maximo" creationdate="20200412T201750Z">
+        <seg>Відвідувати сегменти з варіантами перекладу, коли здійснюється перехід до наступного неперекладеного сегмента</seg>
       </tuv>
     </tu>
     <tu>
@@ -9924,6 +9956,22 @@ click on that shortcut.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Insert the best fuzzy match</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200412T201841Z" creationid="maximo" creationdate="20200412T201841Z">
+        <seg>Вставляти найкращий нечіткий збіг</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Insert the source text</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200412T201926Z" creationid="maximo" creationdate="20200412T201926Z">
+        <seg>Вставляти текст оригіналу</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Install</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20190821T141943Z" creationid="Kos Ivantsov" creationdate="20190821T141943Z">
@@ -10933,6 +10981,14 @@ itself on the first run.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20190516T204823Z" creationid="Kos Ivantsov" creationdate="20190516T204823Z">
         <seg>Дізнайтесь за п’ять хвилин, як користуватися OmegaT!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Leave the segment empty</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200412T201847Z" creationid="maximo" creationdate="20200412T201847Z">
+        <seg>Залишати поле перекладу порожнім.</seg>
       </tuv>
     </tu>
     <tu>
@@ -16700,6 +16756,14 @@ The scope of a search is by default the project and can be set to be any files l
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Segmentation rules</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200412T201948Z" creationid="maximo" creationdate="20200412T201948Z">
+        <seg>Правила сегментації</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Segmentation rules are applied in the following order:</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20190819T111154Z" creationid="Kos Ivantsov" creationdate="20190819T111154Z">
@@ -17008,6 +17072,14 @@ The scope of a search is by default the project and can be set to be any files l
       </tuv>
       <tuv lang="UK-UA" changeid="lesia" changedate="20200323T160122Z" creationid="maximo" creationdate="20200322T135601Z">
         <seg>Платний онлайн курс для самостійного вивчення (англійською)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Sentence level segmentation</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200412T202013Z" creationid="maximo" creationdate="20200412T202013Z">
+        <seg>Сегментація за реченнями</seg>
       </tuv>
     </tu>
     <tu>
@@ -17890,6 +17962,14 @@ The scope of a search is by default the project and can be set to be any files l
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20190823T142612Z" creationid="Kos Ivantsov" creationdate="20190823T142540Z">
         <seg>Прибрати теґи з поточного сегмента</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Structure level segmentation</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200412T202039Z" creationid="maximo" creationdate="20200412T202039Z">
+        <seg>Структурна сегментація</seg>
       </tuv>
     </tu>
     <tu>
