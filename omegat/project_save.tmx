@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.2_0_6a661c5e0" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.2_0_6a661c5e" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -9222,6 +9222,14 @@ their defaults as a result of the location change.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If the Auto-propagation check box is not checked, the segments with alternative translations are left untranslated until the user has decided which translation is to be used.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="lesia" changedate="20200412T202718Z" creationid="lesia" creationdate="20200412T202718Z">
+        <seg>Якщо прапорець Автоматичного заповнення не виставлено, сегменти, ідентичні до вже перекладеного залишаться порожніми і перекладач сам вирішить, який переклад там потрібен.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If the file already exists, no attempt is done to verify the format or the character set of the file: the new entries will always be in tab-separated format and UTF-8.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="maximo" changedate="20200404T171504Z" creationid="maximo" creationdate="20200404T171504Z">
@@ -15490,6 +15498,14 @@ These words: 'Page not found'</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20190808T120909Z" creationid="Kos Ivantsov" creationdate="20190516T165810Z">
         <seg>Вилучити &amp;теґи</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Remove Tags</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="lesia" changedate="20200412T202738Z" creationid="lesia" creationdate="20200412T202738Z">
+        <seg>Вилучити теґи</seg>
       </tuv>
     </tu>
     <tu>
