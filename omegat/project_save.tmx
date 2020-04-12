@@ -16596,6 +16596,14 @@ The scope of a search is by default the project and can be set to be any files l
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Select this option if you want the glossary to display words that have the same root.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200412T141055Z" creationid="maximo" creationdate="20200412T141055Z">
+        <seg>Увімкніть цю опцію, якщо ви хочете, щоб у глосарії показувалися слова з такими ж коренями.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Select whether to download OmegaT with or without the Java Runtime Environment (JRE) included.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="lesia" changedate="20200322T213058Z" creationid="maximo" creationdate="20200322T141440Z">
@@ -20382,6 +20390,14 @@ Exact searches match the whole search string.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Uncheck this option if the glossary displays too many false positives.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200412T140921Z" creationid="maximo" creationdate="20200412T140921Z">
+        <seg>Вимкніть цю опцію, якщо глосарій показує багато зайвого.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Undo Last Action</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="maximo" changedate="20200405T185128Z" creationid="maximo" creationdate="20200405T185128Z">
@@ -20804,10 +20820,26 @@ on line {1}, column {2}.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Use stemming for glossary entries</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200412T140925Z" creationid="maximo" creationdate="20200412T140925Z">
+        <seg>Шукати терміни у глосарії за основами слів</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Use terms &amp;appearing separately in the source text</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20190817T204231Z" creationid="Kos Ivantsov" creationdate="20190422T204212Z">
         <seg>Використати &amp;терміни, вжиті окремо у тексті оригіналу</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Use terms appearing separately in the source text</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200412T140653Z" creationid="maximo" creationdate="20200412T140653Z">
+        <seg>Використати терміни, вжиті окремо у тексті оригіналу</seg>
       </tuv>
     </tu>
     <tu>
@@ -21361,6 +21393,14 @@ of selecting, obtaining and installing it.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20190820T111126Z" creationid="Kos Ivantsov" creationdate="20190820T111126Z">
         <seg>Якщо позначено, то у вигульку автодоповнення записи з глосаріїв міститимуть також терміни мовою оригіналу.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>When this option is checked, the glossary will display pairs or groups of words (expressions) even if the words within them appear separately in the source text.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200412T140826Z" creationid="maximo" creationdate="20200412T140826Z">
+        <seg>Якщо вибрана ця опція, глосарій буде показувати вирази, навіть якщо слова з них не були сусідніми у тексті.</seg>
       </tuv>
     </tu>
     <tu>
