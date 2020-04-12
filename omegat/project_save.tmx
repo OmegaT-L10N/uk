@@ -3127,10 +3127,26 @@ The TMX file will not be loaded.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Any character except a, b, or c (negation)</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200412T050755Z" creationid="maximo" creationdate="20200412T050755Z">
+        <seg>Будь-який символ, окрім a, b, чи c (заперечення)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Any character except one in the Greek block (negation)</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="maximo" changedate="20200412T050610Z" creationid="maximo" creationdate="20200412T050610Z">
         <seg>Будь-який символ, окрім як із грецького блоку (заперечення)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Any letter except an uppercase letter (subtraction)</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200412T050651Z" creationid="maximo" creationdate="20200412T050651Z">
+        <seg>Будь-яка літера, окрім великих (виключення)</seg>
       </tuv>
     </tu>
     <tu>
@@ -14582,6 +14598,14 @@ These words: 'Page not found'</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Regex - Character classes</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200412T050714Z" creationid="maximo" creationdate="20200412T050714Z">
+        <seg>Регулярні вирази - класи символів</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Regex - Classes for Unicode blocks and categories</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="maximo" changedate="20200412T050252Z" creationid="maximo" creationdate="20200412T050252Z">
@@ -14594,6 +14618,14 @@ These words: 'Page not found'</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="maximo" changedate="20200412T050259Z" creationid="maximo" creationdate="20200412T044916Z">
         <seg>Регулярні вирази - прапорці</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Regex - Predefined character classes</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200412T050855Z" creationid="maximo" creationdate="20200412T050855Z">
+        <seg>Регулярні вирази - Стандартні класи символів</seg>
       </tuv>
     </tu>
     <tu>
@@ -21735,6 +21767,22 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20190821T124206Z" creationid="Kos Ivantsov" creationdate="20190821T123237Z">
         <seg>{0}: в оригіналі — «{1}»; у перекладі очікується «{2}»</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>a through z or A through Z, inclusive (range)</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200412T050830Z" creationid="maximo" creationdate="20200412T050830Z">
+        <seg>Від a до z чи від A до Z, включно (відрізок)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>a, b, or c (simple class)</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200412T050728Z" creationid="maximo" creationdate="20200412T050728Z">
+        <seg>a, b, або c (простий клас)</seg>
       </tuv>
     </tu>
     <tu>
