@@ -19248,6 +19248,14 @@ the server.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>This dialog is accessible by selecting &lt;m0&gt; &lt;g1&gt;Options&lt;/g1&gt; &lt;g2&gt;Preferences...&lt;/g2&gt; &lt;/m0&gt;</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200412T071223Z" creationid="maximo" creationdate="20200412T071223Z">
+        <seg>Цей діалог доступний через меню &lt;m0&gt;&lt;g1&gt;Властивості&lt;/g1&gt; &lt;g2&gt;Параметри...&lt;/g2&gt; &lt;/m0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>This enables the numerous suggestions to be managed more easily.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="lesia" changedate="20200322T144638Z" creationid="lesia" creationdate="20200322T144638Z">
