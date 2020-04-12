@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.2_0_6a661c5e0" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.2_0_6a661c5e" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -3680,6 +3680,14 @@ Buy another drink</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Bear in mind that changing the languages may render the currently used translation memories useless since their language pair may not longer match the new languages.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="lesia" changedate="20200412T195411Z" creationid="lesia" creationdate="20200412T195411Z">
+        <seg>Зверніть увагу: якщо мовна пара актуальної памʼяті перекладів не відповідатиме новій встановленій мовній парі проєкту, пам'ять перекладів більше не можна буде використовувати.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Beautify</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20190516T205753Z" creationid="Kos Ivantsov" creationdate="20190516T205456Z">
@@ -6690,6 +6698,14 @@ Your help page not found</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20190516T180417Z" creationid="Kos Ivantsov" creationdate="20190516T180417Z">
         <seg>Порожня URL-адреса сховища в прив’язці</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Enable Sentence-level segmentation</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="lesia" changedate="20200412T195703Z" creationid="lesia" creationdate="20200412T195703Z">
+        <seg>Увімкнути сегментацію за реченнями</seg>
       </tuv>
     </tu>
     <tu>
@@ -20039,6 +20055,14 @@ linux-install.sh script, and execute the script with ./linux-install.sh.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20190821T214920Z" creationid="Kos Ivantsov" creationdate="20190821T214920Z">
         <seg>Інвертувати вибір</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Tokenizers corresponding to the selected languages are displayed.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="lesia" changedate="20200412T195503Z" creationid="lesia" creationdate="20200412T195503Z">
+        <seg>Показані токенізатори, котрі відповідають обраній мовній парі.</seg>
       </tuv>
     </tu>
     <tu>
