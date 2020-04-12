@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.2_0_6a661c5e" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.2_0_6a661c5e0" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -3279,6 +3279,14 @@ The TMX file will not be loaded.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Appendices</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200412T174930Z" creationid="maximo" creationdate="20200412T174930Z">
+        <seg>Додатки</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Apply &amp;Fix</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20190807T185654Z" creationid="Kos Ivantsov" creationdate="20190807T185654Z">
@@ -5594,6 +5602,14 @@ Buy another drink</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20190808T130131Z" creationid="Kos Ivantsov" creationdate="20190808T130131Z">
         <seg>Роздільник:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Depending on the pane status, different signs can appear at its top right corner:</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200412T175345Z" creationid="maximo" creationdate="20200412T175345Z">
+        <seg>У верхньому правому кутку панелі ви можете побачити різні значки, в залежності від її стану:</seg>
       </tuv>
     </tu>
     <tu>
@@ -13632,6 +13648,14 @@ Vanishing like mist</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Panes</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200412T174940Z" creationid="maximo" creationdate="20200412T174940Z">
+        <seg>Панелі</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Paragraph delimitation</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20190807T170934Z" creationid="Kos Ivantsov" creationdate="20190807T170934Z">
@@ -18887,6 +18911,14 @@ in /lib/licenses/Licenses.txt.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The main window consists of several panes, the main menu and a status bar.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200412T175019Z" creationid="maximo" creationdate="20200412T175019Z">
+        <seg>Основне вікно складається з кількох панелей, меню, та рядка стану.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The memory named &lt;c5&gt;omegat&lt;/c5&gt; can be used by OmegaT itself, in future projects that you create.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20190823T145658Z" creationid="Kos Ivantsov" creationdate="20190823T145658Z">
@@ -22165,6 +22197,14 @@ start menu, the desktop or the quick launch area to link it from there.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="maximo" changedate="20200405T042953Z" creationid="maximo" creationdate="20200405T042953Z">
         <seg>Ви можете змінити вже наявні комбінації та додати нові поклавши відповідний файл із визначеними комбінаціями в теку налаштувань &lt;a0&gt;OmegaT&lt;/a0&gt; (меню &lt;m1&gt; &lt;g2&gt;Налаштування&lt;/g2&gt; &lt;g3&gt;Відкрити теку з налаштуваннями&lt;/g3&gt; &lt;/m1&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You can change the position of any pane or even undock it to a separate window by clicking and dragging the pane by its name.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200412T175144Z" creationid="maximo" creationdate="20200412T175144Z">
+        <seg>Ви можете змінювати положення кожної панелі чи навіть відокремити її у окреме вікно, якщо перетягнете її натиснувши на заголовок.</seg>
       </tuv>
     </tu>
     <tu>
