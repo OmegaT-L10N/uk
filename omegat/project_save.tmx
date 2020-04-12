@@ -14502,10 +14502,18 @@ These words: 'Page not found'</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Regex - Character</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200412T045132Z" creationid="maximo" creationdate="20200412T045132Z">
+        <seg>Регулярний вираз - символ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Regex - Flags</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="maximo" changedate="20200412T044916Z" creationid="maximo" creationdate="20200412T044916Z">
-        <seg>Регулярні вирази - прапорці</seg>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200412T045142Z" creationid="maximo" creationdate="20200412T044916Z">
+        <seg>Регулярний вираз - прапорці</seg>
       </tuv>
     </tu>
     <tu>
@@ -17939,10 +17947,34 @@ Please try to correct the error and reload the project.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The carriage-return character ('\u000D')</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200412T045357Z" creationid="maximo" creationdate="20200412T045357Z">
+        <seg>Символ повернення каретки ('\u000D')</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The certificate is signed by &lt;a1&gt;PnS Concept Sarl&lt;/a1&gt;, a French registered company.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="maximo" changedate="20200322T162112Z" creationid="maximo" creationdate="20200322T162112Z">
         <seg>Сертифікат підписаний компанією &lt;a1&gt;PnS Concept Sarl&lt;/a1&gt;, що зареєстрована у Франції.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The character with hexadecimal value 0xhhhh</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200412T045251Z" creationid="maximo" creationdate="20200412T045251Z">
+        <seg>Символ із шістнадцятковим значенням 0xhhhh</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The character x, except the following...</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200412T045207Z" creationid="maximo" creationdate="20200412T045207Z">
+        <seg>Символ x, за виключенням...</seg>
       </tuv>
     </tu>
     <tu>
@@ -18223,6 +18255,14 @@ in /lib/licenses/Licenses.txt.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The newline (line feed) character ('\u000A')</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200412T045337Z" creationid="maximo" creationdate="20200412T045337Z">
+        <seg>Символ нового рядка ('\u000A')</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The open-source philosophy</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="lesia" changedate="20200321T151508Z" creationid="lesia" creationdate="20200321T124717Z">
@@ -18451,6 +18491,14 @@ in /lib/licenses/Licenses.txt.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="maximo" changedate="20200411T135400Z" creationid="maximo" creationdate="20200411T135400Z">
         <seg>Перевірка правопису використовує код цільової мови, щоб визначити, який словник використовувати. Якщо цільова мова - бразильська португальська (PT_BR), тека зі словниками мусить мати два файла словників: &lt;e0&gt;pt_br.aff&lt;/e0&gt; та &lt;e1&gt;pt_br.dic&lt;/e1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The tab character ('\u0009')</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200412T045304Z" creationid="maximo" creationdate="20200412T045304Z">
+        <seg>Символ табуляції ('\u0009')</seg>
       </tuv>
     </tu>
     <tu>
