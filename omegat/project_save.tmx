@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.2_0_6a661c5e" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.2_0_6a661c5e0" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -2884,6 +2884,14 @@ The current setting is {0}MB;</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20190820T164044Z" creationid="Kos Ivantsov" creationdate="20190819T112340Z">
         <seg>Дозво&amp;лити редагування теґів</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Allow tag editing</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200412T201728Z" creationid="maximo" creationdate="20200412T201728Z">
+        <seg>Дозволити редагування теґів</seg>
       </tuv>
     </tu>
     <tu>
@@ -6774,6 +6782,14 @@ Your help page not found</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Enables automatic notification of &lt;a0&gt;OmegaT&lt;/a0&gt; updates.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200412T201614Z" creationid="maximo" creationdate="20200412T201614Z">
+        <seg>Вмикає автоматичну перевірку на наявність оновлень для &lt;a0&gt;OmegaT&lt;/a0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Enables case-insensitive matching (by default, the pattern is case-sensitive).</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="maximo" changedate="20200412T045104Z" creationid="maximo" creationdate="20200412T045104Z">
@@ -8352,6 +8368,14 @@ provided (omegat.kaptn).</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Gives access to the list of plugins available.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200412T201515Z" creationid="maximo" creationdate="20200412T201515Z">
+        <seg>Відкриває перелік доступних плагінів.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Global</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20190805T120005Z" creationid="Kos Ivantsov" creationdate="20190805T120005Z">
@@ -9784,6 +9808,14 @@ click on that shortcut.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20190807T190851Z" creationid="Kos Ivantsov" creationdate="20190807T190851Z">
         <seg>Ініціалізація</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Initially load this many segments</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200412T201712Z" creationid="maximo" creationdate="20200412T201712Z">
+        <seg>Максимальна кількість сегментів у початковому завантаженні</seg>
       </tuv>
     </tu>
     <tu>
@@ -14252,6 +14284,14 @@ additional steps need to be taken.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Plugins are installed in the &lt;f0&gt;/plugins&lt;/f0&gt; folder.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200412T201538Z" creationid="maximo" creationdate="20200412T201538Z">
+        <seg>Плагіни встановлюються в теку &lt;f0&gt;/plugins&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Poisson</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20190821T213733Z" creationid="Kos Ivantsov" creationdate="20190821T213733Z">
@@ -16160,6 +16200,14 @@ These words: 'Page not found'</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Save auto-populated status</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200412T201654Z" creationid="maximo" creationdate="20200412T201654Z">
+        <seg>Зберігати статус автоматичного заповнення</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Save changes to filter settings?</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20190821T204810Z" creationid="Kos Ivantsov" creationdate="20190821T204804Z">
@@ -16453,6 +16501,14 @@ The scope of a search is by default the project and can be set to be any files l
         <seg>Secure Store</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20190820T125851Z" creationid="Kos Ivantsov" creationdate="20190820T125851Z">
+        <seg>Захищене збереження паролів</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Secure store</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200412T201629Z" creationid="maximo" creationdate="20200412T201629Z">
         <seg>Захищене збереження паролів</seg>
       </tuv>
     </tu>
@@ -21517,6 +21573,14 @@ searchable without subscription:</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="maximo" changedate="20200405T190041Z" creationid="maximo" creationdate="20200405T190041Z">
         <seg>Перевірка теґів у поточному документі</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Validate tags when leaving a segment</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200412T201720Z" creationid="maximo" creationdate="20200412T201720Z">
+        <seg>Перевіряти теґи при переході до іншого сегмента</seg>
       </tuv>
     </tu>
     <tu>
