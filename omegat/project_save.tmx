@@ -6666,6 +6666,14 @@ project_save.tmx не був переданий на віддалений сер
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Edit filter dialog</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200412T202152Z" creationid="maximo" creationdate="20200412T202152Z">
+        <seg>Діалогове вікно редагування фільтра</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Edit project properties here.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20190808T113854Z" creationid="Kos Ivantsov" creationdate="20190507T104449Z">
@@ -7838,6 +7846,14 @@ Gossamer threads hold you back
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Filter options</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200412T202237Z" creationid="maximo" creationdate="20200412T202237Z">
+        <seg>Параметри фільтра</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Filter:</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20190420T131419Z" creationid="Kos Ivantsov" creationdate="20190420T131419Z">
@@ -8628,6 +8644,14 @@ provided (omegat.kaptn).</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20190807T214020Z" creationid="Kos Ivantsov" creationdate="20190807T214020Z">
         <seg>Файли HTML і XHTML</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>HTML and XHTML files</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200412T202202Z" creationid="maximo" creationdate="20200412T202202Z">
+        <seg>Файли HTML та XHTML</seg>
       </tuv>
     </tu>
     <tu>
@@ -13828,6 +13852,14 @@ installed on your system.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>PO files</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200412T202214Z" creationid="maximo" creationdate="20200412T202214Z">
+        <seg>PO файли</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Page Not Found</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="lesia" changedate="20200323T104730Z" creationid="maximo" creationdate="20200322T165513Z">
@@ -17204,6 +17236,14 @@ The scope of a search is by default the project and can be set to be any files l
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Several filters (text files, XHTML files, HTML and XHTML files, OpenDocument files and Microsoft Open XML files) have one or more specific options.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200412T202404Z" creationid="maximo" creationdate="20200412T202404Z">
+        <seg>Деякі фільтри файлів (для текстових файлів, XHTML, HTML, OpenDocument та Microsoft Open XML) мають свої специфічні параметри.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Shortcut</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20190808T121907Z" creationid="Kos Ivantsov" creationdate="20190808T121907Z">
@@ -18524,6 +18564,14 @@ The scope of a text replacement is the target segments of the project, whether t
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20190516T183057Z" creationid="Kos Ivantsov" creationdate="20190516T183057Z">
         <seg>Пошук тексту</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Text files</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200412T202217Z" creationid="maximo" creationdate="20200412T202217Z">
+        <seg>Текстові файли</seg>
       </tuv>
     </tu>
     <tu>
@@ -20564,6 +20612,14 @@ linux-install.sh script, and execute the script with ./linux-install.sh.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Translated filename</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200412T202125Z" creationid="maximo" creationdate="20200412T202125Z">
+        <seg>Ім'я перекладеного файлу</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Translated files folder entered does not exist!</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20190516T180844Z" creationid="Kos Ivantsov" creationdate="20190516T180825Z">
@@ -22366,6 +22422,14 @@ Your page is not found</seg>
         <seg>XHTML</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20190807T214030Z" creationid="Kos Ivantsov" creationdate="20190807T214030Z">
+        <seg>Файли XHTML</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>XHTML Files</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200412T202210Z" creationid="maximo" creationdate="20200412T202210Z">
         <seg>Файли XHTML</seg>
       </tuv>
     </tu>
