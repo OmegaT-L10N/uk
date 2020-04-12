@@ -4568,6 +4568,14 @@ Buy another drink</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Click &lt;e0&gt;Defaults&lt;/e0&gt; to reset the file filters to the default settings.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200412T195353Z" creationid="maximo" creationdate="20200412T195353Z">
+        <seg>Натисність &lt;e0&gt;Відновити типові значення&lt;/e0&gt;, щоб скинути налаштування.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Click on '{0}' menu item</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20190820T172436Z" creationid="Kos Ivantsov" creationdate="20190820T172436Z">
@@ -13177,6 +13185,14 @@ installed on your system.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>OmegaT will then omit the corresponding files when loading projects, and will copy them unmodified to the target folder when creating target documents.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200412T195153Z" creationid="maximo" creationdate="20200412T195153Z">
+        <seg>OmegaT буде пропускати файли цього типу при завантаженні проєкту та скопіює їх незмінними в теку з результатами перекладу.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>OmegaT will try to resegment the TMX file...</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20190517T155811Z" creationid="Kos Ivantsov" creationdate="20190517T155811Z">
@@ -21705,6 +21721,14 @@ of selecting, obtaining and installing it.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20190517T100730Z" creationid="Kos Ivantsov" creationdate="20190517T100730Z">
         <seg>Якщо здійснюється пошук регулярних виразів, то у рядку заміни підтримується посилання на групи, визначені в рядку пошуку.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>When you wish to use the filter again, just tick the check box.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200412T195224Z" creationid="maximo" creationdate="20200412T195224Z">
+        <seg>Якщо Ви знову схочете використовувати фільтр, установіть прапорець.</seg>
       </tuv>
     </tu>
     <tu>
