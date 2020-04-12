@@ -16564,6 +16564,14 @@ The scope of a search is by default the project and can be set to be any files l
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Select a supplier from the list and, if necessary, click &lt;g0&gt;Configure&lt;/g0&gt; to enter the identification details provided by the supplier.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200412T140319Z" creationid="maximo" creationdate="20200412T140319Z">
+        <seg>Оберіть джерело машинного перекладу і за необхідності натисніть &lt;g0&gt;Налаштувати&lt;/g0&gt;, щоб ввести ідентифікаційні дані.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Select issue types to check.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20190821T124658Z" creationid="Kos Ivantsov" creationdate="20190821T124624Z">
