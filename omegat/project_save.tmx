@@ -3271,6 +3271,14 @@ The TMX file will not be loaded.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Appearance</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200412T142401Z" creationid="maximo" creationdate="20200412T142401Z">
+        <seg>Вигляд</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Apply &amp;Fix</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20190807T185654Z" creationid="Kos Ivantsov" creationdate="20190807T185654Z">
@@ -3504,6 +3512,14 @@ may experience unexpected, but correct behaviour.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="maximo" changedate="20200412T071627Z" creationid="maximo" creationdate="20200412T071627Z">
         <seg>Автоматично отримувати переклади</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Automatically search segment text in dictionary</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200412T142207Z" creationid="maximo" creationdate="20200412T142207Z">
+        <seg>Автоматично шукати текст сегмента в словнику</seg>
       </tuv>
     </tu>
     <tu>
@@ -4524,6 +4540,14 @@ Buy another drink</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20190819T103729Z" creationid="Kos Ivantsov" creationdate="20190819T103729Z">
         <seg>Скасувати позначку</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Clear this option to deactivate automatic searching – if dictionaries are too long, for example.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200412T142317Z" creationid="maximo" creationdate="20200412T142317Z">
+        <seg>Вимкніть цю опцію, щоб вимкнути автоматичний пошук. Це може бути потрібно, якщо словник задовгий.</seg>
       </tuv>
     </tu>
     <tu>
@@ -15576,6 +15600,14 @@ These words: 'Page not found'</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Restores the components of the main OmegaT window to their default state.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200412T142511Z" creationid="maximo" creationdate="20200412T142511Z">
+        <seg>Повернути головне вікно OmegaT до його стандартного вигляду.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Result:</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20190807T213930Z" creationid="Kos Ivantsov" creationdate="20190807T213930Z">
@@ -16672,6 +16704,14 @@ The scope of a search is by default the project and can be set to be any files l
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20190821T135256Z" creationid="Kos Ivantsov" creationdate="20190821T135256Z">
         <seg>Виберіть файл languagetool-server.jar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Select this option if you want dictionaries to display words that have the same root.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200412T142353Z" creationid="maximo" creationdate="20200412T142353Z">
+        <seg>Увімкніть цю опцію, якщо ви хочете, щоб у словниках показувалися слова з такими ж коренями.</seg>
       </tuv>
     </tu>
     <tu>
@@ -20912,6 +20952,14 @@ on line {1}, column {2}.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20190822T095412Z" creationid="Kos Ivantsov" creationdate="20190821T130419Z">
         <seg>Використовувати власний &amp;шаблон для інформації про зміни</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Use fuzzy matching for dictionary entries</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200412T142324Z" creationid="maximo" creationdate="20200412T142324Z">
+        <seg>Шукати записи у словнику з використанням нечітких збігів</seg>
       </tuv>
     </tu>
     <tu>
