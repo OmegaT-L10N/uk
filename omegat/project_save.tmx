@@ -3500,6 +3500,14 @@ may experience unexpected, but correct behaviour.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Automatically fetch translations</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200412T071627Z" creationid="maximo" creationdate="20200412T071627Z">
+        <seg>Автоматично отримувати переклади</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Autotext</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20190820T124620Z" creationid="Kos Ivantsov" creationdate="20190820T124620Z">
@@ -7828,6 +7836,14 @@ provided (omegat.kaptn).</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20190822T164003Z" creationid="Kos Ivantsov" creationdate="20190821T114311Z">
         <seg>Для отримання найкращих результатів установіть відповідні словники у розділі «Перевірка правопису» (меню «Налаштування» → «Параметри...»).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>For confidentiality reasons, you may want to not send all the segments to the Machine Translation engine.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200412T071826Z" creationid="maximo" creationdate="20200412T071826Z">
+        <seg>Може бути, що з причин конфіденційності ви не схочете відсилати всі сегменти на машинний переклад автоматично.</seg>
       </tuv>
     </tu>
     <tu>
@@ -18791,6 +18807,14 @@ in /lib/licenses/Licenses.txt.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The program will seek confirmation before closing down.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200412T071619Z" creationid="maximo" creationdate="20200412T071619Z">
+        <seg>Програма показуватиме діалог підтвердження перед закриттям.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The project cannot be verified</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20190820T195710Z" creationid="Kos Ivantsov" creationdate="20190820T195710Z">
@@ -19396,6 +19420,14 @@ the server.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="lesia" changedate="20200321T125511Z" creationid="lesia" creationdate="20200321T125511Z">
         <seg>Це означає, що вихідний код програми OmegaT доступний всім, а ліцензія OmegaT надає користувачам значну свободу під час роботи з ним.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This option is useful for some Chinese, Japanese or Korean character input systems.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200412T071548Z" creationid="maximo" creationdate="20200412T071548Z">
+        <seg>Ця опція зручна для деяких систем введення корейської, японської чи китайської мов.</seg>
       </tuv>
     </tu>
     <tu>
