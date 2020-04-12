@@ -2248,6 +2248,38 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>A digit: [0-9]</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200412T050929Z" creationid="maximo" creationdate="20200412T050929Z">
+        <seg>Число: [0-9]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>A non-digit: [^0-9]</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200412T050937Z" creationid="maximo" creationdate="20200412T050937Z">
+        <seg>Не число: [^0-9]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>A non-whitespace character: [^\s]</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200412T051003Z" creationid="maximo" creationdate="20200412T051003Z">
+        <seg>Непробільний символ: [^\s]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>A non-word character: [^\w]</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200412T051227Z" creationid="maximo" creationdate="20200412T051227Z">
+        <seg>Символ, який "не може бути частиною слова": [^\w]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>A note is just a comment regarding this set of source text and translation.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20190807T152121Z" creationid="Kos Ivantsov" creationdate="20190807T152121Z">
@@ -2292,6 +2324,22 @@ The current setting is {0}MB;</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="lesia" changedate="20200323T071212Z" creationid="maximo" creationdate="20200322T174137Z">
         <seg>Широкий спектр функцій, незасмічений інтерфейс та найголовніше, постійний та відкритий розвиток програми!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>A whitespace character: [ \t\n\x0B\f\r]</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200412T050953Z" creationid="maximo" creationdate="20200412T050953Z">
+        <seg>Пробільний символ: [ \t\n\x0B\f\r]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>A word character: [a-zA-Z_0-9]</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200412T051127Z" creationid="maximo" creationdate="20200412T051127Z">
+        <seg>Символ, який "може бути частиною слова": [a-zA-Z_0-9]</seg>
       </tuv>
     </tu>
     <tu>
@@ -3123,6 +3171,14 @@ The TMX file will not be loaded.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20190822T214102Z" creationid="Kos Ivantsov" creationdate="20190808T091802Z">
         <seg>Ентоні Болдвін [Anthony Baldwin] (координатор з локалізації);</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Any character (except for line terminators)</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200412T050920Z" creationid="maximo" creationdate="20200412T050920Z">
+        <seg>Будь-який символ, окрім символів нового рядка.</seg>
       </tuv>
     </tu>
     <tu>
