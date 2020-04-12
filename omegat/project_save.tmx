@@ -1754,6 +1754,14 @@ To add files to the project, click on the Copy Files to Source Folder... button 
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>... matches the following</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200412T044944Z" creationid="maximo" creationdate="20200412T044944Z">
+        <seg>... спіймає</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>...and around 30 other file formats</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="maximo" changedate="20200322T171544Z" creationid="maximo" creationdate="20200322T171544Z">
@@ -6474,6 +6482,14 @@ Your help page not found</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="lesia" changedate="20200322T160913Z" creationid="lesia" creationdate="20200322T160913Z">
         <seg>Дозволяє працювати в OmegaT з низкою невластивих для програми форматів файлів.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Enables case-insensitive matching (by default, the pattern is case-sensitive).</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200412T045104Z" creationid="maximo" creationdate="20200412T045104Z">
+        <seg>Вмикає пошук без врахування регістру літер.</seg>
       </tuv>
     </tu>
     <tu>
@@ -14486,6 +14502,14 @@ These words: 'Page not found'</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Regex - Flags</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200412T044916Z" creationid="maximo" creationdate="20200412T044916Z">
+        <seg>Регулярні вирази - прапорці</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Register Identical Translation</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20190421T190521Z" creationid="Kos Ivantsov" creationdate="20190421T190521Z">
@@ -17945,6 +17969,14 @@ instead.</seg>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20190820T172120Z" creationid="Kos Ivantsov" creationdate="20190820T172120Z">
         <seg>Натомість використовуватиметься
 тека з налаштуваннями.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The construct</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200412T044927Z" creationid="maximo" creationdate="20200412T044927Z">
+        <seg>Вираз</seg>
       </tuv>
     </tu>
     <tu>
