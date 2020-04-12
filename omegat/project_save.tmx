@@ -18750,6 +18750,14 @@ instead.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The dialog allows you to enable or disable the following options:</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200412T195630Z" creationid="maximo" creationdate="20200412T195630Z">
+        <seg>Цей діалог дає можливість редагувати наступні параметри:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The download will be faster, and the installation will require less space on your hard drive.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="maximo" changedate="20200322T155705Z" creationid="maximo" creationdate="20200322T155705Z">
@@ -19870,6 +19878,14 @@ the server.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="lesia" changedate="20200323T104138Z" creationid="maximo" creationdate="20200322T164805Z">
         <seg>Ось вони:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To edit the files and encodings a filter is used for, select the filter in the list and click &lt;e1&gt;Edit.&lt;/e1&gt;</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200412T195521Z" creationid="maximo" creationdate="20200412T195521Z">
+        <seg>Для налаштування того, які типи файлів та в якому кодуванні фільтри оброблятимуть, виберіть потрібний фільтр у переліку та натисніть «Редагувати».</seg>
       </tuv>
     </tu>
     <tu>
