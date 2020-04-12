@@ -18712,6 +18712,14 @@ the server.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>This chapter is intended for advanced users, who need to define their own variants of segmentation rules or devise more complex and powerful key search items.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200412T044842Z" creationid="maximo" creationdate="20200412T044842Z">
+        <seg>Цей розділ призначений для тих користувачів, яким треба визначити свої варіанти правил сегментації чи шукати складні конструкції.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>This collection of scripts may be useful to scripters with a knowledge of tcl/tk.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="maximo" changedate="20200323T222255Z" creationid="lesia" creationdate="20200322T154207Z">
