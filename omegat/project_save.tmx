@@ -9476,6 +9476,14 @@ click on that shortcut.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Ignore file context when identifying segments with alternate translations: by default, OmegaT uses the source file name as part of the identification of an alternative translation.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200412T201129Z" creationid="maximo" creationdate="20200412T201129Z">
+        <seg>Не брати до уваги файловий контекст при визначенні сегментів з варіантами перекладу: за замовчуванням OmegaT використовує назву файлу для перекладу, щоб визначити варіант перекладу.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Ignore glossary case</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20190823T142736Z" creationid="Kos Ivantsov" creationdate="20190823T142736Z">
