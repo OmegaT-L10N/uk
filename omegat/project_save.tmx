@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.2_0_6a661c5e0" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.2_0_6a661c5e" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -14458,6 +14458,14 @@ project without team functionality.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Project Properties</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="lesia" changedate="20200412T144815Z" creationid="lesia" creationdate="20200412T144815Z">
+        <seg>Властивості проєкту</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Project Specific External Search</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20190808T123412Z" creationid="Kos Ivantsov" creationdate="20190808T123412Z">
@@ -19520,6 +19528,14 @@ the server.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>This dialog is accessible by selecting &lt;m0&gt; &lt;g1&gt;Project&lt;/g1&gt; &lt;g2&gt;Properties...&lt;/g2&gt; &lt;/m0&gt;</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="lesia" changedate="20200412T144919Z" creationid="lesia" creationdate="20200412T144919Z">
+        <seg>Доступ до діалогового вікна можна отримати, натиснувши &lt;m0&gt; &lt;g1&gt;Проєкт&lt;/g1&gt; &lt;g2&gt;Властивості...&lt;/g2&gt; &lt;/m0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>This enables the numerous suggestions to be managed more easily.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="lesia" changedate="20200322T144638Z" creationid="lesia" creationdate="20200322T144638Z">
@@ -19796,8 +19812,8 @@ the server.</seg>
       <tuv lang="EN">
         <seg>To install the necessary files for the StarDict format, proceed as follows:</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="maximo" changedate="20200329T200205Z" creationid="maximo" creationdate="20200329T200205Z">
-        <seg>Для встановлення необхідних файлів у форматі StarDict, необхідно виконати наступне:</seg>
+      <tuv lang="UK-UA" changeid="lesia" changedate="20200412T053453Z" creationid="maximo" creationdate="20200329T200205Z">
+        <seg>Для встановлення необхідних файлів у форматі StarDict необхідно виконати наступне:</seg>
       </tuv>
     </tu>
     <tu>
@@ -22173,6 +22189,14 @@ start menu, the desktop or the quick launch area to link it from there.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="maximo" changedate="20200411T105401Z" creationid="maximo" creationdate="20200411T105401Z">
         <seg>Ви можете або вручну скопіювати їх з будь-якого місця вашої системи, або ж ви можете скористатися функцією OmegaT &lt;e0&gt;"Установити новий словник"&lt;/e0&gt;, яка запропонує вам вибірку словників.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You can either enter the source and target languages by hand or use the drop down menus.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="lesia" changedate="20200412T145125Z" creationid="lesia" creationdate="20200412T145125Z">
+        <seg>Мови оригіналу та перекладу можна ввести вручну або ж вибрати із меню.</seg>
       </tuv>
     </tu>
     <tu>
