@@ -18831,6 +18831,14 @@ in /lib/licenses/Licenses.txt.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The procedures for configuring access to the Microsoft Translator and Google Translate services are described &lt;u0&gt;here&lt;/u0&gt;.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200412T140449Z" creationid="maximo" creationdate="20200412T140449Z">
+        <seg>Опис процесу налаштування доступу до сервісів Microsoft Translator та Google Translate можна знайти &lt;u0&gt;тут&lt;/u0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The program will seek confirmation before closing down.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="maximo" changedate="20200412T071619Z" creationid="maximo" creationdate="20200412T071619Z">
