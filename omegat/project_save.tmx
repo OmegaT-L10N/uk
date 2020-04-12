@@ -17939,6 +17939,14 @@ Please try to correct the error and reload the project.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The alert (bell) character ('\u0007')</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200412T045449Z" creationid="maximo" creationdate="20200412T045449Z">
+        <seg>Символ звукового сигналу ('\u0007')</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The application runs on your machine.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="maximo" changedate="20200322T163536Z" creationid="maximo" creationdate="20200322T163536Z">
@@ -17967,6 +17975,30 @@ Please try to correct the error and reload the project.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="maximo" changedate="20200412T045251Z" creationid="maximo" creationdate="20200412T045251Z">
         <seg>Символ із шістнадцятковим значенням 0xhhhh</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The character with octal value 0mnn (0 &lt;= m &lt;= 3, 0 &lt;= n &lt;= 7)</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200412T045656Z" creationid="maximo" creationdate="20200412T045656Z">
+        <seg>Символ із вісімковим значенням 0mnn (0 &lt;= m &lt;= 3, 0 &lt;= n &lt;= 7)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The character with octal value 0n (0 &lt;= n &lt;= 7)</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200412T045611Z" creationid="maximo" creationdate="20200412T045611Z">
+        <seg>Символ із вісімковим значенням 0n (0 &lt;= n &lt;= 7)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The character with octal value 0nn (0 &lt;= n &lt;= 7)</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200412T045637Z" creationid="maximo" creationdate="20200412T045637Z">
+        <seg>Символ із вісімковим значенням 0nn (0 &lt;= n &lt;= 7)</seg>
       </tuv>
     </tu>
     <tu>
@@ -18013,6 +18045,14 @@ instead.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The control character corresponding to x</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200412T045542Z" creationid="maximo" creationdate="20200412T045542Z">
+        <seg>Контрольний символ, що відповідає x</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The current folder will be used
 instead.</seg>
       </tuv>
@@ -18050,6 +18090,14 @@ instead.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="maximo" changedate="20200322T155705Z" creationid="maximo" creationdate="20200322T155705Z">
         <seg>Завантаження пройде швидше, і програма займе менше місця на диску.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The escape character ('\u001B')</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200412T045514Z" creationid="maximo" creationdate="20200412T045514Z">
+        <seg>Символ Esc ('\u001B')</seg>
       </tuv>
     </tu>
     <tu>
@@ -18122,6 +18170,14 @@ instead.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="lesia" changedate="20200324T173056Z" creationid="lesia" creationdate="20200324T163915Z">
         <seg>Навчитися перекладати в OmegaT допоможуть: </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The form-feed character ('\u000C')</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200412T045417Z" creationid="maximo" creationdate="20200412T045417Z">
+        <seg>Символ заповнення форми ('\u000C')</seg>
       </tuv>
     </tu>
     <tu>
