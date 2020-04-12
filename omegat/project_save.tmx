@@ -4544,6 +4544,14 @@ Buy another drink</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Click this button to access the &lt;u0&gt;TaaS&lt;/u0&gt; project site and create a user account.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200412T141713Z" creationid="maximo" creationdate="20200412T141713Z">
+        <seg>Натисніть цю кнопку, щоб перейти на сайт проєкту &lt;u0&gt;TaaS&lt;/u0&gt; та створити акаунт.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Clicking on &lt;g0&gt;Install new dictionary&lt;/g0&gt; button will open the Dictionary installer window, where you can select the dictionaries you want to install.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="maximo" changedate="20200411T110319Z" creationid="maximo" creationdate="20200411T110319Z">
@@ -9066,6 +9074,14 @@ their defaults as a result of the location change.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="maximo" changedate="20200412T141559Z" creationid="maximo" creationdate="20200412T141559Z">
         <seg>Коли вибрана ця опція, глосарій буде показувати тільки один збіг, навіть якщо це слово є в глосарії в кількох формах (наприклад, з маленької, та з великої букви)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If this option is selected, OmegaT will not remember the access key between sessions.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200412T141844Z" creationid="maximo" creationdate="20200412T141844Z">
+        <seg>Якщо ця опція обрана, OmegaT не буде запам'ятовувати ключ доступу між сеансами.</seg>
       </tuv>
     </tu>
     <tu>
@@ -17510,6 +17526,14 @@ The scope of a search is by default the project and can be set to be any files l
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Store for this session only</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200412T141759Z" creationid="maximo" creationdate="20200412T141759Z">
+        <seg>Зберігати лише для поточного сеансу</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Strip BiDi Marks</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20190823T142956Z" creationid="Kos Ivantsov" creationdate="20190823T142956Z">
@@ -22067,6 +22091,14 @@ installation script (linux-install.sh).</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="lesia" changedate="20200323T214049Z" creationid="maximo" creationdate="20200322T155221Z">
         <seg>&lt;a0&gt;Попередні версії&lt;/a0&gt; OmegaT все ще доступні.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You can then create an access key on the page &lt;u0&gt;https://term.tilde.com/account/keys/create?system=omegaT&lt;/u0&gt;.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200412T141754Z" creationid="maximo" creationdate="20200412T141754Z">
+        <seg>Ви можете потім створити ключ доступу на сторінці &lt;u0&gt;https://term.tilde.com/account/keys/create?system=omegaT&lt;/u0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
