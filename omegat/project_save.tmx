@@ -9362,6 +9362,14 @@ to use Java Web Start.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If you prefer not to use OmegaT to translate files of a certain type, you can turn off the corresponding filter by deactivating the check box beside its name.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200412T195046Z" creationid="maximo" creationdate="20200412T195046Z">
+        <seg>Якщо ви не хочете за допомогою OmegaT перекладати файли певного типу, ви можете вимкнути відповідний фільтр, знявши відмітку біля його назви.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If you uncheck this option, machine translations will be fetched only when you press &lt;k0&gt; &lt;k1&gt;Ctrl&lt;/k1&gt; &lt;k2&gt;M&lt;/k2&gt; &lt;/k0&gt; (&lt;k3&gt; &lt;k4&gt;Cmd&lt;/k4&gt; &lt;k5&gt;M&lt;/k5&gt; &lt;/k3&gt; on OS X) in the current segment.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="maximo" changedate="20200412T071954Z" creationid="maximo" creationdate="20200412T071954Z">
@@ -18782,6 +18790,14 @@ instead.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The filters used by the current project are displayed in bold.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200412T194854Z" creationid="maximo" creationdate="20200412T194854Z">
+        <seg>Жирним шрифтом позначені фільтри, що використовуються в проєкті.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The first is the shortcut for &lt;g0&gt;Open Project&lt;/g0&gt;, the second for &lt;g1&gt;Create Glossary Entry&lt;/g1&gt;.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="maximo" changedate="20200405T184303Z" creationid="maximo" creationdate="20200405T184303Z">
@@ -19580,6 +19596,14 @@ the server.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="lesia" changedate="20200412T144919Z" creationid="lesia" creationdate="20200412T144919Z">
         <seg>Доступ до діалогового вікна можна отримати, натиснувши &lt;m0&gt; &lt;g1&gt;Проєкт&lt;/g1&gt; &lt;g2&gt;Властивості...&lt;/g2&gt; &lt;/m0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This dialog lists the file filters available.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200412T194759Z" creationid="maximo" creationdate="20200412T194759Z">
+        <seg>В цьому діалозі перераховані доступні фільтри файлів.</seg>
       </tuv>
     </tu>
     <tu>
