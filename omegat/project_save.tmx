@@ -8120,6 +8120,14 @@ provided (omegat.kaptn).</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>General</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200412T071341Z" creationid="maximo" creationdate="20200412T071341Z">
+        <seg>Загальні налаштування</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>General Preferences</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="maximo" changedate="20200412T071053Z" creationid="maximo" creationdate="20200412T071053Z">
@@ -9890,6 +9898,14 @@ click on that shortcut.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="maximo" changedate="20200321T130732Z" creationid="maximo" creationdate="20200321T130732Z">
         <seg>Система відстеження проблем/помилок</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>It allows parameters to be set for all translation projects.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200412T071324Z" creationid="maximo" creationdate="20200412T071324Z">
+        <seg>Він дозволяє визначати параметри, спільні для всіх проєктів.</seg>
       </tuv>
     </tu>
     <tu>
@@ -16684,6 +16700,14 @@ The scope of a search is by default the project and can be set to be any files l
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Sets the segment validation key to Tab instead of the default Enter.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200412T071454Z" creationid="maximo" creationdate="20200412T071454Z">
+        <seg>Замість стандартного Enter використовувати Tab для затвердження перекладу сегмента.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Shortcut</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20190808T121907Z" creationid="Kos Ivantsov" creationdate="20190808T121907Z">
@@ -20623,6 +20647,14 @@ on line {1}, column {2}.</seg>
         <seg>Use TAB To Advance</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="maximo" changedate="20200405T190059Z" creationid="maximo" creationdate="20200405T190059Z">
+        <seg>Використовувати TAB для переходу до наступного сегмента</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Use TAB to Advance</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200412T071355Z" creationid="maximo" creationdate="20200412T071355Z">
         <seg>Використовувати TAB для переходу до наступного сегмента</seg>
       </tuv>
     </tu>
