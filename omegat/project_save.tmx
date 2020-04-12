@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.2_0_6a661c5e0" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.2_0_6a661c5e" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -3488,6 +3488,14 @@ may experience unexpected, but correct behaviour.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="maximo" changedate="20200405T190234Z" creationid="maximo" creationdate="20200405T190234Z">
         <seg>Автодоповнення/Автоматично показувати відповідні пропозиції</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Auto-propagation of Translations</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="lesia" changedate="20200412T201508Z" creationid="lesia" creationdate="20200412T201508Z">
+        <seg>Автоматичне заповнення однакових сегментів</seg>
       </tuv>
     </tu>
     <tu>
@@ -19940,6 +19948,14 @@ the server.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20190821T212602Z" creationid="Kos Ivantsov" creationdate="20190821T212602Z">
         <seg>Усі зміни, зроблені досі, не будуть збережені.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This will effectively return them to the "untranslated" status, as they will no longer match segments recorded in the project memory, even though their original translation is still there.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="lesia" changedate="20200412T201448Z" creationid="lesia" creationdate="20200412T201448Z">
+        <seg>Це поверне їм статус „неперекладені“, тому що вони більше не відповідають сегментам у памʼяті перекладу, хоча їхній старий і вже „невідповідний“ переклад усе ще там зберігається.</seg>
       </tuv>
     </tu>
     <tu>
