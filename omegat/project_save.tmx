@@ -1770,6 +1770,14 @@ To add files to the project, click on the Copy Files to Source Folder... button 
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>...matches the following</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200412T045753Z" creationid="maximo" creationdate="20200412T045753Z">
+        <seg>... спіймає</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>1 conflict</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20190821T114928Z" creationid="Kos Ivantsov" creationdate="20190821T114928Z">
@@ -12133,6 +12141,14 @@ as the Applications folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Nothing, but quotes the following character.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200412T045825Z" creationid="maximo" creationdate="20200412T045825Z">
+        <seg>Нічого не спіймає, але екранує наступний символ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Notification (flash)</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20190807T171339Z" creationid="Kos Ivantsov" creationdate="20190807T171339Z">
@@ -14514,6 +14530,14 @@ These words: 'Page not found'</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="maximo" changedate="20200412T045142Z" creationid="maximo" creationdate="20200412T044916Z">
         <seg>Регулярний вираз - прапорці</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Regex - Quotation</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200412T045748Z" creationid="maximo" creationdate="20200412T045748Z">
+        <seg>Регулярний вираз - екранування</seg>
       </tuv>
     </tu>
     <tu>
@@ -17971,6 +17995,14 @@ Please try to correct the error and reload the project.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The character with hexadecimal value 0xhh</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200412T045723Z" creationid="maximo" creationdate="20200412T045723Z">
+        <seg>Символ із шістнадцятковим значенням 0xhh</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The character with hexadecimal value 0xhhhh</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="maximo" changedate="20200412T045251Z" creationid="maximo" creationdate="20200412T045251Z">
@@ -18924,6 +18956,14 @@ the server.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="lesia" changedate="20200323T101915Z" creationid="lesia" creationdate="20200321T151332Z">
         <seg>Тут вам дають свободу дій, а не просто дають щось на дурничку.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This is required if you would like to enter any of the meta characters !$()*+.&lt;&gt;?[\]^{|} to match as themselves.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200412T045955Z" creationid="maximo" creationdate="20200412T045955Z">
+        <seg>Це потрібно, якщо вам треба зловити якийсь метасимвол - !$()*+.&lt;&gt;?[\]^{|} - уникаючи його інтерпретації як спеціального.</seg>
       </tuv>
     </tu>
     <tu>
