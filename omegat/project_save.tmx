@@ -7696,6 +7696,14 @@ provided (omegat.kaptn).</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>For example, this is the backslash character</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200412T050030Z" creationid="maximo" creationdate="20200412T050030Z">
+        <seg>Наприклад, цей вираз зловить символ \.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>For installation on Linux.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="maximo" changedate="20200322T141114Z" creationid="maximo" creationdate="20200322T141114Z">
@@ -12141,6 +12149,22 @@ as the Applications folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Nothing, but ends quoting started by \Q</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200412T050147Z" creationid="maximo" creationdate="20200412T050147Z">
+        <seg>Нічого не спіймає, але закінчує блок екранованих символів, що розпочався із \Q</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Nothing, but quotes all characters until \E</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200412T050104Z" creationid="maximo" creationdate="20200412T050104Z">
+        <seg>Нічого не спіймає, але екранує всі символи до \E</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Nothing, but quotes the following character.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="maximo" changedate="20200412T045825Z" creationid="maximo" creationdate="20200412T045825Z">
@@ -14526,10 +14550,18 @@ These words: 'Page not found'</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Regex - Classes for Unicode blocks and categories</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200412T050252Z" creationid="maximo" creationdate="20200412T050252Z">
+        <seg>Регулярні вирази - Класи символів чи юнікодні блоки та категорії</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Regex - Flags</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="maximo" changedate="20200412T045142Z" creationid="maximo" creationdate="20200412T044916Z">
-        <seg>Регулярний вираз - прапорці</seg>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200412T050259Z" creationid="maximo" creationdate="20200412T044916Z">
+        <seg>Регулярні вирази - прапорці</seg>
       </tuv>
     </tu>
     <tu>
