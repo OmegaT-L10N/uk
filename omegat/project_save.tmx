@@ -2272,6 +2272,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>A non-word boundary</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200412T051349Z" creationid="maximo" creationdate="20200412T051349Z">
+        <seg>Не межа "слова"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>A non-word character: [^\w]</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="maximo" changedate="20200412T051227Z" creationid="maximo" creationdate="20200412T051227Z">
@@ -2332,6 +2340,14 @@ The current setting is {0}MB;</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="maximo" changedate="20200412T050953Z" creationid="maximo" creationdate="20200412T050953Z">
         <seg>Пробільний символ: [ \t\n\x0B\f\r]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>A word boundary</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200412T051320Z" creationid="maximo" creationdate="20200412T051320Z">
+        <seg>Межа "слова"</seg>
       </tuv>
     </tu>
     <tu>
@@ -14646,6 +14662,14 @@ These words: 'Page not found'</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Regex - Boundary matchers</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200412T051248Z" creationid="maximo" creationdate="20200412T051248Z">
+        <seg>Регулярні вирази - межі</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Regex - Character</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="maximo" changedate="20200412T050307Z" creationid="maximo" creationdate="20200412T045132Z">
@@ -14674,6 +14698,14 @@ These words: 'Page not found'</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="maximo" changedate="20200412T050259Z" creationid="maximo" creationdate="20200412T044916Z">
         <seg>Регулярні вирази - прапорці</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Regex - Greedy quantifiers</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200412T051458Z" creationid="maximo" creationdate="20200412T051458Z">
+        <seg>Регулярні вирази - жадібні квантифікатори</seg>
       </tuv>
     </tu>
     <tu>
@@ -18131,6 +18163,14 @@ Please try to correct the error and reload the project.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The beginning of a line</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200412T051259Z" creationid="maximo" creationdate="20200412T051259Z">
+        <seg>Початок рядка</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The carriage-return character ('\u000D')</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="maximo" changedate="20200412T045357Z" creationid="maximo" creationdate="20200412T045357Z">
@@ -18274,6 +18314,14 @@ instead.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="maximo" changedate="20200322T155705Z" creationid="maximo" creationdate="20200322T155705Z">
         <seg>Завантаження пройде швидше, і програма займе менше місця на диску.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The end of a line</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200412T051308Z" creationid="maximo" creationdate="20200412T051308Z">
+        <seg>Кінець рядка</seg>
       </tuv>
     </tu>
     <tu>
@@ -21343,6 +21391,14 @@ Your page is not found</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20190821T151703Z" creationid="Kos Ivantsov" creationdate="20190821T151703Z">
         <seg>Ім’я користувача або пароль уведено неправильно</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>X, once or not at all</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200412T051529Z" creationid="maximo" creationdate="20200412T051529Z">
+        <seg>Один раз X, або жодного</seg>
       </tuv>
     </tu>
     <tu>
