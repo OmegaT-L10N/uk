@@ -2296,6 +2296,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>A number of interactive tools are available to develop and test regular expressions.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200412T052124Z" creationid="maximo" creationdate="20200412T052124Z">
+        <seg>Існує багато інтерактивних інструментів для розробки та тестування регулярних виразів.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>A restart is required in order to apply these changes</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20190808T093036Z" creationid="Kos Ivantsov" creationdate="20190808T093036Z">
@@ -6538,6 +6546,14 @@ project_save.tmx не був переданий на віддалений сер
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Either X or Y</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200412T051954Z" creationid="maximo" creationdate="20200412T051954Z">
+        <seg>X чи Y</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Email:</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20190422T205344Z" creationid="Kos Ivantsov" creationdate="20190422T205344Z">
@@ -7788,6 +7804,14 @@ provided (omegat.kaptn).</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="maximo" changedate="20200412T051743Z" creationid="maximo" creationdate="20200412T051743Z">
         <seg>Наприклад, &lt;e0&gt;a+&lt;/e0&gt; зловить aaa у &lt;e1&gt;aaabbb&lt;/e1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>For example, &lt;e0&gt;a+?&lt;/e0&gt; will match the first &lt;e1&gt;a&lt;/e1&gt; in &lt;e2&gt;aaabbb&lt;/e2&gt;</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200412T051908Z" creationid="maximo" creationdate="20200412T051908Z">
+        <seg>Наприклад, &lt;e0&gt;a+?&lt;/e0&gt; зловить першу літеру &lt;e1&gt;a&lt;/e1&gt; у &lt;e2&gt;aaabbb&lt;/e2&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -14718,6 +14742,14 @@ These words: 'Page not found'</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Regex - Logical operators</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200412T051935Z" creationid="maximo" creationdate="20200412T051935Z">
+        <seg>Регулярні вирази - логічні оператори</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Regex - Predefined character classes</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="maximo" changedate="20200412T050855Z" creationid="maximo" creationdate="20200412T050855Z">
@@ -14738,6 +14770,14 @@ These words: 'Page not found'</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="maximo" changedate="20200412T051806Z" creationid="maximo" creationdate="20200412T051806Z">
         <seg>Регулярні вирази - ліниві (нежадібні) квантифікатори</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Regex tools and examples of use</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200412T052042Z" creationid="maximo" creationdate="20200412T052042Z">
+        <seg>Інструменти для роботи з регулярними виразами та приклади використання</seg>
       </tuv>
     </tu>
     <tu>
@@ -21411,6 +21451,14 @@ Your page is not found</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>X followed by Y</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200412T051947Z" creationid="maximo" creationdate="20200412T051947Z">
+        <seg>X за яким іде Y</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>X, once or not at all</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="maximo" changedate="20200412T051529Z" creationid="maximo" creationdate="20200412T051529Z">
@@ -21479,6 +21527,14 @@ Your page is not found</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20190706T131605Z" creationid="Kos Ivantsov" creationdate="20190706T131605Z">
         <seg>Файли електронних таблиць XML Spreadsheet 2003</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>XY as a single group</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200412T052005Z" creationid="maximo" creationdate="20200412T052005Z">
+        <seg>XY як одну групу</seg>
       </tuv>
     </tu>
     <tu>
@@ -22161,6 +22217,14 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20190424T212311Z" creationid="Kos Ivantsov" creationdate="20190424T212311Z">
         <seg>mALIGNa (ліцензія MIT)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>non-greedy quantifiers will match as little as they can.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200412T051842Z" creationid="maximo" creationdate="20200412T051842Z">
+        <seg>ліниві квантифікатори ловлять мінімальну можливу кількість елементів.</seg>
       </tuv>
     </tu>
     <tu>
