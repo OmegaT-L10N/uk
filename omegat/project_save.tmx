@@ -4416,6 +4416,14 @@ Buy another drink</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Check this box to send only untranslated segments to the machine translation services.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200412T072144Z" creationid="maximo" creationdate="20200412T072144Z">
+        <seg>Відмітьте цю опцію, щоб тільки неперекладені сегменти відправлялись на машинний переклад.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Check whole project</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20190822T220453Z" creationid="Kos Ivantsov" creationdate="20190822T220453Z">
@@ -20568,6 +20576,14 @@ on line {1}, column {2}.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20190807T185510Z" creationid="Kos Ivantsov" creationdate="20190807T185510Z">
         <seg>&amp;Лише для неперекладених сегментів</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Untranslated segments only</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200412T072057Z" creationid="maximo" creationdate="20200412T072057Z">
+        <seg>Лише для неперекладених сегментів</seg>
       </tuv>
     </tu>
     <tu>
