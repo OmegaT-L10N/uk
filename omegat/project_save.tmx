@@ -9062,6 +9062,14 @@ their defaults as a result of the location change.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If this option is checked, the glossary will only display one entry, even if the same word exists in several forms (e.g. with and without capital letters) in the glossary.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200412T141559Z" creationid="maximo" creationdate="20200412T141559Z">
+        <seg>Коли вибрана ця опція, глосарій буде показувати тільки один збіг, навіть якщо це слово є в глосарії в кількох формах (наприклад, з маленької, та з великої букви)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If this version is not available, you can try to &lt;a0&gt;download the unsigned version&lt;/a0&gt;.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="lesia" changedate="20200324T174903Z" creationid="maximo" creationdate="20200322T150143Z">
@@ -9360,6 +9368,14 @@ click on that shortcut.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20190823T142736Z" creationid="Kos Ivantsov" creationdate="20190823T142736Z">
         <seg>Не брати до уваги регістр у глосарії</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Ignore hits with very different case (e.g. FOO vs foo)</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200412T141334Z" creationid="maximo" creationdate="20200412T141334Z">
+        <seg>Ігнорувати збіги зі значними відмінностями у регістрі (наприклад, «ДІМ» і «дім»)</seg>
       </tuv>
     </tu>
     <tu>
