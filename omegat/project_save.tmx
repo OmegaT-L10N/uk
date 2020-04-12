@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.2_0_6a661c5e0" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.2_0_6a661c5e" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -4188,6 +4188,22 @@ Buy another drink</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20190821T115417Z" creationid="Kos Ivantsov" creationdate="20190821T115417Z">
         <seg>Автор зміни</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Changing segmentation settings may cause some already translated segments to be split or merged.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="lesia" changedate="20200412T201348Z" creationid="lesia" creationdate="20200412T201348Z">
+        <seg>Зміна налаштувань сегментації може призвести до того, що вже перекладені сегменти розіб'ються на кілька або ж, навпаки, з'єднаються.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Changing this flag does not modify the segmentation of already existing translation memories.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="lesia" changedate="20200412T200442Z" creationid="lesia" creationdate="20200412T200442Z">
+        <seg>Зміна цього прапорця не впливає на сегментацію вже наявної памʼяті перекладів.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9296,6 +9312,14 @@ Explorer), change the settings so that file extensions are displayed.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If you decide mid-translation to switch from sentence to paragraph translation, the internal translation memory of the project will not be changed (OmegaT may upgrade old translation memories that did not use sentence segmentation, but not vice versa), but OmegaT will attempt to create paragraph fuzzy matches by gluing together existing sentence translations.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="lesia" changedate="20200412T201144Z" creationid="lesia" creationdate="20200412T201144Z">
+        <seg>Якщо у процесі перекладу ви вирішите змінити правила сегментації і працювати не за реченнями, а за абзацами, це не змінить памʼять перекладів, що створилася у проєкті (OmegaT може оновити старі файли памʼяті перекладів, які працювали з більшими за реченнями сегментами, але не навпаки). Однак, OmegaT буде намагатися створити нечіткі збіги на рівні абзаців, "склеюючи" наявні переклади речень. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If you have a natural aversion to reading instructions, and your approach to new software is to click on every button you see until something resembling the desired effect occurs, then OmegaT is probably not suitable for you.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="maximo" changedate="20200322T151634Z" creationid="maximo" creationdate="20200322T151634Z">
@@ -9616,6 +9640,14 @@ click on that shortcut.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="lesia" changedate="20200321T154240Z" creationid="lesia" creationdate="20200321T154240Z">
         <seg>Проте інколи координація необхідна.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>In some seldom cases the alternative, i.e. segmenting by paragraphs, may be preferred.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="lesia" changedate="20200412T200334Z" creationid="lesia" creationdate="20200412T200334Z">
+        <seg>Інколи перекладачу зручніше працювати з іншою сегментацією оригіналу, наприклад, за абзацами.</seg>
       </tuv>
     </tu>
     <tu>
@@ -19143,6 +19175,14 @@ in /lib/licenses/Licenses.txt.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The predominant way of segmenting the sources is the sentence-level segmenting, so this check box should in a normal case be left checked.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="lesia" changedate="20200412T200140Z" creationid="lesia" creationdate="20200412T200140Z">
+        <seg>За замовчуванням оригінал сегментується за реченнями, тож якщо не бажаєте вносити ніяких змін, залиште цей прапорець на місці.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The principal members of the project are:</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="lesia" changedate="20200324T205350Z" creationid="maximo" creationdate="20200321T124555Z">
@@ -19235,6 +19275,14 @@ in /lib/licenses/Licenses.txt.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20190823T143612Z" creationid="Kos Ivantsov" creationdate="20190823T143612Z">
         <seg>Скрипт припиняє свою роботу.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The segmentation settings only address the way the source files are handled by &lt;a0&gt;OmegaT&lt;/a0&gt;.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="lesia" changedate="20200412T195757Z" creationid="lesia" creationdate="20200412T195757Z">
+        <seg>Налаштування сегментації стосуються лише того, як &lt;a0&gt;OmegaT&lt;/a0&gt; опрацьовує файли оригіналу.</seg>
       </tuv>
     </tu>
     <tu>
