@@ -9556,6 +9556,14 @@ click on that shortcut.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>In non-segmented projects, it is possible to keep it by unchecking this option.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200412T200440Z" creationid="maximo" creationdate="20200412T200440Z">
+        <seg>В несегментованих проєктах їх можна залишити, якщо забрати цей прапорець.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>In notes</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20190817T194036Z" creationid="Kos Ivantsov" creationdate="20190516T181608Z">
@@ -14302,6 +14310,14 @@ additional steps need to be taken.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Preserve spaces for all tags: check this option if the source documents contain significant spaces used to control the layout that must not be ignored.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200412T200951Z" creationid="maximo" creationdate="20200412T200951Z">
+        <seg>Зберігати пробіли для всіх теґів: поставте цей прапорець, якщо документи для перекладу містять пробіли, що використовуються для керування виглядом документу і які не можна ігнорувати.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Press 'Cancel' to leave the project unmodified and load it as a local
 project without team functionality.</seg>
       </tuv>
@@ -15306,6 +15322,14 @@ These words: 'Page not found'</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="maximo" changedate="20200412T200005Z" creationid="maximo" creationdate="20200412T200005Z">
         <seg>Забирати початкові та кінцеві теґи: заберіть прапорець, якщо ви хочете, щоб відображалися всі теґи, в тому числі ті, що починають та закінчують сегмент.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Remove leading and trailing whitespace in non-segmented projects: by default, OmegaT removes leading and trailing whitespace.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200412T200359Z" creationid="maximo" creationdate="20200412T200359Z">
+        <seg>Видалити початкові та кінцеві пробіли в несегментованих проєктах: за замовчуванням OmegaT видаляє початкові та кінцеві пробіли.</seg>
       </tuv>
     </tu>
     <tu>
