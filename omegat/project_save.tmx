@@ -16980,6 +16980,14 @@ The scope of a search is by default the project and can be set to be any files l
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Shows the dialog to modify the text display font.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200412T143005Z" creationid="maximo" creationdate="20200412T143005Z">
+        <seg>Показати діалог вибору шрифта.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Signed/Unsigned</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="lesia" changedate="20200324T174612Z" creationid="maximo" creationdate="20200322T160929Z">
@@ -21155,6 +21163,14 @@ searchable without subscription:</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="lesia" changedate="20200324T174716Z" creationid="maximo" creationdate="20200322T161724Z">
         <seg>Якщо часу чекати немає, то можете використати і незавірену версію. Виникли труднощі із запуском програми? Подивіться &lt;a0&gt;як запустити програму від невідомого розробника&lt;/a0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Users of old computers who feel window resizing is very slow can try changing the font.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200412T143151Z" creationid="maximo" creationdate="20200412T143151Z">
+        <seg>Користувачі старих комп'ютерів, що стикаються з проблемою заповільнення програми під час зміни розміру вікна, можуть спробувати змінити шрифт.</seg>
       </tuv>
     </tu>
     <tu>
