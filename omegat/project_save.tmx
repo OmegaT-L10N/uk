@@ -7662,6 +7662,14 @@ Gossamer threads hold you back
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Finds the following:</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200412T053000Z" creationid="maximo" creationdate="20200412T053000Z">
+        <seg>спіймає:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Finished</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20190807T190928Z" creationid="Kos Ivantsov" creationdate="20190807T190928Z">
@@ -14734,6 +14742,14 @@ These words: 'Page not found'</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Regex - Examples of regular expressions in translations</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200412T052926Z" creationid="maximo" creationdate="20200412T052926Z">
+        <seg>Регулярні вирази - приклади регулярних виразів</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Regex - Flags</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="maximo" changedate="20200412T050259Z" creationid="maximo" creationdate="20200412T044916Z">
@@ -14794,6 +14810,14 @@ These words: 'Page not found'</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20190421T190521Z" creationid="Kos Ivantsov" creationdate="20190421T190521Z">
         <seg>Зареєструвати переклад, ідентичний оригіналові</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Regular expression</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200412T052939Z" creationid="maximo" creationdate="20200412T052939Z">
+        <seg>Регулярний вираз</seg>
       </tuv>
     </tu>
     <tu>
@@ -18462,6 +18486,14 @@ instead.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The following list includes expressions you may find useful when searching through the translation memory:</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200412T052850Z" creationid="maximo" creationdate="20200412T052850Z">
+        <seg>Ось підбірка регулярних виразів, які можуть бути корисні для пошуку у памʼяті перекладів:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The following options do not apply if "Compatibility with OmegaT 2.6" is checked</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20190805T104136Z" creationid="Kos Ivantsov" creationdate="20190805T104136Z">
@@ -22079,6 +22111,14 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20190808T092830Z" creationid="Kos Ivantsov" creationdate="20190422T215513Z">
         <seg>Виконано (минуло {0} мс)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>double words</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200412T053023Z" creationid="maximo" creationdate="20200412T053023Z">
+        <seg>повтори слів</seg>
       </tuv>
     </tu>
     <tu>
