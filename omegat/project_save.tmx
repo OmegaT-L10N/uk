@@ -2256,6 +2256,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>A nice collection of useful regex cases can be found in &lt;a0&gt;OmegaT&lt;/a0&gt; itself (see Options &gt; Segmentation).</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200412T052739Z" creationid="maximo" creationdate="20200412T052739Z">
+        <seg>Непогана підбірка прикладів використання регулярних виразів є у самій &lt;a0&gt;OmegaT&lt;/a0&gt; (дивись Налаштування &gt; Сегментація).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>A non-digit: [^0-9]</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="maximo" changedate="20200412T050937Z" creationid="maximo" creationdate="20200412T050937Z">
@@ -16082,6 +16090,14 @@ The scope of a search is by default the project and can be set to be any files l
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>See &lt;u0&gt;The Regex Coach&lt;/u0&gt; for Windows,Linux, FreeBSD versions of a stand-alone tool.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200412T052524Z" creationid="maximo" creationdate="20200412T052524Z">
+        <seg>&lt;u0&gt;The Regex Coach&lt;/u0&gt; доступний для Windows, Linux, FreeBSD як окрема програма.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>See Help &gt; User's Manual for more information.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20190419T183813Z" creationid="Kos Ivantsov" creationdate="20190419T183813Z">
@@ -19220,6 +19236,14 @@ the server.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="lesia" changedate="20200323T101915Z" creationid="lesia" creationdate="20200321T151332Z">
         <seg>Тут вам дають свободу дій, а не просто дають щось на дурничку.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This is much the same as the above example.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200412T052610Z" creationid="maximo" creationdate="20200412T052610Z">
+        <seg>Він працює в цілому так само як попередній приклад.</seg>
       </tuv>
     </tu>
     <tu>
