@@ -19069,6 +19069,14 @@ You, victim of one</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>They generally follow much the same pattern (for an example from the Regular Expression Tester see below): the regular expression (top entry) analyzes the search text (Text box in the middle) , yielding the hits, shown in the result Text box.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200412T052402Z" creationid="maximo" creationdate="20200412T052402Z">
+        <seg>В основному, вони працюють за такою схемою: регулярний вираз (зверху) аналізує текст (посередині) і видає результати у нижньому текстовому полі. (Приклад із Regular Expression Tester)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Third-party software</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="lesia" changedate="20200322T160308Z" creationid="lesia" creationdate="20200322T160308Z">
