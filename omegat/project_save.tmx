@@ -2216,10 +2216,26 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>A character in the Greek block (simple &lt;u0&gt; block&lt;/u0&gt;)</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200412T050434Z" creationid="maximo" creationdate="20200412T050434Z">
+        <seg>Символ із грецького блоку юнікоду (простий &lt;u0&gt;блок&lt;/u0&gt;)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>A comprehensive suite of utilities for preparing files for translation in a CAT tool.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="lesia" changedate="20200322T160803Z" creationid="lesia" creationdate="20200322T160803Z">
         <seg>Набір програм для підготовки файлів до перекладу в САТ-інструментах.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>A currency symbol</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200412T050524Z" creationid="maximo" creationdate="20200412T050524Z">
+        <seg>Символ валюти</seg>
       </tuv>
     </tu>
     <tu>
@@ -3071,6 +3087,14 @@ The TMX file will not be loaded.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>An uppercase letter (simple &lt;u0&gt; category&lt;/u0&gt;)</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200412T050515Z" creationid="maximo" creationdate="20200412T050515Z">
+        <seg>Велика літера (проста &lt;u0&gt;категорія&lt;/u0&gt;)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Analyzing strings - {0} of {1} completed</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20190504T105045Z" creationid="Kos Ivantsov" creationdate="20190504T105045Z">
@@ -3099,6 +3123,14 @@ The TMX file will not be loaded.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20190822T214102Z" creationid="Kos Ivantsov" creationdate="20190808T091802Z">
         <seg>Ентоні Болдвін [Anthony Baldwin] (координатор з локалізації);</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Any character except one in the Greek block (negation)</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200412T050610Z" creationid="maximo" creationdate="20200412T050610Z">
+        <seg>Будь-який символ, окрім як із грецького блоку (заперечення)</seg>
       </tuv>
     </tu>
     <tu>
@@ -14544,8 +14576,8 @@ These words: 'Page not found'</seg>
       <tuv lang="EN">
         <seg>Regex - Character</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="maximo" changedate="20200412T045132Z" creationid="maximo" creationdate="20200412T045132Z">
-        <seg>Регулярний вираз - символ</seg>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200412T050307Z" creationid="maximo" creationdate="20200412T045132Z">
+        <seg>Регулярні вирази - символи</seg>
       </tuv>
     </tu>
     <tu>
@@ -14568,8 +14600,8 @@ These words: 'Page not found'</seg>
       <tuv lang="EN">
         <seg>Regex - Quotation</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="maximo" changedate="20200412T045748Z" creationid="maximo" creationdate="20200412T045748Z">
-        <seg>Регулярний вираз - екранування</seg>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200412T050327Z" creationid="maximo" creationdate="20200412T045748Z">
+        <seg>Регулярні вирази - екранування</seg>
       </tuv>
     </tu>
     <tu>
