@@ -13600,6 +13600,14 @@ Vanishing like mist</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Period, followed by an upper-case letter - possibly a space is missing between the period and the start of a new sentence?</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200412T053428Z" creationid="maximo" creationdate="20200412T053428Z">
+        <seg>Крапка, після якої іде велика літера - можливо, пропущений пробіл</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Periodic builds are available on Sourceforge.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="maximo" changedate="20200322T164028Z" creationid="maximo" creationdate="20200322T164028Z">
@@ -22325,6 +22333,14 @@ create its configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>more than one space</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200412T053342Z" creationid="maximo" creationdate="20200412T053342Z">
+        <seg>більш ніж один пробіл</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>non-greedy quantifiers will match as little as they can.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="maximo" changedate="20200412T051842Z" creationid="maximo" creationdate="20200412T051842Z">
@@ -22401,6 +22417,14 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20190422T205058Z" creationid="Kos Ivantsov" creationdate="20190422T205058Z">
         <seg>optionsViewOptionsMenuLoginItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>search for “is”, not “this” or “isn't” etc.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200412T053455Z" creationid="maximo" creationdate="20200412T053455Z">
+        <seg>пошук “is”, але не “this” чи “isn't”.</seg>
       </tuv>
     </tu>
     <tu>
