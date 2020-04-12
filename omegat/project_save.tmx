@@ -21643,6 +21643,14 @@ searchable without subscription:</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Warning: in Microsoft Open XML formats (docx, xlsx, etc.), if all tags are displayed, DO NOT place any text before the first tag – it is a technical tag that must always begin the segment.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200412T200249Z" creationid="maximo" creationdate="20200412T200249Z">
+        <seg>Обережно! У форматах Microsoft Open XML (docx, xlsx, etc.) якщо відображаються всі теґи, ні в якому разі не вставляйте ніякий текст перед першим теґом! Це технічний теґ, він обов'язково має починати сегмент.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>We could not find the page you are looking for.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="lesia" changedate="20200323T153801Z" creationid="maximo" creationdate="20200321T120507Z">
