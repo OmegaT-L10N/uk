@@ -5871,6 +5871,14 @@ Buy another drink</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Display context description for TBX glossaries</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200412T140501Z" creationid="maximo" creationdate="20200412T140501Z">
+        <seg>Показувати опис контексту для глосаріїв TBX</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Display for &amp;All Segments</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20190807T095606Z" creationid="Kos Ivantsov" creationdate="20190807T095606Z">
@@ -20362,6 +20370,14 @@ Exact searches match the whole search string.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20190817T205542Z" creationid="Kos Ivantsov" creationdate="20190817T205542Z">
         <seg>Неавторизований запит до служби TaaS.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Uncheck this option if the context description shown for each glossary entry is unnecessary or too long.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200412T140644Z" creationid="maximo" creationdate="20200412T140644Z">
+        <seg>Вимкніть цю опцію, якщо опис контексту у вікні глосарію непотрібний чи просто задовгий.</seg>
       </tuv>
     </tu>
     <tu>
