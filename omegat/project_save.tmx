@@ -10038,6 +10038,14 @@ click on that shortcut.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>It can also be used when panes do not appear as expected following an OmegaT upgrade.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200412T142855Z" creationid="maximo" creationdate="20200412T142855Z">
+        <seg>Також її можна використовувати, якщо панелі відображаються неправильно після оновлення OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>It can be found in the "docs" folder in your OmegaT program folder.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="maximo" changedate="20200323T220110Z" creationid="maximo" creationdate="20200322T112839Z">
@@ -21000,6 +21008,14 @@ on line {1}, column {2}.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20190823T142255Z" creationid="Kos Ivantsov" creationdate="20190823T142135Z">
         <seg>Показувати інтерфейс OmegaT тією ж мовою, якою проводилось установлення</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Use this feature when you have undocked, moved or hidden one or more components and you are unable to restore the desired arrangement.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200412T142738Z" creationid="maximo" creationdate="20200412T142738Z">
+        <seg>Використовуйте цю опцію, якщо ви відкріпили, посунули чи сховали якийсь з компонентів і більш не можете відновити потрібне розташування.</seg>
       </tuv>
     </tu>
     <tu>
