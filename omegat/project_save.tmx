@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.2_0_6a661c5e" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.2_0_6a661c5e0" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -13920,6 +13920,14 @@ Vanishing like mist</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Paragraph segmentation on line breaks, empty lines or never:</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200412T202552Z" creationid="maximo" creationdate="20200412T202552Z">
+        <seg>Сегментація на параграфи по символах нового рядка, пустих рядках, чи ніколи:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Parse error encountered reading preferences file!</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20190701T114339Z" creationid="Kos Ivantsov" creationdate="20190701T114300Z">
@@ -18899,6 +18907,14 @@ Please try to correct the error and reload the project.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The available options are:</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200412T202500Z" creationid="maximo" creationdate="20200412T202500Z">
+        <seg>Доступні параметри:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The beginning of a line</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="maximo" changedate="20200412T051259Z" creationid="maximo" creationdate="20200412T051259Z">
@@ -20254,6 +20270,14 @@ the server.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="lesia" changedate="20200412T053453Z" creationid="maximo" creationdate="20200329T200205Z">
         <seg>Для встановлення необхідних файлів у форматі StarDict необхідно виконати наступне:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To modify the options, select the filter in the list and click &lt;e0&gt;Options&lt;/e0&gt;.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200412T202433Z" creationid="maximo" creationdate="20200412T202433Z">
+        <seg>Щоб відредагувати параметри, виберіть фільтр зі списку та натисніть &lt;e0&gt;Параметри&lt;/e0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -23159,6 +23183,14 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20190822T210421Z" creationid="Kos Ivantsov" creationdate="20190808T091330Z">
         <seg>https://sourceforge.net/p/omegat/feature-requests/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>if sentence segmentation rules are active, the text will be segmented further according to the option selected here.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200412T202657Z" creationid="maximo" creationdate="20200412T202657Z">
+        <seg>якщо правила сегментації на речення активні, текст буде далі сегментований відповідно до цього параметру.</seg>
       </tuv>
     </tu>
     <tu>
