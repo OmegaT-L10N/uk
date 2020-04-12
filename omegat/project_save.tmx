@@ -18287,6 +18287,14 @@ in /lib/licenses/Licenses.txt.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The regular expressions (or regex for short) used in searches and segmentation rules are those supported by Java.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200412T044144Z" creationid="maximo" creationdate="20200412T044144Z">
+        <seg>У OmegaT для пошуку, чи у правилах сегментації використовуються регулярні вирази Java.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The same spirit can be found within the OmegaT project.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="maximo" changedate="20200322T181655Z" creationid="lesia" creationdate="20200321T152638Z">
