@@ -7784,6 +7784,14 @@ provided (omegat.kaptn).</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>For example, &lt;e0&gt;a+&lt;/e0&gt; will match the aaa in &lt;e1&gt;aaabbb&lt;/e1&gt;</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200412T051743Z" creationid="maximo" creationdate="20200412T051743Z">
+        <seg>Наприклад, &lt;e0&gt;a+&lt;/e0&gt; зловить aaa у &lt;e1&gt;aaabbb&lt;/e1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>For example, anyone is free to make changes to OmegaT's program code and to submit these changes to the development team.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="lesia" changedate="20200324T171857Z" creationid="lesia" creationdate="20200321T154329Z">
@@ -14726,6 +14734,14 @@ These words: 'Page not found'</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Regex - Reluctant (non-greedy) quantifiers</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200412T051806Z" creationid="maximo" creationdate="20200412T051806Z">
+        <seg>Регулярні вирази - ліниві (нежадібні) квантифікатори</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Register Identical Translation</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20190421T190521Z" creationid="Kos Ivantsov" creationdate="20190421T190521Z">
@@ -21403,6 +21419,22 @@ Your page is not found</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>X, one or more times</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200412T051624Z" creationid="maximo" creationdate="20200412T051624Z">
+        <seg>X, один чи більше разів</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>X, zero or more times</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200412T051614Z" creationid="maximo" creationdate="20200412T051614Z">
+        <seg>X, нуль чи більше разів</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>XHTML</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20190807T214030Z" creationid="Kos Ivantsov" creationdate="20190807T214030Z">
@@ -21983,6 +22015,14 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20190516T182914Z" creationid="Kos Ivantsov" creationdate="20190516T182914Z">
         <seg>імена файлів</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>greedy quantifiers will match as much as they can.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200412T051725Z" creationid="maximo" creationdate="20200412T051725Z">
+        <seg>жадібні квантифікатори ловлять максимальну можливу кількість елементів.</seg>
       </tuv>
     </tu>
     <tu>
