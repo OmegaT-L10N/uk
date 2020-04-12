@@ -8911,6 +8911,14 @@ need not be entered.)</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If both this option and the &lt;l0&gt;&lt;g1&gt;Insert the source text&lt;/g1&gt;&lt;/l0&gt; option are selected, all words with a corresponding glossary entry will be translated automatically when the source text is inserted.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200412T141325Z" creationid="maximo" creationdate="20200412T141325Z">
+        <seg>Якщо ця опція, а також опція &lt;l0&gt;&lt;g1&gt;Вставити текст оригіналу&lt;/g1&gt;&lt;/l0&gt; увімкнуті, всі слова, у яких є відповідна словарна стаття, будуть замінені автоматично, коли вставляється текст оригіналу.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If checked, the entries are sorted alphabetically.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20190820T111159Z" creationid="Kos Ivantsov" creationdate="20190820T111159Z">
@@ -15276,6 +15284,14 @@ These words: 'Page not found'</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20190823T142747Z" creationid="Kos Ivantsov" creationdate="20190823T142747Z">
         <seg>Замінити екрановані послідовності пробілами</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Replace glossary hits when inserting source text</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200412T141103Z" creationid="maximo" creationdate="20200412T141103Z">
+        <seg>Заміняти у вставленому тексті оригіналу збіги, знайдені у глосарії</seg>
       </tuv>
     </tu>
     <tu>
