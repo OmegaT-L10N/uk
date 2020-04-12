@@ -2320,6 +2320,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>A script bundled with OmegaT called Switch Colour Themes provides a default "Dark" theme.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200412T175913Z" creationid="maximo" creationdate="20200412T175641Z">
+        <seg>Скрипт Switch Colour Themes, вбудований у OmegaT, надає стандарту темну тему "Dark".</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>A simple set of QA checks for current OmegaT project</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20190822T215721Z" creationid="Kos Ivantsov" creationdate="20190822T215721Z">
@@ -14190,8 +14198,8 @@ additional steps need to be taken.</seg>
       <tuv lang="EN">
         <seg>Pre-defined themes can be set using scripts.</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="maximo" changedate="20200412T175542Z" creationid="maximo" creationdate="20200412T175542Z">
-        <seg>За допомогою скриптів ви можете встановити підготовлені комплекти кольорів.</seg>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200412T175649Z" creationid="maximo" creationdate="20200412T175542Z">
+        <seg>За допомогою скриптів ви можете встановити підготовлені комплекти кольорів - теми.</seg>
       </tuv>
     </tu>
     <tu>
