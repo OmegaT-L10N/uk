@@ -9810,6 +9810,14 @@ to use Java Web Start.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If you want to revert to the filter's default configuration, click &lt;e1&gt;Defaults.&lt;/e1&gt; You can also modify the name directly in the target filename pattern field of the file filters dialog.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200413T191027Z" creationid="maximo" creationdate="20200413T191027Z">
+        <seg>Якщо ви хочете повернутися до стандартних налаштувань фільтру файлів, натисніть  &lt;e1&gt;Відновити типові значення&lt;/e1&gt;. Також ви можете змінити шаблон безпосередньо у відповідному полі діалогового вікна налаштувань фільтру файлів.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If you want to use &lt;k0&gt; &lt;k1&gt;Shift&lt;/k1&gt; &lt;k2&gt;Ctrl&lt;/k2&gt; &lt;k3&gt;O&lt;/k3&gt; &lt;/k0&gt; to open a project, modify your &lt;f4&gt;MainMenuShortcuts.properties&lt;/f4&gt; as follows:</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="maximo" changedate="20200405T184318Z" creationid="maximo" creationdate="20200405T184318Z">
