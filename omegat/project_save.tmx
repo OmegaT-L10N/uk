@@ -17900,6 +17900,14 @@ The scope of a search is by default the project and can be set to be any files l
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Source file type, filename pattern</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200413T165650Z" creationid="maximo" creationdate="20200413T165650Z">
+        <seg>Тип файлу для перекладу, шаблон імені файлу</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Source files committed</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20190504T102451Z" creationid="Kos Ivantsov" creationdate="20190504T102451Z">
@@ -19334,6 +19342,14 @@ instead.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The dialog includes a special target filename pattern editor, which you can use to customize the names of output files.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200413T165605Z" creationid="maximo" creationdate="20200413T165605Z">
+        <seg>Діалогове вікно містить спеціальний редактор шаблонів назв перекладених файлів.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The download will be faster, and the installation will require less space on your hard drive.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="maximo" changedate="20200322T155705Z" creationid="maximo" creationdate="20200322T155705Z">
@@ -19739,6 +19755,14 @@ in /lib/licenses/Licenses.txt.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="maximo" changedate="20200412T044144Z" creationid="maximo" creationdate="20200412T044144Z">
         <seg>У OmegaT для пошуку, чи у правилах сегментації використовуються регулярні вирази Java.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The same dialog is used to add a pattern or to edit a particular pattern.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200413T165509Z" creationid="maximo" creationdate="20200413T165509Z">
+        <seg>У тому ж самому діалоговому вікні можна як додати, так і редагувати шаблон.</seg>
       </tuv>
     </tu>
     <tu>
@@ -20464,6 +20488,14 @@ the server.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>To add a new file filter pattern, click &lt;e1&gt;Add&lt;/e1&gt;.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200413T165503Z" creationid="maximo" creationdate="20200413T165503Z">
+        <seg>Щоб додати новий шаблон фільтра файлів, натисніть &lt;e1&gt;Додати&lt;/e1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>To be sure that no translation will be lost, you need to:
 1.</seg>
       </tuv>
@@ -20556,8 +20588,8 @@ the server.</seg>
       <tuv lang="EN">
         <seg>To modify a file filter pattern, either modify the fields directly or click &lt;e0&gt;Edit&lt;/e0&gt;.</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="maximo" changedate="20200413T165424Z" creationid="maximo" creationdate="20200413T165424Z">
-        <seg>Щоб налаштувати шаблон фільтра файлів, змінюйте відразу поля або натисніть на &lt;e0&gt;Редагувати.ґ&lt;/e0&gt;.</seg>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200413T165434Z" creationid="maximo" creationdate="20200413T165424Z">
+        <seg>Щоб налаштувати шаблон фільтра файлів, змінюйте відразу поля або натисніть на &lt;e0&gt;Редагувати&lt;/e0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
