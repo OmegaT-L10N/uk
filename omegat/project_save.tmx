@@ -2216,6 +2216,62 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;l0&gt;${extension} &lt;/l0&gt;- the original file extension</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200413T191301Z" creationid="maximo" creationdate="20200413T191301Z">
+        <seg>&lt;l0&gt;${extension} &lt;/l0&gt;- розширення файлу оригінала.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;l0&gt;${nameOnly}&lt;/l0&gt;– allows you to insert only the name of the source file without the extension.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200413T191258Z" creationid="maximo" creationdate="20200413T191258Z">
+        <seg>&lt;l0&gt;${nameOnly}&lt;/l0&gt;– дозволяє вписати назву файлу оригінала без розширення.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;l0&gt;${targetCountryCode}&lt;/l0&gt;– the target country - only "YY"</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200413T191335Z" creationid="maximo" creationdate="20200413T191335Z">
+        <seg>&lt;l0&gt;${targetCountryCode}&lt;/l0&gt;– лише код країни перекладу ("YY").</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;l0&gt;${targetLanguageCode}&lt;/l0&gt; – the target language - only "XX"</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200413T191330Z" creationid="maximo" creationdate="20200413T191330Z">
+        <seg>&lt;l0&gt;${targetLanguageCode}&lt;/l0&gt; – лише код мови перекладу ("XX").</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;l0&gt;${targetLanguage}&lt;/l0&gt;– the target language and country code together (of a form "XX-YY").</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200413T191323Z" creationid="maximo" creationdate="20200413T191323Z">
+        <seg>&lt;l0&gt;${targetLanguage}&lt;/l0&gt;– код мови перекладу та країни перекладу (у формі "XX-YY").</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;l0&gt;${targetLocale}&lt;/l0&gt;– target locale code (of a form "xx_YY").</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200413T191312Z" creationid="maximo" creationdate="20200413T191312Z">
+        <seg>&lt;l0&gt;${targetLocale}&lt;/l0&gt;– код локалі перекладу (у формі "xx_YY").</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;l0&gt;${timestamp-????}&lt;/l0&gt; – system date time at generation time in various patterns</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200413T191424Z" creationid="maximo" creationdate="20200413T191412Z">
+        <seg>&lt;l0&gt;${timestamp-????}&lt;/l0&gt; – системний час та дата в момент створення файлу у різних форматах</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;name and path of the Java executable file&gt; -jar OmegaT.jar</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20190822T212959Z" creationid="Kos Ivantsov" creationdate="20190822T212959Z">
@@ -5818,6 +5874,14 @@ Buy another drink</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20190422T210554Z" creationid="Kos Ivantsov" creationdate="20190422T210534Z">
         <seg>Типовий набір</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Default is &lt;l0&gt;${filename}&lt;/l0&gt;– full filename of the source file with extension: in this case the name of the translated file is the same as that of the source file.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200413T191254Z" creationid="maximo" creationdate="20200413T191254Z">
+        <seg>За замовчуванням встановлено &lt;l0&gt;${filename}&lt;/l0&gt;– повна назва файлу оригінала з розширенням, тобто назва перекладеного файлу збігається з назвою файлу оригінала.</seg>
       </tuv>
     </tu>
     <tu>
