@@ -8112,6 +8112,14 @@ provided (omegat.kaptn).</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>For example, &lt;l0&gt;&lt;div class="hide"&gt; &lt;span translate="no"&gt;&lt;/l0&gt;.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200413T113316Z" creationid="maximo" creationdate="20200413T113316Z">
+        <seg>Наприклад, &lt;l0&gt;&lt;div class="hide"&gt; &lt;span translate="no"&gt;&lt;/l0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>For example, anyone is free to make changes to OmegaT's program code and to submit these changes to the development team.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="lesia" changedate="20200324T171857Z" creationid="lesia" creationdate="20200321T154329Z">
@@ -10450,6 +10458,14 @@ click on that shortcut.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="maximo" changedate="20200411T110113Z" creationid="maximo" creationdate="20200411T110113Z">
         <seg>Але насправді простіше шукати словники онлайн, використовуючи поле &lt;e0&gt;URL-адреса словників в інтернеті&lt;/e0&gt;:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>It is sometimes useful to be able make certain tags untranslatable based on the values of their attributes.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200413T113304Z" creationid="maximo" creationdate="20200413T113304Z">
+        <seg>Це іноді корисно, щоб ігнорувати вміст деяких теґів, основуючись на значеннях їх атрибутів.</seg>
       </tuv>
     </tu>
     <tu>
