@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.2_0_6a661c5e0" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.2_0_6a661c5e" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -9826,8 +9826,8 @@ Explorer), change the settings so that file extensions are displayed.</seg>
       <tuv lang="EN">
         <seg>If you decide mid-translation to switch from sentence to paragraph translation, the internal translation memory of the project will not be changed (OmegaT may upgrade old translation memories that did not use sentence segmentation, but not vice versa), but OmegaT will attempt to create paragraph fuzzy matches by gluing together existing sentence translations.</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="lesia" changedate="20200412T201144Z" creationid="lesia" creationdate="20200412T201144Z">
-        <seg>Якщо у процесі перекладу ви вирішите змінити правила сегментації і працювати не за реченнями, а за абзацами, це не змінить памʼять перекладів, що створилася у проєкті (OmegaT може оновити старі файли памʼяті перекладів, які працювали з більшими за реченнями сегментами, але не навпаки). Однак, OmegaT буде намагатися створити нечіткі збіги на рівні абзаців, "склеюючи" наявні переклади речень. </seg>
+      <tuv lang="UK-UA" changeid="lesia" changedate="20200413T200659Z" creationid="lesia" creationdate="20200412T201144Z">
+        <seg>Якщо під час перекладу ви вирішите змінити правила сегментації і працювати не за реченнями, а за абзацами, це не змінить памʼять перекладів, що створилася у проєкті (OmegaT може оновити старі файли памʼяті перекладів, які працювали з більшими за реченнями сегментами, але не навпаки). Однак, OmegaT буде намагатися створити нечіткі збіги на рівні абзаців, "склеюючи" наявні переклади речень. </seg>
       </tuv>
     </tu>
     <tu>
@@ -20744,6 +20744,14 @@ the server.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>This is especially useful when dealing with texts where inline formatting is not really useful (e.g., OCRed PDF, bad converted .odt or .docx, etc.) In a normal case it should always be possible to open the target documents, as only inline tags are removed.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="lesia" changedate="20200413T201040Z" creationid="lesia" creationdate="20200413T201040Z">
+        <seg>(e.g., OCRed PDF, bad converted .odt or .docx, etc.) In a normal case it should always be possible to open the target documents, as only inline tags are removed.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>This is how it works:</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="maximo" changedate="20200413T185527Z" creationid="maximo" creationdate="20200413T185527Z">
@@ -22881,6 +22889,14 @@ of selecting, obtaining and installing it.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20190820T111126Z" creationid="Kos Ivantsov" creationdate="20190820T111126Z">
         <seg>Якщо позначено, то у вигульку автодоповнення записи з глосаріїв міститимуть також терміни мовою оригіналу.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>When enabled, all the formatting tags are removed from source segments.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="lesia" changedate="20200413T200823Z" creationid="lesia" creationdate="20200413T200823Z">
+        <seg>Якщо ця функція активна, всі теґи форматування вилучаються з сегментів оригіналу.</seg>
       </tuv>
     </tu>
     <tu>
