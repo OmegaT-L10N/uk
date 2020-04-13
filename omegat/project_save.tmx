@@ -2296,6 +2296,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;l0&gt;${targetLocaleLCID}&lt;/l0&gt; - Microsoft target locale</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200413T192112Z" creationid="maximo" creationdate="20200413T192112Z">
+        <seg>&lt;l0&gt;${targetLocaleLCID}&lt;/l0&gt; - локаль Microsoft для мови перекладу</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;l0&gt;${targetLocale}&lt;/l0&gt;– target locale code (of a form "xx_YY").</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="maximo" changedate="20200413T191312Z" creationid="maximo" creationdate="20200413T191312Z">
@@ -2940,6 +2948,14 @@ The current setting is {0}MB;</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20190821T115613Z" creationid="Kos Ivantsov" creationdate="20190821T115613Z">
         <seg>Додано: {1}, видалено: {2}, змінено: {3} (кількість конфліктів: {0})</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Additional variants are available for variables ${nameOnly} and ${Extension}.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200413T192209Z" creationid="maximo" creationdate="20200413T192209Z">
+        <seg>Для змінних ${nameOnly} та ${Extension} доступні додаткові варіанти.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10064,6 +10080,14 @@ click on that shortcut.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="maximo" changedate="20200322T170059Z" creationid="maximo" creationdate="20200322T170059Z">
         <seg>На PCW.GR (грецькою).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>In case the file name has ambivalent name, one can apply variables of the form &lt;l0&gt;${name only&lt;/l0&gt;&lt;e1&gt;-extension number&lt;/e1&gt;} and &lt;l2&gt;${extension&lt;/l2&gt;-&lt;e3&gt;extension number} &lt;/e3&gt;.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200413T192354Z" creationid="maximo" creationdate="20200413T192354Z">
+        <seg>Якщо ім'я файлу амбівалентне, то можна використати ці змінні у такому форматі: &lt;l0&gt;${nameOnly&lt;/l0&gt;&lt;e1&gt;-extension number&lt;/e1&gt;} and &lt;l2&gt;${extension&lt;/l2&gt;-&lt;e3&gt;extension number} &lt;/e3&gt;.</seg>
       </tuv>
     </tu>
     <tu>
