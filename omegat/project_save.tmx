@@ -7918,6 +7918,14 @@ Gossamer threads hold you back
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>File formats that do not specify their encoding will use the encoding you set up for the extension that matches their name.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200413T184816Z" creationid="maximo" creationdate="20200413T184816Z">
+        <seg>Для файлів у форматах, що не вказують кодування, будуть використані системи кодування, які ви вказали для всіх файлів цього типу.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>File locations</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20190504T132119Z" creationid="Kos Ivantsov" creationdate="20190504T132119Z">
@@ -13825,6 +13833,14 @@ installed on your system.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Only a limited number of file formats specify a mandatory encoding.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200413T184551Z" creationid="maximo" creationdate="20200413T184551Z">
+        <seg>Тільки невелика кількість форматів файлів вимагає явного зазначення системи кодування.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Only if (X)HTML file has a &amp;header</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20190814T102120Z" creationid="Kos Ivantsov" creationdate="20190814T102120Z">
@@ -17976,6 +17992,14 @@ The scope of a search is by default the project and can be set to be any files l
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20190504T132145Z" creationid="Kos Ivantsov" creationdate="20190504T132145Z">
         <seg>Тека для файлів для перекладу:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Source and Translated file encoding</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200413T184455Z" creationid="maximo" creationdate="20200413T184455Z">
+        <seg>Кодування файлів для перекладу, та перекладених файлів</seg>
       </tuv>
     </tu>
     <tu>
