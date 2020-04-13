@@ -8232,6 +8232,14 @@ provided (omegat.kaptn).</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>For example, by default &lt;l0&gt;.txt&lt;/l0&gt; files will be loaded using the default encoding of your operating system.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200413T185003Z" creationid="maximo" creationdate="20200413T185003Z">
+        <seg>Наприклад, за замовченням файли &lt;l0&gt;.txt&lt;/l0&gt; завантажуються у системі кодування, що вказана як основна у вашій операційній системі.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>For example, by default, the XHTML filter is used to process files with the .xhtml extension.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="maximo" changedate="20200413T183928Z" creationid="maximo" creationdate="20200413T183928Z">
