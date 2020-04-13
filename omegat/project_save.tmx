@@ -2040,6 +2040,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;e0&gt;Word:&lt;/e0&gt; non-visible instruction text, comments, footnotes, endnotes, footers</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200413T114017Z" creationid="maximo" creationdate="20200413T114017Z">
+        <seg>&lt;e0&gt;Word:&lt;/e0&gt; невидимий текст інструкцій, коментарі, зноски, примітки, колонтитули</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;html&gt;&lt;center&gt;Loading...&lt;br&gt;&lt;br&gt;Tip: Enable/disable checks at any time from the Options menu.&lt;/center&gt;&lt;/html&gt;</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20190821T125439Z" creationid="Kos Ivantsov" creationdate="20190821T125439Z">
@@ -20013,6 +20021,14 @@ You, victim of one</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>They will appear as separate segments in the translation.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200413T113836Z" creationid="maximo" creationdate="20200413T113836Z">
+        <seg>Вони будуть відображатися у тексті перекладу як окремі сегменти.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Third-party software</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="lesia" changedate="20200322T160308Z" creationid="lesia" creationdate="20200322T160308Z">
@@ -22947,6 +22963,14 @@ installation script (linux-install.sh).</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="maximo" changedate="20200404T164629Z" creationid="maximo" creationdate="20200404T164629Z">
         <seg>Крім того, для більшої зручності та легкості у користуванні ви може встановити програму скриптом встановлення (linux-install.sh).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You can select which elements are to be translated.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200413T113826Z" creationid="maximo" creationdate="20200413T113826Z">
+        <seg>Ви можете обрати, які елементи будуть перекладатися</seg>
       </tuv>
     </tu>
     <tu>
