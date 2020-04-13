@@ -13093,6 +13093,14 @@ as the Applications folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Non-visible formatting (i.e., which doesn't appear as tags in the OmegaT editor) is retained in target documents.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="lesia" changedate="20200413T202344Z" creationid="lesia" creationdate="20200413T202344Z">
+        <seg>Невидиме форматування (яке не відображується теґами у редакторі OmegaT) у тексті перекладу зберігається.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>None</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20190820T131352Z" creationid="Kos Ivantsov" creationdate="20190820T130850Z">
