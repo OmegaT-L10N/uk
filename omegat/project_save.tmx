@@ -8208,6 +8208,14 @@ provided (omegat.kaptn).</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>For example, by default, the XHTML filter is used to process files with the .xhtml extension.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200413T183928Z" creationid="maximo" creationdate="20200413T183928Z">
+        <seg>Наприклад, зазвичай фільтр XHTML використовується для файлів із розширенням .xhtml.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>For example, if you have selected ES-MX (Mexican Spanish) as the target language, the dictionary files must be named es_MX.dic and es_MX.aff.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="maximo" changedate="20200411T111248Z" creationid="maximo" creationdate="20200411T111248Z">
@@ -17988,6 +17996,14 @@ The scope of a search is by default the project and can be set to be any files l
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Source filename patterns use wild card characters similar to those used in &lt;e2&gt;Searches.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200413T184153Z" creationid="maximo" creationdate="20200413T184153Z">
+        <seg>Шаблони імен файлів для перекладу використовують той самий набір спеціальних символів, що і &lt;e2&gt;Пошук.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Source files committed</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20190504T102451Z" creationid="Kos Ivantsov" creationdate="20190504T102451Z">
@@ -23125,6 +23141,14 @@ start menu, the desktop or the quick launch area to link it from there.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20190820T141813Z" creationid="Kos Ivantsov" creationdate="20190807T151309Z">
         <seg>Для переходу між сегментами з примітками можна використати пункт меню &lt;g0&gt;«Перехід → До наступної примітки»&lt;/g0&gt; та &lt;g1&gt;«Перехід → До попередньої примітки»&lt;/g1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You can change or add filename patterns for files to be handled by each file filter.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200413T184038Z" creationid="maximo" creationdate="20200413T184038Z">
+        <seg>Ви можете змінити існуючі шаблони і додати нові для кожного фільтра файлів.</seg>
       </tuv>
     </tu>
     <tu>
