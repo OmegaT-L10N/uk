@@ -9028,6 +9028,14 @@ Its winter has come</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>How To...</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200413T165852Z" creationid="maximo" creationdate="20200413T165852Z">
+        <seg>Практичні вказівки How To</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>How they do so is very much up to them.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="lesia" changedate="20200324T170807Z" creationid="lesia" creationdate="20200321T153701Z">
@@ -12031,6 +12039,14 @@ itself on the first run.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="maximo" changedate="20200405T184441Z" creationid="maximo" creationdate="20200405T184441Z">
         <seg>Код пункту меню</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Menus</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200413T165910Z" creationid="maximo" creationdate="20200413T165910Z">
+        <seg>Меню</seg>
       </tuv>
     </tu>
     <tu>
@@ -19350,6 +19366,14 @@ instead.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The difference is thin: we call "Window" a window that can stay open next to the editor and interact with it, and "dialog" a window where you must select parameters before closing it and pursuing your translation activity.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200413T170102Z" creationid="maximo" creationdate="20200413T170102Z">
+        <seg>Відмінність насправді дуже тонка: ми називаємо !The difference is thin: we call "Window" a window that can stay open next to the editor and interact with it, and "dialog" a window where you must select parameters before closing it and pursuing your translation activity.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The download will be faster, and the installation will require less space on your hard drive.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="maximo" changedate="20200322T155705Z" creationid="maximo" creationdate="20200322T155705Z">
@@ -21132,6 +21156,14 @@ linux-install.sh script, and execute the script with ./linux-install.sh.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Troubleshooting</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200413T165935Z" creationid="maximo" creationdate="20200413T165935Z">
+        <seg>Вирішення типових проблем</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Tutorials</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="lesia" changedate="20200324T095506Z" creationid="maximo" creationdate="20200322T113201Z">
@@ -22575,6 +22607,14 @@ Your page is not found</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20190517T152315Z" creationid="Kos Ivantsov" creationdate="20190517T152315Z">
         <seg>Файли ресурсів Windows</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Windows and dialogs</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200413T170001Z" creationid="maximo" creationdate="20200413T170001Z">
+        <seg>Вікна та діалогові вікна</seg>
       </tuv>
     </tu>
     <tu>
