@@ -4176,6 +4176,14 @@ Buy another drink</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>By default, the translated file encoding is the same as the source file encoding.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200413T185224Z" creationid="maximo" creationdate="20200413T185224Z">
+        <seg>За замовченням перекладені файли записуються в тій самій системі кодування, що була у файлів для перекладу.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>C&amp;ase sensitive</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20190516T181924Z" creationid="Kos Ivantsov" creationdate="20190516T181924Z">
@@ -18798,6 +18806,14 @@ The scope of a search is by default the project and can be set to be any files l
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Target files can also be written in any encoding.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200413T185123Z" creationid="maximo" creationdate="20200413T185123Z">
+        <seg>Перекладені файли також можуть записуватися у будь-якому кодуванні.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Target files committed</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20190504T102514Z" creationid="Kos Ivantsov" creationdate="20190504T102514Z">
@@ -20003,6 +20019,14 @@ in /lib/licenses/Licenses.txt.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="maximo" changedate="20200405T043312Z" creationid="maximo" creationdate="20200405T043312Z">
         <seg>Синтаксис комбінацій клавіш виглядає так: &lt;c0&gt;&lt;код елемента меню&gt;=&lt;комбінація клавіш&gt;&lt;/c0&gt;, де &lt;e1&gt;&lt;код елемента меню&gt;&lt;/e1&gt; - це код із таблиці, вказаної нижче, а &lt;e2&gt;&lt;комбінація клавіш&gt;&lt;/e2&gt; - це комбінація клавіш, встановлених користувачем</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The source and target encoding fields use drop-down menus containing all the supported encodings.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200413T185408Z" creationid="maximo" creationdate="20200413T185408Z">
+        <seg>Поля кодування файлів для перекладу та кодування перекладених файлів - це випадні меню, які містять всі доступні системи кодування.</seg>
       </tuv>
     </tu>
     <tu>
@@ -23229,6 +23253,14 @@ start menu, the desktop or the quick launch area to link it from there.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="maximo" changedate="20200412T175144Z" creationid="maximo" creationdate="20200412T175144Z">
         <seg>Ви можете змінювати положення кожної панелі чи навіть відокремити її у окреме вікно, якщо перетягнете її натиснувши на заголовок.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You can change the source encoding for each different source filename pattern.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200413T185052Z" creationid="maximo" creationdate="20200413T185052Z">
+        <seg>Ви можете змінити систему кодування для кожного шаблону імен файлів.</seg>
       </tuv>
     </tu>
     <tu>
