@@ -3396,6 +3396,14 @@ may experience unexpected, but correct behaviour.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>As this is the standard behaviour for PO files, it is selected by default.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200413T105557Z" creationid="maximo" creationdate="20200413T105557Z">
+        <seg>Оскільки це стандартна поведінка для PO файлів, цей прапорець активний за замовченням.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>As with free developments, however, the principle still applies that any changes to OmegaT must be beneficial to the application and its users.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="maximo" changedate="20200323T082438Z" creationid="lesia" creationdate="20200322T145919Z">
@@ -3480,6 +3488,14 @@ may experience unexpected, but correct behaviour.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20190822T135324Z" creationid="Kos Ivantsov" creationdate="20190701T155249Z">
         <seg>&amp;Автоматично замінювати 'nplurals=INTEGER; &amp;plural=EXPRESSION;' у заголовку</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Auto replace 'nplurals=INTEGER; plural=EXPRESSION;' in header</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200413T105754Z" creationid="maximo" creationdate="20200413T105754Z">
+        <seg>Автоматично замінювати 'nplurals=INTEGER; plural=EXPRESSION;' у заголовку</seg>
       </tuv>
     </tu>
     <tu>
@@ -9266,6 +9282,14 @@ their defaults as a result of the location change.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="maximo" changedate="20200412T201425Z" creationid="maximo" creationdate="20200412T201425Z">
         <seg>Якщо поставити цей прапорець, назва файлу для перекладу не буде братися до уваги і варіанти перекладу будуть використовуватися, якщо інший контекст збігається (наприклад, попередній, наступний сегмент, чи якийсь ідентифікатор, залежно від формату файлу).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If the option is off, the source text will be copied to the target segment.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200413T105646Z" creationid="maximo" creationdate="20200413T105646Z">
+        <seg>Якщо цей параметр вимкнений, текст оригіналу буде скопійовано у перекладений файл.</seg>
       </tuv>
     </tu>
     <tu>
@@ -17460,6 +17484,14 @@ The scope of a search is by default the project and can be set to be any files l
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Skip PO header</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200413T105651Z" creationid="maximo" creationdate="20200413T105651Z">
+        <seg>Пропустити заголовок файла PO</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Skip segments containing a certain set of characters</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="lesia" changedate="20200322T161841Z" creationid="lesia" creationdate="20200322T161841Z">
@@ -18869,6 +18901,14 @@ current folder will be used instead.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20190701T155407Z" creationid="Kos Ivantsov" creationdate="20190701T155407Z">
         <seg>Сталася помилка у роботі фільтра файлів PO:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The PO header will be skipped and left unchanged if this option is checked.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200413T105741Z" creationid="maximo" creationdate="20200413T105741Z">
+        <seg>Якщо цей параметр активний, заголовок файла PO буде залишений без змін.</seg>
       </tuv>
     </tu>
     <tu>
