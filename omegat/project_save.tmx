@@ -1992,6 +1992,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;e0&gt;Add or rewrite encoding declaration in HTML and XHTML files&lt;/e0&gt;: the target files often need to have a different character set encoding from the one in the source file (whether it is explicitly defined or implied).</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200413T164124Z" creationid="maximo" creationdate="20200413T164124Z">
+        <seg>&lt;e0&gt;Додавати чи перезаписувати оголошення про кодування у файлах HTML і XHTML&lt;/e0&gt;: перекладені файли часто потребують іншої системи кодування, ніж у оригінальному файлі.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;e0&gt;Aggregate tags&lt;/e0&gt;: if checked, tags with no translatable text between them will be aggregated into a single tag.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="maximo" changedate="20200413T114605Z" creationid="maximo" creationdate="20200413T114316Z">
