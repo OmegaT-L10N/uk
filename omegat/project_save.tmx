@@ -17940,6 +17940,14 @@ The scope of a search is by default the project and can be set to be any files l
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Sometimes you may wish to rename the files you translate automatically, for example adding a language code after the file name.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200413T190122Z" creationid="maximo" creationdate="20200413T190112Z">
+        <seg>Іноді може бути зручно, щоб перекладені файли мали змінену назву. Наприклад, щоб після імені додавався код мови перекладу.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Sorry</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="maximo" changedate="20200321T120419Z" creationid="maximo" creationdate="20200321T120419Z">
@@ -20131,6 +20139,14 @@ in /lib/licenses/Licenses.txt.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20190822T152010Z" creationid="Kos Ivantsov" creationdate="20190822T152010Z">
         <seg>Теґи в OmegaT позначаються іншим кольором (сірим у типовій конфігурації), тому вони добре помітні.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The target filename pattern uses a special syntax, so if you want to edit this field, you must click &lt;e0&gt;Edit...&lt;/e0&gt;and use the Edit Pattern Dialog.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200413T190343Z" creationid="maximo" creationdate="20200413T190343Z">
+        <seg>Шаблон імені перекладеного файлу використовує спеціальний синтаксис, тому якщо ви хочете змінити це поле, вам треба натиснути &lt;e0&gt;Редагувати...&lt;/e0&gt; та використати діалог Редагувати шаблон.</seg>
       </tuv>
     </tu>
     <tu>
