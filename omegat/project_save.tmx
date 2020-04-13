@@ -8224,6 +8224,14 @@ provided (omegat.kaptn).</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>For example, the pattern &lt;l0&gt;*.xhtml &lt;/l0&gt;matches any file with the &lt;l1&gt;.xhtml&lt;/l1&gt; extension.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200413T183620Z" creationid="maximo" creationdate="20200413T183620Z">
+        <seg>Наприклад, шаблон &lt;l0&gt;*.xhtml &lt;/l0&gt; відповідає будь-якому файлу із розширенням &lt;l1&gt;.xhtml&lt;/l1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>For example, there is nothing to stop a user writing their own user manual or a demonstration video for OmegaT, and if the project considers it remotely useful, it is likely to be made available to OmegaT's community of users.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="lesia" changedate="20200321T153849Z" creationid="lesia" creationdate="20200321T153849Z">
@@ -9410,6 +9418,14 @@ their defaults as a result of the location change.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="lesia" changedate="20200412T202718Z" creationid="lesia" creationdate="20200412T202718Z">
         <seg>Якщо прапорець Автоматичного заповнення не виставлено, сегменти, ідентичні до вже перекладеного залишаться порожніми і перекладач сам вирішить, який переклад там потрібен.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If the appropriate filter is found, the file is assigned to it for processing.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200413T183840Z" creationid="maximo" creationdate="20200413T183840Z">
+        <seg>Якщо знаходиться відповідний фільтр, файл буде опрацьовано.</seg>
       </tuv>
     </tu>
     <tu>
