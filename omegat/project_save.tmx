@@ -8248,6 +8248,14 @@ provided (omegat.kaptn).</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>For instance, if the file filter specifies UTF8 as the encoding scheme for the target files, selecting Always will ensure that this information is included in the translated files.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200413T164427Z" creationid="maximo" creationdate="20200413T164427Z">
+        <seg>Наприклад, якщо фільтр файлів вказує UTF8 як систему кодування для перекладених файлів, то обирання варіанту Завжди гарантує те, що ця інформація буде відображена у перекладених файлах.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>For most users, these are not of interest.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="lesia" changedate="20200323T214003Z" creationid="maximo" creationdate="20200322T155332Z">
@@ -21949,6 +21957,14 @@ searchable without subscription:</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="maximo" changedate="20200411T133545Z" creationid="maximo" creationdate="20200411T133545Z">
         <seg>Використання орфографічних словників</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Using this option, the translator can specify whether the target files should have the encoding declaration included.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200413T164213Z" creationid="maximo" creationdate="20200413T164213Z">
+        <seg>Використовуючи цей параметр може вказати, чи перекладені файли мусять містити оголошення про кодування.</seg>
       </tuv>
     </tu>
     <tu>
