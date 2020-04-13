@@ -1936,6 +1936,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;a0&gt;OmegaT&lt;/a0&gt; has two ways to segment a text: by paragraph or by sentence segmentation (also referred to as “rule-based segmentation”).</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200413T192714Z" creationid="maximo" creationdate="20200413T192714Z">
+        <seg>В &lt;a0&gt;OmegaT&lt;/a0&gt; вбудовано два способи сегментації: розбиття на параграфи та розбиття на речення, яке ще називають "сегментація на базі правил".</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;a0&gt;Sponsorship of development has already resulted in the addition of certain features.&lt;/a0&gt; If you are willing to finance the work of implementing your desired feature, please contact the development team privately for a quotation.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="lesia" changedate="20200322T145739Z" creationid="lesia" creationdate="20200322T145719Z">
@@ -9491,6 +9499,14 @@ need not be entered.)</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20190820T110003Z" creationid="Kos Ivantsov" creationdate="20190820T110003Z">
         <seg>Якщо позначено, то у переліку перекладених термінів спочатку подаватимуться довші переклади</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If for example the original file is named Document.xx.docx, the following variables will give the following results:</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200413T192503Z" creationid="maximo" creationdate="20200413T192503Z">
+        <seg>Наприклад, якщо оригінальний файл називався Document.xx.docx, то цей синтаксис буде працювати так:</seg>
       </tuv>
     </tu>
     <tu>
@@ -21512,6 +21528,14 @@ linux-install.sh script, and execute the script with ./linux-install.sh.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20190807T191234Z" creationid="Kos Ivantsov" creationdate="20190807T191234Z">
         <seg>Тека для файлів пам’яті перекладів {0} не існує.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Translation memory tools work with textual units called segments.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200413T192530Z" creationid="maximo" creationdate="20200413T192530Z">
+        <seg>Інструменти на базі памʼяті перекладів працюють із текстовими одиницями, які називаються сегментами.</seg>
       </tuv>
     </tu>
     <tu>
