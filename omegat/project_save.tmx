@@ -20168,6 +20168,14 @@ the server.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>This option allows OmegaT to override the specification in the PO file header and use the default for the selected target language.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200413T105920Z" creationid="maximo" creationdate="20200413T105920Z">
+        <seg>Цей параметр дозволяє OmegaT переписати специфікацію у заголовку PO файла та використовувати стандартну для мови перекладу.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>This option is useful for some Chinese, Japanese or Korean character input systems.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="maximo" changedate="20200412T071548Z" creationid="maximo" creationdate="20200412T071548Z">
