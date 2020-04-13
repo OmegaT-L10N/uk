@@ -2936,6 +2936,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Aligner</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200413T170634Z" creationid="maximo" creationdate="20200413T170634Z">
+        <seg>Вирівнювання файлів</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Aligner "Accepted" Group</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20190819T191857Z" creationid="Kos Ivantsov" creationdate="20190819T191857Z">
@@ -10454,6 +10462,14 @@ click on that shortcut.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>It also contains installation instructions.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200413T170524Z" creationid="maximo" creationdate="20200413T170524Z">
+        <seg>Цей документ також містить інструкцію зі встановлення.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>It can also be obtained using the git command:</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="maximo" changedate="20200322T164003Z" creationid="maximo" creationdate="20200322T164003Z">
@@ -13181,6 +13197,14 @@ as the Applications folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>OmegaT 4.2 - User's Guide</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200413T170438Z" creationid="maximo" creationdate="20200413T170438Z">
+        <seg>OmegaT 4.2 - Посібник користувача</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>OmegaT &lt;s0&gt;the free translation memory tool&lt;/s0&gt;</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="maximo" changedate="20200322T170751Z" creationid="maximo" creationdate="20200322T170751Z">
@@ -13523,6 +13547,14 @@ installed on your system.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20190822T150250Z" creationid="Kos Ivantsov" creationdate="20190822T150250Z">
         <seg>Для роботи OmegaT необхідно, щоб у вашій системі було встановлене середовище виконання Java Runtime Environment (JRE) версії 1.8 або пізнішої.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>OmegaT team</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200413T170448Z" creationid="maximo" creationdate="20200413T170448Z">
+        <seg>Команда OmegaT</seg>
       </tuv>
     </tu>
     <tu>
@@ -15102,6 +15134,14 @@ project without team functionality.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20190821T154123Z" creationid="Kos Ivantsov" creationdate="20190821T154040Z">
         <seg>Файл проєкту повинен бути доступний через протокол HTTP.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Project folder</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200413T170658Z" creationid="maximo" creationdate="20200413T170658Z">
+        <seg>Тека проєкту</seg>
       </tuv>
     </tu>
     <tu>
@@ -18238,6 +18278,14 @@ The scope of a search is by default the project and can be set to be any files l
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Step 1: Adjust the alignment parameters</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200413T170615Z" creationid="maximo" creationdate="20200413T170615Z">
+        <seg>Крок 1. Налаштувати параметри вирівнювання</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Step 2: Make manual corrections</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20190821T212127Z" creationid="Kos Ivantsov" creationdate="20190821T212102Z">
@@ -20284,6 +20332,14 @@ the server.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="maximo" changedate="20200412T194759Z" creationid="maximo" creationdate="20200412T194759Z">
         <seg>В цьому діалозі перераховані доступні фільтри файлів.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This document is the official user's guide to OmegaT, the free Computer Aided Translation tool.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200413T170458Z" creationid="maximo" creationdate="20200413T170458Z">
+        <seg>Цей документ — офіційний посібник користувача по OmegaT, вільної системи автоматизованого перекладу.</seg>
       </tuv>
     </tu>
     <tu>
@@ -23471,6 +23527,14 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="maximo" changedate="20200412T053023Z" creationid="maximo" creationdate="20200412T053023Z">
         <seg>повтори слів</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>en</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200413T170417Z" creationid="maximo" creationdate="20200413T170417Z">
+        <seg>uk</seg>
       </tuv>
     </tu>
     <tu>
