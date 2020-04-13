@@ -1896,6 +1896,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;/e2&gt;The '*' character matches zero or more characters.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200413T184226Z" creationid="maximo" creationdate="20200413T184226Z">
+        <seg>&lt;/e2&gt;Символ '*' відповідає нулю чи більше будь-яких символів.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;EMPTY&gt;</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20190422T205220Z" creationid="Kos Ivantsov" creationdate="20190422T205220Z">
@@ -2996,6 +3004,14 @@ The current setting is {0}MB;</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20190817T205052Z" creationid="Kos Ivantsov" creationdate="20190817T205052Z">
         <seg>Усі тематичні області</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>All other characters represent themselves.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200413T184310Z" creationid="maximo" creationdate="20200413T184310Z">
+        <seg>Всі інші символи позначають самих себе.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8220,6 +8236,14 @@ provided (omegat.kaptn).</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="maximo" changedate="20200411T111248Z" creationid="maximo" creationdate="20200411T111248Z">
         <seg>Наприклад, якщо ви обрали ES-MX (мексиканська іспанська) як цільову мову, то файли словників мусять називатися es_MX.dic та es_MX.aff.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>For example, if you wish the text filter to handle readme files (&lt;l3&gt;readme, read.me&lt;/l3&gt;, and &lt;l4&gt;readme.txt&lt;/l4&gt;) you should use the pattern &lt;l5&gt;read*&lt;/l5&gt;.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200413T184421Z" creationid="maximo" creationdate="20200413T184421Z">
+        <seg>Наприклад, якщо ви хочете, щоб текстовий фільтр працював для файлів readme (&lt;l3&gt;readme, read.me&lt;/l3&gt;, та &lt;l4&gt;readme.txt&lt;/l4&gt;) ви можете використати шаблон &lt;l5&gt;read*&lt;/l5&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -19045,6 +19069,14 @@ current folder will be used instead.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="maximo" changedate="20200322T154242Z" creationid="maximo" creationdate="20200322T154242Z">
         <seg>Це версія з гілки "master", альфа-версія, ще у процесі розробки.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The '?' character matches exactly one character.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200413T184252Z" creationid="maximo" creationdate="20200413T184252Z">
+        <seg>Символ '?' відповідає рівно одному символу.</seg>
       </tuv>
     </tu>
     <tu>
