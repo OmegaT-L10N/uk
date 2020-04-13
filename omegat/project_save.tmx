@@ -20208,6 +20208,14 @@ the server.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>This dialog enables you to specify the source filename patterns for files to be processed by the filter, customize the filenames of translated files and select which encodings should be used for loading the source file and saving the translation.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200413T165350Z" creationid="maximo" creationdate="20200413T165350Z">
+        <seg>У діалоговому вікні можна налаштувати шаблон назви файлу оригінала, який оброблятиметься фільтром, та назви перекладеного файлу, а також встановити, які кодування будуть використовуватися для завантаження файлу та збереження його перекладу.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>This dialog is accessible by selecting &lt;m0&gt; &lt;g1&gt;Options&lt;/g1&gt; &lt;g2&gt;Preferences...&lt;/g2&gt; &lt;/m0&gt;</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="maximo" changedate="20200412T071223Z" creationid="maximo" creationdate="20200412T071223Z">
@@ -20542,6 +20550,14 @@ the server.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="lesia" changedate="20200412T053453Z" creationid="maximo" creationdate="20200329T200205Z">
         <seg>Для встановлення необхідних файлів у форматі StarDict необхідно виконати наступне:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To modify a file filter pattern, either modify the fields directly or click &lt;e0&gt;Edit&lt;/e0&gt;.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200413T165424Z" creationid="maximo" creationdate="20200413T165424Z">
+        <seg>Щоб налаштувати шаблон фільтра файлів, змінюйте відразу поля або натисніть на &lt;e0&gt;Редагувати.ґ&lt;/e0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
