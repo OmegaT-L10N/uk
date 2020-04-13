@@ -18526,6 +18526,14 @@ The scope of a search is by default the project and can be set to be any files l
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Technically speaking, the &lt;c0&gt;msgstr&lt;/c0&gt; segment in the PO target file, if created, will be left empty.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200413T105504Z" creationid="maximo" creationdate="20200413T105504Z">
+        <seg>З технічної точки зору, &lt;c0&gt;msgstr&lt;/c0&gt; сегменти у перекладеному PO файлі, у випадку створення будуть залишатися порожніми.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Template variables:</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20190819T112802Z" creationid="Kos Ivantsov" creationdate="20190819T112739Z">
