@@ -2224,6 +2224,22 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;l0&gt;${file-source-encoding}&lt;/l0&gt; - source file encoding</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200413T192011Z" creationid="maximo" creationdate="20200413T192011Z">
+        <seg>&lt;l0&gt;${file-source-encoding}&lt;/l0&gt; - кодування файлу для перекладу</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;l0&gt;${file-target-encoding}&lt;/l0&gt; - target file encoding</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200413T192030Z" creationid="maximo" creationdate="20200413T192030Z">
+        <seg>&lt;l0&gt;${file-target-encoding}&lt;/l0&gt; - кодування перекладеного файлу</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;l0&gt;${nameOnly}&lt;/l0&gt;– allows you to insert only the name of the source file without the extension.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="maximo" changedate="20200413T191258Z" creationid="maximo" creationdate="20200413T191258Z">
