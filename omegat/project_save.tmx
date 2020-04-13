@@ -12299,6 +12299,14 @@ itself on the first run.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>More precisely, OmegaT attempts to match each filter's source filename patterns against the filename.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200413T183539Z" creationid="maximo" creationdate="20200413T183539Z">
+        <seg>Точніше, OmegaT намагається перевірити, чи збігається якийсь із шаблонів кожного фільтра з іменем файлу.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Moses</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20190422T220015Z" creationid="Kos Ivantsov" creationdate="20190422T220015Z">
@@ -22497,6 +22505,14 @@ of selecting, obtaining and installing it.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20190422T210836Z" creationid="Kos Ivantsov" creationdate="20190422T210836Z">
         <seg>Що таке OmegaT?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>When OmegaT encounters a file in its source folder, it attempts to select the filter based upon the file's extension.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200413T183406Z" creationid="maximo" creationdate="20200413T183406Z">
+        <seg>Для кожного з файлів у теці для файлів для перекладу OmegaT намагається підібрати фільтр у відповідно до його розширення.</seg>
       </tuv>
     </tu>
     <tu>
