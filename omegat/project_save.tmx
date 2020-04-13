@@ -1968,6 +1968,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;auto&gt; leaves the choice of encoding to &lt;a1&gt;OmegaT&lt;/a1&gt;.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200413T185515Z" creationid="maximo" creationdate="20200413T185515Z">
+        <seg>Вибором варіанту &lt;auto&gt; ви залишаєте &lt;a1&gt;OmegaT&lt;/a1&gt; вибір кодування.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;br&gt;</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20190821T124516Z" creationid="Kos Ivantsov" creationdate="20190821T124516Z">
@@ -13453,6 +13461,14 @@ as the Applications folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>OmegaT identifies the source file encoding by using its encoding declaration, if present (HTML files, XML based files).</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200413T185719Z" creationid="maximo" creationdate="20200413T185719Z">
+        <seg>OmegaT визначає кодування файлу для перекладу шляхом перевірки оголошення системи кодування, якщо воно є (файли HTML та інші типи файлів, засновані на XML).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>OmegaT introduction tutorial</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="maximo" changedate="20200322T125456Z" creationid="maximo" creationdate="20200322T125456Z">
@@ -20524,6 +20540,14 @@ the server.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="lesia" changedate="20200323T101915Z" creationid="lesia" creationdate="20200321T151332Z">
         <seg>Тут вам дають свободу дій, а не просто дають щось на дурничку.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This is how it works:</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200413T185527Z" creationid="maximo" creationdate="20200413T185527Z">
+        <seg>Ось як воно працює:</seg>
       </tuv>
     </tu>
     <tu>
