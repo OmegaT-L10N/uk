@@ -2010,8 +2010,8 @@ The current setting is {0}MB;</seg>
       <tuv lang="EN">
         <seg>&lt;e0&gt;Do not translate the content of tags with the following attribute key-value pairs (separate with commas)&lt;/e0&gt;: if a tag matches the list of key-value pairs, its content will be ignored.</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="maximo" changedate="20200413T113107Z" creationid="maximo" creationdate="20200413T113107Z">
-        <seg>&lt;e0&gt;Не перекладати вміст тих теґів, що мають наступні пари «ключ-значення» (окремо через коми)&lt;/e0&gt;: якщо атрибути теґу збігаються з переліченими, не перекладати його вміст.</seg>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200413T113551Z" creationid="maximo" creationdate="20200413T113107Z">
+        <seg>&lt;e0&gt;Не перекладати вміст тих теґів, що мають наступні пари «ключ-значення» (окремо через коми)&lt;/e0&gt;: якщо серед атрибутів теґу зустрічаються якісь з перелічених - не перекладати його вміст.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8216,6 +8216,14 @@ provided (omegat.kaptn).</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>For the example above, the field would contain: &lt;l1&gt;class=hide, translate=no &lt;/l1&gt;.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200413T113438Z" creationid="maximo" creationdate="20200413T113438Z">
+        <seg>Для попереднього прикладу це будуть &lt;l1&gt;class=hide, translate=no &lt;/l1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>For this purpose download the following file and then execute it:</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20190822T210120Z" creationid="Kos Ivantsov" creationdate="20190822T210120Z">
@@ -10464,8 +10472,8 @@ click on that shortcut.</seg>
       <tuv lang="EN">
         <seg>It is sometimes useful to be able make certain tags untranslatable based on the values of their attributes.</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="maximo" changedate="20200413T113304Z" creationid="maximo" creationdate="20200413T113304Z">
-        <seg>Це іноді корисно, щоб ігнорувати вміст деяких теґів, основуючись на значеннях їх атрибутів.</seg>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200413T113626Z" creationid="maximo" creationdate="20200413T113304Z">
+        <seg>Це іноді корисно, щоб ігнорувати вміст теґів, основуючись на значеннях їх атрибутів.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11959,6 +11967,14 @@ itself on the first run.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="maximo" changedate="20200329T200617Z" creationid="maximo" creationdate="20200329T200617Z">
         <seg>Словник Мерріам-Вебстер - використання</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Microsoft Office Open XML files</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200413T113504Z" creationid="maximo" creationdate="20200413T113504Z">
+        <seg>Файли Microsoft Office Open XML</seg>
       </tuv>
     </tu>
     <tu>
@@ -22861,6 +22877,14 @@ start menu, the desktop or the quick launch area to link it from there.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20190807T182030Z" creationid="Kos Ivantsov" creationdate="20190807T182030Z">
         <seg>Записи глосарія можна створити, вибравши пункт «Створити запис у глосарії» в меню «Редагування».</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You can define key-value pairs for tags to be left untranslated.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200413T113412Z" creationid="maximo" creationdate="20200413T113337Z">
+        <seg>Ви можете визначити пари «ключ-значення», які вкажуть, що вміст теґу треба лишити неперекладеним.</seg>
       </tuv>
     </tu>
     <tu>
