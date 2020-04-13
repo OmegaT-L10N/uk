@@ -20746,8 +20746,8 @@ the server.</seg>
       <tuv lang="EN">
         <seg>This is especially useful when dealing with texts where inline formatting is not really useful (e.g., OCRed PDF, bad converted .odt or .docx, etc.) In a normal case it should always be possible to open the target documents, as only inline tags are removed.</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="lesia" changedate="20200413T201040Z" creationid="lesia" creationdate="20200413T201040Z">
-        <seg>(e.g., OCRed PDF, bad converted .odt or .docx, etc.) In a normal case it should always be possible to open the target documents, as only inline tags are removed.</seg>
+      <tuv lang="UK-UA" changeid="lesia" changedate="20200413T202027Z" creationid="lesia" creationdate="20200413T201040Z">
+        <seg>Це корисно там, де текстове форматування не мають особливого змісту (наприклад, розпізнані після сканування файли PDF, погано сконвертовані файли .odt чи .docx та ін.) Зазвичай після застосування цієї фукції завжди можна відкрити документ, оскільки вона забирає лише теґи текстових виділень.</seg>
       </tuv>
     </tu>
     <tu>
@@ -22895,8 +22895,8 @@ of selecting, obtaining and installing it.</seg>
       <tuv lang="EN">
         <seg>When enabled, all the formatting tags are removed from source segments.</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="lesia" changedate="20200413T200823Z" creationid="lesia" creationdate="20200413T200823Z">
-        <seg>Якщо ця функція активна, всі теґи форматування вилучаються з сегментів оригіналу.</seg>
+      <tuv lang="UK-UA" changeid="lesia" changedate="20200413T201046Z" creationid="lesia" creationdate="20200413T200823Z">
+        <seg>Якщо ця функція активна, усі теґи форматування вилучаються з сегментів оригіналу.</seg>
       </tuv>
     </tu>
     <tu>
