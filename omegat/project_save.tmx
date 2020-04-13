@@ -9230,6 +9230,14 @@ their defaults as a result of the location change.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If selected, when a segment in a PO file (which may be a whole paragraph) is not translated, the translation will be empty in the target file.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200413T105314Z" creationid="maximo" creationdate="20200413T105314Z">
+        <seg>Якщо стоїть цей прапорець, то неперекладені сегменти у PO файлі (це можуть бути і цілі параграфи) будуть порожніми у перекладеному файлі.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If the Auto-propagation check box is not checked, the segments with alternative translations are left untranslated until the user has decided which translation is to be used.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="lesia" changedate="20200412T202718Z" creationid="lesia" creationdate="20200412T202718Z">
@@ -21550,8 +21558,8 @@ on line {1}, column {2}.</seg>
       <tuv lang="EN">
         <seg>Use this feature when you have undocked, moved or hidden one or more components and you are unable to restore the desired arrangement.</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="maximo" changedate="20200412T142738Z" creationid="maximo" creationdate="20200412T142738Z">
-        <seg>Використовуйте цю опцію, якщо ви відкріпили, посунули чи сховали якийсь з компонентів і більш не можете відновити потрібне розташування.</seg>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200413T104924Z" creationid="maximo" creationdate="20200412T142738Z">
+        <seg>Використовуйте цю опцію, якщо ви відкріпили, посунули чи сховали якийсь із компонентів і більш не можете відновити потрібне розташування.</seg>
       </tuv>
     </tu>
     <tu>
