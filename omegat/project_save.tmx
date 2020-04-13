@@ -13529,6 +13529,14 @@ published by the Free Software Foundation, either version 3 of the License, or
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>OmegaT is instructed to use a mandatory encoding for certain file formats (Java properties etc).</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200413T185852Z" creationid="maximo" creationdate="20200413T185852Z">
+        <seg>Для деяких типів файлів OmegaT завжди використовує стандартну систему кодування. До них належать, зокрема файли properties мови Java.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>OmegaT is not particularly difficult to install or use, but it does require a willingness to read and follow the instructions.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="maximo" changedate="20200322T151328Z" creationid="maximo" creationdate="20200322T151328Z">
@@ -13667,6 +13675,14 @@ installed on your system.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20190822T145243Z" creationid="Kos Ivantsov" creationdate="20190822T145243Z">
         <seg>У програмі OmegaT використано кілька сторонніх бібліотек.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>OmegaT uses the default encoding of the operating system for text files.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200413T185953Z" creationid="maximo" creationdate="20200413T185953Z">
+        <seg>Для текстових файлів OmegaT використовує стандартне кодування операційної системи.</seg>
       </tuv>
     </tu>
     <tu>
