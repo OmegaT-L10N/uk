@@ -13761,6 +13761,14 @@ installed on your system.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Open Document Format (ODF) files</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200413T164808Z" creationid="maximo" creationdate="20200413T164808Z">
+        <seg>Файли Open Document Format (ODF)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Open MED Project...</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20190821T145417Z" creationid="Kos Ivantsov" creationdate="20190420T182338Z">
@@ -23055,6 +23063,14 @@ installation script (linux-install.sh).</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>You can select which of the following items are to be translated:</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200413T164819Z" creationid="maximo" creationdate="20200413T164819Z">
+        <seg>Ви можете обрати, які елементи будуть перекладатися</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>You can still find &lt;a0&gt;older, superseded versions&lt;/a0&gt; of OmegaT.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="lesia" changedate="20200323T214049Z" creationid="maximo" creationdate="20200322T155221Z">
@@ -23495,6 +23511,14 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20190823T145433Z" creationid="Kos Ivantsov" creationdate="20190823T145433Z">
         <seg>images/InstantGuide_2.png</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>index entries, bookmarks, bookmark references, notes, comments, presentation notes, links (URL), sheet names</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200413T165129Z" creationid="maximo" creationdate="20200413T165129Z">
+        <seg>елементи покажчика, закладки, посилання на закладки, примітки, коментарі, примітки до презентацій, посилання (URL), назви аркушів</seg>
       </tuv>
     </tu>
     <tu>
