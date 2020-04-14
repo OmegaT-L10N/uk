@@ -1936,10 +1936,26 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;a0&gt;OmegaT&lt;/a0&gt; first parses the text for structure-level segmentation.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200414T145141Z" creationid="maximo" creationdate="20200414T145141Z">
+        <seg>Спочатку &lt;a0&gt;OmegaT&lt;/a0&gt; парсить текст, виділяючи структурні елементи.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;a0&gt;OmegaT&lt;/a0&gt; has two ways to segment a text: by paragraph or by sentence segmentation (also referred to as “rule-based segmentation”).</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="maximo" changedate="20200413T192714Z" creationid="maximo" creationdate="20200413T192714Z">
         <seg>В &lt;a0&gt;OmegaT&lt;/a0&gt; вбудовано два способи сегментації: розбиття на параграфи та розбиття на речення, яке ще називають "сегментація на базі правил".</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;a0&gt;OmegaT&lt;/a0&gt; uses the following sequence of steps:</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200414T145048Z" creationid="maximo" creationdate="20200414T145048Z">
+        <seg>&lt;a0&gt;OmegaT&lt;/a0&gt; проводить сегментацію в такій послідовності:</seg>
       </tuv>
     </tu>
     <tu>
@@ -6822,6 +6838,14 @@ project_save.tmx не був переданий на віддалений сер
       </tuv>
       <tuv lang="UK-UA" changeid="maximo" changedate="20200322T162007Z" creationid="maximo" creationdate="20200322T162007Z">
         <seg>Під час встановлення ви можете отримати кілька попереджень від системи безпеки вашої операційної системи.&lt;br0/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>During this process it is only the structure of the source file that is used to produce segments.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200414T150203Z" creationid="maximo" creationdate="20200414T150203Z">
+        <seg>Під час цього сегментація відбувається лише по структурних елементах файлу для перекладу.</seg>
       </tuv>
     </tu>
     <tu>
