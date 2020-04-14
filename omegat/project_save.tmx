@@ -10380,6 +10380,14 @@ click on that shortcut.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>In view of the flexibility, you may consider defining more exception rules for your source language in order to provide more meaningful and coherent segments.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200414T200726Z" creationid="maximo" creationdate="20200414T200726Z">
+        <seg>Але з точки зору гнучкості, ви можете додати ще виключень, щоб досягнути правильнішої та когерентної сегментації.!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>In your file manager, create a new folder in a suitable location in which to store spelling dictionaries (D:\Translations\spellcheckers in the example below).</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="maximo" changedate="20200411T104227Z" creationid="maximo" creationdate="20200411T104227Z">
