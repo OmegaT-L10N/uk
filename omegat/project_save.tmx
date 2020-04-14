@@ -20271,6 +20271,14 @@ in /lib/licenses/Licenses.txt.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The predefined break rules should be sufficient for most European languages and Japanese.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200414T200502Z" creationid="maximo" creationdate="20200414T200502Z">
+        <seg>Для більшості європейських мов та японської стандартних правил сегментації має вистачати.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The predominant way of segmenting the sources is the sentence-level segmenting, so this check box should in a normal case be left checked.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="lesia" changedate="20200412T200140Z" creationid="lesia" creationdate="20200412T200140Z">
@@ -21190,6 +21198,14 @@ the server.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="maximo" changedate="20200414T193735Z" creationid="maximo" creationdate="20200414T193735Z">
         <seg>Щоб правило працювало саме як правило розриву, поставте прапорець Розрив/Виключення.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To define a rule as an exception rule, leave the Break/Exception check box unticked.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200414T200403Z" creationid="maximo" creationdate="20200414T200403Z">
+        <seg>Щоб правило працювало як вийняток, заберіть прапорець Розрив/Виключення.</seg>
       </tuv>
     </tu>
     <tu>
