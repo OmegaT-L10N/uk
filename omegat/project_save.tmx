@@ -5982,6 +5982,14 @@ Buy another drink</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Dependable segmentation rules are already available for many languages, so it is likely that you will not need to get involved with writing your own segmentation rules.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200414T101719Z" creationid="maximo" creationdate="20200414T101719Z">
+        <seg>Для більшості мов вже є досить надійні правила сегментації, тому вам скоріш за все не доведеться їх писати самим.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Depending on the pane status, different signs can appear at its top right corner:</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="maximo" changedate="20200412T175345Z" creationid="maximo" creationdate="20200412T175345Z">
@@ -9610,6 +9618,14 @@ their defaults as a result of the location change.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="maximo" changedate="20200413T105314Z" creationid="maximo" creationdate="20200413T105314Z">
         <seg>Якщо стоїть цей прапорець, то неперекладені сегменти у PO файлі (це можуть бути і цілі параграфи) будуть порожніми у перекладеному файлі.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If sentence segmentation has been selected, you can setup the rules by selecting &lt;m4&gt; &lt;g5&gt;Options&lt;/g5&gt; &lt;g6&gt;Segmentation...&lt;/g6&gt; &lt;/m4&gt;from the main menu.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200414T101531Z" creationid="maximo" creationdate="20200414T101531Z">
+        <seg>Якщо обрана сегментація на речення, ви можете налаштовувати окремі правила, обравши &lt;m4&gt;&lt;g5&gt;Налаштування&lt;/g5&gt; &lt;g6&gt;Сегментація...&lt;/g6&gt;&lt;/m4&gt; із головного меню.</seg>
       </tuv>
     </tu>
     <tu>
