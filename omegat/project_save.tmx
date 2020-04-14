@@ -7722,6 +7722,14 @@ No one hears your screams</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Exception rule</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200414T193754Z" creationid="maximo" creationdate="20200414T193754Z">
+        <seg>Виключення</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Exception while editing options:</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20190817T141553Z" creationid="Kos Ivantsov" creationdate="20190817T141553Z">
@@ -10328,6 +10336,14 @@ click on that shortcut.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="lesia" changedate="20200412T200334Z" creationid="lesia" creationdate="20200412T200334Z">
         <seg>Інколи перекладачу зручніше працювати з іншою сегментацією оригіналу, наприклад, за абзацами.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>In spite of the period, &lt;e0&gt;"Mrs. Dalloway "&lt;/e0&gt; should not be split in two segments, so an exception rule should be established for Mrs (and for Mr, for Dr, for prof etc), followed by a period.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200414T200320Z" creationid="maximo" creationdate="20200414T200320Z">
+        <seg>Наприклад, не зважаючи на крапку, &lt;e0&gt;"вул. Сонячна"&lt;/e0&gt; має лишатися в одному сегменті. Тому треба, щоб для випадку, коли після вул (а також пров, просп, пл, наб і т.п.) йде крапка, був зроблений вийняток.</seg>
       </tuv>
     </tu>
     <tu>
@@ -24457,6 +24473,14 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="maximo" changedate="20200322T150040Z" creationid="maximo" creationdate="20200322T150040Z">
         <seg>певна версія</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>specify what parts of text should NOT be separated.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200414T193833Z" creationid="maximo" creationdate="20200414T193833Z">
+        <seg>Вказує, які частини тексту не мають розділятися.</seg>
       </tuv>
     </tu>
     <tu>
