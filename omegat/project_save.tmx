@@ -8174,6 +8174,14 @@ Gossamer threads hold you back
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Files containing formatting (ODF documents, HTML documents, etc.) are segmented on the block-level (paragraph) tags.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200414T150548Z" creationid="maximo" creationdate="20200414T150548Z">
+        <seg>Файли, що містять форматування (документи ODF, HTML, та інші), розділяються по теґам абзаців.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Files in Microsoft Office XML format can be translated directly in OmegaT.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="maximo" changedate="20200322T150624Z" creationid="maximo" creationdate="20200322T150624Z">
@@ -8460,6 +8468,14 @@ provided (omegat.kaptn).</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="maximo" changedate="20200405T184110Z" creationid="maximo" creationdate="20200405T184040Z">
         <seg>Для прикладу, в стандартних комбінаціях OmegaT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>For example, text files may be segmented on line breaks, empty lines, or not be segmented at all.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200414T150333Z" creationid="maximo" creationdate="20200414T150333Z">
+        <seg>Наприклад, текстові файли можуть бути розбиті по символах нового рядка, по пустих рядках або не розбиватися взагалі.</seg>
       </tuv>
     </tu>
     <tu>
