@@ -3708,6 +3708,14 @@ may experience unexpected, but correct behaviour.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>At each cursor position rules, consisting of a &lt;e0&gt;Before &lt;/e0&gt;and &lt;e1&gt;After &lt;/e1&gt;pattern, are applied in their given order to see if any of the&lt;e2&gt; Before&lt;/e2&gt; patterns are valid for the text on the left and the corresponding &lt;e3&gt;After&lt;/e3&gt; pattern for the text on the right of the cursor.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200414T185058Z" creationid="maximo" creationdate="20200414T185058Z">
+        <seg>В кожній позиції курсора OmegaT у вказаній послідовності перевіряє правила, що складаються із шаблонів &lt;e0&gt;До&lt;/e0&gt; і &lt;e1&gt;Після&lt;/e1&gt;. Ця перевірка полягає в порівнянні шаблонів &lt;e2&gt;До&lt;/e2&gt; із текстом зліва від курсора, та шаблонів &lt;e3&gt;Після&lt;/e3&gt; із текстом справа від курсора.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>At the end of your translation, OmegaT exports three translation memories called &lt;c0&gt;level1&lt;/c0&gt;, &lt;c1&gt;level2&lt;/c1&gt; and &lt;c2&gt;omegat&lt;/c2&gt; to your project folder.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20190823T145935Z" creationid="Kos Ivantsov" creationdate="20190823T145635Z">
@@ -20233,8 +20241,8 @@ in /lib/licenses/Licenses.txt.</seg>
       <tuv lang="EN">
         <seg>The process of segmenting can be pictured as follows: the cursor moves along the text, one character at a time.</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="maximo" changedate="20200414T184430Z" creationid="maximo" creationdate="20200414T184113Z">
-        <seg>Процес сегментації можна описати таким чином: по тексту, один символ за раз, рухається кThe process of segmenting can be pictured as follows: the cursor moves along the text, one character at a time.</seg>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200414T184639Z" creationid="maximo" creationdate="20200414T184113Z">
+        <seg>Процес сегментації можна описати таким чином: по тексту, один символ за раз, рухається курсор.</seg>
       </tuv>
     </tu>
     <tu>
