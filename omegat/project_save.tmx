@@ -9752,8 +9752,8 @@ their defaults as a result of the location change.</seg>
       <tuv lang="EN">
         <seg>If the rule matches, either the cursor moves on without inserting a segment break (for an exception rule) or a new segment break is created at the current cursor position (for the break rule).</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="maximo" changedate="20200414T185928Z" creationid="maximo" creationdate="20200414T185928Z">
-        <seg>Якщо правило спрацьовує, то курсор або продовжує свій рух (для виключень), або створює межу сегментів в позиції курсора (для правила сегментації).</seg>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200414T190042Z" creationid="maximo" creationdate="20200414T185928Z">
+        <seg>Якщо правило спрацьовує, то курсор або продовжує свій рух (для виключень), або створює межу сегментів в позиції курсора (для правила розриву).</seg>
       </tuv>
     </tu>
     <tu>
@@ -20499,6 +20499,14 @@ in /lib/licenses/Licenses.txt.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20190807T151124Z" creationid="Kos Ivantsov" creationdate="20190807T151124Z">
         <seg>Перекладач може додати зауваження та нотатки до поточного сегмента. Вони можуть призначені, наприклад, для того, щоб згодом повернутися до сегмента та переробити переклад, або перевірити, чи правильно було підібрано варіант перекладу, або запитати думку колег.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The two types of rules behave as follows:</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200414T190338Z" creationid="maximo" creationdate="20200414T190338Z">
+        <seg>Ці два типи правил мають таку поведінку:</seg>
       </tuv>
     </tu>
     <tu>
