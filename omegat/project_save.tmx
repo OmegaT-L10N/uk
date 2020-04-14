@@ -21170,6 +21170,14 @@ the server.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>To define a rule as a break rule, tick the Break/Exception check box.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200414T193735Z" creationid="maximo" creationdate="20200414T193735Z">
+        <seg>Щоб правило працювало саме як правило розриву, поставте прапорець Розрив/Виключення.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>To edit the files and encodings a filter is used for, select the filter in the list and click &lt;e1&gt;Edit.&lt;/e1&gt;</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="maximo" changedate="20200412T195521Z" creationid="maximo" creationdate="20200412T195521Z">
