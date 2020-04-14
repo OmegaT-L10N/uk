@@ -14009,6 +14009,14 @@ installed on your system.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>On the other hand this functionality can be very useful in special cases, where you can increase your productivity by tuning the segmentation rules to the text to be translated.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200414T142911Z" creationid="maximo" creationdate="20200414T142911Z">
+        <seg>З іншого боку, ця можливість може бути зручною в певних випадках, де ви зможете збільшити свою продуктивність шляхом налаштування правил сегментації для свого конкретного випадку.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Once a user has formulated a proposed change or enhancement to OmegaT, a defined procedure exists for its submission to the development team for consideration.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="lesia" changedate="20200322T144557Z" creationid="lesia" creationdate="20200322T144557Z">
