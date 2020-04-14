@@ -3002,8 +3002,8 @@ The current setting is {0}MB;</seg>
       <tuv lang="EN">
         <seg>After segmenting the source file into structural units, &lt;a0&gt;OmegaT&lt;/a0&gt; will segment these blocks further into sentences.</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="maximo" changedate="20200414T161144Z" creationid="maximo" creationdate="20200414T161144Z">
-        <seg>ПісляAfter segmenting the source file into structural units, &lt;a0&gt;OmegaT&lt;/a0&gt; will segment these blocks further into sentences.</seg>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200414T184056Z" creationid="maximo" creationdate="20200414T161144Z">
+        <seg>Після розбиття файлу для перекладу на структурні одиниці &lt;a0&gt;OmegaT&lt;/a0&gt; далі розділяє ці блоки на речення.</seg>
       </tuv>
     </tu>
     <tu>
@@ -20227,6 +20227,14 @@ in /lib/licenses/Licenses.txt.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="maximo" changedate="20200412T140449Z" creationid="maximo" creationdate="20200412T140449Z">
         <seg>Опис процесу налаштування доступу до сервісів Microsoft Translator та Google Translate можна знайти &lt;u0&gt;тут&lt;/u0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The process of segmenting can be pictured as follows: the cursor moves along the text, one character at a time.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200414T184113Z" creationid="maximo" creationdate="20200414T184113Z">
+        <seg>ПроцесThe process of segmenting can be pictured as follows: the cursor moves along the text, one character at a time.</seg>
       </tuv>
     </tu>
     <tu>
