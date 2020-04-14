@@ -4152,6 +4152,14 @@ Buy another drink</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Break rule</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200414T190349Z" creationid="maximo" creationdate="20200414T190349Z">
+        <seg>Правило розриву</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Break/Exception</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20190819T104958Z" creationid="Kos Ivantsov" creationdate="20190819T104958Z">
@@ -8412,6 +8420,14 @@ provided (omegat.kaptn).</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="maximo" changedate="20200412T071826Z" creationid="maximo" creationdate="20200412T071826Z">
         <seg>Може бути, що з причин конфіденційності ви не схочете відсилати всі сегменти на машинний переклад автоматично.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>For example, "&lt;e0&gt;Did it make sense?</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200414T190518Z" creationid="maximo" creationdate="20200414T190518Z">
+        <seg>Наприклад, "&lt;e0&gt;Did it make sense?</seg>
       </tuv>
     </tu>
     <tu>
@@ -17832,6 +17848,14 @@ The scope of a search is by default the project and can be set to be any files l
       </tuv>
       <tuv lang="UK-UA" changeid="maximo" changedate="20200412T202013Z" creationid="maximo" creationdate="20200412T202013Z">
         <seg>Сегментація за реченнями</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Separates the source text into segments.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200414T190415Z" creationid="maximo" creationdate="20200414T190415Z">
+        <seg>Розбиває текст оригіналу на сегменти.</seg>
       </tuv>
     </tu>
     <tu>
