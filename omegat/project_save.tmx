@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.2_0_6a661c5e" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.2_0_6a661c5e0" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -10160,6 +10160,14 @@ click on that shortcut.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="lesia" changedate="20200323T214720Z" creationid="maximo" creationdate="20200322T155612Z">
         <seg>Для роботи OmegaT необхідно, щоб у вас на комп'ютері було встановлене середовище Java - Java Runtime Environment (JRE).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>In order to select the type of segmentation, select &lt;m1&gt; &lt;g2&gt;Project&lt;/g2&gt; &lt;g3&gt;Properties...&lt;/g3&gt; &lt;/m1&gt; from the main menu and tick or untick the check box provided.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200414T095642Z" creationid="maximo" creationdate="20200414T095642Z">
+        <seg>Для вибору типу сегментації перейдіть в основному меню у &lt;m1&gt; &lt;g2&gt;Проєкт&lt;/g2&gt; &lt;g3&gt;Властивості...&lt;/g3&gt; &lt;/m1&gt; а там поставте потрібний прапорець.</seg>
       </tuv>
     </tu>
     <tu>
