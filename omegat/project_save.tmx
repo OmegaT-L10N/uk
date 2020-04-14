@@ -8426,8 +8426,8 @@ provided (omegat.kaptn).</seg>
       <tuv lang="EN">
         <seg>For example, "&lt;e0&gt;Did it make sense?</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="maximo" changedate="20200414T190518Z" creationid="maximo" creationdate="20200414T190518Z">
-        <seg>Наприклад, "&lt;e0&gt;Did it make sense?</seg>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200414T190624Z" creationid="maximo" creationdate="20200414T190518Z">
+        <seg>Наприклад, "&lt;e0&gt;Що це таке?</seg>
       </tuv>
     </tu>
     <tu>
@@ -8620,6 +8620,14 @@ provided (omegat.kaptn).</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="lesia" changedate="20200322T141804Z" creationid="lesia" creationdate="20200322T141804Z">
         <seg>Для цього існує &lt;a0&gt;список розсилки для розробників&lt;/a0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>For this to happen, there should be a break rule for "?", when followed by spaces and a capitalized word.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200414T190803Z" creationid="maximo" creationdate="20200414T190609Z">
+        <seg>Щоб це відбулося, серед правил сегментації має бути правило для "?", після якого через пробіл іде слово з великої букви.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9424,6 +9432,14 @@ Its winter has come</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20190821T163315Z" creationid="Kos Ivantsov" creationdate="20190821T163315Z">
         <seg>Я розумію; все одно продовжити</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>I was not sure&lt;/e0&gt;." should be split into two segments.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200414T190646Z" creationid="maximo" creationdate="20200414T190543Z">
+        <seg>Я не знаю напевне.&lt;/e0&gt;" має розділятися на два сегмента.</seg>
       </tuv>
     </tu>
     <tu>
