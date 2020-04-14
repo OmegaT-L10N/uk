@@ -21435,6 +21435,14 @@ linux-install.sh script, and execute the script with ./linux-install.sh.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Translatable object attributes in XHTML or HTML files can be extracted as separate segments.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200414T160919Z" creationid="maximo" creationdate="20200414T160919Z">
+        <seg>Якщо деякі атрибути у файлах XHTML чи HTML вибрані для перекладу, то вони будуть відображатися як окремі сегменти.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Translate the file</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20190516T204954Z" creationid="Kos Ivantsov" creationdate="20190516T204954Z">
