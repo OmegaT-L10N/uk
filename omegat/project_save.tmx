@@ -14472,6 +14472,14 @@ Vanishing like mist</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Paragraph segmentation is advantageous in certain cases, such as highly creative or stylistic translations in which the translator may wish to change the order of entire sentences; for the majority of projects, however, sentence segmentation is a choice to be preferred, since it delivers better matches from previous translations.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200414T101401Z" creationid="maximo" creationdate="20200414T101401Z">
+        <seg>Сегментація на параграфи в деяких випадках має переваги. Наприклад, для художнього перекладу, де перекладач може захотіти змінити порядок чи кількість речень. Але для більшості проєктів краще обирати сегментацію на речення, бо вона дає більше збігів з попередніми перекладами.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Paragraph segmentation on line breaks, empty lines or never:</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="maximo" changedate="20200412T202552Z" creationid="maximo" creationdate="20200412T202552Z">
