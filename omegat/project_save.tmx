@@ -16832,6 +16832,14 @@ These words: 'Page not found'</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Rule priority</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200415T070559Z" creationid="maximo" creationdate="20200415T070559Z">
+        <seg>Пріоритет правил</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Rules</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20190821T135939Z" creationid="Kos Ivantsov" creationdate="20190821T135939Z">
