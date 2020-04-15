@@ -3312,6 +3312,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>An empty line will appear at the bottom of the upper table (you may have to scroll down to see it).</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200415T110820Z" creationid="maximo" creationdate="20200415T110820Z">
+        <seg>Внизу верхньої таблички з'явиться пустий рядок. Щоб побачити його, вам може бути треба промотати її вниз.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>An error occurred</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20190422T215535Z" creationid="Kos Ivantsov" creationdate="20190422T215535Z">
@@ -4540,6 +4548,14 @@ Buy another drink</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20190821T115410Z" creationid="Kos Ivantsov" creationdate="20190821T115410Z">
         <seg>Дата зміни</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Change the name of the rule set and the language pattern to the language concerned and its code.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200415T111022Z" creationid="maximo" creationdate="20200415T111022Z">
+        <seg>Змініть назву набору правил та шаблон коду мови.</seg>
       </tuv>
     </tu>
     <tu>
