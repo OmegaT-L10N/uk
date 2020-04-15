@@ -3184,6 +3184,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>All segmentation rule sets for a matching language pattern are active and are applied in the given order of priority, so rules for specific language should be higher than default ones.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200415T105758Z" creationid="maximo" creationdate="20200415T105758Z">
+        <seg>Всі правила, для яких спрацьовує шаблон коду мови, активні і будуть перевірятися у порядку, в якому вони перелічені. Тому правила для конкретної мови чи діалекту варто розташовувати вище за стандартні правила.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Allo&amp;w tag editing</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20190820T164044Z" creationid="Kos Ivantsov" creationdate="20190819T112340Z">
