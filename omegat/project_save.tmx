@@ -10316,6 +10316,22 @@ click on that shortcut.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>In order to create an empty set of rules for a new language pattern click &lt;e0&gt;Add &lt;/e0&gt;in the upper half of the dialog.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200415T110642Z" creationid="maximo" creationdate="20200415T110642Z">
+        <seg>Щоб створити новий набір правил для нового шаблону мови, натисніть &lt;e0&gt;Додати&lt;/e0&gt; у верхній половині діалогового вікна.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>In order to edit or expand an existing set of rules, simply click on it in the top table.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200415T110458Z" creationid="maximo" creationdate="20200415T110458Z">
+        <seg>Щоб змінити чи розширити існуючий набір правил, просто натисніть на нього у верхній табличці.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>In order to install the Web start version, you must already have Java version 1.3 or later installed on your computer.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="lesia" changedate="20200323T221554Z" creationid="maximo" creationdate="20200322T162639Z">
@@ -20411,6 +20427,14 @@ in /lib/licenses/Licenses.txt.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="maximo" changedate="20200412T044144Z" creationid="maximo" creationdate="20200412T044144Z">
         <seg>У OmegaT для пошуку, чи у правилах сегментації використовуються регулярні вирази Java.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The rules for that set will appear in the bottom half of the window.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200415T110541Z" creationid="maximo" creationdate="20200415T110541Z">
+        <seg>У нижній половині вікна ви побачите правила із цього набору.</seg>
       </tuv>
     </tu>
     <tu>
