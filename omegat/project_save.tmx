@@ -3186,8 +3186,8 @@ The current setting is {0}MB;</seg>
       <tuv lang="EN">
         <seg>All segmentation rule sets for a matching language pattern are active and are applied in the given order of priority, so rules for specific language should be higher than default ones.</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="maximo" changedate="20200415T105758Z" creationid="maximo" creationdate="20200415T105758Z">
-        <seg>Всі правила, для яких спрацьовує шаблон коду мови, активні і будуть перевірятися у порядку, в якому вони перелічені. Тому правила для конкретної мови чи діалекту варто розташовувати вище за стандартні правила.</seg>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200415T111053Z" creationid="maximo" creationdate="20200415T105758Z">
+        <seg>Всі правила, для яких спрацьовує шаблон назви мови, активні і будуть перевірятися у порядку, в якому вони перелічені. Тому правила для конкретної мови чи діалекту варто розташовувати вище за стандартні правила.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4554,8 +4554,8 @@ Buy another drink</seg>
       <tuv lang="EN">
         <seg>Change the name of the rule set and the language pattern to the language concerned and its code.</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="maximo" changedate="20200415T111022Z" creationid="maximo" creationdate="20200415T111022Z">
-        <seg>Змініть назву набору правил та шаблон коду мови.</seg>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200415T111038Z" creationid="maximo" creationdate="20200415T111022Z">
+        <seg>Змініть назву набору правил та шаблон назви мови.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10438,8 +10438,8 @@ click on that shortcut.</seg>
       <tuv lang="EN">
         <seg>In view of the flexibility, you may consider defining more exception rules for your source language in order to provide more meaningful and coherent segments.</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="maximo" changedate="20200415T070541Z" creationid="maximo" creationdate="20200414T200726Z">
-        <seg>Але з точки зору гнучкості, ви можете додати ще виключень для мови, з якої ви перекладаєте, щоб досягнути правильнішої та когерентної сегментації.</seg>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200415T111114Z" creationid="maximo" creationdate="20200414T200726Z">
+        <seg>Але з точки зору гнучкості, ви можете додати ще виключень для мови, з якої ви перекладаєте, щоб досягнути правильнішої та когерентнішої сегментації.</seg>
       </tuv>
     </tu>
     <tu>
