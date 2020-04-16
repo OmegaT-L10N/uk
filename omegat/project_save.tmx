@@ -78,6 +78,22 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>"\." stands for the period character.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200416T090745Z" creationid="maximo" creationdate="20200416T090745Z">
+        <seg>"\." позначає символ крапки.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>"\s" means any white space character (space, tab, new page etc.)</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200416T090844Z" creationid="maximo" creationdate="20200416T090844Z">
+        <seg>"\s" позначає будь-який пробільний символ (пробіл, табуляцію, символ нової сторінки і т.п.)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>#Files</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20190504T130939Z" creationid="Kos Ivantsov" creationdate="20190504T130939Z">
@@ -2528,6 +2544,22 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>A few simple examples</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200416T090607Z" creationid="maximo" creationdate="20200416T090607Z">
+        <seg>Кілька простих прикладів</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>A good starting point will always be the existing rules.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200416T090552Z" creationid="maximo" creationdate="20200416T090552Z">
+        <seg>Хорошим початком буде редагування існуючих правил.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>A nice collection of useful regex cases can be found in &lt;a0&gt;OmegaT&lt;/a0&gt; itself (see Options &gt; Segmentation).</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="maximo" changedate="20200412T052739Z" creationid="maximo" creationdate="20200412T052739Z">
@@ -3004,6 +3036,14 @@ The current setting is {0}MB;</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="maximo" changedate="20200321T130923Z" creationid="maximo" creationdate="20200321T130923Z">
         <seg>Адміністрація</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>After</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200416T090630Z" creationid="maximo" creationdate="20200416T090630Z">
+        <seg>Шаблон після</seg>
       </tuv>
     </tu>
     <tu>
@@ -4092,6 +4132,14 @@ Buy another drink</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20190516T205646Z" creationid="Kos Ivantsov" creationdate="20190516T205646Z">
         <seg>Прикрасити XML в обробленому файлі DOCX</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Before</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200416T090624Z" creationid="maximo" creationdate="20200416T090624Z">
+        <seg>Шаблон до</seg>
       </tuv>
     </tu>
     <tu>
@@ -10798,6 +10846,14 @@ click on that shortcut.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Intention</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200416T090615Z" creationid="maximo" creationdate="20200416T090615Z">
+        <seg>Мета</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Interface to Google Translate</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="maximo" changedate="20200322T174009Z" creationid="maximo" creationdate="20200322T172037Z">
@@ -17474,6 +17530,14 @@ The scope of a search is by default the project and can be set to be any files l
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>See &lt;l2&gt;Regular expressions&lt;/l2&gt;.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200416T090520Z" creationid="maximo" creationdate="20200416T090520Z">
+        <seg>Див. &lt;l2&gt;Регулярні вирази&lt;/l2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>See &lt;m1&gt;&lt;g2&gt;Options&lt;/g2&gt;&lt;g3&gt;Preferences...&lt;/g3&gt;&lt;g4&gt;File Filters&lt;/g4&gt;&lt;/m1&gt; for a list of file formats that OmegaT can handle.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20190822T155630Z" creationid="Kos Ivantsov" creationdate="20190822T155451Z">
@@ -18072,6 +18136,14 @@ The scope of a search is by default the project and can be set to be any files l
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20190421T171746Z" creationid="Kos Ivantsov" creationdate="20190421T171746Z">
         <seg>Зробити переклад порожнім</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Set the segment start after a period ('.') followed by a space, tab ...</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200416T090728Z" creationid="maximo" creationdate="20200416T090728Z">
+        <seg>Додати початок речення після крапки ('.'), за якою йде пробіл, табуляція ...</seg>
       </tuv>
     </tu>
     <tu>
