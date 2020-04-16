@@ -9694,6 +9694,14 @@ not be entered.)</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If &lt;e0&gt;Show Relevant Suggestions Automatically&lt;/e0&gt; option is checked, Auto-completer is launched automatically by typing the first letter of a translated glossary entry, or by typing "&lt;" in case of tags.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200416T100027Z" creationid="maximo" creationdate="20200416T100027Z">
+        <seg>Якщо поставити прапорець &lt;e0&gt;Автоматично показувати відповідні пропозиції&lt;/e0&gt;, то автодоповнення буде показуватися автоматично з першої літери збігу чи "&lt;" у випадку теґів.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If HTML file has the encoding declaration, it will be used disregarding any value you set in this dialog.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20190815T133238Z" creationid="Kos Ivantsov" creationdate="20190814T101834Z">
@@ -13937,6 +13945,14 @@ as the Applications folder.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="lesia" changedate="20200324T174639Z" creationid="maximo" creationdate="20200322T161430Z">
         <seg>OmegaT для Mac OS X доступна як у завіреному, так і в незавіреному вигляді. Функціонально вони ідентичні, але завірену версію система розпізнає як таку, що була опублікована відомим розробником.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>OmegaT has a built-in spell checker based on the &lt;l0&gt;spelling checker&lt;/l0&gt; used in Apache OpenOffice, LibreOffice, Firefox and Thunderbird.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200416T100121Z" creationid="maximo" creationdate="20200416T100121Z">
+        <seg>В OmegaT вбудована &lt;l0&gt;перевірка правопису&lt;/l0&gt; на базі того, що використовується у Apache OpenOffice, LibreOffice, Firefox та Thunderbird.</seg>
       </tuv>
     </tu>
     <tu>
