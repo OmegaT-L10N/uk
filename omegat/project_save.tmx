@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_11_r10546" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.2_0_6a661c5e0" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -10158,6 +10158,14 @@ to use Java Web Start.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="lesia" changedate="20200323T223236Z" creationid="maximo" creationdate="20200322T180933Z">
         <seg>Якщо ви програмуєте і знаєте Java, прочитайте про те, як можна почати допомагати проєкту у &lt;a0&gt;вихідному коді&lt;/a0&gt; у директорії /docs_devel.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If your set of rules handles a language-country pair, we advise you to move it to the top using the &lt;e1&gt;Move Up&lt;/e1&gt; button.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200416T090253Z" creationid="maximo" creationdate="20200416T090253Z">
+        <seg>Якщо ваш набір правил працює для пари мова-країна, її варто посунути вверх за допомогою кнопкиIf your set of rules handles a language-country pair, we advise you to move it to the top using the &lt;e1&gt;Move Up&lt;/e1&gt; button.</seg>
       </tuv>
     </tu>
     <tu>
@@ -20587,6 +20595,14 @@ in /lib/licenses/Licenses.txt.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="maximo" changedate="20200411T135400Z" creationid="maximo" creationdate="20200411T135400Z">
         <seg>Перевірка правопису використовує код цільової мови, щоб визначити, який словник використовувати. Якщо цільова мова - бразильська португальська (PT_BR), тека зі словниками мусить мати два файла словників: &lt;e0&gt;pt_br.aff&lt;/e0&gt; та &lt;e1&gt;pt_br.dic&lt;/e1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The syntax of the language pattern conforms to regular expression syntax.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200416T090122Z" creationid="maximo" creationdate="20200416T090122Z">
+        <seg>Для шаблону назви мови використовуються регулярні вирази.</seg>
       </tuv>
     </tu>
     <tu>
