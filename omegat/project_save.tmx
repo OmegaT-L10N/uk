@@ -10022,6 +10022,14 @@ their defaults as a result of the location change.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If this option is checked, when a fuzzy match is inserted, either manually or automatically, OmegaT attempts to convert the numbers in the fuzzy matches according to the source contents.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200416T213237Z" creationid="maximo" creationdate="20200416T213237Z">
+        <seg>Якщо цей параметр активний, то коли вставляється нечіткий збіг, неважливо, вручну, чи автоматично, OmegaT намагається підставити в результат числа із тексту оригіналу.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If this option is selected, OmegaT will not remember the access key between sessions.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="maximo" changedate="20200412T141844Z" creationid="maximo" creationdate="20200412T141844Z">
@@ -20159,6 +20167,14 @@ Please try to correct the error and reload the project.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="maximo" changedate="20200412T045207Z" creationid="maximo" creationdate="20200412T045207Z">
         <seg>Символ x, за виключенням...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The check boxes in the lower half of the dialog window serve the following purpose:</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200416T213058Z" creationid="maximo" creationdate="20200416T213058Z">
+        <seg>Прапорці в нижній половині діалогового вікна дмають такі ролі:</seg>
       </tuv>
     </tu>
     <tu>
