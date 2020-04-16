@@ -5072,6 +5072,14 @@ Buy another drink</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Click on &lt;g0&gt;Auto-text...&lt;/g0&gt; to configure Auto-text options and to add or remove entries.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200416T095528Z" creationid="maximo" creationdate="20200416T095528Z">
+        <seg>Натисніть &lt;g0&gt;Авто-текст...&lt;/g0&gt;, щоб налаштувати параметри авто-тексту та щоб додати чи видалити елементи.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Click on &lt;g0&gt;Glossary...&lt;/g0&gt; to configure the Auto-completer Glossary View.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="maximo" changedate="20200416T095407Z" creationid="maximo" creationdate="20200416T095407Z">
