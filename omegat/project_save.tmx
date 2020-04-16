@@ -6575,6 +6575,14 @@ Buy another drink</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Do not segment after Mr.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200416T090914Z" creationid="maximo" creationdate="20200416T090914Z">
+        <seg>Не розбивати після Mr.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Do not translate the content attribute of meta-tags with the following attribute key-value pairs (separate with commas):</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20190814T103604Z" creationid="Kos Ivantsov" creationdate="20190814T103604Z">
@@ -13453,6 +13461,14 @@ as the Applications folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Note that &lt;l0&gt;after&lt;/l0&gt; is empty</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200416T091115Z" creationid="maximo" creationdate="20200416T091115Z">
+        <seg>Зверніть увагу, що &lt;l0&gt;Шаблон після&lt;/l0&gt; пустий</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Note that in addition to "source-target" dictionaries you can, using the Dictionary feature, obtain access to information such as:</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="maximo" changedate="20200329T200436Z" creationid="maximo" creationdate="20200329T200436Z">
@@ -18132,6 +18148,14 @@ The scope of a search is by default the project and can be set to be any files l
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Set a segment after "。" (Japanese period)</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200416T091046Z" creationid="maximo" creationdate="20200416T091046Z">
+        <seg>Сегментувати текст після "。" (японська крапка)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Set empty translation</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20190421T171746Z" creationid="Kos Ivantsov" creationdate="20190421T171746Z">
@@ -20996,6 +21020,14 @@ the server.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20190821T154315Z" creationid="Kos Ivantsov" creationdate="20190821T154315Z">
         <seg>Ця URL-адреса здається хибною.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This an exception rule, so the rule check box must not be ticked</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200416T091004Z" creationid="maximo" creationdate="20200416T091004Z">
+        <seg>Оскільки це виключення, прапорець правило/виключення не має стояти</seg>
       </tuv>
     </tu>
     <tu>
