@@ -18060,6 +18060,14 @@ The scope of a search is by default the project and can be set to be any files l
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Select the location of the language checker.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200416T210602Z" creationid="maximo" creationdate="20200416T210602Z">
+        <seg>Обрати адресу інструменту з перевірки граматики.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Select this option if you want dictionaries to display words that have the same root.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="maximo" changedate="20200412T142353Z" creationid="maximo" creationdate="20200412T142353Z">
