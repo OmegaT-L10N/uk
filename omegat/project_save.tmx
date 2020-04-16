@@ -10038,6 +10038,14 @@ their defaults as a result of the location change.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If you add a prefix (for instance [fuzzy]), you can trace those translations later to see they are correct.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200416T213008Z" creationid="maximo" creationdate="20200416T213008Z">
+        <seg>Якщо ви додасте префікс, наприклад [нечіткий збіг], то вам легше буде відслідковувати такі переклади і перевіряти, чи вони правильні.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If you are already reasonably familiar with computers in general and choose a straightforward scripting language like Javascript or Tcl/Tk, you could teach yourself enough to be able to write simple but useful scripts within just a couple of weeks.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="lesia" changedate="20200324T161903Z" creationid="maximo" creationdate="20200322T181517Z">
@@ -20611,6 +20619,14 @@ in /lib/licenses/Licenses.txt.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="lesia" changedate="20200412T200140Z" creationid="lesia" creationdate="20200412T200140Z">
         <seg>За замовчуванням оригінал сегментується за реченнями, тож якщо не бажаєте вносити ніяких змін, залиште цей прапорець на місці.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The prefix (per default empty) can be used to tag translations, done via fuzzy matches.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200416T212846Z" creationid="maximo" creationdate="20200416T212846Z">
+        <seg>Такі переклади можна позначати префіксом.</seg>
       </tuv>
     </tu>
     <tu>
