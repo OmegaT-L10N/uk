@@ -14111,6 +14111,14 @@ translation leveraging into updated projects.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>OmegaT is able to recognize that you have done this.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200416T214214Z" creationid="maximo" creationdate="20200416T214214Z">
+        <seg>OmegaT може визначити, якщо ви зробили саме так.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>OmegaT is an open-source application and project.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="lesia" changedate="20200324T170227Z" creationid="lesia" creationdate="20200321T125221Z">
@@ -21758,6 +21766,14 @@ the server.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="lesia" changedate="20200412T053453Z" creationid="maximo" creationdate="20200329T200205Z">
         <seg>Для встановлення необхідних файлів у форматі StarDict необхідно виконати наступне:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To make this possible, select this option.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200416T214249Z" creationid="maximo" creationdate="20200416T214249Z">
+        <seg>Щоб мати можливість робити так, оберіть цей варіант.</seg>
       </tuv>
     </tu>
     <tu>
