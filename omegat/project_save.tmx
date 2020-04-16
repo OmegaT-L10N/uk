@@ -14385,6 +14385,14 @@ installed on your system.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>OmegaT will then report these segments as not translated.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200416T214034Z" creationid="maximo" creationdate="20200416T214034Z">
+        <seg>Тоді OmegaT не буде сигналізувати, що ці сегменти не перекладені.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>OmegaT will try to resegment the TMX file...</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20190517T155811Z" creationid="Kos Ivantsov" creationdate="20190517T155811Z">
@@ -20099,6 +20107,14 @@ Please try to correct the error and reload the project.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The alternative is to enter a translation that is identical to the source text.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200416T214139Z" creationid="maximo" creationdate="20200416T214139Z">
+        <seg>Альтернатива - вставляти переклад, який такий самий, як оригінал.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The application runs on your machine.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="maximo" changedate="20200322T163536Z" creationid="maximo" creationdate="20200322T163536Z">
@@ -21055,6 +21071,14 @@ in /lib/licenses/Licenses.txt.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>There are two strategies for segments that contain only such invariable text.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200416T213929Z" creationid="maximo" creationdate="20200416T213929Z">
+        <seg>Є дві стратегії того, що робити з такими сегментами, які містять лише незмінний текст.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>There is however considerable scope within the project for users to suggest improvements and influence the course of future development.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="lesia" changedate="20200324T172414Z" creationid="lesia" creationdate="20200322T130807Z">
@@ -21428,6 +21452,14 @@ the server.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="lesia" changedate="20200324T165148Z" creationid="maximo" creationdate="20200321T130546Z">
         <seg>Ми радимо саме групу користувачів як &lt;a0&gt;основний канал підтримки&lt;/a0&gt;. Приєднайтесь до неї.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This is the default.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200416T214103Z" creationid="maximo" creationdate="20200416T214103Z">
+        <seg>Це стандартне налаштування.</seg>
       </tuv>
     </tu>
     <tu>
@@ -24261,6 +24293,14 @@ start menu, the desktop or the quick launch area to link it from there.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20190807T182030Z" creationid="Kos Ivantsov" creationdate="20190807T182030Z">
         <seg>Записи глосарія можна створити, вибравши пункт «Створити запис у глосарії» в меню «Редагування».</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You can decide not to translate such segments at all.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200416T214002Z" creationid="maximo" creationdate="20200416T214002Z">
+        <seg>Ви можете вирішити, що ці сегменти перекладати не треба.</seg>
       </tuv>
     </tu>
     <tu>
