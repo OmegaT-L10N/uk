@@ -3884,6 +3884,14 @@ may experience unexpected, but correct behaviour.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Auto-completer is launched within the target segment via &lt;e0&gt;Ctrl+Space&lt;/e0&gt; shortcut.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200416T095839Z" creationid="maximo" creationdate="20200416T095839Z">
+        <seg>Інструмент автодоповнення запускається комбінацією клавіш &lt;e0&gt;Ctrl+Space&lt;/e0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Auto-completion/Auto-text...</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="maximo" changedate="20200405T190316Z" creationid="maximo" creationdate="20200405T190316Z">
@@ -5074,16 +5082,24 @@ Buy another drink</seg>
       <tuv lang="EN">
         <seg>Click on &lt;g0&gt;Auto-text...&lt;/g0&gt; to configure Auto-text options and to add or remove entries.</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="maximo" changedate="20200416T095528Z" creationid="maximo" creationdate="20200416T095528Z">
-        <seg>Натисніть &lt;g0&gt;Авто-текст...&lt;/g0&gt;, щоб налаштувати параметри авто-тексту та щоб додати чи видалити елементи.</seg>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200416T095752Z" creationid="maximo" creationdate="20200416T095528Z">
+        <seg>Натисніть &lt;g0&gt;Авто-текст&lt;/g0&gt;, щоб налаштувати параметри авто-тексту та щоб додати чи видалити елементи.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Click on &lt;g0&gt;Character Table...&lt;/g0&gt; to set the Character table auto-completer options.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200416T095748Z" creationid="maximo" creationdate="20200416T095552Z">
+        <seg>Щоб налаштувати автодоповнення з таблиці символів, натисніть &lt;g0&gt;Таблиця символів&lt;/g0&gt; to set the Character table auto-completer options.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Click on &lt;g0&gt;Glossary...&lt;/g0&gt; to configure the Auto-completer Glossary View.</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="maximo" changedate="20200416T095407Z" creationid="maximo" creationdate="20200416T095407Z">
-        <seg>Щоб налаштувати автодоповнення на основі глосарію, натисніть &lt;g0&gt;Глосарій...&lt;/g0&gt;.</seg>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200416T095755Z" creationid="maximo" creationdate="20200416T095407Z">
+        <seg>Щоб налаштувати автодоповнення з глосаріїв, натисніть &lt;g0&gt;Глосарій&lt;/g0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
