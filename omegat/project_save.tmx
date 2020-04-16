@@ -4440,6 +4440,14 @@ Buy another drink</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>By default, OmegaT does not execute the commands specified in the project-specific settings (the &lt;f0&gt;finder.xml&lt;/f0&gt; file in the &lt;f1&gt;omegat&lt;/f1&gt; folder), because they may have a critical impact on the machine's security.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200416T211055Z" creationid="maximo" creationdate="20200416T211055Z">
+        <seg>Зазвичай OmegaT не виконує команд, які вказані у налаштуваннях проєкту (файл &lt;f0&gt;finder.xml&lt;/f0&gt; у теці &lt;f1&gt;omegat&lt;/f1&gt;), оскільки вони можуть скомпроментувати безпеку комп'ютера.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>By default, the translated file encoding is the same as the source file encoding.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="maximo" changedate="20200413T185224Z" creationid="maximo" creationdate="20200413T185224Z">
@@ -14445,6 +14453,14 @@ installed on your system.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="maximo" changedate="20200413T184551Z" creationid="maximo" creationdate="20200413T184551Z">
         <seg>Тільки невелика кількість форматів файлів вимагає явного зазначення системи кодування.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Only activate this option if you know what you are doing, and only for projects from trusted sources.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200416T211157Z" creationid="maximo" creationdate="20200416T211157Z">
+        <seg>Вмикайте цей параметр лише якщо ви точно знаєте, що ви робите, і для проєктів, які надійшли до вас з надійних джерел.</seg>
       </tuv>
     </tu>
     <tu>
