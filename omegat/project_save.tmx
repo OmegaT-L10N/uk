@@ -4896,6 +4896,14 @@ Buy another drink</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Check or uncheck the rules depending on whether they are relevant to the type of text you are translating.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200416T210900Z" creationid="maximo" creationdate="20200416T210900Z">
+        <seg>Обирайте правила залежно від того, чи вони релевантні для типу тексту, який ви перекладаєте.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Check punctuation at segment end</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20190822T220855Z" creationid="Kos Ivantsov" creationdate="20190822T220855Z">
@@ -23013,6 +23021,14 @@ searchable without subscription:</seg>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20190808T092725Z" creationid="Kos Ivantsov" creationdate="20190808T092725Z">
         <seg>Використання OmegaT за допомогою Java Web Start (всі платформи)
 ===============================================================</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Using a different language checker on your local machine than the one supplied with OmegaT gives you the option of personalising the verification rules.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200416T210751Z" creationid="maximo" creationdate="20200416T210751Z">
+        <seg>Ви можете використати локальний сервер LanguageTool, а не той, що надається OmegaT, якщо вам треба більше контролю над ним.</seg>
       </tuv>
     </tu>
     <tu>
