@@ -14537,6 +14537,14 @@ installed on your system.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Only integers and simple floats (using the period as a decimal character, e.g. 5.4, but not 5,4 or 54E-01) are considered.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200416T213644Z" creationid="maximo" creationdate="20200416T213644Z">
+        <seg>Перетворення відбуваються тільки для цілих чисел та простих десяткових дробів (тих, що використовують крапку як розділювальний елемент, таким чином 5.4, але не 5,4 чи 54E-01) are considered.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Open</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="maximo" changedate="20200405T184508Z" creationid="maximo" creationdate="20200405T184508Z">
@@ -20559,6 +20567,14 @@ in /lib/licenses/Licenses.txt.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The numbers must be exactly the same between the source and the target matches.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200416T213445Z" creationid="maximo" creationdate="20200416T213445Z">
+        <seg>Числа мають бути абсолютно однаковими для оригіналу та перекладу.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The open-source philosophy</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="lesia" changedate="20200321T151508Z" creationid="lesia" creationdate="20200321T124717Z">
@@ -20823,6 +20839,14 @@ in /lib/licenses/Licenses.txt.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The source segment and the fuzzy matches must contain the same list of numbers</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200416T213357Z" creationid="maximo" creationdate="20200416T213357Z">
+        <seg>Сегмент для перекладу та нечіткий збіг мусять мати однакову кількість чисел.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The specified dictionary folder cannot be used.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20190820T192203Z" creationid="Kos Ivantsov" creationdate="20190820T192203Z">
@@ -20987,6 +21011,14 @@ in /lib/licenses/Licenses.txt.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20190820T122526Z" creationid="Kos Ivantsov" creationdate="20190820T122526Z">
         <seg>Тоді під час перекладу з канадської французької всі правила, визначені для всього мовного ланцюжка, будуть застосовані в правильному порядку.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>There are a number of restrictions:</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200416T213313Z" creationid="maximo" creationdate="20200416T213313Z">
+        <seg>Є певні обмеження до цієї функції:</seg>
       </tuv>
     </tu>
     <tu>
