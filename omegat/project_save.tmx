@@ -7358,6 +7358,14 @@ Your help page not found</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Enables you to change the order of the commands in the context menu (the right-click menu).</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200416T211308Z" creationid="maximo" creationdate="20200416T211308Z">
+        <seg>Дозволяє змінювати порядок команд у контекстному меню (доступному по кліку правою клавішою миші).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Encoding</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20190420T130859Z" creationid="Kos Ivantsov" creationdate="20190420T130859Z">
@@ -23149,6 +23157,14 @@ searchable without subscription:</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20190807T150017Z" creationid="Kos Ivantsov" creationdate="20190807T150017Z">
         <seg>Значення</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Values around 100 display commands at the top, and values around 900 display them at the bottom.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200416T211432Z" creationid="maximo" creationdate="20200416T211432Z">
+        <seg>Значення в районі 100 означають показувати команди згори списку, а в районі 900 - внизу списку.</seg>
       </tuv>
     </tu>
     <tu>
