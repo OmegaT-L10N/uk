@@ -20270,6 +20270,14 @@ instead.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The entry &lt;e3&gt;Remove translation&lt;/e3&gt; in the same pop up menu also allows to delete the existing translation of the current segment.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200416T212435Z" creationid="maximo" creationdate="20200416T212435Z">
+        <seg>Варіант &lt;e3&gt;Вилучити переклад&lt;/e3&gt; у тому самому контекстному меню також дозволяє видалити існуючий переклад поточного сегмента.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The escape character ('\u001B')</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="maximo" changedate="20200412T045514Z" creationid="maximo" creationdate="20200412T045514Z">
@@ -21061,6 +21069,14 @@ You, victim of one</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>They are displayed as &lt;EMPTY&gt; in the Editor.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200416T212205Z" creationid="maximo" creationdate="20200416T212205Z">
+        <seg>Такі сегменти будуть показуватися у вікні редагування як &lt;ПОРОЖНІЙ ПЕРЕКЛАД&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>They are protected, so that you cannot modify their contents, but you can delete them, enter them by hand or move them around in the target sentence.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20190822T153540Z" creationid="Kos Ivantsov" creationdate="20190822T153540Z">
@@ -21550,6 +21566,14 @@ the server.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20190821T151520Z" creationid="Kos Ivantsov" creationdate="20190821T151520Z">
         <seg>Для перетворення його у командний проєкт нового формату відкрийте його у графічному інтерфейсі OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To create one, right-click in a segment, and select "&lt;e2&gt;Set empty translation&lt;/e2&gt;".</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200416T212312Z" creationid="maximo" creationdate="20200416T212312Z">
+        <seg>Щоб створити порожній переклад, натисніть правою кнопкою на сегмент та оберіть "&lt;e2&gt;Зробити переклад порожнім&lt;/e2&gt;".</seg>
       </tuv>
     </tu>
     <tu>
