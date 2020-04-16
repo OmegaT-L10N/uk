@@ -6775,6 +6775,14 @@ Buy another drink</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Documents for translation may contain trade marks, names or other proper nouns that will be the same in translated documents.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200416T213828Z" creationid="maximo" creationdate="20200416T213828Z">
+        <seg>Документи для перекладу можуть містити торгові марки, імена чи інші власні назви, що залишаться такими самими у перекладених документах.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Does the folder contain three files of the same name, with extensions?</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="maximo" changedate="20200404T170613Z" creationid="maximo" creationdate="20200404T170613Z">
