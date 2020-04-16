@@ -5072,6 +5072,14 @@ Buy another drink</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Click on &lt;g0&gt;Glossary...&lt;/g0&gt; to configure the Auto-completer Glossary View.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200416T095407Z" creationid="maximo" creationdate="20200416T095407Z">
+        <seg>Щоб налаштувати автодоповнення на основі глосарію, натисніть &lt;g0&gt;Глосарій...&lt;/g0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Click on &lt;g1&gt;Copy Files to Source Folder...&lt;/g1&gt; to select your source files.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20190812T105547Z" creationid="Kos Ivantsov" creationdate="20190812T105512Z">
