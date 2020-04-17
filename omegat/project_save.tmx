@@ -3320,6 +3320,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Also allow per-project external commands</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200417T083435Z" creationid="maximo" creationdate="20200417T083435Z">
+        <seg>Дозволити також виконання зовнішніх команд, визначених окремо для проєктів</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Also check that the target language code of your project against the available vocabularies in the setup window.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="maximo" changedate="20200411T135131Z" creationid="maximo" creationdate="20200411T135131Z">
@@ -4476,6 +4484,14 @@ Buy another drink</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="maximo" changedate="20200416T211055Z" creationid="maximo" creationdate="20200416T211055Z">
         <seg>Зазвичай OmegaT не виконує команд, які вказані у налаштуваннях проєкту (файл &lt;f0&gt;finder.xml&lt;/f0&gt; у теці &lt;f1&gt;omegat&lt;/f1&gt;), оскільки вони можуть скомпроментувати безпеку комп'ютера.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>By default, OmegaT does not execute the commands specified in the project-specific settings (the &lt;f0&gt;omegat.project&lt;/f0&gt; file), because they may have a critical impact on the machine's security.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200417T083530Z" creationid="maximo" creationdate="20200417T083530Z">
+        <seg>Зазвичай OmegaT не виконує команд, які вказані у налаштуваннях проєкту (файл &lt;f0&gt;omegat.project&lt;/f0&gt;), оскільки вони можуть скомпроментувати безпеку комп'ютера.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9867,6 +9883,14 @@ need not be entered.)</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20190822T213056Z" creationid="Kos Ivantsov" creationdate="20190822T213056Z">
         <seg>Якщо Java встановлена на рівні системи та шлях до виконуваного файлу додано до змінної PATH, то при запуску OmegaT повний шлях до Java вводити не обов’язково.)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If OmegaT needs to use an authenticated proxy server to access the Internet, enter the details provided by the proxy administrator here.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200417T083720Z" creationid="maximo" creationdate="20200417T083720Z">
+        <seg>Якщо OmegaT для роботи з інтернетом потрібен проксі, тут ви зможете ввести ідентифікаційні дані до проксі, надані вам його адміністратором.</seg>
       </tuv>
     </tu>
     <tu>
