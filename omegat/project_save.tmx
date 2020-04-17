@@ -3304,6 +3304,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Allows the user select the interval - in minutes and seconds - between consecutive automatic saves of the project.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200417T082948Z" creationid="maximo" creationdate="20200417T082948Z">
+        <seg>Дозволяє користувачу виставити інтервал (у хвилинах та секундах) між автоматичним збереженням проєкту.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Allows to view, add, remove or edit a note in the active segment.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20190807T152009Z" creationid="Kos Ivantsov" creationdate="20190807T152009Z">
@@ -4652,6 +4660,14 @@ Buy another drink</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="maximo" changedate="20200417T081930Z" creationid="maximo" creationdate="20200417T081930Z">
         <seg>Змініть як показувати нечіткі збіги. В шаблоні доступні такі змінні:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Change the default interval (3 minutes) depending on the characteristics of the project:</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200417T083046Z" creationid="maximo" creationdate="20200417T083046Z">
+        <seg>Змінюйте дефолтний інтервал (3 хвилини) залежно від того, що у вас за проєкт:</seg>
       </tuv>
     </tu>
     <tu>
