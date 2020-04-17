@@ -4984,6 +4984,14 @@ Buy another drink</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Check this option to be warned about differences between source and target segments tags each time you leave a segment.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200417T075751Z" creationid="maximo" creationdate="20200417T075751Z">
+        <seg>Поставте цей прапорець, щоб OmegaT попереджала вас про відмінності між оригінальними теґами та теґами у перекладі щоразу як ви покидаєте сегмент.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Check whole project</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20190822T220453Z" creationid="Kos Ivantsov" creationdate="20190822T220453Z">
@@ -16670,6 +16678,14 @@ These words: 'Page not found'</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Removing an entire tag remains possible in that case, by using Ctrl+Backspace/Delete or by selecting it completely (Ctrl+Shift+Left/Right) then deleting it (Delete or Ctrl+X).</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200417T075631Z" creationid="maximo" creationdate="20200417T075505Z">
+        <seg>Видалення цілого теґа все ж можливе, натисканням Ctrl+Backspace/Delete чи виділенням його повністю (Ctrl+Shift+Left/Right) і потім видалення (Delete чи Ctrl+X).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Reopen the project now?</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20190422T204612Z" creationid="Kos Ivantsov" creationdate="20190422T204612Z">
@@ -22688,8 +22704,8 @@ Exact searches match the whole search string.</seg>
       <tuv lang="EN">
         <seg>Uncheck this option to prevent any damage on the tags (i.e., partial deletion) during editing.</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="maximo" changedate="20200417T075449Z" creationid="maximo" creationdate="20200417T075449Z">
-        <seg>Зніміть прапорець, щоб уникнути пошкодження теґів (наприклад, часткового їх видалення) під час редагування.</seg>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200417T075518Z" creationid="maximo" creationdate="20200417T075449Z">
+        <seg>Зніміть прапорець, щоб уникнути пошкодження теґів (а саме часткового їх видалення) під час редагування.</seg>
       </tuv>
     </tu>
     <tu>
