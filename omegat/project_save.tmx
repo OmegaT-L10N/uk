@@ -4448,6 +4448,14 @@ Buy another drink</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>By default the editor displays 2,000 of initial segments, and progressively loads more as you scroll up or down.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200417T080211Z" creationid="maximo" creationdate="20200417T080211Z">
+        <seg>За замовчуванням вікно редагування показує максимум 2,000 сегментів і підвантажує потрібні, коли ви прокручуєте список вниз.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>By default, OmegaT does not execute the commands specified in the project-specific settings (the &lt;f0&gt;finder.xml&lt;/f0&gt; file in the &lt;f1&gt;omegat&lt;/f1&gt; folder), because they may have a critical impact on the machine's security.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="maximo" changedate="20200416T211055Z" creationid="maximo" creationdate="20200416T211055Z">
@@ -10220,6 +10228,14 @@ Explorer), change the settings so that file extensions are displayed.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="maximo" changedate="20200322T151634Z" creationid="maximo" creationdate="20200322T151634Z">
         <seg>Якщо думка про читання інструкції викликає у вас огиду, а ваш підхід до освоєння нового програмного забезпечення - це "клацай все, що бачиш", - OmegaT не для вас.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If you have a powerful machine, and/or if you don't like how the scrollbar behaves during progressive loading, you can increase this number.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200417T080352Z" creationid="maximo" creationdate="20200417T080352Z">
+        <seg>Якщо у вас потужна машина та/або вам не подобається як себе поводить полоса прокручування під час динамічного підвантажування, ви можете збільшити це число.</seg>
       </tuv>
     </tu>
     <tu>
