@@ -20286,6 +20286,14 @@ instead.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The data are exported when the segment is opened.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200417T070303Z" creationid="maximo" creationdate="20200417T070303Z">
+        <seg>Дані експортуються, коли відкривати сегмент.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The default OmegaT shortcuts are available from Sourceforge: &lt;u0&gt;Default OmegaT Shortcuts&lt;/u0&gt;</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="maximo" changedate="20200405T184125Z" creationid="maximo" creationdate="20200405T184125Z">
@@ -20378,6 +20386,14 @@ instead.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="maximo" changedate="20200404T171258Z" creationid="maximo" creationdate="20200404T171258Z">
         <seg>Файл може не існувати тоді, коли його вказують у властивостях проєкту. У цьому випадку він буде створений коли ви додасте перший запис у глосарій.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The files appear in the /script subfolder in the OmegaT user files folder, and include:</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200417T070452Z" creationid="maximo" creationdate="20200417T070452Z">
+        <seg>Файли з'являються у директорії /script у теці з користувацькими файлами OmegaT:</seg>
       </tuv>
     </tu>
     <tu>
