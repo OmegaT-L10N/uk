@@ -5016,6 +5016,14 @@ Buy another drink</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Check this option to display all non-unique segments (repetitions) in grey.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200417T082730Z" creationid="maximo" creationdate="20200417T082730Z">
+        <seg>Поставте цей прапорець, щоб показувати всі неунікальні сегменти (повтори) сірим кольором.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Check this option to record in the &lt;f0&gt;project_save.tmx&lt;/f0&gt; file the information that a segment has been auto-populated, so it can be displayed with a specific color in the Editor (if the "Mark Auto-Populated Segments" option, in the View menu, is checked).</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="maximo" changedate="20200417T080041Z" creationid="maximo" creationdate="20200417T080041Z">
@@ -5620,6 +5628,14 @@ Buy another drink</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="maximo" changedate="20200322T170611Z" creationid="maximo" creationdate="20200322T170611Z">
         <seg>Містить детальний опис OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Contains options for displaying texts and modification information in different ways.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200417T082633Z" creationid="maximo" creationdate="20200417T082633Z">
+        <seg>Містить параметри показу текстів та інформації про модифікації.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10748,10 +10764,26 @@ click on that shortcut.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Include the first non-unique segment when marking non-unique segments</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200417T082652Z" creationid="maximo" creationdate="20200417T082652Z">
+        <seg>Коли позначаються неунікальні сегменти, позначати перший разом з іншими</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Inconsistent numbers</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20190823T142319Z" creationid="Kos Ivantsov" creationdate="20190823T142319Z">
         <seg>Розбіжності в числах</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Indicate that this match is fuzzy (currently only for translations from PO files with the #fuzzy mark)</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200417T082550Z" creationid="maximo" creationdate="20200417T082550Z">
+        <seg>Вказати, що збіг нечіткий (зараз має зміст лише для файлів PO з позначкою #fuzzy)</seg>
       </tuv>
     </tu>
     <tu>
@@ -15180,6 +15212,14 @@ Vanishing like mist</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20190914T204214Z" creationid="Kos Ivantsov" creationdate="20190914T203537Z">
         <seg>Пеня для іншомовних збігів:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Percentage calculated with &lt;g0&gt;Full text, including tags and numbers&lt;/g0&gt; option.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200417T082454Z" creationid="maximo" creationdate="20200417T082454Z">
+        <seg>Відсоток, що вирахувано згідно параметру &lt;g0&gt;Повний текст, включно з теґами та числами&lt;/g0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -23961,6 +24001,14 @@ of selecting, obtaining and installing it.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="lesia" changedate="20200413T201046Z" creationid="lesia" creationdate="20200413T200823Z">
         <seg>Якщо ця функція активна, усі теґи форматування вилучаються з сегментів оригіналу.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>When the option is unchecked, all non-unique segments are shown in grey except the first occurrence.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200417T082838Z" creationid="maximo" creationdate="20200417T082838Z">
+        <seg>Коли цей прапорець не поставлений, то сірим позначаються всі неунікальні сегменти окрім першого випадку їх зустрічання.</seg>
       </tuv>
     </tu>
     <tu>
