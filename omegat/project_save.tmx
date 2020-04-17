@@ -3516,6 +3516,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>An example of the use of this feature would be to send translated documents automatically to the client's FTP server.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200417T083426Z" creationid="maximo" creationdate="20200417T083426Z">
+        <seg>Наприклад, можна використовувати цей інструмент для того, щоб автоматично завантажувати переклад на FTP сервер клієнта.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>An exception occurred while parsing the TMX file
 {0}
 The TMX file will not be loaded.</seg>
@@ -19172,6 +19180,14 @@ The scope of a search is by default the project and can be set to be any files l
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Specify commands that are executed after the &lt;g0&gt;Create Translated Documents&lt;/g0&gt; command.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200417T083332Z" creationid="maximo" creationdate="20200417T083332Z">
+        <seg>Визначте команди, що виконуються після команди &lt;g0&gt;Створити перекладені документи&lt;/g0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Specify tag handling behaviour</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20190803T190017Z" creationid="Kos Ivantsov" creationdate="20190803T185831Z">
@@ -25309,6 +25325,14 @@ create its configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>long intervals for team projects hosted on external servers.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200417T083220Z" creationid="maximo" creationdate="20200417T083220Z">
+        <seg>великі інтервали для командних проєктів, що синхронізуються через віддалений сервер.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>mALIGNa (MIT License)</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20190424T212311Z" creationid="Kos Ivantsov" creationdate="20190424T212311Z">
@@ -25417,6 +25441,14 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20190420T125040Z" creationid="Kos Ivantsov" creationdate="20190420T125040Z">
         <seg>сегмент 0000</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>short intervals (minimum: 10 seconds) for synchronised projects on an internal server.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200417T083134Z" creationid="maximo" creationdate="20200417T083134Z">
+        <seg>Короткі інтервали (мінімум 10 секунд) для синхронізованих проєктів на внутрішньому сервері.</seg>
       </tuv>
     </tu>
     <tu>
