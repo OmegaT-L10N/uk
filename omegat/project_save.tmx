@@ -9580,6 +9580,14 @@ Its winter has come</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Here you can redefine the master password used to protect login details and access keys for machine translation services.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200417T083841Z" creationid="maximo" creationdate="20200417T083841Z">
+        <seg>Тут ви можете визначити пароль для сховища, в якому зберігаються ідентифікаційні дані та ключі доступу до сервісів машинного перекладу.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Here you may also specify custom location of project folders.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20190504T135515Z" creationid="Kos Ivantsov" creationdate="20190504T135515Z">
@@ -19850,6 +19858,14 @@ The scope of a search is by default the project and can be set to be any files l
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20190516T205312Z" creationid="Kos Ivantsov" creationdate="20190516T205312Z">
         <seg>Процес вилучення теґів закінчено, проєкт перезавантажується...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Take care to make a note of all these details before creating a new password, because they will all be deleted and will need to be re-entered.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200417T084118Z" creationid="maximo" creationdate="20200417T084118Z">
+        <seg>Майте на увазі, що ви маєте зробити бекап всіх цих даних, перед зміною паролю, бо після створення нового паролю вам треба буде їх всі ввести вручну заново.</seg>
       </tuv>
     </tu>
     <tu>
