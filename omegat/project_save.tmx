@@ -22686,6 +22686,14 @@ Exact searches match the whole search string.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Uncheck this option to prevent any damage on the tags (i.e., partial deletion) during editing.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200417T075449Z" creationid="maximo" creationdate="20200417T075449Z">
+        <seg>Зніміть прапорець, щоб уникнути пошкодження теґів (наприклад, часткового їх видалення) під час редагування.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Undo Last Action</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="maximo" changedate="20200405T185128Z" creationid="maximo" creationdate="20200405T185128Z">
