@@ -10054,6 +10054,14 @@ their defaults as a result of the location change.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If we want to avoid any mis-translations in case of segments with several possible target contents, checking this check box will cause &lt;e0&gt;Go To Next Untranslated Segment&lt;/e0&gt; to stop on the next such segment, irrespective of whether it has already been translated or not.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200417T075342Z" creationid="maximo" creationdate="20200417T075342Z">
+        <seg>Якщо ви хочете уникнути випадків неправильного перекладу, коли для сегментів є кілька варіантів перекладу, цей прапорець змусить перехід &lt;e0&gt;До наступного неперекладеного сегмента&lt;/e0&gt; зупинятися на них, не зважаючи на те, чи були вони вже перекладені, чи ще ні.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If you add a prefix (for instance [fuzzy]), you can trace those translations later to see they are correct.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="maximo" changedate="20200416T213008Z" creationid="maximo" creationdate="20200416T213008Z">
