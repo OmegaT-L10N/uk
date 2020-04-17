@@ -4648,6 +4648,14 @@ Buy another drink</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Change how fuzzy matches are displayed, through the use of pre-configured variables:</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200417T081930Z" creationid="maximo" creationdate="20200417T081930Z">
+        <seg>Змініть як показувати нечіткі збіги. В шаблоні доступні такі змінні:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Change the name of the rule set and the language pattern to the language concerned and its code.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="maximo" changedate="20200415T111038Z" creationid="maximo" creationdate="20200415T111022Z">
@@ -12667,6 +12675,14 @@ itself on the first run.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Match pane setup</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200417T081958Z" creationid="maximo" creationdate="20200417T081958Z">
+        <seg>Налаштування панелі збігів</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Match propagation</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="maximo" changedate="20200322T173534Z" creationid="maximo" creationdate="20200322T173534Z">
@@ -13865,6 +13881,14 @@ as the Applications folder.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20190817T174954Z" creationid="Kos Ivantsov" creationdate="20190516T183212Z">
         <seg>Кількість знайдених сегментів:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Number of the match from 1 to 5</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200417T082028Z" creationid="maximo" creationdate="20200417T082028Z">
+        <seg>Порядковий номер збігу (від 1 до 5)</seg>
       </tuv>
     </tu>
     <tu>
@@ -19036,6 +19060,14 @@ The scope of a search is by default the project and can be set to be any files l
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Source text of the match</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200417T082115Z" creationid="maximo" creationdate="20200417T082046Z">
+        <seg>Оригінал збігу</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Source/translation lengths (characters)</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20190421T171605Z" creationid="Kos Ivantsov" creationdate="20190419T184135Z">
@@ -19738,6 +19770,14 @@ The scope of a search is by default the project and can be set to be any files l
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20190821T145903Z" creationid="Kos Ivantsov" creationdate="20190821T145903Z">
         <seg>Переклад терміна:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Target text of the match</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200417T082128Z" creationid="maximo" creationdate="20200417T082102Z">
+        <seg>Переклад збігу</seg>
       </tuv>
     </tu>
     <tu>
