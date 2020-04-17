@@ -15184,6 +15184,22 @@ Vanishing like mist</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Percentage calculated with &lt;g0&gt;No tags and no numbers&lt;/g0&gt; option.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200417T082438Z" creationid="maximo" creationdate="20200417T082438Z">
+        <seg>Відсоток, що вирахувано згідно параметру &lt;g0&gt;Без теґів і без чисел&lt;/g0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Percentage calculated with &lt;g0&gt;Stemming, no tags and no numbers&lt;/g0&gt; option.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200417T082421Z" creationid="maximo" creationdate="20200417T082421Z">
+        <seg>Відсоток, що вирахувано згідно параметру &lt;g0&gt;Основи слів, без теґів і без чисел&lt;/g0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Perform SVN cleanup on current project or any local SVN repository</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20190823T143557Z" creationid="Kos Ivantsov" creationdate="20190823T143410Z">
@@ -17432,6 +17448,14 @@ These words: 'Page not found'</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Same as ${diff}, but with the differences (what is to be inserted and deleted) inverted.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200417T082339Z" creationid="maximo" creationdate="20200417T082339Z">
+        <seg>Те саме, що і ${diff}, але відмінності (що видалилось, що додалось) показуються в зворотному форматі.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Sample Output</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20190808T130146Z" creationid="Kos Ivantsov" creationdate="20190808T130146Z">
@@ -19322,6 +19346,14 @@ The scope of a search is by default the project and can be set to be any files l
       </tuv>
       <tuv lang="UK-UA" changeid="maximo" changedate="20200412T141759Z" creationid="maximo" creationdate="20200412T141759Z">
         <seg>Зберігати лише для поточного сеансу</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>String showing the differences between the source and the match.&lt;e0&gt; Hint:&lt;/e0&gt; use this if the text you are translating has been updated.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200417T082252Z" creationid="maximo" creationdate="20200417T082252Z">
+        <seg>Рядок, що показує різницю між оригінальним текстом і текстом збігу. &lt;e0&gt; Підказка:&lt;/e0&gt; це особливо корисно, коли текст, який ви перекладаєте, змінився.</seg>
       </tuv>
     </tu>
     <tu>
