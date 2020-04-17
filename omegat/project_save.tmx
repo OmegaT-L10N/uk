@@ -8696,6 +8696,14 @@ provided (omegat.kaptn).</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>For example, if you enter &lt;u0&gt;\d+&lt;/u0&gt; into the &lt;g1&gt;Regular expression for custom tags&lt;/g1&gt; field, all numbers will be considered as tags, enabling you to check that numbers have not been changed by mistake during translation.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200417T080847Z" creationid="maximo" creationdate="20200417T080847Z">
+        <seg>Наприклад, якщо ви введете &lt;u0&gt;\d+&lt;/u0&gt; у поле &lt;g1&gt;Регулярний вираз для теґів, визначених користувачем&lt;/g1&gt;, всі числа будуть вважатися теґами. Це дасть можливість гарантувати, що вони не будуть помилково змінені в процесі перекладу.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>For example, if you have selected ES-MX (Mexican Spanish) as the target language, the dictionary files must be named es_MX.dic and es_MX.aff.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="maximo" changedate="20200411T111248Z" creationid="maximo" creationdate="20200411T111248Z">
@@ -18544,6 +18552,14 @@ The scope of a search is by default the project and can be set to be any files l
       </tuv>
       <tuv lang="UK-UA" changeid="lesia" changedate="20200324T174612Z" creationid="maximo" creationdate="20200322T160929Z">
         <seg>Завірена та незавірена версії</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Similarly, enter &lt;u0&gt;&lt;.*?&gt;&lt;/u0&gt; to make sure that HTML tags (for example) entered into the source text are preserved without modification in the translation.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200417T081023Z" creationid="maximo" creationdate="20200417T081023Z">
+        <seg>Так само, якщо ви поставите &lt;u0&gt;&lt;.*?&gt;&lt;/u0&gt;, це гарантує, що теґи HTML, що були в тексті оригіналу, перейдуть у переклад без змін.</seg>
       </tuv>
     </tu>
     <tu>
