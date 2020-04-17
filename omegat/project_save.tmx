@@ -20261,6 +20261,14 @@ instead.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The content of the files is overwritten either when a new segment is opened (source.txt and target.txt) or when a new selection is exported (selection.txt).</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200417T070944Z" creationid="maximo" creationdate="20200417T070944Z">
+        <seg>Вміст цих файлів переписується, коли відкривається новий сегмент (для source.txt та target.txt), чи коли експортується нове виділення (selection.txt).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The content of the segment source text (&lt;f0&gt;source.txt&lt;/f0&gt;).</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="maximo" changedate="20200417T070615Z" creationid="maximo" creationdate="20200417T070615Z">
@@ -21009,8 +21017,8 @@ in /lib/licenses/Licenses.txt.</seg>
       <tuv lang="EN">
         <seg>The text highlighted by the user, when &lt;k0&gt;Ctrl+Shift+C&lt;/k0&gt; is pressed or &lt;g1&gt;Edit &gt; Export Selection&lt;/g1&gt; is selected (&lt;f2&gt;selection.txt&lt;/f2&gt;).</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="maximo" changedate="20200417T070808Z" creationid="maximo" creationdate="20200417T070808Z">
-        <seg>Текст, що виділений користувачем, коли натиснута комбінація клавіш &lt;k0&gt;Ctrl+Shift+C&lt;/k0&gt;, чи обраний пункт меню &lt;g1&gt;Edit &gt; Export Selection&lt;/g1&gt; (&lt;f2&gt;selection.txt&lt;/f2&gt;).</seg>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200417T071006Z" creationid="maximo" creationdate="20200417T070808Z">
+        <seg>Текст, що виділений користувачем, коли натиснута комбінація клавіш &lt;k0&gt;Ctrl+Shift+C&lt;/k0&gt;, чи обраний пункт меню &lt;g1&gt;Редагування &gt; Експортувати вибраний текст&lt;/g1&gt; (&lt;f2&gt;selection.txt&lt;/f2&gt;).</seg>
       </tuv>
     </tu>
     <tu>
