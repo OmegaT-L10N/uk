@@ -4992,6 +4992,14 @@ Buy another drink</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Check this option to record in the &lt;f0&gt;project_save.tmx&lt;/f0&gt; file the information that a segment has been auto-populated, so it can be displayed with a specific color in the Editor (if the "Mark Auto-Populated Segments" option, in the View menu, is checked).</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200417T080041Z" creationid="maximo" creationdate="20200417T080041Z">
+        <seg>Поставте цей прапорець, щоб у &lt;f0&gt;project_save.tmx&lt;/f0&gt; записувалась інформація про те, що сегмент був заповнений автоматично. Тоді їх можна буде відображати певним кольором у вікні редагування (якщо увімкнути опцію Вигляд &gt; Позначати автоматично заповнені сегменти).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Check whole project</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20190822T220453Z" creationid="Kos Ivantsov" creationdate="20190822T220453Z">
