@@ -20967,6 +20967,14 @@ in /lib/licenses/Licenses.txt.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The text export function exports data from within the current &lt;a0&gt;OmegaT&lt;/a0&gt; project to plain text files.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200417T070210Z" creationid="maximo" creationdate="20200417T070210Z">
+        <seg>Функція експорту даних із поточного проєкту &lt;a0&gt;OmegaT&lt;/a0&gt; до текстових файлів.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The text size exceeds the maximum</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20190807T184634Z" creationid="Kos Ivantsov" creationdate="20190807T184634Z">
