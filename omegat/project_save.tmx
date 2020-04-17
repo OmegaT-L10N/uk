@@ -23821,6 +23821,14 @@ of selecting, obtaining and installing it.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>When translating software-related files, you can configure the Tag Validator options to also check programming (%...) variables.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200417T080528Z" creationid="maximo" creationdate="20200417T080528Z">
+        <seg>Якщо ви перекладаєте файли, пов'язані з програмуванням, ви також можете налаштувати перевірку теґів, щоб вона перевіряла змінні (%...).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>When unavailable, the ID will be used as a fallback</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20190805T103908Z" creationid="Kos Ivantsov" creationdate="20190805T103908Z">
@@ -24344,6 +24352,14 @@ can then launch the Kaptain launch script with:</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="maximo" changedate="20200322T112826Z" creationid="maximo" creationdate="20200322T112826Z">
         <seg>Посібник користувача також можна відкрити, не запускаючи OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You can also define various options relating to tag validation and define custom tags.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200417T080644Z" creationid="maximo" creationdate="20200417T080644Z">
+        <seg>Також ви можете налаштувати різні параметри, що керують валідацією теґів, і навіть визначити власні теґи.</seg>
       </tuv>
     </tu>
     <tu>
