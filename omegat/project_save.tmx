@@ -7534,6 +7534,14 @@ Your help page not found</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Enter your name here and it will be attached to all segments translated by you.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200417T081205Z" creationid="maximo" creationdate="20200417T081205Z">
+        <seg>Введіть своє ім'я, яким будуть підписані всі сегменти, які ви перекладете.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Entries</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20190820T124953Z" creationid="Kos Ivantsov" creationdate="20190820T124953Z">
@@ -12131,6 +12139,14 @@ itself on the first run.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>List of projects for which login details are stored in OmegaT.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200417T081238Z" creationid="maximo" creationdate="20200417T081238Z">
+        <seg>Список проєктів, ідентифікаційні дані для яких збережені у OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Literally hundreds of RFEs have already been made, and many of them already implemented.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="lesia" changedate="20200322T144819Z" creationid="lesia" creationdate="20200322T144819Z">
@@ -13689,6 +13705,14 @@ as the Applications folder.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20190805T183456Z" creationid="Kos Ivantsov" creationdate="20190805T183456Z">
         <seg>Примітка: вибрати кодування можливо не у всіх фільтрах.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Note: these two instructions can be combined by writing &lt;u0&gt;(&lt;.*?&gt;)|(\d+)&lt;/u0&gt;.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200417T081110Z" creationid="maximo" creationdate="20200417T081110Z">
+        <seg>Зверніть увагу, що цих два вирази можна об'єднати: &lt;u0&gt;(&lt;.*?&gt;)|(\d+)&lt;/u0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
