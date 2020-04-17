@@ -20261,6 +20261,22 @@ instead.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The content of the segment source text (&lt;f0&gt;source.txt&lt;/f0&gt;).</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200417T070615Z" creationid="maximo" creationdate="20200417T070615Z">
+        <seg>Текст сегмента для перекладу (&lt;f0&gt;source.txt&lt;/f0&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The content of the segment target text (&lt;f0&gt;target.txt&lt;/f0&gt;).</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200417T070644Z" creationid="maximo" creationdate="20200417T070644Z">
+        <seg>Текст перекладеного сегмента (&lt;f0&gt;target.txt&lt;/f0&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The control character corresponding to x</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="maximo" changedate="20200412T045542Z" creationid="maximo" creationdate="20200412T045542Z">
@@ -20987,6 +21003,14 @@ in /lib/licenses/Licenses.txt.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="maximo" changedate="20200417T070210Z" creationid="maximo" creationdate="20200417T070210Z">
         <seg>Функція експорту даних із поточного проєкту &lt;a0&gt;OmegaT&lt;/a0&gt; до текстових файлів.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The text highlighted by the user, when &lt;k0&gt;Ctrl+Shift+C&lt;/k0&gt; is pressed or &lt;g1&gt;Edit &gt; Export Selection&lt;/g1&gt; is selected (&lt;f2&gt;selection.txt&lt;/f2&gt;).</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200417T070808Z" creationid="maximo" creationdate="20200417T070808Z">
+        <seg>Текст, що виділений користувачем, коли натиснута комбінація клавіш &lt;k0&gt;Ctrl+Shift+C&lt;/k0&gt;, чи обраний пункт меню &lt;g1&gt;Edit &gt; Export Selection&lt;/g1&gt; (&lt;f2&gt;selection.txt&lt;/f2&gt;).</seg>
       </tuv>
     </tu>
     <tu>
