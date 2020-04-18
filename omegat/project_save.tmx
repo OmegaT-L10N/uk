@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.2_0_6a661c5e0" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.2_0_6a661c5e" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -21890,8 +21890,8 @@ the server.</seg>
       <tuv lang="EN">
         <seg>This dialog is accessible by selecting &lt;m0&gt; &lt;g1&gt;Options&lt;/g1&gt; &lt;g2&gt;Preferences...&lt;/g2&gt; &lt;/m0&gt;</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="maximo" changedate="20200412T071223Z" creationid="maximo" creationdate="20200412T071223Z">
-        <seg>Цей діалог доступний через меню &lt;m0&gt;&lt;g1&gt;Властивості&lt;/g1&gt; &lt;g2&gt;Параметри...&lt;/g2&gt; &lt;/m0&gt;</seg>
+      <tuv lang="UK-UA" changeid="lesia" changedate="20200418T173128Z" creationid="maximo" creationdate="20200412T071223Z">
+        <seg>Цей діалог доступний через меню &lt;m0&gt;&lt;g1&gt;Налаштування&lt;/g1&gt; &lt;g2&gt;Параметри...&lt;/g2&gt; &lt;/m0&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -25155,8 +25155,8 @@ window to be able to launch it from any location.</seg>
       <tuv lang="EN">
         <seg>You must then press &lt;k6&gt; &lt;k7&gt;Ctrl&lt;/k7&gt; &lt;k8&gt;M&lt;/k8&gt; &lt;/k6&gt; again to insert the suggestion.</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="maximo" changedate="20200412T072049Z" creationid="maximo" creationdate="20200412T072049Z">
-        <seg>Після того вам треба буде ще раз натиснути &lt;k6&gt; &lt;k7&gt;Ctrl&lt;/k7&gt; &lt;k8&gt;M&lt;/k8&gt; &lt;/k6&gt;, Щоб вставити переклад.</seg>
+      <tuv lang="UK-UA" changeid="lesia" changedate="20200418T191837Z" creationid="maximo" creationdate="20200412T072049Z">
+        <seg>Після того вам треба буде ще раз натиснути &lt;k6&gt; &lt;k7&gt;Ctrl&lt;/k7&gt; &lt;k8&gt;M&lt;/k8&gt; &lt;/k6&gt;, щоб вставити переклад.</seg>
       </tuv>
     </tu>
     <tu>
