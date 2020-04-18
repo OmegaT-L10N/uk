@@ -12081,6 +12081,14 @@ itself on the first run.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Later, after you have accepted the license agreement, the setup program asks you whether you wish to create a folder in the &lt;e1&gt;Start&lt;/e1&gt; menu, and whether you wish to create a shortcut on the desktop and in the quick launch bar - you can create these shortcuts later by dragging &lt;f2&gt;OmegaT.exe&lt;/f2&gt; to the desktop or to the Start menu to link it from there.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200418T130016Z" creationid="maximo" creationdate="20200418T130016Z">
+        <seg>Після того як ви приймете умови ліцензії програма встановлення спитає вас, чи треба створити теку в меню &lt;e1&gt;Пуск&lt;/e1&gt; і чи треба створювати ярлик на робочому столі та на панелі швидкого запуску. Насправді, ви можете зробити це і пізніше, просто перетягнувши &lt;f2&gt;OmegaT.exe&lt;/f2&gt; на робочий стіл чи у меню Пуск.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Latest</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="maximo" changedate="20200322T145436Z" creationid="maximo" creationdate="20200322T145436Z">
