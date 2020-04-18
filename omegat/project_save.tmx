@@ -10001,8 +10001,8 @@ need not be entered.)</seg>
       <tuv lang="EN">
         <seg>If both this option and the &lt;l0&gt;&lt;g1&gt;Insert the source text&lt;/g1&gt;&lt;/l0&gt; option are selected, all words with a corresponding glossary entry will be translated automatically when the source text is inserted.</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="maximo" changedate="20200412T141325Z" creationid="maximo" creationdate="20200412T141325Z">
-        <seg>Якщо ця опція, а також опція &lt;l0&gt;&lt;g1&gt;Вставити текст оригіналу&lt;/g1&gt;&lt;/l0&gt; увімкнуті, всі слова, у яких є відповідна словарна стаття, будуть замінені автоматично, коли вставляється текст оригіналу.</seg>
+      <tuv lang="UK-UA" changeid="lesia" changedate="20200418T192054Z" creationid="maximo" creationdate="20200412T141325Z">
+        <seg>Якщо ця опція, а також опція &lt;l0&gt;&lt;g1&gt;Вставити текст оригіналу&lt;/g1&gt;&lt;/l0&gt; увімкнуті, всі слова, для яких є відповідна стаття глосарію, будуть замінені автоматично, коли вставляється текст оригіналу.</seg>
       </tuv>
     </tu>
     <tu>
