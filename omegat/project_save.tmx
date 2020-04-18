@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.2_0_6a661c5e" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.2_0_6a661c5e0" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -2120,6 +2120,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;e0&gt;No / I don't know:&lt;/e0&gt; download &lt;f1&gt;OmegaT_4.n.n_Windows.exe&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200418T125257Z" creationid="maximo" creationdate="20200418T125257Z">
+        <seg>&lt;e0&gt;Ні / Я не знаю:&lt;/e0&gt; завантажте&lt;e1&gt; OmegaT_4.n.n_Windows.exe.&lt;/e1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;e0&gt;Power Point&lt;/e0&gt;: slide comments, slide masters, slide layouts</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="maximo" changedate="20200413T114139Z" creationid="maximo" creationdate="20200413T114139Z">
@@ -2180,6 +2188,14 @@ The current setting is {0}MB;</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="maximo" changedate="20200413T114017Z" creationid="maximo" creationdate="20200413T114017Z">
         <seg>&lt;e0&gt;Word:&lt;/e0&gt; невидимий текст інструкцій, коментарі, зноски, примітки, колонтитули</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;e0&gt;Yes: &lt;/e0&gt;download &lt;f1&gt;OmegaT_4.n.n_Windows_without_JRE.exe&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200418T125249Z" creationid="maximo" creationdate="20200418T125249Z">
+        <seg>&lt;e0&gt;Так: &lt;/e0&gt;завантажте &lt;e1&gt;OmegaT_4.n.n_Windows_without_JRE.exe&lt;/e1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6783,6 +6799,14 @@ Buy another drink</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Do you have a Java implementation compatible with Oracle's Java 8 JRE?</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200418T125236Z" creationid="maximo" creationdate="20200418T125236Z">
+        <seg>Чи маєте Ви підтримку Java, сумісну із Oracle Java 8 JRE?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Do you really want to quit?</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20190420T150457Z" creationid="Kos Ivantsov" creationdate="20190419T184107Z">
@@ -7067,6 +7091,14 @@ Buy another drink</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20190504T105056Z" creationid="Kos Ivantsov" creationdate="20190504T105056Z">
         <seg>Стягнення проєкту...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Downloading the package</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200418T125225Z" creationid="maximo" creationdate="20200418T125225Z">
+        <seg>Завантажте пакет</seg>
       </tuv>
     </tu>
     <tu>
@@ -11106,6 +11138,14 @@ click on that shortcut.</seg>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20190504T154358Z" creationid="Kos Ivantsov" creationdate="20190504T154358Z">
         <seg>Встановлення OmegaT (Windows)
 =============================</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Installing and running &lt;a0&gt;OmegaT&lt;/a0&gt;</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200418T125215Z" creationid="maximo" creationdate="20200418T125215Z">
+        <seg>Встановлення та запуск &lt;a0&gt;OmegaT&lt;/a0&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -21968,6 +22008,14 @@ the server.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>This package is bundled with Oracle's Java Runtime Environment.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200418T125331Z" creationid="maximo" creationdate="20200418T125331Z">
+        <seg>Цей пакет містить у собі Oracle Java Runtime Environment.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>This page allows you to choose different colours for each part of the user interface.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="maximo" changedate="20200412T175436Z" creationid="maximo" creationdate="20200412T175436Z">
@@ -24295,6 +24343,14 @@ Your page is not found</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20190517T152315Z" creationid="Kos Ivantsov" creationdate="20190517T152315Z">
         <seg>Файли ресурсів Windows</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Windows Users</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200418T125217Z" creationid="maximo" creationdate="20200418T125217Z">
+        <seg>Користувачам Windows</seg>
       </tuv>
     </tu>
     <tu>
