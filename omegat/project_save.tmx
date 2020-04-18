@@ -21111,6 +21111,14 @@ in /lib/licenses/Licenses.txt.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The options for the program start-up in this case will be read from the &lt;f1&gt;OmegaT.l4J.ini&lt;/f1&gt; file, which resides in the same folder as the exe file and which you can edit to reflect your setup.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200418T130649Z" creationid="maximo" creationdate="20200418T130649Z">
+        <seg>У цьому випадку параметри для запуску програми зчитуються із файла &lt;f1&gt;OmegaT.l4J.ini&lt;/f1&gt;, який розташований у тій самій теці, що і файл .exe. Його можна редагувати, щоб змінити налаштування.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The password cannot be empty.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20190808T131631Z" creationid="Kos Ivantsov" creationdate="20190808T131631Z">
@@ -21347,6 +21355,14 @@ in /lib/licenses/Licenses.txt.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="maximo" changedate="20200405T043312Z" creationid="maximo" creationdate="20200405T043312Z">
         <seg>Синтаксис комбінацій клавіш виглядає так: &lt;c0&gt;&lt;код елемента меню&gt;=&lt;комбінація клавіш&gt;&lt;/c0&gt;, де &lt;e1&gt;&lt;код елемента меню&gt;&lt;/e1&gt; - це код із таблиці, вказаної нижче, а &lt;e2&gt;&lt;комбінація клавіш&gt;&lt;/e2&gt; - це комбінація клавіш, встановлених користувачем</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The simplest way to launch OmegaT, however, is to execute the &lt;f0&gt;OmegaT.exe&lt;/f0&gt; program.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200418T130350Z" creationid="maximo" creationdate="20200418T130350Z">
+        <seg>Але найпростіший шлях запуску OmegaT, це використання &lt;f0&gt;OmegaT.exe&lt;/f0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
