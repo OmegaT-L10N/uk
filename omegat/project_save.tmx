@@ -14785,6 +14785,14 @@ installed on your system.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Once &lt;a0&gt;OmegaT&lt;/a0&gt; is installed, you can click on &lt;f1&gt;OmegaT.jar&lt;/f1&gt; to launch it directly or you can launch it directly from the command line.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200418T130304Z" creationid="maximo" creationdate="20200418T130304Z">
+        <seg>Після того як &lt;a0&gt;OmegaT&lt;/a0&gt; встановлена, ви можете клікнути на &lt;f1&gt;OmegaT.jar&lt;/f1&gt;, щоб запустити її. Також ви можете запустити її з командного рядка.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Once a user has formulated a proposed change or enhancement to OmegaT, a defined procedure exists for its submission to the development team for consideration.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="lesia" changedate="20200322T144557Z" creationid="lesia" creationdate="20200322T144557Z">
@@ -17540,6 +17548,14 @@ These words: 'Page not found'</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20190807T214225Z" creationid="Kos Ivantsov" creationdate="20190422T215430Z">
         <seg>Запущено скрипт, прив’язаний до гнізда № {0}.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Running &lt;a0&gt;OmegaT&lt;/a0&gt;</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200418T130145Z" creationid="maximo" creationdate="20200418T130145Z">
+        <seg>Запуск &lt;a0&gt;OmegaT&lt;/a0&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -20985,6 +21001,14 @@ xx or xxx is the language code and YY is the region or country code (optional).<
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20190516T180637Z" creationid="Kos Ivantsov" creationdate="20190516T180637Z">
         <seg>Код мови має відповідати шаблонові xx-YY, xxx-YY, xxx_YY або xx_YY, де xx — код мови, а YY — код країни або області (може не вказуватися).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The last frame offers you to have a look at the readme and changes files for the version you have installed.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200418T130136Z" creationid="maximo" creationdate="20200418T130136Z">
+        <seg>У останньому вікні ви можете переглянути README та файл змін вашої версії програми.</seg>
       </tuv>
     </tu>
     <tu>
