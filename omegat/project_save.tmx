@@ -3836,6 +3836,14 @@ may experience unexpected, but correct behaviour.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>At the beginning of the installation you can select the language to be used during the installation.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200418T125528Z" creationid="maximo" creationdate="20200418T125528Z">
+        <seg>На початку ви можете обрати мову, якою буде проводитися процес встановлення.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>At the end of your translation, OmegaT exports three translation memories called &lt;c0&gt;level1&lt;/c0&gt;, &lt;c1&gt;level2&lt;/c1&gt; and &lt;c2&gt;omegat&lt;/c2&gt; to your project folder.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20190823T145935Z" creationid="Kos Ivantsov" creationdate="20190823T145635Z">
@@ -10392,6 +10400,14 @@ Explorer), change the settings so that file extensions are displayed.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If you check the corresponding checkbox, the &lt;f0&gt;OmegaT.l4J.ini&lt;/f0&gt; file is modified to use the language selected (see next section for details).</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200418T125740Z" creationid="maximo" creationdate="20200418T125740Z">
+        <seg>Якщо ви поставите відповідний прапорець, то у файл &lt;f0&gt;OmegaT.l4J.ini&lt;/f0&gt; буде записана обрана мова (у наступному розділі ви можете прочитати про це детальніше).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If you decide mid-translation to switch from sentence to paragraph translation, the internal translation memory of the project will not be changed (OmegaT may upgrade old translation memories that did not use sentence segmentation, but not vice versa), but OmegaT will attempt to create paragraph fuzzy matches by gluing together existing sentence translations.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="lesia" changedate="20200413T200659Z" creationid="lesia" creationdate="20200412T201144Z">
@@ -10820,6 +10836,14 @@ click on that shortcut.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>In the following window you can indicate that the language selected is to be used in OmegaT.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200418T125604Z" creationid="maximo" creationdate="20200418T125604Z">
+        <seg>А у наступному вікні ви зможете обрати мову для самої OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>In this case, do not select the Default version; select a different version (e.g. Standard or Latest), then select a version marked "Java not included".</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="lesia" changedate="20200324T173446Z" creationid="maximo" creationdate="20200322T155858Z">
@@ -11088,6 +11112,14 @@ click on that shortcut.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="maximo" changedate="20200322T135913Z" creationid="maximo" creationdate="20200322T135913Z">
         <seg>Тип встановлення</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Installing OmegaT</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200418T125358Z" creationid="maximo" creationdate="20200418T125358Z">
+        <seg>Встановлення OmegaT</seg>
       </tuv>
     </tu>
     <tu>
@@ -21728,6 +21760,14 @@ the server.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>This JRE will not interfere with other Java implementations that may already be installed on your system.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200418T125357Z" creationid="maximo" creationdate="20200418T125357Z">
+        <seg>Ця JRE не конфліктуватиме із іншими реалізаціями Java, які можуть бути встановлені у вашій системі.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>This URL appears to be invalid.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20190821T154315Z" creationid="Kos Ivantsov" creationdate="20190821T154315Z">
@@ -22238,6 +22278,14 @@ the server.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="lesia" changedate="20200324T154640Z" creationid="maximo" creationdate="20200322T172329Z">
         <seg>Визначити, яка версія вам підійде, можна тут:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To install &lt;a0&gt;OmegaT&lt;/a0&gt;, double-click on the program you have downloaded.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200418T125404Z" creationid="maximo" creationdate="20200418T125404Z">
+        <seg>Для встановлення &lt;a0&gt;OmegaT&lt;/a0&gt;, двічі клацність мишею по завантаженій програмі.</seg>
       </tuv>
     </tu>
     <tu>
