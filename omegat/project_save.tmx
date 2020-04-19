@@ -10498,6 +10498,14 @@ to use Java Web Start.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If you have made changes to your &lt;f0&gt;OmegaT.l4J.ini&lt;/f0&gt; file and/or are using a .bat file, you must copy these over.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200419T072112Z" creationid="maximo" creationdate="20200419T072112Z">
+        <seg>Якщо ви вносили зміни до &lt;f0&gt;OmegaT.l4J.ini&lt;/f0&gt; чи використовували файл .bat, вам доведеться перенести їх вручну.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If you install the OmegaT version with JRE even though the JRE is already installed on your computer, OmegaT's JRE will be installed separately and will not conflict with it.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="lesia" changedate="20200323T215748Z" creationid="maximo" creationdate="20200322T160103Z">
@@ -10598,6 +10606,14 @@ to use Java Web Start.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="lesia" changedate="20200323T223236Z" creationid="maximo" creationdate="20200322T180933Z">
         <seg>Якщо ви програмуєте і знаєте Java, прочитайте про те, як можна почати допомагати проєкту у &lt;a0&gt;вихідному коді&lt;/a0&gt; у директорії /docs_devel.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If your existing OmegaT installation is a "Windows with JRE" version, the new version must also be a "Windows with JRE" version.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200419T072217Z" creationid="maximo" creationdate="20200419T072217Z">
+        <seg>Якщо ваша версія OmegaT була "для Windows із JRE", нова версія також має бути "для Windows із JRE".</seg>
       </tuv>
     </tu>
     <tu>
@@ -10880,6 +10896,14 @@ click on that shortcut.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="lesia" changedate="20200324T173446Z" creationid="maximo" creationdate="20200322T155858Z">
         <seg>У цьому випадку не обирайте дефолтну версію — оберіть іншу версію (наприклад, стандартну чи останню), а потім оберіть версію, позначену як "без JRE".</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>In this case, however:</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200419T072019Z" creationid="maximo" creationdate="20200419T072019Z">
+        <seg>Але в той же час:</seg>
       </tuv>
     </tu>
     <tu>
