@@ -20776,8 +20776,8 @@ instead.</seg>
       <tuv lang="EN">
         <seg>The dialog allows you to enable or disable the following options:</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="maximo" changedate="20200412T195630Z" creationid="maximo" creationdate="20200412T195630Z">
-        <seg>Цей діалог дає можливість редагувати наступні параметри:</seg>
+      <tuv lang="UK-UA" changeid="lesia" changedate="20200419T062011Z" creationid="maximo" creationdate="20200412T195630Z">
+        <seg>Цей діалог дає можливість редагувати такі параметри:</seg>
       </tuv>
     </tu>
     <tu>
@@ -24149,8 +24149,8 @@ searchable without subscription:</seg>
       <tuv lang="EN">
         <seg>Warning: in Microsoft Open XML formats (docx, xlsx, etc.), if all tags are displayed, DO NOT place any text before the first tag – it is a technical tag that must always begin the segment.</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="maximo" changedate="20200412T200249Z" creationid="maximo" creationdate="20200412T200249Z">
-        <seg>Обережно! У форматах Microsoft Open XML (docx, xlsx, etc.) якщо відображаються всі теґи, ні в якому разі не вставляйте ніякий текст перед першим теґом! Це технічний теґ, він обов'язково має починати сегмент.</seg>
+      <tuv lang="UK-UA" changeid="lesia" changedate="20200419T062215Z" creationid="maximo" creationdate="20200412T200249Z">
+        <seg>Обережно! У форматах Microsoft Open XML (docx, xlsx, etc.) якщо відображуються всі теґи, в жодному разі не вставляйте ніякого тексту перед першим теґом! Це технічний теґ, він обов'язково має починати сегмент.</seg>
       </tuv>
     </tu>
     <tu>
