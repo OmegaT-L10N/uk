@@ -2162,8 +2162,8 @@ The current setting is {0}MB;</seg>
       <tuv lang="EN">
         <seg>&lt;e0&gt;Start a new paragraph on&lt;/e0&gt;: the &lt;br&gt; HTML tag will constitute a paragraph break for segmentation purposes.</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="maximo" changedate="20200413T112416Z" creationid="maximo" creationdate="20200413T112416Z">
-        <seg>&lt;e0&gt;Починати абзац на місці&lt;/e0&gt;:  HTML теґ &lt;br&gt; (розрив рядка) буде використовуватися як ознака кінця параграфу.</seg>
+      <tuv lang="UK-UA" changeid="lesia" changedate="20200419T063303Z" creationid="maximo" creationdate="20200413T112416Z">
+        <seg>&lt;e0&gt;Починати абзац на місці&lt;/e0&gt;:  HTML теґ &lt;br&gt; (розрив рядка) буде використовуватися як ознака кінця абзацу.</seg>
       </tuv>
     </tu>
     <tu>
