@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.2_0_6a661c5e0" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.2_0_6a661c5e" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -20256,8 +20256,8 @@ The scope of a search is by default the project and can be set to be any files l
       <tuv lang="EN">
         <seg>Technically speaking, the &lt;c0&gt;msgstr&lt;/c0&gt; segment in the PO target file, if created, will be left empty.</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="maximo" changedate="20200413T105504Z" creationid="maximo" creationdate="20200413T105504Z">
-        <seg>З технічної точки зору, &lt;c0&gt;msgstr&lt;/c0&gt; сегменти у перекладеному PO файлі, у випадку створення будуть залишатися порожніми.</seg>
+      <tuv lang="UK-UA" changeid="lesia" changedate="20200419T103100Z" creationid="maximo" creationdate="20200413T105504Z">
+        <seg>З технічної точки зору, сегмент &lt;c0&gt;msgstr&lt;/c0&gt; у перекладеному PO файлі, якщо він створиться, буде залишатися порожнім.</seg>
       </tuv>
     </tu>
     <tu>
