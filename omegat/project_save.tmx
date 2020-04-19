@@ -7712,8 +7712,8 @@ Your help page not found</seg>
       <tuv lang="EN">
         <seg>Enter "&lt;a0&gt;OmegaT&lt;/a0&gt;" in the "Name" field; in the "Command" field, use the navigation button to find your &lt;a1&gt;OmegaT&lt;/a1&gt; launch script (the file named &lt;a2&gt;OmegaT&lt;/a2&gt; in the unpacked folder).</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="maximo" changedate="20200419T110702Z" creationid="maximo" creationdate="20200419T110702Z">
-        <seg>Вставте "&lt;a0&gt;OmegaT&lt;/a0&gt;" у поле "" field; in the "Command" field, use the navigation button to find your &lt;a1&gt;OmegaT&lt;/a1&gt; launch script (the file named &lt;a2&gt;OmegaT&lt;/a2&gt; in the unpacked folder).</seg>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200419T110824Z" creationid="maximo" creationdate="20200419T110702Z">
+        <seg>Вставте "&lt;a0&gt;OmegaT&lt;/a0&gt;" у поле "Ім'я"; у полі "Команда" використайте кнопку Огляд, щоб знайти свій скрипт запуску &lt;a0&gt;OmegaT&lt;/a0&gt; (файл &lt;a1&gt;OmegaT&lt;/a1&gt; у розпакованій теці).</seg>
       </tuv>
     </tu>
     <tu>
@@ -18752,6 +18752,14 @@ The scope of a search is by default the project and can be set to be any files l
       </tuv>
       <tuv lang="UK-UA" changeid="maximo" changedate="20200419T105948Z" creationid="maximo" creationdate="20200419T105948Z">
         <seg>Оберіть іконку &lt;f2&gt;OmegaT.png&lt;/f2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Select the &lt;f3&gt;OmegaT.png&lt;/f3&gt; icon.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200419T110705Z" creationid="maximo" creationdate="20200419T110705Z">
+        <seg>іSelect the &lt;f3&gt;OmegaT.png&lt;/f3&gt; icon.</seg>
       </tuv>
     </tu>
     <tu>
