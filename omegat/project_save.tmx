@@ -15298,8 +15298,8 @@ Vanishing like mist</seg>
       <tuv lang="EN">
         <seg>Paragraph segmentation on line breaks, empty lines or never:</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="maximo" changedate="20200412T202552Z" creationid="maximo" creationdate="20200412T202552Z">
-        <seg>Сегментація на параграфи по символах нового рядка, пустих рядках, чи ніколи:</seg>
+      <tuv lang="UK-UA" changeid="lesia" changedate="20200419T062830Z" creationid="maximo" creationdate="20200412T202552Z">
+        <seg>Сегментація на абзаци по символах нового рядка, пустих рядках чи ніколи:</seg>
       </tuv>
     </tu>
     <tu>
