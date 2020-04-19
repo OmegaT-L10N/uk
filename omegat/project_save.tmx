@@ -2136,6 +2136,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;e0&gt;No / I don't know:&lt;/e0&gt; download &lt;f1&gt;OmegaT_4.n.n_Linux.tar.bz2&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200419T072355Z" creationid="maximo" creationdate="20200419T072355Z">
+        <seg>&lt;e0&gt;Ні / Я не знаю:&lt;/e0&gt; завантажте &lt;f1&gt;OmegaT_4.n.n_Linux.tar.bz2&lt;/f1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;e0&gt;No / I don't know:&lt;/e0&gt; download &lt;f1&gt;OmegaT_4.n.n_Windows.exe&lt;/f1&gt;.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="maximo" changedate="20200418T125257Z" creationid="maximo" creationdate="20200418T125257Z">
@@ -2212,6 +2220,14 @@ The current setting is {0}MB;</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="maximo" changedate="20200418T125249Z" creationid="maximo" creationdate="20200418T125249Z">
         <seg>&lt;e0&gt;Так: &lt;/e0&gt;завантажте &lt;e1&gt;OmegaT_4.n.n_Windows_without_JRE.exe&lt;/e1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;e0&gt;Yes: &lt;/e0&gt;download &lt;f1&gt;OmegaT_4.n.n_Without_JRE.zip&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200419T072300Z" creationid="maximo" creationdate="20200419T072300Z">
+        <seg>&lt;e0&gt;Так:&lt;/e0&gt; завантажте &lt;e1&gt;OmegaT_4.n.n_Without_JRE.zip&lt;/e1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7131,6 +7147,14 @@ Buy another drink</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="maximo" changedate="20200418T125225Z" creationid="maximo" creationdate="20200418T125225Z">
         <seg>Завантажте пакет</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Downloading the right package</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200419T072244Z" creationid="maximo" creationdate="20200419T072244Z">
+        <seg>Завантажте правильний пакет</seg>
       </tuv>
     </tu>
     <tu>
@@ -12391,6 +12415,14 @@ itself on the first run.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="maximo" changedate="20200322T135817Z" creationid="maximo" creationdate="20200322T135817Z">
         <seg>Щоб задовільнити потреби різних користувачів, OmegaT доступна у багатьох версіях.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Linux (Intel) Users</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200419T072224Z" creationid="maximo" creationdate="20200419T072224Z">
+        <seg>Користувачам Linux (Intel)</seg>
       </tuv>
     </tu>
     <tu>
@@ -22280,6 +22312,14 @@ the server.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>This will create an &lt;f0&gt;omegat/&lt;/f0&gt; folder in the working folder in which you will find all the files needed to run &lt;a1&gt;OmegaT&lt;/a1&gt;.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200419T072504Z" creationid="maximo" creationdate="20200419T072504Z">
+        <seg>В результаті ви отримаєте теку &lt;f0&gt;omegat/&lt;/f0&gt;, у якій ви побачите файли, що необхідні для запуску &lt;a1&gt;OmegaT&lt;/a1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>This will discard all changes you have made so far.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20190821T212602Z" creationid="Kos Ivantsov" creationdate="20190821T212602Z">
@@ -22542,6 +22582,14 @@ the server.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="lesia" changedate="20200321T130430Z" creationid="lesia" creationdate="20200321T130430Z">
         <seg>Для руху open source ця свобода важливіша, ніж той факт, що програмне забезпечення безкоштовне.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To untar the &lt;f2&gt;.tar.gz&lt;/f2&gt; file:</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200419T072533Z" creationid="maximo" creationdate="20200419T072533Z">
+        <seg>Команда для розпакування &lt;f2&gt;.tar.gz&lt;/f2&gt;:</seg>
       </tuv>
     </tu>
     <tu>
@@ -23452,6 +23500,14 @@ file and the OmegaT application.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="maximo" changedate="20200404T164555Z" creationid="maximo" creationdate="20200404T164555Z">
         <seg>Розпакуйте zip-архів OmegaT, який містить теку із файлом документації та застосунком OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Unpack/untar the downloaded file.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200419T072414Z" creationid="maximo" creationdate="20200419T072414Z">
+        <seg>Розпакуйте завантажений файл.</seg>
       </tuv>
     </tu>
     <tu>
