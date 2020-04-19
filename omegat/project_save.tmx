@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.2_0_6a661c5e0" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.2_0_6a661c5e" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -2098,8 +2098,8 @@ The current setting is {0}MB;</seg>
       <tuv lang="EN">
         <seg>&lt;e0&gt;Do not translate the content of tags with the following attribute key-value pairs (separate with commas)&lt;/e0&gt;: if a tag matches the list of key-value pairs, its content will be ignored.</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="maximo" changedate="20200413T113551Z" creationid="maximo" creationdate="20200413T113107Z">
-        <seg>&lt;e0&gt;Не перекладати вміст тих теґів, що мають наступні пари «ключ-значення» (окремо через коми)&lt;/e0&gt;: якщо серед атрибутів теґу зустрічаються якісь з перелічених - не перекладати його вміст.</seg>
+      <tuv lang="UK-UA" changeid="lesia" changedate="20200419T063429Z" creationid="maximo" creationdate="20200413T113107Z">
+        <seg>&lt;e0&gt;Не перекладати вміст тих теґів, що мають такі пари «ключ-значення» (окремо через коми)&lt;/e0&gt;: якщо серед атрибутів теґу зустрічаються якісь з перелічених - не перекладати його вміст.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2162,8 +2162,8 @@ The current setting is {0}MB;</seg>
       <tuv lang="EN">
         <seg>&lt;e0&gt;Preserve spaces for all tags&lt;/e0&gt;: if checked, "white space" (i.e. spaces and newlines) will be preserved, even if this option is not defined in the document.</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="maximo" changedate="20200413T114508Z" creationid="maximo" creationdate="20200413T114508Z">
-        <seg>&lt;e0&gt;Зберігати пробіли для всіх теґів&lt;/e0&gt;: якщо цей прапорець активний, то пробільні символи, тобто пробіли та символи нового рядка будуть зберігатися, навіть якщо цей параметр не проставлений у самому документі.</seg>
+      <tuv lang="UK-UA" changeid="lesia" changedate="20200419T063607Z" creationid="maximo" creationdate="20200413T114508Z">
+        <seg>&lt;e0&gt;Зберігати пробіли для всіх теґів&lt;/e0&gt;: якщо цей прапорець активний, то пробільні символи, тобто пробіли та символи нового рядка, будуть зберігатися, навіть якщо цей параметр не проставлений у самому документі.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9042,8 +9042,8 @@ provided (omegat.kaptn).</seg>
       <tuv lang="EN">
         <seg>For the example above, the field would contain: &lt;l1&gt;class=hide, translate=no &lt;/l1&gt;.</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="maximo" changedate="20200413T113438Z" creationid="maximo" creationdate="20200413T113438Z">
-        <seg>Для попереднього прикладу це будуть &lt;l1&gt;class=hide, translate=no &lt;/l1&gt;.</seg>
+      <tuv lang="UK-UA" changeid="lesia" changedate="20200419T063508Z" creationid="maximo" creationdate="20200413T113438Z">
+        <seg>Для наведеного прикладу це будуть &lt;l1&gt;class=hide, translate=no &lt;/l1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -25281,8 +25281,8 @@ installation script (linux-install.sh).</seg>
       <tuv lang="EN">
         <seg>You can select which of the following items are to be translated:</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="maximo" changedate="20200413T164819Z" creationid="maximo" creationdate="20200413T164819Z">
-        <seg>Ви можете обрати, які елементи будуть перекладатися</seg>
+      <tuv lang="UK-UA" changeid="lesia" changedate="20200419T094919Z" creationid="maximo" creationdate="20200413T164819Z">
+        <seg>Ви можете обрати, які елементи будуть перекладатися:</seg>
       </tuv>
     </tu>
     <tu>
