@@ -20353,6 +20353,14 @@ current folder will be used instead.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The "old" version of OmegaT will be overwritten, but any settings from it will be retained.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200419T071351Z" creationid="maximo" creationdate="20200419T071351Z">
+        <seg>Стара версія OmegaT буде перезаписана, але всі налаштування збережуться.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The '?' character matches exactly one character.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="maximo" changedate="20200413T184252Z" creationid="maximo" creationdate="20200413T184252Z">
@@ -21980,6 +21988,14 @@ the server.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="lesia" changedate="20200324T171302Z" creationid="lesia" creationdate="20200321T154144Z">
         <seg>Нинішній координатор OmegaT каже, що це «делегована анархія».</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This includes preferences set from within OmegaT, any changes you have made to your &lt;f1&gt;OmegaT.l4J.ini&lt;/f1&gt; file, and also your launch script (&lt;f2&gt;.bat&lt;/f2&gt; file), if you are using one.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200419T071542Z" creationid="maximo" creationdate="20200419T071542Z">
+        <seg>Тобто всі налаштування, які ви зробили безпосередньо із OmegaT, всі зміни до файлу &lt;f1&gt;OmegaT.l4J.ini&lt;/f1&gt;, а також скрипт запуску (файл &lt;f2&gt;.bat&lt;/f2&gt;), якщо ви його використовували.</seg>
       </tuv>
     </tu>
     <tu>
@@ -24559,6 +24575,14 @@ Your page is not found</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="lesia" changedate="20200322T213422Z" creationid="maximo" creationdate="20200322T144635Z">
         <seg>З JRE</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>With this method, you may also download the "Windows without JRE" version, since the new installation will use your existing JRE.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200419T071724Z" creationid="maximo" creationdate="20200419T071724Z">
+        <seg>До речі, цим способом ви можете обрати версію "для Windows без JRE", оскільки нова версія OmegaT буде використовувати вже існуюче JRE.</seg>
       </tuv>
     </tu>
     <tu>
