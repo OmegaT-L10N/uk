@@ -2098,8 +2098,8 @@ The current setting is {0}MB;</seg>
       <tuv lang="EN">
         <seg>&lt;e0&gt;Do not translate the content of tags with the following attribute key-value pairs (separate with commas)&lt;/e0&gt;: if a tag matches the list of key-value pairs, its content will be ignored.</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="lesia" changedate="20200419T063429Z" creationid="maximo" creationdate="20200413T113107Z">
-        <seg>&lt;e0&gt;Не перекладати вміст тих теґів, що мають такі пари «ключ-значення» (окремо через коми)&lt;/e0&gt;: якщо серед атрибутів теґу зустрічаються якісь з перелічених - не перекладати його вміст.</seg>
+      <tuv lang="UK-UA" changeid="lesia" changedate="20200419T105209Z" creationid="maximo" creationdate="20200413T113107Z">
+        <seg>&lt;e0&gt;Не перекладати вміст тих теґів, що мають наступні пари «ключ-значення» (окремо через коми)&lt;/e0&gt;: якщо серед атрибутів теґу зустрічаються якісь з перелічених - не перекладати його вміст.</seg>
       </tuv>
     </tu>
     <tu>
