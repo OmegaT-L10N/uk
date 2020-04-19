@@ -2128,6 +2128,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;e0&gt;Install to a new folder.&lt;/e0&gt; This will enable you to keep both versions side-by-side, which you may wish to do until you feel comfortable with the new version.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200419T071856Z" creationid="maximo" creationdate="20200419T071856Z">
+        <seg>&lt;e0&gt;Встановити у нову теку.&lt;/e0&gt; Це дозволить зберегти дві версії поряд незалежно, що може бути корисно до того часу, як ви звикнете до нової.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;e0&gt;No / I don't know:&lt;/e0&gt; download &lt;f1&gt;OmegaT_4.n.n_Windows.exe&lt;/f1&gt;.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="maximo" changedate="20200418T125257Z" creationid="maximo" creationdate="20200418T125257Z">
@@ -22132,6 +22140,14 @@ the server.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="lesia" changedate="20200321T125511Z" creationid="lesia" creationdate="20200321T125511Z">
         <seg>Це означає, що вихідний код програми OmegaT доступний всім, а ліцензія OmegaT надає користувачам значну свободу під час роботи з ним.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This method will also use preferences and settings you have made from within OmegaT.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200419T071950Z" creationid="maximo" creationdate="20200419T071950Z">
+        <seg>Нова версія також буде бачити налаштування, які ви зробили зсередини OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
