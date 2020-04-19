@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.2_0_6a661c5e" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.2_0_6a661c5e0" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -7702,6 +7702,14 @@ Your help page not found</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Enter &lt;a2&gt;OmegaT&lt;/a2&gt; as the name of the new item.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200419T102352Z" creationid="maximo" creationdate="20200419T102312Z">
+        <seg>Вставте &lt;a2&gt;OmegaT&lt;/a2&gt; як ім'я нового елемента.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Enter a source term, a target term and a comment:</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20190821T145835Z" creationid="Kos Ivantsov" creationdate="20190821T145835Z">
@@ -10904,6 +10912,14 @@ click on that shortcut.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="maximo" changedate="20200414T200320Z" creationid="maximo" creationdate="20200414T200320Z">
         <seg>Наприклад, не зважаючи на крапку, &lt;e0&gt;"вул. Сонячна"&lt;/e0&gt; має лишатися в одному сегменті. Тому треба, щоб для випадку, коли після вул (а також пров, просп, пл, наб і т.п.) йде крапка, був зроблений вийняток.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>In the "Command" field, use the navigation button to find your &lt;a0&gt;OmegaT&lt;/a0&gt; launch script (the file named &lt;a1&gt;OmegaT&lt;/a1&gt; in the unpacked folder), and select it.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200419T102543Z" creationid="maximo" creationdate="20200419T102543Z">
+        <seg>У полі "Команда" використайте кнопку Огляд, щоб знайти свій скрипт запуску &lt;a0&gt;OmegaT&lt;/a0&gt; (файл &lt;a1&gt;OmegaT&lt;/a1&gt; у розпакованій теці).</seg>
       </tuv>
     </tu>
     <tu>
@@ -21739,6 +21755,14 @@ in /lib/licenses/Licenses.txt.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20190820T122526Z" creationid="Kos Ivantsov" creationdate="20190820T122526Z">
         <seg>Тоді під час перекладу з канадської французької всі правила, визначені для всього мовного ланцюжка, будуть застосовані в правильному порядку.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Then, after selecting a suitable menu, add a submenu/item with &lt;e0&gt;File - New&lt;/e0&gt; Submenu and &lt;e1&gt;File - New Item&lt;/e1&gt;.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200419T102326Z" creationid="maximo" creationdate="20200419T102310Z">
+        <seg>Тоді після вибору потрібного меню додайте підменю/елемент за допомогою підменю &lt;e0&gt;Файл - Новий&lt;/e0&gt; та &lt;e1&gt;Файл - Новий елемент&lt;/e1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
