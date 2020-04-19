@@ -3080,6 +3080,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Adding &lt;a0&gt;OmegaT&lt;/a0&gt; to your menus (KDE) or panels (Gnome)</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200419T072611Z" creationid="maximo" creationdate="20200419T072611Z">
+        <seg>Додавання &lt;a0&gt;OmegaT&lt;/a0&gt; у меню (KDE) чи панелі (Gnome)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Additional variants are available for variables ${nameOnly} and ${Extension}.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="maximo" changedate="20200413T192209Z" creationid="maximo" creationdate="20200413T192209Z">
@@ -11845,6 +11853,14 @@ itself on the first run.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20190420T125035Z" creationid="Kos Ivantsov" creationdate="20190420T125035Z">
         <seg>Перехід до останнього редагованого сегмента...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>KDE 4 Users</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200419T072615Z" creationid="maximo" creationdate="20200419T072615Z">
+        <seg>Користувачам KDE 4</seg>
       </tuv>
     </tu>
     <tu>
@@ -24984,6 +25000,14 @@ can then launch the Kaptain launch script with:</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20190820T192031Z" creationid="Kos Ivantsov" creationdate="20190820T192031Z">
         <seg>Ви видаляєте правописний словник, який використовується у поточному проєкті.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You can add &lt;a0&gt;OmegaT&lt;/a0&gt; to your menus as follows:</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200419T072724Z" creationid="maximo" creationdate="20200419T072724Z">
+        <seg>Ви можете додати &lt;a0&gt;OmegaT&lt;/a0&gt; у меню таким чином:</seg>
       </tuv>
     </tu>
     <tu>
