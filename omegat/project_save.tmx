@@ -1970,8 +1970,8 @@ The current setting is {0}MB;</seg>
       <tuv lang="EN">
         <seg>&lt;a0&gt;OmegaT&lt;/a0&gt; has two ways to segment a text: by paragraph or by sentence segmentation (also referred to as “rule-based segmentation”).</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="maximo" changedate="20200413T192714Z" creationid="maximo" creationdate="20200413T192714Z">
-        <seg>В &lt;a0&gt;OmegaT&lt;/a0&gt; вбудовано два способи сегментації: розбиття на параграфи та розбиття на речення, яке ще називають "сегментація на базі правил".</seg>
+      <tuv lang="UK-UA" changeid="lesia" changedate="20200419T103406Z" creationid="maximo" creationdate="20200413T192714Z">
+        <seg>В &lt;a0&gt;OmegaT&lt;/a0&gt; вбудовано два способи сегментації: розбиття на абзаци та розбиття на речення, яке ще називають "сегментація за правилами".</seg>
       </tuv>
     </tu>
     <tu>
@@ -4586,8 +4586,8 @@ Buy another drink</seg>
       <tuv lang="EN">
         <seg>By default, the translated file encoding is the same as the source file encoding.</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="maximo" changedate="20200413T185224Z" creationid="maximo" creationdate="20200413T185224Z">
-        <seg>За замовченням перекладені файли записуються в тій самій системі кодування, що була у файлів для перекладу.</seg>
+      <tuv lang="UK-UA" changeid="lesia" changedate="20200419T103228Z" creationid="maximo" creationdate="20200413T185224Z">
+        <seg>За замовчуванням перекладені файли записуються в тій самій системі кодування, що була у файлів для перекладу.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8898,8 +8898,8 @@ provided (omegat.kaptn).</seg>
       <tuv lang="EN">
         <seg>For example, by default &lt;l0&gt;.txt&lt;/l0&gt; files will be loaded using the default encoding of your operating system.</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="maximo" changedate="20200413T185003Z" creationid="maximo" creationdate="20200413T185003Z">
-        <seg>Наприклад, за замовченням файли &lt;l0&gt;.txt&lt;/l0&gt; завантажуються у системі кодування, що вказана як основна у вашій операційній системі.</seg>
+      <tuv lang="UK-UA" changeid="lesia" changedate="20200419T103216Z" creationid="maximo" creationdate="20200413T185003Z">
+        <seg>Наприклад, за замовчуванням файли &lt;l0&gt;.txt&lt;/l0&gt; завантажуються у системі кодування, що вказана як основна у вашій операційній системі.</seg>
       </tuv>
     </tu>
     <tu>
@@ -15426,8 +15426,8 @@ Vanishing like mist</seg>
       <tuv lang="EN">
         <seg>Paragraph segmentation is advantageous in certain cases, such as highly creative or stylistic translations in which the translator may wish to change the order of entire sentences; for the majority of projects, however, sentence segmentation is a choice to be preferred, since it delivers better matches from previous translations.</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="maximo" changedate="20200414T101401Z" creationid="maximo" creationdate="20200414T101401Z">
-        <seg>Сегментація на параграфи в деяких випадках має переваги. Наприклад, для художнього перекладу, де перекладач може захотіти змінити порядок чи кількість речень. Але для більшості проєктів краще обирати сегментацію на речення, бо вона дає більше збігів з попередніми перекладами.</seg>
+      <tuv lang="UK-UA" changeid="lesia" changedate="20200419T103431Z" creationid="maximo" creationdate="20200414T101401Z">
+        <seg>Сегментація на абзаци в деяких випадках має переваги. Наприклад, для художнього перекладу, де перекладач може захотіти змінити порядок чи кількість речень. Але для більшості проєктів краще обирати сегментацію на речення, бо вона дає більше збігів з попередніми перекладами.</seg>
       </tuv>
     </tu>
     <tu>
