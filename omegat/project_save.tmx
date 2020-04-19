@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.2_0_6a661c5e0" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.2_0_6a661c5e" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -2090,8 +2090,8 @@ The current setting is {0}MB;</seg>
       <tuv lang="EN">
         <seg>&lt;e0&gt;Do not translate the content attribute of meta-tags ...:&lt;/e0&gt; The meta-tags in the box will not be translated.</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="lesia" changedate="20200419T104508Z" creationid="maximo" creationdate="20200413T112955Z">
-        <seg>&lt;e0&gt;Не перекладати атрибут вмісту метатеґів, що мають такі пари «ключ-значення» (окремо через коми):&lt;/e0&gt; Не перекладати метатеґи, перераховані у текстовому полі.</seg>
+      <tuv lang="UK-UA" changeid="lesia" changedate="20200419T105331Z" creationid="maximo" creationdate="20200413T112955Z">
+        <seg>&lt;e0&gt;Не перекладати атрибут вмісту метатеґів, що мають наступні пари «ключ-значення» (окремо через коми):&lt;/e0&gt; Не перекладати метатеґи, перераховані у текстовому полі.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9042,8 +9042,8 @@ provided (omegat.kaptn).</seg>
       <tuv lang="EN">
         <seg>For instance, if the file filter specifies UTF8 as the encoding scheme for the target files, selecting Always will ensure that this information is included in the translated files.</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="maximo" changedate="20200413T164427Z" creationid="maximo" creationdate="20200413T164427Z">
-        <seg>Наприклад, якщо фільтр файлів вказує UTF8 як систему кодування для перекладених файлів, то обирання варіанту Завжди гарантує те, що ця інформація буде відображена у перекладених файлах.</seg>
+      <tuv lang="UK-UA" changeid="lesia" changedate="20200419T142704Z" creationid="maximo" creationdate="20200413T164427Z">
+        <seg>Наприклад, якщо фільтр файлів вказує UTF-8 як систему кодування для перекладених файлів, то обирання варіанту Завжди гарантує те, що ця інформація буде відображена у перекладених файлах.</seg>
       </tuv>
     </tu>
     <tu>
