@@ -7710,6 +7710,14 @@ Your help page not found</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Enter "&lt;a0&gt;OmegaT&lt;/a0&gt;" in the "Name" field; in the "Command" field, use the navigation button to find your &lt;a1&gt;OmegaT&lt;/a1&gt; launch script (the file named &lt;a2&gt;OmegaT&lt;/a2&gt; in the unpacked folder).</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200419T110702Z" creationid="maximo" creationdate="20200419T110702Z">
+        <seg>Вставте "&lt;a0&gt;OmegaT&lt;/a0&gt;" у поле "" field; in the "Command" field, use the navigation button to find your &lt;a1&gt;OmegaT&lt;/a1&gt; launch script (the file named &lt;a2&gt;OmegaT&lt;/a2&gt; in the unpacked folder).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Enter &lt;a2&gt;OmegaT&lt;/a2&gt; as the name of the new item.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="maximo" changedate="20200419T102352Z" creationid="maximo" creationdate="20200419T102312Z">
@@ -17636,6 +17644,14 @@ These words: 'Page not found'</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="lesia" changedate="20200324T094824Z" creationid="maximo" creationdate="20200322T165638Z">
         <seg>Огляди OmegaT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Right-click on the panel - &lt;e0&gt;Add New Launcher&lt;/e0&gt;.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200419T110635Z" creationid="maximo" creationdate="20200419T110635Z">
+        <seg>Натисніть правою кнопкою на панель - &lt;e0&gt;Додати нову кнопку запуску&lt;/e0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
