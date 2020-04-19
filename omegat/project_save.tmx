@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.2_0_6a661c5e" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.2_0_6a661c5e0" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -3060,6 +3060,14 @@ The current setting is {0}MB;</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="maximo" changedate="20200321T130923Z" creationid="maximo" creationdate="20200321T130923Z">
         <seg>Адміністрація</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Advice: if OmegaT works slowly in Remote Desktop sessions under Windows, you may use this option:</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200419T070659Z" creationid="maximo" creationdate="20200419T070659Z">
+        <seg>Порада: якщо OmegaT працює повільно у сесіях віддаленого робочого столу під операційною системою Windows, то можна використати такий параметр:</seg>
       </tuv>
     </tu>
     <tu>
@@ -11410,6 +11418,14 @@ click on that shortcut.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="maximo" changedate="20200323T220110Z" creationid="maximo" creationdate="20200322T112839Z">
         <seg>Він розташований у директорії програми OmegaT "docs".</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>It does not apply to the Web Start versions, which are upgraded automatically, nor to cross-platform versions installed on Windows.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200419T070947Z" creationid="maximo" creationdate="20200419T070947Z">
+        <seg>Вона не стосується версій Web Start, які оновлюються автоматично, та кросплатформенних версій, які встановлені на Windows.</seg>
       </tuv>
     </tu>
     <tu>
@@ -20902,6 +20918,14 @@ instead.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The following example for the INI file reserves 1 GB of memory, requests French as the user language and Canada as the country:</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200418T130825Z" creationid="maximo" creationdate="20200418T130825Z">
+        <seg>Ось цей INI файл, наприклад, резервує 1 GB памʼяті, виставляє як мову інтерфейсу французьку, а як країну - Канаду:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The following example shows Merriam Webster 10th dictionary "in action":</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="maximo" changedate="20200329T200613Z" creationid="maximo" creationdate="20200329T200613Z">
@@ -21940,6 +21964,14 @@ the server.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="lesia" changedate="20200324T171302Z" creationid="lesia" creationdate="20200321T154144Z">
         <seg>Нинішній координатор OmegaT каже, що це «делегована анархія».</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This information applies only to the "Traditional" Windows versions of OmegaT.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200419T070818Z" creationid="maximo" creationdate="20200419T070805Z">
+        <seg>Ця інформація стосується лише "традиційних" версій OmegaT для Windows.</seg>
       </tuv>
     </tu>
     <tu>
@@ -23456,6 +23488,14 @@ on line {1}, column {2}.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20190807T214519Z" creationid="Kos Ivantsov" creationdate="20190807T214519Z">
         <seg>Оновлення</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Upgrading OmegaT</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200419T070713Z" creationid="maximo" creationdate="20200419T070713Z">
+        <seg>Оновлення OmegaT</seg>
       </tuv>
     </tu>
     <tu>
