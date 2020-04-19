@@ -2120,6 +2120,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;e0&gt;Install over the existing installation.&lt;/e0&gt; To do this, simply select the same installation folder as the existing installation when installing the new version.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200419T071311Z" creationid="maximo" creationdate="20200419T071311Z">
+        <seg>&lt;e0&gt;Встановити поверх існуючої версії.&lt;/e0&gt; Щоб зробити це, під час встановлення новішої версії просто вкажіть ту саму теку.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;e0&gt;No / I don't know:&lt;/e0&gt; download &lt;f1&gt;OmegaT_4.n.n_Windows.exe&lt;/f1&gt;.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="maximo" changedate="20200418T125257Z" creationid="maximo" creationdate="20200418T125257Z">
@@ -10282,6 +10290,14 @@ their defaults as a result of the location change.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="maximo" changedate="20200416T213008Z" creationid="maximo" creationdate="20200416T213008Z">
         <seg>Якщо ви додасте префікс, наприклад [нечіткий збіг], то вам легше буде відслідковувати такі переклади і перевіряти, чи вони правильні.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If you already have a version of OmegaT installed on your PC and wish to upgrade to a more recent version, you have two options:</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200419T071134Z" creationid="maximo" creationdate="20200419T071134Z">
+        <seg>Якщо у вас на комп'ютері вже встановлена версія OmegaT, і ви хочете оновити її до новішої, у вас є два варіанта:</seg>
       </tuv>
     </tu>
     <tu>
