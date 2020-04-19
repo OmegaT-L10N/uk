@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.2_0_6a661c5e" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.2_0_6a661c5e0" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -5308,6 +5308,14 @@ Buy another drink</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20190823T144923Z" creationid="Kos Ivantsov" creationdate="20190823T144923Z">
         <seg>Для вибору файлів, які мають перекладатися у цьому проєкті, натисніть кнопку &lt;s1&gt;«Скопіювати документи до теки з файлами для перекладу...»&lt;/s1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Click on the icon button (to the right of the Name/Description/Comment fields)</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200419T105151Z" creationid="maximo" creationdate="20200419T105151Z">
+        <seg>Натисніть на кнопку додавання іконки (справа від полів Ім'я/Опис/Коментар)</seg>
       </tuv>
     </tu>
     <tu>
@@ -15284,6 +15292,14 @@ installed on your system.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Other Icons - Browse, and navigate to the &lt;f0&gt;/images&lt;/f0&gt; subfolder in the &lt;a1&gt;OmegaT&lt;/a1&gt; application folder.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200419T105335Z" creationid="maximo" creationdate="20200419T105335Z">
+        <seg>Інші іконки - Огляд, та перейдіть у підтеку &lt;f0&gt;/images&lt;/f0&gt; головної теки програми &lt;a1&gt;OmegaT&lt;/a1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Other OmegaT resources</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="lesia" changedate="20200322T150350Z" creationid="lesia" creationdate="20200322T150350Z">
@@ -18696,6 +18712,14 @@ The scope of a search is by default the project and can be set to be any files l
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20190821T135256Z" creationid="Kos Ivantsov" creationdate="20190821T135256Z">
         <seg>Виберіть файл languagetool-server.jar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Select the &lt;f2&gt;OmegaT.png&lt;/f2&gt; icon.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200419T105948Z" creationid="maximo" creationdate="20200419T105948Z">
+        <seg>Оберіть іконку &lt;f2&gt;OmegaT.png&lt;/f2&gt;.</seg>
       </tuv>
     </tu>
     <tu>
