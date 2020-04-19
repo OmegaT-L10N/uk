@@ -14707,8 +14707,8 @@ installed on your system.</seg>
       <tuv lang="EN">
         <seg>OmegaT will then omit the corresponding files when loading projects, and will copy them unmodified to the target folder when creating target documents.</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="maximo" changedate="20200412T195153Z" creationid="maximo" creationdate="20200412T195153Z">
-        <seg>OmegaT буде пропускати файли цього типу при завантаженні проєкту та скопіює їх незмінними в теку з результатами перекладу.</seg>
+      <tuv lang="UK-UA" changeid="lesia" changedate="20200419T061723Z" creationid="maximo" creationdate="20200412T195153Z">
+        <seg>OmegaT пропускатиме файли цього типу при завантаженні проєкту та скопіює їх незмінними в теку з результатами перекладу.</seg>
       </tuv>
     </tu>
     <tu>
@@ -22300,8 +22300,8 @@ the server.</seg>
       <tuv lang="EN">
         <seg>To edit the files and encodings a filter is used for, select the filter in the list and click &lt;e1&gt;Edit.&lt;/e1&gt;</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="maximo" changedate="20200412T195521Z" creationid="maximo" creationdate="20200412T195521Z">
-        <seg>Для налаштування того, які типи файлів та в якому кодуванні фільтри оброблятимуть, виберіть потрібний фільтр у переліку та натисніть «Редагувати».</seg>
+      <tuv lang="UK-UA" changeid="lesia" changedate="20200419T061959Z" creationid="maximo" creationdate="20200412T195521Z">
+        <seg>Щоб налаштувати, які типи файлів та в якому кодуванні оброблятиме той чи інший фільтр, виберіть потрібний фільтр у переліку та натисніть «Редагувати».</seg>
       </tuv>
     </tu>
     <tu>
