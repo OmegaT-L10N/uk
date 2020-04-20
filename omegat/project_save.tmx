@@ -7312,6 +7312,14 @@ Buy another drink</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Drag and drop</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200420T171129Z" creationid="maximo" creationdate="20200420T171129Z">
+        <seg>Функція drag and drop</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Drag and drop &lt;f0&gt;OmegaT.app&lt;/f0&gt; onto the Dock.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="maximo" changedate="20200420T162903Z" creationid="maximo" creationdate="20200420T162903Z">
@@ -11053,6 +11061,14 @@ click on that shortcut.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>In most systems, it is possible to open a project by dropping an &lt;f0&gt;omegat.project&lt;/f0&gt; file onto the OmegaT icon on the desktop.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200420T171227Z" creationid="maximo" creationdate="20200420T171227Z">
+        <seg>У більшості систем можна відкрити проєкт, перетягнувши файл &lt;f0&gt;omegat.project&lt;/f0&gt; на іконку OmegaT на робочому столі.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>In non-segmented projects, it is possible to keep it by unchecking this option.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="maximo" changedate="20200412T200440Z" creationid="maximo" creationdate="20200412T200440Z">
@@ -12992,6 +13008,14 @@ itself on the first run.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="maximo" changedate="20200420T162403Z" creationid="maximo" creationdate="20200420T162403Z">
         <seg>Перевірте, щоб налаштування &lt;v1&gt;PATH&lt;/v1&gt; були правильні, та щоб файли &lt;f2&gt;.jar&lt;/f2&gt; були правильно прив'язані до запуску через середовище Java.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Make sure that your &lt;v2&gt;PATH&lt;/v2&gt; settings are correct and that &lt;f3&gt;.jar&lt;/f3&gt; files are properly associated with a Java launcher.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200420T171106Z" creationid="maximo" creationdate="20200420T171106Z">
+        <seg>Перевірте, щоб налаштування &lt;v2&gt;PATH&lt;/v2&gt; були правильні, та щоб файли &lt;f3&gt;.jar&lt;/f3&gt; були правильно прив'язані до запуску через середовище Java.</seg>
       </tuv>
     </tu>
     <tu>
@@ -15198,6 +15222,14 @@ installed on your system.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="maximo" changedate="20200418T130304Z" creationid="maximo" creationdate="20200418T130304Z">
         <seg>Після того як &lt;a0&gt;OmegaT&lt;/a0&gt; встановлена, ви можете клікнути на &lt;f1&gt;OmegaT.jar&lt;/f1&gt;, щоб запустити її. Також ви можете запустити її з командного рядка.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Once &lt;a0&gt;OmegaT&lt;/a0&gt; is installed, you can launch it directly from the command line, you can create a script that includes launch parameters for the command line or you can click on &lt;f1&gt;OmegaT.jar&lt;/f1&gt; to launch it directly.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200420T171045Z" creationid="maximo" creationdate="20200420T171045Z">
+        <seg>Після того як &lt;a0&gt;OmegaT&lt;/a0&gt; встановлена, ви можете запустити її з командного рядка, створити скрипт з потрібними параметрами запуску, чи клікнути на &lt;f1&gt;OmegaT.jar&lt;/f1&gt;, щоб запустити її безпосередньо.</seg>
       </tuv>
     </tu>
     <tu>
