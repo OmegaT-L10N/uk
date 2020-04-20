@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.2_0_6a661c5e0" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.2_0_6a661c5e" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -6455,6 +6455,14 @@ Buy another drink</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Defines the project-specific external search resources.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="lesia" changedate="20200420T170502Z" creationid="lesia" creationdate="20200420T170502Z">
+        <seg>Визначає специфічні для проєкту зовнішні ресурси пошуку.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Degree thesis by Sébastien Guillardeau, 2010 (in German).</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="maximo" changedate="20200322T170554Z" creationid="maximo" creationdate="20200322T170554Z">
@@ -8457,8 +8465,8 @@ Gossamer threads hold you back
       <tuv lang="EN">
         <seg>External Search...</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20190808T121311Z" creationid="Kos Ivantsov" creationdate="20190504T133002Z">
-        <seg>Зовнішній по&amp;шук...</seg>
+      <tuv lang="UK-UA" changeid="lesia" changedate="20200420T170013Z" creationid="Kos Ivantsov" creationdate="20190504T133002Z">
+        <seg>Зовнішній пошук...</seg>
       </tuv>
     </tu>
     <tu>
@@ -9925,6 +9933,14 @@ Its winter has come</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Here you can select different subfolders, for instance the subfolder with source files, subfolder for target files etc.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="lesia" changedate="20200420T171136Z" creationid="lesia" creationdate="20200420T171136Z">
+        <seg>Тут можна вибрати різні підтеки, наприклад, підтеки з файлами оригіналу, підтеки з файлами перекладу тощо.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Here you may also specify custom location of project folders.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20190504T135515Z" creationid="Kos Ivantsov" creationdate="20190504T135515Z">
@@ -10717,6 +10733,14 @@ Explorer), change the settings so that file extensions are displayed.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="lesia" changedate="20200413T200659Z" creationid="lesia" creationdate="20200412T201144Z">
         <seg>Якщо під час перекладу ви вирішите змінити правила сегментації і працювати не за реченнями, а за абзацами, це не змінить памʼять перекладів, що створилася у проєкті (OmegaT може оновити старі файли памʼяті перекладів, які працювали з більшими за реченнями сегментами, але не навпаки). Однак, OmegaT буде намагатися створити нечіткі збіги на рівні абзаців, "склеюючи" наявні переклади речень. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If you enter names of folders that do not exist yet, &lt;a0&gt;OmegaT&lt;/a0&gt; creates them for you.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="lesia" changedate="20200420T171326Z" creationid="lesia" creationdate="20200420T171326Z">
+        <seg>Якщо ви введете імена папок,  &lt;a0&gt;OmegaT&lt;/a0&gt; creates them for you.</seg>
       </tuv>
     </tu>
     <tu>
@@ -25116,6 +25140,14 @@ of selecting, obtaining and installing it.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20190517T100730Z" creationid="Kos Ivantsov" creationdate="20190517T100730Z">
         <seg>Якщо здійснюється пошук регулярних виразів, то у рядку заміни підтримується посилання на групи, визначені в рядку пошуку.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>When working on a team project, this window allows you to define the mapping between remote folders and local folders (see examples &lt;l0&gt;here&lt;/l0&gt;).</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="lesia" changedate="20200420T170002Z" creationid="lesia" creationdate="20200420T170002Z">
+        <seg>Під час роботи над командним проєктом це вікно дозволяє синхронізувати віддалені папки та локальну (приклади можна подивитися&lt;l0&gt;тут&lt;/l0&gt;).</seg>
       </tuv>
     </tu>
     <tu>
