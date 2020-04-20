@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.2_0_6a661c5e0" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.2_0_6a661c5e" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -10739,8 +10739,8 @@ Explorer), change the settings so that file extensions are displayed.</seg>
       <tuv lang="EN">
         <seg>If you enter names of folders that do not exist yet, &lt;a0&gt;OmegaT&lt;/a0&gt; creates them for you.</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="lesia" changedate="20200420T171326Z" creationid="lesia" creationdate="20200420T171326Z">
-        <seg>Якщо ви введете імена папок,  &lt;a0&gt;OmegaT&lt;/a0&gt; creates them for you.</seg>
+      <tuv lang="UK-UA" changeid="lesia" changedate="20200420T193631Z" creationid="lesia" creationdate="20200420T171326Z">
+        <seg>Якщо ввести назви папок, яких у проєкті немає, &lt;a0&gt;OmegaT&lt;/a0&gt; створить їх.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11073,6 +11073,14 @@ click on that shortcut.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="lesia" changedate="20200412T202228Z" creationid="lesia" creationdate="20200412T202228Z">
         <seg>Якщо у файлах оригіналу є сегменти, котрі повторюються, перекладач може вирішити, як йому зручніше працювати з ними. Перший варіант: якщо прапорець на функції "Автоматичне заповнення" виставлено, перший переклад сегменту, який у подільшому повторюється, буде вважатися правильним для всіх подальших ідентичних цьому сегментів і автоматично буде підставлений всюди в поле цільового тексту. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>In case you decide to modify project folders, keep in mind that this will not move existing files from old folders to the new location.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="lesia" changedate="20200420T193940Z" creationid="lesia" creationdate="20200420T193940Z">
+        <seg>Якщо ви захочете змінити теки проєкту, майте на увазі, що вже наявні файли не перемістяться зі старих тек на нові місця.</seg>
       </tuv>
     </tu>
     <tu>
