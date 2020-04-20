@@ -21648,6 +21648,14 @@ instead.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The first of these is:</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200420T200915Z" creationid="maximo" creationdate="20200420T200915Z">
+        <seg>Перша це:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The folder contains 2 files: &lt;f2&gt;index.html&lt;/f2&gt; and &lt;f3&gt;OmegaT.app&lt;/f3&gt;.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="maximo" changedate="20200420T162708Z" creationid="maximo" creationdate="20200420T162708Z">
@@ -23306,6 +23314,14 @@ the server.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="lesia" changedate="20200412T053453Z" creationid="maximo" creationdate="20200329T200205Z">
         <seg>Для встановлення необхідних файлів у форматі StarDict необхідно виконати наступне:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To launch &lt;a0&gt;OmegaT&lt;/a0&gt;, you must normally type two commands.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200420T200908Z" creationid="maximo" creationdate="20200420T200908Z">
+        <seg>Щоб запустити &lt;a0&gt;OmegaT&lt;/a0&gt; ви маєте викликати дві команди.</seg>
       </tuv>
     </tu>
     <tu>
@@ -26463,6 +26479,14 @@ create its configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>cd &lt;p0&gt;folder&lt;/p0&gt;</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200420T200921Z" creationid="maximo" creationdate="20200420T200921Z">
+        <seg>cd &lt;p0&gt;тека&lt;/p0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>comma or a period, followed by spaces and yet another comma or period</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="maximo" changedate="20200412T053101Z" creationid="maximo" creationdate="20200412T053101Z">
@@ -26941,6 +26965,14 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20190815T140424Z" creationid="Kos Ivantsov" creationdate="20190815T140424Z">
         <seg>value (&amp;для «button», «submit» і «reset»)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>where &lt;p0&gt;folder&lt;/p0&gt; is the name of the folder, with complete path, in which your &lt;a1&gt;OmegaT&lt;/a1&gt; program - specifically, the file &lt;f2&gt;OmegaT.jar&lt;/f2&gt; - is located.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200420T201052Z" creationid="maximo" creationdate="20200420T201052Z">
+        <seg>де &lt;p0&gt;тека&lt;/p0&gt; це ім'я теки, де знаходиться &lt;a1&gt;OmegaT&lt;/a1&gt;, а саме файл &lt;f2&gt;OmegaT.jar&lt;/f2&gt;.</seg>
       </tuv>
     </tu>
     <tu>
