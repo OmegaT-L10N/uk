@@ -23998,6 +23998,14 @@ on line {1}, column {2}.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Use this button to open a dialog, activate the check box &lt;g0&gt;Project specific segmentation rules&lt;/g0&gt;, then proceed to adjust the segmentation rules as desired.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="lesia" changedate="20200420T150536Z" creationid="lesia" creationdate="20200420T150536Z">
+        <seg>Скористайтеся цією кнопкою, щоб відкрити діалогове вікно, встановіть прапорець на опції &lt;g0&gt;Налаштування сегментації лише для проєкту&lt;/g0&gt; і продовжуйте налаштування потрібної вам сегментації.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Use this feature when you have undocked, moved or hidden one or more components and you are unable to restore the desired arrangement.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="lesia" changedate="20200418T193202Z" creationid="maximo" creationdate="20200412T142738Z">
