@@ -23093,6 +23093,14 @@ the server.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>This is necessary even if there's only one combination available, like &lt;l4&gt;pt_BR&lt;/l4&gt; in case of Brazilian Portuguese.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200420T203811Z" creationid="maximo" creationdate="20200420T203811Z">
+        <seg>Це необхідно навіть якщо доступна лише одна комбінація, як от &lt;l4&gt;pt_BR&lt;/l4&gt; у випадку бразильської португальської.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>This is required if you would like to enter any of the meta characters !$()*+.&lt;&gt;?[\]^{|} to match as themselves.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="maximo" changedate="20200412T045955Z" creationid="maximo" creationdate="20200412T045955Z">
@@ -23475,6 +23483,14 @@ the server.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="lesia" changedate="20200420T151010Z" creationid="lesia" creationdate="20200420T151010Z">
         <seg>Щоб видалити специфічні для проєкту правила сегментації, просто зніміть прапорець з цієї оції.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To display the instant start guide in the desired language, you need to specify both the language and the country.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200420T203703Z" creationid="maximo" creationdate="20200420T203703Z">
+        <seg>Щоб інструкція швидкого старту показувалась потрібною мовою, ви маєте вказати і мову і країну.</seg>
       </tuv>
     </tu>
     <tu>
