@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.2_0_6a661c5e0" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.2_0_6a661c5e" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -2580,6 +2580,14 @@ The current setting is {0}MB;</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="lesia" changedate="20200322T160803Z" creationid="lesia" creationdate="20200322T160803Z">
         <seg>Набір програм для підготовки файлів до перекладу в САТ-інструментах.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>A copy of the changed filters configuration will be stored with the project.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="lesia" changedate="20200420T161008Z" creationid="lesia" creationdate="20200420T161008Z">
+        <seg>Копія зміненої конфігурації фільтрів збережеться разом із проєктом.</seg>
       </tuv>
     </tu>
     <tu>
@@ -14101,6 +14109,14 @@ as the Applications folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Note that in the menu &lt;g2&gt;Options-&gt;File Filters&lt;/g2&gt;, the global user filters are changed, not the project filters.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="lesia" changedate="20200420T162428Z" creationid="lesia" creationdate="20200420T162428Z">
+        <seg>Зверніть увагу, що в меню &lt;g2&gt;Властивості-&gt;Фільтри файлів&lt;/g2&gt;, зміни вносяться для користувача в цілому, а не лише для проєкту.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Note that the "Install" function requires an Internet connection.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="maximo" changedate="20200411T110118Z" creationid="maximo" creationdate="20200411T105441Z">
@@ -18351,6 +18367,14 @@ The scope of a search is by default the project and can be set to be any files l
       </tuv>
       <tuv lang="UK-UA" changeid="maximo" changedate="20200416T090520Z" creationid="maximo" creationdate="20200416T090520Z">
         <seg>Див. &lt;l2&gt;Регулярні вирази&lt;/l2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>See &lt;l3&gt;File Filters preferences&lt;/l3&gt; for more on the subject.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="lesia" changedate="20200420T162542Z" creationid="lesia" creationdate="20200420T162542Z">
+        <seg>Щоб дізнатися більше, відкрийте &lt;l3&gt;Налаштування фільтрів файлів&lt;/l3&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -22647,8 +22671,8 @@ the server.</seg>
       <tuv lang="EN">
         <seg>To create a project-specific set of file filters, click on the &lt;g0&gt;File filter ... &lt;/g0&gt;button, then activate &lt;g1&gt;Enable project specific filters&lt;/g1&gt; check box in the window that opens.</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="lesia" changedate="20200420T160454Z" creationid="lesia" creationdate="20200420T160454Z">
-        <seg>Щоб створити специфічний для проєкту набір Фільтрів файлу, натисніть на поле &lt;g0&gt;Фільтр файлів... &lt;/g0&gt; та активуйте чекбокс&lt;g1&gt;&lt;/g1&gt;.</seg>
+      <tuv lang="UK-UA" changeid="lesia" changedate="20200420T160900Z" creationid="lesia" creationdate="20200420T160454Z">
+        <seg>Щоб створити специфічний для проєкту набір Фільтрів файлу, натисніть на поле &lt;g0&gt;Фільтр файлів... &lt;/g0&gt; та активуйте чекбокс&lt;g1&gt;Налаштування файлових фільтрів будуть ужиті лише у поточному проєкті&lt;/g1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -22681,6 +22705,14 @@ the server.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="maximo" changedate="20200414T200403Z" creationid="maximo" creationdate="20200414T200403Z">
         <seg>Щоб правило працювало як вийняток, заберіть прапорець Розрив/Виключення.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To delete project specific file filters, uncheck the check box.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="lesia" changedate="20200420T161049Z" creationid="lesia" creationdate="20200420T161049Z">
+        <seg>Щоб видалити специфічні для проєкту файлові фільтри, зніміть прапорець.</seg>
       </tuv>
     </tu>
     <tu>
