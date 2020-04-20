@@ -5345,6 +5345,14 @@ Buy another drink</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Clic on &lt;g0&gt;Exclusions...&lt;/g0&gt; to define the files or folders that will be ignored by &lt;a1&gt;OmegaT&lt;/a1&gt;.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="lesia" changedate="20200420T194019Z" creationid="lesia" creationdate="20200420T194019Z">
+        <seg>Натисніть на &lt;g0&gt;Exclusions...&lt;/g0&gt; to define the files or folders that will be ignored by &lt;a1&gt;OmegaT&lt;/a1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Click &lt;e0&gt;Defaults&lt;/e0&gt; to reset the file filters to the default settings.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="maximo" changedate="20200412T195353Z" creationid="maximo" creationdate="20200412T195353Z">
@@ -10739,8 +10747,8 @@ Explorer), change the settings so that file extensions are displayed.</seg>
       <tuv lang="EN">
         <seg>If you enter names of folders that do not exist yet, &lt;a0&gt;OmegaT&lt;/a0&gt; creates them for you.</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="lesia" changedate="20200420T193631Z" creationid="lesia" creationdate="20200420T171326Z">
-        <seg>Якщо ввести назви папок, яких у проєкті немає, &lt;a0&gt;OmegaT&lt;/a0&gt; створить їх.</seg>
+      <tuv lang="UK-UA" changeid="lesia" changedate="20200420T193954Z" creationid="lesia" creationdate="20200420T171326Z">
+        <seg>Якщо ввести назви тек, яких у проєкті немає, &lt;a0&gt;OmegaT&lt;/a0&gt; створить їх.</seg>
       </tuv>
     </tu>
     <tu>
