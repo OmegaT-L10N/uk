@@ -24271,6 +24271,14 @@ on line {1}, column {2}.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Use the &lt;f0&gt;OmegaT.jar&lt;/f0&gt; file located in &lt;f1&gt;OmegaT.app/Contents/MacOS/Java/&lt;/f1&gt; to launch &lt;a2&gt;OmegaT&lt;/a2&gt; from the command line.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200420T165026Z" creationid="maximo" creationdate="20200420T165026Z">
+        <seg>Щоб запустити &lt;a2&gt;OmegaT&lt;/a2&gt; з командного рядка використовуйте файл &lt;f0&gt;OmegaT.jar&lt;/f0&gt;, що розташований у теці &lt;f1&gt;OmegaT.app/Contents/MacOS/Java/&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Use the installation language in OmegaT</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20190823T142255Z" creationid="Kos Ivantsov" creationdate="20190823T142135Z">
@@ -26268,6 +26276,14 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="maximo" changedate="20200420T162514Z" creationid="maximo" creationdate="20200420T162514Z">
         <seg>Користувачам macOS</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>macOS goodies</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200420T165047Z" creationid="maximo" creationdate="20200420T165047Z">
+        <seg>Зручності, доступні для macOS</seg>
       </tuv>
     </tu>
     <tu>
