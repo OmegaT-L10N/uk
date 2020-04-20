@@ -2153,6 +2153,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;e0&gt;I don't know:&lt;/e0&gt; open a terminal and type &lt;c1&gt;java -version&lt;/c1&gt;.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200420T170149Z" creationid="maximo" creationdate="20200420T170149Z">
+        <seg>&lt;e0&gt;Я не знаю:&lt;/e0&gt; відкрийте термінал та напишіть &lt;c1&gt;java -version&lt;/c1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;e0&gt;Install over the existing installation.&lt;/e0&gt; To do this, simply select the same installation folder as the existing installation when installing the new version.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="maximo" changedate="20200419T071311Z" creationid="maximo" creationdate="20200419T071311Z">
@@ -2181,6 +2189,14 @@ The current setting is {0}MB;</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="maximo" changedate="20200418T125257Z" creationid="maximo" creationdate="20200418T125257Z">
         <seg>&lt;e0&gt;Ні / Я не знаю:&lt;/e0&gt; завантажте&lt;e1&gt; OmegaT_4.n.n_Windows.exe.&lt;/e1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;e0&gt;No:&lt;/e0&gt; obtain a Java JRE for your system (see below) and download &lt;f1&gt;OmegaT_4.n.n_Without_JRE.zip&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200420T170413Z" creationid="maximo" creationdate="20200420T170413Z">
+        <seg>&lt;e0&gt;Ні:&lt;/e0&gt; завантажте середовище Java для вашої системи (див. нижче) and download &lt;f1&gt;OmegaT_4.n.n_Without_JRE.zip&lt;/f1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10196,6 +10212,14 @@ need not be entered.)</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="maximo" changedate="20200417T083720Z" creationid="maximo" creationdate="20200417T083720Z">
         <seg>Якщо OmegaT для роботи з інтернетом потрібен проксі, тут ви зможете ввести ідентифікаційні дані до проксі, надані вам його адміністратором.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If a "command not found" or similar message is returned, it is likely that Java is not installed on your system.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200420T170251Z" creationid="maximo" creationdate="20200420T170251Z">
+        <seg>Якщо в результаті ви отримали "команду не знайдено", чи щось таке, - скоріш за все у вас на комп'ютері нема Java.</seg>
       </tuv>
     </tu>
     <tu>
@@ -22655,6 +22679,14 @@ the server.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="maximo" changedate="20200412T071548Z" creationid="maximo" creationdate="20200412T071548Z">
         <seg>Ця опція зручна для деяких систем введення корейської, японської чи китайської мов.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This package can be used on any platform where a Java 8 compatible JRE is installed.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200420T170119Z" creationid="maximo" creationdate="20200420T170119Z">
+        <seg>Цей пакет можна використовувати на будь-якій платформі з інстальованим середовищем Java, сумістним із Java 8.</seg>
       </tuv>
     </tu>
     <tu>
