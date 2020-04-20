@@ -9337,6 +9337,14 @@ provided (omegat.kaptn).</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>For this reason, the two commands described above are contained in a file (a "script", also called a "&lt;f0&gt;.bat&lt;/f0&gt; file" on Windows systems).</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200420T201931Z" creationid="maximo" creationdate="20200420T201931Z">
+        <seg>Тому дві ці команди запаковані у спеціальний файл ("скрипт", на Windows його ще називають "&lt;f0&gt;.bat&lt;/f0&gt;" файлом).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>For this to happen, there should be a break rule for "?", when followed by spaces and a capitalized word.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="maximo" changedate="20200414T190803Z" creationid="maximo" creationdate="20200414T190609Z">
@@ -21333,6 +21341,14 @@ Please try to correct the error and reload the project.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The above method somewhat impractical way of launching a program routinely.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200420T201800Z" creationid="maximo" creationdate="20200420T201800Z">
+        <seg>Але щоб запускати програму з дня на день цей метод не дуже зручний.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The alert (bell) character ('\u0007')</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="maximo" changedate="20200412T045449Z" creationid="maximo" creationdate="20200412T045449Z">
@@ -25405,6 +25421,14 @@ of selecting, obtaining and installing it.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="maximo" changedate="20200417T082838Z" creationid="maximo" creationdate="20200417T082838Z">
         <seg>Коли цей прапорець не поставлений, то сірим позначаються всі неунікальні сегменти окрім першого випадку їх зустрічання.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>When this file is executed, the commands within it are automatically carried out.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200420T202008Z" creationid="maximo" creationdate="20200420T202008Z">
+        <seg>Коли такий файл запускається, команди всереди нього виконуються автоматично.</seg>
       </tuv>
     </tu>
     <tu>
