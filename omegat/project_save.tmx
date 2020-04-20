@@ -22184,6 +22184,14 @@ the server.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>This external command cannot include "pipes", etc., which is why calling a script is recommended.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="lesia" changedate="20200420T090139Z" creationid="lesia" creationdate="20200420T090139Z">
+        <seg>Ці зовнішні команди не підтримують синтаксис шеллу, саме тому рекомендується користуватися скриптами.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>This hands-off approach is described by the current OmegaT project co-ordinator as "delegated anarchy".</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="lesia" changedate="20200324T171302Z" creationid="lesia" creationdate="20200321T154144Z">
