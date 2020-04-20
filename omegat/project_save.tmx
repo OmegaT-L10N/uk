@@ -21551,6 +21551,14 @@ in /lib/licenses/Licenses.txt.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The segmentation rules are generally valid across all the projects.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="lesia" changedate="20200420T145121Z" creationid="lesia" creationdate="20200420T145121Z">
+        <seg>Правила сегментації зазвичай діють для всіх проєктів.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The segmentation settings only address the way the source files are handled by &lt;a0&gt;OmegaT&lt;/a0&gt;.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="lesia" changedate="20200412T195757Z" creationid="lesia" creationdate="20200412T195757Z">
@@ -21779,6 +21787,14 @@ in /lib/licenses/Licenses.txt.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="maximo" changedate="20200322T112948Z" creationid="maximo" creationdate="20200322T112948Z">
         <seg>Посібник користувача у форматі PDF ({{ site.data.versions.standard.name }}).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The user, however, may need to generate a set of rules, specific to the project in question.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="lesia" changedate="20200420T150128Z" creationid="lesia" creationdate="20200420T150128Z">
+        <seg>Однак, користувачу, можливо, потрібно буде створити конкретний набір правил для актуального проєкту.</seg>
       </tuv>
     </tu>
     <tu>
