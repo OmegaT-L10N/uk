@@ -23020,6 +23020,14 @@ the server.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>This method has a particular benefit of being suitable for finding causes of problems: if an error occurs during use of the program, an error message is output in the terminal window which may contain useful information on the cause of the error.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200420T201717Z" creationid="maximo" creationdate="20200420T201717Z">
+        <seg>Цей метод особливо корисний для знаходження причин проблем у роботі програми. Якщо під час роботи програми стаються якісь помилки, то у вікно терміналу надрукуються повідомлення про помилку. По ним іноді можна зрозуміти причину помилки.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>This method will also use preferences and settings you have made from within OmegaT.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="maximo" changedate="20200419T071950Z" creationid="maximo" creationdate="20200419T071950Z">
