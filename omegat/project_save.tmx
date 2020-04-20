@@ -2705,6 +2705,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>A list of possible arguments is given below.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200420T202456Z" creationid="maximo" creationdate="20200420T202456Z">
+        <seg>Нижче наведений список доступних аргументів.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>A nice collection of useful regex cases can be found in &lt;a0&gt;OmegaT&lt;/a0&gt; itself (see Options &gt; Segmentation).</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="maximo" changedate="20200412T052739Z" creationid="maximo" creationdate="20200412T052739Z">
@@ -3197,6 +3205,14 @@ The current setting is {0}MB;</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="maximo" changedate="20200321T130923Z" creationid="maximo" creationdate="20200321T130923Z">
         <seg>Адміністрація</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Advanced users can obtain more information on the arguments by typing &lt;e0&gt;man java&lt;/e0&gt; in the terminal window.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200420T202553Z" creationid="maximo" creationdate="20200420T202553Z">
+        <seg>Досвідчені користувачі можуть отримати більше інформації, набравши &lt;e0&gt;man java&lt;/e0&gt; у терміналі.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11265,6 +11281,14 @@ click on that shortcut.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="maximo" changedate="20200414T095642Z" creationid="maximo" creationdate="20200414T095642Z">
         <seg>Для вибору типу сегментації перейдіть в основному меню у &lt;m1&gt; &lt;g2&gt;Проєкт&lt;/g2&gt; &lt;g3&gt;Властивості...&lt;/g3&gt; &lt;/m1&gt; а там поставте потрібний прапорець.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>In other platforms, you can modify &lt;f3&gt;Configuration.properties&lt;/f3&gt; file on the Mac, or &lt;f4&gt;OmegaT&lt;/f4&gt; launcher under Linux to do the same.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200420T202427Z" creationid="maximo" creationdate="20200420T202427Z">
+        <seg>Для Mac ви можете змінити &lt;f3&gt;Configuration.properties&lt;/f3&gt;, а для Linux - скрипт &lt;f4&gt;OmegaT&lt;/f4&gt;.</seg>
       </tuv>
     </tu>
     <tu>
