@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.2_0_6a661c5e" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.2_0_6a661c5e0" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -7304,6 +7304,14 @@ Buy another drink</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Download the file &lt;f0&gt;OmegaT.jnlp&lt;/f0&gt; and then click on it.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200420T194922Z" creationid="maximo" creationdate="20200420T194922Z">
+        <seg>Завантажте файл &lt;f0&gt;OmegaT.jnlp&lt;/f0&gt; та клікніть по ньому.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Downloading project...</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20190504T105056Z" creationid="Kos Ivantsov" creationdate="20190504T105056Z">
@@ -12142,6 +12150,14 @@ itself on the first run.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20190504T132625Z" creationid="Kos Ivantsov" creationdate="20190504T132625Z">
         <seg>Параметри фільтра пакетів ресурсів Java</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Java Web Start ensures that the latest version of the application will be deployed, as well as the correct version of the Java Runtime Environment (JRE) used.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200420T194759Z" creationid="maximo" creationdate="20200420T194759Z">
+        <seg>Java Web Start гарантує, що додаток буде останньої версії, і що середовище Java, з яким він буде запущений, також буде правильної версії.</seg>
       </tuv>
     </tu>
     <tu>
@@ -23241,6 +23257,14 @@ the server.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20190823T145711Z" creationid="Kos Ivantsov" creationdate="20190823T145632Z">
         <seg>Щоб переглянути перелік файлів у проєкті, відкрийте діалогове вікно &lt;s2&gt;«Файли проєкту»&lt;/s2&gt;, натиснувши &lt;s3&gt;&lt;s4&gt;Ctrl+L&lt;/s4&gt;&lt;/s3&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To start OmegaT for the first time with Java Web Start, load the following URL in your browser:</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200420T194857Z" creationid="maximo" creationdate="20200420T194857Z">
+        <seg>Щоб запустити OmegaT за допомогою Java Web Start вперше, відкрийте цей URL у своєму браузері:</seg>
       </tuv>
     </tu>
     <tu>
