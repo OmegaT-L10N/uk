@@ -21319,6 +21319,14 @@ in /lib/licenses/Licenses.txt.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The new set of rules will be stored together with the project and will not interfere with the general set of segmentation rules.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="lesia" changedate="20200420T150859Z" creationid="lesia" creationdate="20200420T150859Z">
+        <seg>Нові правила збережуться саме для актуального проєкту і не пересікатимуться із загальними налаштуваннями сегментації.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The newline (line feed) character ('\u000A')</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="maximo" changedate="20200412T045337Z" creationid="maximo" creationdate="20200412T045337Z">
@@ -22600,6 +22608,14 @@ the server.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="maximo" changedate="20200414T200403Z" creationid="maximo" creationdate="20200414T200403Z">
         <seg>Щоб правило працювало як вийняток, заберіть прапорець Розрив/Виключення.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To delete project specific segmentation rules, uncheck the check box.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="lesia" changedate="20200420T151010Z" creationid="lesia" creationdate="20200420T151010Z">
+        <seg>Щоб видалити специфічні для проєкту правила сегментації, просто зніміть прапорець з цієї оції.</seg>
       </tuv>
     </tu>
     <tu>
