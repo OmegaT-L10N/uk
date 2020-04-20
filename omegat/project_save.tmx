@@ -2257,6 +2257,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;OmegaT.app&lt;/f0&gt; can make use of macOS Services.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200420T165101Z" creationid="maximo" creationdate="20200420T165101Z">
+        <seg>&lt;f0&gt;OmegaT.app&lt;/f0&gt; може використовувати macOS Services.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;html&gt;&lt;center&gt;Loading...&lt;br&gt;&lt;br&gt;Tip: Enable/disable checks at any time from the Options menu.&lt;/center&gt;&lt;/html&gt;</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20190821T125439Z" creationid="Kos Ivantsov" creationdate="20190821T125439Z">
@@ -25556,6 +25564,14 @@ start menu, the desktop or the quick launch area to link it from there.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>You can also use AppleScript or Automator to create Services or scripts that will automate frequent actions.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200420T165340Z" creationid="maximo" creationdate="20200420T165340Z">
+        <seg>Також ви можете використати AppleScript чи Automator, щоб створити сервіси чи скрипти для автоматизації частих дій.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>You can browse through notes using &lt;g0&gt;GoTo → Next Note&lt;/g0&gt; and &lt;g1&gt;GoTo → Previous Note&lt;/g1&gt;.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20190820T141813Z" creationid="Kos Ivantsov" creationdate="20190807T151309Z">
@@ -25750,6 +25766,14 @@ installation script (linux-install.sh).</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20190822T212802Z" creationid="Kos Ivantsov" creationdate="20190822T212802Z">
         <seg>Потім цей Kaptain-скрипт можна запустити, натиснувши</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You can thus select a word anywhere in &lt;a1&gt;OmegaT&lt;/a1&gt; and use Services to check this word, for instance in Spotlight or in Google.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200420T165218Z" creationid="maximo" creationdate="20200420T165218Z">
+        <seg>Таким чином, ви можете виділити слово будь-де у &lt;a1&gt;OmegaT&lt;/a1&gt; та використати Services, щоб перевірити це слово, наприклад у Spotlight чи Google.</seg>
       </tuv>
     </tu>
     <tu>
