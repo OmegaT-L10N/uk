@@ -2283,8 +2283,8 @@ The current setting is {0}MB;</seg>
       <tuv lang="EN">
         <seg>&lt;e0&gt;Yes:&lt;/e0&gt; download &lt;f1&gt;OmegaT_4.n.n_Windows_without_JRE.zip&lt;/f1&gt;.</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="maximo" changedate="20200420T165939Z" creationid="maximo" creationdate="20200420T165939Z">
-        <seg>&lt;e0&gt;Так:&lt;/e0&gt; завантажте &lt;e1&gt;OmegaT_4.n.n_Windows_without_JRE.zip&lt;/e1&gt;.</seg>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200420T170711Z" creationid="maximo" creationdate="20200420T165939Z">
+        <seg>&lt;e0&gt;Так:&lt;/e0&gt; завантажте &lt;e1&gt;OmegaT_4.n.n_Without_JRE.zip&lt;/e1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8935,6 +8935,14 @@ Gossamer threads hold you back
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Follow your system's instructions to install &lt;a0&gt;OmegaT&lt;/a0&gt; shortcuts in convenient places of your choosing.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200420T170912Z" creationid="maximo" creationdate="20200420T170912Z">
+        <seg>Створіть ярлики &lt;a0&gt;OmegaT&lt;/a0&gt; у зручних для вас місцях, керуючись інструкціями для вашої системи.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Font</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20190420T125212Z" creationid="Kos Ivantsov" creationdate="20190420T125212Z">
@@ -11531,6 +11539,14 @@ click on that shortcut.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20190420T180640Z" creationid="Kos Ivantsov" creationdate="20190420T180640Z">
         <seg>Встановлення та запуск OmegaT» у посібнику користувача.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Installing convenient shortcuts</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200420T170821Z" creationid="maximo" creationdate="20200420T170821Z">
+        <seg>Створення зручних ярликів</seg>
       </tuv>
     </tu>
     <tu>
@@ -22449,6 +22465,14 @@ the server.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>This creates an &lt;f2&gt;./OmegaT_4.n.n_Without_JRE/&lt;/f2&gt; folder in the working folder with all the files necessary to run &lt;a3&gt;OmegaT&lt;/a3&gt;.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200420T170755Z" creationid="maximo" creationdate="20200420T170755Z">
+        <seg>В результаті ви отримаєте теку &lt;f2&gt;./OmegaT_4.n.n_Without_JRE/&lt;/f2&gt;, у якій ви побачите файли, що необхідні для запуску &lt;a3&gt;OmegaT&lt;/a3&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>This dialog enables you to specify the source filename patterns for files to be processed by the filter, customize the filenames of translated files and select which encodings should be used for loading the source file and saving the translation.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="lesia" changedate="20200419T100810Z" creationid="maximo" creationdate="20200413T165350Z">
@@ -23009,6 +23033,14 @@ the server.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="maximo" changedate="20200418T125404Z" creationid="maximo" creationdate="20200418T125404Z">
         <seg>Для встановлення &lt;a0&gt;OmegaT&lt;/a0&gt;, двічі клацність мишею по завантаженій програмі.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To install &lt;a0&gt;OmegaT&lt;/a0&gt;, simply unpack the &lt;f1&gt;OmegaT_4.n.n_Without_JRE.zip&lt;/f1&gt; file.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200420T170655Z" creationid="maximo" creationdate="20200420T170655Z">
+        <seg>Щоб встановити &lt;a0&gt;OmegaT&lt;/a0&gt;, просто розпакуйте файл &lt;f1&gt;OmegaT_4.n.n_Without_JRE.zip&lt;/f1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
