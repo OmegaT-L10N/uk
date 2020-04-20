@@ -11157,6 +11157,14 @@ click on that shortcut.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>In its most basic form, this command is:</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200420T201337Z" creationid="maximo" creationdate="20200420T201337Z">
+        <seg>В найпростішій своїй формі вона виглядає так:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>In most systems, it is possible to open a project by dropping an &lt;f0&gt;omegat.project&lt;/f0&gt; file onto the OmegaT icon on the desktop.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="maximo" changedate="20200420T171227Z" creationid="maximo" creationdate="20200420T171227Z">
@@ -11225,6 +11233,14 @@ click on that shortcut.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="maximo" changedate="20200414T095642Z" creationid="maximo" creationdate="20200414T095642Z">
         <seg>Для вибору типу сегментації перейдіть в основному меню у &lt;m1&gt; &lt;g2&gt;Проєкт&lt;/g2&gt; &lt;g3&gt;Властивості...&lt;/g3&gt; &lt;/m1&gt; а там поставте потрібний прапорець.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>In practice, this command will therefore be something like this:</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200420T201139Z" creationid="maximo" creationdate="20200420T201139Z">
+        <seg>Приклад того, як команда буде виглядати в реальності:</seg>
       </tuv>
     </tu>
     <tu>
@@ -15355,10 +15371,34 @@ installed on your system.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>On Linux</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200420T201201Z" creationid="maximo" creationdate="20200420T201201Z">
+        <seg>На Linux</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>On Windows</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200420T201146Z" creationid="maximo" creationdate="20200420T201146Z">
+        <seg>На Windows</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>On Windows it is called an "MS-DOS window" and is available from the Start Menu, inside Programs, through the "MS-DOS" item.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="maximo" changedate="20200420T200723Z" creationid="maximo" creationdate="20200420T200723Z">
         <seg>Під Windows його називають "вікно MS-DOS", і до нього можна доступитися через пункт MS-DOS меню Пуск.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>On macOS</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200420T201151Z" creationid="maximo" creationdate="20200420T201151Z">
+        <seg>У macOS</seg>
       </tuv>
     </tu>
     <tu>
@@ -16030,6 +16070,14 @@ Vanishing like mist</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20190821T211948Z" creationid="Kos Ivantsov" creationdate="20190821T211948Z">
         <seg>Шаблон...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Pay attention to the capitalization - in OS other than Windows, the program will not start, if you enter &lt;l0&gt;omegat&lt;/l0&gt; instead of &lt;l1&gt;OmegaT&lt;/l1&gt;!</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200420T201500Z" creationid="maximo" creationdate="20200420T201500Z">
+        <seg>Зверніть увагу на великі букви - в усіх операційних системах окрім Windows програма не запуститься, якщо ви напишете &lt;l0&gt;omegat&lt;/l0&gt; замість &lt;l1&gt;OmegaT&lt;/l1&gt;!</seg>
       </tuv>
     </tu>
     <tu>
@@ -22113,6 +22161,14 @@ in /lib/licenses/Licenses.txt.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The second command is the command which actually launches &lt;a1&gt;OmegaT&lt;/a1&gt;.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200420T201313Z" creationid="maximo" creationdate="20200420T201313Z">
+        <seg>Друга команда власне запускає &lt;a1&gt;OmegaT&lt;/a1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The segmentation rules are generally valid across all the projects.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="lesia" changedate="20200420T145121Z" creationid="lesia" creationdate="20200420T145121Z">
@@ -22702,6 +22758,14 @@ the server.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="maximo" changedate="20200323T222255Z" creationid="lesia" creationdate="20200322T154207Z">
         <seg>Ці скрипти можуть бути корисними тим, хто знайомий з Tcl/Tk.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This command changes the folder to the folder containing the executable &lt;a0&gt;OmegaT&lt;/a0&gt; file.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200420T201255Z" creationid="maximo" creationdate="20200420T201255Z">
+        <seg>Ця команда змінює робочу теку на ту, в якій знаходиться файл програми &lt;a0&gt;OmegaT&lt;/a0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -26971,8 +27035,8 @@ create its configuration folder.</seg>
       <tuv lang="EN">
         <seg>where &lt;p0&gt;folder&lt;/p0&gt; is the name of the folder, with complete path, in which your &lt;a1&gt;OmegaT&lt;/a1&gt; program - specifically, the file &lt;f2&gt;OmegaT.jar&lt;/f2&gt; - is located.</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="maximo" changedate="20200420T201052Z" creationid="maximo" creationdate="20200420T201052Z">
-        <seg>де &lt;p0&gt;тека&lt;/p0&gt; це ім'я теки, де знаходиться &lt;a1&gt;OmegaT&lt;/a1&gt;, а саме файл &lt;f2&gt;OmegaT.jar&lt;/f2&gt;.</seg>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200420T201105Z" creationid="maximo" creationdate="20200420T201052Z">
+        <seg>де &lt;p0&gt;тека&lt;/p0&gt; це шлях до теки, де знаходиться &lt;a1&gt;OmegaT&lt;/a1&gt;, а саме файл &lt;f2&gt;OmegaT.jar&lt;/f2&gt;.</seg>
       </tuv>
     </tu>
     <tu>
