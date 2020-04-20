@@ -22707,6 +22707,14 @@ the server.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>To access &lt;f0&gt;Configuration.properties&lt;/f0&gt;, right-click on &lt;f1&gt;OmegaT.app&lt;/f1&gt; and select "Show Package Contents", then open the file in &lt;f2&gt;Contents/Resources&lt;/f2&gt; by right-clicking on it and selecting your text editor of choice.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200420T163413Z" creationid="maximo" creationdate="20200420T163413Z">
+        <seg>Щоб отримати доступ до &lt;f0&gt;Configuration.properties&lt;/f0&gt;, натисніть правою клавішою миші на &lt;f1&gt;OmegaT.app&lt;/f1&gt; та виберіть "Показати вміст пакету", там знайдіть його у теці &lt;f2&gt;Contents/Resources&lt;/f2&gt;. Правою клавішою миші натисніть на файл та оберіть ваш улюблений текстовий редактор.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>To add a new file filter pattern, click &lt;e1&gt;Add&lt;/e1&gt;.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="maximo" changedate="20200413T165503Z" creationid="maximo" creationdate="20200413T165503Z">
@@ -25622,6 +25630,14 @@ installation script (linux-install.sh).</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="maximo" changedate="20200420T162217Z" creationid="maximo" creationdate="20200420T162217Z">
         <seg>OmegaT можна запустити з командного рядка з використанням скрипта, в який вписані параметри запуску, але ви можете і клікнути на &lt;f0&gt;OmegaT.jar&lt;/f0&gt;, щоб запустити його напряму.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You can modify OmegaT's behaviour by editing the &lt;e0&gt;Properties&lt;/e0&gt; as well as the &lt;f1&gt;Configuration.properties&lt;/f1&gt; file in the package.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200420T163135Z" creationid="maximo" creationdate="20200420T163135Z">
+        <seg>Ви можете змінити поведінку OmegaT, змінюючи &lt;e0&gt;Properties&lt;/e0&gt; та &lt;f1&gt;Configuration.properties&lt;/f1&gt; всередині пакету.</seg>
       </tuv>
     </tu>
     <tu>
