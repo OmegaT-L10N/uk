@@ -25474,6 +25474,14 @@ installation script (linux-install.sh).</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>You can launch OmegaT from the command line with a script that includes start-up options or you can click on &lt;f0&gt;OmegaT.jar&lt;/f0&gt; to launch it directly.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200420T162217Z" creationid="maximo" creationdate="20200420T162217Z">
+        <seg>OmegaT можна запустити з командного рядка з використанням скрипта, в який вписані параметри запуску, але ви можете і клікнути на &lt;f0&gt;OmegaT.jar&lt;/f0&gt;, щоб запустити його напряму.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>You can select which elements are to be translated.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="maximo" changedate="20200413T113826Z" creationid="maximo" creationdate="20200413T113826Z">
