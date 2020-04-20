@@ -2265,6 +2265,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;e0&gt;Yes:&lt;/e0&gt; download &lt;f1&gt;OmegaT_4.n.n_Windows_without_JRE.zip&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200420T165939Z" creationid="maximo" creationdate="20200420T165939Z">
+        <seg>&lt;e0&gt;Так:&lt;/e0&gt; завантажте &lt;e1&gt;OmegaT_4.n.n_Windows_without_JRE.zip&lt;/e1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;OmegaT.app&lt;/f0&gt; can make use of macOS Services.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="maximo" changedate="20200420T165101Z" creationid="maximo" creationdate="20200420T165101Z">
@@ -6946,8 +6954,8 @@ Buy another drink</seg>
       <tuv lang="EN">
         <seg>Do you have a Java implementation compatible with Oracle's Java 8 JRE?</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="maximo" changedate="20200418T125236Z" creationid="maximo" creationdate="20200418T125236Z">
-        <seg>Чи маєте Ви підтримку Java, сумісну із Oracle Java 8 JRE?</seg>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200420T165919Z" creationid="maximo" creationdate="20200418T125236Z">
+        <seg>Чи маєте ви середовище Java, сумісне із Oracle Java 8 JRE?</seg>
       </tuv>
     </tu>
     <tu>
@@ -24478,6 +24486,14 @@ searchable without subscription:</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="lesia" changedate="20200418T193422Z" creationid="maximo" creationdate="20200412T143151Z">
         <seg>Якщо ви працюєте на старому комп'ютері і відчуваєте, що програма заповільнюється під час зміни розміру вікна, спробуйте змінити шрифт.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Users of other platforms (Linux PowerPC, Linux x64, Solaris SPARC/x86/x64, Windows x64 etc) must have a running compatible Java JRE on their system to be able to use &lt;a1&gt;OmegaT&lt;/a1&gt;.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200420T165757Z" creationid="maximo" creationdate="20200420T165757Z">
+        <seg>Користувачі інших платформ (Linux PowerPC, Linux x64, Solaris SPARC/x86/x64, Windows x64 і т.п.) мають самі забезпечити наявність потрібної версії Java JRE на своїй системі, щоб могти запустити &lt;a1&gt;OmegaT&lt;/a1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
