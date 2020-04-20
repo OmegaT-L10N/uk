@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.2_0_6a661c5e" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.2_0_6a661c5e0" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -18761,6 +18761,14 @@ The scope of a search is by default the project and can be set to be any files l
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20190821T124658Z" creationid="Kos Ivantsov" creationdate="20190821T124624Z">
         <seg>Виберіть, які типи проблем потрібно знайти.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Select it and confirm with OK.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200420T160826Z" creationid="maximo" creationdate="20200420T160826Z">
+        <seg>Виберіть його та підтвердіть свій вибір.</seg>
       </tuv>
     </tu>
     <tu>
