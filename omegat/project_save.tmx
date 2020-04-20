@@ -22183,6 +22183,8 @@ the server.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>примітка до цього сегменту
+</note>
       <tuv lang="EN">
         <seg>This external command cannot include "pipes", etc., which is why calling a script is recommended.</seg>
       </tuv>
