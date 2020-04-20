@@ -12803,6 +12803,14 @@ itself on the first run.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Make sure that your &lt;v1&gt;PATH&lt;/v1&gt; settings are correct and that &lt;f2&gt;.jar&lt;/f2&gt; files are properly associated with a Java launcher.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200420T162403Z" creationid="maximo" creationdate="20200420T162403Z">
+        <seg>Перевірте, щоб налаштування &lt;v1&gt;PATH&lt;/v1&gt; були правильні, та щоб файли &lt;f2&gt;.jar&lt;/f2&gt; були правильно прив'язані до запуску через середовище Java.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Manual</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="maximo" changedate="20200324T142406Z" creationid="maximo" creationdate="20200322T165538Z">
@@ -13231,6 +13239,14 @@ itself on the first run.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="maximo" changedate="20200329T200617Z" creationid="maximo" creationdate="20200329T200617Z">
         <seg>Словник Мерріам-Вебстер - використання</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Methods differ depending on the distribution.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200420T162247Z" creationid="maximo" creationdate="20200420T162247Z">
+        <seg>Способи запуску можуть відрізнятися залежно від дистрибутива.</seg>
       </tuv>
     </tu>
     <tu>
