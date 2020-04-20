@@ -22723,6 +22723,14 @@ the server.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>This will launch OmegaT with 6 GB of memory; change the &lt;l4&gt;6g&lt;/l4&gt; to the desired amount.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200420T164711Z" creationid="maximo" creationdate="20200420T164711Z">
+        <seg>Це вказує OmegaT запускатися із 6 GB оперативної памʼяті. Ви можете змінити &lt;l4&gt;6g&lt;/l4&gt; на потрібне вам значення.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Thus, for example, rules for Canadian French (FR-CA) should be higher than rules for French (FR.*), and higher than Default (.*) ones.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20190820T122408Z" creationid="Kos Ivantsov" creationdate="20190820T122408Z">
@@ -22777,6 +22785,14 @@ the server.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="lesia" changedate="20200322T211754Z" creationid="maximo" creationdate="20200322T112751Z">
         <seg>Щоб запустити посібник в OmegaT, натисніть "Довідка" &gt; "Посібник користувача" або клавішу F1.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To change the amount of memory available, edit &lt;e0&gt;OmegaT.app/Contents/Info.plist&lt;/e0&gt; file and un-comment the line &lt;l1&gt;&lt;!-- &lt;string&gt;-Xmx6g&lt;/string&gt; --&gt;&lt;/l1&gt; by removing the &lt;l2&gt;&lt;!--&lt;/l2&gt; and &lt;l3&gt;--&gt;&lt;/l3&gt;.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200420T164604Z" creationid="maximo" creationdate="20200420T164604Z">
+        <seg>Щоб змінити кількість доступної памʼяті, відредагуйте файл &lt;e0&gt;OmegaT.app/Contents/Info.plist&lt;/e0&gt; та розкоментуйте рядок &lt;l1&gt;&lt;!-- &lt;string&gt;-Xmx6g&lt;/string&gt; --&gt;&lt;/l1&gt; - заберіть &lt;l2&gt;&lt;!--&lt;/l2&gt; та &lt;l3&gt;--&gt;&lt;/l3&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -22913,6 +22929,14 @@ the server.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="lesia" changedate="20200412T053453Z" creationid="maximo" creationdate="20200329T200205Z">
         <seg>Для встановлення необхідних файлів у форматі StarDict необхідно виконати наступне:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To launch multiple instances of &lt;f0&gt;OmegaT.app&lt;/f0&gt;, double-click the file &lt;e1&gt;OmegaT&lt;/e1&gt; located in &lt;f2&gt;OmegaT.app/Contents/MacOS/&lt;/f2&gt;.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200420T164913Z" creationid="maximo" creationdate="20200420T164913Z">
+        <seg>Щоб запустити кілька &lt;f0&gt;OmegaT.app&lt;/f0&gt; паралельно, клацніть двічі на файл &lt;e1&gt;OmegaT&lt;/e1&gt;, що розташований у теці &lt;f2&gt;OmegaT.app/Contents/MacOS/&lt;/f2&gt;.</seg>
       </tuv>
     </tu>
     <tu>
