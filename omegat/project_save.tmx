@@ -2537,6 +2537,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;p3&gt;XX&lt;/p3&gt; in the command stands for the two-digit code of the desired language.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200420T203209Z" creationid="maximo" creationdate="20200420T203209Z">
+        <seg>&lt;p3&gt;XX&lt;/p3&gt; - це двобуквенний код мови.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;r0&gt;Note:&lt;/r0&gt; On an Apple Mac, use the &lt;k1&gt;Command&lt;/k1&gt; key instead of the &lt;k2&gt;Control&lt;/k2&gt; key.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20190516T204932Z" creationid="Kos Ivantsov" creationdate="20190516T204932Z">
@@ -10619,6 +10627,14 @@ their defaults as a result of the location change.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20190822T171746Z" creationid="Kos Ivantsov" creationdate="20190807T105118Z">
         <seg>Якщо фільтр має додаткові налаштування, то їх можна вибрати, натиснувши кнопку «Параметри...».</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If the language of the user's system is not available, &lt;a7&gt;OmegaT&lt;/a7&gt; defaults to English.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200420T203029Z" creationid="maximo" creationdate="20200420T203029Z">
+        <seg>Якщо відповідна локалізація не доступна, &lt;a7&gt;OmegaT&lt;/a7&gt; візьме англійську.</seg>
       </tuv>
     </tu>
     <tu>
@@ -21219,6 +21235,14 @@ current folder will be used instead.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The &lt;l0&gt;-Duser.language=&lt;p1&gt;XX&lt;/p1&gt;&lt;/l0&gt; argument causes &lt;a2&gt;OmegaT&lt;/a2&gt; to use the language specified rather than the language of the user's operating system.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200420T203140Z" creationid="maximo" creationdate="20200420T203140Z">
+        <seg>Аргумент &lt;l0&gt;-Duser.language=&lt;p1&gt;XX&lt;/p1&gt;&lt;/l0&gt; змушує &lt;a2&gt;OmegaT&lt;/a2&gt; використовувати саме вказану мову, незалежно від мови операційної системи.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The Edit Pattern Dialog offers among others the following options:</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="maximo" changedate="20200413T191237Z" creationid="maximo" creationdate="20200413T191237Z">
@@ -23088,6 +23112,14 @@ the server.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="lesia" changedate="20200322T131006Z" creationid="lesia" creationdate="20200322T131006Z">
         <seg>Саме тут спільнота OmegaT обговорює більшість всіх важливих питань.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This is the standard behavior.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200420T203041Z" creationid="maximo" creationdate="20200420T203041Z">
+        <seg>Це стандартна поведінка.</seg>
       </tuv>
     </tu>
     <tu>
