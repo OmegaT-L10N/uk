@@ -2641,6 +2641,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>A command line window is also referred to as a "terminal window".</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200420T200602Z" creationid="maximo" creationdate="20200420T200602Z">
+        <seg>Вікно командного рядка також називають терміналом.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>A comprehensive suite of utilities for preparing files for translation in a CAT tool.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="lesia" changedate="20200322T160803Z" creationid="lesia" creationdate="20200322T160803Z">
@@ -15347,6 +15355,14 @@ installed on your system.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>On Windows it is called an "MS-DOS window" and is available from the Start Menu, inside Programs, through the "MS-DOS" item.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200420T200723Z" creationid="maximo" creationdate="20200420T200723Z">
+        <seg>Під Windows його називають "вікно MS-DOS", і до нього можна доступитися через пункт MS-DOS меню Пуск.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>On the Mac, the modifier &lt;e0&gt;meta&lt;/e0&gt; must be used to specify the &lt;e1&gt;command&lt;/e1&gt; key.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="maximo" changedate="20200405T043425Z" creationid="maximo" creationdate="20200405T043425Z">
@@ -15639,6 +15655,14 @@ installed on your system.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20190803T181418Z" creationid="Kos Ivantsov" creationdate="20190803T181418Z">
         <seg>Параметри фільтра OpenDocument</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Opening a command line window</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200420T200537Z" creationid="maximo" creationdate="20200420T200537Z">
+        <seg>Відкриття вікна терміналу</seg>
       </tuv>
     </tu>
     <tu>
@@ -21777,6 +21801,14 @@ in /lib/licenses/Licenses.txt.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The macOS equivalent is the application Terminal located in &lt;f0&gt;Applications/Utilities&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200420T200836Z" creationid="maximo" creationdate="20200420T200836Z">
+        <seg>Його відповідник у macOS, програма Terminal доступна за адресою &lt;f0&gt;Applications/Utilities&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The main window consists of several panes, the main menu and a status bar.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="maximo" changedate="20200412T175019Z" creationid="maximo" creationdate="20200412T175019Z">
@@ -22405,6 +22437,14 @@ in /lib/licenses/Licenses.txt.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="maximo" changedate="20200416T213929Z" creationid="maximo" creationdate="20200416T213929Z">
         <seg>Є дві стратегії того, що робити з такими сегментами, які містять лише незмінний текст.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>There are two ways of launching &lt;a1&gt;OmegaT&lt;/a1&gt; using the command line.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200420T200522Z" creationid="maximo" creationdate="20200420T200522Z">
+        <seg>Є два способи, як запуститиґ &lt;a1&gt;OmegaT&lt;/a1&gt; з командного рядка.</seg>
       </tuv>
     </tu>
     <tu>
