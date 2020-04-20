@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.2_0_6a661c5e" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.2_0_6a661c5e0" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -9009,6 +9009,14 @@ provided (omegat.kaptn).</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>For example, &lt;l2&gt;user.language=ja&lt;/l2&gt; (without the &lt;l3&gt;#&lt;/l3&gt;) will launch &lt;a4&gt;OmegaT&lt;/a4&gt; with the user interface in Japanese.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200420T164444Z" creationid="maximo" creationdate="20200420T164444Z">
+        <seg>Наприклад, &lt;l2&gt;user.language=ja&lt;/l2&gt; (без &lt;l3&gt;#&lt;/l3&gt;) вказує &lt;a4&gt;OmegaT&lt;/a4&gt; запускатися з японським користувацьким інтерфейсом.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>For example, anyone is free to make changes to OmegaT's program code and to submit these changes to the development team.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="lesia" changedate="20200324T171857Z" creationid="lesia" creationdate="20200321T154329Z">
@@ -9149,6 +9157,14 @@ provided (omegat.kaptn).</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="lesia" changedate="20200323T214003Z" creationid="maximo" creationdate="20200322T155332Z">
         <seg>Більшості користувачів вони не потрібні.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>For pre-defined options, remove the &lt;l1&gt;#&lt;/l1&gt; before a parameter to enable it.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200420T164338Z" creationid="maximo" creationdate="20200420T164338Z">
+        <seg>Для того щоб задіяти якийсь з попередньо визначених параметрів, заберіть &lt;l1&gt;#&lt;/l1&gt; на початку відповідного рядка.</seg>
       </tuv>
     </tu>
     <tu>
@@ -15406,6 +15422,14 @@ installed on your system.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="maximo" changedate="20200405T190046Z" creationid="maximo" creationdate="20200405T190046Z">
         <seg>Меню «Налаштування»</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Options are changed by modifying &lt;f0&gt;Configuration.properties&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200420T164157Z" creationid="maximo" creationdate="20200420T164157Z">
+        <seg>Параметри змінюються шляхом редагування &lt;f0&gt;Configuration.properties&lt;/f0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -25427,6 +25451,14 @@ can then launch the Kaptain launch script with:</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="fanja9" changedate="20200418T092154Z" creationid="fanja9" creationdate="20200418T092154Z">
         <seg>Пізніше ви також можете додавати сюди файли.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You can also &lt;c3&gt;cd&lt;/c3&gt; there directly from the command line and open &lt;f4&gt;Configuration.properties&lt;/f4&gt; in a command line editor like emacs or vi.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200420T164128Z" creationid="maximo" creationdate="20200420T164128Z">
+        <seg>Ви також можете перейти туди безпосередньо за допомогою команди &lt;c3&gt;cd&lt;/c3&gt; у терміналі та відкрити &lt;f4&gt;Configuration.properties&lt;/f4&gt; за допомогою термінального текстового редактора, наприклад emacs чи vi.</seg>
       </tuv>
     </tu>
     <tu>
