@@ -5328,6 +5328,14 @@ Buy another drink</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Click on the icon button, then hit &lt;g0&gt;Browse...&lt;/g0&gt; and navigate to the &lt;f1&gt;/images&lt;/f1&gt; subfolder in the &lt;a2&gt;OmegaT&lt;/a2&gt; application folder.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200420T161008Z" creationid="maximo" creationdate="20200420T161008Z">
+        <seg>Натисніть на кнопку іконки, потім на кнопку &lt;g0&gt;Огляд...&lt;/g0&gt; та у підтеці &lt;f1&gt;/images&lt;/f1&gt; головної теки програми &lt;a2&gt;OmegaT&lt;/a2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Click this button to access the &lt;u0&gt;TaaS&lt;/u0&gt; project site and create a user account.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="maximo" changedate="20200412T141713Z" creationid="maximo" creationdate="20200412T141713Z">
@@ -9268,6 +9276,14 @@ provided (omegat.kaptn).</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="maximo" changedate="20200419T110039Z" creationid="maximo" creationdate="20200419T110039Z">
         <seg>Користувачам GNOME</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>GNOME may fail to display the icon files in the available formats and initially appear to expect an SVG file, but if the folder is selected, the files should appear and &lt;f4&gt;OmegaT.png&lt;/f4&gt; can be selected.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200420T161236Z" creationid="maximo" creationdate="20200420T161236Z">
+        <seg>Спочатку GNOME може не відображати всі файли іконок коректно. Може виглядати так, ніби очікується саме файл SVG, але якщо перейти в теку, то можна буде побачити всі файли і таки обрати &lt;f4&gt;OmegaT.png&lt;/f4&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -18791,8 +18807,8 @@ The scope of a search is by default the project and can be set to be any files l
       <tuv lang="EN">
         <seg>Select the &lt;f3&gt;OmegaT.png&lt;/f3&gt; icon.</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="maximo" changedate="20200419T110705Z" creationid="maximo" creationdate="20200419T110705Z">
-        <seg>іSelect the &lt;f3&gt;OmegaT.png&lt;/f3&gt; icon.</seg>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200420T161022Z" creationid="maximo" creationdate="20200419T110705Z">
+        <seg>оберіть файл &lt;f3&gt;OmegaT.png&lt;/f3&gt;.</seg>
       </tuv>
     </tu>
     <tu>
