@@ -10149,6 +10149,14 @@ Its winter has come</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>However, the command-line alternative allows the user to control and modify the program's behavior.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200420T200446Z" creationid="maximo" creationdate="20200420T200446Z">
+        <seg>Але можливість запуску програми з командного рядка дозволяє отримати більший контроль над поведінкою програми.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>However, the user manual may no longer be up to date (and therefore possibly confusing), and some minor bugs are possible.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="lesia" changedate="20200322T214025Z" creationid="maximo" creationdate="20200322T145804Z">
@@ -14371,6 +14379,14 @@ as the Applications folder.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20190820T131352Z" creationid="Kos Ivantsov" creationdate="20190820T130850Z">
         <seg>Без кодування</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Normally, it is not necessary to start &lt;a0&gt;OmegaT&lt;/a0&gt; from the command line.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200420T200008Z" creationid="maximo" creationdate="20200420T200008Z">
+        <seg>Зазвичай нема потреби запускати &lt;a0&gt;OmegaT&lt;/a0&gt; з командного рядка.</seg>
       </tuv>
     </tu>
     <tu>
@@ -20196,6 +20212,14 @@ The scope of a search is by default the project and can be set to be any files l
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20190821T155209Z" creationid="Kos Ivantsov" creationdate="20190821T155143Z">
         <seg>Початок отримання та застосування всіх змін</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Starting OmegaT from the command line</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200420T195935Z" creationid="maximo" creationdate="20200420T195935Z">
+        <seg>Запуск OmegaT з командного рядка</seg>
       </tuv>
     </tu>
     <tu>
