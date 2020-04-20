@@ -22072,6 +22072,14 @@ the server.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>This area allows entering an external post-processing command (for instance, a script to rename files) that will be applied each time Create Translated Documents is used.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="lesia" changedate="20200420T085122Z" creationid="lesia" creationdate="20200420T085122Z">
+        <seg>Ця область дозволяє вводити зовнішні команди після створення перекладених файлів (наприклад, скрипт, який переіменовує файли), які будуть ініціюватися кожен раз при натисканні команди "Створити перекладені документи".</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>This button enables you to browse and download the collections that exist for the project's source and target languages.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="maximo" changedate="20200412T141947Z" creationid="maximo" creationdate="20200412T141947Z">
