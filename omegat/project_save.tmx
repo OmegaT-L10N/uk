@@ -3928,6 +3928,14 @@ The TMX file will not be loaded.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Arguments are added after the initial &lt;c0&gt;java&lt;/c0&gt;, and before the &lt;l1&gt;-jar OmegaT.jar&lt;/l1&gt;.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200420T202240Z" creationid="maximo" creationdate="20200420T202240Z">
+        <seg>Аргументи можна додавати після &lt;c0&gt;java&lt;/c0&gt;, перед &lt;l1&gt;-jar OmegaT.jar&lt;/l1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Arrays must not be null</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20190507T104349Z" creationid="Kos Ivantsov" creationdate="20190507T104349Z">
@@ -4937,6 +4945,14 @@ Buy another drink</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Changes to this command involve the addition of "arguments" to it.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200420T202209Z" creationid="maximo" creationdate="20200420T202209Z">
+        <seg>Її можна змінити додаючи до неї "аргументи".</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Changing segmentation settings may cause some already translated segments to be split or merged.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="lesia" changedate="20200412T201348Z" creationid="lesia" creationdate="20200412T201348Z">
@@ -5822,6 +5838,14 @@ Buy another drink</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20190812T071420Z" creationid="Kos Ivantsov" creationdate="20190812T070625Z">
         <seg>Підключення відновлено. Робота в режимі командного проєкту.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Consequently, to make changes to the launch command, it is sufficient to modify the file.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200420T202053Z" creationid="maximo" creationdate="20200420T202053Z">
+        <seg>Тому, якщо ви хочете змінити команди запуску - просто змініть цей файл.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12659,6 +12683,14 @@ itself on the first run.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Launch command arguments</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200420T202116Z" creationid="maximo" creationdate="20200420T202116Z">
+        <seg>Аргументи команди запускуLaunch command arguments</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Launch the installation program.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20190822T150404Z" creationid="Kos Ivantsov" creationdate="20190822T150404Z">
@@ -14475,6 +14507,14 @@ as the Applications folder.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="maximo" changedate="20200420T195925Z" creationid="maximo" creationdate="20200420T195925Z">
         <seg>Зверніть увагу, що якщо ви хочете використовувати будь-які аргументи запуску програми (див. вище), версія Java Web Start вам не підійде.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Note that in Windows you can change the &lt;f2&gt;OmegaT.l4J.ini&lt;/f2&gt; file to reflect your preferences.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200420T202322Z" creationid="maximo" creationdate="20200420T202322Z">
+        <seg>Зверніть увагу, що під Windows ви можете змінювати файл &lt;f2&gt;OmegaT.l4J.ini&lt;/f2&gt; для зміни налаштувань.</seg>
       </tuv>
     </tu>
     <tu>
@@ -21385,6 +21425,14 @@ Please try to correct the error and reload the project.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="maximo" changedate="20200412T202500Z" creationid="maximo" creationdate="20200412T202500Z">
         <seg>Доступні параметри:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The basic command has already been mentioned above.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200420T202136Z" creationid="maximo" creationdate="20200420T202136Z">
+        <seg>Базова команда вже була описана вище.</seg>
       </tuv>
     </tu>
     <tu>
