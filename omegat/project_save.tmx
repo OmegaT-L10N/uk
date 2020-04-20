@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.2_0_6a661c5e0" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.2_0_6a661c5e" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -3700,6 +3700,14 @@ The TMX file will not be loaded.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20190807T182952Z" creationid="Kos Ivantsov" creationdate="20190807T182727Z">
         <seg>Попередній переклад було замінено текстом, який не збігається із тим, який увели ви.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>An ignored file or folder:</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="lesia" changedate="20200420T194511Z" creationid="lesia" creationdate="20200420T194511Z">
+        <seg>Ігноровані файл чи тека:</seg>
       </tuv>
     </tu>
     <tu>
@@ -11225,6 +11233,14 @@ click on that shortcut.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20190823T144751Z" creationid="Kos Ivantsov" creationdate="20190823T144751Z">
         <seg>У меню &lt;s0&gt;«Проєкт»&lt;/s0&gt; оберіть пункт &lt;s1&gt;«Новий…»&lt;/s1&gt; і введіть назву проєкту.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>In the Exclusion patterns dialog, it is possible to Add or Remove a pattern, or edit one by selecting a line and pressing F2.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="lesia" changedate="20200420T194925Z" creationid="lesia" creationdate="20200420T194925Z">
+        <seg>У діалозі "Шаблони для виключення" можна додавати чи видаляти шаблони або змінювати їх (для цього треба вибирати лінію та натиснути F2).</seg>
       </tuv>
     </tu>
     <tu>
@@ -26476,6 +26492,30 @@ create its configuration folder.</seg>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20190421T171357Z" creationid="Kos Ivantsov" creationdate="20190419T183938Z">
         <seg>init &lt;мова оригіналу&gt; &lt;мова перекладу&gt;
 		Ініціалізувати мінімальний командний проєкт із зазначеними мовами.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>is not copied in /target folder during the translated files creation process.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="lesia" changedate="20200420T194643Z" creationid="lesia" creationdate="20200420T194643Z">
+        <seg>не копіюються у теку /target під час створення перекладених файлів.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>is not displayed in the Editor pane,</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="lesia" changedate="20200420T194553Z" creationid="lesia" creationdate="20200420T194553Z">
+        <seg>не відображуються в області редагування,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>is not taken into account in statistics,</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="lesia" changedate="20200420T194604Z" creationid="lesia" creationdate="20200420T194604Z">
+        <seg>не враховуються у статистиці,</seg>
       </tuv>
     </tu>
     <tu>
