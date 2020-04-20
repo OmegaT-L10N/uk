@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.2_0_6a661c5e" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.2_0_6a661c5e0" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -3205,6 +3205,14 @@ The current setting is {0}MB;</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="maximo" changedate="20200414T184056Z" creationid="maximo" creationdate="20200414T161144Z">
         <seg>Після розбиття файлу для перекладу на структурні одиниці &lt;a0&gt;OmegaT&lt;/a0&gt; далі розділяє ці блоки на речення.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>After the initial installation you can, of course, also use &lt;f3&gt;OmegaT.jnlp&lt;/f3&gt; also when you are offline.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200420T195233Z" creationid="maximo" creationdate="20200420T195233Z">
+        <seg>Після першого запуску та встановлення ви, звичайно, зможете використовувати &lt;f3&gt;OmegaT.jnlp&lt;/f3&gt; і без підключення до інтернету.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7431,6 +7439,14 @@ project_save.tmx не був переданий на віддалений сер
       </tuv>
       <tuv lang="UK-UA" changeid="maximo" changedate="20200322T162007Z" creationid="maximo" creationdate="20200322T162007Z">
         <seg>Під час встановлення ви можете отримати кілька попереджень від системи безпеки вашої операційної системи.&lt;br0/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>During the installation, depending on your operating system, you may receive several security warnings.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200420T194954Z" creationid="maximo" creationdate="20200420T194954Z">
+        <seg>Під час встановлення ви можете отримати кілька попереджень від системи безпеки вашої операційної системи.</seg>
       </tuv>
     </tu>
     <tu>
@@ -20279,6 +20295,14 @@ The scope of a search is by default the project and can be set to be any files l
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Subsequent clicks on &lt;f1&gt;OmegaT.jnlp&lt;/f1&gt; will check for any upgrades, install them, if there are any, and then start &lt;a2&gt;OmegaT&lt;/a2&gt;.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200420T195116Z" creationid="maximo" creationdate="20200420T195116Z">
+        <seg>Наступні кліки по &lt;f1&gt;OmegaT.jnlp&lt;/f1&gt; будуть перевіряти, чи потрібні якісь оновлення, за потреби встановлювати їх та запускати &lt;a2&gt;OmegaT&lt;/a2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Subversion</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20190504T132300Z" creationid="Kos Ivantsov" creationdate="20190504T132300Z">
@@ -21820,6 +21844,14 @@ in /lib/licenses/Licenses.txt.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="lesia" changedate="20200324T160835Z" creationid="maximo" creationdate="20200322T173213Z">
         <seg>OmegaT — чудовий помічник для тих, кому потрібна не складність, а ефективність. Словники, автодоповнення та автоматичний переклад - все це надзвичайно збільшує ефективність моєї роботи як літературного перекладача.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The permissions you give to this version (which may appear as "unrestricted access to the computer") are identical to the permissions you give to the local version, i.e., they allow access to the hard drive of the computer.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200420T195001Z" creationid="maximo" creationdate="20200420T195001Z">
+        <seg>Для встановлення цієї версії ваша система може просити у вас "необмеженого доступу до комп'ютера". Але мається на увазі той самий дозвіл, що і для встановлення звичайної версії OmegaT, тобто доступ до жорстокого диску.</seg>
       </tuv>
     </tu>
     <tu>
