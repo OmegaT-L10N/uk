@@ -8927,6 +8927,14 @@ Gossamer threads hold you back
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Follow the installation instructions of the package you need.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200420T170625Z" creationid="maximo" creationdate="20200420T170625Z">
+        <seg>Слідуйте інструкціям відповідного пакету, щоб встановити Java на вашу систему.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Font</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20190420T125212Z" creationid="Kos Ivantsov" creationdate="20190420T125212Z">
@@ -10121,6 +10129,14 @@ Its winter has come</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20190807T184115Z" creationid="Kos Ivantsov" creationdate="20190807T184115Z">
         <seg>IBM Watson не доступний.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>IBM provides JREs for Linux PowerPC at &lt;u0/&gt;.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200420T170531Z" creationid="maximo" creationdate="20200420T170531Z">
+        <seg>JRE від IBM для Linux PowerPC доступні за адресою &lt;u0/&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -15505,6 +15521,14 @@ installed on your system.</seg>
 		та завантажити відповідний проєкт
 	team:
 		інструмент для роботи з командним проєктом</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Oracle provides JREs for Solaris SPARC/x86 (Java 8) and for Linux x64, Solaris x64, Windows x64 (Java 8) at &lt;u0/&gt;.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200420T170459Z" creationid="maximo" creationdate="20200420T170459Z">
+        <seg>JRE від Oracle доступні для Solaris SPARC/x86 (Java 8) та Linux x64, Solaris x64, Windows x64 (Java 8) за адресою &lt;u0/&gt;.</seg>
       </tuv>
     </tu>
     <tu>
