@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.2_0_6a661c5e" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.2_0_6a661c5e0" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -1960,6 +1960,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;a0&gt;OmegaT&lt;/a0&gt; contains the Java JRE 1.8</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200420T162524Z" creationid="maximo" creationdate="20200420T162524Z">
+        <seg>&lt;a0&gt;OmegaT&lt;/a0&gt; містить Java JRE 1.8</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;a0&gt;OmegaT&lt;/a0&gt; first parses the text for structure-level segmentation.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="maximo" changedate="20200414T145141Z" creationid="maximo" creationdate="20200414T145141Z">
@@ -3092,6 +3100,14 @@ The current setting is {0}MB;</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20190821T115613Z" creationid="Kos Ivantsov" creationdate="20190821T115613Z">
         <seg>Додано: {1}, видалено: {2}, змінено: {3} (кількість конфліктів: {0})</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Adding &lt;a0&gt;OmegaT&lt;/a0&gt; to the Dock</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200420T162847Z" creationid="maximo" creationdate="20200420T162847Z">
+        <seg>Додавання &lt;a0&gt;OmegaT&lt;/a0&gt; у Док</seg>
       </tuv>
     </tu>
     <tu>
@@ -4904,6 +4920,14 @@ Buy another drink</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Check "Command line launching" below for more information.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200420T162501Z" creationid="maximo" creationdate="20200420T162501Z">
+        <seg>Див. нижче "Запуск з командного рядка" для більш детальних інструкцій.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Check &amp;Issues...</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20190420T155919Z" creationid="Kos Ivantsov" creationdate="20190420T155919Z">
@@ -5960,6 +5984,14 @@ Buy another drink</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20190421T150818Z" creationid="Kos Ivantsov" creationdate="20190420T132342Z">
         <seg>Скопіювати документи до теки з файлами для перекладу...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Copy the folder to a suitable folder (e.g. Applications).</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200420T162748Z" creationid="maximo" creationdate="20200420T162748Z">
+        <seg>Перемістіть теку у відповідну теку (наприклад, Applications).</seg>
       </tuv>
     </tu>
     <tu>
@@ -7071,6 +7103,22 @@ Buy another drink</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Double click on &lt;f0&gt;OmegaT_4.n.n_Mac.zip&lt;/f0&gt; to unpack it.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200420T162636Z" creationid="maximo" creationdate="20200420T162636Z">
+        <seg>Двічі клацніть по &lt;f0&gt;OmegaT_4.n.n_Mac.zip&lt;/f0&gt;, щоб розпакувати архів.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Double-click on &lt;f0&gt;OmegaT.app&lt;/f0&gt; or click on its location in the Dock.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200420T162941Z" creationid="maximo" creationdate="20200420T162941Z">
+        <seg>Двічі клацніть на &lt;f0&gt;OmegaT.app&lt;/f0&gt;, чи натисніть на неї у Доку.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Double-click on the OmegaT application.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20190822T212254Z" creationid="Kos Ivantsov" creationdate="20190822T212254Z">
@@ -7107,6 +7155,14 @@ Buy another drink</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20190420T182149Z" creationid="Kos Ivantsov" creationdate="20190420T182149Z">
         <seg>Стягнути ко&amp;мандний проєкт...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Download &lt;f0&gt;OmegaT_4.n.n_Mac.zip&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200420T162536Z" creationid="maximo" creationdate="20200420T162536Z">
+        <seg>Завантаення &lt;f0&gt;OmegaT_4.n.n_Mac.zip&lt;/f0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7203,6 +7259,14 @@ Buy another drink</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20190807T103350Z" creationid="Kos Ivantsov" creationdate="20190807T103350Z">
         <seg>&amp;Малюнки</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Drag and drop &lt;f0&gt;OmegaT.app&lt;/f0&gt; onto the Dock.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200420T162903Z" creationid="maximo" creationdate="20200420T162903Z">
+        <seg>Перетягніть &lt;f0&gt;OmegaT.app&lt;/f0&gt; на Док.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11300,6 +11364,14 @@ click on that shortcut.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Installing &lt;a0&gt;OmegaT&lt;/a0&gt;</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200420T162556Z" creationid="maximo" creationdate="20200420T162556Z">
+        <seg>Встановлення &lt;a0&gt;OmegaT&lt;/a0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Installing OmegaT</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="maximo" changedate="20200418T125358Z" creationid="maximo" creationdate="20200418T125358Z">
@@ -15037,6 +15109,14 @@ installed on your system.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="maximo" changedate="20200405T043056Z" creationid="maximo" creationdate="20200405T043056Z">
         <seg>Щоб нові комбінації набули чинності, після змін у файлі &lt;f0&gt;MainMenuShortcuts.properties&lt;/f0&gt;, необхідно перезавантажити &lt;a1&gt;OmegaT&lt;/a1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Once you have done this, you can delete the &lt;f4&gt;OmegaT_4.n.n_Mac.zip&lt;/f4&gt; file, it is no longer needed.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200420T162828Z" creationid="maximo" creationdate="20200420T162828Z">
+        <seg>Після цього ви можете видалити &lt;f4&gt;OmegaT_4.n.n_Mac.zip&lt;/f4&gt;, він вам більше не потрібен.</seg>
       </tuv>
     </tu>
     <tu>
@@ -21215,6 +21295,14 @@ instead.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The folder contains 2 files: &lt;f2&gt;index.html&lt;/f2&gt; and &lt;f3&gt;OmegaT.app&lt;/f3&gt;.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200420T162708Z" creationid="maximo" creationdate="20200420T162708Z">
+        <seg>У теці буде два файла: &lt;f2&gt;index.html&lt;/f2&gt; та &lt;f3&gt;OmegaT.app&lt;/f3&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The following example for the INI file reserves 1 GB of memory, requests French as the user language and Canada as the country:</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="maximo" changedate="20200418T130825Z" creationid="maximo" creationdate="20200418T130825Z">
@@ -22237,6 +22325,14 @@ the server.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20190811T131142Z" creationid="Kos Ivantsov" creationdate="20190811T130909Z">
         <seg>Ця команда виконуватиметься щоразу після створення перекладених документів.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This creates a folder called &lt;f1&gt;OmegaT&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200420T162650Z" creationid="maximo" creationdate="20200420T162650Z">
+        <seg>Це створить теку &lt;f1&gt;OmegaT&lt;/f1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -26084,6 +26180,14 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20190424T212311Z" creationid="Kos Ivantsov" creationdate="20190424T212311Z">
         <seg>mALIGNa (ліцензія MIT)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>macOS Users</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200420T162514Z" creationid="maximo" creationdate="20200420T162514Z">
+        <seg>Користувачам macOS</seg>
       </tuv>
     </tu>
     <tu>
