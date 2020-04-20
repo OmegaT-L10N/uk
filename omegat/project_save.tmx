@@ -18290,6 +18290,14 @@ The scope of a search is by default the project and can be set to be any files l
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>See &lt;l1&gt;Segmentation Setup preferences&lt;/l1&gt; for more information on segmentation rules.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="lesia" changedate="20200420T153319Z" creationid="lesia" creationdate="20200420T151053Z">
+        <seg>Щоб дізнатися більше про правила сегментації, відкрийте  &lt;l1&gt;Segmentation Setup preferences&lt;/l1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>See &lt;l2&gt;Regular expressions&lt;/l2&gt;.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="maximo" changedate="20200416T090520Z" creationid="maximo" creationdate="20200416T090520Z">
