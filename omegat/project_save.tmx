@@ -4730,6 +4730,14 @@ Buy another drink</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>By default, 1024 MB are assigned, so there is no advantage in assigning less than this figure.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200421T163728Z" creationid="maximo" creationdate="20200421T163728Z">
+        <seg>За замовчуванням виділяється 1024 MB, тому виділення меншої кількості пам'яті ніяк не збільшить можливості програми.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>By default, OmegaT does not execute the commands specified in the project-specific settings (the &lt;f0&gt;finder.xml&lt;/f0&gt; file in the &lt;f1&gt;omegat&lt;/f1&gt; folder), because they may have a critical impact on the machine's security.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="maximo" changedate="20200416T211055Z" creationid="maximo" creationdate="20200416T211055Z">
