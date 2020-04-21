@@ -2562,6 +2562,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;p4&gt;??&lt;/p4&gt; stands for the amount of memory assigned, in megabytes.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200421T163801Z" creationid="maximo" creationdate="20200421T163801Z">
+        <seg>&lt;p4&gt;??&lt;/p4&gt; відповідає кількості виділеної памʼяті у мегабайтах.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;r0&gt;Note:&lt;/r0&gt; On an Apple Mac, use the &lt;k1&gt;Command&lt;/k1&gt; key instead of the &lt;k2&gt;Control&lt;/k2&gt; key.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20190516T204932Z" creationid="Kos Ivantsov" creationdate="20190516T204932Z">
@@ -21634,6 +21642,14 @@ Please try to correct the error and reload the project.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20190819T104700Z" creationid="Kos Ivantsov" creationdate="20190819T104700Z">
         <seg>Команда має містити «{target}» (без лапок). Коли запускатиметься вказана команда, «{target}» буде замінено вибраним текстом.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The command to launch &lt;a5&gt;OmegaT&lt;/a5&gt; with assignment of 2048 MB (2 GB) of memory is therefore:</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200421T163851Z" creationid="maximo" creationdate="20200421T163851Z">
+        <seg>Таким чином, команда для запуску &lt;a5&gt;OmegaT&lt;/a5&gt; із 2048 MB (2 GB) памʼяті буде виглядати так:</seg>
       </tuv>
     </tu>
     <tu>
