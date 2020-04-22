@@ -2954,6 +2954,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>API keys can be requested using &lt;u0&gt;API key request form&lt;/u0&gt;, and viewed on &lt;u1&gt;My Keys&lt;/u1&gt; page.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200422T172152Z" creationid="maximo" creationdate="20200422T172152Z">
+        <seg>Ключ API можна отримати через &lt;u0&gt;форму запиту ключа API key&lt;/u0&gt; та подивитися на сторінці &lt;u1&gt;Мої ключі&lt;/u1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>ASCII Only</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20190820T130857Z" creationid="Kos Ivantsov" creationdate="20190820T130857Z">
@@ -13318,6 +13326,14 @@ itself on the first run.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Make sure that you have a free Yandex account.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200422T172010Z" creationid="maximo" creationdate="20200422T172010Z">
+        <seg>У вас має бути безкоштовний акаунт Yandex.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Make sure that your &lt;v1&gt;PATH&lt;/v1&gt; settings are correct and that &lt;f2&gt;.jar&lt;/f2&gt; files are properly associated with a Java launcher.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="maximo" changedate="20200420T162403Z" creationid="maximo" creationdate="20200420T162403Z">
@@ -22642,6 +22658,14 @@ in /lib/licenses/Licenses.txt.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The two entries required are available in your &lt;u1&gt;account page&lt;/u1&gt; under Primary account key and Customer-ID:</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200422T171938Z" creationid="maximo" creationdate="20200422T171938Z">
+        <seg>Два елемента, які потрібно ввести, ви можете знайти на &lt;u1&gt;сторінці вашого акаунту&lt;/u1&gt;: Primary account key та Customer-ID:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The two types of rules behave as follows:</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="maximo" changedate="20200414T190338Z" creationid="maximo" creationdate="20200414T190338Z">
@@ -26740,6 +26764,14 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20190420T181203Z" creationid="Kos Ivantsov" creationdate="20190420T181203Z">
         <seg>Проєкт не містить жодного файлу у форматі, що підтримується OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You’ll need this to be able to obtain and use Yandex Translate API key.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200422T172044Z" creationid="maximo" creationdate="20200422T172044Z">
+        <seg>Він необхідний для того, щоб отримати і використовувати ключ Yandex Translate API.</seg>
       </tuv>
     </tu>
     <tu>
