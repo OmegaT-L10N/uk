@@ -13310,6 +13310,14 @@ itself on the first run.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Make sure that you have a free Microsoft account.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200422T171625Z" creationid="maximo" creationdate="20200422T171625Z">
+        <seg>У вас має бути безкоштовний акаунт Microsoft.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Make sure that your &lt;v1&gt;PATH&lt;/v1&gt; settings are correct and that &lt;f2&gt;.jar&lt;/f2&gt; files are properly associated with a Java launcher.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="maximo" changedate="20200420T162403Z" creationid="maximo" creationdate="20200420T162403Z">
@@ -14664,6 +14672,14 @@ as the Applications folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Note that the key is 38 characters long.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200422T171544Z" creationid="maximo" creationdate="20200422T171544Z">
+        <seg>Зверніть увагу, що ключ має довжину 38 символів.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Note that the structure of the source subfolder may take any form you like.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="fanja9" changedate="20200418T093150Z" creationid="fanja9" creationdate="20200418T093150Z">
@@ -14676,6 +14692,14 @@ as the Applications folder.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="maximo" changedate="20200411T112153Z" creationid="maximo" creationdate="20200411T112153Z">
         <seg>Зверніть увагу, що перевіряти воно буде стандартну (кастильську) іспанську, а не мексиканський діалект.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Note that up to 2M characters per month are free of charge.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200422T171815Z" creationid="maximo" creationdate="20200422T171815Z">
+        <seg>Зверніть увагу, що до 2 мільйонів символів на місяць можна перекладати безкоштовно.</seg>
       </tuv>
     </tu>
     <tu>
@@ -26716,6 +26740,14 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20190420T181203Z" creationid="Kos Ivantsov" creationdate="20190420T181203Z">
         <seg>Проєкт не містить жодного файлу у форматі, що підтримується OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You’ll need this to sign-in to &lt;u0&gt;Windows Azure Marketplace&lt;/u0&gt; and use the Translator service.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200422T171729Z" creationid="maximo" creationdate="20200422T171729Z">
+        <seg>Він потрібен, щоб залогінитись в &lt;u0&gt;Windows Azure Marketplace&lt;/u0&gt; та щоб використовувати сервіс Translator.</seg>
       </tuv>
     </tu>
     <tu>
