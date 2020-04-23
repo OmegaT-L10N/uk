@@ -22138,6 +22138,14 @@ in /lib/licenses/Licenses.txt.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The location does not matter, since you have to add it to the command line at the start-up anyway.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200423T141058Z" creationid="maximo" creationdate="20200423T141058Z">
+        <seg>Місце, в якому він розташований, ролі не грає, оскільки вам все одно треба буде вказати повний шлях до нього при виклику з командного рядка.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The location of the file must be within the &lt;f2&gt;/glossary&lt;/f2&gt; folder, but it can be in a deeper folder (e.g., &lt;f3&gt;glossary/sub/glossary.txt&lt;/f3&gt;).</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="maximo" changedate="20200404T171120Z" creationid="maximo" creationdate="20200404T171120Z">
@@ -23795,6 +23803,14 @@ the server.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20190823T145625Z" creationid="Kos Ivantsov" creationdate="20190823T145625Z">
         <seg>Для уточнення параметрів проєкту відкрийте діалогове вікно з властивостями проєкту, натиснувши &lt;s0&gt;&lt;s1&gt;Ctrl+E&lt;/s1&gt;&lt;/s0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To run &lt;a0&gt;OmegaT&lt;/a0&gt; in the command line mode, a valid &lt;a1&gt;OmegaT&lt;/a1&gt; project must be present.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200423T140859Z" creationid="maximo" creationdate="20200423T140859Z">
+        <seg>Щоб запустити &lt;a0&gt;OmegaT&lt;/a0&gt; у режимі командного рядка, вам потрібен валідний проєкт &lt;a1&gt;OmegaT&lt;/a1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
