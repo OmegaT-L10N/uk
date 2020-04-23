@@ -6826,8 +6826,8 @@ Buy another drink</seg>
       <tuv lang="EN">
         <seg>Detailed instructions on building are in the docs_devel &lt;u0&gt;readme&lt;/u0&gt;.</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="maximo" changedate="20200423T161837Z" creationid="maximo" creationdate="20200423T161837Z">
-        <seg>Деталізовані інструкції можна знайти у &lt;u0&gt;README&lt;/u0&gt; в теці docs_devel.</seg>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200423T182631Z" creationid="maximo" creationdate="20200423T161837Z">
+        <seg>Деталізовані інструкції можна знайти у &lt;u0&gt;README.txt&lt;/u0&gt; в теці docs_devel.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7157,6 +7157,14 @@ Buy another drink</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20190807T164010Z" creationid="Kos Ivantsov" creationdate="20190807T164010Z">
         <seg>У цій області показуються коментарі до поточного сегмента, якщо вони містяться у файлі оригіналу та підтримуються відповідним файловим фільтром (наприклад, фільтр для файлів PO).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Displays copyright, credits and license information.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200423T183018Z" creationid="maximo" creationdate="20200423T183018Z">
+        <seg>Показати копірайт, список учасників проєкту та інформацію про ліцензії.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10222,6 +10230,14 @@ provided (omegat.kaptn).</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20190821T213326Z" creationid="Kos Ivantsov" creationdate="20190821T213326Z">
         <seg>Текст цілком</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Help</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200423T182808Z" creationid="maximo" creationdate="20200423T182808Z">
+        <seg>Довідка</seg>
       </tuv>
     </tu>
     <tu>
@@ -16240,6 +16256,14 @@ installed on your system.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20190811T113021Z" creationid="Kos Ivantsov" creationdate="20190811T112949Z">
         <seg>Відкриття командного проєкту</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Opens this manual in the default browser.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200423T182804Z" creationid="maximo" creationdate="20200423T182804Z">
+        <seg>Відкрити цей посібник в стандартному браузері.</seg>
       </tuv>
     </tu>
     <tu>
@@ -25688,6 +25712,14 @@ searchable without subscription:</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20190822T215433Z" creationid="Kos Ivantsov" creationdate="20190822T215433Z">
         <seg>Підтримка користувачів здійснюється в багатомовній групі користувачів на Yahoo (архіви групи доступні без підписки):</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>User's Manual...</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200423T182732Z" creationid="maximo" creationdate="20200423T182732Z">
+        <seg>Посібник користувача...</seg>
       </tuv>
     </tu>
     <tu>
