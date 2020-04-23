@@ -2545,6 +2545,22 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;l0&gt;--config-dir=&lt;p1&gt;/path/to/config-files/&lt;/p1&gt;&lt;/l0&gt; tells &lt;a2&gt;OmegaT&lt;/a2&gt; in which folder the configuration files are stored.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200423T154537Z" creationid="maximo" creationdate="20200423T154537Z">
+        <seg>&lt;l0&gt;--config-dir=&lt;p1&gt;/path/to/config-files/&lt;/p1&gt;&lt;/l0&gt; вказує &lt;a2&gt;OmegaT&lt;/a2&gt; теку, де знаходяться файли налаштувань.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;l0&gt;--config-file=&lt;p1&gt;/path/to/config-file/&lt;/p1&gt;&lt;/l0&gt; tells &lt;a2&gt;OmegaT&lt;/a2&gt; what configuration file to use.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200423T154751Z" creationid="maximo" creationdate="20200423T154751Z">
+        <seg>&lt;l0&gt;--config-file=&lt;p1&gt;/path/to/config-file/&lt;/p1&gt;&lt;/l0&gt; вказує &lt;a2&gt;OmegaT&lt;/a2&gt;, який файл налаштувань треба використовувати.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;l0&gt;/path/to/project&lt;/l0&gt; tells &lt;a1&gt;OmegaT&lt;/a1&gt; where to find the project to translate.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="maximo" changedate="20200423T154420Z" creationid="maximo" creationdate="20200423T154420Z">
@@ -10656,6 +10672,14 @@ their defaults as a result of the location change.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If not given, &lt;a3&gt;OmegaT&lt;/a3&gt; reverts to default values (&lt;a4&gt;OmegaT&lt;/a4&gt; folder under user home or, if unavailable, the current working folder).</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200423T154700Z" creationid="maximo" creationdate="20200423T154700Z">
+        <seg>Якщо його не передати, &lt;a3&gt;OmegaT&lt;/a3&gt; буде використовувати стандартні налаштування (тека &lt;a4&gt;OmegaT&lt;/a4&gt; всередині домашньої директорії користувача, чи поточна тека).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If not, or if you are not sure, select "with JRE".</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="lesia" changedate="20200322T213138Z" creationid="maximo" creationdate="20200322T141709Z">
@@ -14788,6 +14812,14 @@ as the Applications folder.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="maximo" changedate="20200422T171815Z" creationid="maximo" creationdate="20200422T171815Z">
         <seg>Зверніть увагу, що до 2 мільйонів символів на місяць можна перекладати безкоштовно.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Note the double &lt;l5&gt;-&lt;/l5&gt; character.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200423T154723Z" creationid="maximo" creationdate="20200423T154723Z">
+        <seg>Зверніть увагу на подвійний символ &lt;l5&gt;-&lt;/l5&gt;.</seg>
       </tuv>
     </tu>
     <tu>
