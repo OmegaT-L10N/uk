@@ -4025,6 +4025,14 @@ The TMX file will not be loaded.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Arguments can be combined: to launch &lt;a0&gt;OmegaT&lt;/a0&gt; with all the examples described above, the command would be:</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200423T133710Z" creationid="maximo" creationdate="20200423T133710Z">
+        <seg>Аргументи можна комбінувати: &lt;a0&gt;OmegaT&lt;/a0&gt; може бути запущена з усіма прикладами, що наведені вище:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Arrays must not be null</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20190507T104349Z" creationid="Kos Ivantsov" creationdate="20190507T104349Z">
@@ -15200,6 +15208,14 @@ as the Applications folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>OmegaT in the command line mode</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200423T133733Z" creationid="maximo" creationdate="20200423T133733Z">
+        <seg>OmegaT в режимі командного рядка</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>OmegaT inserts the translation of the string most similar to the current source, if it is above the similarity threshold that you have selected in this dialog.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="maximo" changedate="20200416T212805Z" creationid="maximo" creationdate="20200416T212805Z">
@@ -16803,6 +16819,14 @@ additional steps need to be taken.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20190807T184028Z" creationid="Kos Ivantsov" creationdate="20190807T184028Z">
         <seg>Преміум-варіант</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Prerequisites</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200423T140813Z" creationid="maximo" creationdate="20200423T140813Z">
+        <seg>Передумови</seg>
       </tuv>
     </tu>
     <tu>
@@ -22378,6 +22402,14 @@ in /lib/licenses/Licenses.txt.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The purpose of the console mode is to use OmegaT as a translation tool in a scripting environment.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200423T133835Z" creationid="maximo" creationdate="20200423T133835Z">
+        <seg>OmegaT можна використовувати як перекладацький інструмент у скриптах.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The regular expressions (or regex for short) used in searches and segmentation rules are those supported by Java.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="maximo" changedate="20200412T044144Z" creationid="maximo" creationdate="20200412T044144Z">
@@ -25718,6 +25750,14 @@ of selecting, obtaining and installing it.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="lesia" changedate="20200413T201046Z" creationid="lesia" creationdate="20200413T200823Z">
         <seg>Якщо ця функція активна, усі теґи форматування вилучаються з сегментів оригіналу.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>When started in console mode, no GUI is loaded (so it will work on any console) and the given project is automatically processed as requested.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200423T134003Z" creationid="maximo" creationdate="20200423T134003Z">
+        <seg>Коли програма запущена в консольному режимі, графічний інтерфейс користувача не завантажується і проєкт обробляється автоматично згідно до запиту.</seg>
       </tuv>
     </tu>
     <tu>
