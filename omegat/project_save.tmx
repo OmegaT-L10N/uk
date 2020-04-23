@@ -9482,6 +9482,14 @@ provided (omegat.kaptn).</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>For instance, if the project is EN-to-FR, &lt;f1&gt;alignDir&lt;/f1&gt; must contain a bundle ending with &lt;l2&gt;_fr&lt;/l2&gt;.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200423T155819Z" creationid="maximo" creationdate="20200423T155819Z">
+        <seg>Наприклад, якщо проєкт, це переклад з англійської на французьку, то &lt;f1&gt;alignDir&lt;/f1&gt; має містити пакет, що закінчується на &lt;l2&gt;_fr&lt;/l2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>For most users, these are not of interest.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="lesia" changedate="20200323T214003Z" creationid="maximo" creationdate="20200322T155332Z">
@@ -22634,6 +22642,14 @@ in /lib/licenses/Licenses.txt.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The resulting TMX is stored in the &lt;f3&gt;omegat&lt;/f3&gt; folder under the name &lt;f4&gt;align.tmx&lt;/f4&gt;.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200423T155839Z" creationid="maximo" creationdate="20200423T155839Z">
+        <seg>Файл TMX, що буде отриманий в результаті вирівнювання, зберігається у теці &lt;f3&gt;/omegat/&lt;/f3&gt; з іменем &lt;f4&gt;align.tmx&lt;/f4&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The rules for that set will appear in the bottom half of the window.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="maximo" changedate="20200415T110541Z" creationid="maximo" creationdate="20200415T110541Z">
@@ -25998,6 +26014,14 @@ of selecting, obtaining and installing it.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="lesia" changedate="20200413T201046Z" creationid="lesia" creationdate="20200413T200823Z">
         <seg>Якщо ця функція активна, усі теґи форматування вилучаються з сегментів оригіналу.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>When mode has been used, this option will specify the files to be processed automatically.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200423T155951Z" creationid="maximo" creationdate="20200423T155951Z">
+        <seg>Якщо використовується консольний режим, то ви можете цією опцією обмежити файли, що будуть перекладені.</seg>
       </tuv>
     </tu>
     <tu>
