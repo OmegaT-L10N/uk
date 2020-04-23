@@ -2072,6 +2072,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;e0&gt;&lt;l1&gt;--mode=&lt;p2&gt;...&lt;/p2&gt;&lt;/l1&gt;&lt;/e0&gt; &lt;a3&gt;OmegaT&lt;/a3&gt; starts in console mode to perform one of the following services automatically</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200423T154835Z" creationid="maximo" creationdate="20200423T154835Z">
+        <seg>&lt;e0&gt;&lt;l1&gt;--mode=&lt;p2&gt;...&lt;/p2&gt;&lt;/l1&gt;&lt;/e0&gt; &lt;a3&gt;OmegaT&lt;/a3&gt; запускається в консольному режимі, щоб виконати одну із вказаних задач автоматично.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;e0&gt;&lt;l1&gt;-Dgoogle.api.key=&lt;p2&gt;A123456789B123456789C123456789D12345678&lt;/p2&gt;&lt;/l1&gt;&lt;/e0&gt; If you have signed up for the Google Translate services, enter your private Google API key here.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="maximo" changedate="20200422T171518Z" creationid="maximo" creationdate="20200422T171518Z">
@@ -11570,6 +11578,22 @@ click on that shortcut.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="maximo" changedate="20200419T072019Z" creationid="maximo" creationdate="20200419T072019Z">
         <seg>Але в той же час:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>In this mode OmegaT will create a TMX for the whole project, based on the source files only.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200423T155102Z" creationid="maximo" creationdate="20200423T155102Z">
+        <seg>У цьому режимі OmegaT створює TMX для всього проєкту, використовуючи лише файли для перекладу.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>In this mode, OmegaT will attempt to translate the files in &lt;f0&gt;/source/&lt;/f0&gt; with the available translation memories.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200423T154926Z" creationid="maximo" creationdate="20200423T154926Z">
+        <seg>У цьому режимі OmegaT намагається перекласти файли із теки &lt;f0&gt;/source/&lt;/f0&gt; з використанням доступної памʼяті перекладів.</seg>
       </tuv>
     </tu>
     <tu>
@@ -23465,6 +23489,14 @@ the server.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="maximo" changedate="20200416T211741Z" creationid="maximo" creationdate="20200416T211741Z">
         <seg>Це особливо корисно для текстів із великою кількістю торгових марок чи інших власних назв, які треба лишати як є.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This is useful to run OmegaT on a server with TMX files automatically fed to a project.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200423T155009Z" creationid="maximo" creationdate="20200423T155009Z">
+        <seg>Це зручно, коли ви запускаєте OmegaT на сервері з готовими TMX файлами.</seg>
       </tuv>
     </tu>
     <tu>
