@@ -3426,6 +3426,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Again note that the backslash is escaped as well.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200423T160447Z" creationid="maximo" creationdate="20200423T160447Z">
+        <seg>Тут треба звернути увагу, що бекслеш також треба екранувати.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Aggressive &amp;Font Fallback</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20190807T122245Z" creationid="Kos Ivantsov" creationdate="20190807T122125Z">
@@ -10536,6 +10544,14 @@ not be entered.)</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If &lt;l0&gt;abort&lt;/l0&gt; is selected, the tag validator will stop on the first invalid segment.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200423T160618Z" creationid="maximo" creationdate="20200423T160618Z">
+        <seg>Якщо вибрати If &lt;l0&gt;abort&lt;/l0&gt;, то валідатор теґів зупиниться на першому помилковому сегменті.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If HTML file has the encoding declaration, it will be used disregarding any value you set in this dialog.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20190815T133238Z" creationid="Kos Ivantsov" creationdate="20190814T101834Z">
@@ -10860,6 +10876,14 @@ their defaults as a result of the location change.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="maximo" changedate="20200411T135030Z" creationid="maximo" creationdate="20200411T135030Z">
         <seg>Якщо перевірка правопису не працює, то перш за все перевірте, що у вас відмічено &lt;g0&gt;"Автоматично перевіряти правопис у тексті"&lt;/g0&gt; у діалозі перевірки правопису (&lt;g1&gt;Параметри &gt; Перевірка правопису...)&lt;/g1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If there are other files named test.html in other folders, they will be ignored.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200423T160333Z" creationid="maximo" creationdate="20200423T160333Z">
+        <seg>Якщо в інших теках є ще файли test.html, вони будуть проігноровані.</seg>
       </tuv>
     </tu>
     <tu>
@@ -15952,6 +15976,14 @@ installed on your system.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="maximo" changedate="20200416T213644Z" creationid="maximo" creationdate="20200416T213644Z">
         <seg>Перетворення відбуваються тільки для цілих чисел та простих десяткових дробів (тих, що використовують крапку як розділювальний елемент, таким чином 5.4, але не 5,4 чи 54E-01) are considered.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Only the file &lt;f0&gt;test.html&lt;/f0&gt; in the folder &lt;f1&gt;dir-10&lt;/f1&gt; will be processed.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200423T160414Z" creationid="maximo" creationdate="20200423T160414Z">
+        <seg>Лише файл &lt;f0&gt;test.html&lt;/f0&gt; у теці &lt;f1&gt;dir-10&lt;/f1&gt; буде оброблено.</seg>
       </tuv>
     </tu>
     <tu>
@@ -23641,6 +23673,14 @@ the server.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="maximo" changedate="20200413T105920Z" creationid="maximo" creationdate="20200413T105920Z">
         <seg>Цей параметр дозволяє OmegaT переписати специфікацію у заголовку PO файла та використовувати стандартну для мови перекладу.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This option allows the tag validation in a batch mode.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200423T160537Z" creationid="maximo" creationdate="20200423T160537Z">
+        <seg>Цей параметр дозволяє валідацію теґів в автоматичному режимі.</seg>
       </tuv>
     </tu>
     <tu>
