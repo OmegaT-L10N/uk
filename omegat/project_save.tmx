@@ -20585,6 +20585,14 @@ The scope of a search is by default the project and can be set to be any files l
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Starting in console mode</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200423T153808Z" creationid="maximo" creationdate="20200423T153808Z">
+        <seg>Запуск в консольному режимі</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Statistics</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20190504T131724Z" creationid="Kos Ivantsov" creationdate="20190504T131724Z">
@@ -22170,6 +22178,14 @@ in /lib/licenses/Licenses.txt.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The location does not matter, since you can add it to the command line at startup.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200423T153645Z" creationid="maximo" creationdate="20200423T153645Z">
+        <seg>Місце ролі не грає, оскільки вам все одно треба буде вказати повний шлях до нього при виклику з командного рядка.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The location does not matter, since you have to add it to the command line at the start-up anyway.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="maximo" changedate="20200423T141058Z" creationid="maximo" creationdate="20200423T141058Z">
@@ -22454,6 +22470,14 @@ in /lib/licenses/Licenses.txt.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="maximo" changedate="20200412T044144Z" creationid="maximo" creationdate="20200412T044144Z">
         <seg>У OmegaT для пошуку, чи у правилах сегментації використовуються регулярні вирази Java.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The relevant files are &lt;f2&gt;filters.conf&lt;/f2&gt; and &lt;f3&gt;segmentation.conf&lt;/f3&gt; and can be found in the user home folder (e.g. &lt;f4&gt;C:\Documents and Settings\&lt;p5&gt;user&lt;/p5&gt;\OmegaT&lt;/f4&gt; under Windows, &lt;f6&gt;~/.omegat/&lt;/f6&gt; under Linux).</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200423T153752Z" creationid="maximo" creationdate="20200423T153752Z">
+        <seg>Необхідні файли, це &lt;f2&gt;filters.conf&lt;/f2&gt; та &lt;f3&gt;segmentation.conf&lt;/f3&gt;. Їх можна знайти в домашній директорії користувача (наприклад &lt;f4&gt;C:\Documents and Settings\&lt;p5&gt;user&lt;/p5&gt;\OmegaT&lt;/f4&gt; під Windows, &lt;f6&gt;~/.omegat/&lt;/f6&gt; під Linux).</seg>
       </tuv>
     </tu>
     <tu>
@@ -23867,6 +23891,14 @@ the server.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20190823T145711Z" creationid="Kos Ivantsov" creationdate="20190823T145632Z">
         <seg>Щоб переглянути перелік файлів у проєкті, відкрийте діалогове вікно &lt;s2&gt;«Файли проєкту»&lt;/s2&gt;, натиснувши &lt;s3&gt;&lt;s4&gt;Ctrl+L&lt;/s4&gt;&lt;/s3&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To start &lt;a0&gt;OmegaT&lt;/a0&gt; in console mode, some extra parameters have to be passed to it on startup.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200423T153903Z" creationid="maximo" creationdate="20200423T153903Z">
+        <seg>Щоб запустити &lt;a0&gt;OmegaT&lt;/a0&gt; у консольному режимі, треба при запуску передати кілька додаткових аргументів.</seg>
       </tuv>
     </tu>
     <tu>
