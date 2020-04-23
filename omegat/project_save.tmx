@@ -3905,6 +3905,14 @@ The TMX file will not be loaded.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>An extra command line parameter specific to console mode: &lt;l0&gt;--quiet&lt;/l0&gt;.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200423T161232Z" creationid="maximo" creationdate="20200423T161232Z">
+        <seg>Ще один параметр, специфічний для консольного режима: &lt;l0&gt;--quiet&lt;/l0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>An ignored file or folder:</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="lesia" changedate="20200420T194511Z" creationid="lesia" creationdate="20200420T194511Z">
@@ -4742,6 +4750,14 @@ Buy another drink</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="lesia" changedate="20200322T211254Z" creationid="maximo" creationdate="20200321T130709Z">
         <seg>Помилки та запити щодо функціональності та документації оброблюються на Sourceforge за допомогою поданих нижче систем відстеження.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Building &lt;a0&gt;OmegaT&lt;/a0&gt; From Source</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200423T161439Z" creationid="maximo" creationdate="20200423T161439Z">
+        <seg>Компіляція &lt;a0&gt;OmegaT&lt;/a0&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -11674,6 +11690,14 @@ click on that shortcut.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="maximo" changedate="20200418T125604Z" creationid="maximo" creationdate="20200418T125604Z">
         <seg>А у наступному вікні ви зможете обрати мову для самої OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>In the quiet mode, less info is logged to the screen.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200423T161308Z" creationid="maximo" creationdate="20200423T161308Z">
+        <seg>У тихому режимі на екран виводиться менше інформації.</seg>
       </tuv>
     </tu>
     <tu>
@@ -22482,6 +22506,14 @@ in /lib/licenses/Licenses.txt.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The messages you would usually find in the status bar are not displayed.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200423T161349Z" creationid="maximo" creationdate="20200423T161349Z">
+        <seg>Наприклад, ті повідомлення, які ви зазвичай бачите у рядку статусу не відображаються.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The most current info about OmegaT can be found at:</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20190822T215401Z" creationid="Kos Ivantsov" creationdate="20190822T215401Z">
@@ -22886,6 +22918,14 @@ in /lib/licenses/Licenses.txt.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="fanja9" changedate="20200418T091901Z" creationid="fanja9" creationdate="20200418T091901Z">
         <seg>Підтека оригіналу містить файли для перекладу.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The sources of the current version can be retrieved with a SVN client from the repository &lt;u0/&gt; or directly on &lt;u1&gt;SourceForge&lt;/u1&gt;.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200423T161541Z" creationid="maximo" creationdate="20200423T161541Z">
+        <seg>Код поточної версії можна завантажити за допомогою клієнта SVN із репозиторія &lt;u0/&gt;, чи напряму з &lt;u1&gt;SourceForge&lt;/u1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -25285,6 +25325,14 @@ on line {1}, column {2}.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="maximo" changedate="20200404T171642Z" creationid="maximo" creationdate="20200404T171642Z">
         <seg>Використання</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Usage: &lt;l0&gt;java -jar OmegaT.jar /path/to/project --mode=console-translate --quiet&lt;/l0&gt;</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200423T161402Z" creationid="maximo" creationdate="20200423T161402Z">
+        <seg>Спосіб використання: &lt;l0&gt;java -jar OmegaT.jar /path/to/project --mode=console-translate --quiet&lt;/l0&gt;</seg>
       </tuv>
     </tu>
     <tu>
