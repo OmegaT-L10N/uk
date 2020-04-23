@@ -10930,6 +10930,14 @@ Explorer), change the settings so that file extensions are displayed.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If you can't run &lt;a0&gt;OmegaT&lt;/a0&gt; normally (no graphical environment available): copy the settings files from some other &lt;a1&gt;OmegaT&lt;/a1&gt; installation on another machine to a specific folder.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200423T153624Z" creationid="maximo" creationdate="20200423T153624Z">
+        <seg>Якщо ж ви не можете запустити &lt;a0&gt;OmegaT&lt;/a0&gt; нормальним чином (нема графічного середовища) - скопіюйте налаштування &lt;a1&gt;OmegaT&lt;/a1&gt; з іншого комп'ютера у певну теку.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If you change segmentation options when a project is open, you must reload the project in order for the changes to take effect.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="maximo" changedate="20200414T144322Z" creationid="maximo" creationdate="20200414T144322Z">
@@ -11028,6 +11036,14 @@ to use Java Web Start.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If you need altered settings, the configuration files must be available.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200423T141138Z" creationid="maximo" creationdate="20200423T141138Z">
+        <seg>Якщо вам треба якісь особливі установки, у вас мають бути відповідні файли налаштувань.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If you need assistance with any aspect of OmegaT, feel free to join the &lt;a1&gt;OmegaT users group.&lt;/a1&gt;</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20190823T150008Z" creationid="Kos Ivantsov" creationdate="20190823T150008Z">
@@ -11072,6 +11088,14 @@ to use Java Web Start.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="maximo" changedate="20200412T195046Z" creationid="maximo" creationdate="20200412T195046Z">
         <seg>Якщо ви не хочете за допомогою OmegaT перекладати файли певного типу, ви можете вимкнути відповідний фільтр, знявши відмітку біля його назви.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If you start &lt;a1&gt;OmegaT&lt;/a1&gt; in console mode, it will use the same settings.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200423T141317Z" creationid="maximo" creationdate="20200423T141317Z">
+        <seg>Якщо ви після цього запустите &lt;a1&gt;OmegaT&lt;/a1&gt; у консольному режимі, вона буде використовувати ті самі налаштування.</seg>
       </tuv>
     </tu>
     <tu>
@@ -18507,6 +18531,14 @@ These words: 'Page not found'</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Run &lt;a0&gt;OmegaT&lt;/a0&gt; normally (with the GUI) and specify the settings.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200423T141232Z" creationid="maximo" creationdate="20200423T141232Z">
+        <seg>Запустити &lt;a0&gt;OmegaT&lt;/a0&gt; звичайним чином (з GUI) та зробити налаштування.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Run script on slot #{0}.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20190807T214225Z" creationid="Kos Ivantsov" creationdate="20190422T215430Z">
@@ -23055,6 +23087,14 @@ the server.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20190820T172729Z" creationid="Kos Ivantsov" creationdate="20190820T172729Z">
         <seg>Цей виклик ПОВИНЕН виконуватися в потоці Swing</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This can be achieved in two ways:</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200423T141154Z" creationid="maximo" creationdate="20200423T141154Z">
+        <seg>Це можна досягти двома шляхами:</seg>
       </tuv>
     </tu>
     <tu>
