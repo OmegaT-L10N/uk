@@ -2585,6 +2585,22 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;l0&gt;--disable-project-locking&lt;/l0&gt; allows, under Windows, to open the same project with several instances of OmegaT.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200423T161008Z" creationid="maximo" creationdate="20200423T161008Z">
+        <seg>&lt;l0&gt;--disable-project-locking&lt;/l0&gt; дозволяє під Windows відкрити проєкт у двох окремих вікнах OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;l0&gt;--no-team&lt;/l0&gt; addresses projects set up for team work.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200423T160802Z" creationid="maximo" creationdate="20200423T160802Z">
+        <seg>&lt;l0&gt;--no-team&lt;/l0&gt; стосується командних проєктів.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;l0&gt;/path/to/project&lt;/l0&gt; tells &lt;a1&gt;OmegaT&lt;/a1&gt; where to find the project to translate.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="maximo" changedate="20200423T154420Z" creationid="maximo" creationdate="20200423T154420Z">
@@ -10546,8 +10562,16 @@ not be entered.)</seg>
       <tuv lang="EN">
         <seg>If &lt;l0&gt;abort&lt;/l0&gt; is selected, the tag validator will stop on the first invalid segment.</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="maximo" changedate="20200423T160618Z" creationid="maximo" creationdate="20200423T160618Z">
-        <seg>Якщо вибрати If &lt;l0&gt;abort&lt;/l0&gt;, то валідатор теґів зупиниться на першому помилковому сегменті.</seg>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200423T160631Z" creationid="maximo" creationdate="20200423T160618Z">
+        <seg>Якщо вибрати &lt;l0&gt;abort&lt;/l0&gt;, то валідатор теґів зупиниться на першому помилковому сегменті.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If &lt;l1&gt;warn&lt;/l1&gt; is specified, the tag validator will process all segments and write warnings about any segments with invalid tags into the file specified.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200423T160746Z" creationid="maximo" creationdate="20200423T160628Z">
+        <seg>Якщо вибрати &lt;l1&gt;warn&lt;/l1&gt;, то валідатор теґів обробить всі сегменти і запише попередження про помилкові сегменти у вказаний файл.</seg>
       </tuv>
     </tu>
     <tu>
@@ -25389,6 +25413,14 @@ on line {1}, column {2}.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20190823T142709Z" creationid="Kos Ivantsov" creationdate="20190823T142709Z">
         <seg>Використовувати глосарій</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Use it if OmegaT is not to synchronize the project contents.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200423T160832Z" creationid="maximo" creationdate="20200423T160832Z">
+        <seg>Використовуйте його, щоб OmegaT не синхронізувала його вміст.</seg>
       </tuv>
     </tu>
     <tu>
