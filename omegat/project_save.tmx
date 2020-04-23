@@ -4906,6 +4906,14 @@ Buy another drink</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>By default, under Windows, &lt;f1&gt;omegat.project&lt;/f1&gt; is locked, and an error message is received when trying to open a project already opened in another instance of OmegaT.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200423T161121Z" creationid="maximo" creationdate="20200423T161121Z">
+        <seg>Зазвичай під Windows &lt;f1&gt;omegat.project&lt;/f1&gt; блокується, і за спроби відкрити вже відкритий проєкт виводиться помилка.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>C&amp;ase sensitive</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20190516T181924Z" creationid="Kos Ivantsov" creationdate="20190516T181924Z">
@@ -17661,6 +17669,14 @@ project without team functionality.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Quiet option</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200423T161201Z" creationid="maximo" creationdate="20200423T161201Z">
+        <seg>Тихий режим</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Quit</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="maximo" changedate="20200405T185103Z" creationid="maximo" creationdate="20200405T185103Z">
@@ -26380,6 +26396,14 @@ Your page is not found</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="lesia" changedate="20200322T213422Z" creationid="maximo" creationdate="20200322T144635Z">
         <seg>З JRE</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>With that option, no locking occurs.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200423T161153Z" creationid="maximo" creationdate="20200423T161153Z">
+        <seg>Із цією опцією, блокування нема.</seg>
       </tuv>
     </tu>
     <tu>
