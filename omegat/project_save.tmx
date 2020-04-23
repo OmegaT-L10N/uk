@@ -1651,6 +1651,14 @@ To add files to the project, click on the Copy Files to Source Folder... button 
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>--alignDir=&lt;p0&gt;&lt;location of translated files&gt;&lt;/p0&gt;</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200423T155639Z" creationid="maximo" creationdate="20200423T155639Z">
+        <seg>--alignDir=&lt;p0&gt;&lt;тека перекладених файлів&gt;&lt;/p0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>--config-file=&lt;path&gt;
 		A Java .properties file from which to load default settings.</seg>
       </tuv>
@@ -2357,6 +2365,14 @@ The current setting is {0}MB;</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="maximo" changedate="20200420T165101Z" creationid="maximo" creationdate="20200420T165101Z">
         <seg>&lt;f0&gt;OmegaT.app&lt;/f0&gt; може використовувати macOS Services.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;alignDir&lt;/f0&gt; must contain a translation in the target language of the project.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200423T155719Z" creationid="maximo" creationdate="20200423T155719Z">
+        <seg>&lt;f0&gt;alignDir&lt;/f0&gt; мусить містити переклад на цільову мову проєкту.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3294,6 +3310,14 @@ The current setting is {0}MB;</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="maximo" changedate="20200419T072611Z" creationid="maximo" creationdate="20200419T072611Z">
         <seg>Додавання &lt;a0&gt;OmegaT&lt;/a0&gt; у меню (KDE) чи панелі (Gnome)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Additional parameter is required in this case, specifying the location of the target data:</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200423T155622Z" creationid="maximo" creationdate="20200423T155622Z">
+        <seg>У цьому випадку ви маєте вказати ще один параметр, а власне теку перекладених файлів:</seg>
       </tuv>
     </tu>
     <tu>
@@ -22598,6 +22622,14 @@ in /lib/licenses/Licenses.txt.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="maximo" changedate="20200423T153752Z" creationid="maximo" creationdate="20200423T153752Z">
         <seg>Необхідні файли, це &lt;f2&gt;filters.conf&lt;/f2&gt; та &lt;f3&gt;segmentation.conf&lt;/f3&gt;. Їх можна знайти в домашній директорії користувача (наприклад &lt;f4&gt;C:\Documents and Settings\&lt;p5&gt;user&lt;/p5&gt;\OmegaT&lt;/f4&gt; під Windows, &lt;f6&gt;~/.omegat/&lt;/f6&gt; під Linux).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The resulting TMX is stored in the &lt;f1&gt;/omegat/&lt;/f1&gt; folder under the name &lt;f2&gt;align.tmx&lt;/f2&gt;.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200423T155527Z" creationid="maximo" creationdate="20200423T155527Z">
+        <seg>Файл TMX, що буде отриманий в результаті вирівнювання, зберігається у теці &lt;f1&gt;/omegat/&lt;/f1&gt; з іменем &lt;f2&gt;align.tmx&lt;/f2&gt;.</seg>
       </tuv>
     </tu>
     <tu>
