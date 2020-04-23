@@ -11590,6 +11590,14 @@ click on that shortcut.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>In this mode, OmegaT will align the Java properties files found in the &lt;f0&gt;/source/&lt;/f0&gt; folder of the project to the contents found at the specified location.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200423T155430Z" creationid="maximo" creationdate="20200423T155430Z">
+        <seg>У цьому режимі OmegaT буде вирівнювати файли Java properties із теки &lt;f0&gt;/source/&lt;/f0&gt; та файли із вказаної теки.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>In this mode, OmegaT will attempt to translate the files in &lt;f0&gt;/source/&lt;/f0&gt; with the available translation memories.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="maximo" changedate="20200423T154926Z" creationid="maximo" creationdate="20200423T154926Z">
@@ -21774,6 +21782,14 @@ Please try to correct the error and reload the project.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The argument &lt;e0&gt;pseudotranslatetype&lt;/e0&gt; specifies, whether the target segments are to be equal to the source, or left empty.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200423T155242Z" creationid="maximo" creationdate="20200423T155242Z">
+        <seg>Аргумент &lt;e0&gt;pseudotranslatetype&lt;/e0&gt; вказує, чи перекладені сегменти мають бути пустими чи дорівнювати оригіналу.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The available options are:</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="maximo" changedate="20200412T202500Z" creationid="maximo" creationdate="20200412T202500Z">
@@ -26930,6 +26946,14 @@ window to be able to launch it from any location.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20190504T134602Z" creationid="Kos Ivantsov" creationdate="20190504T134602Z">
         <seg>Потрібно вказати їхнє нове розміщення або створити їх знову.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You specify the TMX file to be created with</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200423T155133Z" creationid="maximo" creationdate="20200423T155133Z">
+        <seg>Ви можете вказати файл TMX, що його треба створити за допомогою</seg>
       </tuv>
     </tu>
     <tu>
