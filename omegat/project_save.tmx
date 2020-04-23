@@ -5306,6 +5306,14 @@ Buy another drink</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Check for Updates...</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200423T183313Z" creationid="maximo" creationdate="20200423T183313Z">
+        <seg>Перевірка оновлень...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Check for doubled blanks</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20190822T220531Z" creationid="Kos Ivantsov" creationdate="20190822T220531Z">
@@ -5534,6 +5542,14 @@ Buy another drink</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="lesia" changedate="20200322T150627Z" creationid="lesia" creationdate="20200322T150627Z">
         <seg>Перевіряє мовні помилки (граматичні, стилістичні та ін.).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Checks to see whether a more recent version of &lt;a0&gt;OmegaT&lt;/a0&gt; has been released.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200423T183342Z" creationid="maximo" creationdate="20200423T183342Z">
+        <seg>Перевірити, чи вийшла новіша версія &lt;a0&gt;OmegaT&lt;/a0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
