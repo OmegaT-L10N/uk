@@ -3530,6 +3530,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>All HTML files will be translated - note that the period in the usual &lt;l0&gt;*.html&lt;/l0&gt; has to be escaped (&lt;l1&gt;\.&lt;/l1&gt;) as specified by the rules for regular expressions</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200423T160225Z" creationid="maximo" creationdate="20200423T160110Z">
+        <seg>Всі файли HTML підлягають перекладу - зверніть увагу, що за правилами регулярних виразів крапка у звичному &lt;l0&gt;*.html&lt;/l0&gt; має екрануватись (&lt;l1&gt;\.&lt;/l1&gt;)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>All domains</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20190817T205052Z" creationid="Kos Ivantsov" creationdate="20190817T205052Z">
@@ -10230,6 +10238,14 @@ Its winter has come</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Here's few typical examples to limit your choice:</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200423T160118Z" creationid="maximo" creationdate="20200423T160045Z">
+        <seg>Ось кілька характерних прикладів обмежень:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Hide '{0}'</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20190807T183312Z" creationid="Kos Ivantsov" creationdate="20190807T183312Z">
@@ -10820,6 +10836,14 @@ their defaults as a result of the location change.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="maximo" changedate="20200413T105646Z" creationid="maximo" creationdate="20200413T105646Z">
         <seg>Якщо цей параметр вимкнений, текст оригіналу буде скопійовано у перекладений файл.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If the parameter is not specified, all files will be processed.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200423T160017Z" creationid="maximo" creationdate="20200423T160017Z">
+        <seg>Якщо цей параметр не передати, всі файли будуть оброблені.</seg>
       </tuv>
     </tu>
     <tu>
@@ -15928,6 +15952,14 @@ installed on your system.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="maximo" changedate="20200416T213644Z" creationid="maximo" creationdate="20200416T213644Z">
         <seg>Перетворення відбуваються тільки для цілих чисел та простих десяткових дробів (тих, що використовують крапку як розділювальний елемент, таким чином 5.4, але не 5,4 чи 54E-01) are considered.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Only the file test.html at the root of the source folder will be translated.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200423T160301Z" creationid="maximo" creationdate="20200423T160301Z">
+        <seg>Лише файл test.html в корені проєкту буде перекладатись.</seg>
       </tuv>
     </tu>
     <tu>
