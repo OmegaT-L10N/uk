@@ -6824,6 +6824,14 @@ Buy another drink</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Detailed instructions on building are in the docs_devel &lt;u0&gt;readme&lt;/u0&gt;.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200423T161837Z" creationid="maximo" creationdate="20200423T161837Z">
+        <seg>Деталізовані інструкції можна знайти у &lt;u0&gt;README&lt;/u0&gt; в теці docs_devel.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Detailed technical discussion of changes is best conducted directly with OmegaT's developers.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="lesia" changedate="20200322T141726Z" creationid="lesia" creationdate="20200322T141726Z">
@@ -15940,6 +15948,14 @@ installed on your system.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Once the code is downloaded, open a command in the source folder and type:</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200423T161619Z" creationid="maximo" creationdate="20200423T161619Z">
+        <seg>Після завантаження, перейдіть у теку коду програми та запустіть команду:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Once you have done this, you can delete the &lt;f4&gt;OmegaT_4.n.n_Mac.zip&lt;/f4&gt; file, it is no longer needed.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="maximo" changedate="20200420T162828Z" creationid="maximo" creationdate="20200420T162828Z">
@@ -23869,6 +23885,14 @@ the server.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>This will create a full distribution of OmegaT in the &lt;f0&gt;./build/distributions&lt;/f0&gt; folder, where you will find a zip containing everything needed to run &lt;a1&gt;OmegaT&lt;/a1&gt;.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200423T161714Z" creationid="maximo" creationdate="20200423T161714Z">
+        <seg>Це створить пакет OmegaT у теці &lt;f0&gt;./build/distributions&lt;/f0&gt;. Там ви знайдете zip-файл з усім необхідним для запуску &lt;a1&gt;OmegaT&lt;/a1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>This will create an &lt;f0&gt;omegat/&lt;/f0&gt; folder in the working folder in which you will find all the files needed to run &lt;a1&gt;OmegaT&lt;/a1&gt;.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="maximo" changedate="20200419T072504Z" creationid="maximo" creationdate="20200419T072504Z">
@@ -26866,6 +26890,14 @@ start menu, the desktop or the quick launch area to link it from there.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="maximo" changedate="20200404T164758Z" creationid="maximo" creationdate="20200404T164758Z">
         <seg>Крім того, можна створити ярлик, перетягнувши файл OmegaT.exe у меню «Пуск», на робочий стіл або на панель швидкого запуску.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You can also run directly the application with the following command:</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200423T161740Z" creationid="maximo" creationdate="20200423T161740Z">
+        <seg>Також ви можете запустити програму напряму за допомогою команди:</seg>
       </tuv>
     </tu>
     <tu>
