@@ -7169,6 +7169,14 @@ Buy another drink</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Displays the current log file.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200423T183139Z" creationid="maximo" creationdate="20200423T183139Z">
+        <seg>Показати поточний файл журналу.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Displays the dictionary entries found in the dictionary files located in the /dictionary/ folder if they are present in the source segment.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20190807T152658Z" creationid="Kos Ivantsov" creationdate="20190807T152658Z">
@@ -7197,6 +7205,14 @@ Buy another drink</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20190807T181928Z" creationid="Kos Ivantsov" creationdate="20190807T181928Z">
         <seg>У цій області показуються записи глосаріїв, розміщених у теці для глосаріїв, якщо поточний сегмент містить збіги.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Displays the list of new functionalities, enhancements and bug fixes for each new release.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200423T183115Z" creationid="maximo" creationdate="20200423T183115Z">
+        <seg>Показати список нових функцій, покращень та виправлених помилок для кожного реліза.</seg>
       </tuv>
     </tu>
     <tu>
@@ -23078,6 +23094,14 @@ in /lib/licenses/Licenses.txt.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20190807T184634Z" creationid="Kos Ivantsov" creationdate="20190807T184634Z">
         <seg>Перевищено максимально допустимий обсяг тексту</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The title of the dialog reflects the file actually used (which depends on how many instances of OmegaT are running concurrently).</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200423T183310Z" creationid="maximo" creationdate="20200423T183310Z">
+        <seg>У заголовку цього діалогу можна побачити ім'я файла, в який ведеться запис. Це може бути корисно, якщо ви запускаєте кілька OmegaT паралельно.</seg>
       </tuv>
     </tu>
     <tu>
