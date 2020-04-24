@@ -18225,6 +18225,14 @@ These words: 'Page not found'</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Remove Translation</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200423T184226Z" creationid="maximo" creationdate="20200423T184226Z">
+        <seg>Вилучити переклад</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Remove a project from this list if you want OmegaT to ask you for a login and a password every time you access the project.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="maximo" changedate="20200417T081313Z" creationid="maximo" creationdate="20200417T081313Z">
@@ -18479,6 +18487,14 @@ These words: 'Page not found'</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="maximo" changedate="20200405T185228Z" creationid="maximo" creationdate="20200405T185228Z">
         <seg>Замінити машинним перекладом</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Replace with Source</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200423T184132Z" creationid="maximo" creationdate="20200423T184132Z">
+        <seg>Замінити на оригінал</seg>
       </tuv>
     </tu>
     <tu>
@@ -19731,6 +19747,14 @@ The scope of a search is by default the project and can be set to be any files l
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20190421T193251Z" creationid="Kos Ivantsov" creationdate="20190421T193251Z">
         <seg>Вибрати з&amp;біг</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Select Match</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200423T184159Z" creationid="maximo" creationdate="20200423T184159Z">
+        <seg>Вибрати збіг</seg>
       </tuv>
     </tu>
     <tu>
@@ -21149,6 +21173,14 @@ The scope of a search is by default the project and can be set to be any files l
       </tuv>
       <tuv lang="UK-UA" changeid="maximo" changedate="20200405T185416Z" creationid="maximo" creationdate="20200405T185416Z">
         <seg>Змінити регістр/На верхній</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Switch case to</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200423T184145Z" creationid="maximo" creationdate="20200423T184145Z">
+        <seg>Змінити регістр</seg>
       </tuv>
     </tu>
     <tu>
