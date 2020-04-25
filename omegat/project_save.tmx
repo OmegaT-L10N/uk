@@ -2385,6 +2385,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;g0&gt;Spelling Issues&lt;/g0&gt; (optional).</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200425T150207Z" creationid="maximo" creationdate="20200425T150207Z">
+        <seg>&lt;g0&gt;Проблеми з правописом&lt;/g0&gt; (необов'язковий).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;html&gt;&lt;center&gt;Loading...&lt;br&gt;&lt;br&gt;Tip: Enable/disable checks at any time from the Options menu.&lt;/center&gt;&lt;/html&gt;</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20190821T125439Z" creationid="Kos Ivantsov" creationdate="20190821T125439Z">
@@ -9882,6 +9890,14 @@ provided (omegat.kaptn).</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Four types of issues are detected:</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200425T145943Z" creationid="maximo" creationdate="20200425T145943Z">
+        <seg>Проводиться перевірка на такі чотири типа помилок:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Free (compatible) alternatives to Microsoft Office.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="maximo" changedate="20200322T202758Z" creationid="lesia" creationdate="20200322T160640Z">
@@ -16468,6 +16484,14 @@ installed on your system.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Only works if a spelling dictionary is installed.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200425T150249Z" creationid="maximo" creationdate="20200425T150249Z">
+        <seg>Працює лише коли встановлені словники перевірки правопису.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Open</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="maximo" changedate="20200405T184508Z" creationid="maximo" creationdate="20200405T184508Z">
@@ -22288,6 +22312,14 @@ current folder will be used instead.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20190823T145908Z" creationid="Kos Ivantsov" creationdate="20190822T203419Z">
         <seg>Файли пам’яті, що мають в імені &lt;f3&gt;level1&lt;/f3&gt; або &lt;f4&gt;level2&lt;/f4&gt;, в можна використовувати для обміну з іншими програмами автоматизації перекладу.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The &lt;g1&gt;Tag Issues&lt;/g1&gt; option is always selected.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200425T150143Z" creationid="maximo" creationdate="20200425T150143Z">
+        <seg>Параметр &lt;g1&gt;Проблеми з теґами&lt;/g1&gt; обраний завжди.</seg>
       </tuv>
     </tu>
     <tu>
@@ -28462,6 +28494,14 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="maximo" changedate="20200420T165047Z" creationid="maximo" creationdate="20200420T165047Z">
         <seg>Зручності, доступні для macOS</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>missing or displaced tags, including &lt;l0&gt;custom tags&lt;/l0&gt;.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200425T150030Z" creationid="maximo" creationdate="20200425T150030Z">
+        <seg>пропущені та пересунуті теґи, в тому числі &lt;l0&gt;користувацькі теґи&lt;/l0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
