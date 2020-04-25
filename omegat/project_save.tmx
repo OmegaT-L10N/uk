@@ -10066,6 +10066,14 @@ provided (omegat.kaptn).</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Go To</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200425T133310Z" creationid="maximo" creationdate="20200425T133310Z">
+        <seg>Перехід</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Go To Next Untranslated Segment stops where there is at least one alternative translation</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="maximo" changedate="20200412T201750Z" creationid="maximo" creationdate="20200412T201750Z">
@@ -14456,6 +14464,14 @@ as the Applications folder.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="maximo" changedate="20200404T164616Z" creationid="maximo" creationdate="20200404T164616Z">
         <seg>Перемістіть цю теку до теки програм або в інше місце, звідки ви зможете запустити застосунок.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Moves to the next segment that has no equivalent in the translation memory.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200425T133424Z" creationid="maximo" creationdate="20200425T133424Z">
+        <seg>Перейти на наступний сегмент, якому нема відповідника у памʼяті перекладів.</seg>
       </tuv>
     </tu>
     <tu>
@@ -23841,6 +23857,14 @@ the server.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="lesia" changedate="20200321T125511Z" creationid="lesia" creationdate="20200321T125511Z">
         <seg>Це означає, що вихідний код програми OmegaT доступний всім, а ліцензія OmegaT надає користувачам значну свободу під час роботи з ним.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This menu displays entries only when a project is open.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200425T133342Z" creationid="maximo" creationdate="20200425T133342Z">
+        <seg>Це меню активне лише коли відкритий проєкт.</seg>
       </tuv>
     </tu>
     <tu>
