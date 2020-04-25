@@ -11049,10 +11049,26 @@ need not be entered.)</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If checked, non-breakable spaces will be displayed with a grey background.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200425T153233Z" creationid="maximo" creationdate="20200425T153233Z">
+        <seg>Якщо поставити прапорець, нерозривні пробіли будуть відображатися на сірому тлі.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If checked, non-unique segments will be marked in pale grey.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="maximo" changedate="20200425T153018Z" creationid="maximo" creationdate="20200425T153018Z">
         <seg>Поставте цей прапорець, щоб показувати всі неунікальні сегменти (повтори) сірим кольором.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If checked, segments with notes will be marked in cyan.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200425T153053Z" creationid="maximo" creationdate="20200425T153053Z">
+        <seg>Якщо поставити прапорець, сегменти із примітками будуть позначатися блакитним.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11101,6 +11117,14 @@ need not be entered.)</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="maximo" changedate="20200425T152541Z" creationid="maximo" creationdate="20200425T152541Z">
         <seg>Якщо поставити прапорець, неперекладені сегменти будуть позначатися фіолетовим.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If checked, white spaces will be displayed with a small dot.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200425T153254Z" creationid="maximo" creationdate="20200425T153254Z">
+        <seg>Якщо поставити прапорець, пробіли будуть відображатися із маленькою крапкою.</seg>
       </tuv>
     </tu>
     <tu>
@@ -24653,6 +24677,14 @@ the server.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>This marking has priority over &lt;g0&gt;Mark Translated Segments&lt;/g0&gt; and &lt;g1&gt;Mark Untranslated Segments&lt;/g1&gt;.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200425T153156Z" creationid="maximo" creationdate="20200425T153156Z">
+        <seg>Ця позначка має приорітет перед &lt;g0&gt;Позначати перекладені сегменти&lt;/g0&gt; та &lt;g1&gt;Позначати неперекладені сегменти&lt;/g1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>This means that the source code of the OmegaT program is freely available, and that OmegaT's license gives its users considerable freedom in its use.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="lesia" changedate="20200321T125511Z" creationid="lesia" creationdate="20200321T125511Z">
@@ -24705,6 +24737,14 @@ the server.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="maximo" changedate="20200416T211954Z" creationid="maximo" creationdate="20200416T211954Z">
         <seg>Цей варіант дозволить зекономити дві комбінації клавіш, які ви б витратили на видалення тексту для перекладу: &lt;e0&gt;Ctrl+A&lt;/e0&gt; та &lt;e1&gt;Del</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This option displays &lt;u0&gt;bidirectional control characters&lt;/u0&gt;</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200425T153326Z" creationid="maximo" creationdate="20200425T153326Z">
+        <seg>Цей параметр показує &lt;u0&gt;символи керування напрямком тексту&lt;/u0&gt;</seg>
       </tuv>
     </tu>
     <tu>
