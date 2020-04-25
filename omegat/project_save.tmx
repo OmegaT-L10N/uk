@@ -13468,6 +13468,14 @@ itself on the first run.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Launches scripts that have been associated with a number.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200425T152044Z" creationid="maximo" creationdate="20200425T152044Z">
+        <seg>Запускає скрипти, що були прив'язані до числа.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Launching OmegaT (Linux)
 ========================</seg>
       </tuv>
@@ -16764,6 +16772,14 @@ installed on your system.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Opens the &lt;l0&gt;&lt;g1&gt;Scripting&lt;/g1&gt; window&lt;/l0&gt;, where the location of scripts can be set, and where scripts can be written, run and associated with a shortcut.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200425T151947Z" creationid="maximo" creationdate="20200425T151947Z">
+        <seg>Відкриває &lt;l0&gt;вікно &lt;g1&gt;Скрипти&lt;/g1&gt;&lt;/l0&gt;, де можна вказати теку для скриптів, де можна писати власні скрипти, запускати їх чи прив'язувати до комбінації клавіш.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Opens the &lt;l0&gt;Editor&lt;/l0&gt; options in the Preferences dialog.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="maximo" changedate="20200425T141623Z" creationid="maximo" creationdate="20200425T141623Z">
@@ -19857,6 +19873,14 @@ The scope of a search is by default the project and can be set to be any files l
       </tuv>
       <tuv lang="UK-UA" changeid="lesia" changedate="20200322T150637Z" creationid="lesia" creationdate="20200322T150637Z">
         <seg>Плагін Scripting</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Scripting...</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200425T151816Z" creationid="maximo" creationdate="20200425T151816Z">
+        <seg>Скрипти...</seg>
       </tuv>
     </tu>
     <tu>
@@ -28622,6 +28646,14 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="maximo" changedate="20200412T053342Z" creationid="maximo" creationdate="20200412T053342Z">
         <seg>більш ніж один пробіл</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>n - (script name)</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200425T152001Z" creationid="maximo" creationdate="20200425T152001Z">
+        <seg>n - (ім'я скрипта)</seg>
       </tuv>
     </tu>
     <tu>
