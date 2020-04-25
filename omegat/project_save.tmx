@@ -10920,6 +10920,14 @@ their defaults as a result of the location change.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If the current segment is the last segment in a file, it moves to the first segment of the next file.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200425T133645Z" creationid="maximo" creationdate="20200425T133645Z">
+        <seg>Якщо поточний сегмент останній у файлі, переходить до першого сегмента у наступному файлі.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If the file already exists, no attempt is done to verify the format or the character set of the file: the new entries will always be in tab-separated format and UTF-8.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="maximo" changedate="20200404T171504Z" creationid="maximo" creationdate="20200404T171504Z">
@@ -14468,10 +14476,26 @@ as the Applications folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Moves to the next already translated segment, ignoring untranslated segments.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200425T133507Z" creationid="maximo" creationdate="20200425T133507Z">
+        <seg>Перейти до наступного перекладеного сегмента, пропустивши перекладені.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Moves to the next segment that has no equivalent in the translation memory.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="maximo" changedate="20200425T133424Z" creationid="maximo" creationdate="20200425T133424Z">
         <seg>Перейти на наступний сегмент, якому нема відповідника у памʼяті перекладів.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Moves to the next segment.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200425T133525Z" creationid="maximo" creationdate="20200425T133525Z">
+        <seg>Перейти до наступного сегмента.</seg>
       </tuv>
     </tu>
     <tu>
@@ -15060,6 +15084,14 @@ as the Applications folder.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="maximo" changedate="20200423T154723Z" creationid="maximo" creationdate="20200423T154723Z">
         <seg>Зверніть увагу на подвійний символ &lt;l5&gt;-&lt;/l5&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Note: &lt;k0&gt;Enter&lt;/k0&gt; is an alternate shortcut if &lt;l1&gt;Use TAB to Advance&lt;/l1&gt; option is not selected.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200425T133817Z" creationid="maximo" creationdate="20200425T133817Z">
+        <seg>Зверніть увагу: &lt;k0&gt;Enter&lt;/k0&gt; буде альтернативною комбінацією клавіш, якщо опція &lt;l1&gt;Використовувати TAB для переходу до наступного сегмента&lt;/l1&gt; вимкнута.</seg>
       </tuv>
     </tu>
     <tu>
