@@ -3674,6 +3674,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Allows you to activate/deactivate the Machine Translation tools offered.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200425T135113Z" creationid="maximo" creationdate="20200425T135113Z">
+        <seg>Дозволяє вмикати та вимикати інструменти машинного перекладу.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Also allow per-project external commands</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="maximo" changedate="20200417T083435Z" creationid="maximo" creationdate="20200417T083435Z">
@@ -4322,6 +4330,14 @@ may experience unexpected, but correct behaviour.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="maximo" changedate="20200416T095839Z" creationid="maximo" creationdate="20200416T095839Z">
         <seg>Інструмент автодоповнення запускається комбінацією клавіш &lt;e0&gt;Ctrl+Space&lt;/e0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Auto-completion</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200425T135035Z" creationid="maximo" creationdate="20200425T135035Z">
+        <seg>Автодоповнення</seg>
       </tuv>
     </tu>
     <tu>
@@ -7988,6 +8004,14 @@ project_save.tmx не був переданий на віддалений сер
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Editor...</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200425T135045Z" creationid="maximo" creationdate="20200425T135045Z">
+        <seg>Область редагування...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Either X or Y</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="maximo" changedate="20200412T051954Z" creationid="maximo" creationdate="20200412T051954Z">
@@ -10912,6 +10936,14 @@ their defaults as a result of the location change.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If several translation engines are selected, then &lt;k0&gt; &lt;k1&gt;Ctrl&lt;/k1&gt; &lt;k2&gt;M&lt;/k2&gt; &lt;/k0&gt; is also used to switch between them and insert the last one selected.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200425T135405Z" creationid="maximo" creationdate="20200425T135405Z">
+        <seg>Якщо обрано кілька рушіїв машинного перекладу, то за допомогою &lt;k0&gt; &lt;k1&gt;Ctrl&lt;/k1&gt; &lt;k2&gt;M&lt;/k2&gt; &lt;/k0&gt; можна перемикатися між ними та вставляти останнє з обраних.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If the Auto-propagation check box is not checked, the segments with alternative translations are left untranslated until the user has decided which translation is to be used.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="lesia" changedate="20200412T202718Z" creationid="lesia" creationdate="20200412T202718Z">
@@ -13618,6 +13650,14 @@ itself on the first run.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20190421T194921Z" creationid="Kos Ivantsov" creationdate="20190421T194921Z">
         <seg>&amp;Машинний переклад</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Machine Translate</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200425T135028Z" creationid="maximo" creationdate="20200425T135028Z">
+        <seg>Машинний переклад</seg>
       </tuv>
     </tu>
     <tu>
@@ -16380,6 +16420,14 @@ installed on your system.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Opens the &lt;l0&gt;Preferences&lt;/l0&gt; dialog.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200425T135014Z" creationid="maximo" creationdate="20200425T135014Z">
+        <seg>Відкрити діалог &lt;l0&gt;Параметри&lt;/l0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Opens this manual in the default browser.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="maximo" changedate="20200423T182804Z" creationid="maximo" creationdate="20200423T182804Z">
@@ -17251,6 +17299,14 @@ additional steps need to be taken.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20190701T114215Z" creationid="Kos Ivantsov" creationdate="20190701T114215Z">
         <seg>Не вдалося зберегти параметри!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Preferences...</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200425T134953Z" creationid="maximo" creationdate="20200425T134953Z">
+        <seg>Параметри...</seg>
       </tuv>
     </tu>
     <tu>
