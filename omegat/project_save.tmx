@@ -5506,6 +5506,14 @@ Buy another drink</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Check the &lt;g0&gt;Use Fuzzy Matching for Dictionary Entries&lt;/g0&gt; option if you want dictionaries to display words that have the same root.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200425T135614Z" creationid="maximo" creationdate="20200425T135614Z">
+        <seg>Поставте прапорець &lt;g0&gt;Шукати записи у словнику з використанням нечітких збігів&lt;/g0&gt;, якщо ви хочете, щоб словники показували однокореневі слова.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Check this box to send only untranslated segments to the machine translation services.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="maximo" changedate="20200412T072144Z" creationid="maximo" creationdate="20200412T072144Z">
@@ -19867,6 +19875,14 @@ The scope of a search is by default the project and can be set to be any files l
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20190421T194342Z" creationid="Kos Ivantsov" creationdate="20190421T194342Z">
         <seg>Вибрати &amp;попередній збіг</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Select &lt;g0&gt;Taas Terminology Lookup&lt;/g0&gt; to activate this lookup.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200425T135501Z" creationid="maximo" creationdate="20200425T135501Z">
+        <seg>Виберіть &lt;g0&gt;Пошук термінології TaaS&lt;/g0&gt;, щоб увімкнути пошук.</seg>
       </tuv>
     </tu>
     <tu>
