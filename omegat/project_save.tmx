@@ -5330,6 +5330,14 @@ Buy another drink</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Check Issues...</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200425T145814Z" creationid="maximo" creationdate="20200425T145814Z">
+        <seg>Пошук помилок...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Check LanguageTools rules</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20190823T142358Z" creationid="Kos Ivantsov" creationdate="20190823T142358Z">
@@ -18197,6 +18205,14 @@ project without team functionality.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Quality assurance tool that carries out all the automatic checks in one go and displays the results in a window.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200425T145917Z" creationid="maximo" creationdate="20200425T145917Z">
+        <seg>Перевірка якості, що проводить автоматичний аналіз та показує результат у окремому вікні.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>QuarkXPress CopyFlow Gold</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20190701T163455Z" creationid="Kos Ivantsov" creationdate="20190701T163455Z">
@@ -25028,6 +25044,14 @@ linux-install.sh script, and execute the script with ./linux-install.sh.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20190808T132420Z" creationid="Kos Ivantsov" creationdate="20190808T132420Z">
         <seg>Завеликий файл HTML!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Tools</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200425T145810Z" creationid="maximo" creationdate="20200425T145810Z">
+        <seg>Інструменти</seg>
       </tuv>
     </tu>
     <tu>
