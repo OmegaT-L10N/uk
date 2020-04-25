@@ -2000,6 +2000,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;a0&gt;OmegaT&lt;/a0&gt; remembers the segments executed.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200425T134613Z" creationid="maximo" creationdate="20200425T134613Z">
+        <seg>&lt;a0&gt;OmegaT&lt;/a0&gt; запам'ятовує порядок відвідування сегментів.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;a0&gt;OmegaT&lt;/a0&gt; uses the following sequence of steps:</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="maximo" changedate="20200414T145048Z" creationid="maximo" creationdate="20200414T145048Z">
@@ -14516,6 +14524,14 @@ as the Applications folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Moves to the segment that does correspond to the current selected match in the &lt;g0&gt;Fuzzy matches&lt;/g0&gt; pane.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200425T134543Z" creationid="maximo" creationdate="20200425T134543Z">
+        <seg>Перейти до сегмента, що відповідає виділеному збігу у панелі &lt;g0&gt;Нечіткі збіги&lt;/g0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Moving cleaned '{0}' to '{1}'</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20190516T205449Z" creationid="Kos Ivantsov" creationdate="20190516T205449Z">
@@ -22738,6 +22754,14 @@ in /lib/licenses/Licenses.txt.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The next segment with a note attached to it, will open.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200425T134431Z" creationid="maximo" creationdate="20200425T134431Z">
+        <seg>Відкрити наступний сегмент з тих, до яких є примітки.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The numbers must be exactly the same between the source and the target matches.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="maximo" changedate="20200416T213445Z" creationid="maximo" creationdate="20200416T213445Z">
@@ -22846,6 +22870,14 @@ in /lib/licenses/Licenses.txt.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="maximo" changedate="20200416T212846Z" creationid="maximo" creationdate="20200416T212846Z">
         <seg>Такі переклади можна позначати префіксом.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The previous segment with a note will open.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200425T134449Z" creationid="maximo" creationdate="20200425T134449Z">
+        <seg>Відкрити попередній сегмент з примітками.</seg>
       </tuv>
     </tu>
     <tu>
