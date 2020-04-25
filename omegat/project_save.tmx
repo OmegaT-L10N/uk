@@ -3530,6 +3530,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Align Files...</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200425T151351Z" creationid="maximo" creationdate="20200425T151351Z">
+        <seg>Вирівнювання файлів...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Align project against {0}</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20190820T200324Z" creationid="Kos Ivantsov" creationdate="20190820T200324Z">
@@ -7389,6 +7397,14 @@ Buy another drink</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="maximo" changedate="20200423T183018Z" creationid="maximo" creationdate="20200423T183018Z">
         <seg>Показати копірайт, список учасників проєкту та інформацію про ліцензії.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Displays the Match Statistics for each file of the project: the number of repetitions, exact matches, fuzzy matches and no-matches for segments, words and characters.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200425T151343Z" creationid="maximo" creationdate="20200425T151343Z">
+        <seg>Показати статистику збігів для кожного файлу проєкту: кількість повторів, повних збігів, нечітких збігів та унікальних сегментів. Також є ці дані перераховані на кількість слів та символів.</seg>
       </tuv>
     </tu>
     <tu>
@@ -20531,6 +20547,14 @@ The scope of a search is by default the project and can be set to be any files l
       </tuv>
       <tuv lang="UK-UA" changeid="maximo" changedate="20200416T210602Z" creationid="maximo" creationdate="20200416T210602Z">
         <seg>Обрати адресу інструменту з перевірки граматики.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Select the two files to be aligned (the source file and its translation) and click OK to open the &lt;l0&gt;&lt;g1&gt;Align&lt;/g1&gt; window&lt;/l0&gt;.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200425T151506Z" creationid="maximo" creationdate="20200425T151506Z">
+        <seg>Оберіть два файла для вирівнювання (оригінал та переклад) і натисніть OK, щоб відкрити &lt;l0&gt;вікно &lt;g1&gt;Вирівнювання&lt;/g1&gt;&lt;/l0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
