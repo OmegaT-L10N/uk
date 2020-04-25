@@ -3506,6 +3506,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Aggressive Font Fallback</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200425T153933Z" creationid="maximo" creationdate="20200425T153933Z">
+        <seg>Примусове використання резервного шрифту</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Alex Buloichik (lead developer)</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20190822T214156Z" creationid="Kos Ivantsov" creationdate="20190822T214156Z">
@@ -5614,6 +5622,14 @@ Buy another drink</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="maximo" changedate="20200412T072144Z" creationid="maximo" creationdate="20200412T072144Z">
         <seg>Відмітьте цю опцію, щоб тільки неперекладені сегменти відправлялись на машинний переклад.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Check this option in case &lt;a0&gt;OmegaT&lt;/a0&gt; does not display some glyphs properly (even if the fonts containing the relevant glyphs are installed on your machine).</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200425T154048Z" creationid="maximo" creationdate="20200425T154048Z">
+        <seg>Поставте цей прапорець, якщо &lt;a0&gt;OmegaT&lt;/a0&gt; не відображає правильно певні символи (навіть коли ці символи є у шрифтах, що встановлені на комп'ютері).</seg>
       </tuv>
     </tu>
     <tu>
@@ -9894,6 +9910,14 @@ provided (omegat.kaptn).</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="lesia" changedate="20200322T155858Z" creationid="lesia" creationdate="20200322T155858Z">
         <seg>Для тестування та демонстрації роботи в OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>For that reason, it is OFF by default.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200425T154247Z" creationid="maximo" creationdate="20200425T154247Z">
+        <seg>Тому він вимкнений за замовчуванням.</seg>
       </tuv>
     </tu>
     <tu>
@@ -15628,6 +15652,14 @@ as the Applications folder.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20190805T183456Z" creationid="Kos Ivantsov" creationdate="20190805T183456Z">
         <seg>Примітка: вибрати кодування можливо не у всіх фільтрах.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Note: on Windows it seems that this manual font fallback mechanism can interfere with standard font fallback, causing undesirable font substitution.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200425T154210Z" creationid="maximo" creationdate="20200425T154210Z">
+        <seg>Зверніть увагу: під Windows цей параметр може конфліктувати зі стандартним механізмом використання резервних шрифтів, що може призводити до небажаних замін шрифтів.</seg>
       </tuv>
     </tu>
     <tu>
