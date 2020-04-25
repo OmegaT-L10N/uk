@@ -7393,6 +7393,14 @@ Buy another drink</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Displays the Match Statistics for the project: the number of repetitions, exact matches, fuzzy matches and no-matches for segments, words and characters.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200425T151325Z" creationid="maximo" creationdate="20200425T151325Z">
+        <seg>Показати статистику збігів для проєкту: кількість повторів, повних збігів, нечітких збігів та унікальних сегментів. Також є ці дані перераховані на кількість слів та символів.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Displays the current log file.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="maximo" changedate="20200423T183139Z" creationid="maximo" creationdate="20200423T183139Z">
@@ -16712,6 +16720,14 @@ installed on your system.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20190811T113021Z" creationid="Kos Ivantsov" creationdate="20190811T112949Z">
         <seg>Відкриття командного проєкту</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Opens a new window and displays the project statistics, i.e. the project totals and totals for every file in the project.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200425T151037Z" creationid="maximo" creationdate="20200425T151037Z">
+        <seg>Відкрити окреме вікно із статистикою проєкту в цілому, та по окремих файлах проєкту.</seg>
       </tuv>
     </tu>
     <tu>
