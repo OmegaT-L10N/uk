@@ -23010,6 +23010,14 @@ in /lib/licenses/Licenses.txt.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The segment is opened when either its segment call-out or segment number is entered.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200425T134354Z" creationid="maximo" creationdate="20200425T134058Z">
+        <seg>Відкрити один із видимих сегментів, ввівши букву, яка виведеться поряд з ним, або відкрити сегмент за його глобальним номером, ввівши число та натиснувши Enter.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The segmentation rules are generally valid across all the projects.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="lesia" changedate="20200420T145121Z" creationid="lesia" creationdate="20200420T145121Z">
