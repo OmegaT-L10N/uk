@@ -2385,10 +2385,26 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;g0&gt;LanguageTool Issues&lt;/g0&gt; (optional).</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200425T150340Z" creationid="maximo" creationdate="20200425T150340Z">
+        <seg>&lt;g0&gt;Проблеми, знайдені LanguageTool&lt;/g0&gt; (необов'язковий).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;g0&gt;Spelling Issues&lt;/g0&gt; (optional).</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="maximo" changedate="20200425T150207Z" creationid="maximo" creationdate="20200425T150207Z">
         <seg>&lt;g0&gt;Проблеми з правописом&lt;/g0&gt; (необов'язковий).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;g0&gt;Terminology Issues&lt;/g0&gt; (optional).</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200425T150319Z" creationid="maximo" creationdate="20200425T150319Z">
+        <seg>&lt;g0&gt;Проблеми термінології&lt;/g0&gt; (необов'язковий).</seg>
       </tuv>
     </tu>
     <tu>
@@ -23466,6 +23482,14 @@ in /lib/licenses/Licenses.txt.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The results window is laid out in the form of a table in which:</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200425T150403Z" creationid="maximo" creationdate="20200425T150403Z">
+        <seg>Вікно результатів має вигляд таблиці:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The rules for that set will appear in the bottom half of the window.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="maximo" changedate="20200415T110541Z" creationid="maximo" creationdate="20200415T110541Z">
@@ -28200,6 +28224,14 @@ create its configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>clicking a column header changes the sort order for the column,</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200425T150604Z" creationid="maximo" creationdate="20200425T150604Z">
+        <seg>натисніть на заголовок колонки, щоб змінити порядок сортування для цієї колонки,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>comma or a period, followed by spaces and yet another comma or period</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="maximo" changedate="20200412T053101Z" creationid="maximo" creationdate="20200412T053101Z">
@@ -28220,6 +28252,14 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="maximo" changedate="20200412T053023Z" creationid="maximo" creationdate="20200412T053023Z">
         <seg>повтори слів</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>double-clicking a row activates the corresponding segment in the Editor pane,</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200425T150447Z" creationid="maximo" creationdate="20200425T150447Z">
+        <seg>натисніть двічі на рядок, щоб відкрити відповідний сегмент у вікні редагування,</seg>
       </tuv>
     </tu>
     <tu>
