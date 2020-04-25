@@ -1541,6 +1541,14 @@ To add files to the project, click on the Copy Files to Source Folder... button 
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>(external search commands)</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200425T152250Z" creationid="maximo" creationdate="20200425T152250Z">
+        <seg>(команди для зовнішнього пошуку)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>+{0} more</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20190808T103812Z" creationid="Kos Ivantsov" creationdate="20190517T104706Z">
@@ -4266,6 +4274,14 @@ may experience unexpected, but correct behaviour.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="maximo" changedate="20200418T125528Z" creationid="maximo" creationdate="20200418T125528Z">
         <seg>На початку ви можете обрати мову, якою буде проводитися процес встановлення.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>At the bottom of the window, right-click on a free number and select &lt;g0&gt;Add Script&lt;/g0&gt;.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200425T152225Z" creationid="maximo" creationdate="20200425T152225Z">
+        <seg>Внизу вікна натисніть правою кнопкою миші на вільне число та виберіть &lt;g0&gt;Додати скрипт&lt;/g0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11049,6 +11065,14 @@ need not be entered.)</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If commands to perform external searches have been defined in the &lt;l0&gt;Preferences&lt;/l0&gt;, they are listed and accessible here.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200425T152355Z" creationid="maximo" creationdate="20200425T152355Z">
+        <seg>Якщо у &lt;l0&gt;Налаштуваннях&lt;/l0&gt; були визначені команди для зовнішнього пошуку, вони будуть доступні тут.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If for example the original file is named Document.xx.docx, the following variables will give the following results:</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="maximo" changedate="20200413T192503Z" creationid="maximo" creationdate="20200413T192503Z">
@@ -16668,6 +16692,14 @@ installed on your system.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Open the Scripting window</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200425T152118Z" creationid="maximo" creationdate="20200425T152118Z">
+        <seg>Відкрийте вікно Скрипти</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Open {0} Source Files</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20190421T150706Z" creationid="Kos Ivantsov" creationdate="20190420T131542Z">
@@ -20571,6 +20603,14 @@ The scope of a search is by default the project and can be set to be any files l
       </tuv>
       <tuv lang="UK-UA" changeid="maximo" changedate="20200416T210602Z" creationid="maximo" creationdate="20200416T210602Z">
         <seg>Обрати адресу інструменту з перевірки граматики.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Select the script you want from the list on the left</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200425T152138Z" creationid="maximo" creationdate="20200425T152138Z">
+        <seg>Оберіть потрібний скрипт зі списку зліва</seg>
       </tuv>
     </tu>
     <tu>
@@ -24785,6 +24825,14 @@ the server.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="fanja9" changedate="20200418T094627Z" creationid="fanja9" creationdate="20200418T094627Z">
         <seg>Щоб додати елементи, виконайте наступне &lt;m0&gt; &lt;s1&gt; &lt;k2&gt; &lt;k3&gt;Ctrl&lt;/k3&gt; &lt;k4&gt;D&lt;/k4&gt; &lt;/k2&gt; &lt;/s1&gt; &lt;g5&gt;Проєкт&lt;/g5&gt; &lt;g6&gt;Створити перекладені документи&lt;/g6&gt; &lt;/m0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To associate a script with a number:</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200425T152103Z" creationid="maximo" creationdate="20200425T152103Z">
+        <seg>Щоб прив'язати скрипт до числа:</seg>
       </tuv>
     </tu>
     <tu>
