@@ -4198,6 +4198,14 @@ may experience unexpected, but correct behaviour.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>As above, but only for the document currently displayed in the Editor pane.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200425T150858Z" creationid="maximo" creationdate="20200425T150858Z">
+        <seg>Як і попередній пункт, але перевіряє лише документ, який зараз відкрито у вікні редагування.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>As elsewhere in the OmegaT project, the work of programming OmegaT is done by volunteers, and in keeping with the project philosophy, the developments and improvements they make to OmegaT are ultimately at their discretion.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="lesia" changedate="20200324T172340Z" creationid="lesia" creationdate="20200322T130400Z">
@@ -5350,6 +5358,14 @@ Buy another drink</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20190421T194403Z" creationid="Kos Ivantsov" creationdate="20190421T194403Z">
         <seg>Пошук помилок у поточному &amp;документі</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Check Issues for Current Document</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200425T150807Z" creationid="maximo" creationdate="20200425T150807Z">
+        <seg>Пошук помилок у поточному документі</seg>
       </tuv>
     </tu>
     <tu>
@@ -28654,6 +28670,14 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20190420T125040Z" creationid="Kos Ivantsov" creationdate="20190420T125040Z">
         <seg>сегмент 0000</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>selecting or moving the mouse over a row displays a pop-up menu icon in the last column containing actions for correcting or ignoring the error.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200425T150802Z" creationid="maximo" creationdate="20200425T150802Z">
+        <seg>виберіть, чи наведіть мишку на рядок, щоб у останній колонці з'явилася іконка із контекстним меню, що дозволяє виправити чи ігнорувати помилку.</seg>
       </tuv>
     </tu>
     <tu>
