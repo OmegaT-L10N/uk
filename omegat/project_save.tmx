@@ -10920,6 +10920,14 @@ their defaults as a result of the location change.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If the current segment is the first one in a file, it moves to the last segment of the previous file.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200425T133905Z" creationid="maximo" creationdate="20200425T133905Z">
+        <seg>Якщо поточний сегмент перший у файлі, переходить до останнього сегмента у попередньому файлі.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If the current segment is the last segment in a file, it moves to the first segment of the next file.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="maximo" changedate="20200425T133645Z" creationid="maximo" creationdate="20200425T133645Z">
@@ -14500,6 +14508,14 @@ as the Applications folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Moves to the previous segment.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200425T133835Z" creationid="maximo" creationdate="20200425T133835Z">
+        <seg>Перейти до попереднього сегмента.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Moving cleaned '{0}' to '{1}'</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20190516T205449Z" creationid="Kos Ivantsov" creationdate="20190516T205449Z">
@@ -15084,6 +15100,14 @@ as the Applications folder.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="maximo" changedate="20200423T154723Z" creationid="maximo" creationdate="20200423T154723Z">
         <seg>Зверніть увагу на подвійний символ &lt;l5&gt;-&lt;/l5&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Note: &lt;k0&gt; &lt;k1&gt;Ctrl&lt;/k1&gt; &lt;k2&gt;Enter&lt;/k2&gt; &lt;/k0&gt; is an alternate shortcut if &lt;l3&gt;Use TAB to Advance&lt;/l3&gt; option is not selected.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200425T134019Z" creationid="maximo" creationdate="20200425T134019Z">
+        <seg>Зверніть увагу: &lt;k0&gt; &lt;k1&gt;Ctrl&lt;/k1&gt; &lt;k2&gt;Enter&lt;/k2&gt; &lt;/k0&gt; буде альтернативною комбінацією клавіш, якщо опція &lt;l3&gt;Використовувати TAB для переходу до наступного сегмента&lt;/l3&gt; вимкнута.</seg>
       </tuv>
     </tu>
     <tu>
