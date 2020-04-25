@@ -11065,6 +11065,30 @@ need not be entered.)</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If checked, the separations between paragraphs in the source document are indicated visually.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200425T152812Z" creationid="maximo" creationdate="20200425T152639Z">
+        <seg>Якщо поставити прапорець, то межі між абзацами документу для перекладу будуть візуально виділені.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If checked, the translated segments will be marked in yellow.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200425T152545Z" creationid="maximo" creationdate="20200425T152525Z">
+        <seg>Якщо поставити прапорець, перекладені сегменти будуть позначатися жовтим.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If checked, the untranslated segments will be marked in violet.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200425T152541Z" creationid="maximo" creationdate="20200425T152541Z">
+        <seg>Якщо поставити прапорець, неперекладені сегменти будуть позначатися фіолетовим.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If commands to perform external searches have been defined in the &lt;l0&gt;Preferences&lt;/l0&gt;, they are listed and accessible here.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="maximo" changedate="20200425T152355Z" creationid="maximo" creationdate="20200425T152355Z">
@@ -14202,6 +14226,14 @@ itself on the first run.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="maximo" changedate="20200405T185826Z" creationid="maximo" creationdate="20200405T185826Z">
         <seg>Позначати нерозривні пробіли</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Mark Paragraph delimitations</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200425T152549Z" creationid="maximo" creationdate="20200425T152549Z">
+        <seg>Позначати межі абзаців</seg>
       </tuv>
     </tu>
     <tu>
