@@ -5298,6 +5298,14 @@ Buy another drink</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Check &lt;g0&gt;History Completion&lt;/g0&gt; to display suggested words as soon as their first letters are entered.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200425T135843Z" creationid="maximo" creationdate="20200425T135843Z">
+        <seg>Оберіть &lt;g0&gt;Доповнення зі збереженого&lt;/g0&gt;, щоб показувати пропозиції слів, коли перші букви були введені.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Check Issues for &amp;Current Document</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20190421T194403Z" creationid="Kos Ivantsov" creationdate="20190421T194403Z">
@@ -10684,6 +10692,14 @@ not be entered.)</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="maximo" changedate="20200416T100027Z" creationid="maximo" creationdate="20200416T100027Z">
         <seg>Якщо поставити прапорець &lt;e0&gt;Автоматично показувати відповідні пропозиції&lt;/e0&gt;, то автодоповнення буде показуватися автоматично з першої літери збігу чи "&lt;" у випадку теґів.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If &lt;g0&gt;Show Relevant Suggestions Automatically&lt;/g0&gt; option is checked, Auto-completer is launched automatically by typing the first letters of a translated glossary entry, or by typing "&lt;" in case of tags.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200425T135706Z" creationid="maximo" creationdate="20200425T135706Z">
+        <seg>Якщо поставити прапорець &lt;g0&gt;Автоматично показувати відповідні пропозиції&lt;/g0&gt;, то автодоповнення буде показуватися автоматично з першої літери збігу чи "&lt;" у випадку теґів.</seg>
       </tuv>
     </tu>
     <tu>
