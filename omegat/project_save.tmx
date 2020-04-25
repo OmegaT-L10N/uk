@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.2_0_6a661c5e0" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.2_0_6a661c5e" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -3714,6 +3714,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Allows the user create an entry in the default glossary file.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="lesia" changedate="20200425T143651Z" creationid="lesia" creationdate="20200425T143651Z">
+        <seg>Дозволяє користувачу створювати запис в стандартний файл глосарію.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Allows the user select the interval - in minutes and seconds - between consecutive automatic saves of the project.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="maximo" changedate="20200417T082948Z" creationid="maximo" creationdate="20200417T082948Z">
@@ -5254,6 +5262,14 @@ Buy another drink</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20190821T115417Z" creationid="Kos Ivantsov" creationdate="20190821T115417Z">
         <seg>Автор зміни</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Changes the case of the highlighted text in the target segment to the selected option (Lower case, Upper case, Title case or Sentence case).</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="lesia" changedate="20200425T153111Z" creationid="lesia" creationdate="20200425T153111Z">
+        <seg>Зміна регістру виділеного тексту в сегменті перекладу на вказане значення (на нижній регістр, верхній, кожне слово з великої чи перше слово з великої).</seg>
       </tuv>
     </tu>
     <tu>
@@ -6992,6 +7008,14 @@ Buy another drink</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Define the translation as being empty.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="lesia" changedate="20200425T154511Z" creationid="lesia" creationdate="20200425T154511Z">
+        <seg>Визначає переклад як порожній.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Defines the project-specific external search resources.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="lesia" changedate="20200420T170502Z" creationid="lesia" creationdate="20200420T170502Z">
@@ -7004,6 +7028,14 @@ Buy another drink</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="maximo" changedate="20200322T170554Z" creationid="maximo" creationdate="20200322T170554Z">
         <seg>Дипломна робота Sébastien Guillardeau, 2010 (німецькою).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Deletes the translation and set the segment as untranslated.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="lesia" changedate="20200425T154430Z" creationid="lesia" creationdate="20200425T154415Z">
+        <seg>Видаляє переклад. Сегмент стає неперекладеним.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9050,8 +9082,8 @@ Gossamer threads hold you back
       <tuv lang="EN">
         <seg>Export Selection</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="maximo" changedate="20200405T185341Z" creationid="maximo" creationdate="20200405T185341Z">
-        <seg>Експорт вибраного</seg>
+      <tuv lang="UK-UA" changeid="lesia" changedate="20200425T141541Z" creationid="maximo" creationdate="20200405T185341Z">
+        <seg>Експортувати вибраний текст</seg>
       </tuv>
     </tu>
     <tu>
@@ -9060,6 +9092,14 @@ Gossamer threads hold you back
       </tuv>
       <tuv lang="UK-UA" changeid="maximo" changedate="20200412T201806Z" creationid="maximo" creationdate="20200412T201806Z">
         <seg>Експортувати текст сегмента до текстових файлів</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Exports the current selection to a text file for processing.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="lesia" changedate="20200425T141703Z" creationid="lesia" creationdate="20200425T141631Z">
+        <seg>Експортує виділений текст до текстового файлу для обробки.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10984,6 +11024,14 @@ not be entered.)</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If &lt;l0&gt;automatic searching in dictionaries&lt;/l0&gt; is disabled, this function allows you to search for the selected word in the dictionaries.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="lesia" changedate="20200425T150409Z" creationid="lesia" creationdate="20200425T150148Z">
+        <seg>Якщо функція &lt;l0&gt;автоматичний пошук по словниках&lt;/l0&gt; неактивна, ця функція дозволяє вам шукати виділене слово по словниках.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If &lt;l1&gt;warn&lt;/l1&gt; is specified, the tag validator will process all segments and write warnings about any segments with invalid tags into the file specified.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="maximo" changedate="20200423T160746Z" creationid="maximo" creationdate="20200423T160628Z">
@@ -11264,6 +11312,22 @@ their defaults as a result of the location change.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If no text has been selected, the current source segment is written to this file.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="lesia" changedate="20200425T141809Z" creationid="lesia" creationdate="20200425T141809Z">
+        <seg>Якщо текст не був вибраний, в цей файл запишеться поточний сегмент оригіналу.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If no text is selected, &lt;a3&gt;OmegaT&lt;/a3&gt; selects the word that contains the letter immediately to the right of the cursor.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="lesia" changedate="20200425T153328Z" creationid="lesia" creationdate="20200425T153328Z">
+        <seg>Якщо не виділений ніякий текст, &lt;a3&gt;OmegaT&lt;/a3&gt; обирає слово, яке знаходиться праворуч від курсора.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If not checked, source segments will not be shown.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="maximo" changedate="20200425T153005Z" creationid="maximo" creationdate="20200425T153005Z">
@@ -11304,6 +11368,14 @@ their defaults as a result of the location change.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If part of the target segment has been selected, this function overwrites the selected portion.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="lesia" changedate="20200425T134810Z" creationid="lesia" creationdate="20200425T134810Z">
+        <seg>Якщо була виділена частина сегменту перекладу, буде переписана саме вона.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If selected, when a segment in a PO file (which may be a whole paragraph) is not translated, the translation will be empty in the target file.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="lesia" changedate="20200419T062958Z" creationid="maximo" creationdate="20200413T105314Z">
@@ -11324,6 +11396,22 @@ their defaults as a result of the location change.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="maximo" changedate="20200425T135405Z" creationid="maximo" creationdate="20200425T135405Z">
         <seg>Якщо обрано кілька рушіїв машинного перекладу, то за допомогою &lt;k0&gt; &lt;k1&gt;Ctrl&lt;/k1&gt; &lt;k2&gt;M&lt;/k2&gt; &lt;/k0&gt; можна перемикатися між ними та вставляти останнє з обраних.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If some texts are selected within the fuzzy match, only this selection will be inserted at the cursor position.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="lesia" changedate="20200425T134934Z" creationid="lesia" creationdate="20200425T134934Z">
+        <seg>Якщо в межах збігу виділене певне місце, саме воно буде вставлене на місце курсора.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If some texts are selected within the fuzzy match, only this selection will replace the whole target segment.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="lesia" changedate="20200425T134451Z" creationid="lesia" creationdate="20200425T134451Z">
+        <seg>Якщо виділити частину нечіткого збігу, це виділення замінить увесь сегмент перекладу.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11444,6 +11532,14 @@ their defaults as a result of the location change.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="maximo" changedate="20200423T160333Z" creationid="maximo" creationdate="20200423T160333Z">
         <seg>Якщо в інших теках є ще файли test.html, вони будуть проігноровані.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If there's several alternative translations available for the active segment, you can label the alternative selected as the default translation.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="lesia" changedate="20200425T154017Z" creationid="lesia" creationdate="20200425T154017Z">
+        <seg>Якщо є кілька альтернативних варіантів перекладу активного сегмента, можна позначити обраний стандартним перекладом.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11800,6 +11896,30 @@ to use Java Web Start.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="maximo" changedate="20200412T195046Z" creationid="maximo" creationdate="20200412T195046Z">
         <seg>Якщо ви не хочете за допомогою OmegaT перекладати файли певного типу, ви можете вимкнути відповідний фільтр, знявши відмітку біля його назви.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If you select a text string (in any pane) before pressing &lt;k0&gt; &lt;k1&gt;Ctrl&lt;/k1&gt; &lt;k2&gt;F&lt;/k2&gt; &lt;/k0&gt;, the text will be pasted by default in the &lt;g3&gt;Search for&lt;/g3&gt; field.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="lesia" changedate="20200425T145333Z" creationid="lesia" creationdate="20200425T145333Z">
+        <seg>Якщо виділити стрічку тексту (будь-якою з обох мов), а потім натиснути &lt;k0&gt; &lt;k1&gt;Ctrl&lt;/k1&gt; &lt;k2&gt;F&lt;/k2&gt; &lt;/k0&gt;, відкриється вікно пошуку і текст буде автоматично вставлено в поле &lt;g3&gt;Шукати&lt;/g3&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If you select a text string (in any pane) before pressing &lt;k0&gt; &lt;k1&gt;Ctrl&lt;/k1&gt; &lt;k2&gt;K&lt;/k2&gt; &lt;/k0&gt;, the text will be pasted by default in the &lt;g3&gt;Search for&lt;/g3&gt; field.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="lesia" changedate="20200425T145957Z" creationid="lesia" creationdate="20200425T145957Z">
+        <seg>Якщо виділити стрічку тексту (будь-якою з обох мов), а потім натиснути  &lt;k0&gt; &lt;k1&gt;Ctrl&lt;/k1&gt; &lt;k2&gt;K&lt;/k2&gt; &lt;/k0&gt;, текст буде автоматично вставлено в поле &lt;g3&gt;Шукати&lt;/g3&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If you select a text string (in any pane) before pressing &lt;k0&gt; &lt;k1&gt;Ctrl&lt;/k1&gt; &lt;k2&gt;Shift&lt;/k2&gt; &lt;k3&gt;G&lt;/k3&gt; &lt;/k0&gt;, the text will be pasted by default in the &lt;g4&gt;Source term&lt;/g4&gt; field.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="lesia" changedate="20200425T143959Z" creationid="lesia" creationdate="20200425T143959Z">
+        <seg>Якщо виділити стрічку тексту (будь-якою з обох мов), а потім натиснути &lt;k0&gt; &lt;k1&gt;Ctrl&lt;/k1&gt; &lt;k2&gt;Shift&lt;/k2&gt; &lt;k3&gt;G&lt;/k3&gt; &lt;/k0&gt;, текст буде автоматично додано в поле &lt;g4&gt;Термін мовою оригіналу&lt;/g4&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12206,6 +12326,14 @@ click on that shortcut.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>In the Editor, the translation is displayed as &lt;EMPTY&gt;</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="lesia" changedate="20200425T154836Z" creationid="lesia" creationdate="20200425T154730Z">
+        <seg>В області редагування переклад буде позначено як &lt;ПОРОЖНІЙ ПЕРЕКЛАД&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>In the Exclusion patterns dialog, it is possible to Add or Remove a pattern, or edit one by selecting a line and pressing F2.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="lesia" changedate="20200420T194925Z" creationid="lesia" creationdate="20200420T194925Z">
@@ -12226,6 +12354,14 @@ click on that shortcut.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="maximo" changedate="20200423T161308Z" creationid="maximo" creationdate="20200423T161308Z">
         <seg>У тихому режимі на екран виводиться менше інформації.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>In the target document, nothing will appear for this segment.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="lesia" changedate="20200425T154541Z" creationid="lesia" creationdate="20200425T154541Z">
+        <seg>В документі перекладу на місці цього семента не буде нічого.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12464,8 +12600,8 @@ click on that shortcut.</seg>
       <tuv lang="EN">
         <seg>Insert Source</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="maximo" changedate="20200405T185316Z" creationid="maximo" creationdate="20200405T185316Z">
-        <seg>Вставити оригінал</seg>
+      <tuv lang="UK-UA" changeid="lesia" changedate="20200425T135904Z" creationid="maximo" creationdate="20200405T185316Z">
+        <seg>Вставити текст оригіналу</seg>
       </tuv>
     </tu>
     <tu>
@@ -12514,6 +12650,38 @@ click on that shortcut.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="maximo" changedate="20200412T201926Z" creationid="maximo" creationdate="20200412T201926Z">
         <seg>Вставляти текст оригіналу</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Inserts only one tag (among the missing ones) at the cursor position.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="lesia" changedate="20200425T141509Z" creationid="lesia" creationdate="20200425T141509Z">
+        <seg>Вставляє на місце курсора лише один теґ (серед випущених).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Inserts the currently selected fuzzy match at the cursor position.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="lesia" changedate="20200425T134631Z" creationid="lesia" creationdate="20200425T134631Z">
+        <seg>Вставляє виділений збіг на місце курсора.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Inserts the source at the cursor position.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="lesia" changedate="20200425T135926Z" creationid="lesia" creationdate="20200425T135926Z">
+        <seg>Вставляє оригінал на місце курсора.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Inserts the source tags (if they where missing) at the cursor position.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="lesia" changedate="20200425T141130Z" creationid="lesia" creationdate="20200425T141130Z">
+        <seg>Вставляє теґи оригіналу (якщо їх немає) на місце курсора.</seg>
       </tuv>
     </tu>
     <tu>
@@ -15300,6 +15468,14 @@ as the Applications folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>No action is taken, if no Machine Translation service has been activated (in &lt;m0&gt; &lt;g1&gt;Options&lt;/g1&gt; &lt;g2&gt;Machine Translate&lt;/g2&gt; &lt;/m0&gt;).</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="lesia" changedate="20200425T135733Z" creationid="lesia" creationdate="20200425T135733Z">
+        <seg>Не буде виконано жодної дії, якщо машинний переклад не був активований (в &lt;m0&gt; &lt;g1&gt;Налаштуваннях&lt;/g1&gt; &lt;g2&gt;Машинний переклад&lt;/g2&gt; &lt;/m0&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>No connection available, the project is in offline mode.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20190812T071400Z" creationid="Kos Ivantsov" creationdate="20190812T070429Z">
@@ -16916,6 +17092,22 @@ installed on your system.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Opens a new &lt;l0&gt;Search and replace window&lt;/l0&gt;.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="lesia" changedate="20200425T145553Z" creationid="lesia" creationdate="20200425T145553Z">
+        <seg>Відкриває нове вікно &lt;l0&gt;Знайти та замінити&lt;/l0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Opens a new &lt;l0&gt;Search window&lt;/l0&gt;.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="lesia" changedate="20200425T144910Z" creationid="lesia" creationdate="20200425T144910Z">
+        <seg>Відкриває нове &lt;l0&gt;Вікно пошуку&lt;/l0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Opens a new window and displays the project statistics, i.e. the project totals and totals for every file in the project.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="maximo" changedate="20200425T151037Z" creationid="maximo" creationdate="20200425T151037Z">
@@ -17975,6 +18167,14 @@ project without team functionality.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20190820T130322Z" creationid="Kos Ivantsov" creationdate="20190820T130322Z">
         <seg>Натисніть бажану комбінацію клавіш, а потім кнопку «Гаразд».</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Pressing &lt;k0&gt; &lt;k1&gt;Ctrl&lt;/k1&gt; &lt;k2&gt;Shift&lt;/k2&gt; &lt;k3&gt;F&lt;/k3&gt; &lt;/k0&gt; displays the last already opened Search window (instead of opening a new one).</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="lesia" changedate="20200425T145521Z" creationid="lesia" creationdate="20200425T145521Z">
+        <seg>Якщо потрібно повернутися до попереднього пошуку (замість того, щоб починати новий), натисність &lt;k0&gt; &lt;k1&gt;Ctrl&lt;/k1&gt; &lt;k2&gt;Shift&lt;/k2&gt; &lt;k3&gt;F&lt;/k3&gt; &lt;/k0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -19173,8 +19373,8 @@ These words: 'Page not found'</seg>
       <tuv lang="EN">
         <seg>Replace With Match or Selection</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="maximo" changedate="20200405T185212Z" creationid="maximo" creationdate="20200405T185212Z">
-        <seg>Замінити переклад збігом або вибраним текстом</seg>
+      <tuv lang="UK-UA" changeid="lesia" changedate="20200425T134135Z" creationid="maximo" creationdate="20200405T185212Z">
+        <seg>Замінити збігом або вибраним текстом</seg>
       </tuv>
     </tu>
     <tu>
@@ -19237,8 +19437,8 @@ These words: 'Page not found'</seg>
       <tuv lang="EN">
         <seg>Replace with Source</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="maximo" changedate="20200423T184132Z" creationid="maximo" creationdate="20200423T184132Z">
-        <seg>Замінити на оригінал</seg>
+      <tuv lang="UK-UA" changeid="lesia" changedate="20200425T135806Z" creationid="lesia" creationdate="20200425T135806Z">
+        <seg>Замінити текстом оригіналу</seg>
       </tuv>
     </tu>
     <tu>
@@ -19247,6 +19447,30 @@ These words: 'Page not found'</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20190516T181440Z" creationid="Kos Ivantsov" creationdate="20190516T181440Z">
         <seg>Замінити на:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Replaces the target segment with the translation, provided by the selected Machine Translation service.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="lesia" changedate="20200425T135541Z" creationid="lesia" creationdate="20200425T135541Z">
+        <seg>Замінює сегмент перекладу пропозицією машинного перекладу.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Replaces the whole target segment with the currently selected fuzzy match (by default the first match is selected).</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="lesia" changedate="20200425T134241Z" creationid="lesia" creationdate="20200425T134241Z">
+        <seg>Замінює увесь сегмент перекладу вибраним нечітким збігом (за замовчуванням встановлений перший збіг).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Replaces the whole target segment with the source.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="lesia" changedate="20200425T135841Z" creationid="lesia" creationdate="20200425T135841Z">
+        <seg>Замінює весь сегмент перекладу текстом оригіналу.</seg>
       </tuv>
     </tu>
     <tu>
@@ -19447,6 +19671,22 @@ These words: 'Page not found'</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="maximo" changedate="20200412T142511Z" creationid="maximo" creationdate="20200412T142511Z">
         <seg>Повернути головне вікно OmegaT до його стандартного вигляду.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Restores the status before the last editing action was cancelled.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="lesia" changedate="20200425T134029Z" creationid="lesia" creationdate="20200425T134029Z">
+        <seg>Відновлює статус перед тим як останню дію було відмінено.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Restores the status before the last editing action was taken.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="lesia" changedate="20200425T133519Z" creationid="lesia" creationdate="20200425T133519Z">
+        <seg>Відновлює станм документу перед виконанням останньої дії.</seg>
       </tuv>
     </tu>
     <tu>
@@ -20767,6 +21007,14 @@ The scope of a search is by default the project and can be set to be any files l
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Select this menu item, if the current translation does not apply and enter the alternative translation.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="lesia" changedate="20200425T154303Z" creationid="lesia" creationdate="20200425T154303Z">
+        <seg>Якщо вставлений переклад не підходить для даного контексту, виберіть цю опцію та введіть варіант перекладу.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Select this option if you want dictionaries to display words that have the same root.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="maximo" changedate="20200412T142353Z" creationid="maximo" creationdate="20200412T142353Z">
@@ -20811,6 +21059,14 @@ The scope of a search is by default the project and can be set to be any files l
       </tuv>
       <tuv lang="UK-UA" changeid="lesia" changedate="20200322T155733Z" creationid="lesia" creationdate="20200322T155724Z">
         <seg>Альтернативні іконки OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Selects the previous, the next or the Nth fuzzy match displayed in the fuzzy match pane to replace or insert it to the segment.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="lesia" changedate="20200425T153649Z" creationid="lesia" creationdate="20200425T153649Z">
+        <seg>Виберіть попередній, наступний або ж один з подальших нечітких збігів, щоб замінити ним сегмент або вставити його.</seg>
       </tuv>
     </tu>
     <tu>
@@ -23177,10 +23433,26 @@ instead.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The entry will be greyed, if there's just one translation available.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="lesia" changedate="20200425T154114Z" creationid="lesia" creationdate="20200425T154114Z">
+        <seg>Якщо варіант перекладу лише один, ця опція буде неактивною.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The escape character ('\u001B')</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="maximo" changedate="20200412T045514Z" creationid="maximo" creationdate="20200412T045514Z">
         <seg>Символ Esc ('\u001B')</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The exported contents are copied to the file &lt;f1&gt;selection.txt&lt;/f1&gt; located in the User's preference files folder.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="lesia" changedate="20200425T143140Z" creationid="lesia" creationdate="20200425T143140Z">
+        <seg>Експортований вміст копіюється до файлу &lt;f1&gt;selection.txt&lt;/f1&gt;, розташованого в теці з налаштуваннями.</seg>
       </tuv>
     </tu>
     <tu>
@@ -23542,6 +23814,14 @@ in /lib/licenses/Licenses.txt.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="maximo" changedate="20200416T213445Z" creationid="maximo" creationdate="20200416T213445Z">
         <seg>Числа мають бути абсолютно однаковими для оригіналу та перекладу.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The one and the same segment may, depending on the context, require different translations.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="lesia" changedate="20200425T154157Z" creationid="lesia" creationdate="20200425T154157Z">
+        <seg>Один і той самий сегмент може залежно від контексту перекладатися по-різному.</seg>
       </tuv>
     </tu>
     <tu>
@@ -24459,6 +24739,14 @@ the server.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>This can apply also to &lt;g0&gt;Target term&lt;/g0&gt; and &lt;g1&gt;Comment &lt;/g1&gt;fields if new selections are made and &lt;k2&gt; &lt;k3&gt;Ctrl&lt;/k3&gt; &lt;k4&gt;Shift&lt;/k4&gt; &lt;k5&gt;G&lt;/k5&gt; &lt;/k2&gt; pressed again.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="lesia" changedate="20200425T144725Z" creationid="lesia" creationdate="20200425T144725Z">
+        <seg>Те ж саме стосується полів&lt;g0&gt;Переклад терміна&lt;/g0&gt; та &lt;g1&gt;Кометар&lt;/g1&gt;, якщо ви виділили нову стрічку тексту та знову натиснули &lt;k2&gt; &lt;k3&gt;Ctrl&lt;/k3&gt; &lt;k4&gt;Shift&lt;/k4&gt; &lt;k5&gt;G&lt;/k5&gt; &lt;/k2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>This can be achieved in two ways:</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="maximo" changedate="20200423T141154Z" creationid="maximo" creationdate="20200423T141154Z">
@@ -24487,6 +24775,14 @@ the server.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="maximo" changedate="20200420T201255Z" creationid="maximo" creationdate="20200420T201255Z">
         <seg>Ця команда змінює робочу теку на ту, в якій знаходиться файл програми &lt;a0&gt;OmegaT&lt;/a0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This command does not work once the modified segment has been validated.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="lesia" changedate="20200425T134058Z" creationid="lesia" creationdate="20200425T133939Z">
+        <seg>Після підтвердження сегмента ця функція не працює.</seg>
       </tuv>
     </tu>
     <tu>
@@ -26513,6 +26809,14 @@ on line {1}, column {2}.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Use &lt;k0&gt; &lt;k1&gt;Shift&lt;/k1&gt; &lt;k2&gt;F3&lt;/k2&gt; &lt;/k0&gt; to cycle through the four alternatives.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="lesia" changedate="20200425T153211Z" creationid="lesia" creationdate="20200425T153211Z">
+        <seg>Використовуйте &lt;k0&gt; &lt;k1&gt;Shift&lt;/k1&gt; &lt;k2&gt;F3&lt;/k2&gt; &lt;/k0&gt; для циклічного перебирання серед чотирьох варіантів.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Use TAB To Advance</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="maximo" changedate="20200405T190059Z" creationid="maximo" creationdate="20200405T190059Z">
@@ -26645,6 +26949,14 @@ on line {1}, column {2}.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="lesia" changedate="20200420T150713Z" creationid="lesia" creationdate="20200420T150536Z">
         <seg>Скористайтеся цією кнопкою, щоб відкрити діалогове вікно, встановіть прапорець на опції &lt;g0&gt;Застосовувати правила сегментації лише до цього проєкту&lt;/g0&gt; і продовжуйте налаштування потрібної вам сегментації.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Use this command to register the translation to be identical to the source, even if &lt;l0&gt;&lt;g1&gt;Allow translation to be equal to source&lt;/g1&gt;&lt;/l0&gt; is not checked.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="lesia" changedate="20200425T155356Z" creationid="lesia" creationdate="20200425T155356Z">
+        <seg>Використовуйте цю команду, щоб закріпити за цим сегментом переклад ідентичний оригіналу, навіть якщо опція &lt;l0&gt;&lt;g1&gt;Дозволити, щоб оригінал і переклад були однаковими&lt;/g1&gt;&lt;/l0&gt; не відмічена прапорцем.</seg>
       </tuv>
     </tu>
     <tu>
@@ -27334,6 +27646,14 @@ of selecting, obtaining and installing it.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="maximo" changedate="20200417T082838Z" creationid="maximo" creationdate="20200417T082838Z">
         <seg>Коли цей прапорець не поставлений, то сірим позначаються всі неунікальні сегменти окрім першого випадку їх зустрічання.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>When the user exits &lt;a0&gt;OmegaT&lt;/a0&gt;, this file is not emptied, in order to be consistent with usual clipboard behavior.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="lesia" changedate="20200425T142318Z" creationid="lesia" creationdate="20200425T142318Z">
+        <seg>Коли користувач виходить з &lt;a0&gt;OmegaT&lt;/a0&gt;, цей файл не стирається, імітуючи поведінку буферу обміну.</seg>
       </tuv>
     </tu>
     <tu>
