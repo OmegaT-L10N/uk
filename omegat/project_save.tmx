@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.2_0_6a661c5e" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.2_0_6a661c5e0" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -11700,6 +11700,14 @@ their defaults as a result of the location change.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20190821T150205Z" creationid="Kos Ivantsov" creationdate="20190821T150205Z">
         <seg>Для використання проксі з автентифікацією вкажіть ім’я користувача та пароль.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If you can not see all the panes (be it opened or minimized), pressing &lt;g0&gt; Options &gt; Restore Main Window &lt;/g0&gt;will restore them to the state, defined in the installation.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200428T180652Z" creationid="maximo" creationdate="20200428T180652Z">
+        <seg>Якщо ви не бачите всі панелі (відкриті або згорнуті) &lt;g0&gt;Вигляд &gt; Відновити вигляд головного вікна&lt;/g0&gt; поверне їх до стандартного стану.</seg>
       </tuv>
     </tu>
     <tu>
