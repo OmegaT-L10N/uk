@@ -10426,6 +10426,14 @@ provided (omegat.kaptn).</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Glossary pane: Dropped files with known glossary extensions (&lt;f0&gt;.txt&lt;/f0&gt;, &lt;f1&gt;.tab&lt;/f1&gt;, etc.) will be copied to the &lt;f2&gt;glossary&lt;/f2&gt; folder.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200429T210659Z" creationid="maximo" creationdate="20200429T210659Z">
+        <seg>Для панелі глосарію: Якщо скопіювати туди файл з відомим розширенням файлів глосаріїв (&lt;f0&gt;.txt&lt;/f0&gt;, &lt;f1&gt;.tab&lt;/f1&gt;, і т.п.), то його буде скопійовано у теку &lt;f2&gt;glossary&lt;/f2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Glossary/Display Context Description for TBX Glossaries</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="maximo" changedate="20200405T190128Z" creationid="maximo" creationdate="20200405T190128Z">
