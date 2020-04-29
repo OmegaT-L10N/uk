@@ -27682,6 +27682,14 @@ of selecting, obtaining and installing it.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>When this is done the panes display a tab at the top.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200429T205158Z" creationid="maximo" creationdate="20200429T205158Z">
+        <seg>У цьому випадку панелі будуть відображати вкладки згори.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>When this option is checked, the glossary will display pairs or groups of words (expressions) even if the words within them appear separately in the source text.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="maximo" changedate="20200412T140826Z" creationid="maximo" creationdate="20200412T140826Z">
@@ -28532,6 +28540,14 @@ installation script (linux-install.sh).</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>You can overlap panes if desired.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200429T205057Z" creationid="maximo" creationdate="20200429T205057Z">
+        <seg>Ви можете накладати панелі одна на одну, якщо вам так зручніше.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>You can select which elements are to be translated.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="maximo" changedate="20200413T113826Z" creationid="maximo" creationdate="20200413T113826Z">
@@ -29330,6 +29346,14 @@ create its configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>puts the pane back within the main window</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200429T205011Z" creationid="maximo" creationdate="20200429T205011Z">
+        <seg>приєднує панель назад до основного вікна</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>regular expressions</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="maximo" changedate="20200424T135905Z" creationid="maximo" creationdate="20200424T135905Z">
@@ -29446,6 +29470,14 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20190424T212218Z" creationid="Kos Ivantsov" creationdate="20190424T212218Z">
         <seg>trilead-ssh2 (ліцензія Trilead SSH)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>undocks the pane from the main window</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200429T204946Z" creationid="maximo" creationdate="20200429T204946Z">
+        <seg>відокремлює панель у окреме вікно</seg>
       </tuv>
     </tu>
     <tu>
