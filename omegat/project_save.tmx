@@ -10162,6 +10162,14 @@ provided (omegat.kaptn).</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Fuzzy Matches pane: Dropped &lt;f0&gt;.tmx&lt;/f0&gt; files will be copied to the &lt;f1&gt;tm&lt;/f1&gt; folder.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200429T210509Z" creationid="maximo" creationdate="20200429T210509Z">
+        <seg>Для панелі нечітких збігів: Якщо перетягнути туди файли &lt;f0&gt;.tmx&lt;/f0&gt;, то вони будуть скопійовані до теки &lt;f1&gt;tm&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Fuzzy matching</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="maximo" changedate="20200322T171146Z" creationid="maximo" creationdate="20200322T171146Z">
@@ -17355,6 +17363,14 @@ installed on your system.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20190424T213319Z" creationid="Kos Ivantsov" creationdate="20190424T213319Z">
         <seg>Участь інших людей у проєкті зазначена у файлі readme.txt</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Other dropped files will be copied to the &lt;f1&gt;source&lt;/f1&gt; folder.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200429T210243Z" creationid="maximo" creationdate="20200429T210243Z">
+        <seg>Інші типи файлів будуть скопіювані до теки &lt;f1&gt;source&lt;/f1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -24751,6 +24767,14 @@ the server.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="maximo" changedate="20200416T091004Z" creationid="maximo" creationdate="20200416T091004Z">
         <seg>Оскільки це виключення, прапорець правило/виключення не має стояти</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This applies also to the &lt;l2&gt;Project files&lt;/l2&gt; window.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200429T210400Z" creationid="maximo" creationdate="20200429T210400Z">
+        <seg>Це також стосується вікна &lt;l2&gt;Файли проєкту&lt;/l2&gt;.</seg>
       </tuv>
     </tu>
     <tu>
