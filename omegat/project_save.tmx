@@ -19701,8 +19701,8 @@ These words: 'Page not found'</seg>
       <tuv lang="EN">
         <seg>Restores the status before the last editing action was taken.</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="lesia" changedate="20200425T133519Z" creationid="lesia" creationdate="20200425T133519Z">
-        <seg>Відновлює станм документу перед виконанням останньої дії.</seg>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200429T075753Z" creationid="lesia" creationdate="20200425T133519Z">
+        <seg>Відновлює стан документу перед виконанням останньої дії.</seg>
       </tuv>
     </tu>
     <tu>
@@ -29206,6 +29206,14 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="maximo" changedate="20200420T165047Z" creationid="maximo" creationdate="20200420T165047Z">
         <seg>Зручності, доступні для macOS</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>maximizes the pane</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200429T075737Z" creationid="maximo" creationdate="20200429T075737Z">
+        <seg>розгортає панель</seg>
       </tuv>
     </tu>
     <tu>
