@@ -8284,6 +8284,14 @@ project_save.tmx не був переданий на віддалений сер
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Editor pane: If an OmegaT project file (&lt;f0&gt;omegat.project&lt;/f0&gt;) is dropped on this pane, the corresponding project will be opened, closing first any opened project.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200429T210159Z" creationid="maximo" creationdate="20200429T210159Z">
+        <seg>Для основної області редагування: Якщо туди перетягнути файл проєкту OmegaT (&lt;f0&gt;omegat.project&lt;/f0&gt;), то відкриється відповідний проєкт. При цьому, якщо якийсь проєкт був відкритий, він закриється.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Editor...</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="maximo" changedate="20200425T135045Z" creationid="maximo" creationdate="20200425T135045Z">
@@ -13084,6 +13092,14 @@ click on that shortcut.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20190823T145957Z" creationid="Kos Ivantsov" creationdate="20190823T145957Z">
         <seg>Доволі часто виникає потреба шукати слова та словосполучення в оригіналі та в перекладі. Для цього у будь-який момент можна натиснути &lt;s0&gt;&lt;s1&gt;Ctrl+F&lt;/s1&gt;&lt;/s0&gt; і викликати вікно &lt;s2&gt;«Пошук тексту»&lt;/s2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>It is possible to drag and drop files to each pane, which will react accordingly.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200429T210001Z" creationid="maximo" creationdate="20200429T210001Z">
+        <seg>На кожну з панелей можна перетягувати файли.</seg>
       </tuv>
     </tu>
     <tu>
