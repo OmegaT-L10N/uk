@@ -21295,6 +21295,14 @@ The scope of a search is by default the project and can be set to be any files l
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Should you lose track of your changes to the user interface, you can use &lt;g0&gt; Options → Restore the main window&lt;/g0&gt; any time to return to the original layout.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200429T205912Z" creationid="maximo" creationdate="20200429T205912Z">
+        <seg>На випадок якщо ви загубилися за всіма змінами, що ви внесли у розташування панелей, ви завжди можете використати &lt;g0&gt;Вигляд → Відновити вигляд головного вікна&lt;/g0&gt;, щоб повернутися до стандартного вигляду.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Should you need more specific information, consult the &lt;u0&gt;Java Regex documentation&lt;/u0&gt;.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="maximo" changedate="20200412T044356Z" creationid="maximo" creationdate="20200412T044356Z">
@@ -24150,6 +24158,14 @@ in /lib/licenses/Licenses.txt.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="maximo" changedate="20200411T105758Z" creationid="maximo" creationdate="20200411T105758Z">
         <seg>Обрані мови за деякий час будуть встановлені і з'являться у вікні налаштувань перевірки правопису.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The separators between the panes can be dragged to resize panes.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200429T205435Z" creationid="maximo" creationdate="20200429T205435Z">
+        <seg>Межі між панелями можна перетягувати мишкою.</seg>
       </tuv>
     </tu>
     <tu>
@@ -27684,8 +27700,8 @@ of selecting, obtaining and installing it.</seg>
       <tuv lang="EN">
         <seg>When this is done the panes display a tab at the top.</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="maximo" changedate="20200429T205158Z" creationid="maximo" creationdate="20200429T205158Z">
-        <seg>У цьому випадку панелі будуть відображати вкладки згори.</seg>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200429T205402Z" creationid="maximo" creationdate="20200429T205158Z">
+        <seg>У цьому випадку згори панелі будуть відображатися вкладки.</seg>
       </tuv>
     </tu>
     <tu>
@@ -28542,8 +28558,8 @@ installation script (linux-install.sh).</seg>
       <tuv lang="EN">
         <seg>You can overlap panes if desired.</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="maximo" changedate="20200429T205057Z" creationid="maximo" creationdate="20200429T205057Z">
-        <seg>Ви можете накладати панелі одна на одну, якщо вам так зручніше.</seg>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200429T205247Z" creationid="maximo" creationdate="20200429T205057Z">
+        <seg>Ви можете накласти панелі одна на одну, якщо вам так зручніше.</seg>
       </tuv>
     </tu>
     <tu>
