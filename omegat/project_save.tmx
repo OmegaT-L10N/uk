@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.2_0_6a661c5e0" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.2_0_6a661c5e" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -1499,6 +1499,14 @@ To add files to the project, click on the Copy Files to Source Folder... button 
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>(The definition of “unique” is case-sensitive: "Run" and "run" are treated as being different)</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="lesia" changedate="20200429T202818Z" creationid="lesia" creationdate="20200429T202818Z">
+        <seg>(Тлумачення поняття “унікальний” залежить від регістру символів: "Запуск" та "запуск" вважаються різними поняттями)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>(X)HTML Filter Options</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20190814T101937Z" creationid="Kos Ivantsov" creationdate="20190814T101937Z">
@@ -2160,6 +2168,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;e0&gt;Adding files to the project: &lt;/e0&gt;You can add source files to the project by clicking on the "&lt;g1&gt;Import Source Files..."&lt;/g1&gt; button.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="lesia" changedate="20200429T202826Z" creationid="lesia" creationdate="20200429T202826Z">
+        <seg>&lt;e0&gt;Додавати файли до проєкту: &lt;/e0&gt;Ви можете додати файли для перекладу до проєкту, натиснувши кнопку "&lt;g1&gt;Скопіювати документи до теки з файлами для перекладу..."&lt;/g1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;e0&gt;Aggregate tags&lt;/e0&gt;: if checked, tags with no translatable text between them will be aggregated into a single tag.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="maximo" changedate="20200413T114605Z" creationid="maximo" creationdate="20200413T114316Z">
@@ -2702,6 +2718,14 @@ The current setting is {0}MB;</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20190516T204932Z" creationid="Kos Ivantsov" creationdate="20190516T204932Z">
         <seg>&lt;r0&gt;Примітка:&lt;/r0&gt; На комп’ютерах Apple Mac замість клавіші &lt;k2&gt;Control&lt;/k2&gt; використовується клавіша &lt;k1&gt;Command&lt;/k1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;r0&gt;Note:&lt;/r0&gt; it is possible to inhibit the window displaying at opening, by setting &lt;e1&gt;project_files_show_on_load&lt;/e1&gt; to &lt;e2&gt;false&lt;/e2&gt; in &lt;f3&gt;omegat.prefs&lt;/f3&gt; file (accessible by &lt;m4&gt; &lt;g5&gt;Options&lt;/g5&gt; &lt;g6&gt;Access Configuration Folder&lt;/g6&gt; &lt;/m4&gt; menu).</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="lesia" changedate="20200429T202754Z" creationid="lesia" creationdate="20200429T202754Z">
+        <seg>&lt;r0&gt;Зауважте:&lt;/r0&gt; можна скасувати відображення вікна, коли відкривається проєкт, ввівши &lt;e1&gt;false&lt;/e1&gt; поряд з командою &lt;e2&gt;project_files_show_on_load&lt;/e2&gt; у файлі &lt;f3&gt;omegat.prefs&lt;/f3&gt; (щоб перейти до файлу, оберіть в головному меню &lt;m4&gt; &lt;g5&gt;Налаштування&lt;/g5&gt; &lt;g6&gt;Відкрити теку з налаштуваннями&lt;/g6&gt;&lt;/m4&gt;).</seg>
       </tuv>
     </tu>
     <tu>
@@ -5886,6 +5910,14 @@ Buy another drink</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="maximo" changedate="20200411T110319Z" creationid="maximo" creationdate="20200411T110319Z">
         <seg>Натистаючи на кнопку &lt;g0&gt;Установити новий словник...&lt;/g0&gt;, ви відкриєте вікно встановлення словників. У ньому ви зможете обрати словники для встановлення.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Clicking on any file will open it for translation.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="lesia" changedate="20200429T202803Z" creationid="lesia" creationdate="20200429T202803Z">
+        <seg>Якщо натиснути на будь-який файл, він відкриється для перекладу.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9412,6 +9444,14 @@ Gossamer threads hold you back
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20190504T131057Z" creationid="Kos Ivantsov" creationdate="20190504T131057Z">
         <seg>Ім’я файлу</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>File entries include their names, file filter types, their encoding and the number of segments each file contains</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="lesia" changedate="20200429T202812Z" creationid="lesia" creationdate="20200429T202812Z">
+        <seg>Відомості про файл, до яких входить назва файлу, тип фільтру, кодування та кількість сегментів у файлі.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13024,6 +13064,14 @@ click on that shortcut.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>It also possible to change the position of a filename, by clicking on it and pressing &lt;e0&gt;Move ...&lt;/e0&gt; buttons.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="lesia" changedate="20200429T202809Z" creationid="lesia" creationdate="20200429T202809Z">
+        <seg>Можна також змінити розташування назви файлу, натиснувши на неї, а потім на кнопки &lt;e0&gt;Посунути ...&lt;/e0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>It can also be obtained using the git command:</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="maximo" changedate="20200322T164003Z" creationid="maximo" creationdate="20200322T164003Z">
@@ -14998,6 +15046,14 @@ itself on the first run.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Modifying the segmentation rules may have the effect of modifying the number of segments/unique segments.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="lesia" changedate="20200429T202823Z" creationid="lesia" creationdate="20200429T202823Z">
+        <seg>Якщо змінювати правила сегментації, кількість сегментів / унікальних сегментів може також змінитись.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Monolingual</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20190822T135421Z" creationid="Kos Ivantsov" creationdate="20190701T155309Z">
@@ -15720,6 +15776,14 @@ as the Applications folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Note however that the numbers do not indicate how relevant the repetitions are: they could mean relatively long sentences repeated a number of times (in which case you are fortunate) or it could describe a table of keywords (not so fortunate).</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="lesia" changedate="20200429T202821Z" creationid="lesia" creationdate="20200429T202821Z">
+        <seg>Проте показники кількості не визначають, наскільки повторювані частини відповідають одна одній: вони можуть позначати доволі довгі речення, які повторюються кілька разів (в такому разі вам пощастило) або ряд ключових слів (в цьому випадку вам буде складніше).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Note that &lt;f0&gt;Remove&lt;/f0&gt; physically removes the selected vocabularies.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="maximo" changedate="20200411T135909Z" creationid="maximo" creationdate="20200411T135909Z">
@@ -15868,6 +15932,14 @@ as the Applications folder.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20190814T101540Z" creationid="Kos Ivantsov" creationdate="20190814T101540Z">
         <seg>Примітка: налаштування кодування файлів для перекладу впливають лише на ті файли HTML, які не містять оголошення про кодування.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Note: filenames (in first column) can be sorted alphabetically by clicking in the header.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="lesia" changedate="20200429T202808Z" creationid="lesia" creationdate="20200429T202808Z">
+        <seg>Зауважте: назви файлів (в першій колонці) можна розташовувати за алфавітом, якщо натиснути на заголовок колонки.</seg>
       </tuv>
     </tu>
     <tu>
@@ -18405,6 +18477,14 @@ project without team functionality.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Project Files</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="lesia" changedate="20200429T202744Z" creationid="lesia" creationdate="20200429T202744Z">
+        <seg>Файли проєкту</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Project Files ({0} of {1})</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20190420T125722Z" creationid="Kos Ivantsov" creationdate="20190420T125722Z">
@@ -19843,6 +19923,14 @@ These words: 'Page not found'</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Right-clicking on a filename opens a popup that allows to open the source file and (if it exists) the target file.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="lesia" changedate="20200429T202810Z" creationid="lesia" creationdate="20200429T202810Z">
+        <seg>Якщо натиснути правою кнопкою миші на назву файлу, з'являється спливаюче меню, яке дозволяє відкрити файл для перекладу та  перекладений файл (якщо такий існує).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Right-clicking on an underlined word (Artund in the figure above) opens a drop-down menu listing suggestions for the correction (Art und).</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="maximo" changedate="20200411T134451Z" creationid="maximo" creationdate="20200411T134451Z">
@@ -20634,6 +20722,14 @@ The scope of a search is by default the project and can be set to be any files l
       </tuv>
       <tuv lang="UK-UA" changeid="maximo" changedate="20200412T143220Z" creationid="maximo" creationdate="20200412T143220Z">
         <seg>Налаштування шрифтів доступні у розділі Інше</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>See the chapter &lt;e0&gt;Segmentation rules&lt;/e0&gt; for more information.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="lesia" changedate="20200429T202825Z" creationid="lesia" creationdate="20200429T202825Z">
+        <seg>Для більш детальної інформації дивіться розділ &lt;e0&gt;Правила сегментації&lt;/e0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -22924,6 +23020,14 @@ current folder will be used instead.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The &lt;f0&gt;project_stats.txt&lt;/f0&gt; located in the omegat folder of your project contains more detailed segment information, broken down by file.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="lesia" changedate="20200429T202822Z" creationid="lesia" creationdate="20200429T202822Z">
+        <seg>Документ &lt;f0&gt;project_stats.txt&lt;/f0&gt;, який знаходиться у теці omegat вашого проєкту містить більш детальну інформацію про сегменти окремого файлу.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The &lt;f3&gt;level1&lt;/f3&gt; and &lt;f4&gt;level2&lt;/f4&gt; memories can be shared with users of other translation programs.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20190823T145908Z" creationid="Kos Ivantsov" creationdate="20190822T203419Z">
@@ -22936,6 +23040,14 @@ current folder will be used instead.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="maximo" changedate="20200425T150143Z" creationid="maximo" creationdate="20200425T150143Z">
         <seg>Параметр &lt;g1&gt;Проблеми з теґами&lt;/g1&gt; обраний завжди.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The &lt;g2&gt;Project Files&lt;/g2&gt; Window displays the following information:</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="lesia" changedate="20200429T202756Z" creationid="lesia" creationdate="20200429T202756Z">
+        <seg>Вікно &lt;g2&gt;"Файли проєкту"&lt;/g2&gt; містить наступну інформацію:</seg>
       </tuv>
     </tu>
     <tu>
@@ -23453,6 +23565,14 @@ instead.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="maximo" changedate="20200413T165605Z" creationid="maximo" creationdate="20200413T165605Z">
         <seg>Діалогове вікно містить спеціальний редактор шаблонів назв перекладених файлів.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The difference between "Number of segments" and "Number of unique segments" provides an approximate idea of the number of repetitions in the text.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="lesia" changedate="20200429T202819Z" creationid="lesia" creationdate="20200429T202819Z">
+        <seg>Різниця між "Кількістю сегментів" та "Кількістю унікальних сегментів" полягає у приблизній кількості повторюваних частин в тексті.</seg>
       </tuv>
     </tu>
     <tu>
@@ -24218,6 +24338,14 @@ in /lib/licenses/Licenses.txt.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The set of &lt;e0&gt;Unique &lt;/e0&gt;segments is computed by taking all the segments and removing all duplicate segments.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="lesia" changedate="20200429T202816Z" creationid="lesia" creationdate="20200429T202816Z">
+        <seg>Набір &lt;e0&gt;Унікальних &lt;/e0&gt;сегментів розраховується шляхом віднімання всіх продубльованих сегментів від загальної кількості сегментів.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The shortcut definition file must be named &lt;f0&gt;MainMenuShortcuts.properties&lt;/f0&gt; and must contain at most one shortcut definition per line.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="maximo" changedate="20200405T043003Z" creationid="maximo" creationdate="20200405T043003Z">
@@ -24636,6 +24764,14 @@ configuration folder cannot be reliably determined.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>These are the files present in the /source folder in a format that OmegaT is able to recognize.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="lesia" changedate="20200429T202759Z" creationid="lesia" creationdate="20200429T202759Z">
+        <seg>Ці файли знаходяться у теці /source в тому форматі, який OmegaT може розпізнати.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>These settings apply to OmegaT level, to all projects.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="maximo" changedate="20200425T141423Z" creationid="maximo" creationdate="20200425T141423Z">
@@ -24871,6 +25007,14 @@ the server.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20190811T131142Z" creationid="Kos Ivantsov" creationdate="20190811T130909Z">
         <seg>Ця команда виконуватиметься щоразу після створення перекладених документів.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This copies the selected files to the &lt;f2&gt;source&lt;/f2&gt; folder and reloads the project to import the new files.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="lesia" changedate="20200429T202828Z" creationid="lesia" creationdate="20200429T202828Z">
+        <seg>Це дозволяє скопіювати обрані файли до теки &lt;f2&gt;source&lt;/f2&gt; та перезавантажити проєкт для імпорту нових файлів.</seg>
       </tuv>
     </tu>
     <tu>
@@ -25181,6 +25325,14 @@ the server.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>This number is displayed in brackets, next to the "Project file" title</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="lesia" changedate="20200429T202800Z" creationid="lesia" creationdate="20200429T202800Z">
+        <seg>Кількість файлів зображена в дужках поряд із заголовком "Файли проєкту"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>This option allows OmegaT to override the specification in the PO file header and use the default for the selected target language.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="maximo" changedate="20200413T105920Z" creationid="maximo" creationdate="20200413T105920Z">
@@ -25345,6 +25497,22 @@ the server.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="maximo" changedate="20200420T164711Z" creationid="maximo" creationdate="20200420T164711Z">
         <seg>Це вказує OmegaT запускатися із 6 GB оперативної памʼяті. Ви можете змінити &lt;l4&gt;6g&lt;/l4&gt; на потрібне вам значення.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This window is displayed automatically when OmegaT loads a project, and at any time by pressing &lt;m0&gt; &lt;g1&gt;Project&lt;/g1&gt; &lt;g2&gt;Project Files...&lt;/g2&gt; &lt;/m0&gt;.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="lesia" changedate="20200429T202752Z" creationid="lesia" creationdate="20200429T202752Z">
+        <seg>Це вікно автоматично відкривається, коли OmegaT завантажує проєкт, а також якщо натиснути на кнопку&lt;m0&gt; &lt;g1&gt;Проєкт&lt;/g1&gt; &lt;g2&gt;Файли проєкту...&lt;/g2&gt; &lt;/m0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This, however, should generally be avoided once you have started translating the project.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="lesia" changedate="20200429T202824Z" creationid="lesia" creationdate="20200429T202824Z">
+        <seg>Проте, цього краще уникати, якщо ви вже почали переклад проєкту.</seg>
       </tuv>
     </tu>
     <tu>
@@ -26275,6 +26443,14 @@ Exact searches match the whole search string.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Typing any text will open a &lt;g0&gt;Filter&lt;/g0&gt; field where parts of filenames can be entered.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="lesia" changedate="20200429T202805Z" creationid="lesia" creationdate="20200429T202805Z">
+        <seg>Якщо надрукувати будь-який текст, відкриється поле &lt;g0&gt;Фільтр&lt;/g0&gt;, куди можна вводити назви файлів.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Typo3 LocManager</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20190504T132813Z" creationid="Kos Ivantsov" creationdate="20190504T132813Z">
@@ -26885,6 +27061,14 @@ on line {1}, column {2}.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20190422T204413Z" creationid="Kos Ivantsov" creationdate="20190422T204356Z">
         <seg>Шукати терміни у глосарії за &amp;основами слів</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Use &lt;g0&gt;Ctrl+L&lt;/g0&gt; to open and &lt;k1&gt;Esc&lt;/k1&gt; to close it.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="lesia" changedate="20200429T202755Z" creationid="lesia" creationdate="20200429T202755Z">
+        <seg>Щоб відкрити вікно, натисніть &lt;g0&gt;Ctrl+L&lt;/g0&gt;, щоб закрити - &lt;k1&gt;Esc&lt;/k1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -28369,6 +28553,14 @@ can then launch the Kaptain launch script with:</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>You can also add source files from Internet pages, written in MediaWiki, by clicking on&lt;g3&gt; "Import from MediaWiki"&lt;/g3&gt; button and providing the corresponding URL.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="lesia" changedate="20200429T202829Z" creationid="lesia" creationdate="20200429T202829Z">
+        <seg>Ви також можете додати файли для перекладу з інтернет-сторінок, створених у MediaWiki, натиснувши кнопку &lt;g3&gt; "Стягнути сторінку MediaWiki..."&lt;/g3&gt; та ввівши відповідну URL-адресу.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>You can also call up the user manual supplied with OmegaT without launching OmegaT itself.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="maximo" changedate="20200322T112826Z" creationid="maximo" creationdate="20200322T112826Z">
@@ -28608,6 +28800,14 @@ installation script (linux-install.sh).</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="maximo" changedate="20200429T205247Z" creationid="maximo" creationdate="20200429T205057Z">
         <seg>Ви можете накласти панелі одна на одну, якщо вам так зручніше.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You can select a file with &lt;k1&gt;Up&lt;/k1&gt; and &lt;k2&gt;Down&lt;/k2&gt; keys, and open it for translation by pressing &lt;k3&gt;Enter&lt;/k3&gt;</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="lesia" changedate="20200429T202806Z" creationid="lesia" creationdate="20200429T202806Z">
+        <seg>Ви можете обрати файл за допомогою клавіш &lt;k1&gt;Вгору&lt;/k1&gt; та &lt;k2&gt;Вниз&lt;/k2&gt; і відкрити їх у вікні для перекладу, натиснувши &lt;k3&gt;Enter&lt;/k3&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -29510,6 +29710,30 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="fanja9" changedate="20200418T095451Z" creationid="fanja9" creationdate="20200418T095451Z">
         <seg>переклад</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>the list of all translatable files in the project.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="lesia" changedate="20200429T202801Z" creationid="lesia" creationdate="20200429T202801Z">
+        <seg>список усіх файлів для перекладу у проєкті.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>the total number of segments, the number of unique segments in the whole project, and the number of unique segments already translated are shown at the bottom</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="lesia" changedate="20200429T202814Z" creationid="lesia" creationdate="20200429T202814Z">
+        <seg>загальну кількість сегментів, кількість унікальних сегментів у всьому проєкті та кількість перекладених унікальних сегментів. Ця інформація знаходиться внизу вікна.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>the total number of translatable files in the project.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="lesia" changedate="20200429T202758Z" creationid="lesia" creationdate="20200429T202758Z">
+        <seg>загальну кількість файлів для перекладу у проєкті.</seg>
       </tuv>
     </tu>
     <tu>
