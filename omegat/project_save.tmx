@@ -13225,6 +13225,14 @@ click on that shortcut.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>It is the segment that is displayed in two parts.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200501T161111Z" creationid="maximo" creationdate="20200501T161111Z">
+        <seg>Він показаний з обома частинами.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>It is therefore always safe to install the version of OmegaT with JRE.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="lesia" changedate="20200323T215847Z" creationid="maximo" creationdate="20200322T160211Z">
@@ -24614,6 +24622,14 @@ in /lib/licenses/Licenses.txt.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="maximo" changedate="20200414T190338Z" creationid="maximo" creationdate="20200414T190338Z">
         <seg>Ці два типи правил мають таку поведінку:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The upper part is in the source language, in bold characters with a green background color, the lower part is the editing field, ended by a marker: the marker is &lt;l0&gt;&lt;segment nnnn&gt;&lt;/l0&gt; where nnnn is a number of the segment in the project.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200501T161413Z" creationid="maximo" creationdate="20200501T161413Z">
+        <seg>Верхня частина, мовою оригіналу, напівжирним шрифтом на зеленому фоні. Нижня частина - це поле введення. Вона закінчується на спеціальний маркер - &lt;l0&gt;&lt;сегмент ####&gt;&lt;/l0&gt;, де #### -  це номер поточного сегмента у проєкті.</seg>
       </tuv>
     </tu>
     <tu>
