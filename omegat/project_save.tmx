@@ -7104,6 +7104,14 @@ Buy another drink</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Depending upon the preferred editing behavior, the editing field for the untranslated segment may be empty, contain the source text, or contain the translation of the string most similar to the one to be translated.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200501T200613Z" creationid="maximo" creationdate="20200501T200613Z">
+        <seg>Залежно від ваших налаштувань поле редагування для неперекладених сегментів може бути пустим, містити текст оригіналу або переклад найближчого нечіткого збігу.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Description</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20190817T204903Z" creationid="Kos Ivantsov" creationdate="20190817T204903Z">
@@ -15986,8 +15994,8 @@ as the Applications folder.</seg>
       <tuv lang="EN">
         <seg>Note: the segment marker displays &lt;l0&gt;&lt;segment nnnn +yy more&gt; when the segment is non-unique.</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="maximo" changedate="20200501T195240Z" creationid="maximo" creationdate="20200501T195217Z">
-        <seg>Зверніть увагу: маркер сегменту виглядає як &lt;l0&gt;&lt;сегмент #### +XX більше&gt; якщо сегмент неунікальний.</seg>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200501T200407Z" creationid="maximo" creationdate="20200501T195217Z">
+        <seg>Зверніть увагу: маркер сегменту виглядає як &lt;l0&gt;&lt;сегмент #### (+ ще XX)&gt; якщо сегмент неунікальний.</seg>
       </tuv>
     </tu>
     <tu>
