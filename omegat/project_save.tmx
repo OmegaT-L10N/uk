@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.2_0_6a661c5e" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.2_0_6a661c5e0" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -24130,6 +24130,14 @@ in /lib/licenses/Licenses.txt.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The match viewer shows the most similar segments from translation memories, both from internal project translation memory created in real time as you translate your project and from ancillary translation memories you have imported from your earlier jobs, or received from your client or translation agency.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200501T203818Z" creationid="maximo" creationdate="20200501T203818Z">
+        <seg>Переглядач збігів показує найбільш схожі сегменти із памʼяті перекладів. Це може бути як внутрішня памʼять перекладів проєкту, що наповнюється в режимі реального часу, коли ви перекладаєте, так і вторинна памʼять перекладів, імпортована з ваших попередніх проєктів, отримана від клієнта чи бюро перекладів.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The memory named &lt;c5&gt;omegat&lt;/c5&gt; can be used by OmegaT itself, in future projects that you create.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20190823T145658Z" creationid="Kos Ivantsov" creationdate="20190823T145658Z">
@@ -25867,6 +25875,14 @@ the server.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="maximo" changedate="20200322T142132Z" creationid="maximo" creationdate="20200322T142132Z">
         <seg>Щоб перевірити, яка у вас версія JRE, відкрийте консоль (вікно командного рядка) та напишіть:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To come back to the standard mode "&lt;g2&gt;Cursor lock on&lt;/g2&gt;", press &lt;k3&gt;F2&lt;/k3&gt; again.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200501T203104Z" creationid="maximo" creationdate="20200501T203104Z">
+        <seg>Щоб повернутися до стандартного режиму "&lt;g2&gt;Курсор заблоковано&lt;/g2&gt;", ще раз натисніть &lt;k3&gt;F2&lt;/k3&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -28279,6 +28295,14 @@ of selecting, obtaining and installing it.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="maximo" changedate="20200501T200658Z" creationid="maximo" creationdate="20200501T200658Z">
         <seg>Коли ви переходите до наступного сегмента, поточний переклад валідується і зберігається.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>When you move to the next segment, the first fuzzy match (the one with the best matching percentage) is automatically selected.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200501T203928Z" creationid="maximo" creationdate="20200501T203928Z">
+        <seg>Коли ви переходите до наступного сегмента, то автоматично виділяється перший нечіткий збіг (тобто той, у якого найвищих відсоток схожості).</seg>
       </tuv>
     </tu>
     <tu>
