@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.2_0_6a661c5e0" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.2_0_6a661c5e" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -3622,6 +3622,14 @@ The current setting is {0}MB;</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20190819T191756Z" creationid="Kos Ivantsov" creationdate="20190819T191756Z">
         <seg>Вирівнювання файлів: виділення рядка</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Alignment involves creating a bilingual translation memory from monolingual documents that have already been translated.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="lesia" changedate="20200501T200554Z" creationid="lesia" creationdate="20200501T200554Z">
+        <seg>Вирівнювання дозволяє створити двомовний файл памʼяті перекладів з одномовних документів, що вже були перекладені раніше.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11496,6 +11504,14 @@ their defaults as a result of the location change.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If the alignment looks as if it could be improved, try changing the parameters.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="lesia" changedate="20200501T200922Z" creationid="lesia" creationdate="20200501T200922Z">
+        <seg>Якщо вам здається, що результати вирівнювання можна покращити, спробуйте змінити параметри.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If the appropriate filter is found, the file is assigned to it for processing.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="maximo" changedate="20200413T183840Z" creationid="maximo" creationdate="20200413T183840Z">
@@ -12266,6 +12282,14 @@ click on that shortcut.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="maximo" changedate="20200420T201337Z" creationid="maximo" creationdate="20200420T201337Z">
         <seg>В найпростішій своїй формі вона виглядає так:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>In most cases, the lower the &lt;g0&gt;Average score&lt;/g0&gt; is, better the alignment will be.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="lesia" changedate="20200501T201302Z" creationid="lesia" creationdate="20200501T201302Z">
+        <seg>Зазвичай, що нижче значення &lt;g0&gt;Average score&lt;/g0&gt; то кращими будуть результати вирівнювання.</seg>
       </tuv>
     </tu>
     <tu>
@@ -22283,8 +22307,8 @@ The scope of a search is by default the project and can be set to be any files l
       <tuv lang="EN">
         <seg>Step 1: Adjust the alignment parameters</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="maximo" changedate="20200413T170615Z" creationid="maximo" creationdate="20200413T170615Z">
-        <seg>Крок 1. Налаштувати параметри вирівнювання</seg>
+      <tuv lang="UK-UA" changeid="lesia" changedate="20200501T200743Z" creationid="maximo" creationdate="20200413T170615Z">
+        <seg>Крок 1. Налаштуйте параметри вирівнювання</seg>
       </tuv>
     </tu>
     <tu>
@@ -25633,6 +25657,14 @@ the server.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="maximo" changedate="20200420T163413Z" creationid="maximo" creationdate="20200420T163413Z">
         <seg>Щоб отримати доступ до &lt;f0&gt;Configuration.properties&lt;/f0&gt;, натисніть правою клавішою миші на &lt;f1&gt;OmegaT.app&lt;/f1&gt; та виберіть "Показати вміст пакету", там знайдіть його у теці &lt;f2&gt;Contents/Resources&lt;/f2&gt;. Правою клавішою миші натисніть на файл та оберіть ваш улюблений текстовий редактор.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To access this window, select &lt;m0&gt; &lt;g1&gt;Tools&lt;/g1&gt; &lt;g2&gt;Align Files...&lt;/g2&gt; &lt;/m0&gt;.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="lesia" changedate="20200501T200709Z" creationid="lesia" creationdate="20200501T200709Z">
+        <seg>Щоб скористатися цією функцією, оберіть в меню &lt;m0&gt; &lt;g1&gt;Інструменти&lt;/g1&gt; &lt;g2&gt;Вирівнювання файлів...&lt;/g2&gt; &lt;/m0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
