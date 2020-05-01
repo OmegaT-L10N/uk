@@ -12558,6 +12558,14 @@ click on that shortcut.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>In this mode, "&lt;g1&gt;Cursor lock off&lt;/g1&gt;" is displayed at the bottom of the pane.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200501T203001Z" creationid="maximo" creationdate="20200501T203001Z">
+        <seg>В цьому режимі внизу панелі з'явиться повідомлення "&lt;g1&gt;Курсор розблоковано&lt;/g1&gt;".</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>In this mode, OmegaT will align the Java properties files found in the &lt;f0&gt;/source/&lt;/f0&gt; folder of the project to the contents found at the specified location.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="maximo" changedate="20200423T155430Z" creationid="maximo" creationdate="20200423T155430Z">
