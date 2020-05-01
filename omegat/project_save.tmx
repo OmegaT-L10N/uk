@@ -12028,6 +12028,14 @@ to use Java Web Start.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If you want the translation to be the same as the source, simply make the editing field empty by removing all the text (select all with &lt;k0&gt;Ctrl+A&lt;/k0&gt; and delete with &lt;k1&gt;Del&lt;/k1&gt;).</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200501T200817Z" creationid="maximo" creationdate="20200501T200817Z">
+        <seg>Якщо ви хочете, щоб переклад був такий самий, як і оригінал, просто очистіть поле редагування (виділіть все за допомогою &lt;k0&gt;Ctrl+A&lt;/k0&gt; та видаліть - &lt;k1&gt;Del&lt;/k1&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If you want to revert to the filter's default configuration, click &lt;e1&gt;Defaults.&lt;/e1&gt; You can also modify the name directly in the target filename pattern field of the file filters dialog.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="maximo" changedate="20200413T191027Z" creationid="maximo" creationdate="20200413T191027Z">
@@ -16502,6 +16510,14 @@ translation leveraging into updated projects.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="maximo" changedate="20200417T063945Z" creationid="maximo" creationdate="20200416T214214Z">
         <seg>OmegaT може визначити, якщо ви це зробили.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>OmegaT is able to store translations that are identical to the source.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200501T200907Z" creationid="maximo" creationdate="20200501T200907Z">
+        <seg>OmegaT може зберігати переклади, що ідентичні до оригіналу.</seg>
       </tuv>
     </tu>
     <tu>
@@ -28070,6 +28086,14 @@ of selecting, obtaining and installing it.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="maximo" changedate="20200425T142614Z" creationid="maximo" creationdate="20200425T142614Z">
         <seg>Коли ви завершите переклад, то щоб імпортувати його назад у Вікіпедію:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>When you move to another segment, the translation is validated and stored.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200501T200658Z" creationid="maximo" creationdate="20200501T200658Z">
+        <seg>Коли ви переходите до наступного сегмента, поточний переклад валідується і зберігається.</seg>
       </tuv>
     </tu>
     <tu>
