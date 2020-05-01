@@ -12254,6 +12254,14 @@ click on that shortcut.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>In addition, when the right click occurs on an opened segment, other options concerning &lt;e12&gt;Alternative translations&lt;/e12&gt; are proposed, for example to to jump to another instance of non-unique segments.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200501T201751Z" creationid="maximo" creationdate="20200501T201751Z">
+        <seg>Окрім того, якщо ви натиснете правою кнопкою на активний сегмент, то також будуть доступні додаткові команди, пов'язані з &lt;e12&gt;Варіантами перекладу&lt;/e12&gt; наприклад, перехід до наступного неунікального сегмента.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>In case the file name has ambivalent name, one can apply variables of the form &lt;l0&gt;${name only&lt;/l0&gt;&lt;e1&gt;-extension number&lt;/e1&gt;} and &lt;l2&gt;${extension&lt;/l2&gt;-&lt;e3&gt;extension number} &lt;/e3&gt;.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="maximo" changedate="20200413T192354Z" creationid="maximo" creationdate="20200413T192354Z">
