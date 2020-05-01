@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.2_0_6a661c5e0" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.2_0_6a661c5e" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -25581,6 +25581,14 @@ the server.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>This option only appears if both the selected files are recognised as Key=Value files.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="lesia" changedate="20200501T203025Z" creationid="lesia" creationdate="20200501T203025Z">
+        <seg>Ця функція працюватиме лише якщо обидва обрані для вирівнювання файли розпізнаються як файли типу "ключ-значення".</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>This package can be used on any platform where a Java 8 compatible JRE is installed.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="maximo" changedate="20200420T170119Z" creationid="maximo" creationdate="20200420T170119Z">
@@ -25713,6 +25721,14 @@ the server.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="lesia" changedate="20200429T202752Z" creationid="lesia" creationdate="20200429T202752Z">
         <seg>Це вікно автоматично відкривається, коли OmegaT завантажує проєкт, а також якщо натиснути на кнопку&lt;m0&gt; &lt;g1&gt;Проєкт&lt;/g1&gt; &lt;g2&gt;Файли проєкту...&lt;/g2&gt; &lt;/m0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This works even if the keys are not in the same order in the two files, and/or if the two files do not contain the same amount of information.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="lesia" changedate="20200501T202355Z" creationid="lesia" creationdate="20200501T202355Z">
+        <seg>Такий режим порівняння працюватиме навіть якщо ключі в обох файлах не однакові або якщо обидва файли містять не однакову кількість інформації.</seg>
       </tuv>
     </tu>
     <tu>
@@ -27285,6 +27301,12 @@ on line {1}, column {2}.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="lesia" changedate="20200429T202755Z" creationid="lesia" creationdate="20200429T202755Z">
         <seg>Щоб відкрити вікно, натисніть &lt;g0&gt;Ctrl+L&lt;/g0&gt;, щоб закрити - &lt;k1&gt;Esc&lt;/k1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>спитати у Кості</note>
+      <tuv lang="EN">
+        <seg>Use &lt;g0&gt;ID comparison&lt;/g0&gt; mode to align Key=Value texts.</seg>
       </tuv>
     </tu>
     <tu>
