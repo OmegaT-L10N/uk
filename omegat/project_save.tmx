@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.2_0_6a661c5e0" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.2_0_6a661c5e" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -18467,6 +18467,14 @@ project without team functionality.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Press the space bar (shortcut for &lt;m0&gt; &lt;g1&gt;Edit&lt;/g1&gt; &lt;g2&gt;Start Pinpoint Align&lt;/g2&gt; &lt;/m0&gt;).</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="lesia" changedate="20200501T204212Z" creationid="lesia" creationdate="20200501T204212Z">
+        <seg>Натиснути клавішу пробілу (це комбінація клавіш &lt;m0&gt; &lt;g1&gt;Edit&lt;/g1&gt; &lt;g2&gt;Start Pinpoint Align&lt;/g2&gt; &lt;/m0&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Pressing &lt;k0&gt; &lt;k1&gt;Ctrl&lt;/k1&gt; &lt;k2&gt;Shift&lt;/k2&gt; &lt;k3&gt;F&lt;/k3&gt; &lt;/k0&gt; displays the last already opened Search window (instead of opening a new one).</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="lesia" changedate="20200425T145521Z" creationid="lesia" creationdate="20200425T145521Z">
@@ -21315,6 +21323,14 @@ The scope of a search is by default the project and can be set to be any files l
       </tuv>
       <tuv lang="UK-UA" changeid="maximo" changedate="20200420T161022Z" creationid="maximo" creationdate="20200419T110705Z">
         <seg>оберіть файл &lt;f3&gt;OmegaT.png&lt;/f3&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Select the first segment.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="lesia" changedate="20200501T204040Z" creationid="lesia" creationdate="20200501T204040Z">
+        <seg>Вибрати перший сегмент.</seg>
       </tuv>
     </tu>
     <tu>
@@ -25829,6 +25845,14 @@ the server.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>To align two segments on the same line:</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="lesia" changedate="20200501T204022Z" creationid="lesia" creationdate="20200501T204022Z">
+        <seg>Щоб зʼєднати два сегменти однієї лінії, потрібно:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>To associate a script with a number:</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="maximo" changedate="20200425T152103Z" creationid="maximo" creationdate="20200425T152103Z">
@@ -26659,8 +26683,8 @@ linux-install.sh script, and execute the script with ./linux-install.sh.</seg>
       <tuv lang="EN">
         <seg>Translation units are located in cells in the two last columns.</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="lesia" changedate="20200501T203817Z" creationid="lesia" creationdate="20200501T203817Z">
-        <seg>.</seg>
+      <tuv lang="UK-UA" changeid="lesia" changedate="20200501T203945Z" creationid="lesia" creationdate="20200501T203817Z">
+        <seg>Стрічки тексту знаходяться у таблиці у двох крайніх справа колонках.</seg>
       </tuv>
     </tu>
     <tu>
