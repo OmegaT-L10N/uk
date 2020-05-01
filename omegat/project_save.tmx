@@ -14510,6 +14510,14 @@ itself on the first run.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Main Window - counters</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200501T204308Z" creationid="maximo" creationdate="20200501T204308Z">
+        <seg>Головне вікно - статистика</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Major changes to the segmentation rules should be generally avoided, especially after completion of the first draft, but minor changes, such as the addition of a recognized abbreviation, can be advantageous.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="maximo" changedate="20200415T110401Z" creationid="maximo" creationdate="20200415T110401Z">
@@ -29903,6 +29911,14 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="maximo" changedate="20200412T051842Z" creationid="maximo" creationdate="20200412T051842Z">
         <seg>ліниві квантифікатори ловлять мінімальну можливу кількість елементів.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>number of segments - translated vs total for the current file</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200501T204412Z" creationid="maximo" creationdate="20200501T204412Z">
+        <seg>кількість сегментів - перекладених та всього у поточному файлі</seg>
       </tuv>
     </tu>
     <tu>
