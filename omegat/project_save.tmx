@@ -27265,6 +27265,14 @@ on line {1}, column {2}.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Use the upper part as a reference and replace or modify the contents of the editing field with your translation.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200501T195109Z" creationid="maximo" creationdate="20200501T195109Z">
+        <seg>Маючи перед очима оригінал з верхньої частини ви можете вставити свій переклад у поле введення, чи використати якісь частини його вмісту.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Use this button to open a dialog, activate the check box &lt;g0&gt;Project specific segmentation rules&lt;/g0&gt;, then proceed to adjust the segmentation rules as desired.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="lesia" changedate="20200420T150713Z" creationid="lesia" creationdate="20200420T150536Z">
