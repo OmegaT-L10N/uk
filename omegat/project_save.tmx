@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.2_0_6a661c5e" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.2_0_6a661c5e0" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -5038,6 +5038,14 @@ Buy another drink</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="maximo" changedate="20200417T083530Z" creationid="maximo" creationdate="20200417T083530Z">
         <seg>Зазвичай OmegaT не виконує команд, які вказані у налаштуваннях проєкту (файл &lt;f0&gt;omegat.project&lt;/f0&gt;), оскільки вони можуть скомпроментувати безпеку комп'ютера.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>By default, it is not possible to select words in the source segment using the keyboard rather than the mouse.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200501T202225Z" creationid="maximo" creationdate="20200501T202225Z">
+        <seg>З типовими налаштуваннями текст в оригінальному сегменті не можна виділити з використанням клавіатури - лише за допомогою мишки.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13255,6 +13263,14 @@ click on that shortcut.</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN">
+        <seg>It is possible to drag text from anywhere in the main window and to drop it within the segment.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200501T201832Z" creationid="maximo" creationdate="20200501T201832Z">
+        <seg>З будь-якого місця головного вікна можна перетягнути текст в сегмент.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>внести правку в Clic on</note>
       <tuv lang="EN">
         <seg>It is possible to use wildcards, using the &lt;u0&gt;ant syntax&lt;/u0&gt;.</seg>
@@ -18427,6 +18443,14 @@ project without team functionality.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Pressing &lt;k0&gt;F2&lt;/k0&gt; key allows to move the cursor into the source segment (or anywhere in the editor) with the keyboard arrows.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200501T202648Z" creationid="maximo" creationdate="20200501T202648Z">
+        <seg>Якщо натиснути &lt;k0&gt;F2&lt;/k0&gt;, то це стає можливим: стрілочки клавіатури дозволяють вивести курсор за межі поля редагування в оригінальний сегмент і взагалі в будь-яке місце вікна редагування.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Previous No&amp;te</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20190420T172510Z" creationid="Kos Ivantsov" creationdate="20190420T155115Z">
@@ -23047,6 +23071,14 @@ The scope of a text replacement is the target segments of the project, whether t
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20190811T132353Z" creationid="Kos Ivantsov" creationdate="20190811T132353Z">
         <seg>Текст, який має бути видалено</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Texted dragged from outside the target segment is copied, while text dragged from within the segment is moved.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200501T202024Z" creationid="maximo" creationdate="20200501T202024Z">
+        <seg>Текст, взятий поза цільовим сегментом буде скопійовано, а той, що в межах його - переміщено.</seg>
       </tuv>
     </tu>
     <tu>
