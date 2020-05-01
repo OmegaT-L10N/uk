@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.2_0_6a661c5e" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.2_0_6a661c5e0" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -16328,6 +16328,14 @@ as the Applications folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Of course, pressing &lt;k1&gt; &lt;k2&gt;Ctrl&lt;/k2&gt; &lt;k3&gt;5&lt;/k3&gt; &lt;/k1&gt; will have no effect, if there is no match #5.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200501T204039Z" creationid="maximo" creationdate="20200501T204039Z">
+        <seg>Звичайно, якщо п'ятого збіга нема, то натискання &lt;k1&gt; &lt;k2&gt;Ctrl&lt;/k2&gt; &lt;k3&gt;5&lt;/k3&gt; &lt;/k1&gt; нічого не дасть.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Often documents will also have tags that have nothing to do with formatting, but which are also important in the source files (and in the translated files).</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20190822T151758Z" creationid="Kos Ivantsov" creationdate="20190822T151758Z">
@@ -26207,6 +26215,14 @@ the server.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>To use the selected match in your translation, use &lt;g4&gt;Ctrl+R&lt;/g4&gt; to replace the target field with the match or use &lt;g5&gt;Ctrl+I &lt;/g5&gt; to insert it at the cursor position.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200501T204239Z" creationid="maximo" creationdate="20200501T204239Z">
+        <seg>Ви можете використати обраний збіг за допомогою &lt;g4&gt;Ctrl+R&lt;/g4&gt; - заміни тексту перекладу на нього, чи &lt;g5&gt;Ctrl+I &lt;/g5&gt; - вставки його в місці знаходження курсору.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>To use this script you must first install
 Kaptain.</seg>
       </tuv>
@@ -29259,6 +29275,14 @@ window to be able to launch it from any location.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="maximo" changedate="20200404T164900Z" creationid="maximo" creationdate="20200404T164900Z">
         <seg>Для зручності запуску можна перетягнути застосунок OmegaT в док або на панель Finder.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You may select a different match by pressing &lt;g0&gt;Ctrl+2, 3, 4, or 5&lt;/g0&gt;.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200501T203956Z" creationid="maximo" creationdate="20200501T203956Z">
+        <seg>Ви можете обрати інший збіг, натиснувши &lt;g0&gt;Ctrl+2, 3, 4, чи 5&lt;/g0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
