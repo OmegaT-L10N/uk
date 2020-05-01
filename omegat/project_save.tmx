@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.2_0_6a661c5e0" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.2_0_6a661c5e" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -12206,6 +12206,22 @@ click on that shortcut.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>In &lt;g0&gt;Heapwise&lt;/g0&gt; mode, the texts are evaluated globally.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="lesia" changedate="20200501T201941Z" creationid="lesia" creationdate="20200501T201733Z">
+        <seg>У режимі &lt;g0&gt;Текст цілком&lt;/g0&gt; тексти вирівнюються загалом, без розділу на сегменти.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>In &lt;g1&gt;Parsewise&lt;/g1&gt; mode, they are evaluated segment by segment.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="lesia" changedate="20200501T201809Z" creationid="lesia" creationdate="20200501T201809Z">
+        <seg>У режимі &lt;g1&gt;Parsewise&lt;/g1&gt; вирівнювання відбувається посегментно.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>In Editor</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20190808T121948Z" creationid="Kos Ivantsov" creationdate="20190808T121948Z">
@@ -12304,8 +12320,8 @@ click on that shortcut.</seg>
       <tuv lang="EN">
         <seg>In most cases, the lower the &lt;g0&gt;Average score&lt;/g0&gt; is, better the alignment will be.</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="lesia" changedate="20200501T201302Z" creationid="lesia" creationdate="20200501T201302Z">
-        <seg>Зазвичай, що нижче значення &lt;g0&gt;Average score&lt;/g0&gt; то кращими будуть результати вирівнювання.</seg>
+      <tuv lang="UK-UA" changeid="lesia" changedate="20200501T201508Z" creationid="lesia" creationdate="20200501T201302Z">
+        <seg>Зазвичай, що нижче значення &lt;g0&gt;Середня оцінка&lt;/g0&gt;, то кращими будуть результати вирівнювання.</seg>
       </tuv>
     </tu>
     <tu>
