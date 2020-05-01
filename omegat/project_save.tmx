@@ -23204,6 +23204,14 @@ current folder will be used instead.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The &lt;g0&gt;Viterbi&lt;/g0&gt; and &lt;g1&gt;Forward-Backward&lt;/g1&gt; algorithms are two different calculation methods.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="lesia" changedate="20200501T203521Z" creationid="lesia" creationdate="20200501T203521Z">
+        <seg>Алгоритми &lt;g0&gt;Вітербі&lt;/g0&gt; та &lt;g1&gt;Уперед-назад&lt;/g1&gt; - два різних методи підрахунку.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The &lt;g1&gt;Tag Issues&lt;/g1&gt; option is always selected.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="maximo" changedate="20200425T150143Z" creationid="maximo" creationdate="20200425T150143Z">
@@ -27304,9 +27312,12 @@ on line {1}, column {2}.</seg>
       </tuv>
     </tu>
     <tu>
-      <note>спитати у Кості</note>
+      <note>спитати у Кості, як називається кнопка</note>
       <tuv lang="EN">
         <seg>Use &lt;g0&gt;ID comparison&lt;/g0&gt; mode to align Key=Value texts.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="lesia" changedate="20200501T203347Z">
+        <seg>Щоб вирівнювати тексти типу "ключ-значення", використовуйте режим &lt;g0&gt;Порівняння ІD&lt;/g0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
