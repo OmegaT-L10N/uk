@@ -12374,6 +12374,14 @@ click on that shortcut.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>In that case, yy is the number of other occurrences of the segment in the project.&lt;/l0&gt;</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200501T195325Z" creationid="maximo" creationdate="20200501T195234Z">
+        <seg>У цьому випадку, XX буде показувати, скільки ще повторів цього сегмента є в проєкті.&lt;/l0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>In the "Command" field, use the navigation button to find your &lt;a0&gt;OmegaT&lt;/a0&gt; launch script (the file named &lt;a1&gt;OmegaT&lt;/a1&gt; in the unpacked folder), and select it.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="maximo" changedate="20200419T102543Z" creationid="maximo" creationdate="20200419T102543Z">
@@ -15972,6 +15980,14 @@ as the Applications folder.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="maximo" changedate="20200425T154210Z" creationid="maximo" creationdate="20200425T154210Z">
         <seg>Зверніть увагу: під Windows цей параметр може конфліктувати зі стандартним механізмом використання резервних шрифтів, що може призводити до небажаних замін шрифтів.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Note: the segment marker displays &lt;l0&gt;&lt;segment nnnn +yy more&gt; when the segment is non-unique.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200501T195240Z" creationid="maximo" creationdate="20200501T195217Z">
+        <seg>Зверніть увагу: маркер сегменту виглядає як &lt;l0&gt;&lt;сегмент #### +XX більше&gt; якщо сегмент неунікальний.</seg>
       </tuv>
     </tu>
     <tu>
