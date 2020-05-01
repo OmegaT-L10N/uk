@@ -3458,6 +3458,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>After the automatic process, the alignment of two files generally requires manual corrections.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="lesia" changedate="20200501T203722Z" creationid="lesia" creationdate="20200501T203722Z">
+        <seg>Після автоматичного вирівнювання зазвичай необхідні ще ручні виправлення результатів.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>After the initial installation you can, of course, also use &lt;f3&gt;OmegaT.jnlp&lt;/f3&gt; also when you are offline.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="maximo" changedate="20200420T195233Z" creationid="maximo" creationdate="20200420T195233Z">
@@ -5794,6 +5802,14 @@ Buy another drink</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Choose the one that provides the best results.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="lesia" changedate="20200501T203553Z" creationid="lesia" creationdate="20200501T203553Z">
+        <seg>Виберіть той з них, який дає кращий результат.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Cleaning entry '{0}'...</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20190516T205406Z" creationid="Kos Ivantsov" creationdate="20190516T205406Z">
@@ -5838,6 +5854,14 @@ Buy another drink</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="maximo" changedate="20200412T195353Z" creationid="maximo" creationdate="20200412T195353Z">
         <seg>Натисність &lt;e0&gt;Відновити типові значення&lt;/e0&gt;, щоб скинути налаштування.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Click &lt;g0&gt;Continue&lt;/g0&gt; to access the next step.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="lesia" changedate="20200501T203634Z" creationid="lesia" creationdate="20200501T203634Z">
+        <seg>Натисніть &lt;g0&gt;Продовжити&lt;/g0&gt;, щоб перейти до наступного кроку налаштувань.</seg>
       </tuv>
     </tu>
     <tu>
@@ -26613,6 +26637,14 @@ linux-install.sh script, and execute the script with ./linux-install.sh.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20190701T133348Z" creationid="Kos Ivantsov" creationdate="20190701T133348Z">
         <seg>Виявлено варіант одиниці перекладу поза межами одиниці перекладу.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Translation units are located in cells in the two last columns.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="lesia" changedate="20200501T203817Z" creationid="lesia" creationdate="20200501T203817Z">
+        <seg>.</seg>
       </tuv>
     </tu>
     <tu>
