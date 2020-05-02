@@ -28299,6 +28299,14 @@ of selecting, obtaining and installing it.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>When the two columns are sufficiently aligned, click &lt;g0&gt;Save TMX...&lt;/g0&gt; to create the resulting translation memory.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="lesia" changedate="20200502T053222Z" creationid="lesia" creationdate="20200502T053222Z">
+        <seg>Коли ви же будете задоволені результатом вирівнювання, натисніть &lt;g0&gt;Зберегти ТМХ...&lt;/g0&gt;.  Буде створено памʼять перекладів, що міститиме ці пари сегментів.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>When the user exits &lt;a0&gt;OmegaT&lt;/a0&gt;, this file is not emptied, in order to be consistent with usual clipboard behavior.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="lesia" changedate="20200425T142318Z" creationid="lesia" creationdate="20200425T142318Z">
