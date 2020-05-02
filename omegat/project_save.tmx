@@ -26127,6 +26127,14 @@ the server.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>To modify the position of one or more segments individually, select the segment(s) and press &lt;u0&gt;U&lt;/u0&gt; (&lt;g1&gt;Move Up&lt;/g1&gt;) or &lt;u2&gt;D&lt;/u2&gt; (&lt;g3&gt;Move Down&lt;/g3&gt;).</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="lesia" changedate="20200502T052523Z" creationid="lesia" creationdate="20200502T052523Z">
+        <seg>Щоб змінити позицію одного чи кількох сегментів окремо, оберіть ці сегменти та натисніть &lt;u0&gt;U&lt;/u0&gt; (&lt;g1&gt;Догори&lt;/g1&gt;) або &lt;u2&gt;D&lt;/u2&gt; (&lt;g3&gt;Вниз&lt;/g3&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>To obtain OpenOffice.org or LibreOffice, follow the link from "Third-party software" button on the left.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="maximo" changedate="20200322T151135Z" creationid="maximo" creationdate="20200322T151135Z">
