@@ -1498,6 +1498,7 @@ To add files to the project, click on the Copy Files to Source Folder... button 
       </tuv>
     </tu>
     <tu>
+      <note>поняттями</note>
       <tuv lang="EN">
         <seg>(The definition of “unique” is case-sensitive: "Run" and "run" are treated as being different)</seg>
       </tuv>
@@ -23836,6 +23837,8 @@ instead.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>частин
+</note>
       <tuv lang="EN">
         <seg>The difference between "Number of segments" and "Number of unique segments" provides an approximate idea of the number of repetitions in the text.</seg>
       </tuv>
