@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.2_0_6a661c5e0" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.2_0_6a661c5e" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -18485,8 +18485,8 @@ project without team functionality.</seg>
       <tuv lang="EN">
         <seg>Press the space bar (shortcut for &lt;m0&gt; &lt;g1&gt;Edit&lt;/g1&gt; &lt;g2&gt;Start Pinpoint Align&lt;/g2&gt; &lt;/m0&gt;).</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="lesia" changedate="20200501T204212Z" creationid="lesia" creationdate="20200501T204212Z">
-        <seg>Натиснути клавішу пробілу (це комбінація клавіш &lt;m0&gt; &lt;g1&gt;Edit&lt;/g1&gt; &lt;g2&gt;Start Pinpoint Align&lt;/g2&gt; &lt;/m0&gt;).</seg>
+      <tuv lang="UK-UA" changeid="lesia" changedate="20200502T051444Z" creationid="lesia" creationdate="20200501T204212Z">
+        <seg>Натиснути клавішу пробілу (це швидкий доступ до &lt;m0&gt; &lt;g1&gt;Редагування&lt;/g1&gt; &lt;g2&gt;Почати точкове вирівнювання&lt;/g2&gt; &lt;/m0&gt;).</seg>
       </tuv>
     </tu>
     <tu>
