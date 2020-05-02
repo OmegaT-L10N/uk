@@ -2721,8 +2721,8 @@ The current setting is {0}MB;</seg>
       </tuv>
     </tu>
     <tu>
-      <note>уніфікувати всі випадки вжитку "зауважте"
-можна скасувати відображення вікна, коли відкривається проєкт - можна скасувати відображення вікна після відкриття проєкту, </note>
+      <note>1.уніфікувати всі випадки вжитку "зауважте"
+2. можна скасувати відображення вікна, коли відкривається проєкт - можна скасувати відображення вікна після відкриття проєкту, </note>
       <tuv lang="EN">
         <seg>&lt;r0&gt;Note:&lt;/r0&gt; it is possible to inhibit the window displaying at opening, by setting &lt;e1&gt;project_files_show_on_load&lt;/e1&gt; to &lt;e2&gt;false&lt;/e2&gt; in &lt;f3&gt;omegat.prefs&lt;/f3&gt; file (accessible by &lt;m4&gt; &lt;g5&gt;Options&lt;/g5&gt; &lt;g6&gt;Access Configuration Folder&lt;/g6&gt; &lt;/m4&gt; menu).</seg>
       </tuv>
@@ -23301,6 +23301,7 @@ current folder will be used instead.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>наступний - чи замінити всюди у цьому значенні на такий</note>
       <tuv lang="EN">
         <seg>The &lt;g2&gt;Project Files&lt;/g2&gt; Window displays the following information:</seg>
       </tuv>
