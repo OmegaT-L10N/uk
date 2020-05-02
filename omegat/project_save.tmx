@@ -17180,6 +17180,14 @@ installed on your system.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Only rows with the &lt;g0&gt;Keep&lt;/g0&gt; box ticked in the first column will be included when the translation memory is created.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="lesia" changedate="20200502T052954Z" creationid="lesia" creationdate="20200502T052954Z">
+        <seg>Коли після завершення вирівнювання створюватиметься пам'ять перекладів, до неї ввійдуть лише ті пари сегментів, які відмічені галочками у першій колонці &lt;g0&gt;Вибрати&lt;/g0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Only the file &lt;f0&gt;test.html&lt;/f0&gt; in the folder &lt;f1&gt;dir-10&lt;/f1&gt; will be processed.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="maximo" changedate="20200423T160414Z" creationid="maximo" creationdate="20200423T160414Z">
