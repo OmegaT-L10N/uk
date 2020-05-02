@@ -5974,8 +5974,8 @@ Buy another drink</seg>
       <tuv lang="EN">
         <seg>Clicking on any file will open it for translation.</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="lesia" changedate="20200429T202803Z" creationid="lesia" creationdate="20200429T202803Z">
-        <seg>Якщо натиснути на будь-який файл, він відкриється для перекладу.</seg>
+      <tuv lang="UK-UA" changeid="lesia" changedate="20200502T055153Z" creationid="lesia" creationdate="20200429T202803Z">
+        <seg>Якщо натиснути на будь-який з файлів, він відкриється для перекладу.</seg>
       </tuv>
     </tu>
     <tu>
@@ -16108,8 +16108,8 @@ as the Applications folder.</seg>
       <tuv lang="EN">
         <seg>Note: filenames (in first column) can be sorted alphabetically by clicking in the header.</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="lesia" changedate="20200429T202808Z" creationid="lesia" creationdate="20200429T202808Z">
-        <seg>Зауважте: назви файлів (в першій колонці) можна розташовувати за алфавітом, якщо натиснути на заголовок колонки.</seg>
+      <tuv lang="UK-UA" changeid="lesia" changedate="20200502T055327Z" creationid="lesia" creationdate="20200429T202808Z">
+        <seg>Зауважте: назви файлів (у першій колонці) можна розташовувати за алфавітом, якщо натиснути на заголовок колонки.</seg>
       </tuv>
     </tu>
     <tu>
@@ -25634,8 +25634,8 @@ the server.</seg>
       <tuv lang="EN">
         <seg>This number is displayed in brackets, next to the "Project file" title</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="lesia" changedate="20200429T202800Z" creationid="lesia" creationdate="20200429T202800Z">
-        <seg>Кількість файлів зображена в дужках поряд із заголовком "Файли проєкту"</seg>
+      <tuv lang="UK-UA" changeid="lesia" changedate="20200502T055121Z" creationid="lesia" creationdate="20200429T202800Z">
+        <seg>Кількість файлів зазначена в дужках поряд із заголовком "Файли проєкту"</seg>
       </tuv>
     </tu>
     <tu>
