@@ -2171,8 +2171,8 @@ The current setting is {0}MB;</seg>
       <tuv lang="EN">
         <seg>&lt;e0&gt;Adding files to the project: &lt;/e0&gt;You can add source files to the project by clicking on the "&lt;g1&gt;Import Source Files..."&lt;/g1&gt; button.</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="lesia" changedate="20200429T202826Z" creationid="lesia" creationdate="20200429T202826Z">
-        <seg>&lt;e0&gt;Додавати файли до проєкту: &lt;/e0&gt;Ви можете додати файли для перекладу до проєкту, натиснувши кнопку "&lt;g1&gt;Скопіювати документи до теки з файлами для перекладу..."&lt;/g1&gt;.</seg>
+      <tuv lang="UK-UA" changeid="lesia" changedate="20200502T060526Z" creationid="lesia" creationdate="20200429T202826Z">
+        <seg>&lt;e0&gt;Додавати файли до проєкту: &lt;/e0&gt;Ви можете додати до проєкту файли для перекладу, натиснувши кнопку "&lt;g1&gt;Скопіювати документи до теки з файлами для перекладу..."&lt;/g1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -15949,8 +15949,8 @@ as the Applications folder.</seg>
       <tuv lang="EN">
         <seg>Note however that the numbers do not indicate how relevant the repetitions are: they could mean relatively long sentences repeated a number of times (in which case you are fortunate) or it could describe a table of keywords (not so fortunate).</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="lesia" changedate="20200429T202821Z" creationid="lesia" creationdate="20200429T202821Z">
-        <seg>Проте показники кількості не визначають, наскільки повторювані частини відповідають одна одній: вони можуть позначати доволі довгі речення, які повторюються кілька разів (в такому разі вам пощастило) або ряд ключових слів (в цьому випадку вам буде складніше).</seg>
+      <tuv lang="UK-UA" changeid="lesia" changedate="20200502T060335Z" creationid="lesia" creationdate="20200429T202821Z">
+        <seg>Проте показники кількості не визначають, наскільки повторювані частини відповідають одна одній: вони можуть позначати доволі довгі речення, які повторюються кілька разів (в такому разі вам пощастило) або ряд ключових слів (у цьому випадку вам буде складніше).</seg>
       </tuv>
     </tu>
     <tu>
@@ -23274,8 +23274,8 @@ current folder will be used instead.</seg>
       <tuv lang="EN">
         <seg>The &lt;f0&gt;project_stats.txt&lt;/f0&gt; located in the omegat folder of your project contains more detailed segment information, broken down by file.</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="lesia" changedate="20200429T202822Z" creationid="lesia" creationdate="20200429T202822Z">
-        <seg>Документ &lt;f0&gt;project_stats.txt&lt;/f0&gt;, який знаходиться у теці omegat вашого проєкту містить більш детальну інформацію про сегменти окремого файлу.</seg>
+      <tuv lang="UK-UA" changeid="lesia" changedate="20200502T060351Z" creationid="lesia" creationdate="20200429T202822Z">
+        <seg>Документ &lt;f0&gt;project_stats.txt&lt;/f0&gt;, який знаходиться у теці omegat вашого проєкту, містить більш детальну інформацію про сегменти окремого файлу.</seg>
       </tuv>
     </tu>
     <tu>
