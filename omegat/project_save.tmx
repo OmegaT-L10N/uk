@@ -13212,8 +13212,8 @@ click on that shortcut.</seg>
       <tuv lang="EN">
         <seg>It also possible to change the position of a filename, by clicking on it and pressing &lt;e0&gt;Move ...&lt;/e0&gt; buttons.</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="lesia" changedate="20200429T202809Z" creationid="lesia" creationdate="20200429T202809Z">
-        <seg>Можна також змінити розташування назви файлу, натиснувши на неї, а потім на кнопки &lt;e0&gt;Посунути ...&lt;/e0&gt;.</seg>
+      <tuv lang="UK-UA" changeid="lesia" changedate="20200502T055633Z" creationid="lesia" creationdate="20200429T202809Z">
+        <seg>Можна також змінити розташування назви файлу, натиснувши на неї, а потім на кнопки &lt;e0&gt;Посунути ...&lt;/e0&gt;праворуч у вікні.</seg>
       </tuv>
     </tu>
     <tu>
@@ -20148,11 +20148,12 @@ These words: 'Page not found'</seg>
       </tuv>
     </tu>
     <tu>
+      <note>замінила спливаюче на контекстне</note>
       <tuv lang="EN">
         <seg>Right-clicking on a filename opens a popup that allows to open the source file and (if it exists) the target file.</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="lesia" changedate="20200429T202810Z" creationid="lesia" creationdate="20200429T202810Z">
-        <seg>Якщо натиснути правою кнопкою миші на назву файлу, з'являється спливаюче меню, яке дозволяє відкрити файл для перекладу та  перекладений файл (якщо такий існує).</seg>
+      <tuv lang="UK-UA" changeid="lesia" changedate="20200502T055800Z" creationid="lesia" creationdate="20200429T202810Z">
+        <seg>Якщо натиснути правою кнопкою миші на назву файлу, з'являється контекстне меню, яке дозволяє відкрити файл для перекладу та перекладений файл (якщо такий існує).</seg>
       </tuv>
     </tu>
     <tu>
