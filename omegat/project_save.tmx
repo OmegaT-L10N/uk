@@ -2727,8 +2727,8 @@ The current setting is {0}MB;</seg>
       <tuv lang="EN">
         <seg>&lt;r0&gt;Note:&lt;/r0&gt; it is possible to inhibit the window displaying at opening, by setting &lt;e1&gt;project_files_show_on_load&lt;/e1&gt; to &lt;e2&gt;false&lt;/e2&gt; in &lt;f3&gt;omegat.prefs&lt;/f3&gt; file (accessible by &lt;m4&gt; &lt;g5&gt;Options&lt;/g5&gt; &lt;g6&gt;Access Configuration Folder&lt;/g6&gt; &lt;/m4&gt; menu).</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="lesia" changedate="20200429T202754Z" creationid="lesia" creationdate="20200429T202754Z">
-        <seg>&lt;r0&gt;Зауважте:&lt;/r0&gt; можна скасувати відображення вікна, коли відкривається проєкт, ввівши &lt;e1&gt;false&lt;/e1&gt; поряд з командою &lt;e2&gt;project_files_show_on_load&lt;/e2&gt; у файлі &lt;f3&gt;omegat.prefs&lt;/f3&gt; (щоб перейти до файлу, оберіть в головному меню &lt;m4&gt; &lt;g5&gt;Налаштування&lt;/g5&gt; &lt;g6&gt;Відкрити теку з налаштуваннями&lt;/g6&gt;&lt;/m4&gt;).</seg>
+      <tuv lang="UK-UA" changeid="lesia" changedate="20200502T092843Z" creationid="lesia" creationdate="20200429T202754Z">
+        <seg>&lt;r0&gt;Зауважте:&lt;/r0&gt; можна вимкнути відображення вікна, коли відкривається проєкт, ввівши &lt;e1&gt;false&lt;/e1&gt; поряд з командою &lt;e2&gt;project_files_show_on_load&lt;/e2&gt; у файлі &lt;f3&gt;omegat.prefs&lt;/f3&gt; (щоб перейти до файлу, оберіть в головному меню &lt;m4&gt; &lt;g5&gt;Налаштування&lt;/g5&gt; &lt;g6&gt;Відкрити теку з налаштуваннями&lt;/g6&gt;&lt;/m4&gt;).</seg>
       </tuv>
     </tu>
     <tu>
