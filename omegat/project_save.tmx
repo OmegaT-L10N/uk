@@ -3458,6 +3458,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>After several of these operations, select &lt;m0&gt; &lt;g1&gt;Edit&lt;/g1&gt; &lt;g2&gt;Realign pending&lt;/g2&gt; &lt;/m0&gt; to update the alignment of the other segments.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="lesia" changedate="20200502T052144Z" creationid="lesia" creationdate="20200502T052144Z">
+        <seg>Після кількох повторень цієї операції поверніться у меню &lt;m0&gt; &lt;g1&gt;Редагування&lt;/g1&gt;та натисніть &lt;g2&gt;Вирівняти поставлене у чергу&lt;/g2&gt; &lt;/m0&gt;. Вирівнювання інших сегментів буде оновлено.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>After the automatic process, the alignment of two files generally requires manual corrections.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="lesia" changedate="20200501T203722Z" creationid="lesia" creationdate="20200501T203722Z">
