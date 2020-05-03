@@ -17676,8 +17676,8 @@ installed on your system.</seg>
       <tuv lang="EN">
         <seg>Orphan segments (the match #2) describe segments in the default project translation memory that have no corresponding source segment.</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="maximo" changedate="20200503T052949Z" creationid="maximo" creationdate="20200503T052949Z">
-        <seg>Покинуті сегменти (збіг 2) показують сегменти із внутрішньої памʼяті поточного проєкту, у яких нема відповідного оригінального сегменту.</seg>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200503T052958Z" creationid="maximo" creationdate="20200503T052949Z">
+        <seg>Покинуті сегменти (збіг 2) показують сегменти із внутрішньої памʼяті поточного проєкту, у яких нема відповідного оригінального сегмента.</seg>
       </tuv>
     </tu>
     <tu>
@@ -23445,6 +23445,14 @@ current folder will be used instead.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="maximo" changedate="20200430T210534Z" creationid="maximo" creationdate="20200430T210534Z">
         <seg>Вікно редагування відображає текст частково перекладеного документа. Ті частини тексту, що вже мають переклад, відображається у перекладеному вигляді, а ті, що ще ні - мовою оригіналу.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The Glossary pane allows you to access your own collection of expressions and specialist terminology which you have built up in your glossary files.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200503T053515Z" creationid="maximo" creationdate="20200503T053515Z">
+        <seg>Панель глосарію відкриває доступ до вашої власної колекції виразів та термінології, яку ви збираєте у файли глосаріїв.</seg>
       </tuv>
     </tu>
     <tu>
