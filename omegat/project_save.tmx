@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.2_0_6a661c5e" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.2_0_6a661c5e0" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -22115,6 +22115,14 @@ The scope of a search is by default the project and can be set to be any files l
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Some of the file formats, specialized for translation work, for instance PO, allow the inclusion of comments.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200503T055821Z" creationid="maximo" creationdate="20200503T055821Z">
+        <seg>Деякі з форматів файлів, що спеціалізовані для роботи перекладача, наприклад PO, дозволяють додавати коментарі.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Some project folders seem to have been moved.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20190504T134234Z" creationid="Kos Ivantsov" creationdate="20190504T134234Z">
@@ -25073,6 +25081,14 @@ in /lib/licenses/Licenses.txt.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The target text entered after that will be treated as an alternative translation of the source segment.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200503T055441Z" creationid="maximo" creationdate="20200503T055441Z">
+        <seg>Те, що ви введете після цього у поле введення буде вважатися альтернативним перекладом поточного оригінального сегмента.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The text could not be translated</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20190807T184653Z" creationid="Kos Ivantsov" creationdate="20190807T184653Z">
@@ -26056,6 +26072,14 @@ the server.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="maximo" changedate="20200322T144826Z" creationid="maximo" creationdate="20200322T144826Z">
         <seg>Ця версія буде довше завантажуватись та займе більше місця на диску, але ви можете бути точно впевнені, що вона нормально запуститься.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This way the translator can be provided the context about the segment to be translated.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200503T055909Z" creationid="maximo" creationdate="20200503T055909Z">
+        <seg>Таким чином перекладачу можуть повідомляти контекст сегмента, який треба перекласти..</seg>
       </tuv>
     </tu>
     <tu>
@@ -29466,6 +29490,14 @@ start menu, the desktop or the quick launch area to link it from there.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="maximo" changedate="20200413T113412Z" creationid="maximo" creationdate="20200413T113337Z">
         <seg>Ви можете визначити пари «ключ-значення», які вкажуть, що вміст теґу треба лишити неперекладеним.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You can define one of the alternative - for instance the most probable among them - as default translation by selecting &lt;g1&gt;Edit → Use as Default Translation&lt;/g1&gt;</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200503T055656Z" creationid="maximo" creationdate="20200503T055656Z">
+        <seg>Ви можете назначити один із варіантів типовим: &lt;g1&gt;Редагування → Використовувати як типовий переклад&lt;/g1&gt;</seg>
       </tuv>
     </tu>
     <tu>
