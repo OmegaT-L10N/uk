@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.2_0_6a661c5e" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.2_0_6a661c5e0" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -24305,6 +24305,14 @@ in /lib/licenses/Licenses.txt.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The matching percentage is roughly equivalent to taking the number of common words in the matched and the matching segment and dividing by the number of words in the longer of the two.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200503T052206Z" creationid="maximo" creationdate="20200503T052206Z">
+        <seg>Відсоток збігу приблизно дорівнює кількості однакових слів у поточному сегменті та сегменті збігу поділених на кількість слів у довшому з них.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The memory named &lt;c5&gt;omegat&lt;/c5&gt; can be used by OmegaT itself, in future projects that you create.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20190823T145658Z" creationid="Kos Ivantsov" creationdate="20190823T145658Z">
@@ -24701,6 +24709,14 @@ in /lib/licenses/Licenses.txt.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="lesia" changedate="20200412T195757Z" creationid="lesia" creationdate="20200412T195757Z">
         <seg>Налаштування сегментації стосуються лише того, як &lt;a0&gt;OmegaT&lt;/a0&gt; опрацьовує файли оригіналу.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The selected fuzzy match is highlighted in bold, words that are missing in the segment you are translating are colored blue and words adjacent to the missing parts green.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200503T052349Z" creationid="maximo" creationdate="20200503T052349Z">
+        <seg>Обраний нечіткий збіг буде виділено жирним. Ті слова, яких нема у поточному сегменті підсвічуються синім, а сусідні до них - зеленим кольором.</seg>
       </tuv>
     </tu>
     <tu>
