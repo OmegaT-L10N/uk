@@ -11941,6 +11941,14 @@ Explorer), change the settings so that file extensions are displayed.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If you have TransTips option activated (&lt;g0&gt;Options → TransTips&lt;/g0&gt;), you can right click on the highlighted word in the source segment to open a pop-up menu with suggested translation, as offered by your glossary.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200503T054135Z" creationid="maximo" creationdate="20200503T054135Z">
+        <seg>Якщо у вас включена функція підказки перекладу (&lt;g0&gt;Options → TransTips&lt;/g0&gt;), you can right click on the highlighted word in the source segment to open a pop-up menu with suggested translation, as offered by your glossary.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If you have a natural aversion to reading instructions, and your approach to new software is to click on every button you see until something resembling the desired effect occurs, then OmegaT is probably not suitable for you.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="maximo" changedate="20200322T151634Z" creationid="maximo" creationdate="20200322T151634Z">
