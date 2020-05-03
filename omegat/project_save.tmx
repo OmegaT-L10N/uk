@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.2_0_6a661c5e0" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.2_0_6a661c5e" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -5081,6 +5081,14 @@ Buy another drink</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="maximo" changedate="20200501T202225Z" creationid="maximo" creationdate="20200501T202225Z">
         <seg>З типовими налаштуваннями текст в оригінальному сегменті не можна виділити з використанням клавіатури - лише за допомогою мишки.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>By default, scripts are stored in the &lt;f0&gt;scripts&lt;/f0&gt; folder located in the OmegaT installation folder (the folder that contains the &lt;f1&gt;OmegaT.jar&lt;/f1&gt; file).</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="lesia" changedate="20200503T060538Z" creationid="lesia" creationdate="20200503T060218Z">
+        <seg>Типово скрипти зберігаються у теці &lt;f0&gt;скрипти&lt;/f0&gt;, розміщеній у теці програми OmegaT (яка містить файл &lt;f1&gt;OmegaT.jar&lt;/f1&gt;).</seg>
       </tuv>
     </tu>
     <tu>
@@ -29432,8 +29440,8 @@ start menu, the desktop or the quick launch area to link it from there.</seg>
       <tuv lang="EN">
         <seg>You can also start the selected macros from the main menu by using their entries in the &lt;g0&gt;Tools &lt;/g0&gt;menu or by pressing&lt;k1&gt; Ctrl+Alt+F#&lt;/k1&gt; (# 1 to 12).</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="lesia" changedate="20200503T055540Z" creationid="lesia" creationdate="20200503T055540Z">
-        <seg>You can also start the selected macros from the main menu by using their entries in the &lt;g0&gt;Tools &lt;/g0&gt;menu or by pressing&lt;k1&gt; Ctrl+Alt+F#&lt;/k1&gt; (# 1 to 12).</seg>
+      <tuv lang="UK-UA" changeid="lesia" changedate="20200503T060239Z" creationid="lesia" creationdate="20200503T055540Z">
+        <seg>Ви також можете запустити вибрані макроси з головного меню, використовуючи відповідний пункт меню &lt;g0&gt;Інструменти &lt;/g0&gt;або натиснувши&lt;k1&gt; Ctrl+Alt+F#&lt;/k1&gt; (# від 1 до 12).</seg>
       </tuv>
     </tu>
     <tu>
