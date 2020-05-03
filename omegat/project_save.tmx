@@ -12569,6 +12569,14 @@ click on that shortcut.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>In the above example the source segment is &lt;e0&gt;Context menu command&lt;/e0&gt;.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200503T052428Z" creationid="maximo" creationdate="20200503T052428Z">
+        <seg>У попередньому прикладі сегмент для перекладу, це &lt;e0&gt;Context menu command&lt;/e0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>In the following window you can indicate that the language selected is to be used in OmegaT.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="maximo" changedate="20200418T125604Z" creationid="maximo" creationdate="20200418T125604Z">
@@ -21963,6 +21971,14 @@ The scope of a search is by default the project and can be set to be any files l
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>So do the next two matches, and the match #4 is similar, but different.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200503T052547Z" creationid="maximo" creationdate="20200503T052547Z">
+        <seg>Так само і два наступних збіга, а збіг 4 схожий, але відрізняється.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>So, if the user's operating system is Russian and &lt;a5&gt;OmegaT&lt;/a5&gt; has been localized in Russian, &lt;a6&gt;OmegaT&lt;/a6&gt; is displayed with a Russian user interface, Russian menus, etc.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="maximo" changedate="20200420T202942Z" creationid="maximo" creationdate="20200420T202942Z">
@@ -24949,6 +24965,14 @@ in /lib/licenses/Licenses.txt.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="maximo" changedate="20200423T183310Z" creationid="maximo" creationdate="20200423T183310Z">
         <seg>У заголовку цього діалогу можна побачити ім'я файла, в який ведеться запис. Це може бути корисно, якщо ви запускаєте кілька OmegaT паралельно.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The top match is 100%, because all words match.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200503T052455Z" creationid="maximo" creationdate="20200503T052455Z">
+        <seg>Найкращий збіг має 100%, оскільки всі слова збігаються.</seg>
       </tuv>
     </tu>
     <tu>
