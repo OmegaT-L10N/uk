@@ -6713,8 +6713,8 @@ Buy another drink</seg>
       <tuv lang="EN">
         <seg>Copies the selected files to the &lt;f0&gt;source&lt;/f0&gt; folder and reloads the project to load the new files.</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="maximo" changedate="20200425T142315Z" creationid="maximo" creationdate="20200425T142315Z">
-        <seg>Скопіювати обрані файли у теку &lt;f0&gt;source&lt;/f0&gt; та перезавантажити проєкт, щоб завантажити ці файли проекту.</seg>
+      <tuv lang="UK-UA" changeid="lesia" changedate="20200503T205534Z" creationid="maximo" creationdate="20200425T142315Z">
+        <seg>Скопіювати обрані файли у теку &lt;f0&gt;source&lt;/f0&gt; та перезавантажити проєкт, щоб завантажити ці файли проєкту.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6987,8 +6987,8 @@ Buy another drink</seg>
       <tuv lang="EN">
         <seg>Creates a local copy of a remote OmegaT project.</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="maximo" changedate="20200425T141802Z" creationid="maximo" creationdate="20200425T141802Z">
-        <seg>Створення локальної копії віддаленого проекту OmegaT.</seg>
+      <tuv lang="UK-UA" changeid="lesia" changedate="20200503T205503Z" creationid="maximo" creationdate="20200425T141802Z">
+        <seg>Створення локальної копії віддаленого проєкту OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
@@ -16773,8 +16773,8 @@ as the Applications folder.</seg>
       <tuv lang="EN">
         <seg>OmegaT automatically saves translations every 3 minutes as well as when you close the project or quit OmegaT.</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="maximo" changedate="20200425T143801Z" creationid="maximo" creationdate="20200425T143801Z">
-        <seg>OmegaT автоматично зберігає переклад кожні 3 хвилини, а також під час закриття проекту чи виходу з програми.</seg>
+      <tuv lang="UK-UA" changeid="lesia" changedate="20200503T205546Z" creationid="maximo" creationdate="20200425T143801Z">
+        <seg>OmegaT автоматично зберігає переклад кожні 3 хвилини, а також під час закриття проєкту чи виходу з програми.</seg>
       </tuv>
     </tu>
     <tu>
@@ -17753,8 +17753,8 @@ installed on your system.</seg>
       <tuv lang="EN">
         <seg>Opens a previously created project.</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="maximo" changedate="20200425T141903Z" creationid="maximo" creationdate="20200425T141903Z">
-        <seg>Відкриття попередньо створеного проекту.</seg>
+      <tuv lang="UK-UA" changeid="lesia" changedate="20200503T205522Z" creationid="maximo" creationdate="20200425T141903Z">
+        <seg>Відкриття попередньо створеного проєкту.</seg>
       </tuv>
     </tu>
     <tu>
