@@ -3773,6 +3773,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>All the languages have access to the OmegaT object model, with the project as the top object.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="lesia" changedate="20200503T063403Z" creationid="lesia" creationdate="20200503T063403Z">
+        <seg>Всі мови мають доступ до об'єктної моделі OmegaT, де проєкт є головним об'єктом.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Allo&amp;w tag editing</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20190820T164044Z" creationid="Kos Ivantsov" creationdate="20190819T112340Z">
@@ -10065,6 +10073,14 @@ provided (omegat.kaptn).</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="maximo" changedate="20200414T150333Z" creationid="maximo" creationdate="20200414T150333Z">
         <seg>Наприклад, текстові файли можуть бути розбиті по символах нового рядка, по пустих рядках або не розбиватися взагалі.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>For example, the following Groovy code snippet scans through all the segments in all the files in the current project and, if a translation exists, prints out the source and the target of the segment:</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="lesia" changedate="20200503T063557Z" creationid="lesia" creationdate="20200503T063557Z">
+        <seg>Нижче наведений приклад коду на groovy зчитує всі сегменти у всіх файлах поточного проєкту, і, якщо наявний переклад, друкує оригінал та переклад сегменту:</seg>
       </tuv>
     </tu>
     <tu>
