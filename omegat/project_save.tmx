@@ -11943,8 +11943,8 @@ Explorer), change the settings so that file extensions are displayed.</seg>
       <tuv lang="EN">
         <seg>If you have TransTips option activated (&lt;g0&gt;Options → TransTips&lt;/g0&gt;), you can right click on the highlighted word in the source segment to open a pop-up menu with suggested translation, as offered by your glossary.</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="maximo" changedate="20200503T054517Z" creationid="maximo" creationdate="20200503T054135Z">
-        <seg>Якщо у вас включена функція підказки перекладу (&lt;g0&gt;Налаштування → Підказки перекладу&lt;/g0&gt;), ви можете натиснути правою кнопкою на підсвічене слово у оригінальному сегменті. В результаті відкриється меню з варіантом перекладу з вашого глосарія.</seg>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200503T054552Z" creationid="maximo" creationdate="20200503T054135Z">
+        <seg>Якщо у вас включена функція підказки перекладу (&lt;g0&gt;Налаштування → Підказки перекладу&lt;/g0&gt;), ви можете натиснути правою кнопкою на підсвічене слово у оригінальному сегменті. В результаті відкриється меню з варіантами перекладу з вашого глосарія.</seg>
       </tuv>
     </tu>
     <tu>
@@ -21547,6 +21547,14 @@ The scope of a search is by default the project and can be set to be any files l
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Selecting one of them will insert it at the current cursor position into the target segment.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200503T054629Z" creationid="maximo" creationdate="20200503T054548Z">
+        <seg>Якщо ви виберете один з них, то він вставиться у поточну позицію в перекладеному сегменті.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Selection of alternative icons for use with OmegaT.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="lesia" changedate="20200322T155733Z" creationid="lesia" creationdate="20200322T155724Z">
@@ -29197,6 +29205,14 @@ can then launch the Kaptain launch script with:</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="maximo" changedate="20200417T080644Z" creationid="maximo" creationdate="20200417T080644Z">
         <seg>Також ви можете налаштувати різні параметри, що керують валідацією теґів, і навіть визначити власні теґи.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You can also highlight your preferred alternative in the glossary pane and insert it into the target by right clicking on the selection.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200503T054749Z" creationid="maximo" creationdate="20200503T054749Z">
+        <seg>Також ви можете виділити потрібний варіант в панелі глосарію та вставити його натиснувши праву кнопку миші.</seg>
       </tuv>
     </tu>
     <tu>
