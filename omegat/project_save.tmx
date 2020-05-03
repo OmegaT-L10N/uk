@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.2_0_6a661c5e" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.2_0_6a661c5e0" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -2225,6 +2225,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;e0&gt;Close:&lt;/e0&gt; close the window without any change.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200503T063706Z" creationid="maximo" creationdate="20200503T063706Z">
+        <seg>&lt;e0&gt;Закрити&lt;/e0&gt; - закриває вікно без змін.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;e0&gt;Compress whitespace in translated document&lt;/e0&gt;: multiple continuous whitespace characters will be converted into one single whitespace in the translated document.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="maximo" changedate="20200413T164617Z" creationid="maximo" creationdate="20200413T164617Z">
@@ -2380,8 +2388,16 @@ The current setting is {0}MB;</seg>
       <tuv lang="EN">
         <seg>&lt;e0&gt;Replace All:&lt;/e0&gt; operates replacement of all occurrences (after displaying a confirmation window where the number of occurrences is shown).</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="maximo" changedate="20200503T061609Z" creationid="maximo" creationdate="20200503T061609Z">
-        <seg>&lt;e0&gt;Замінити все&lt;/e0&gt; - operates replacement of all occurrences (after displaying a confirmation window where the number of occurrences is shown).</seg>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200503T062334Z" creationid="maximo" creationdate="20200503T061609Z">
+        <seg>&lt;e0&gt;Замінити все&lt;/e0&gt; - використовує заміну для всюди (перед тим показуючи кількість місць).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;e0&gt;Replace:&lt;/e0&gt; operates a "one by one" replacement, by the mean of buttons in the &lt;e1&gt;header of the Editor pane&lt;/e1&gt;.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200503T063219Z" creationid="maximo" creationdate="20200503T063219Z">
+        <seg>&lt;e0&gt;Замінити&lt;/e0&gt; - заміняє кожне місце окремо, з використанням кнопок у &lt;e1&gt;заголовку вікна редагування&lt;/e1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5973,6 +5989,14 @@ Buy another drink</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Click &lt;e2&gt;Replace Next&lt;/e2&gt; or &lt;e3&gt;Skip&lt;/e3&gt;, then end the replacement session with &lt;e4&gt;Finish&lt;/e4&gt;.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200503T063627Z" creationid="maximo" creationdate="20200503T063257Z">
+        <seg>Натискайте &lt;e2&gt;Замінити та перейти далі&lt;/e2&gt; чи &lt;e3&gt;Пропустити&lt;/e3&gt;, і закінчуйте сесію за допомогою кнопки &lt;e4&gt;Закінчити&lt;/e4&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Click &lt;g0&gt;Continue&lt;/g0&gt; to access the next step.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="lesia" changedate="20200501T203634Z" creationid="lesia" creationdate="20200501T203634Z">
@@ -8765,8 +8789,8 @@ Your help page not found</seg>
       <tuv lang="EN">
         <seg>Enter the new word or phrase (regular expressions are not supported) in the &lt;e0&gt;Replace with&lt;/e0&gt; box, then click one of the following options:</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="maximo" changedate="20200503T061522Z" creationid="maximo" creationdate="20200503T061522Z">
-        <seg>Введіть нове слово, чи фразу, у поле (регулярні вирази не підтримуються) в поле &lt;e0&gt;Замінити на:&lt;/e0&gt;, тоді оберіть один з параметрів:</seg>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200503T061616Z" creationid="maximo" creationdate="20200503T061522Z">
+        <seg>Введіть нове слово, чи фразу, у поле (регулярні вирази не підтримуються) в поле &lt;e0&gt;Замінити на:&lt;/e0&gt;, тоді оберіть один з варіантів:</seg>
       </tuv>
     </tu>
     <tu>
@@ -21093,6 +21117,22 @@ The scope of a search is by default the project and can be set to be any files l
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20190516T182211Z" creationid="Kos Ivantsov" creationdate="20190516T182211Z">
         <seg>Де шукати</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Search options</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200503T063709Z" creationid="maximo" creationdate="20200503T063709Z">
+        <seg>Параметри пошуку</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Search options are similar to the ones displayed in &lt;l0&gt;Search window&lt;/l0&gt;.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200503T063718Z" creationid="maximo" creationdate="20200503T063718Z">
+        <seg>Параметри пошуку такі ж, як і у розділі &lt;l0&gt;Вікно пошуку&lt;/l0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
