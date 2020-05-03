@@ -12617,6 +12617,14 @@ click on that shortcut.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>In the example below, the author of the PO file included a warning for the translator to check the length of the translation:</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200503T060034Z" creationid="maximo" creationdate="20200503T055912Z">
+        <seg>У прикладі автор файла PO додав попередження для перекладача, що треба перевірити довжину перекладу:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>In the following window you can indicate that the language selected is to be used in OmegaT.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="maximo" changedate="20200418T125604Z" creationid="maximo" creationdate="20200418T125604Z">
@@ -22117,8 +22125,8 @@ The scope of a search is by default the project and can be set to be any files l
       <tuv lang="EN">
         <seg>Some of the file formats, specialized for translation work, for instance PO, allow the inclusion of comments.</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="maximo" changedate="20200503T055821Z" creationid="maximo" creationdate="20200503T055821Z">
-        <seg>Деякі з форматів файлів, що спеціалізовані для роботи перекладача, наприклад PO, дозволяють додавати коментарі.</seg>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200503T055946Z" creationid="maximo" creationdate="20200503T055821Z">
+        <seg>Деякі з форматів файлів, що спеціалізовані для роботи перекладача, наприклад файлу PO, дозволяють додавати коментарі.</seg>
       </tuv>
     </tu>
     <tu>
@@ -22633,6 +22641,14 @@ The scope of a search is by default the project and can be set to be any files l
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20190504T131724Z" creationid="Kos Ivantsov" creationdate="20190504T131724Z">
         <seg>Статистика</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Status bar</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200503T060117Z" creationid="maximo" creationdate="20200503T060117Z">
+        <seg>Рядок стану</seg>
       </tuv>
     </tu>
     <tu>
@@ -25041,6 +25057,14 @@ in /lib/licenses/Licenses.txt.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The status bar displays work-flow related messages at the bottom of the main window.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200503T060159Z" creationid="maximo" creationdate="20200503T060159Z">
+        <seg>Рядок стану відображає повідомлення, що описують перебіг робочого процесу..</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The supported file formats are those listed in &lt;m0&gt; &lt;g1&gt;Project&lt;/g1&gt; &lt;g2&gt;Properties&lt;/g2&gt; &lt;g3&gt;File Filters&lt;/g3&gt; &lt;/m0&gt;.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="maximo" changedate="20200425T151708Z" creationid="maximo" creationdate="20200425T151638Z">
@@ -26078,8 +26102,8 @@ the server.</seg>
       <tuv lang="EN">
         <seg>This way the translator can be provided the context about the segment to be translated.</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="maximo" changedate="20200503T055909Z" creationid="maximo" creationdate="20200503T055909Z">
-        <seg>Таким чином перекладачу можуть повідомляти контекст сегмента, який треба перекласти..</seg>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200503T055915Z" creationid="maximo" creationdate="20200503T055909Z">
+        <seg>Таким чином перекладачу можуть повідомляти контекст сегмента, який треба перекласти.</seg>
       </tuv>
     </tu>
     <tu>
