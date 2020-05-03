@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.2_0_6a661c5e" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.2_0_6a661c5e0" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -1851,6 +1851,14 @@ To add files to the project, click on the Copy Files to Source Folder... button 
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>103/114</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200503T060633Z" creationid="maximo" creationdate="20200503T060633Z">
+        <seg>103/114</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>2) Increase the amount of memory available to OmegaT, by
 specifying "java -Xmx&lt;size-in-MB&gt;M -jar OmegaT.jar" on the
 command line or in the OmegaT start script;
@@ -1873,10 +1881,26 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>27/27</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200503T060533Z" creationid="maximo" creationdate="20200503T060533Z">
+        <seg>27/27</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>3. Validate your tags</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20190823T145421Z" creationid="Kos Ivantsov" creationdate="20190823T145421Z">
         <seg>3. Перевірка теґів</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>31175</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200503T060612Z" creationid="maximo" creationdate="20200503T060612Z">
+        <seg>31175</seg>
       </tuv>
     </tu>
     <tu>
@@ -1917,6 +1941,14 @@ The current setting is {0}MB;</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20190504T131958Z" creationid="Kos Ivantsov" creationdate="20190504T131958Z">
         <seg>85 % – 94 %:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>9319/16338</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200503T060537Z" creationid="maximo" creationdate="20200503T060537Z">
+        <seg>9319/16338</seg>
       </tuv>
     </tu>
     <tu>
@@ -10229,6 +10261,14 @@ provided (omegat.kaptn).</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>From a practical point of view, the most important pair of numbers is the second pair: it tells, how much you have done so far, in relation to the total or second number.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200503T060901Z" creationid="maximo" creationdate="20200503T060901Z">
+        <seg>З практичної точки зору, найбільш корисною є друга пара чисел - вона дозволяє відслідковувати ваш прогрес відносно загальної кількості, тобто другого числа.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>From auto memory</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20190807T170833Z" creationid="Kos Ivantsov" creationdate="20190807T170833Z">
@@ -13303,6 +13343,14 @@ click on that shortcut.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="maximo" changedate="20200413T170524Z" creationid="maximo" creationdate="20200413T170524Z">
         <seg>Цей документ також містить інструкцію зі встановлення.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>It also displays the number of fuzzy and glossary matches for the current segment.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200503T060408Z" creationid="maximo" creationdate="20200503T060408Z">
+        <seg>Також він відображає кількість нечітких збігів та знайдених статей глосарія для поточного сегмента.</seg>
       </tuv>
     </tu>
     <tu>
@@ -24061,6 +24109,14 @@ instead.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The counters in the lower right corner keep track of the progress of the translation (numbers in the left hand column refer to the figure above):</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200503T060531Z" creationid="maximo" creationdate="20200503T060531Z">
+        <seg>Числа у правому нижньому кутку дозволяють відслітковувати прогрес перекладу (числа у лівій колонці відповідають попередньому прикладу):</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The created target documents are located in the &lt;f0&gt;target&lt;/f0&gt; folder.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="maximo" changedate="20200425T144522Z" creationid="maximo" creationdate="20200425T144522Z">
@@ -24773,6 +24829,14 @@ in /lib/licenses/Licenses.txt.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20190821T153557Z" creationid="Kos Ivantsov" creationdate="20190821T153557Z">
         <seg>Тека проєкту ({0}) не існує та не може бути створена.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The project in the example is evidently finished, as all the unique segments have been translated.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200503T060946Z" creationid="maximo" creationdate="20200503T060946Z">
+        <seg>Проєкт із прикладу фактично завершений, оскільки всі унікальні сегменти вже були перекладені.</seg>
       </tuv>
     </tu>
     <tu>
@@ -25574,6 +25638,14 @@ the server.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="lesia" changedate="20200420T085818Z" creationid="lesia" creationdate="20200420T085122Z">
         <seg>Ця область дозволяє вводити зовнішні команди постобробки перекладених файлів (наприклад, скрипт, який переіменовує файли), які будуть ініціюватися кожен раз при натисканні команди "Створити перекладені документи".</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This bar gives the user feedback on specific operations that are in progress.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200503T060254Z" creationid="maximo" creationdate="20200503T060254Z">
+        <seg>Він дає користувачу інформацію про певні операції, які зараз виконуються.</seg>
       </tuv>
     </tu>
     <tu>
@@ -30402,6 +30474,22 @@ create its configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>number of source and target characters in the current segment</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200503T060736Z" creationid="maximo" creationdate="20200503T060641Z">
+        <seg>кількість символів у поточному сегменті для оригіналу та перекладу</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>number of unique segments - translated vs total in the project</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200503T060611Z" creationid="maximo" creationdate="20200503T060611Z">
+        <seg>кількість унікальних сегментів - перекладених та всього у проєкті</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>omegat</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20190808T092824Z" creationid="Kos Ivantsov" creationdate="20190808T092824Z">
@@ -30583,6 +30671,14 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="lesia" changedate="20200429T202758Z" creationid="lesia" creationdate="20200429T202758Z">
         <seg>загальну кількість файлів для перекладу у проєкті.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>total number of segments (including repeats) in the project</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200503T060645Z" creationid="maximo" creationdate="20200503T060633Z">
+        <seg>загальна кількість сегментів, включно з повторами</seg>
       </tuv>
     </tu>
     <tu>
