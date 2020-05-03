@@ -18,8 +18,6 @@ MyMemory	MyMemory
 note	примітка	частина інтерфейсу
 OmegaT	OmegaT	назва програми, залишається латинкою
 Preferences	Параметри	меню
-Project Files	Файли проекту
-project properties	властивості проекту
 repository	сховище
 Saving and Output	Збереження та вивід
 segment	сегмент
@@ -28,3 +26,5 @@ Source Files Folder	Тека для файлів для перекладу
 tag	теґ	tags
 TMX	TMX
 Translated Files Folder	Тека для перекладених файлів
+Project Files	Файли проєкту
+project properties	властивості проєкту
