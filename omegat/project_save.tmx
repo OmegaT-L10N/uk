@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.2_0_6a661c5e0" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.2_0_6a661c5e" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -14393,6 +14393,14 @@ itself on the first run.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Load a script into the editor by clicking its name in the list in the left-hand panel.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="lesia" changedate="20200503T055218Z" creationid="lesia" creationdate="20200503T055218Z">
+        <seg>Завантажити скрипт до редактора, обравши його ім'я на панелі ліворуч.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Loading Project</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20190820T200347Z" creationid="Kos Ivantsov" creationdate="20190820T200347Z">
@@ -20270,6 +20278,14 @@ These words: 'Page not found'</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Right-click a button from &lt;g0&gt;&lt;1&gt;&lt;/g0&gt; to &lt;g1&gt;&lt;12&gt;&lt;/g1&gt; in the bottom panel and select &lt;g2&gt;Add Script&lt;/g2&gt;.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="lesia" changedate="20200503T055434Z" creationid="lesia" creationdate="20200503T055434Z">
+        <seg>Натиснути на кнопку з цифрами від &lt;g0&gt;&lt;1&gt;&lt;/g0&gt; до &lt;g1&gt;&lt;12&gt;&lt;/g1&gt; знизу та вибрати &lt;g2&gt;Додати скрипт&lt;/g2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Right-click on the panel - &lt;e0&gt;Add New Launcher&lt;/e0&gt;.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="maximo" changedate="20200419T110635Z" creationid="maximo" creationdate="20200419T110635Z">
@@ -20797,6 +20813,14 @@ The scope of a search is by default the project and can be set to be any files l
       </tuv>
       <tuv lang="UK-UA" changeid="maximo" changedate="20200425T151816Z" creationid="maximo" creationdate="20200425T151816Z">
         <seg>Скрипти...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Scripts</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="lesia" changedate="20200503T054542Z" creationid="lesia" creationdate="20200503T054456Z">
+        <seg>Скрипти</seg>
       </tuv>
     </tu>
     <tu>
@@ -23673,6 +23697,14 @@ current folder will be used instead.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The Scripting window allows you to load an existing script into the text area and run it against the current opened project.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="lesia" changedate="20200503T054834Z" creationid="lesia" creationdate="20200503T054834Z">
+        <seg>Вікно скриптів дозволяє завантажити наявний скрипт в зону тексту та застосувати його до поточного проєкту.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The Standard version requires Java {{site.data.versions.standard.java_version}}.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="maximo" changedate="20200322T152230Z" creationid="maximo" creationdate="20200322T152230Z">
@@ -26076,6 +26108,14 @@ the server.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>This window is accessible by selecting &lt;m0&gt; &lt;g1&gt;Tools&lt;/g1&gt; &lt;g2&gt;Scripting...&lt;/g2&gt; &lt;/m0&gt;</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="lesia" changedate="20200503T054641Z" creationid="lesia" creationdate="20200503T054641Z">
+        <seg>Це вікно доступне через головне меню &lt;m0&gt; &lt;g1&gt;Інструменти&lt;/g1&gt;-&lt;g2&gt;Скрипти...&lt;/g2&gt; &lt;/m0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>This window is displayed automatically when OmegaT loads a project, and at any time by pressing &lt;m0&gt; &lt;g1&gt;Project&lt;/g1&gt; &lt;g2&gt;Project Files...&lt;/g2&gt; &lt;/m0&gt;.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="lesia" changedate="20200502T054240Z" creationid="lesia" creationdate="20200429T202752Z">
@@ -26234,6 +26274,14 @@ the server.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="maximo" changedate="20200416T212312Z" creationid="maximo" creationdate="20200416T212312Z">
         <seg>Щоб створити порожній переклад, натисніть правою кнопкою на сегмент та оберіть "&lt;e2&gt;Зробити переклад порожнім&lt;/e2&gt;".</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To customize the scripting feature, do the following:</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="lesia" changedate="20200503T054935Z" creationid="lesia" creationdate="20200503T054935Z">
+        <seg>Щоб налаштувати цю можливість, потрібно:</seg>
       </tuv>
     </tu>
     <tu>
@@ -27656,6 +27704,14 @@ on line {1}, column {2}.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Use</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="lesia" changedate="20200503T054650Z" creationid="lesia" creationdate="20200503T054650Z">
+        <seg>Використання</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Use $n to refer to the nth group.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20190517T100903Z" creationid="Kos Ivantsov" creationdate="20190517T100903Z">
@@ -28650,6 +28706,14 @@ of selecting, obtaining and installing it.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>When you left-click the number, the selected script will run.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="lesia" changedate="20200503T055619Z" creationid="lesia" creationdate="20200503T055535Z">
+        <seg>Скрипт почне виконуватися після натискання лівою клавішою миші на число.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>When you move to another segment, the translation is validated and stored.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="maximo" changedate="20200501T200658Z" creationid="maximo" creationdate="20200501T200658Z">
@@ -29314,6 +29378,14 @@ start menu, the desktop or the quick launch area to link it from there.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="maximo" changedate="20200423T161740Z" creationid="maximo" creationdate="20200423T161740Z">
         <seg>Також ви можете запустити програму напряму за допомогою команди:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You can also start the selected macros from the main menu by using their entries in the &lt;g0&gt;Tools &lt;/g0&gt;menu or by pressing&lt;k1&gt; Ctrl+Alt+F#&lt;/k1&gt; (# 1 to 12).</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="lesia" changedate="20200503T055540Z" creationid="lesia" creationdate="20200503T055540Z">
+        <seg>You can also start the selected macros from the main menu by using their entries in the &lt;g0&gt;Tools &lt;/g0&gt;menu or by pressing&lt;k1&gt; Ctrl+Alt+F#&lt;/k1&gt; (# 1 to 12).</seg>
       </tuv>
     </tu>
     <tu>
