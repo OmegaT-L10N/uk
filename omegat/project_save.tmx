@@ -9207,6 +9207,14 @@ No one hears your screams</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Except one: check &lt;e0&gt;Untranslated&lt;/e0&gt; in order to operate Search and replace also on segments that have not been translated yet.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200503T063840Z" creationid="maximo" creationdate="20200503T063840Z">
+        <seg>Окрім одного, прапорець &lt;e0&gt;Неперекладене&lt;/e0&gt; дає можливість шукати та заміняти також і в неперекладених сегментах.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Exception occurred:</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20190805T121133Z" creationid="Kos Ivantsov" creationdate="20190805T121133Z">
@@ -26706,6 +26714,14 @@ the server.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="maximo" changedate="20200420T164913Z" creationid="maximo" creationdate="20200420T164913Z">
         <seg>Щоб запустити кілька &lt;f0&gt;OmegaT.app&lt;/f0&gt; паралельно, клацніть двічі на файл &lt;e1&gt;OmegaT&lt;/e1&gt;, що розташований у теці &lt;f2&gt;OmegaT.app/Contents/MacOS/&lt;/f2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To make it possible (although Search and replace operates only on memory), OmegaT will copy the source segment to the target segment before the replace operation occurs.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200503T064016Z" creationid="maximo" creationdate="20200503T064016Z">
+        <seg>Щоб таке було можливим OmegaT тимчасово в памʼяті скопіює текст оригіналу в переклад перед операцією.</seg>
       </tuv>
     </tu>
     <tu>
