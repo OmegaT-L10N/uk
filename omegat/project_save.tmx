@@ -2362,6 +2362,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;e0&gt;Replace All:&lt;/e0&gt; operates replacement of all occurrences (after displaying a confirmation window where the number of occurrences is shown).</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200503T061609Z" creationid="maximo" creationdate="20200503T061609Z">
+        <seg>&lt;e0&gt;Замінити все&lt;/e0&gt; - operates replacement of all occurrences (after displaying a confirmation window where the number of occurrences is shown).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;e0&gt;Skip text matching regular expression&lt;/e0&gt;: any text matching the regular expression is skipped.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="maximo" changedate="20200413T112518Z" creationid="maximo" creationdate="20200413T112518Z">
@@ -8719,6 +8727,14 @@ Your help page not found</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20190821T145835Z" creationid="Kos Ivantsov" creationdate="20190821T145835Z">
         <seg>Уведіть термін мовою оригіналу, переклад терміну та коментар</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Enter the new word or phrase (regular expressions are not supported) in the &lt;e0&gt;Replace with&lt;/e0&gt; box, then click one of the following options:</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200503T061522Z" creationid="maximo" creationdate="20200503T061522Z">
+        <seg>Введіть нове слово, чи фразу, у поле (регулярні вирази не підтримуються) в поле &lt;e0&gt;Замінити на:&lt;/e0&gt;, тоді оберіть один з параметрів:</seg>
       </tuv>
     </tu>
     <tu>
@@ -17529,8 +17545,8 @@ installed on your system.</seg>
       <tuv lang="EN">
         <seg>Open the Search and replace window with &lt;k0&gt; &lt;k1&gt;Ctrl&lt;/k1&gt; &lt;k2&gt;K&lt;/k2&gt; &lt;/k0&gt; and enter the word or expression you wish to replace in the &lt;e3&gt;Search for&lt;/e3&gt; box.</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="maximo" changedate="20200503T061316Z" creationid="maximo" creationdate="20200503T061316Z">
-        <seg>Відкрийте вікно Знайти і замінити &lt;k0&gt; &lt;k1&gt;Ctrl&lt;/k1&gt; &lt;k2&gt;K&lt;/k2&gt; &lt;/k0&gt;, та надрукуйте слово чи вираз, який ви хочете замінити, у полі &lt;e3&gt;Шукати&lt;/e3&gt;.</seg>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200503T061416Z" creationid="maximo" creationdate="20200503T061316Z">
+        <seg>Відкрийте вікно Знайти і замінити &lt;k0&gt; &lt;k1&gt;Ctrl&lt;/k1&gt; &lt;k2&gt;K&lt;/k2&gt; &lt;/k0&gt;, та надрукуйте слово чи вираз, які ви хочете замінити, у полі &lt;e3&gt;Шукати&lt;/e3&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -25349,6 +25365,14 @@ in /lib/licenses/Licenses.txt.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20190516T181045Z" creationid="Kos Ivantsov" creationdate="20190516T181045Z">
         <seg>Файл глосарія для запису повинен міститися в теці для глосаріїв</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Then click on &lt;e0&gt;Search&lt;/e0&gt; button to display all the corresponding occurrences.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200503T061527Z" creationid="maximo" creationdate="20200503T061412Z">
+        <seg>Тоді натисніть кнопку &lt;e0&gt;Шукати&lt;/e0&gt;, щоб показати всі місця, де вони зустрічаються.</seg>
       </tuv>
     </tu>
     <tu>
