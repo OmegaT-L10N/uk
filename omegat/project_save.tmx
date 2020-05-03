@@ -2893,6 +2893,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>A given source segment may require several different translations, depending on the context.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200503T055238Z" creationid="maximo" creationdate="20200503T055238Z">
+        <seg>Кожен сегмент може мати кілька варіантів перекладу, залежно від контексту.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>A good starting point will always be the existing rules.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="maximo" changedate="20200416T090552Z" creationid="maximo" creationdate="20200416T090552Z">
@@ -11611,6 +11619,14 @@ their defaults as a result of the location change.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If the current translation of the segment does not fit, the user can select &lt;g0&gt;Edit → Create Alternative Translation&lt;/g0&gt;.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200503T055335Z" creationid="maximo" creationdate="20200503T055335Z">
+        <seg>Якщо поточний варіант перекладу не підходить, то можна обрати &lt;g0&gt;Редагування → Створити варіант перекладу&lt;/g0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If the documents are not available, the entry is greyed out.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="maximo" changedate="20200425T145424Z" creationid="maximo" creationdate="20200425T145424Z">
@@ -18590,6 +18606,14 @@ project without team functionality.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Press &lt;k0&gt;Ctrl+M&lt;/k0&gt; to replace the translation of the current segment with the suggested translation.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200503T055159Z" creationid="maximo" creationdate="20200503T055159Z">
+        <seg>Натисніть &lt;k0&gt;Ctrl+M&lt;/k0&gt;, щоб замінити переклад поточного сегмента на запропонований.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Press &lt;u&gt;{0}&lt;/u&gt; to go to &lt;b&gt;{1}&lt;/b&gt; suggestions.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20190819T194021Z" creationid="Kos Ivantsov" creationdate="20190819T194021Z">
@@ -24373,6 +24397,14 @@ in /lib/licenses/Licenses.txt.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="maximo" changedate="20200420T200836Z" creationid="maximo" creationdate="20200420T200836Z">
         <seg>Його відповідник у macOS, програма Terminal доступна за адресою &lt;f0&gt;Applications/Utilities&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The machine translation pane, when opened, contains the suggestions by machine translation tools for the current segment.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200503T055120Z" creationid="maximo" creationdate="20200503T055120Z">
+        <seg>У панелі машинного перекладу ви можете побачити переклади, що їх пропонують рушії машинного перекладу для поточного сегмента.</seg>
       </tuv>
     </tu>
     <tu>
