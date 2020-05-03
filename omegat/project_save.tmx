@@ -7315,6 +7315,14 @@ Buy another drink</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Dictionaries are the electronic equivalents of printed dictionaries like Merriam Webster, Duden, Larousse etc., that you may have on your desk.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200503T054921Z" creationid="maximo" creationdate="20200503T054921Z">
+        <seg>Словники - це електронні відповідники паперових словників, таких як Merriam Webster, Duden, Larousse, які ви можете мати у себе на столі.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Dictionaries in &lt;a0&gt;OmegaT&lt;/a0&gt; are based on the StarDict or on the Lingvo DSL format.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="maximo" changedate="20200329T200146Z" creationid="maximo" creationdate="20200329T200146Z">
@@ -21054,6 +21062,14 @@ The scope of a search is by default the project and can be set to be any files l
       </tuv>
       <tuv lang="UK-UA" changeid="maximo" changedate="20200412T143220Z" creationid="maximo" creationdate="20200412T143220Z">
         <seg>Налаштування шрифтів доступні у розділі Інше</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>See more about them in the chapter on &lt;l0&gt;Dictionaries&lt;/l0&gt;</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200503T055004Z" creationid="maximo" creationdate="20200503T055004Z">
+        <seg>Дивіться більш детальну інформацію про них у розділі &lt;l0&gt;Словники&lt;/l0&gt;</seg>
       </tuv>
     </tu>
     <tu>
