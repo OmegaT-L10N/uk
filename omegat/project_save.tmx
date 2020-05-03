@@ -11611,6 +11611,14 @@ their defaults as a result of the location change.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If no replacement is done to a given segment, the target segment will be “emptied”, i.e., it will remain untranslated.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200503T064213Z" creationid="maximo" creationdate="20200503T064038Z">
+        <seg>Якщо до якогось із сегментів не буде застосовано заміну, він "очиститься", тобто залишиться неперекладеним після завершення сесії заміни.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If no text has been selected, the current source segment is written to this file.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="lesia" changedate="20200425T141809Z" creationid="lesia" creationdate="20200425T141809Z">
