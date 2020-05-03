@@ -11691,6 +11691,14 @@ their defaults as a result of the location change.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If there's no file name displayed, the source is the internal project translation memory.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200503T052721Z" creationid="maximo" creationdate="20200503T052721Z">
+        <seg>Якщо імені файла нема, це означає, що збіг взято з внутрішньої памʼяті поточного проєкту.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If there's several alternative translations available for the active segment, you can label the alternative selected as the default translation.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="lesia" changedate="20200425T154017Z" creationid="lesia" creationdate="20200425T154017Z">
@@ -17662,6 +17670,14 @@ installed on your system.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20190516T185352Z" creationid="Kos Ivantsov" creationdate="20190504T130448Z">
         <seg>Покинуті сегменти</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Orphan segments (the match #2) describe segments in the default project translation memory that have no corresponding source segment.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200503T052949Z" creationid="maximo" creationdate="20200503T052949Z">
+        <seg>Покинуті сегменти (збіг 2) показують сегменти із внутрішньої памʼяті поточного проєкту, у яких нема відповідного оригінального сегменту.</seg>
       </tuv>
     </tu>
     <tu>
@@ -24269,6 +24285,14 @@ in /lib/licenses/Licenses.txt.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20190822T145313Z" creationid="Kos Ivantsov" creationdate="20190822T145313Z">
         <seg>У файлі /docs/OmegaT-license.txt названо ліцензії, за якими розповсюджується кожна бібліотека.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The line with the matching percentage also includes the name of the translation memory containing the match.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200503T052638Z" creationid="maximo" creationdate="20200503T052638Z">
+        <seg>Рядок із відсотком збігу також показує ім'я файлу памʼяті перекладів, з якої взято цей збіг.</seg>
       </tuv>
     </tu>
     <tu>
