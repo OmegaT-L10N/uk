@@ -11803,6 +11803,14 @@ their defaults as a result of the location change.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If you add new scripts there, they will appear in the list of available scripts in the &lt;g0&gt;Scripting&lt;/g0&gt; window.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="lesia" changedate="20200503T060700Z" creationid="lesia" creationdate="20200503T060700Z">
+        <seg>Якщо ви додасте туди нові скрипти, вони з'являться у списку достуних скриптів у вікні &lt;g0&gt;Скрипти&lt;/g0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If you already have a version of OmegaT installed on your PC and wish to upgrade to a more recent version, you have two options:</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="maximo" changedate="20200419T071134Z" creationid="maximo" creationdate="20200419T071134Z">
@@ -22115,6 +22123,14 @@ The scope of a search is by default the project and can be set to be any files l
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Some additional scripts can be found here: &lt;u0&gt;OmegaT Scripts&lt;/u0&gt;</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="lesia" changedate="20200503T060843Z" creationid="lesia" creationdate="20200503T060843Z">
+        <seg>Деякі додаткові скрипти можна знайти тут: &lt;u0&gt;OmegaT Scripts&lt;/u0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Some alignments still need review.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20190821T212819Z" creationid="Kos Ivantsov" creationdate="20190821T212819Z">
@@ -30164,6 +30180,14 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20190822T210421Z" creationid="Kos Ivantsov" creationdate="20190808T091330Z">
         <seg>https://sourceforge.net/p/omegat/feature-requests/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>https://sourceforge.net/projects/omegatscripts/</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="lesia" changedate="20200503T060705Z" creationid="lesia" creationdate="20200503T060705Z">
+        <seg>https://sourceforge.net/projects/omegatscripts/</seg>
       </tuv>
     </tu>
     <tu>
