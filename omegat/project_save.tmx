@@ -13460,6 +13460,14 @@ click on that shortcut.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>It shows translation of terms found in the current segment.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200503T053549Z" creationid="maximo" creationdate="20200503T053549Z">
+        <seg>Вона показує переклад понять, що були знайдені у поточному сегменті.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>It was not possible to create the script folder
 inside the configuration folder.</seg>
       </tuv>
@@ -24853,6 +24861,14 @@ in /lib/licenses/Licenses.txt.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="maximo" changedate="20200416T213357Z" creationid="maximo" creationdate="20200416T213357Z">
         <seg>Сегмент для перекладу та нечіткий збіг мусять мати однакову кількість чисел.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The source segment in the example below was “&lt;e0&gt;Context menu command&lt;/e0&gt;”, as in the Fuzzy Matches example above, and the terms shown were found in the glossaries, available (Microsoft's Term collection and Slovenian Linux User group Glossary).</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200503T053853Z" creationid="maximo" creationdate="20200503T053853Z">
+        <seg>Сегмент для перекладу у прикладі був “&lt;e0&gt;Context menu command&lt;/e0&gt;”, так само, як і в прикладі для функції нечітких збігів, а терміни були знайдені у двох доступних глосаріях (колекція термінології Microsoft та глосарій словацької групи користувачів Linux).</seg>
       </tuv>
     </tu>
     <tu>
