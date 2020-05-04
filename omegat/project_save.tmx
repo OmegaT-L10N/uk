@@ -25324,8 +25324,8 @@ in /lib/licenses/Licenses.txt.</seg>
       <tuv lang="EN">
         <seg>The source term does not have to be a single-word item, as the next example shows:</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="lesia" changedate="20200504T164745Z" creationid="lesia" creationdate="20200504T164745Z">
-        <seg>Термін оригіналу не обов'язково має бути однослівним. Він може також бути ось таким:</seg>
+      <tuv lang="UK-UA" changeid="lesia" changedate="20200504T210814Z" creationid="lesia" creationdate="20200504T164745Z">
+        <seg>Термін оригіналу не обов'язково має бути однослівним. Він може виглядати ось так:</seg>
       </tuv>
     </tu>
     <tu>
@@ -25526,6 +25526,14 @@ in /lib/licenses/Licenses.txt.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="maximo" changedate="20200414T190338Z" creationid="maximo" creationdate="20200414T190338Z">
         <seg>Ці два типи правил мають таку поведінку:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The underlined item "pop-up menu" can be found in the glossary pane as "pojavni menu".</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="lesia" changedate="20200504T165038Z" creationid="lesia" creationdate="20200504T165038Z">
+        <seg>The underlined item "pop-up menu" can be found in the glossary pane as "pojavni menu".</seg>
       </tuv>
     </tu>
     <tu>
