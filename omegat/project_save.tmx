@@ -4252,6 +4252,14 @@ The TMX file will not be loaded.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Any text, already translated and stored in those files, will appear among the fuzzy matches, if it is sufficiently similar to the text currently being translated.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="fanja9" changedate="20200504T202417Z" creationid="fanja9" creationdate="20200504T202417Z">
+        <seg>Кожен серед перекладених і збережених у цих файлах текстів може з'явитися серед часткових збігів, якщо він достатньо подібний на той текст, що перекладається зараз.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Anything after the "//" will be ignored.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="maximo" changedate="20200405T043025Z" creationid="maximo" creationdate="20200405T043025Z">
