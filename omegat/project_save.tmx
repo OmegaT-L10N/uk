@@ -25266,6 +25266,14 @@ in /lib/licenses/Licenses.txt.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The source term does not have to be a single-word item, as the next example shows:</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="lesia" changedate="20200504T164745Z" creationid="lesia" creationdate="20200504T164745Z">
+        <seg>Термін оригіналу не обов'язково має бути однослівним. Він може також бути ось таким:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The sources of the current version can be retrieved with a SVN client from the repository &lt;u0/&gt; or directly on &lt;u1&gt;SourceForge&lt;/u1&gt;.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="maximo" changedate="20200423T161541Z" creationid="maximo" creationdate="20200423T161541Z">
