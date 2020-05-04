@@ -16348,6 +16348,14 @@ as the Applications folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Note that the TMX files in the tm folder can be compressed with gzip.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="fanja9" changedate="20200504T203050Z" creationid="fanja9" creationdate="20200504T203050Z">
+        <seg>Зверніть увагу, що TMX-файли у теці tm можна зжати у форматі gzip.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Note that the key is 38 characters long.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="maximo" changedate="20200422T171544Z" creationid="maximo" creationdate="20200422T171544Z">
