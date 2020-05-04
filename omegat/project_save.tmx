@@ -17688,6 +17688,14 @@ installed on your system.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Open the project.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="fanja9" changedate="20200504T203440Z" creationid="fanja9" creationdate="20200504T203440Z">
+        <seg>Відкрий проєкт.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Open {0} Source Files</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20190421T150706Z" creationid="Kos Ivantsov" creationdate="20190420T131542Z">
@@ -19405,6 +19413,22 @@ project without team functionality.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20190820T195847Z" creationid="Kos Ivantsov" creationdate="20190820T195847Z">
         <seg>Не вдалося відправити зміни до сховища.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Put the TMX in /tm/auto.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="fanja9" changedate="20200504T203532Z" creationid="fanja9" creationdate="20200504T203532Z">
+        <seg>Помісти TMX-файл у /tm/auto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Put the TMX in /tm/enforce.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="fanja9" changedate="20200504T203426Z" creationid="fanja9" creationdate="20200504T203426Z">
+        <seg>Помісти TMX-файл у /tm/enforce.</seg>
       </tuv>
     </tu>
     <tu>
