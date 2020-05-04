@@ -13668,6 +13668,14 @@ click on that shortcut.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>It may happen, that translation memories, available in the &lt;f0&gt;tm&lt;/f0&gt; subfolder, contain segments with identical source text, but differing targets.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="fanja9" changedate="20200504T203402Z" creationid="fanja9" creationdate="20200504T203402Z">
+        <seg>Буває так, що у пам'яті перекладів, яка доступна у підтеці tm, знаходяться сегменти з ідентичним текстом джерела, але різними перекладами.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>It might also be possible to open an OmegaT project by double-clicking on an &lt;f1&gt;omegat.project&lt;/f1&gt; file.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="maximo" changedate="20200420T171326Z" creationid="maximo" creationdate="20200420T171256Z">
