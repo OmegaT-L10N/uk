@@ -24560,6 +24560,14 @@ instead.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The glossary function only finds exact matches with the glossary entry (e.g. does not find inflected forms etc.).</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="lesia" changedate="20200504T155722Z" creationid="lesia" creationdate="20200504T155722Z">
+        <seg>Функція глосарію знаходить лише точні збіги зі словниковими статтями (тобто, наприклад, флексії не розпізнаються).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The great majority of work on the OmegaT project has been completed on a voluntary basis.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="maximo" changedate="20200322T164406Z" creationid="maximo" creationdate="20200322T164406Z">
@@ -25475,8 +25483,8 @@ in /lib/licenses/Licenses.txt.</seg>
       <tuv lang="EN">
         <seg>The vocabulary entry can have a comment added.</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="lesia" changedate="20200503T205846Z" creationid="lesia" creationdate="20200503T205846Z">
-        <seg>The vocabulary entry can have a comment added.</seg>
+      <tuv lang="UK-UA" changeid="lesia" changedate="20200504T155326Z" creationid="lesia" creationdate="20200503T205846Z">
+        <seg>Також до словникової статті можна додати коментар.</seg>
       </tuv>
     </tu>
     <tu>
@@ -25491,8 +25499,8 @@ in /lib/licenses/Licenses.txt.</seg>
       <tuv lang="EN">
         <seg>The word before the = sign is the source term, and its translation is (or are) the words after =.</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="lesia" changedate="20200504T154539Z" creationid="lesia" creationdate="20200503T205816Z">
-        <seg>Слово перед знаком = це термін оригіналу, а після = зазначений його переклад.</seg>
+      <tuv lang="UK-UA" changeid="lesia" changedate="20200504T155153Z" creationid="lesia" creationdate="20200503T205816Z">
+        <seg>Термін оригіналу стоїть перед знаком =, а після = зазначений його переклад.</seg>
       </tuv>
     </tu>
     <tu>
