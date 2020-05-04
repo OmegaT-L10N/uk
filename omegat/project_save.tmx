@@ -15910,6 +15910,15 @@ as the Applications folder.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>не розумію, про що тут</note>
+      <tuv lang="EN">
+        <seg>Newly added terms will not be recognized once the changes in the text file have been saved.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="lesia" changedate="20200504T164203Z" creationid="lesia" creationdate="20200504T164203Z">
+        <seg>Терміни, які були щойно додані, не будуть розпізнані, якщо зміни в файлі тексту збережено.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN">
         <seg>Next &amp;Translated Segment</seg>
       </tuv>
