@@ -24262,6 +24262,14 @@ instead.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The contents of translation memories in the tm subfolder serve to generate suggestions for the text(s) to be translated.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="fanja9" changedate="20200504T201826Z" creationid="fanja9" creationdate="20200504T201826Z">
+        <seg>Вміст пам'яті перекладів у підтеці tm необхідний для генерування можливих варіантів перекладу тексту(ів).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The control character corresponding to x</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="maximo" changedate="20200412T045542Z" creationid="maximo" creationdate="20200412T045542Z">
