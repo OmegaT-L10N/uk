@@ -21211,8 +21211,8 @@ The scope of a search is by default the project and can be set to be any files l
       <tuv lang="EN">
         <seg>See &lt;l0&gt;How to use a team project&lt;/l0&gt; for details.</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="maximo" changedate="20200425T141853Z" creationid="maximo" creationdate="20200425T141853Z">
-        <seg>Див. &lt;l0&gt;Як використовувати командні проєкти&lt;/l0&gt; для детальнішої інформація.</seg>
+      <tuv lang="UK-UA" changeid="lesia" changedate="20200503T205615Z" creationid="maximo" creationdate="20200425T141853Z">
+        <seg>Див. &lt;l0&gt;Як використовувати командні проєкти&lt;/l0&gt; для детальнішої інформації.</seg>
       </tuv>
     </tu>
     <tu>
@@ -25473,10 +25473,26 @@ in /lib/licenses/Licenses.txt.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The vocabulary entry can have a comment added.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="lesia" changedate="20200503T205846Z" creationid="lesia" creationdate="20200503T205846Z">
+        <seg>The vocabulary entry can have a comment added.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The whole process can be steered and controlled via Tck/Tcl-based scripting.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="maximo" changedate="20200417T073709Z" creationid="maximo" creationdate="20200417T073709Z">
         <seg>Всім процесом можна керувати використовуючи скрипти на Tck/Tcl.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The word before the = sign is the source term, and its translation is (or are) the words after =.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="lesia" changedate="20200503T205816Z" creationid="lesia" creationdate="20200503T205816Z">
+        <seg>The word before the = sign is the source term, and its translation is (or are) the words after =.</seg>
       </tuv>
     </tu>
     <tu>
