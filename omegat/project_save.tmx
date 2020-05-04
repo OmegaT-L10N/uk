@@ -30778,11 +30778,12 @@ create its configuration folder.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>це підпис до скрина</note>
       <tuv lang="EN">
         <seg>multiple words entries in glossaries - example</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="lesia" changedate="20200504T165035Z" creationid="lesia" creationdate="20200504T165035Z">
-        <seg>multiple words entries in glossaries - приклад</seg>
+      <tuv lang="UK-UA" changeid="lesia" changedate="20200504T211348Z" creationid="lesia" creationdate="20200504T165035Z">
+        <seg>Стаття глосарію з терміном оригіналу із кількох слів - приклад</seg>
       </tuv>
     </tu>
     <tu>
