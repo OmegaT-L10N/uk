@@ -6296,8 +6296,8 @@ Buy another drink</seg>
       <tuv lang="EN">
         <seg>Comment fields are separated by a comma ','.</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="lesia" changedate="20200505T192737Z" creationid="lesia" creationdate="20200505T192737Z">
-        <seg>Comment fields are separated by a comma ','.</seg>
+      <tuv lang="UK-UA" changeid="lesia" changedate="20200505T192910Z" creationid="lesia" creationdate="20200505T192737Z">
+        <seg>Поле коментарів відділяється комою ','.</seg>
       </tuv>
     </tu>
     <tu>
@@ -23053,6 +23053,14 @@ The scope of a search is by default the project and can be set to be any files l
       </tuv>
       <tuv lang="UK-UA" changeid="maximo" changedate="20200417T082252Z" creationid="maximo" creationdate="20200417T082252Z">
         <seg>Рядок, що показує різницю між оригінальним текстом і текстом збігу. &lt;e0&gt; Підказка:&lt;/e0&gt; це особливо корисно, коли текст, який ви перекладаєте, змінився.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Strings can be enclosed by quotes ", which allows having a comma inside a string:</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="lesia" changedate="20200505T193056Z" creationid="lesia" creationdate="20200505T193056Z">
+        <seg>Якщо потрібно використати кому всередині запису, стрічку можна брати у лапки ":</seg>
       </tuv>
     </tu>
     <tu>
