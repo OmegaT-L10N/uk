@@ -16558,6 +16558,14 @@ as the Applications folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Note: the &lt;f0&gt;.tbx&lt;/f0&gt; output of MultiTerm seems to not be reliable (November 2013), it is better to use the &lt;f1&gt;.tab&lt;/f1&gt; output of MultiTerm instead.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="lesia" changedate="20200505T194804Z" creationid="lesia" creationdate="20200505T194804Z">
+        <seg>Зауважте: експортовані з MultiTerm файли&lt;f0&gt;.tbx&lt;/f0&gt;  не дуже надійні (станом на листопад 2013),краще, маючи справу з MultiTerm, використовувати формат&lt;f1&gt;.tab&lt;/f1&gt; .</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Note: the segment marker displays &lt;l0&gt;&lt;segment nnnn +yy more&gt; when the segment is non-unique.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="maximo" changedate="20200501T200407Z" creationid="maximo" creationdate="20200501T195217Z">
