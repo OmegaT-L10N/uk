@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.2_0_6a661c5e" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.2_0_6a661c5e0" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -17676,8 +17676,8 @@ installed on your system.</seg>
       <tuv lang="EN">
         <seg>Only integers and simple floats (using the period as a decimal character, e.g. 5.4, but not 5,4 or 54E-01) are considered.</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="maximo" changedate="20200416T213644Z" creationid="maximo" creationdate="20200416T213644Z">
-        <seg>Перетворення відбуваються тільки для цілих чисел та простих десяткових дробів (тих, що використовують крапку як розділювальний елемент, таким чином 5.4, але не 5,4 чи 54E-01) are considered.</seg>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200505T203452Z" creationid="maximo" creationdate="20200416T213644Z">
+        <seg>Перетворення відбуваються тільки для цілих чисел та простих десяткових дробів (тих, що використовують крапку як розділювальний елемент, таким чином 5.4, але не 5,4 чи 54E-01).</seg>
       </tuv>
     </tu>
     <tu>
@@ -30905,6 +30905,14 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20190822T210433Z" creationid="Kos Ivantsov" creationdate="20190808T091353Z">
         <seg>http://www.omegat.org/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>http://www.omegat.org/en/howtos/text_export.html</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200505T203520Z" creationid="maximo" creationdate="20200505T203520Z">
+        <seg>http://www.omegat.org/en/howtos/text_export.html</seg>
       </tuv>
     </tu>
     <tu>
