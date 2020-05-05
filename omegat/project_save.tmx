@@ -28261,6 +28261,14 @@ on line {1}, column {2}.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Updating a glossary file is thus rather simple: press &lt;k0&gt;Ctrl+Shift+G&lt;/k0&gt; and enter the new term, its translation and any comments you may have (ensuring you press tab between the fields) and save the file.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="lesia" changedate="20200505T200634Z" creationid="lesia" creationdate="20200505T200634Z">
+        <seg>Тож доповнення словника відбувається просто: натисніть &lt;k0&gt;Ctrl+Shift+G&lt;/k0&gt; і введіть новий термін, його переклад та за необхідності коментар (не забувайте відділяти їх табуляцією) та збережіть файл.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Upgrading OmegaT</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="maximo" changedate="20200419T070713Z" creationid="maximo" creationdate="20200419T070713Z">
