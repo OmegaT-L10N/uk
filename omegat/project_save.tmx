@@ -24465,6 +24465,14 @@ instead.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The contents of the glossary pane will be updated accordingly.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="lesia" changedate="20200505T200725Z" creationid="lesia" creationdate="20200505T200725Z">
+        <seg>Зміст вікон глосарію буде оновлено.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The contents of the target subfolder will reflect the current state of the translation, as present in the project translation memory, saved in the current &lt;e8&gt;/omegat/project_save.tmx&lt;/e8&gt;.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="fanja9" changedate="20200502T180443Z" creationid="fanja9" creationdate="20200502T175810Z">
@@ -24937,6 +24945,14 @@ in /lib/licenses/Licenses.txt.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="maximo" changedate="20200404T171120Z" creationid="maximo" creationdate="20200404T171120Z">
         <seg>Файл глосарію має бути у межах теки &lt;f2&gt;/glossary&lt;/f2&gt;, але він може також бути у глибшій теці (наприклад &lt;f3&gt;glossary/sub/glossary.txt&lt;/f3&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The location of the writable glossary file can be set in the &lt;g0&gt;Project &gt; Properties ... &lt;/g0&gt;dialog.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="lesia" changedate="20200505T200959Z" creationid="lesia" creationdate="20200505T200959Z">
+        <seg>Місце розташування файлу глосарію можна визначити, зайшовши у &lt;g0&gt;Проєкт &gt; Властивості ... &lt;/g0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
