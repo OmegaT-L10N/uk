@@ -19083,6 +19083,14 @@ project without team functionality.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Priority glossary</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="lesia" changedate="20200505T202019Z" creationid="lesia" creationdate="20200505T201829Z">
+        <seg>Пріоритетний словник</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Privacy information: OmegaT Java Web Start does not save any of your information to OmegaT's web servers.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="lesia" changedate="20200322T215046Z" creationid="maximo" creationdate="20200322T162815Z">
@@ -25353,6 +25361,14 @@ in /lib/licenses/Licenses.txt.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="maximo" changedate="20200423T155839Z" creationid="maximo" creationdate="20200423T155839Z">
         <seg>Файл TMX, що буде отриманий в результаті вирівнювання, зберігається у теці &lt;f3&gt;/omegat/&lt;/f3&gt; з іменем &lt;f4&gt;align.tmx&lt;/f4&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The results from the priority glossary (by default, glossary/glossary.txt) appear in first places in the Glossary pane and in TransTips.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="lesia" changedate="20200505T202412Z" creationid="lesia" creationdate="20200505T202008Z">
+        <seg>Результати з пріоритетного словника (типово це glossary/glossary.txt) з'являються у вікні "Глосарій" та в  "Підказках перекладу".</seg>
       </tuv>
     </tu>
     <tu>
