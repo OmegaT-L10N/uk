@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.2_0_6a661c5e0" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.2_0_6a661c5e" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -9683,6 +9683,14 @@ Gossamer threads hold you back
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>File format</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="lesia" changedate="20200505T191645Z" creationid="lesia" creationdate="20200505T191645Z">
+        <seg>Формат файлів</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>File formats that do not specify their encoding will use the encoding you set up for the extension that matches their name.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="maximo" changedate="20200413T184816Z" creationid="maximo" creationdate="20200413T184816Z">
@@ -10681,6 +10689,14 @@ provided (omegat.kaptn).</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20190821T145913Z" creationid="Kos Ivantsov" creationdate="20190821T145913Z">
         <seg>Файл глосарія: {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Glossary files are simple plain text files containing three-column, tab-delimited lists with the source and target terms in the first and second columns respectively.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="lesia" changedate="20200505T191944Z" creationid="lesia" creationdate="20200505T191944Z">
+        <seg>Файли глосарію - це прості текстові файли, у яких терміни мов оригіналу та перекладу сформовані у колонки, відділені одна від одної табуляцією. Перша колонка містить термін оригіналу, друга - перекладу.</seg>
       </tuv>
     </tu>
     <tu>
@@ -25509,6 +25525,14 @@ in /lib/licenses/Licenses.txt.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The third column can be used for additional information.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="lesia" changedate="20200505T192034Z" creationid="lesia" creationdate="20200505T192026Z">
+        <seg>У третій колонці можна зазначати додаткову інформацію.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The title of the dialog reflects the file actually used (which depends on how many instances of OmegaT are running concurrently).</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="maximo" changedate="20200423T183310Z" creationid="maximo" creationdate="20200423T183310Z">
@@ -29979,6 +30003,14 @@ start menu, the desktop or the quick launch area to link it from there.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="maximo" changedate="20200321T120852Z" creationid="maximo" creationdate="20200321T120852Z">
         <seg>Перейдіть на &lt;a0&gt;головну сторінку&lt;/a0&gt;. Спробуйте пошукати те, що вам треба, починаючи звідти.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You can have entries with the target column missing, i.e. just containing the source term and the comment.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="lesia" changedate="20200505T192330Z" creationid="lesia" creationdate="20200505T192030Z">
+        <seg>Друга колонка може бути порожньою, тобто, можна додавати у глосарій термін без перекладу, лише з коментарем.</seg>
       </tuv>
     </tu>
     <tu>
