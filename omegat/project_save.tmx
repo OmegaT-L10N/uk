@@ -11170,6 +11170,14 @@ Its winter has come</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>How to create glossaries</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="lesia" changedate="20200505T194834Z" creationid="lesia" creationdate="20200505T194834Z">
+        <seg>Як створити глосарії</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>How to download and install dictionaries</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="maximo" changedate="20200329T200137Z" creationid="maximo" creationdate="20200329T200137Z">
@@ -25217,6 +25225,14 @@ in /lib/licenses/Licenses.txt.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="maximo" changedate="20200503T060946Z" creationid="maximo" creationdate="20200503T060946Z">
         <seg>Проєкт із прикладу фактично завершений, оскільки всі унікальні сегменти вже були перекладені.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The project setting allows one to enter a name for a writable glossary file (see beginning of this chapter).</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="lesia" changedate="20200505T195242Z" creationid="lesia" creationdate="20200505T195242Z">
+        <seg>Налаштування проєкту дають можливість ввести ім'я для файлу глосарію, у який можна буде дописувати терміни (детільніше на початку розділу).</seg>
       </tuv>
     </tu>
     <tu>
