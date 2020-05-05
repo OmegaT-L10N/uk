@@ -3901,6 +3901,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Also supported is the CSV format.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="lesia" changedate="20200505T192519Z" creationid="lesia" creationdate="20200505T192519Z">
+        <seg>Також підтримується і формат CSV.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Alt+F2</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20190516T205915Z" creationid="Kos Ivantsov" creationdate="20190516T205915Z">
@@ -6282,6 +6290,14 @@ Buy another drink</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20190807T150205Z" creationid="Kos Ivantsov" creationdate="20190807T150205Z">
         <seg>Коментар</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Comment fields are separated by a comma ','.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="lesia" changedate="20200505T192737Z" creationid="lesia" creationdate="20200505T192737Z">
+        <seg>Comment fields are separated by a comma ','.</seg>
       </tuv>
     </tu>
     <tu>
@@ -26165,6 +26181,14 @@ the server.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="lesia" changedate="20200420T090139Z" creationid="lesia" creationdate="20200420T090139Z">
         <seg>Ці зовнішні команди не підтримують синтаксис шеллу, саме тому рекомендується користуватися скриптами.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This format is the same as the tab separated one: source term, target term.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="lesia" changedate="20200505T192748Z" creationid="lesia" creationdate="20200505T192715Z">
+        <seg>У такому випадку формат не відрізняється від файлу з табуляцією - термін оригіналу, термін мовою перекладу.</seg>
       </tuv>
     </tu>
     <tu>
