@@ -24861,6 +24861,14 @@ in /lib/licenses/Licenses.txt.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The location of the &lt;f0&gt;.tbx&lt;/f0&gt; file must be within the &lt;f1&gt;/glossary&lt;/f1&gt; folder, but it can be in a deeper folder (e.g., &lt;f2&gt;glossary/sub/MyGlossary.tbx&lt;/f2&gt;).</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="lesia" changedate="20200505T193648Z" creationid="lesia" creationdate="20200505T193648Z">
+        <seg>Файл &lt;f0&gt;.tbx&lt;/f0&gt; повинен бути розміщений у теці &lt;f1&gt;/glossary&lt;/f1&gt;, однак, він може лежати в одній із її підтек (наприклад, &lt;f2&gt;glossary/sub/MyGlossary.tbx&lt;/f2&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The location of the file must be within the &lt;f2&gt;/glossary&lt;/f2&gt; folder, but it can be in a deeper folder (e.g., &lt;f3&gt;glossary/sub/glossary.txt&lt;/f3&gt;).</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="maximo" changedate="20200404T171120Z" creationid="maximo" creationdate="20200404T171120Z">
