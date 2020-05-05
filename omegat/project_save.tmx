@@ -2965,6 +2965,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>A dialog opens, allowing you to enter the source term, target term and any comments you may have:</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="lesia" changedate="20200505T195625Z" creationid="lesia" creationdate="20200505T195625Z">
+        <seg>Відкриється діалог, у якому можна буде додати термін оригіналу, перекладу та, якщо потрібно, коментар.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>A digit: [0-9]</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="maximo" changedate="20200412T050929Z" creationid="maximo" creationdate="20200412T050929Z">
@@ -20645,6 +20653,14 @@ These words: 'Page not found'</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="lesia" changedate="20200503T055434Z" creationid="lesia" creationdate="20200503T055434Z">
         <seg>Натиснути на кнопку з цифрами від &lt;g0&gt;&lt;1&gt;&lt;/g0&gt; до &lt;g1&gt;&lt;12&gt;&lt;/g1&gt; знизу та вибрати &lt;g2&gt;Додати скрипт&lt;/g2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Right-click in the glossary pane or press &lt;k0&gt;Ctrl+Shift+G&lt;/k0&gt; to add a new entry.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="lesia" changedate="20200505T195445Z" creationid="lesia" creationdate="20200505T195445Z">
+        <seg>Щоб додати новий термін, натисни правою кнопкою миші у вікні глосарію (або комбінацію клавіш  &lt;k0&gt;Ctrl+Shift+G&lt;/k0&gt;).</seg>
       </tuv>
     </tu>
     <tu>
