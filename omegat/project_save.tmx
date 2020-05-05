@@ -16742,6 +16742,14 @@ as the Applications folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Of course, the encoding must be compatible with both the languages contained, so Unicode is recommended.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="lesia" changedate="20200505T192455Z" creationid="lesia" creationdate="20200505T192455Z">
+        <seg>Звісно, кодування має бути сумісне з обома робоичим мовами, тож ми рекомендуємо використовувати Unicode.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Often documents will also have tags that have nothing to do with formatting, but which are also important in the source files (and in the translated files).</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20190822T151758Z" creationid="Kos Ivantsov" creationdate="20190822T151758Z">
@@ -24488,6 +24496,14 @@ instead.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="maximo" changedate="20200322T155705Z" creationid="maximo" creationdate="20200322T155705Z">
         <seg>Завантаження пройде швидше, і програма займе менше місця на диску.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The encoding of glossaries is determined automatically.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="lesia" changedate="20200505T192401Z" creationid="lesia" creationdate="20200505T192401Z">
+        <seg>Кодування глосарію визначається автоматично.</seg>
       </tuv>
     </tu>
     <tu>
