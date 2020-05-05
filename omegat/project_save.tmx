@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.2_0_6a661c5e0" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.2_0_6a661c5e" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -6394,6 +6394,14 @@ Buy another drink</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20190504T102503Z" creationid="Kos Ivantsov" creationdate="20190504T102503Z">
         <seg>Фіксація перекладених файлів</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Common glossary problems</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="lesia" changedate="20200505T202807Z" creationid="lesia" creationdate="20200505T202807Z">
+        <seg>Типові проблеми, що виникають під час користування глосарієм</seg>
       </tuv>
     </tu>
     <tu>
@@ -16185,6 +16193,14 @@ as the Applications folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>No glossary file found in the "glossary" folder.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="lesia" changedate="20200505T203006Z" creationid="lesia" creationdate="20200505T203006Z">
+        <seg>Файл глосарію не знайдено у теці "glossary".</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>No match:</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20190504T132028Z" creationid="Kos Ivantsov" creationdate="20190504T132028Z">
@@ -19127,6 +19143,14 @@ project without team functionality.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20190504T124333Z" creationid="Kos Ivantsov" creationdate="20190504T124333Z">
         <seg>Проблема під час завантаження файлу проєкту!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Problem: No glossary terms are displayed - possible causes:</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="lesia" changedate="20200505T202933Z" creationid="lesia" creationdate="20200505T202933Z">
+        <seg>Проблема: записи глосарію не відображуються. Можливі причини:</seg>
       </tuv>
     </tu>
     <tu>
