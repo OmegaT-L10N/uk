@@ -22382,6 +22382,23 @@ The scope of a search is by default the project and can be set to be any files l
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>So it is probably faster to type the term correctly right away without bothering with the glossary and its shortcuts.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="lesia" changedate="20200505T191630Z" creationid="lesia" creationdate="20200505T191630Z">
+        <seg>Тож можливо буде швидше просто надрукувати термін у правильній формі, ніж длубатися зі словником. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>це стосується нелокалізованого скрина</note>
+      <tuv lang="EN">
+        <seg>So the inserted "pojavni meni" in the nominative form - has to be changed to "pojavnem meniju" , i.e. to the locative.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="lesia" changedate="20200505T191146Z" creationid="lesia" creationdate="20200505T191146Z">
+        <seg>So the inserted "pojavni meni" in the nominative form - has to be changed to "pojavnem meniju" , i.e. to the locative.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>So, if the user's operating system is Russian and &lt;a5&gt;OmegaT&lt;/a5&gt; has been localized in Russian, &lt;a6&gt;OmegaT&lt;/a6&gt; is displayed with a Russian user interface, Russian menus, etc.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="maximo" changedate="20200420T202942Z" creationid="maximo" creationdate="20200420T202942Z">
