@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.2_0_6a661c5e0" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.2_0_6a661c5e" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -1815,6 +1815,14 @@ To add files to the project, click on the Copy Files to Source Folder... button 
       </tuv>
       <tuv lang="UK-UA" changeid="maximo" changedate="20200322T171544Z" creationid="maximo" creationdate="20200322T171544Z">
         <seg>...та близько 30 інших форматів файлів</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>...but the same characters are displayed properly in the Editing pane: the extension and the file encoding do not match.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="lesia" changedate="20200505T203948Z" creationid="lesia" creationdate="20200505T203721Z">
+        <seg>...хоча ті ж символи нормально відображуються: the extension and the file encoding do not match.</seg>
       </tuv>
     </tu>
     <tu>
@@ -17618,6 +17626,14 @@ installed on your system.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>One or more of the above problems may have been fixed, but the project has not been reloaded.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="lesia" changedate="20200505T203718Z" creationid="lesia" creationdate="20200505T203710Z">
+        <seg>Одна чи кілька проблем, описаних вище, можливо, вже була виправлена, однак, ви не перезавантажили проєкт.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>One reason for this is that the desired function may already have been implemented, or that there may be reasons why it cannot be implemented.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="lesia" changedate="20200323T102118Z" creationid="lesia" creationdate="20200322T131202Z">
@@ -19143,6 +19159,14 @@ project without team functionality.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20190504T124333Z" creationid="Kos Ivantsov" creationdate="20190504T124333Z">
         <seg>Проблема під час завантаження файлу проєкту!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Problem: In the glossary pane, some characters are not displayed properly</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="lesia" changedate="20200505T203852Z" creationid="lesia" creationdate="20200505T203712Z">
+        <seg>Проблема: у вікні глосарію деякі символи не відображуються нормально</seg>
       </tuv>
     </tu>
     <tu>
