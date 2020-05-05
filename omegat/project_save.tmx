@@ -23313,6 +23313,14 @@ The scope of a search is by default the project and can be set to be any files l
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>TBX - Term Base eXchange - is the open, XML-based standard for exchanging structured terminological data, TBX has been approved as an international standard by LISA and ISO.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="lesia" changedate="20200505T194034Z" creationid="lesia" creationdate="20200505T194034Z">
+        <seg>TBX - Term Base eXchange - вільний, базований на XML стандарт для обміну структурованими термінологічними даними, TBX визнаний міжнародним стандартом LISA and ISO.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>TKount text counting utility.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="lesia" changedate="20200322T155030Z" creationid="lesia" creationdate="20200322T155030Z">
@@ -30673,6 +30681,14 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20190808T092736Z" creationid="Kos Ivantsov" creationdate="20190808T092736Z">
         <seg>http://omegat.sourceforge.net/webstart/OmegaT.jnlp</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>http://www.microsoft.com/Language/en-US/Terminology.aspx</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="lesia" changedate="20200505T193700Z" creationid="lesia" creationdate="20200505T193700Z">
+        <seg>http://www.microsoft.com/Language/en-US/Terminology.aspx</seg>
       </tuv>
     </tu>
     <tu>
