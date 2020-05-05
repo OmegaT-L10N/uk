@@ -54,6 +54,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>"This is a source term, which contains a comma","c'est un terme, qui contient une virgule"</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="lesia" changedate="20200505T193210Z" creationid="lesia" creationdate="20200505T193210Z">
+        <seg>"This is a source term, which contains a comma","це термін, що містить кому"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>"Unable to enumerate Java directory contents.";</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="maximo" changedate="20200404T170213Z" creationid="maximo" creationdate="20200404T170213Z">
@@ -12566,6 +12574,14 @@ click on that shortcut.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="lesia" changedate="20200420T160206Z" creationid="lesia" creationdate="20200420T160206Z">
         <seg>За цією ж схемою можна створити і специфічні для проєкту Фільтри файлів, які зберігатимуться разом з конкретним проєктом та будуть діяти лише для нього.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>In addition to the plain text format, TBX format is also supported as a read-only glossary format.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="lesia" changedate="20200505T193347Z" creationid="lesia" creationdate="20200505T193347Z">
+        <seg>Крім формату простого тексту підтримується також і формат TBX, однак, лише для читання - додавати нові терміни в файли TBX не можна.</seg>
       </tuv>
     </tu>
     <tu>
