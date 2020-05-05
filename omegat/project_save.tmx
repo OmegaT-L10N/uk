@@ -4433,6 +4433,14 @@ may experience unexpected, but correct behaviour.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>As entries can mix words from priority and non priority glossaries, the words from the priority glossary are displayed in bold.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="lesia" changedate="20200505T202731Z" creationid="lesia" creationdate="20200505T202731Z">
+        <seg>Записи із пріоритетного та непріоритетного словників можуть відображуватися у вікні глосарію змішано, тож для зручності слова із пріоритетного виділені напівжирним шрифтом.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>As its name suggests, the "Latest" version of Omegat is more up to date.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="maximo" changedate="20200322T145617Z" creationid="maximo" creationdate="20200322T145457Z">
