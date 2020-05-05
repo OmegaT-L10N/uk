@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.2_0_6a661c5e" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.2_0_6a661c5e0" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -2035,8 +2035,8 @@ The current setting is {0}MB;</seg>
       <tuv lang="EN">
         <seg>&lt;a0&gt;OmegaT&lt;/a0&gt; first parses the text for structure-level segmentation.</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="maximo" changedate="20200414T145141Z" creationid="maximo" creationdate="20200414T145141Z">
-        <seg>Спочатку &lt;a0&gt;OmegaT&lt;/a0&gt; парсить текст, виділяючи структурні елементи.</seg>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200505T203030Z" creationid="maximo" creationdate="20200414T145141Z">
+        <seg>Спочатку &lt;a0&gt;OmegaT&lt;/a0&gt; аналізує текст з точки зору структури.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8369,8 +8369,8 @@ project_save.tmx не був переданий на віддалений сер
       <tuv lang="EN">
         <seg>During this process it is only the structure of the source file that is used to produce segments.</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="maximo" changedate="20200414T150203Z" creationid="maximo" creationdate="20200414T150203Z">
-        <seg>Під час цього сегментація відбувається лише по структурних елементах файлу для перекладу.</seg>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200505T203049Z" creationid="maximo" creationdate="20200414T150203Z">
+        <seg>Під час цього сегментація відбувається лише по структурних елементах.</seg>
       </tuv>
     </tu>
     <tu>
