@@ -2893,6 +2893,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;u0&gt;Microsoft Terminology Collection&lt;/u0&gt; can be downloaded in nearly 100 languages and can serve as a cornerstone IT glossary.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="lesia" changedate="20200505T194506Z" creationid="lesia" creationdate="20200505T194506Z">
+        <seg>&lt;u0&gt;Microsoft Terminology Collection&lt;/u0&gt; можна завантажити майже 100 мовами світу та використовувати як основу для перекладів у галузі IT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>===============</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20190422T210916Z" creationid="Kos Ivantsov" creationdate="20190422T210912Z">
@@ -12220,6 +12228,14 @@ to use Java Web Start.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="maximo" changedate="20200411T135721Z" creationid="maximo" creationdate="20200411T135721Z">
         <seg>Якщо ви вже переклали великий шмат тексту і раптом зрозуміли, що код цільової мови не збігається із кодом орфографічного словника (наприклад, ви вказали pt_BR як цільову мову, але словників pt_BR нема) ви можете просто скопіювати відповідні файли та перейменувати їх: &lt;e0&gt;pt_PT.aff&lt;/e0&gt; та &lt;e1&gt;pt_PT.dic&lt;/e1&gt; у, відповідно, &lt;e2&gt;pt_BR.aff&lt;/e2&gt; та &lt;e3&gt;pt_BR.dic&lt;/e3&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If you have an existing terminology handling system it is quite possible it offers the export of terminology data via TBX format.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="lesia" changedate="20200505T194217Z" creationid="lesia" creationdate="20200505T194217Z">
+        <seg>Якщо у вас є система роботи з термінологією, дуже ймовірно, що вона експортує дані саме в форматі TBX.</seg>
       </tuv>
     </tu>
     <tu>
