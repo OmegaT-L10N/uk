@@ -2362,6 +2362,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;e0&gt;Note: &lt;/e0&gt;Of course there are other ways and means to create a simple file with tab delimited entries.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="lesia" changedate="20200505T201251Z" creationid="lesia" creationdate="20200505T201251Z">
+        <seg>&lt;e0&gt;Зауважте: &lt;/e0&gt;звісно, є інші шляхи та засоби створення простого файлу із записами, розділеними табуляцією.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;e0&gt;Power Point&lt;/e0&gt;: slide comments, slide masters, slide layouts</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="maximo" changedate="20200413T114139Z" creationid="maximo" creationdate="20200413T114139Z">
@@ -24951,8 +24959,8 @@ in /lib/licenses/Licenses.txt.</seg>
       <tuv lang="EN">
         <seg>The location of the writable glossary file can be set in the &lt;g0&gt;Project &gt; Properties ... &lt;/g0&gt;dialog.</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="lesia" changedate="20200505T200959Z" creationid="lesia" creationdate="20200505T200959Z">
-        <seg>Місце розташування файлу глосарію можна визначити, зайшовши у &lt;g0&gt;Проєкт &gt; Властивості ... &lt;/g0&gt;.</seg>
+      <tuv lang="UK-UA" changeid="lesia" changedate="20200505T201104Z" creationid="lesia" creationdate="20200505T200959Z">
+        <seg>Місце розташування файлу глосарію, до якого вноситимуться зміни, можна вибрати, зайшовши у &lt;g0&gt;Проєкт &gt; Властивості ... &lt;/g0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -25297,6 +25305,14 @@ in /lib/licenses/Licenses.txt.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="maximo" changedate="20200423T133835Z" creationid="maximo" creationdate="20200423T133835Z">
         <seg>OmegaT можна використовувати як перекладацький інструмент у скриптах.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The recognized extensions are &lt;f1&gt;TXT&lt;/f1&gt; and &lt;f2&gt;UTF8&lt;/f2&gt;</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="lesia" changedate="20200505T201128Z" creationid="lesia" creationdate="20200505T201128Z">
+        <seg>Підтримуються два розширення - &lt;f1&gt;TXT&lt;/f1&gt; та &lt;f2&gt;UTF8&lt;/f2&gt;</seg>
       </tuv>
     </tu>
     <tu>
