@@ -11048,6 +11048,15 @@ Its winter has come</seg>
       </tuv>
     </tu>
     <tu>
+      <note>помилка - inserts</note>
+      <tuv lang="EN">
+        <seg>Highlighting it in the Glossary pane and then rightclicking insets at the cursor position in the target segment.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="lesia" changedate="20200505T190906Z" creationid="lesia" creationdate="20200505T190906Z">
+        <seg>Якщо виділити слово у вікні глосарію та клікнути правою кнопкою миші, слово вставиться на місце курсора в сегменті перекладу.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN">
         <seg>Hints</seg>
       </tuv>
