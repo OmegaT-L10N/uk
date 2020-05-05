@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.2_0_6a661c5e0" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.2_0_6a661c5e" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -24868,6 +24868,30 @@ instead.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The glossary file does not have the correct encoding.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="lesia" changedate="20200505T203527Z" creationid="lesia" creationdate="20200505T203523Z">
+        <seg>Файл глосарію має неправильне кодування.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The glossary file does not have the correct extension (.tab, .utf8 or .txt).</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="lesia" changedate="20200505T203139Z" creationid="lesia" creationdate="20200505T203139Z">
+        <seg>Файл глосарію має неправильне розширення (.tab, .utf8 чи .txt).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The glossary file is empty.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="lesia" changedate="20200505T203023Z" creationid="lesia" creationdate="20200505T203023Z">
+        <seg>Файл глосарію порожній.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The glossary function only finds exact matches with the glossary entry (e.g. does not find inflected forms etc.).</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="lesia" changedate="20200504T155722Z" creationid="lesia" creationdate="20200504T155722Z">
@@ -24926,6 +24950,14 @@ in the quick launch area.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="maximo" changedate="20200425T143853Z" creationid="maximo" creationdate="20200425T143853Z">
         <seg>Інтервал між збереженнями можна змінити у діалозі &lt;l0&gt;&lt;m1&gt; &lt;g2&gt;Налаштування&lt;/g2&gt; &lt;g3&gt;Параметри&lt;/g3&gt; &lt;g4&gt;Збереження та вивід&lt;/g4&gt; &lt;/m1&gt;&lt;/l0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The items are not separated with a TAB character.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="lesia" changedate="20200505T203108Z" creationid="lesia" creationdate="20200505T203108Z">
+        <seg>Колонки у словнику не розділені табуляцією.</seg>
       </tuv>
     </tu>
     <tu>
@@ -25950,6 +25982,14 @@ in /lib/licenses/Licenses.txt.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>There are no terms in the current segment which match any terms in the glossary.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="lesia" changedate="20200505T203609Z" creationid="lesia" creationdate="20200505T203525Z">
+        <seg>В актуальному сегменті немає термінів, записаних до глосарію</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>There are two strategies for segments that contain only such invariable text.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="maximo" changedate="20200416T213929Z" creationid="maximo" creationdate="20200416T213929Z">
@@ -25970,6 +26010,14 @@ in /lib/licenses/Licenses.txt.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="lesia" changedate="20200324T172414Z" creationid="lesia" creationdate="20200322T130807Z">
         <seg>Але й користувачі можуть пропонувати потрібні їм зміни і впливати на розвиток програми. Для цього є кілька можливостей.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>There is no EXACT match between the glossary entry and the source text in your document - for instance plurals.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="lesia" changedate="20200505T203457Z" creationid="lesia" creationdate="20200505T203457Z">
+        <seg>Між термінами сегменту чи тексту, який ви наразі перекладаєте, та записом у глосарії немає ПОВНОЇ відповідності. Наприклад, в глосарії стоїть однина, а у вашому тексті - множина. Як зазначено вище, глосарій не підтримує флексій.</seg>
       </tuv>
     </tu>
     <tu>
