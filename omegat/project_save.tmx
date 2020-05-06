@@ -16598,6 +16598,14 @@ as the Applications folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Note: if TMX is removed from /tm/auto before step 3, no extra Translation Unit is added.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="fanja9" changedate="20200506T211330Z" creationid="fanja9" creationdate="20200506T211330Z">
+        <seg>Примітка: якщо TMX is removed from /tm/auto before step 3, no extra Translation Unit is added.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Note: not all filters allow you to select an encoding.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20190805T183456Z" creationid="Kos Ivantsov" creationdate="20190805T183456Z">
@@ -17860,8 +17868,8 @@ installed on your system.</seg>
       <tuv lang="EN">
         <seg>Open the project.</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="fanja9" changedate="20200504T203440Z" creationid="fanja9" creationdate="20200504T203440Z">
-        <seg>Відкрий проєкт.</seg>
+      <tuv lang="UK-UA" changeid="fanja9" changedate="20200506T071443Z" creationid="fanja9" creationdate="20200504T203440Z">
+        <seg>Відкрийте проєкт.</seg>
       </tuv>
     </tu>
     <tu>
