@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.2_0_6a661c5e" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.2_0_6a661c5e0" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -5439,8 +5439,8 @@ Buy another drink</seg>
       <tuv lang="EN">
         <seg>Change how fuzzy matches are displayed, through the use of pre-configured variables:</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="maximo" changedate="20200417T081930Z" creationid="maximo" creationdate="20200417T081930Z">
-        <seg>Змініть як показувати нечіткі збіги. В шаблоні доступні такі змінні:</seg>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200510T172244Z" creationid="maximo" creationdate="20200417T081930Z">
+        <seg>Налаштуйте як показувати нечіткі збіги. В шаблоні доступні такі змінні:</seg>
       </tuv>
     </tu>
     <tu>
@@ -12248,8 +12248,8 @@ Explorer), change the settings so that file extensions are displayed.</seg>
       <tuv lang="EN">
         <seg>If you have a powerful machine, and/or if you don't like how the scrollbar behaves during progressive loading, you can increase this number.</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="maximo" changedate="20200417T080352Z" creationid="maximo" creationdate="20200417T080352Z">
-        <seg>Якщо у вас потужна машина та/або вам не подобається як себе поводить полоса прокручування під час динамічного підвантажування, ви можете збільшити це число.</seg>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200510T172011Z" creationid="maximo" creationdate="20200417T080352Z">
+        <seg>Якщо у вас потужний комп'ютер та/або вам не подобається як себе поводить полоса прокручування під час динамічного підвантажування, ви можете збільшити це число.</seg>
       </tuv>
     </tu>
     <tu>
@@ -16648,8 +16648,8 @@ as the Applications folder.</seg>
       <tuv lang="EN">
         <seg>Note: these two instructions can be combined by writing &lt;u0&gt;(&lt;.*?&gt;)|(\d+)&lt;/u0&gt;.</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="maximo" changedate="20200417T081110Z" creationid="maximo" creationdate="20200417T081110Z">
-        <seg>Зверніть увагу, що цих два вирази можна об'єднати: &lt;u0&gt;(&lt;.*?&gt;)|(\d+)&lt;/u0&gt;.</seg>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200510T172131Z" creationid="maximo" creationdate="20200417T081110Z">
+        <seg>Зверніть увагу, що ці два вирази можна об'єднати: &lt;u0&gt;(&lt;.*?&gt;)|(\d+)&lt;/u0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -24473,8 +24473,8 @@ Please try to correct the error and reload the project.</seg>
       <tuv lang="EN">
         <seg>The check boxes in the lower half of the dialog window serve the following purpose:</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="maximo" changedate="20200416T213058Z" creationid="maximo" creationdate="20200416T213058Z">
-        <seg>Прапорці в нижній половині діалогового вікна дмають такі ролі:</seg>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200510T171306Z" creationid="maximo" creationdate="20200416T213058Z">
+        <seg>Прапорці в нижній половині діалогового вікна мають такі ролі:</seg>
       </tuv>
     </tu>
     <tu>
