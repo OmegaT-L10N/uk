@@ -24782,8 +24782,8 @@ instead.</seg>
       <tuv lang="EN">
         <seg>The file does not need to exist when setting it, it will be created (if necessary) when adding a glossary entry.</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="maximo" changedate="20200404T171258Z" creationid="maximo" creationdate="20200404T171258Z">
-        <seg>Файл може не існувати тоді, коли його вказують у властивостях проєкту. У цьому випадку він буде створений коли ви додасте перший запис у глосарій.</seg>
+      <tuv lang="UK-UA" changeid="lesia" changedate="20200510T152745Z" creationid="maximo" creationdate="20200404T171258Z">
+        <seg>Цього файлу може і не бути на той момент, коли його вказують у властивостях проєкту. У цьому випадку він буде створений, коли ви додасте перший запис у глосарій.</seg>
       </tuv>
     </tu>
     <tu>
