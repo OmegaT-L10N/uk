@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.2_0_6a661c5e" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.2_0_6a661c5e0" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -15028,6 +15028,14 @@ itself on the first run.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="maximo" changedate="20200420T171106Z" creationid="maximo" creationdate="20200420T171106Z">
         <seg>Перевірте, щоб налаштування &lt;v2&gt;PATH&lt;/v2&gt; були правильні, та щоб файли &lt;f3&gt;.jar&lt;/f3&gt; були правильно прив'язані до запуску через середовище Java.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Manage Right-To-Left languages</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200510T174511Z" creationid="maximo" creationdate="20200510T174511Z">
+        <seg>Manage Right-To-Left languages</seg>
       </tuv>
     </tu>
     <tu>
