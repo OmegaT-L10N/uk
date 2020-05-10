@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.2_0_6a661c5e" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.2_0_6a661c5e0" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -2444,16 +2444,16 @@ The current setting is {0}MB;</seg>
       <tuv lang="EN">
         <seg>&lt;e0&gt;Translate the following attributes&lt;/e0&gt;: the selected attributes will appear as segments in the Editor window.</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="maximo" changedate="20200413T112108Z" creationid="maximo" creationdate="20200413T112108Z">
-        <seg>&lt;e0&gt;Перекладати наступні атрибути&lt;/e0&gt;: вибрані атрибути будуть серед сегментів у вікні редагування.</seg>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200510T170218Z" creationid="maximo" creationdate="20200413T112108Z">
+        <seg>&lt;e0&gt;Перекладати наступні атрибути&lt;/e0&gt;: значення вибраних атрибутів будуть серед сегментів для перекладу.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>&lt;e0&gt;Warning: &lt;/e0&gt;because the text will segment differently after filter options have been changed, so you may have to start translating from scratch.</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="maximo" changedate="20200414T143132Z" creationid="maximo" creationdate="20200414T143132Z">
-        <seg>&lt;e0&gt;Обережно!&lt;/e0&gt; Оскільки після зміни цих параметрів сегментація може змінитися, переклад треба буде починати з нуля.</seg>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200510T170725Z" creationid="maximo" creationdate="20200414T143132Z">
+        <seg>&lt;e0&gt;Обережно!&lt;/e0&gt; Оскільки після зміни цих параметрів сегментація може змінитися, переклад треба буде починати з нуля,</seg>
       </tuv>
     </tu>
     <tu>
@@ -4523,8 +4523,8 @@ may experience unexpected, but correct behaviour.</seg>
       <tuv lang="EN">
         <seg>At the same time the previous valid segments in the project translation memory will turn into orphan segments.</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="maximo" changedate="20200414T143959Z" creationid="maximo" creationdate="20200414T143959Z">
-        <seg>А перекладені сегменти у памʼяті перекладів втратять зв'язок з оригіналом.</seg>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200510T170755Z" creationid="maximo" creationdate="20200414T143959Z">
+        <seg>а перекладені сегменти у памʼяті перекладів втратять зв'язок з оригіналом.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7357,8 +7357,8 @@ Buy another drink</seg>
       <tuv lang="EN">
         <seg>Dependable segmentation rules are already available for many languages, so it is likely that you will not need to get involved with writing your own segmentation rules.</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="maximo" changedate="20200414T101719Z" creationid="maximo" creationdate="20200414T101719Z">
-        <seg>Для більшості мов вже є досить надійні правила сегментації, тому вам скоріш за все не доведеться їх писати самим.</seg>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200510T170715Z" creationid="maximo" creationdate="20200414T101719Z">
+        <seg>Для більшості мов вже є досить надійні правила сегментації, тому вам скоріш за все не доведеться самим їх писати.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10263,8 +10263,8 @@ provided (omegat.kaptn).</seg>
       <tuv lang="EN">
         <seg>For instance, if the file filter specifies UTF8 as the encoding scheme for the target files, selecting Always will ensure that this information is included in the translated files.</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="lesia" changedate="20200419T142704Z" creationid="maximo" creationdate="20200413T164427Z">
-        <seg>Наприклад, якщо фільтр файлів вказує UTF-8 як систему кодування для перекладених файлів, то обирання варіанту Завжди гарантує те, що ця інформація буде відображена у перекладених файлах.</seg>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200510T165205Z" creationid="maximo" creationdate="20200413T164427Z">
+        <seg>Наприклад, якщо фільтр файлів вказує UTF-8 як систему кодування для перекладених файлів, то обирання варіанту "Завжди" гарантує те, що ця інформація буде відображена у перекладених файлах.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10815,8 +10815,8 @@ provided (omegat.kaptn).</seg>
       <tuv lang="EN">
         <seg>Glossary/Use Stemming for Glossary Entries</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="maximo" changedate="20200405T190142Z" creationid="maximo" creationdate="20200405T190142Z">
-        <seg>Глосарій/Використовувати стемінг для словникових статей</seg>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200510T162645Z" creationid="maximo" creationdate="20200405T190142Z">
+        <seg>Глосарій/Шукати терміни у глосарії за основами слів</seg>
       </tuv>
     </tu>
     <tu>
@@ -11998,8 +11998,8 @@ their defaults as a result of the location change.</seg>
       <tuv lang="EN">
         <seg>If they do not conflict with system shortcuts, they should be available from within OmegaT.</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="maximo" changedate="20200405T184406Z" creationid="maximo" creationdate="20200405T184406Z">
-        <seg>Якщо вони не конфліктують із системними комбінаціями, то вони будуть доступні через OmegaT.</seg>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200510T162455Z" creationid="maximo" creationdate="20200405T184406Z">
+        <seg>Якщо вони не конфліктують із системними комбінаціями, то вони будуть доступні у OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12668,8 +12668,8 @@ click on that shortcut.</seg>
       <tuv lang="EN">
         <seg>In case the file name has ambivalent name, one can apply variables of the form &lt;l0&gt;${name only&lt;/l0&gt;&lt;e1&gt;-extension number&lt;/e1&gt;} and &lt;l2&gt;${extension&lt;/l2&gt;-&lt;e3&gt;extension number} &lt;/e3&gt;.</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="maximo" changedate="20200413T192354Z" creationid="maximo" creationdate="20200413T192354Z">
-        <seg>Якщо ім'я файлу амбівалентне, то можна використати ці змінні у такому форматі: &lt;l0&gt;${nameOnly&lt;/l0&gt;&lt;e1&gt;-extension number&lt;/e1&gt;} and &lt;l2&gt;${extension&lt;/l2&gt;-&lt;e3&gt;extension number} &lt;/e3&gt;.</seg>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200510T170610Z" creationid="maximo" creationdate="20200413T192354Z">
+        <seg>Якщо ім'я файлу неоднозначне, то можна використати ці змінні у такому форматі: &lt;l0&gt;${nameOnly&lt;/l0&gt;&lt;e1&gt;-кількість розширень&lt;/e1&gt;} and &lt;l2&gt;${extension&lt;/l2&gt;-&lt;e3&gt;кількість розширень} &lt;/e3&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13670,8 +13670,8 @@ click on that shortcut.</seg>
       <tuv lang="EN">
         <seg>It is consequently able to use the huge range of free spelling dictionaries available for these applications.</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="maximo" changedate="20200411T103733Z" creationid="maximo" creationdate="20200411T103712Z">
-        <seg>Таким чином, є можливість використовувати безліч безкоштовних орфографічних словників, що доступні для цих програм.</seg>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200510T171150Z" creationid="maximo" creationdate="20200411T103712Z">
+        <seg>Таким чином, є можливість використовувати величезну кількість безкоштовних орфографічних словників, що доступні для цих програм.</seg>
       </tuv>
     </tu>
     <tu>
@@ -17056,8 +17056,8 @@ as the Applications folder.</seg>
       <tuv lang="EN">
         <seg>OmegaT has a built-in spell checker based on the &lt;l0&gt;spelling checker&lt;/l0&gt; used in Apache OpenOffice, LibreOffice, Firefox and Thunderbird.</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="maximo" changedate="20200416T100121Z" creationid="maximo" creationdate="20200416T100121Z">
-        <seg>В OmegaT вбудована &lt;l0&gt;перевірка правопису&lt;/l0&gt; на базі того, що використовується у Apache OpenOffice, LibreOffice, Firefox та Thunderbird.</seg>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200510T171125Z" creationid="maximo" creationdate="20200416T100121Z">
+        <seg>В OmegaT вбудована &lt;l0&gt;перевірка правопису&lt;/l0&gt; на базі тої, що використовується у Apache OpenOffice, LibreOffice, Firefox та Thunderbird.</seg>
       </tuv>
     </tu>
     <tu>
@@ -19977,8 +19977,8 @@ These words: 'Page not found'</seg>
       <tuv lang="EN">
         <seg>Reload</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20190807T150326Z" creationid="Kos Ivantsov" creationdate="20190807T150326Z">
-        <seg>Перезавантажити</seg>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200510T162616Z" creationid="Kos Ivantsov" creationdate="20190807T150326Z">
+        <seg>Перезавантажити проєкт</seg>
       </tuv>
     </tu>
     <tu>
@@ -23779,8 +23779,8 @@ The scope of a search is by default the project and can be set to be any files l
       <tuv lang="EN">
         <seg>Technically speaking, the &lt;c0&gt;msgstr&lt;/c0&gt; segment in the PO target file, if created, will be left empty.</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="lesia" changedate="20200419T103100Z" creationid="maximo" creationdate="20200413T105504Z">
-        <seg>З технічної точки зору, сегмент &lt;c0&gt;msgstr&lt;/c0&gt; у перекладеному PO файлі, якщо він створиться, буде залишатися порожнім.</seg>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200510T164903Z" creationid="maximo" creationdate="20200413T105504Z">
+        <seg>З технічної точки зору, це означає, що сегмент &lt;c0&gt;msgstr&lt;/c0&gt; у перекладеному PO файлі, якщо він створиться, буде залишатися порожнім.</seg>
       </tuv>
     </tu>
     <tu>
@@ -25175,8 +25175,8 @@ in /lib/licenses/Licenses.txt.</seg>
       <tuv lang="EN">
         <seg>The names of the files must correspond to the language code of your target language as defined in the project properties dialog (&lt;g0&gt;Project &gt; Properties&lt;/g0&gt;).</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="maximo" changedate="20200411T110520Z" creationid="maximo" creationdate="20200411T110520Z">
-        <seg>Назви файлів мають відповідати коду цільової мови, яку вказано у властивостях проєкту(діалог &lt;g0&gt;Проєкт &gt; Властивості...&lt;/g0&gt;).</seg>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200510T162845Z" creationid="maximo" creationdate="20200411T110520Z">
+        <seg>Назви файлів мають відповідати коду цільової мови, який вказано у властивостях проєкту(діалог &lt;g0&gt;Проєкт &gt; Властивості...&lt;/g0&gt;).</seg>
       </tuv>
     </tu>
     <tu>
@@ -26433,8 +26433,8 @@ the server.</seg>
       <tuv lang="EN">
         <seg>This dialog lists the file filters available.</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="maximo" changedate="20200412T194759Z" creationid="maximo" creationdate="20200412T194759Z">
-        <seg>В цьому діалозі перераховані доступні фільтри файлів.</seg>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200510T164354Z" creationid="maximo" creationdate="20200412T194759Z">
+        <seg>У цьому діалозі перераховані доступні фільтри файлів.</seg>
       </tuv>
     </tu>
     <tu>
@@ -31292,6 +31292,14 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20190422T205052Z" creationid="Kos Ivantsov" creationdate="20190422T205052Z">
         <seg>optionsAccessConfigDirMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>optionsGlossaryExactMatchCheckBoxMenuItem</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200510T162618Z" creationid="maximo" creationdate="20200510T162618Z">
+        <seg>optionsGlossaryExactMatchCheckBoxMenuItem</seg>
       </tuv>
     </tu>
     <tu>
