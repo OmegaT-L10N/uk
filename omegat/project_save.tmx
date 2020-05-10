@@ -22633,8 +22633,8 @@ The scope of a search is by default the project and can be set to be any files l
       <tuv lang="EN">
         <seg>Some of the dictionaries have no strings attached - i.e. are "Free to use", and others, like the selection above, are under the GPL license.</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="maximo" changedate="20200329T200607Z" creationid="maximo" creationdate="20200329T200607Z">
-        <seg>Деякі словники не мають ніяких обмежень у ліцензії, тобто є вільними для використання, а інші, такі як наведені вище, видані під ліцензією GPL.</seg>
+      <tuv lang="UK-UA" changeid="lesia" changedate="20200510T170719Z" creationid="maximo" creationdate="20200329T200607Z">
+        <seg>Деякі словники не мають ніяких обмежень у ліцензії і є вільними для використання, інші ж, такі, як наведені вище, видані під ліцензією GPL.</seg>
       </tuv>
     </tu>
     <tu>
@@ -30855,8 +30855,8 @@ create its configuration folder.</seg>
       <tuv lang="EN">
         <seg>etc...</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="maximo" changedate="20200329T200451Z" creationid="maximo" creationdate="20200329T200451Z">
-        <seg>та інше…</seg>
+      <tuv lang="UK-UA" changeid="lesia" changedate="20200510T170538Z" creationid="maximo" creationdate="20200329T200451Z">
+        <seg>та інше.</seg>
       </tuv>
     </tu>
     <tu>
