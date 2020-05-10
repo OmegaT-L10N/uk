@@ -23849,8 +23849,8 @@ The scope of a search is by default the project and can be set to be any files l
       <tuv lang="EN">
         <seg>Terms in the current segment which &lt;a2&gt;OmegaT&lt;/a2&gt; finds in the glossary file(s) are displayed in the Glossary pane:</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="lesia" changedate="20200510T172225Z" creationid="maximo" creationdate="20200404T172052Z">
-        <seg>Ті вирази для сегменту, які &lt;a2&gt;OmegaT&lt;/a2&gt; бачить у глосаріях, відображаються у панелі Глосарій:</seg>
+      <tuv lang="UK-UA" changeid="lesia" changedate="20200510T174122Z" creationid="maximo" creationdate="20200404T172052Z">
+        <seg>Ті вирази для сегменту, які &lt;a2&gt;OmegaT&lt;/a2&gt; бачить у глосаріях, відображуються у панелі Глосарій:</seg>
       </tuv>
     </tu>
     <tu>
@@ -24980,8 +24980,8 @@ instead.</seg>
       <tuv lang="EN">
         <seg>The glossary function only finds exact matches with the glossary entry (e.g. does not find inflected forms etc.).</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="lesia" changedate="20200504T155722Z" creationid="lesia" creationdate="20200504T155722Z">
-        <seg>Функція глосарію знаходить лише точні збіги зі словниковими статтями (тобто, наприклад, флексії не розпізнаються).</seg>
+      <tuv lang="UK-UA" changeid="lesia" changedate="20200510T174522Z" creationid="lesia" creationdate="20200504T155722Z">
+        <seg>Функція глосарію залежить від наявності токенізації для кожної конкретної мови. Якщо токенізації для вашої мови немає - флексії не розпізнаються, і будуть знаходитися лише точні збіги зі словами в сегменті оригіналу. Якщо ж токенізація для вашої мови є - знаходитимуться і флективні форми слів.</seg>
       </tuv>
     </tu>
     <tu>
@@ -30743,6 +30743,22 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20190821T124206Z" creationid="Kos Ivantsov" creationdate="20190821T123237Z">
         <seg>{0}: в оригіналі — «{1}»; у перекладі очікується «{2}»</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>\a</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="lesia" changedate="20200510T174037Z" creationid="lesia" creationdate="20200510T174037Z">
+        <seg>\a</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>\f</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="lesia" changedate="20200510T174031Z" creationid="lesia" creationdate="20200510T174031Z">
+        <seg>\f</seg>
       </tuv>
     </tu>
     <tu>
