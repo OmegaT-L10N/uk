@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.2_0_6a661c5e0" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.2_0_6a661c5e" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -16056,8 +16056,8 @@ as the Applications folder.</seg>
       <tuv lang="EN">
         <seg>New terms can be added manually to the glossary file(s) during translation, for example in a text editor.</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="lesia" changedate="20200510T155838Z" creationid="lesia" creationdate="20200504T162536Z">
-        <seg>Нові терміни можна додавати до глосарію вручну під час перекладу, наприклад, в текстовому редакторі.</seg>
+      <tuv lang="UK-UA" changeid="lesia" changedate="20200510T172350Z" creationid="lesia" creationdate="20200504T162536Z">
+        <seg>Нові терміни можна додавати до глосарію вручну під час перекладу, наприклад, у текстовому редакторі.</seg>
       </tuv>
     </tu>
     <tu>
@@ -22614,8 +22614,8 @@ The scope of a search is by default the project and can be set to be any files l
       <tuv lang="EN">
         <seg>So it is probably faster to type the term correctly right away without bothering with the glossary and its shortcuts.</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="lesia" changedate="20200505T191630Z" creationid="lesia" creationdate="20200505T191630Z">
-        <seg>Тож можливо буде швидше просто надрукувати термін у правильній формі, ніж длубатися зі словником. </seg>
+      <tuv lang="UK-UA" changeid="lesia" changedate="20200510T173752Z" creationid="lesia" creationdate="20200505T191630Z">
+        <seg>Тож, можливо, буде швидше просто надрукувати термін у правильній формі, ніж длубатися зі словником. </seg>
       </tuv>
     </tu>
     <tu>
@@ -25709,8 +25709,8 @@ in /lib/licenses/Licenses.txt.</seg>
       <tuv lang="EN">
         <seg>The source term does not have to be a single-word item, as the next example shows:</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="lesia" changedate="20200510T161000Z" creationid="lesia" creationdate="20200504T164745Z">
-        <seg>Термін оригіналу не обов'язково має бути однослівним. Він може виглядати ось так</seg>
+      <tuv lang="UK-UA" changeid="lesia" changedate="20200510T173517Z" creationid="lesia" creationdate="20200504T164745Z">
+        <seg>Термін оригіналу не обов'язково має бути однослівним. Він може виглядати ось так:</seg>
       </tuv>
     </tu>
     <tu>
