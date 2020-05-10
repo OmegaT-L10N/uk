@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.2_0_6a661c5e0" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.2_0_6a661c5e" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -3411,6 +3411,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Activate the "Show hidden files" option to make it visible.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="fanja9" changedate="20200510T183209Z" creationid="fanja9" creationdate="20200510T131120Z">
+        <seg>Активуйте опцію "Показати приховані файли", щоб зробити її видимою.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Active segment source</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20190807T165831Z" creationid="Kos Ivantsov" creationdate="20190807T165620Z">
@@ -4037,8 +4045,8 @@ The current setting is {0}MB;</seg>
       <tuv lang="EN">
         <seg>An OmegaT project is a folder containing files and subfolders.</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="fanja9" changedate="20200418T091633Z" creationid="fanja9" creationdate="20200418T091633Z">
-        <seg>Проєкт OmegaT це тека, яка містить файли проєкту і підтеки.</seg>
+      <tuv lang="UK-UA" changeid="fanja9" changedate="20200510T183222Z" creationid="fanja9" creationdate="20200418T091633Z">
+        <seg>Проєкт OmegaT - це тека, яка містить файли проєкту і підтеки.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4843,6 +4851,14 @@ may experience unexpected, but correct behaviour.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20190516T205640Z" creationid="Kos Ivantsov" creationdate="20190516T205640Z">
         <seg>Резервна копія</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Backups of this file (with extension bak) are added progressively to this subfolder, first at the beginning of the translation session, at its end, and while the translation progresses.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="fanja9" changedate="20200510T151230Z" creationid="fanja9" creationdate="20200510T151230Z">
+        <seg>Резервна копія цього файлу (у форматі bak) поступово додається до підтеки: на початку сеансу, наприкінці і в ході перекладу.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6675,6 +6691,14 @@ Buy another drink</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Contains project parameters as defined in the &lt;l0&gt;Project properties&lt;/l0&gt; dialog.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="fanja9" changedate="20200510T181024Z" creationid="fanja9" creationdate="20200510T181024Z">
+        <seg>Тут знаходяться параметри проєкту, визначені у діалоговому вікні &lt;l0&gt;Властивості проєкту&lt;/l0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Context Menu Priority:</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20190808T122558Z" creationid="Kos Ivantsov" creationdate="20190808T122558Z">
@@ -8417,6 +8441,14 @@ project_save.tmx не був переданий на віддалений сер
       </tuv>
       <tuv lang="UK-UA" changeid="maximo" changedate="20200505T203049Z" creationid="maximo" creationdate="20200414T150203Z">
         <seg>Під час цього сегментація відбувається лише по структурних елементах.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>During translation additional files may get created in this subfolder as follows</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="fanja9" changedate="20200510T172810Z" creationid="fanja9" creationdate="20200510T152725Z">
+        <seg>Під час перекладу можуть бути створені наступні додаткові файли у цій підтеці</seg>
       </tuv>
     </tu>
     <tu>
@@ -10299,6 +10331,14 @@ provided (omegat.kaptn).</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>For instance (if the default is accepted), the translation from the ancillary TM is accepted and prefixed with&lt;e3&gt; [fuzzy]&lt;/e3&gt;, so that the translator can review the translations at a later stage and check whether the segments tagged this way, have been translated correctly&lt;m4&gt; &lt;g5&gt;.&lt;/g5&gt; &lt;/m4&gt;</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="fanja9" changedate="20200510T191912Z" creationid="fanja9" creationdate="20200510T185605Z">
+        <seg>Наприклад, якщо прийнятий стандартний режим, переклад з вторинної пам'яті перекладів приймається і доповнюється позначкою &lt;e3&gt; [fuzzy]&lt;/e3&gt;, завдяки цьому перекладач може переглянути переклад на останій стадії роботи і перевірити, чи були правильно перекладено сегменти, позначені таким чином&lt;m4&gt; &lt;g5&gt;.&lt;/g5&gt; &lt;/m4&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>For instance, if the file filter specifies UTF8 as the encoding scheme for the target files, selecting Always will ensure that this information is included in the translated files.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="maximo" changedate="20200510T165205Z" creationid="maximo" creationdate="20200413T164427Z">
@@ -10399,6 +10439,14 @@ provided (omegat.kaptn).</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="maximo" changedate="20200414T190803Z" creationid="maximo" creationdate="20200414T190609Z">
         <seg>Щоб це відбулося, серед правил сегментації має бути правило для "?", після якого через пробіл іде слово з великої букви.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>For translation memories in folders with a name &lt;f0&gt;penalty-xxx&lt;/f0&gt; (with xxx between 0 and 100), matches will be degraded according to the name of the folder: a 100% match in any of TMs, residing in a folder called &lt;f1&gt;penalty-30&lt;/f1&gt; for instance, will be lowered to a 70% match.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="fanja9" changedate="20200510T193125Z" creationid="fanja9" creationdate="20200510T164559Z">
+        <seg>Для файлів пам'яті перекладу в теках з назвами &lt;f0&gt;penalty-xxx&lt;/f0&gt; (де xxx - це цифри від 0 до 100), збіги будуть розташовані відповідно до назви теки: наприклад, 100%-й збіг у будь-якій пам'яті перекладу, якщо його розмістити у теці &lt;f1&gt;penalty-30&lt;/f1&gt;, знизиться до 70%.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11733,6 +11781,14 @@ need not be entered.)</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If it is clear from the very start, that translations in a given TM (or TMs) are all correct, one can put them into the&lt;e0&gt; tm/auto&lt;/e0&gt; folder and avoid confirming a lot of&lt;e1&gt; [fuzzy]&lt;/e1&gt; cases.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="fanja9" changedate="20200510T191844Z" creationid="fanja9" creationdate="20200510T133615Z">
+        <seg>Якщо одразу зрозуміло, що переклад, вказаний у файлі (або файлах) пам'яті перекладів, - правильний, його можна перемістити у теку &lt;e0&gt; tm/auto&lt;/e0&gt; і уникнути необхідності підтвердження значної кількості збігів з позначкою &lt;e1&gt;[fuzzy]&lt;/e1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If later access to the desired location is granted
 that location will be used and all settings will return to
 their defaults as a result of the location change.</seg>
@@ -11994,6 +12050,14 @@ their defaults as a result of the location change.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If the source segment in one of the ancillary TMs is identical to the text being translated, OmegaT acts as defined in the &lt;m0&gt; &lt;g1&gt;Options&lt;/g1&gt; &lt;g2&gt;Editing Behavior...&lt;/g2&gt; &lt;/m0&gt; dialog window.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="fanja9" changedate="20200510T185010Z" creationid="fanja9" creationdate="20200510T185010Z">
+        <seg>Якщо сегмент оригіналу у вторинній пам'яті перекладів є ідентичним до тексту, який перекладається, OmegaT діє так, як вказано у діалоговому вікні &lt;m0&gt; &lt;g1&gt;Опції&lt;/g1&gt; &lt;g2&gt;Поведінка редактора...&lt;/g2&gt; &lt;/m0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If the spell checker is not working, then make sure first that the check box &lt;g0&gt;"Automatically check the spelling of text"&lt;/g0&gt; in the spell checker dialog (&lt;g1&gt;Options &gt; Spell checking...)&lt;/g1&gt; is checked.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="maximo" changedate="20200411T135030Z" creationid="maximo" creationdate="20200411T135030Z">
@@ -12022,6 +12086,22 @@ their defaults as a result of the location change.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="lesia" changedate="20200425T154017Z" creationid="lesia" creationdate="20200425T154017Z">
         <seg>Якщо є кілька альтернативних варіантів перекладу активного сегмента, можна позначити обраний стандартним перекладом.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If they &lt;e0&gt;don't need&lt;/e0&gt; to stay immune from further changes, then remove the TMX from /tm/enforce.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="fanja9" changedate="20200510T161251Z" creationid="fanja9" creationdate="20200510T161001Z">
+        <seg>Якщо для них &lt;e0&gt;необов'язково&lt;/e0&gt; залишатися стійкими до змін, видаліть TMX з /tm/enforce.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If they &lt;e0&gt;need&lt;/e0&gt; to stay immune from further changes, then keep the TMX in /tm/enforce.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="fanja9" changedate="20200510T161050Z" creationid="fanja9" creationdate="20200510T161050Z">
+        <seg>Якщо для них &lt;e0&gt;обов'язково&lt;/e0&gt; залишатися стійкими до змін, залиште TMX у /tm/enforce.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12102,6 +12182,14 @@ their defaults as a result of the location change.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="maximo" changedate="20200419T071134Z" creationid="maximo" creationdate="20200419T071134Z">
         <seg>Якщо у вас на комп'ютері вже встановлена версія OmegaT, і ви хочете оновити її до новішої, у вас є два варіанта:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If you already have collected words you wish the spell checker to ignore / accept, you just need to copy the corresponding two files into the &lt;f0&gt;omegat&lt;/f0&gt;subfolder of your current project.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="fanja9" changedate="20200510T180404Z" creationid="fanja9" creationdate="20200510T180404Z">
+        <seg>Якщо ви хочете, щоб Перевірка правопису проігнорувала / прийняла попередньо відібрані вами слова, вам необхідно просто скопіювати два відповідні файли у підтеку вашого поточного проєкту в &lt;f0&gt;omegat&lt;/f0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12338,6 +12426,14 @@ to use Java Web Start.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="maximo" changedate="20200419T072112Z" creationid="maximo" creationdate="20200419T072112Z">
         <seg>Якщо ви вносили зміни до &lt;f0&gt;OmegaT.l4J.ini&lt;/f0&gt; чи використовували файл .bat, вам доведеться перенести їх вручну.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If you have no doubt that a TMX is more accurate than the &lt;f0&gt;project_save.tmx&lt;/f0&gt; of OmegaT, put this TMX in /tm/enforce to overwrite existing default translations unconditionally.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="fanja9" changedate="20200510T192119Z" creationid="fanja9" creationdate="20200510T153015Z">
+        <seg>Якщо ви впевнені, що файл TMX більш точний ніж &lt;f0&gt;project_save.tmx&lt;/f0&gt; від OmegaT, помістіть цей TMX у /tm/enforce, щоб вже існуючі стандартні переклади були автоматично переписані.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12680,6 +12776,14 @@ click on that shortcut.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>In a team project, this folder contains a versioned copy of the project tree structure linked directly to the remote server.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="fanja9" changedate="20200510T193501Z" creationid="fanja9" creationdate="20200510T131419Z">
+        <seg>В командному проєкті в цю теку входить копія дерева проєкту (яка може мати версії), напряму під'єднана до віддаленого серверу.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>In addition to the plain text format, TBX format is also supported as a read-only glossary format.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="lesia" changedate="20200505T193347Z" creationid="lesia" creationdate="20200505T193347Z">
@@ -12856,6 +12960,14 @@ click on that shortcut.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>In some operating systems, this folder is not displayed by default.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="fanja9" changedate="20200510T183150Z" creationid="fanja9" creationdate="20200510T183150Z">
+        <seg>У деяких операційних системах ця тека не відображається за замовчуванням.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>In some seldom cases the alternative, i.e. segmenting by paragraphs, may be preferred.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="lesia" changedate="20200412T200334Z" creationid="lesia" creationdate="20200412T200334Z">
@@ -12932,6 +13044,14 @@ click on that shortcut.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="maximo" changedate="20200503T052428Z" creationid="maximo" creationdate="20200503T052428Z">
         <seg>У попередньому прикладі сегмент для перекладу, це &lt;e0&gt;Context menu command&lt;/e0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>In the editor pane, when a match is inserted from a TMX contained in a folder named &lt;f0&gt;mt&lt;/f0&gt;, the background of the active segment is changed to red.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="fanja9" changedate="20200510T162716Z" creationid="fanja9" creationdate="20200510T162716Z">
+        <seg>Коли збіг вставлено з файлу TMX, який знаходиться у теці &lt;f0&gt;mt&lt;/f0&gt;, фон активного сегменту у Вікні редагування змінюється на червоний.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13132,6 +13252,14 @@ click on that shortcut.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20190807T190851Z" creationid="Kos Ivantsov" creationdate="20190807T190851Z">
         <seg>Ініціалізація</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Initially empty, this folder will contain dictionaries you have added to the project.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="fanja9" changedate="20200510T183529Z" creationid="fanja9" creationdate="20200510T145806Z">
+        <seg>У момент початку роботи ця тека порожня, а пізніше тут розміщатимуться словники, які ви будете додавати до проєкту.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13873,6 +14001,14 @@ inside the configuration folder.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20190504T102137Z" creationid="Kos Ivantsov" creationdate="20190504T102137Z">
         <seg>Не вдалося створити перекладені документи через відсутність деяких теґів або помилки в них.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>It will contain glossaries you will be using in the project.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="fanja9" changedate="20200510T132042Z" creationid="fanja9" creationdate="20200510T132042Z">
+        <seg>Тут розміщатимуться словники, які ви будете використовувати у проєкті.</seg>
       </tuv>
     </tu>
     <tu>
@@ -14996,6 +15132,22 @@ itself on the first run.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="maximo" changedate="20200415T110401Z" creationid="maximo" creationdate="20200415T110401Z">
         <seg>Насправді, варто уникати значних змін до правил сегментації, особливо після того, як вже зроблена якась значна частина роботи. Але деякі зміни, як наприклад, додавання відомих скорочень, можуть мати значний позитивний ефект.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Make a slight change anywhere in the project.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="fanja9" changedate="20200510T192050Z" creationid="fanja9" creationdate="20200510T132357Z">
+        <seg>Внесіть незначні зміни у будь-якій частині проєкту.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Make decision about immunity of the enforced segments:</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="fanja9" changedate="20200510T160724Z" creationid="fanja9" creationdate="20200510T160724Z">
+        <seg>Визначтесь, наскільки стійкими будуть переглянуті сегменти:</seg>
       </tuv>
     </tu>
     <tu>
@@ -16534,8 +16686,8 @@ as the Applications folder.</seg>
       <tuv lang="EN">
         <seg>Note that other CAT tools can export (and import as well) tmx files, usually in all three forms.</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="fanja9" changedate="20200502T181436Z" creationid="fanja9" creationdate="20200502T180844Z">
-        <seg>Зверніть увагу, tmx-файли можна експортувати між CAT-інструментами трьома способами (та імпортувати також).</seg>
+      <tuv lang="UK-UA" changeid="fanja9" changedate="20200510T133649Z" creationid="fanja9" creationdate="20200502T180844Z">
+        <seg>Зверніть увагу, файли tmx можна експортувати між CAT-інструментами трьома способами (та імпортувати також).</seg>
       </tuv>
     </tu>
     <tu>
@@ -16550,8 +16702,8 @@ as the Applications folder.</seg>
       <tuv lang="EN">
         <seg>Note that the TMX files in the tm folder can be compressed with gzip.</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="fanja9" changedate="20200504T203050Z" creationid="fanja9" creationdate="20200504T203050Z">
-        <seg>Зверніть увагу, що TMX-файли у теці tm можна зжати у форматі gzip.</seg>
+      <tuv lang="UK-UA" changeid="fanja9" changedate="20200510T133834Z" creationid="fanja9" creationdate="20200504T203050Z">
+        <seg>Зверніть увагу, що файли TMX у теці tm можна зжати у форматі gzip.</seg>
       </tuv>
     </tu>
     <tu>
@@ -16654,8 +16806,16 @@ as the Applications folder.</seg>
       <tuv lang="EN">
         <seg>Note: if TMX is removed from /tm/auto before step 3, no extra Translation Unit is added.</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="fanja9" changedate="20200506T211330Z" creationid="fanja9" creationdate="20200506T211330Z">
-        <seg>Примітка: якщо TMX is removed from /tm/auto before step 3, no extra Translation Unit is added.</seg>
+      <tuv lang="UK-UA" changeid="fanja9" changedate="20200510T133853Z" creationid="fanja9" creationdate="20200506T211330Z">
+        <seg>Примітка: якщо файл TMX перенести з /tm/auto до виконання кроку 3, не буде створено ніяких додаткових одиниць перекладу.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Note: if TMX is removed from /tm/enforce before step 3, enforcements aren't kept at all.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="fanja9" changedate="20200510T192551Z" creationid="fanja9" creationdate="20200510T143149Z">
+        <seg>Примітка: якщо файл TMX перенести у /tm/enforce до виконання кроку 3, переглянуте взагалі не збережеться.</seg>
       </tuv>
     </tu>
     <tu>
@@ -19675,16 +19835,16 @@ project without team functionality.</seg>
       <tuv lang="EN">
         <seg>Put the TMX in /tm/auto.</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="fanja9" changedate="20200504T203532Z" creationid="fanja9" creationdate="20200504T203532Z">
-        <seg>Помісти TMX-файл у /tm/auto.</seg>
+      <tuv lang="UK-UA" changeid="fanja9" changedate="20200510T191934Z" creationid="fanja9" creationdate="20200504T203532Z">
+        <seg>Помістіть файл TMX у /tm/auto.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Put the TMX in /tm/enforce.</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="fanja9" changedate="20200504T203426Z" creationid="fanja9" creationdate="20200504T203426Z">
-        <seg>Помісти TMX-файл у /tm/enforce.</seg>
+      <tuv lang="UK-UA" changeid="fanja9" changedate="20200510T133925Z" creationid="fanja9" creationdate="20200504T203426Z">
+        <seg>Помістіть файл TMX у /tm/enforce.</seg>
       </tuv>
     </tu>
     <tu>
@@ -21538,6 +21698,22 @@ The scope of a search is by default the project and can be set to be any files l
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>See &lt;l0&gt;Dictionaries&lt;/l0&gt; for more on this subject.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="fanja9" changedate="20200510T145901Z" creationid="fanja9" creationdate="20200510T145901Z">
+        <seg>Див. &lt;l0&gt;Словники&lt;/l0&gt; для більш детальної інформації.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>See &lt;l0&gt;Glossaries&lt;/l0&gt; for more on this subject.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="fanja9" changedate="20200510T132321Z" creationid="fanja9" creationdate="20200510T132321Z">
+        <seg>Див. &lt;l0&gt;Словники&lt;/l0&gt; для більш детальної інформації.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>See &lt;l0&gt;How to use a team project&lt;/l0&gt; for details.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="lesia" changedate="20200503T205615Z" creationid="maximo" creationdate="20200425T141853Z">
@@ -22717,6 +22893,14 @@ The scope of a search is by default the project and can be set to be any files l
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Sometimes, it is useful to distinguish between high-quality translation memories and those that are, because of the subject matter, client, revision status, etc., less reliable.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="fanja9" changedate="20200510T145552Z" creationid="fanja9" creationdate="20200510T145552Z">
+        <seg>Інколи корисно відокремити високоякісні файли пам'яті перекладу від тих, які менш надійні з суб'єктивних причин, через клієнта, стан перевірки тощо.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Sorry</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="maximo" changedate="20200321T120419Z" creationid="maximo" creationdate="20200321T120419Z">
@@ -23543,6 +23727,14 @@ The scope of a search is by default the project and can be set to be any files l
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>TMX files are read sorted by their names and segments within a given TMX file line by line.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="fanja9" changedate="20200510T191621Z" creationid="fanja9" creationdate="20200510T185943Z">
+        <seg>Файли TMX читаються відповідно до того, як вони посортовані: за назвою файла і за сегментами з даним файлом TMX, які розміщені рядок за рядком.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>TMX files of localizations of the OmegaT documentation and of this site, for use by localizers.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="lesia" changedate="20200322T160026Z" creationid="lesia" creationdate="20200322T160026Z">
@@ -24060,8 +24252,8 @@ current folder will be used instead.</seg>
       <tuv lang="EN">
         <seg>The /tm/ folder can contain any number of ancillary translation memories - i.e. tmx files.</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="fanja9" changedate="20200502T180849Z" creationid="fanja9" creationdate="20200502T180646Z">
-        <seg>У теці /tm/ може знаходитися скільки завгодно допоміжних файлів пам'яті перекладів - тобто tmx-файлів.</seg>
+      <tuv lang="UK-UA" changeid="fanja9" changedate="20200510T133633Z" creationid="fanja9" creationdate="20200502T180646Z">
+        <seg>У теці /tm/ може знаходитися скільки завгодно допоміжних файлів пам'яті перекладів - тобто файлів tmx.</seg>
       </tuv>
     </tu>
     <tu>
@@ -24070,6 +24262,14 @@ current folder will be used instead.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20190823T145638Z" creationid="Kos Ivantsov" creationdate="20190823T145638Z">
         <seg>Файли пам’яті, що мають в імені &lt;c3&gt;level1&lt;/c3&gt; або &lt;c4&gt;level2&lt;/c4&gt;, в можна використовувати для обміну з іншими програмами автоматизації перекладу.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The &lt;e0&gt;omegat&lt;/e0&gt; subfolder contains at least one and possibly several other files.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="fanja9" changedate="20200510T150144Z" creationid="fanja9" creationdate="20200510T150144Z">
+        <seg>У підтеці &lt;e0&gt;omegat&lt;/e0&gt; знаходиться як мінімум один файл, хоча їх може бути кілька.</seg>
       </tuv>
     </tu>
     <tu>
@@ -24429,6 +24629,14 @@ Please try to correct the error and reload the project.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The background is restored to normal when the segment is left.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="fanja9" changedate="20200510T163829Z" creationid="fanja9" creationdate="20200510T163829Z">
+        <seg>Фон відновить свій звичайний колір, коли перейдете до іншого сегменту.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The basic command has already been mentioned above.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="maximo" changedate="20200420T202136Z" creationid="maximo" creationdate="20200420T202136Z">
@@ -24447,8 +24655,8 @@ Please try to correct the error and reload the project.</seg>
       <tuv lang="EN">
         <seg>The best thing of course is to use OmegaT-specific TMX files (see above), so that the in-line formatting within the segment is retained.</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="fanja9" changedate="20200502T222054Z" creationid="fanja9" creationdate="20200502T222054Z">
-        <seg>Звичайно, найкраще використовувати TMX-файли власне OmegaT (дивитись вище), таким чином в сегменті збережеться вбудоване системне форматування.</seg>
+      <tuv lang="UK-UA" changeid="fanja9" changedate="20200510T133823Z" creationid="fanja9" creationdate="20200502T222054Z">
+        <seg>Звичайно, найкраще використовувати файли TMX, специфічні для OmegaT (дивитись вище), таким чином в сегменті збережеться вбудоване системне форматування.</seg>
       </tuv>
     </tu>
     <tu>
@@ -24465,6 +24673,14 @@ Please try to correct the error and reload the project.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="maximo" changedate="20200322T162112Z" creationid="maximo" creationdate="20200322T162112Z">
         <seg>Сертифікат підписаний компанією &lt;a1&gt;PnS Concept Sarl&lt;/a1&gt;, що зареєстрована у Франції.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The changes are displayed.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="fanja9" changedate="20200510T134620Z" creationid="fanja9" creationdate="20200510T134620Z">
+        <seg>Зміни відображаються на екрані.</seg>
       </tuv>
     </tu>
     <tu>
@@ -24625,8 +24841,8 @@ instead.</seg>
       <tuv lang="EN">
         <seg>The contents of the target subfolder will reflect the current state of the translation, as present in the project translation memory, saved in the current &lt;e8&gt;/omegat/project_save.tmx&lt;/e8&gt;.</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="fanja9" changedate="20200502T180443Z" creationid="fanja9" creationdate="20200502T175810Z">
-        <seg>Складники підтеки перекладу впливатимуть на поточний стан перекладу, якщо вони наявні у проєктній пам'яті перекладів, збереженій в процесі як &lt;e8&gt;/omegat/project_save.tmx&lt;/e8&gt;.</seg>
+      <tuv lang="UK-UA" changeid="fanja9" changedate="20200510T184103Z" creationid="fanja9" creationdate="20200502T175810Z">
+        <seg>Якщо вміст підтеки перекладу наявний у проєктній пам'яті перекладів, збереженій в поточному файлі &lt;e8&gt;/omegat/project_save.tmx&lt;/e8&gt;, то він впливатиме на поточний стан перекладу, .</seg>
       </tuv>
     </tu>
     <tu>
@@ -25073,6 +25289,14 @@ xx or xxx is the language code and YY is the region or country code (optional).<
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The last segment with the identical source text will thus prevail (Note: of course it makes more sense to avoid this to happen in the first place).</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="fanja9" changedate="20200510T190427Z" creationid="fanja9" creationdate="20200510T190427Z">
+        <seg>Тож останній серед сегментів з ідентичним текстом оригіналу буде більш пріоритетним (Примітка: звичайно, набагато краще взагалі уникати таких випадків).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The license of each library is mentioned in
 /lib/licenses/Licenses.txt.</seg>
       </tuv>
@@ -25211,6 +25435,14 @@ in /lib/licenses/Licenses.txt.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The most important file here is the &lt;f1&gt;project_save.tmx, &lt;/f1&gt;that is the working translation memory for the project.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="fanja9" changedate="20200510T150409Z" creationid="fanja9" creationdate="20200510T150409Z">
+        <seg>Найважливіший файл у підтеці - &lt;f1&gt;project_save.tmx, &lt;/f1&gt; робоча пам'ять перекладу для проєкту.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The most important is &lt;l1&gt;/path/to/project&lt;/l1&gt;, and optionally &lt;l2&gt;--config-dir=&lt;p3&gt;/path/to/config-files/&lt;/p3&gt;&lt;/l2&gt;.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="maximo" changedate="20200423T154351Z" creationid="maximo" creationdate="20200423T154005Z">
@@ -25311,6 +25543,14 @@ in /lib/licenses/Licenses.txt.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20190808T131729Z" creationid="Kos Ivantsov" creationdate="20190808T131729Z">
         <seg>Паролі не збігаються.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The penalty applies to all three match percentages: matches 75, 80, 90 will in this case be lowered to 45, 50, 60.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="fanja9" changedate="20200510T193235Z" creationid="fanja9" creationdate="20200510T164908Z">
+        <seg>Пеня накладається на усі три відсоткові рівні збігів: збіги в 75, 80, 90 відсотків будуть у цьому випадку знижені відповідно до 45, 50, 60 відсотків.</seg>
       </tuv>
     </tu>
     <tu>
@@ -26519,6 +26759,14 @@ the server.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>This folder is initially empty.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="fanja9" changedate="20200510T183503Z" creationid="fanja9" creationdate="20200510T131955Z">
+        <seg>У момент початку роботи ця тека порожня.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>This format is the same as the tab separated one: source term, target term.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="lesia" changedate="20200505T192748Z" creationid="lesia" creationdate="20200505T192715Z">
@@ -26763,6 +27011,22 @@ the server.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="maximo" changedate="20200419T071950Z" creationid="maximo" creationdate="20200419T071950Z">
         <seg>Нова версія також буде бачити налаштування, які ви зробили зсередини OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This modifies &lt;f0&gt;project_save.tmx&lt;/f0&gt; (by adding proper Translation Units from "auto" TMX)</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="fanja9" changedate="20200510T152910Z" creationid="fanja9" creationdate="20200510T152910Z">
+        <seg>Таким чином зміниться файл &lt;f0&gt;project_save.tmx&lt;/f0&gt; (через додавання одиниць перекладу з автоматично створеного TMX)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This modifies &lt;f0&gt;project_save.tmx&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="fanja9" changedate="20200510T134650Z" creationid="fanja9" creationdate="20200510T133050Z">
+        <seg>Таким чином зміниться файл &lt;f0&gt;project_save.tmx&lt;/f0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -27033,8 +27297,8 @@ the server.</seg>
       <tuv lang="EN">
         <seg>To add contents to it, select &lt;m0&gt; &lt;s1&gt; &lt;k2&gt; &lt;k3&gt;Ctrl&lt;/k3&gt; &lt;k4&gt;D&lt;/k4&gt; &lt;/k2&gt; &lt;/s1&gt; &lt;g5&gt;Project&lt;/g5&gt; &lt;g6&gt;Create Translated Documents&lt;/g6&gt; &lt;/m0&gt;.</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="fanja9" changedate="20200418T094627Z" creationid="fanja9" creationdate="20200418T094627Z">
-        <seg>Щоб додати елементи, виконайте наступне &lt;m0&gt; &lt;s1&gt; &lt;k2&gt; &lt;k3&gt;Ctrl&lt;/k3&gt; &lt;k4&gt;D&lt;/k4&gt; &lt;/k2&gt; &lt;/s1&gt; &lt;g5&gt;Проєкт&lt;/g5&gt; &lt;g6&gt;Створити перекладені документи&lt;/g6&gt; &lt;/m0&gt;.</seg>
+      <tuv lang="UK-UA" changeid="fanja9" changedate="20200510T183737Z" creationid="fanja9" creationdate="20200418T094627Z">
+        <seg>Щоб додати елементи, перейдіть до &lt;m0&gt; &lt;s1&gt; &lt;k2&gt; &lt;k3&gt;Ctrl&lt;/k3&gt; &lt;k4&gt;D&lt;/k4&gt; &lt;/k2&gt; &lt;/s1&gt; &lt;g5&gt;Проєкт&lt;/g5&gt; &lt;g6&gt;Створити перекладені документи&lt;/g6&gt; &lt;/m0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -30439,6 +30703,14 @@ installation script (linux-install.sh).</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>You can make changes to remote files (e.g. deleting a file) using this folder and a Git or SVN client.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="fanja9" changedate="20200510T183033Z" creationid="fanja9" creationdate="20200510T183033Z">
+        <seg>Ви можете видозмінювати віддалені файли (наприклад, видаляти файл), користуючись цією текою або клієнтами Git чи SVN.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>You can modify OmegaT's behaviour by editing the &lt;e0&gt;Properties&lt;/e0&gt; as well as the &lt;f1&gt;Configuration.properties&lt;/f1&gt; file in the package.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="maximo" changedate="20200420T163135Z" creationid="maximo" creationdate="20200420T163135Z">
@@ -30507,6 +30779,14 @@ installation script (linux-install.sh).</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="maximo" changedate="20200420T165218Z" creationid="maximo" creationdate="20200420T165218Z">
         <seg>Таким чином, ви можете виділити слово будь-де у &lt;a1&gt;OmegaT&lt;/a1&gt; та використати Services, щоб перевірити це слово, наприклад у Spotlight чи Google.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You can view it by selecting &lt;g0&gt;Tools &gt; Statistics&lt;/g0&gt;</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="fanja9" changedate="20200510T165905Z" creationid="fanja9" creationdate="20200510T165905Z">
+        <seg>Можете переглянути її, вибравши &lt;g0&gt;Інструменти &gt; Статистика&lt;/g0&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -30851,6 +31131,14 @@ create its configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>are created and used by the spell checker.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="fanja9" changedate="20200510T173232Z" creationid="fanja9" creationdate="20200510T171100Z">
+        <seg>створюються і використовуються Перевікою правопису.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>attributes.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20190701T113235Z" creationid="Kos Ivantsov" creationdate="20190701T113226Z">
@@ -30903,6 +31191,22 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="lesia" changedate="20200503T063608Z" creationid="lesia" creationdate="20200503T063608Z">
         <seg>console.println(source + " &gt;&gt;&gt;&gt; " + target);</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>contains the current statistics of the current project.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="fanja9" changedate="20200510T173151Z" creationid="fanja9" creationdate="20200510T172511Z">
+        <seg>тут знаходиться поточна статистика поточного проєкту.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>contains the latest project match statistics, generated by &lt;g0&gt;Tools &gt; Match Statistics&lt;/g0&gt;</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="fanja9" changedate="20200510T180527Z" creationid="fanja9" creationdate="20200510T180527Z">
+        <seg>тут знаходиться остання статистика збігів у проєкті, згенерована у &lt;g0&gt;Інструменти &gt; Статистика збігів&lt;/g0&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -31127,6 +31431,30 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="lesia" changedate="20200503T063606Z" creationid="lesia" creationdate="20200503T063606Z">
         <seg>if (project.getTranslationInfo(currSegment))</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>if existing, it contains project-specific GUI settings.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="fanja9" changedate="20200510T180912Z" creationid="fanja9" creationdate="20200510T180912Z">
+        <seg>якщо такий файл існує, то він містить специфічні для проєкту налаштування режиму без графічного інтерфейсу.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>if existing, it contains project-specific file filters.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="fanja9" changedate="20200510T180800Z" creationid="fanja9" creationdate="20200510T180800Z">
+        <seg>якщо такий файл існує, то він містить специфічні для проєкту фільтри файлів.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>if existing, it contains project-specific segmentation rules.</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="fanja9" changedate="20200510T180652Z" creationid="fanja9" creationdate="20200510T180652Z">
+        <seg>якщо такий файл існує, то він містить специфічні для проєкту правила сегментації.</seg>
       </tuv>
     </tu>
     <tu>
