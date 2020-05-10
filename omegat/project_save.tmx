@@ -102,6 +102,28 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg># OmegaT.exe runtime configuration
+# To use a parameter, remove the '#' before the '-'
+# Memory
+-Xmx1024M
+# Language
+-Duser.language=FR
+# Country
+-Duser.country=CA</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200510T172936Z" creationid="maximo" creationdate="20200510T172936Z">
+        <seg># OmegaT.exe runtime configuration
+# To use a parameter, remove the '#' before the '-'
+# Memory
+-Xmx1024M
+# Language
+-Duser.language=FR
+# Country
+-Duser.country=CA</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>#Files</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20190504T130939Z" creationid="Kos Ivantsov" creationdate="20190504T130939Z">
@@ -1789,6 +1811,14 @@ To add files to the project, click on the Copy Files to Source Folder... button 
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20190419T182048Z" creationid="Kos Ivantsov" creationdate="20190419T182035Z">
         <seg>--tag-validation=[abort|warn]
 		Перевірити теґи.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>-Dsun.java2d.noddraw=false</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="maximo" changedate="20200510T172938Z" creationid="maximo" creationdate="20200510T172938Z">
+        <seg>-Dsun.java2d.noddraw=false</seg>
       </tuv>
     </tu>
     <tu>
