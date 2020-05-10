@@ -8230,8 +8230,8 @@ Buy another drink</seg>
       <tuv lang="EN">
         <seg>Download the file - it should be a &lt;f0&gt;tarball&lt;/f0&gt; archive (extension &lt;e1&gt;tar.bz&lt;/e1&gt; or &lt;e2&gt;tar.bz2&lt;/e2&gt;).</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="maximo" changedate="20200329T200324Z" creationid="maximo" creationdate="20200329T200324Z">
-        <seg>Завантажити файл — він може бути в архіві &lt;f0&gt;tarball&lt;/f0&gt; (розширення &lt;e1&gt;tar.bz&lt;/e1&gt; чи &lt;e2&gt;tar.bz2&lt;/e2&gt;).</seg>
+      <tuv lang="UK-UA" changeid="lesia" changedate="20200510T165021Z" creationid="maximo" creationdate="20200329T200324Z">
+        <seg>Завантажити файл — це має бути архів &lt;f0&gt;tarball&lt;/f0&gt; (розширення &lt;e1&gt;tar.bz&lt;/e1&gt; чи &lt;e2&gt;tar.bz2&lt;/e2&gt;).</seg>
       </tuv>
     </tu>
     <tu>
@@ -26088,8 +26088,8 @@ in /lib/licenses/Licenses.txt.</seg>
       <tuv lang="EN">
         <seg>There should be three files, with extensions &lt;e1&gt;dz, idx &lt;/e1&gt;and &lt;e2&gt;ifo&lt;/e2&gt;.</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="maximo" changedate="20200329T200427Z" creationid="maximo" creationdate="20200329T200427Z">
-        <seg>Там повинно бути три файли з розширенням &lt;e1&gt;dz, idx&lt;/e1&gt; та &lt;e2&gt;ifo&lt;/e2&gt;.</seg>
+      <tuv lang="UK-UA" changeid="lesia" changedate="20200510T165329Z" creationid="maximo" creationdate="20200329T200427Z">
+        <seg>Там повинно бути три файли з розширеннями &lt;e1&gt;dz, idx&lt;/e1&gt; та &lt;e2&gt;ifo&lt;/e2&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -28768,8 +28768,8 @@ on line {1}, column {2}.</seg>
       <tuv lang="EN">
         <seg>Use untar utility (or its equivalent, for instance&lt;f0&gt; winrar&lt;/f0&gt; in Windows) to extract its contents into the project folder "Dictionary".</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="lesia" changedate="20200503T205442Z" creationid="maximo" creationdate="20200329T200416Z">
-        <seg>Використовуючи утиліту (чи її еквівалент, на кшталт &lt;f0&gt;winrar&lt;/f0&gt; для Windows) розпакувати вміст до теки проєкту «Dictionary».</seg>
+      <tuv lang="UK-UA" changeid="lesia" changedate="20200510T165118Z" creationid="maximo" creationdate="20200329T200416Z">
+        <seg>Використовуючи утиліту untar (чи її еквівалент, на кшталт &lt;f0&gt;winrar&lt;/f0&gt; для Windows) розпакувати вміст до теки проєкту «Dictionary».</seg>
       </tuv>
     </tu>
     <tu>
