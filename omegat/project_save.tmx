@@ -7517,8 +7517,8 @@ Buy another drink</seg>
       <tuv lang="EN">
         <seg>Dictionaries in &lt;a0&gt;OmegaT&lt;/a0&gt; are based on the StarDict or on the Lingvo DSL format.</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="maximo" changedate="20200329T200146Z" creationid="maximo" creationdate="20200329T200146Z">
-        <seg>Словники в &lt;a0&gt;OmegaT&lt;/a0&gt; використовують формат, який оснований на StarDict чи Lingvo DSL.</seg>
+      <tuv lang="UK-UA" changeid="lesia" changedate="20200510T144939Z" creationid="maximo" creationdate="20200329T200146Z">
+        <seg>Словники в &lt;a0&gt;OmegaT&lt;/a0&gt; використовують формат, який базується на StarDict чи Lingvo DSL.</seg>
       </tuv>
     </tu>
     <tu>
@@ -27181,8 +27181,8 @@ the server.</seg>
       <tuv lang="EN">
         <seg>To install the necessary files for the StarDict format, proceed as follows:</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="lesia" changedate="20200412T053453Z" creationid="maximo" creationdate="20200329T200205Z">
-        <seg>Для встановлення необхідних файлів у форматі StarDict необхідно виконати наступне:</seg>
+      <tuv lang="UK-UA" changeid="lesia" changedate="20200510T145518Z" creationid="maximo" creationdate="20200329T200205Z">
+        <seg>Для встановлення необхідних файлів у форматі StarDict необхідно виконати такі кроки:</seg>
       </tuv>
     </tu>
     <tu>
