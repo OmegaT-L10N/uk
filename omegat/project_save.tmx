@@ -1454,6 +1454,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>(?i)</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="lesia" changedate="20200510T174023Z" creationid="lesia" creationdate="20200510T174023Z">
+        <seg>(?i)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>(If you think you have significantly contributed to the OmegaT Project but you
 (don't see your name on the lists, feel free to contact us.)</seg>
       </tuv>
@@ -30739,6 +30747,38 @@ create its configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>\n</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="lesia" changedate="20200510T174029Z" creationid="lesia" creationdate="20200510T174029Z">
+        <seg>\n</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>\r</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="lesia" changedate="20200510T174030Z" creationid="lesia" creationdate="20200510T174030Z">
+        <seg>\r</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>\t</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="lesia" changedate="20200510T174028Z" creationid="lesia" creationdate="20200510T174028Z">
+        <seg>\t</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>\uhhhh</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="lesia" changedate="20200510T174027Z" creationid="lesia" creationdate="20200510T174027Z">
+        <seg>\uhhhh</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>a through z or A through Z, inclusive (range)</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="maximo" changedate="20200412T050830Z" creationid="maximo" creationdate="20200412T050830Z">
@@ -30967,6 +31007,14 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20190815T133305Z" creationid="Kos Ivantsov" creationdate="20190815T133305Z">
         <seg>href (URL-адреси &amp;посилань)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>http://download.oracle.com/javase/1.6.0/docs/api/java/util/regex/Pattern.html</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="lesia" changedate="20200510T173959Z" creationid="lesia" creationdate="20200510T173959Z">
+        <seg>http://download.oracle.com/javase/1.6.0/docs/api/java/util/regex/Pattern.html</seg>
       </tuv>
     </tu>
     <tu>
@@ -31563,6 +31611,14 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="UK-UA" changeid="maximo" changedate="20200420T201105Z" creationid="maximo" creationdate="20200420T201052Z">
         <seg>де &lt;p0&gt;тека&lt;/p0&gt; це шлях до теки, де знаходиться &lt;a1&gt;OmegaT&lt;/a1&gt;, а саме файл &lt;f2&gt;OmegaT.jar&lt;/f2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>x</seg>
+      </tuv>
+      <tuv lang="UK-UA" changeid="lesia" changedate="20200510T174026Z" creationid="lesia" creationdate="20200510T174026Z">
+        <seg>x</seg>
       </tuv>
     </tu>
     <tu>
