@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.2.0_0_747fc65a" segtype="sentence" srclang="en"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.2.0_0_747fc65a9" segtype="sentence" srclang="en"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -16433,8 +16433,8 @@ as the Applications folder.</seg>
       <tuv lang="en">
         <seg>No action is taken, if no Machine Translation service has been activated (in &lt;m0&gt; &lt;g1&gt;Options&lt;/g1&gt; &lt;g2&gt;Machine Translate&lt;/g2&gt; &lt;/m0&gt;).</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="lesia" changedate="20200425T135733Z" creationid="lesia" creationdate="20200425T135733Z">
-        <seg>Не буде виконано жодної дії, якщо машинний переклад не був активований (в &lt;m0&gt; &lt;g1&gt;Налаштуваннях&lt;/g1&gt; &lt;g2&gt;Машинний переклад&lt;/g2&gt; &lt;/m0&gt;).</seg>
+      <tuv lang="uk-UA" changeid="maximo" changedate="20200511T202225Z" creationid="lesia" creationdate="20200425T135733Z">
+        <seg>Якщо машинний переклад не був активований (в меню &lt;m0&gt;&lt;g1&gt;Налаштування&lt;/g1&gt; &lt;g2&gt;Машинний переклад&lt;/g2&gt;&lt;/m0&gt;), то нічого не станеться.</seg>
       </tuv>
     </tu>
     <tu>
