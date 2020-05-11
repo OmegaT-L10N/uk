@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.2.0_0_747fc65a" segtype="sentence" srclang="en"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.2.0_0_747fc65a9" segtype="sentence" srclang="en"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -11892,8 +11892,8 @@ their defaults as a result of the location change.</seg>
       <tuv lang="en">
         <seg>If part of the target segment has been selected, this function overwrites the selected portion.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="lesia" changedate="20200425T134810Z" creationid="lesia" creationdate="20200425T134810Z">
-        <seg>Якщо була виділена частина сегменту перекладу, буде переписана саме вона.</seg>
+      <tuv lang="uk-UA" changeid="maximo" changedate="20200511T201833Z" creationid="lesia" creationdate="20200425T134810Z">
+        <seg>Якщо виділити частину перекладеного сегмента, то збіг буде вставлено на її місце.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13410,8 +13410,8 @@ click on that shortcut.</seg>
       <tuv lang="en">
         <seg>Inserts the currently selected fuzzy match at the cursor position.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="lesia" changedate="20200425T134631Z" creationid="lesia" creationdate="20200425T134631Z">
-        <seg>Вставляє виділений збіг на місце курсора.</seg>
+      <tuv lang="uk-UA" changeid="maximo" changedate="20200511T201558Z" creationid="lesia" creationdate="20200425T134631Z">
+        <seg>Вставляє вибраний збіг на місці курсора.</seg>
       </tuv>
     </tu>
     <tu>
@@ -20641,8 +20641,8 @@ These words: 'Page not found'</seg>
       <tuv lang="en">
         <seg>Replaces the whole target segment with the currently selected fuzzy match (by default the first match is selected).</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="lesia" changedate="20200425T134241Z" creationid="lesia" creationdate="20200425T134241Z">
-        <seg>Замінює увесь сегмент перекладу вибраним нечітким збігом (за замовчуванням встановлений перший збіг).</seg>
+      <tuv lang="uk-UA" changeid="maximo" changedate="20200511T201525Z" creationid="lesia" creationdate="20200425T134241Z">
+        <seg>Замінює увесь сегмент перекладу вибраним нечітким збігом (спочатку завжди вибраний перший збіг).</seg>
       </tuv>
     </tu>
     <tu>
