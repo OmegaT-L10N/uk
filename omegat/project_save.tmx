@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.2.0_0_747fc65a" segtype="sentence" srclang="en"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.2.0_0_747fc65a9" segtype="sentence" srclang="en"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -2792,6 +2792,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;l0&gt;--tag-validation=&lt;p1&gt;abort|warn&lt;/p1&gt;&lt;/l0&gt; &lt;p2&gt;outputFileName&lt;/p2&gt;</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="maximo" changedate="20200511T201034Z" creationid="maximo" creationdate="20200511T201034Z">
+        <seg>&lt;l0&gt;--tag-validation=&lt;p1&gt;abort|warn&lt;/p1&gt;&lt;/l0&gt; &lt;p2&gt;outputFileName&lt;/p2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;l0&gt;/path/to/project&lt;/l0&gt; tells &lt;a1&gt;OmegaT&lt;/a1&gt; where to find the project to translate.</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="maximo" changedate="20200423T154420Z" creationid="maximo" creationdate="20200423T154420Z">
@@ -3701,8 +3709,8 @@ The current setting is {0}MB;</seg>
       <tuv lang="en">
         <seg>Again note that the backslash is escaped as well.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="maximo" changedate="20200423T160447Z" creationid="maximo" creationdate="20200423T160447Z">
-        <seg>Тут треба звернути увагу, що бекслеш також треба екранувати.</seg>
+      <tuv lang="uk-UA" changeid="maximo" changedate="20200511T201033Z" creationid="maximo" creationdate="20200423T160447Z">
+        <seg>Тут треба звернути увагу, що бекслеш (обернену скісну риску) також треба екранувати нею ж.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10429,8 +10437,8 @@ provided (omegat.kaptn).</seg>
       <tuv lang="en">
         <seg>For this reason, the two commands described above are contained in a file (a "script", also called a "&lt;f0&gt;.bat&lt;/f0&gt; file" on Windows systems).</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="maximo" changedate="20200420T201931Z" creationid="maximo" creationdate="20200420T201931Z">
-        <seg>Тому дві ці команди запаковані у спеціальний файл ("скрипт", на Windows його ще називають "&lt;f0&gt;.bat&lt;/f0&gt;" файлом).</seg>
+      <tuv lang="uk-UA" changeid="maximo" changedate="20200511T200514Z" creationid="maximo" creationdate="20200420T201931Z">
+        <seg>Тому дві ці команди запаковані у спеціальний файл ("скрипт", на Windows його ще називають "&lt;f0&gt;.bat&lt;/f0&gt; файлом").</seg>
       </tuv>
     </tu>
     <tu>
@@ -14584,8 +14592,8 @@ itself on the first run.</seg>
       <tuv lang="en">
         <seg>Launch command arguments</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="maximo" changedate="20200420T202116Z" creationid="maximo" creationdate="20200420T202116Z">
-        <seg>Аргументи команди запускуLaunch command arguments</seg>
+      <tuv lang="uk-UA" changeid="maximo" changedate="20200511T200915Z" creationid="maximo" creationdate="20200420T202116Z">
+        <seg>Аргументи команди запуску</seg>
       </tuv>
     </tu>
     <tu>
@@ -18146,8 +18154,8 @@ installed on your system.</seg>
       <tuv lang="en">
         <seg>Opening a command line window</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="maximo" changedate="20200420T200537Z" creationid="maximo" creationdate="20200420T200537Z">
-        <seg>Відкриття вікна терміналу</seg>
+      <tuv lang="uk-UA" changeid="maximo" changedate="20200511T200259Z" creationid="maximo" creationdate="20200420T200537Z">
+        <seg>Відкриття вікна командного рядка</seg>
       </tuv>
     </tu>
     <tu>
@@ -26335,8 +26343,8 @@ in /lib/licenses/Licenses.txt.</seg>
       <tuv lang="en">
         <seg>There are two ways of launching &lt;a1&gt;OmegaT&lt;/a1&gt; using the command line.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="maximo" changedate="20200420T200522Z" creationid="maximo" creationdate="20200420T200522Z">
-        <seg>Є два способи, як запуститиґ &lt;a1&gt;OmegaT&lt;/a1&gt; з командного рядка.</seg>
+      <tuv lang="uk-UA" changeid="maximo" changedate="20200511T200233Z" creationid="maximo" creationdate="20200420T200522Z">
+        <seg>Є два способи, як запустити &lt;a1&gt;OmegaT&lt;/a1&gt; з командного рядка.</seg>
       </tuv>
     </tu>
     <tu>
@@ -27002,8 +27010,8 @@ the server.</seg>
       <tuv lang="en">
         <seg>This method has a particular benefit of being suitable for finding causes of problems: if an error occurs during use of the program, an error message is output in the terminal window which may contain useful information on the cause of the error.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="maximo" changedate="20200420T201717Z" creationid="maximo" creationdate="20200420T201717Z">
-        <seg>Цей метод особливо корисний для знаходження причин проблем у роботі програми. Якщо під час роботи програми стаються якісь помилки, то у вікно терміналу надрукуються повідомлення про помилку. По ним іноді можна зрозуміти причину помилки.</seg>
+      <tuv lang="uk-UA" changeid="maximo" changedate="20200511T200447Z" creationid="maximo" creationdate="20200420T201717Z">
+        <seg>Запуск OmegaT з командного рядка особливо корисний для знаходження причин проблем у роботі програми. Якщо під час роботи програми стаються якісь помилки, то у вікно терміналу надрукуються повідомлення про помилку. По ним іноді можна зрозуміти причину помилки.</seg>
       </tuv>
     </tu>
     <tu>
@@ -31160,6 +31168,14 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20190822T212921Z" creationid="Kos Ivantsov" creationdate="20190822T212921Z">
         <seg>cd &lt;шлях до теки, де міститься файл OmegaT.jar&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>cd &lt;p0&gt;&lt;OmegaT.app location&gt;&lt;/p0&gt;/OmegaT.app/Contents/Resources/Java/</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="maximo" changedate="20200511T200345Z" creationid="maximo" creationdate="20200511T200345Z">
+        <seg>cd &lt;p0&gt;&lt;розташування OmegaT.app&gt;&lt;/p0&gt;/OmegaT.app/Contents/Resources/Java/</seg>
       </tuv>
     </tu>
     <tu>
