@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.2.0_0_747fc65a" segtype="sentence" srclang="en"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.2.0_0_747fc65a9" segtype="sentence" srclang="en"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -4537,8 +4537,8 @@ may experience unexpected, but correct behaviour.</seg>
       <tuv lang="en">
         <seg>At the beginning of the installation you can select the language to be used during the installation.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="maximo" changedate="20200418T125528Z" creationid="maximo" creationdate="20200418T125528Z">
-        <seg>На початку ви можете обрати мову, якою буде проводитися процес встановлення.</seg>
+      <tuv lang="uk-UA" changeid="maximo" changedate="20200511T195410Z" creationid="maximo" creationdate="20200418T125528Z">
+        <seg>На початку ви можете обрати мову, якою буде проводитися процес встановлення,</seg>
       </tuv>
     </tu>
     <tu>
@@ -13066,8 +13066,8 @@ click on that shortcut.</seg>
       <tuv lang="en">
         <seg>In the following window you can indicate that the language selected is to be used in OmegaT.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="maximo" changedate="20200418T125604Z" creationid="maximo" creationdate="20200418T125604Z">
-        <seg>А у наступному вікні ви зможете обрати мову для самої OmegaT.</seg>
+      <tuv lang="uk-UA" changeid="maximo" changedate="20200511T195512Z" creationid="maximo" creationdate="20200418T125604Z">
+        <seg>а у наступному вікні ви зможете обрати мову для самої OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
