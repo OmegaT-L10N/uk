@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.2.0_0_747fc65a" segtype="sentence" srclang="en"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.2.0_0_747fc65a9" segtype="sentence" srclang="en"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -11932,8 +11932,8 @@ their defaults as a result of the location change.</seg>
       <tuv lang="en">
         <seg>If the Auto-propagation check box is not checked, the segments with alternative translations are left untranslated until the user has decided which translation is to be used.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="lesia" changedate="20200412T202718Z" creationid="lesia" creationdate="20200412T202718Z">
-        <seg>Якщо прапорець Автоматичного заповнення не виставлено, сегменти, ідентичні до вже перекладеного залишаться порожніми і перекладач сам вирішить, який переклад там потрібен.</seg>
+      <tuv lang="uk-UA" changeid="maximo" changedate="20200511T194244Z" creationid="lesia" creationdate="20200412T202718Z">
+        <seg>Якщо прапорець "Автоматичне заповнення..." не виставлено, сегменти, ідентичні до вже перекладеного залишаться порожніми і перекладач сам вирішить, який переклад там потрібен.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12770,8 +12770,8 @@ click on that shortcut.</seg>
       <tuv lang="en">
         <seg>In a similar fashion as above the user can create project-specific File filters, which will be stored together with the project and will be valid for the current project only.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="lesia" changedate="20200420T160206Z" creationid="lesia" creationdate="20200420T160206Z">
-        <seg>За цією ж схемою можна створити і специфічні для проєкту Фільтри файлів, які зберігатимуться разом з конкретним проєктом та будуть діяти лише для нього.</seg>
+      <tuv lang="uk-UA" changeid="maximo" changedate="20200511T194452Z" creationid="lesia" creationdate="20200420T160206Z">
+        <seg>За цією ж схемою можна створити і специфічні для проєкту фільтри файлів, які зберігатимуться разом з конкретним проєктом та будуть діяти лише для нього.</seg>
       </tuv>
     </tu>
     <tu>
@@ -15754,8 +15754,8 @@ itself on the first run.</seg>
       <tuv lang="en">
         <seg>Mistranslated segments can of course be corrected later manually using &lt;g0&gt;Create Alternative Translation&lt;/g0&gt;.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="lesia" changedate="20200412T202534Z" creationid="lesia" creationdate="20200412T202534Z">
-        <seg>Звісно, якщо потрібно, можна буде внести зміни до цього першого перекладу за допомогою функції &lt;g0&gt;"Створити варіант перекладу"&lt;/g0&gt;, яку можна вибрати, викликавши контекстне меню правою клавішою мишки.</seg>
+      <tuv lang="uk-UA" changeid="maximo" changedate="20200511T194211Z" creationid="lesia" creationdate="20200412T202534Z">
+        <seg>Звісно, якщо потрібно, можна буде внести зміни до цього першого перекладу за допомогою функції &lt;g0&gt;"Створити варіант перекладу"&lt;/g0&gt;, яку можна вибрати у контекстному меню.</seg>
       </tuv>
     </tu>
     <tu>
@@ -25469,8 +25469,8 @@ in /lib/licenses/Licenses.txt.</seg>
       <tuv lang="en">
         <seg>The new set of rules will be stored together with the project and will not interfere with the general set of segmentation rules.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="lesia" changedate="20200420T150859Z" creationid="lesia" creationdate="20200420T150859Z">
-        <seg>Нові правила збережуться саме для актуального проєкту і не пересікатимуться із загальними налаштуваннями сегментації.</seg>
+      <tuv lang="uk-UA" changeid="maximo" changedate="20200511T194408Z" creationid="lesia" creationdate="20200420T150859Z">
+        <seg>Нові правила збережуться саме для актуального проєкту і не будуть конфліктувати із загальними налаштуваннями сегментації.</seg>
       </tuv>
     </tu>
     <tu>
@@ -27379,8 +27379,8 @@ the server.</seg>
       <tuv lang="en">
         <seg>To create a project-specific set of file filters, click on the &lt;g0&gt;File filter ... &lt;/g0&gt;button, then activate &lt;g1&gt;Enable project specific filters&lt;/g1&gt; check box in the window that opens.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="lesia" changedate="20200420T160900Z" creationid="lesia" creationdate="20200420T160454Z">
-        <seg>Щоб створити специфічний для проєкту набір Фільтрів файлу, натисніть на поле &lt;g0&gt;Фільтр файлів... &lt;/g0&gt; та активуйте чекбокс&lt;g1&gt;Налаштування файлових фільтрів будуть ужиті лише у поточному проєкті&lt;/g1&gt;.</seg>
+      <tuv lang="uk-UA" changeid="maximo" changedate="20200511T194547Z" creationid="lesia" creationdate="20200420T160454Z">
+        <seg>Щоб створити специфічний для проєкту набір файлових фільтрів, натисніть на поле &lt;g0&gt;Фільтри файлів... &lt;/g0&gt; та поставте прапорець &lt;g1&gt;Налаштування файлових фільтрів будуть ужиті лише у поточному проєкті&lt;/g1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -27435,8 +27435,8 @@ the server.</seg>
       <tuv lang="en">
         <seg>To delete project specific segmentation rules, uncheck the check box.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="lesia" changedate="20200420T151010Z" creationid="lesia" creationdate="20200420T151010Z">
-        <seg>Щоб видалити специфічні для проєкту правила сегментації, просто зніміть прапорець з цієї оції.</seg>
+      <tuv lang="uk-UA" changeid="maximo" changedate="20200511T194417Z" creationid="lesia" creationdate="20200420T151010Z">
+        <seg>Щоб видалити специфічні для проєкту правила сегментації, просто зніміть прапорець з цієї опції.</seg>
       </tuv>
     </tu>
     <tu>
