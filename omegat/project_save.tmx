@@ -1859,8 +1859,8 @@ To add files to the project, click on the Copy Files to Source Folder... button 
       <tuv lang="en">
         <seg>...but the same characters are displayed properly in the Editing pane: the extension and the file encoding do not match.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="lesia" changedate="20200505T204050Z" creationid="lesia" creationdate="20200505T203721Z">
-        <seg>...хоча ті ж символи нормально відображуються у вікні редагування: розширення файлу та кодування файлу не співпадають.</seg>
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200511T200747Z" creationid="lesia" creationdate="20200505T203721Z">
+        <seg>...хоча ті ж символи нормально відображуються у вікні редагування. Причина проблеми в тому, що розширення файлу та його кодування несумісні.</seg>
       </tuv>
     </tu>
     <tu>
@@ -17850,8 +17850,8 @@ installed on your system.</seg>
       <tuv lang="en">
         <seg>One or more of the above problems may have been fixed, but the project has not been reloaded.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="lesia" changedate="20200505T203718Z" creationid="lesia" creationdate="20200505T203710Z">
-        <seg>Одна чи кілька проблем, описаних вище, можливо, вже була виправлена, однак, ви не перезавантажили проєкт.</seg>
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200511T200600Z" creationid="lesia" creationdate="20200505T203710Z">
+        <seg>Можливо, одна чи кілька проблем, описаних вище, вже були виправлені, однак, ви не перезавантажили проєкт.</seg>
       </tuv>
     </tu>
     <tu>
@@ -25188,8 +25188,8 @@ instead.</seg>
       <tuv lang="en">
         <seg>The glossary file does not have the correct extension (.tab, .utf8 or .txt).</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="lesia" changedate="20200505T203139Z" creationid="lesia" creationdate="20200505T203139Z">
-        <seg>Файл глосарію має неправильне розширення (.tab, .utf8 чи .txt).</seg>
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200511T200446Z" creationid="lesia" creationdate="20200505T203139Z">
+        <seg>Файл глосарію має неправильне розширення (потрібні розширення - .tab, .utf8 чи .txt).</seg>
       </tuv>
     </tu>
     <tu>
@@ -26319,8 +26319,8 @@ in /lib/licenses/Licenses.txt.</seg>
       <tuv lang="en">
         <seg>There are no terms in the current segment which match any terms in the glossary.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="lesia" changedate="20200505T203609Z" creationid="lesia" creationdate="20200505T203525Z">
-        <seg>В актуальному сегменті немає термінів, записаних до глосарію</seg>
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200511T200528Z" creationid="lesia" creationdate="20200505T203525Z">
+        <seg>В актуальному сегменті немає термінів, записаних до глосарію.</seg>
       </tuv>
     </tu>
     <tu>
