@@ -11613,8 +11613,8 @@ need not be entered.)</seg>
       <tuv lang="en">
         <seg>If an &lt;a0&gt;OmegaT&lt;/a0&gt; project contains one or more glossaries, any terms in the glossary which are also found in the current segment will be automatically displayed in the Glossary viewer.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="maximo" changedate="20200404T170817Z" creationid="maximo" creationdate="20200404T170817Z">
-        <seg>Якщо проєкт в &lt;a0&gt;OmegaT&lt;/a0&gt; містить один або більше глосаріїв, то вирази, які є в глосаріях і зустрічаються в сегментах, відображаються у вікні Глосарій.</seg>
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200511T194318Z" creationid="maximo" creationdate="20200404T170817Z">
+        <seg>Якщо проєкт в &lt;a0&gt;OmegaT&lt;/a0&gt; містить один або більше глосаріїв, то вирази, які є в глосаріях і зустрічаються в сегментах, відображуються у вікні Глосарій.</seg>
       </tuv>
     </tu>
     <tu>
