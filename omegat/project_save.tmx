@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.2.0_0_747fc65a" segtype="sentence" srclang="en"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.2.0_0_747fc65a9" segtype="sentence" srclang="en"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -11900,8 +11900,8 @@ their defaults as a result of the location change.</seg>
       <tuv lang="en">
         <seg>If part of the target segment has been selected, this function overwrites the selected portion.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="maximo" changedate="20200511T201833Z" creationid="lesia" creationdate="20200425T134810Z">
-        <seg>Якщо виділити частину перекладеного сегмента, то збіг буде вставлено на її місце.</seg>
+      <tuv lang="uk-UA" changeid="maximo" changedate="20200511T201901Z" creationid="lesia" creationdate="20200425T134810Z">
+        <seg>або виділеної частини перекладеного сегмента.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11932,8 +11932,8 @@ their defaults as a result of the location change.</seg>
       <tuv lang="en">
         <seg>If some texts are selected within the fuzzy match, only this selection will be inserted at the cursor position.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="lesia" changedate="20200425T134934Z" creationid="lesia" creationdate="20200425T134934Z">
-        <seg>Якщо в межах збігу виділене певне місце, саме воно буде вставлене на місце курсора.</seg>
+      <tuv lang="uk-UA" changeid="maximo" changedate="20200511T201957Z" creationid="lesia" creationdate="20200425T134934Z">
+        <seg>Тут також можна виділити частину тексту збігу, щоб вставилася саме вона.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13418,8 +13418,8 @@ click on that shortcut.</seg>
       <tuv lang="en">
         <seg>Inserts the currently selected fuzzy match at the cursor position.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="maximo" changedate="20200511T201558Z" creationid="lesia" creationdate="20200425T134631Z">
-        <seg>Вставляє вибраний збіг на місці курсора.</seg>
+      <tuv lang="uk-UA" changeid="maximo" changedate="20200511T201840Z" creationid="lesia" creationdate="20200425T134631Z">
+        <seg>Вставляє вибраний збіг на місці курсора</seg>
       </tuv>
     </tu>
     <tu>
@@ -20641,8 +20641,8 @@ These words: 'Page not found'</seg>
       <tuv lang="en">
         <seg>Replaces the target segment with the translation, provided by the selected Machine Translation service.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="lesia" changedate="20200425T135541Z" creationid="lesia" creationdate="20200425T135541Z">
-        <seg>Замінює сегмент перекладу пропозицією машинного перекладу.</seg>
+      <tuv lang="uk-UA" changeid="maximo" changedate="20200511T202136Z" creationid="lesia" creationdate="20200425T135541Z">
+        <seg>Замінює сегмент перекладу пропозицією машинного перекладу від обраного рушія.</seg>
       </tuv>
     </tu>
     <tu>
