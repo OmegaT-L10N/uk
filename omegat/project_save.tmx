@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.2.0_0_747fc65a9" segtype="sentence" srclang="en"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.2.0_0_747fc65a" segtype="sentence" srclang="en"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -22582,8 +22582,8 @@ The scope of a search is by default the project and can be set to be any files l
       <tuv lang="en">
         <seg>Should you need more specific information, consult the &lt;u0&gt;Java Regex documentation&lt;/u0&gt;.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="maximo" changedate="20200412T044356Z" creationid="maximo" creationdate="20200412T044356Z">
-        <seg>Якщо вам потрібна вичерпна інформація - дивіться &lt;u0&gt;документацію регулярних виразів Java&lt;/u0&gt;.</seg>
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200511T201239Z" creationid="maximo" creationdate="20200412T044356Z">
+        <seg>Щоб дізнатися про них більше, дивіться &lt;u0&gt;документацію регулярних виразів Java&lt;/u0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -25742,8 +25742,8 @@ in /lib/licenses/Licenses.txt.</seg>
       <tuv lang="en">
         <seg>The regular expressions (or regex for short) used in searches and segmentation rules are those supported by Java.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="maximo" changedate="20200412T044144Z" creationid="maximo" creationdate="20200412T044144Z">
-        <seg>У OmegaT для пошуку, чи у правилах сегментації використовуються регулярні вирази Java.</seg>
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200511T201121Z" creationid="maximo" creationdate="20200412T044144Z">
+        <seg>Для пошуку чи налаштування правил сегментації в OmegaT використовуються регулярні вирази Java.</seg>
       </tuv>
     </tu>
     <tu>
@@ -26640,8 +26640,8 @@ the server.</seg>
       <tuv lang="en">
         <seg>This chapter is intended for advanced users, who need to define their own variants of segmentation rules or devise more complex and powerful key search items.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="maximo" changedate="20200412T044842Z" creationid="maximo" creationdate="20200412T044842Z">
-        <seg>Цей розділ призначений для тих користувачів, яким треба визначити свої варіанти правил сегментації чи шукати складні конструкції.</seg>
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200511T201403Z" creationid="maximo" creationdate="20200412T044842Z">
+        <seg>Цей розділ призначений для тих користувачів OmegaT, яким треба визначити свої варіанти правил сегментації чи шукати в тексті складні конструкції.</seg>
       </tuv>
     </tu>
     <tu>
