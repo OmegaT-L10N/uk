@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.2.0_0_747fc65a9" segtype="sentence" srclang="en"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.2.0_0_747fc65a" segtype="sentence" srclang="en"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -1837,6 +1837,14 @@ To add files to the project, click on the Copy Files to Source Folder... button 
       <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20190419T173124Z" creationid="Kos Ivantsov" creationdate="20190419T173124Z">
         <seg>-h, --help
 		Показати інформацію про використання параметрів.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200511T201845Z" creationid="lesia" creationdate="20200511T201845Z">
+        <seg>.</seg>
       </tuv>
     </tu>
     <tu>
@@ -31020,6 +31028,38 @@ create its configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>[\p{L}&amp;&amp;[^\p{Lu}]]</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200511T201825Z" creationid="lesia" creationdate="20200511T201825Z">
+        <seg>[\p{L}&amp;&amp;[^\p{Lu}]]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>[^abc]</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200511T201830Z" creationid="lesia" creationdate="20200511T201830Z">
+        <seg>[^abc]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>[a-zA-Z]</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200511T201836Z" creationid="lesia" creationdate="20200511T201836Z">
+        <seg>[a-zA-Z]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>[abc]</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200511T201829Z" creationid="lesia" creationdate="20200511T201829Z">
+        <seg>[abc]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>[fuzzy]</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20190422T205740Z" creationid="Kos Ivantsov" creationdate="20190422T205740Z">
@@ -31044,10 +31084,122 @@ create its configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>\</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200511T201706Z" creationid="lesia" creationdate="20200511T201706Z">
+        <seg>\</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>\0mnn</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200511T201645Z" creationid="lesia" creationdate="20200511T201645Z">
+        <seg>\0mnn</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>\0n</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200511T201639Z" creationid="lesia" creationdate="20200511T201639Z">
+        <seg>\0n</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>\0nn</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200511T201644Z" creationid="lesia" creationdate="20200511T201644Z">
+        <seg>\0nn</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>\D</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200511T201850Z" creationid="lesia" creationdate="20200511T201850Z">
+        <seg>\D</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>\E</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200511T201800Z" creationid="lesia" creationdate="20200511T201800Z">
+        <seg>\E</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>\P{InGreek}</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200511T201821Z" creationid="lesia" creationdate="20200511T201821Z">
+        <seg>\P{InGreek}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>\Q</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200511T201745Z" creationid="lesia" creationdate="20200511T201745Z">
+        <seg>\Q</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>\S</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200511T201855Z" creationid="lesia" creationdate="20200511T201855Z">
+        <seg>\S</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>\W</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200511T201905Z" creationid="lesia" creationdate="20200511T201905Z">
+        <seg>\W</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>\\</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200511T201740Z" creationid="lesia" creationdate="20200511T201740Z">
+        <seg>\\</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>\a</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="lesia" changedate="20200510T174037Z" creationid="lesia" creationdate="20200510T174037Z">
         <seg>\a</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>\cx</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200511T201622Z" creationid="lesia" creationdate="20200511T201622Z">
+        <seg>\cx</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>\d</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200511T201849Z" creationid="lesia" creationdate="20200511T201849Z">
+        <seg>\d</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>\e</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200511T201619Z" creationid="lesia" creationdate="20200511T201619Z">
+        <seg>\e</seg>
       </tuv>
     </tu>
     <tu>
@@ -31068,10 +31220,42 @@ create its configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>\p{InGreek}</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200511T201811Z" creationid="lesia" creationdate="20200511T201811Z">
+        <seg>\p{InGreek}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>\p{Lu}</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200511T201816Z" creationid="lesia" creationdate="20200511T201816Z">
+        <seg>\p{Lu}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>\p{Sc}</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200511T201819Z" creationid="lesia" creationdate="20200511T201819Z">
+        <seg>\p{Sc}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>\r</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="lesia" changedate="20200510T174030Z" creationid="lesia" creationdate="20200510T174030Z">
         <seg>\r</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>\s</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200511T201854Z" creationid="lesia" creationdate="20200511T201854Z">
+        <seg>\s</seg>
       </tuv>
     </tu>
     <tu>
@@ -31088,6 +31272,30 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="lesia" changedate="20200510T174027Z" creationid="lesia" creationdate="20200510T174027Z">
         <seg>\uhhhh</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>\w</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200511T201900Z" creationid="lesia" creationdate="20200511T201900Z">
+        <seg>\w</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>\xhh</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200511T201700Z" creationid="lesia" creationdate="20200511T201700Z">
+        <seg>\xhh</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>^</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200511T201910Z" creationid="lesia" creationdate="20200511T201910Z">
+        <seg>^</seg>
       </tuv>
     </tu>
     <tu>
@@ -31360,6 +31568,14 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="lesia" changedate="20200510T173959Z" creationid="lesia" creationdate="20200510T173959Z">
         <seg>http://download.oracle.com/javase/1.6.0/docs/api/java/util/regex/Pattern.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>http://download.oracle.com/javase/1.6.0/docs/api/java/util/regex/Pattern.html#ubc</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200511T201813Z" creationid="lesia" creationdate="20200511T201813Z">
+        <seg>http://download.oracle.com/javase/1.6.0/docs/api/java/util/regex/Pattern.html#ubc</seg>
       </tuv>
     </tu>
     <tu>
