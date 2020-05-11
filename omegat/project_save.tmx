@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.2.0_0_747fc65a9" segtype="sentence" srclang="en"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.2.0_0_747fc65a" segtype="sentence" srclang="en"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -128,6 +128,14 @@
       </tuv>
       <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20190504T130939Z" creationid="Kos Ivantsov" creationdate="20190504T130939Z">
         <seg>Кількість файлів</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>$</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200511T201911Z" creationid="lesia" creationdate="20200511T201911Z">
+        <seg>$</seg>
       </tuv>
     </tu>
     <tu>
@@ -1554,12 +1562,28 @@ To add files to the project, click on the Copy Files to Source Folder... button 
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>(XY)</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200511T202010Z" creationid="lesia" creationdate="20200511T202010Z">
+        <seg>(XY)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>(You will still able to use OmegaT
 3.6 to edit this project as a team project.)</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20190821T204107Z" creationid="Kos Ivantsov" creationdate="20190821T204107Z">
         <seg>(Цей проєкт і надалі можна буде використовувати як командний,
 якщо працювати у ньому в OmegaT версії 3.6.)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>(\b\w+\b)\s\1\b</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200511T202107Z" creationid="lesia" creationdate="20200511T202107Z">
+        <seg>(\b\w+\b)\s\1\b</seg>
       </tuv>
     </tu>
     <tu>
@@ -20141,6 +20165,14 @@ These words: 'Page not found'</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Regex Tester</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200511T202044Z" creationid="lesia" creationdate="20200511T202044Z">
+        <seg>Regex Tester</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Regex tools and examples of use</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="maximo" changedate="20200412T052042Z" creationid="maximo" creationdate="20200412T052042Z">
@@ -26501,8 +26533,8 @@ You, victim of one</seg>
       <tuv lang="en">
         <seg>They generally follow much the same pattern (for an example from the Regular Expression Tester see below): the regular expression (top entry) analyzes the search text (Text box in the middle) , yielding the hits, shown in the result Text box.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="maximo" changedate="20200412T052402Z" creationid="maximo" creationdate="20200412T052402Z">
-        <seg>В основному, вони працюють за такою схемою: регулярний вираз (зверху) аналізує текст (посередині) і видає результати у нижньому текстовому полі. (Приклад із Regular Expression Tester)</seg>
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200511T202042Z" creationid="maximo" creationdate="20200412T052402Z">
+        <seg>Загалом вони працюють за такою схемою: регулярний вираз (зверху) аналізує текст (посередині) і видає результати у нижньому текстовому полі. (Приклад із Regular Expression Tester)</seg>
       </tuv>
     </tu>
     <tu>
@@ -30244,6 +30276,22 @@ Your page is not found</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>X*?</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200511T201952Z" creationid="lesia" creationdate="20200511T201952Z">
+        <seg>X*?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>X+?</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200511T201957Z" creationid="lesia" creationdate="20200511T201957Z">
+        <seg>X+?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>X, once or not at all</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="maximo" changedate="20200412T051529Z" creationid="maximo" creationdate="20200412T051529Z">
@@ -30264,6 +30312,38 @@ Your page is not found</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="maximo" changedate="20200412T051614Z" creationid="maximo" creationdate="20200412T051614Z">
         <seg>X, нуль чи більше разів</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>X&lt;e0&gt;*&lt;/e0&gt;</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200511T201936Z" creationid="lesia" creationdate="20200511T201936Z">
+        <seg>X&lt;e0&gt;*&lt;/e0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>X&lt;e0&gt;+&lt;/e0&gt;</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200511T201943Z" creationid="lesia" creationdate="20200511T201943Z">
+        <seg>X&lt;e0&gt;+&lt;/e0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>X&lt;e0&gt;?&lt;/e0&gt;</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200511T201933Z" creationid="lesia" creationdate="20200511T201933Z">
+        <seg>X&lt;e0&gt;?&lt;/e0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>X??</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200511T201948Z" creationid="lesia" creationdate="20200511T201948Z">
+        <seg>X??</seg>
       </tuv>
     </tu>
     <tu>
@@ -30324,10 +30404,26 @@ Your page is not found</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>XY</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200511T202006Z" creationid="lesia" creationdate="20200511T202006Z">
+        <seg>XY</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>XY as a single group</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="maximo" changedate="20200412T052005Z" creationid="maximo" creationdate="20200412T052005Z">
         <seg>XY як одну групу</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>X|Y</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200511T202008Z" creationid="lesia" creationdate="20200511T202008Z">
+        <seg>X|Y</seg>
       </tuv>
     </tu>
     <tu>
@@ -31028,6 +31124,14 @@ create its configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>[\.,]\s*[\.,]+</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200511T202111Z" creationid="lesia" creationdate="20200511T202111Z">
+        <seg>[\.,]\s*[\.,]+</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>[\p{L}&amp;&amp;[^\p{Lu}]]</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="lesia" changedate="20200511T201825Z" creationid="lesia" creationdate="20200511T201825Z">
@@ -31092,6 +31196,22 @@ create its configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>\.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200511T202112Z" creationid="lesia" creationdate="20200511T202112Z">
+        <seg>\.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>\.[A-Z]</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200511T202134Z" creationid="lesia" creationdate="20200511T202134Z">
+        <seg>\.[A-Z]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>\0mnn</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="lesia" changedate="20200511T201645Z" creationid="lesia" creationdate="20200511T201645Z">
@@ -31112,6 +31232,14 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="lesia" changedate="20200511T201644Z" creationid="lesia" creationdate="20200511T201644Z">
         <seg>\0nn</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>\B</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200511T201915Z" creationid="lesia" creationdate="20200511T201915Z">
+        <seg>\B</seg>
       </tuv>
     </tu>
     <tu>
@@ -31176,6 +31304,22 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="lesia" changedate="20200510T174037Z" creationid="lesia" creationdate="20200510T174037Z">
         <seg>\a</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>\b</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200511T201912Z" creationid="lesia" creationdate="20200511T201912Z">
+        <seg>\b</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>\bis\b</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200511T202137Z" creationid="lesia" creationdate="20200511T202137Z">
+        <seg>\bis\b</seg>
       </tuv>
     </tu>
     <tu>
@@ -31256,6 +31400,38 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="lesia" changedate="20200511T201854Z" creationid="lesia" creationdate="20200511T201854Z">
         <seg>\s</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>\s+$</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200511T202115Z" creationid="lesia" creationdate="20200511T202115Z">
+        <seg>\s+$</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>\s+a\s+[aeiou]</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200511T202120Z" creationid="lesia" creationdate="20200511T202120Z">
+        <seg>\s+a\s+[aeiou]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>\s+an\s+[^aeiou]</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200511T202122Z" creationid="lesia" creationdate="20200511T202122Z">
+        <seg>\s+an\s+[^aeiou]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>\s{2,}</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200511T202131Z" creationid="lesia" creationdate="20200511T202131Z">
+        <seg>\s{2,}</seg>
       </tuv>
     </tu>
     <tu>
@@ -31584,6 +31760,14 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20190808T092736Z" creationid="Kos Ivantsov" creationdate="20190808T092736Z">
         <seg>http://omegat.sourceforge.net/webstart/OmegaT.jnlp</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>http://weitz.de/regex-coach/</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200511T202046Z" creationid="lesia" creationdate="20200511T202046Z">
+        <seg>http://weitz.de/regex-coach/</seg>
       </tuv>
     </tu>
     <tu>
