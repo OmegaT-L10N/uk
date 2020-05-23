@@ -6251,6 +6251,14 @@ Buy another drink</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Click the dropdown arrow of the &lt;e0&gt;Search for&lt;/e0&gt; box to access the last 10 searches.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200523T201808Z" creationid="lesia" creationdate="20200523T201808Z">
+        <seg>Натисніть на стрілку вниз на полі &lt;e0&gt;Шукати&lt;/e0&gt;, щоб побачити останні 10 пошукових запитів.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Click this button to access the &lt;u0&gt;TaaS&lt;/u0&gt; project site and create a user account.</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="maximo" changedate="20200412T141713Z" creationid="maximo" creationdate="20200412T141713Z">
@@ -8589,6 +8597,14 @@ project_save.tmx не був переданий на віддалений сер
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Edit &gt; Insert source (&lt;k0&gt; &lt;k1&gt;Ctrl&lt;/k1&gt; &lt;k2&gt;Shift&lt;/k2&gt; &lt;k3&gt;I&lt;/k3&gt; &lt;/k0&gt;): insert current segment source.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200523T202119Z" creationid="lesia" creationdate="20200523T202119Z">
+        <seg>Редагування &gt; Вставити текст оригіналу (&lt;k0&gt; &lt;k1&gt;Ctrl&lt;/k1&gt; &lt;k2&gt;Shift&lt;/k2&gt; &lt;k3&gt;I&lt;/k3&gt; &lt;/k0&gt;): вставити поточний сегмент тексту оригіналу.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Edit External Search Command</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20190808T130027Z" creationid="Kos Ivantsov" creationdate="20190808T130027Z">
@@ -9821,6 +9837,22 @@ Gossamer threads hold you back
       </tuv>
       <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20190822T100456Z" creationid="Kos Ivantsov" creationdate="20190805T121210Z">
         <seg>Формат файлу</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>File &gt; Close (&lt;k0&gt; &lt;k1&gt;Ctrl&lt;/k1&gt; &lt;k2&gt;W&lt;/k2&gt; &lt;/k0&gt;): close the search window (in the same way as &lt;k3&gt;Esc&lt;/k3&gt;)</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200523T201912Z" creationid="lesia" creationdate="20200523T201912Z">
+        <seg>Файл &gt; Закрити (&lt;k0&gt; &lt;k1&gt;Ctrl&lt;/k1&gt; &lt;k2&gt;W&lt;/k2&gt; &lt;/k0&gt;): закрити вікно пошуку (або натиснути &lt;k3&gt;Esc&lt;/k3&gt;)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>File &gt; Search for selection (&lt;k0&gt; &lt;k1&gt;Ctrl&lt;/k1&gt; &lt;k2&gt;F&lt;/k2&gt; &lt;/k0&gt;): refocus on the search field and select all its contents.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200523T201842Z" creationid="lesia" creationdate="20200523T201842Z">
+        <seg>Файл &gt; Шукати вибране (&lt;k0&gt; &lt;k1&gt;Ctrl&lt;/k1&gt; &lt;k2&gt;F&lt;/k2&gt; &lt;/k0&gt;): перейти до поля пошуку та обрати його вміст.</seg>
       </tuv>
     </tu>
     <tu>
@@ -24579,6 +24611,14 @@ current folder will be used instead.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The Search window has its own menus:</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200523T201827Z" creationid="lesia" creationdate="20200523T201827Z">
+        <seg>Вікно Пошук тексту має своє меню:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The Standard version requires Java {{site.data.versions.standard.java_version}}.</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="maximo" changedate="20200322T152230Z" creationid="maximo" creationdate="20200322T152230Z">
@@ -30802,6 +30842,14 @@ start menu, the desktop or the quick launch area to link it from there.</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="lesia" changedate="20200505T192330Z" creationid="lesia" creationdate="20200505T192030Z">
         <seg>Друга колонка може бути порожньою, тобто, можна додавати у глосарій термін без перекладу, лише з коментарем.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You can have several Search windows open at the same time, but close them when they are no longer needed so that they do not clutter your desktop.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200523T201754Z" creationid="lesia" creationdate="20200523T201754Z">
+        <seg>Кілька вікон Пошук тексту можуть бути відкритими одночасно.Закривайте їх, якщо вони вам більше не потрібні, щоб не перевантажувати ваш робочий стіл.</seg>
       </tuv>
     </tu>
     <tu>
