@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.2.0_0_747fc65a9" segtype="sentence" srclang="en"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.2.0_0_747fc65a" segtype="sentence" srclang="en"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -4055,6 +4055,14 @@ The current setting is {0}MB;</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="lesia" changedate="20200324T154804Z" creationid="maximo" creationdate="20200322T172443Z">
         <seg>Якщо ви вже знаєте, яка версія вам потрібна, натисніть тут:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Alternatively, you can select a word or phrase in the Editor pane, Fuzzy matches pane or Glossary pane and hit &lt;k0&gt; &lt;k1&gt;Ctrl&lt;/k1&gt; &lt;k2&gt;F&lt;/k2&gt; &lt;/k0&gt;.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200523T201652Z" creationid="lesia" creationdate="20200523T201652Z">
+        <seg>Або ви можете виділити слово чи фразу в Області редагування, у вікні Нечіткі збіги чи Глосарій та натиснути &lt;k0&gt; &lt;k1&gt;Ctrl&lt;/k1&gt; &lt;k2&gt;F&lt;/k2&gt; &lt;/k0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -18120,6 +18128,14 @@ installed on your system.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Open the Search window with &lt;k0&gt; &lt;k1&gt;Ctrl&lt;/k1&gt; &lt;k2&gt;F&lt;/k2&gt; &lt;/k0&gt; and enter the word or phrase you wish to search for in the &lt;e3&gt;Search for&lt;/e3&gt; box.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200523T201623Z" creationid="lesia" creationdate="20200523T201623Z">
+        <seg>Відкрийте вікно Пошуку, натиснувши &lt;k0&gt; &lt;k1&gt;Ctrl&lt;/k1&gt; &lt;k2&gt;F&lt;/k2&gt; &lt;/k0&gt;, та введіть слово або фразу, яку ви бажаєте знайти, у полі  &lt;e3&gt; Шукати&lt;/e3&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Open the project.</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="fanja9" changedate="20200506T071443Z" creationid="fanja9" creationdate="20200504T203440Z">
@@ -26289,6 +26305,14 @@ in /lib/licenses/Licenses.txt.</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="lesia" changedate="20200504T155153Z" creationid="lesia" creationdate="20200503T205816Z">
         <seg>Термін оригіналу стоїть перед знаком =, а після = зазначений його переклад.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The word or phrase is entered in the &lt;e3&gt;Search for&lt;/e3&gt; box automatically.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200523T201736Z" creationid="lesia" creationdate="20200523T201736Z">
+        <seg>Слово або фраза автоматично з'явиться в полі &lt;e3&gt;Шукати&lt;/e3&gt;.</seg>
       </tuv>
     </tu>
     <tu>
