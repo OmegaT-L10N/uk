@@ -5597,8 +5597,8 @@ Buy another drink</seg>
       <tuv lang="en">
         <seg>Changes the case of the highlighted text in the target segment to the selected option (Lower case, Upper case, Title case or Sentence case).</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="lesia" changedate="20200425T153111Z" creationid="lesia" creationdate="20200425T153111Z">
-        <seg>Зміна регістру виділеного тексту в сегменті перекладу на вказане значення (на нижній регістр, верхній, кожне слово з великої чи перше слово з великої).</seg>
+      <tuv lang="uk-UA" changeid="maximo" changedate="20200523T163106Z" creationid="lesia" creationdate="20200425T153111Z">
+        <seg>Зміна регістру виділеного тексту в сегменті перекладу певним чином: на нижній регістр, верхній регістр, кожне слово з великої чи перше слово з великої літери.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11564,8 +11564,8 @@ not be entered.)</seg>
       <tuv lang="en">
         <seg>If &lt;l0&gt;automatic searching in dictionaries&lt;/l0&gt; is disabled, this function allows you to search for the selected word in the dictionaries.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="lesia" changedate="20200425T150409Z" creationid="lesia" creationdate="20200425T150148Z">
-        <seg>Якщо функція &lt;l0&gt;автоматичний пошук по словниках&lt;/l0&gt; неактивна, ця функція дозволяє вам шукати виділене слово по словниках.</seg>
+      <tuv lang="uk-UA" changeid="maximo" changedate="20200523T163008Z" creationid="lesia" creationdate="20200425T150148Z">
+        <seg>Якщо не вмикати &lt;l0&gt;автоматичний пошук по словниках&lt;/l0&gt;, то шукати виділене слово по словниках можна цією функцією.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11876,8 +11876,8 @@ their defaults as a result of the location change.</seg>
       <tuv lang="en">
         <seg>If no text is selected, &lt;a3&gt;OmegaT&lt;/a3&gt; selects the word that contains the letter immediately to the right of the cursor.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="lesia" changedate="20200425T153328Z" creationid="lesia" creationdate="20200425T153328Z">
-        <seg>Якщо не виділений ніякий текст, &lt;a3&gt;OmegaT&lt;/a3&gt; обирає слово, яке знаходиться праворуч від курсора.</seg>
+      <tuv lang="uk-UA" changeid="maximo" changedate="20200523T163222Z" creationid="lesia" creationdate="20200425T153328Z">
+        <seg>Якщо не виділений ніякий текст, &lt;a3&gt;OmegaT&lt;/a3&gt; автоматично виділить слово, яке знаходиться праворуч від курсора.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12568,8 +12568,8 @@ to use Java Web Start.</seg>
       <tuv lang="en">
         <seg>If you select a text string (in any pane) before pressing &lt;k0&gt; &lt;k1&gt;Ctrl&lt;/k1&gt; &lt;k2&gt;K&lt;/k2&gt; &lt;/k0&gt;, the text will be pasted by default in the &lt;g3&gt;Search for&lt;/g3&gt; field.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="lesia" changedate="20200425T145957Z" creationid="lesia" creationdate="20200425T145957Z">
-        <seg>Якщо виділити стрічку тексту (будь-якою з обох мов), а потім натиснути  &lt;k0&gt; &lt;k1&gt;Ctrl&lt;/k1&gt; &lt;k2&gt;K&lt;/k2&gt; &lt;/k0&gt;, текст буде автоматично вставлено в поле &lt;g3&gt;Шукати&lt;/g3&gt;.</seg>
+      <tuv lang="uk-UA" changeid="maximo" changedate="20200523T162831Z" creationid="lesia" creationdate="20200425T145957Z">
+        <seg>Якщо виділити текст (будь-якою з обох мов), а потім натиснути  &lt;k0&gt; &lt;k1&gt;Ctrl&lt;/k1&gt; &lt;k2&gt;K&lt;/k2&gt; &lt;/k0&gt;, він автоматично вставиться в поле &lt;g3&gt;Шукати&lt;/g3&gt;.</seg>
       </tuv>
     </tu>
     <tu>
