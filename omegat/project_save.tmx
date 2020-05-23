@@ -1454,6 +1454,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>'?' matches any single character.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200523T202822Z" creationid="lesia" creationdate="20200523T202822Z">
+        <seg>Символ «?» відповідає тільки одному символові.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>'{0}' menu selected</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20190820T172509Z" creationid="Kos Ivantsov" creationdate="20190820T172509Z">
@@ -2335,6 +2343,22 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;e0&gt;Display: all matching segments: &lt;/e0&gt;if checked, all the segments are displayed one by one, even if they are present several times in the same document or in different documents.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200523T202903Z" creationid="lesia" creationdate="20200523T202903Z">
+        <seg>&lt;e0&gt;Показувати: усі знайдені сегменти: &lt;/e0&gt;якщо відмічено, тоді всі сегменти зображатимуться один за одним, навіть якщо вони з'являються в одному або різних документах декілька разів.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;e0&gt;Display: file names: &lt;/e0&gt;if checked, the name of the file where each segment is found is displayed above each result.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200523T202904Z" creationid="lesia" creationdate="20200523T202904Z">
+        <seg>&lt;e0&gt;Показувати: імена файлів: &lt;/e0&gt;якщо відмічено, тоді над кожним результатом пошуку буде зображене ім'я файлу, кожен сегмент якого містить результат.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;e0&gt;Do not translate the content attribute of meta-tags ...:&lt;/e0&gt; The meta-tags in the box will not be translated.</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="lesia" changedate="20200419T105331Z" creationid="maximo" creationdate="20200413T112955Z">
@@ -2504,10 +2528,34 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;e0&gt;Search in Files: &lt;/e0&gt;search in a single file or a folder containing a set of files.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200523T202909Z" creationid="lesia" creationdate="20200523T202909Z">
+        <seg>&lt;e0&gt;Де шукати: У файлах: &lt;/e0&gt;пошук в одному файлі або теці, що містить набір файлів.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;e0&gt;Search in Project&lt;/e0&gt;: check &lt;e1&gt;Memory&lt;/e1&gt; to include the project memory (project_save.tmx file) in the search.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200523T202905Z" creationid="lesia" creationdate="20200523T202905Z">
+        <seg>&lt;e0&gt;Де шукати: У проєкті&lt;/e0&gt;: відмітьте &lt;e1&gt;У пам'яті проєкту&lt;/e1&gt;, щоб включити до пошуку пам'ять проєкту (файл project_save.tmx).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;e0&gt;Skip text matching regular expression&lt;/e0&gt;: any text matching the regular expression is skipped.</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="maximo" changedate="20200413T112518Z" creationid="maximo" creationdate="20200413T112518Z">
         <seg>&lt;e0&gt;Пропускати текст, який відповідає регулярному виразу&lt;/e0&gt;: не перекладати будь-який текст, що зловиться регулярним виразом.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;e0&gt;Space matches nbsp&lt;/e0&gt;: when this option is checked, a space character put in search entry can match either a normal space character or a non-breacking space (\u00A) character.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200523T202854Z" creationid="lesia" creationdate="20200523T202854Z">
+        <seg>&lt;e0&gt;Пробіл = нерозривний пробіл&lt;/e0&gt;: якщо вибрати цю функцію, символ пробілу у пошуковому рядку може збігатися зі звичайним пробілом або нерозривним пробілом (\u00A).</seg>
       </tuv>
     </tu>
     <tu>
@@ -2524,6 +2572,30 @@ The current setting is {0}MB;</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="maximo" changedate="20200510T170218Z" creationid="maximo" creationdate="20200413T112108Z">
         <seg>&lt;e0&gt;Перекладати наступні атрибути&lt;/e0&gt;: значення вибраних атрибутів будуть серед сегментів для перекладу.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;e0&gt;Translated or untranslated: &lt;/e0&gt;search in both translated and untranslated segments.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200523T202859Z" creationid="lesia" creationdate="20200523T202859Z">
+        <seg>&lt;e0&gt;Перекладене або неперекладене: &lt;/e0&gt;пошук у перекладених та неперекладених сегментах.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;e0&gt;Translated: &lt;/e0&gt;search only in translated segments.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200523T202901Z" creationid="lesia" creationdate="20200523T202901Z">
+        <seg>&lt;e0&gt;Перекладене: &lt;/e0&gt;пошук лише у перекладених сегментах.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;e0&gt;Untranslated: &lt;/e0&gt;search only in untranslated segments.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200523T202902Z" creationid="lesia" creationdate="20200523T202902Z">
+        <seg>&lt;e0&gt;Неперекладене: &lt;/e0&gt;пошук лише у неперекладених сегментах.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2564,6 +2636,46 @@ The current setting is {0}MB;</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="maximo" changedate="20200511T200056Z" creationid="maximo" creationdate="20200420T165939Z">
         <seg>&lt;e0&gt;Так:&lt;/e0&gt; завантажте &lt;f1&gt;OmegaT_4.n.n_Without_JRE.zip&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;e0&gt;case sensitive&lt;/e0&gt;: the search will be performed for the exact string specified; i.e. capitalization is observed.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200523T202853Z" creationid="lesia" creationdate="20200523T202853Z">
+        <seg>&lt;e0&gt;Враховувати регістр&lt;/e0&gt;: пошук точного рядка, як зазначено, тобто капіталізація букв враховується.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;e0&gt;in comments: &lt;/e0&gt;search in comments to segments</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200523T202859Z" creationid="lesia" creationdate="20200523T202859Z">
+        <seg>&lt;e0&gt;У коментарях: &lt;/e0&gt;пошук у коментарях до сегментів</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;e0&gt;in notes: &lt;/e0&gt;search in notes to segments</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200523T202858Z" creationid="lesia" creationdate="20200523T202858Z">
+        <seg>&lt;e0&gt;У примітках: &lt;/e0&gt;пошук у примітках до сегментів</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;e0&gt;in source: &lt;/e0&gt;search in the source segments</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200523T202855Z" creationid="lesia" creationdate="20200523T202855Z">
+        <seg>&lt;e0&gt;В оригіналі: &lt;/e0&gt;пошук в оригінальних сегментах</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;e0&gt;in translations: &lt;/e0&gt;search in the target segments</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200523T202856Z" creationid="lesia" creationdate="20200523T202856Z">
+        <seg>&lt;e0&gt;У перекладі: &lt;/e0&gt;пошук у сегментах перекладу</seg>
       </tuv>
     </tu>
     <tu>
@@ -2848,6 +2960,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;l0&gt;Regular expressions&lt;/l0&gt; are a powerful way to look for instances of a string.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200523T202851Z" creationid="lesia" creationdate="20200523T202851Z">
+        <seg>&lt;l0&gt;Регулярні вирази&lt;/l0&gt;  - це ефективний спосіб пошуку збігів рядка.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;name and path of the Java executable file&gt; -jar OmegaT.jar</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20190822T212959Z" creationid="Kos Ivantsov" creationdate="20190822T212959Z">
@@ -3091,6 +3211,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>A file might have no matching entries, so it will show empty.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200523T202932Z" creationid="lesia" creationdate="20200523T202932Z">
+        <seg>Якщо файл не має відповідних результатів, вікно буде пустим.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>A given source segment may require several different translations, depending on the context.</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="maximo" changedate="20200503T055238Z" creationid="maximo" creationdate="20200503T055238Z">
@@ -3183,6 +3311,14 @@ The current setting is {0}MB;</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="maximo" changedate="20200412T175913Z" creationid="maximo" creationdate="20200412T175641Z">
         <seg>Скрипт Switch Colour Themes, вбудований у OmegaT, надає стандарту темну тему "Dark".</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>A search may be limited to 1000 items, so if you search on a common phrase, the editor then shows only those 1000 matching entries, and not all entries that match the search criteria.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200523T202931Z" creationid="lesia" creationdate="20200523T202931Z">
+        <seg>Пошук може мати обмежену кількість результатів: до 1000. Тому якщо ви шукаєте загальновживану фразу, редактор покаже лише 1000 результатів, а не всі записи, які відповідають критеріям пошуку.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3631,6 +3767,14 @@ The current setting is {0}MB;</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="maximo" changedate="20200413T192209Z" creationid="maximo" creationdate="20200413T192209Z">
         <seg>Для змінних ${nameOnly} та ${Extension} доступні додаткові варіанти.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Additionally to one of the methods above you can select the following:</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200523T202852Z" creationid="lesia" creationdate="20200523T202852Z">
+        <seg>Додатково до одного з вищенаведених методів ви можете вибрати наступні:</seg>
       </tuv>
     </tu>
     <tu>
@@ -4247,6 +4391,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>An exact search looks for a phrase, i.e. if several words are entered, they are found only if they occur in exactly that sequence.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200523T202838Z" creationid="lesia" creationdate="20200523T202838Z">
+        <seg>У випадку точного пошуку відбувається пошук фрази (якщо ви ввели декілька слів), яку знаходять лише якщо слова стоять у такому ж порядку.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>An example of the use of this feature would be to send translated documents automatically to the client's FTP server.</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="maximo" changedate="20200510T172432Z" creationid="maximo" creationdate="20200417T083426Z">
@@ -4510,6 +4662,14 @@ The TMX file will not be loaded.</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20190507T104349Z" creationid="Kos Ivantsov" creationdate="20190507T104349Z">
         <seg>Масиви не повинні бути порожніми</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>As &lt;a0&gt;OmegaT&lt;/a0&gt; handles identical segments as one single entity, only the first unique segment is shown.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200523T202916Z" creationid="lesia" creationdate="20200523T202916Z">
+        <seg>Позаяк &lt;a0&gt;OmegaT&lt;/a0&gt; рахує ідентичні сегменти як єдину одиницю, під час пошуку з'являється лише перший унікальний сегмент.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5731,6 +5891,22 @@ Buy another drink</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Check &lt;e2&gt;TMs&lt;/e2&gt; to include the translation memories located in the &lt;f3&gt;tm&lt;/f3&gt; folder in the search.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200523T202906Z" creationid="lesia" creationdate="20200523T202906Z">
+        <seg>Відмітьте &lt;e2&gt;У файлах пам'яті&lt;/e2&gt;, щоб включити до пошуку файли перекладацької пам'яті, розміщені у теці &lt;f3&gt;tm&lt;/f3&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Check &lt;e4&gt;Glossaries&lt;/e4&gt; to include the glossaries located in the &lt;f5&gt;glossary&lt;/f5&gt; folder in the search.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200523T202907Z" creationid="lesia" creationdate="20200523T202907Z">
+        <seg>Відмітьте &lt;e4&gt;У глосаріях&lt;/e4&gt;, щоб включити до пошуку глосарії, розміщені у теці &lt;f5&gt;glossary&lt;/f5&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Check &lt;g0&gt;History Completion&lt;/g0&gt; to display suggested words as soon as their first letters are entered.</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="maximo" changedate="20200425T141208Z" creationid="maximo" creationdate="20200425T135843Z">
@@ -6664,6 +6840,14 @@ Buy another drink</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20190812T071420Z" creationid="Kos Ivantsov" creationdate="20190812T070625Z">
         <seg>Підключення відновлено. Робота в режимі командного проєкту.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Consequently, although OmegaT is quite able to handle&lt;f1&gt; tmx&lt;/f1&gt; files, it does not include them in the Search files search.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200523T202911Z" creationid="lesia" creationdate="20200523T202911Z">
+        <seg>Тому, хоча OmegaT здатна обробляти файли&lt;f1&gt; tmx&lt;/f1&gt;, вона не включає їх до пошуку У файлах.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8246,6 +8430,14 @@ Buy another drink</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20190822T212254Z" creationid="Kos Ivantsov" creationdate="20190822T212254Z">
         <seg>Двічі клацніть по застосунку OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Double-clicking on a segment opens it in the Editor for modifications (one single click does it when &lt;e0&gt;Auto-sync with Editor&lt;/e0&gt; option is checked).</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200523T202919Z" creationid="lesia" creationdate="20200523T202919Z">
+        <seg>Якщо двічі натиснути на сегмент, він відкриється в області редагування для внесення змін (можна робити це одним кліком, якщо відмітити функцію &lt;e0&gt;Синхронізувати з областю редагування&lt;/e0&gt;).</seg>
       </tuv>
     </tu>
     <tu>
@@ -10049,6 +10241,14 @@ Gossamer threads hold you back
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Filter entries in editor according to search</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200523T202925Z" creationid="lesia" creationdate="20200523T202925Z">
+        <seg>Фільтрування записів в області редагування відповідно до пошуку</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Filter options</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="maximo" changedate="20200412T202237Z" creationid="maximo" creationdate="20200412T202237Z">
@@ -10259,6 +10459,14 @@ provided (omegat.kaptn).</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>For easier navigation in the search result set, you can apply the search to the editor.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200523T202926Z" creationid="lesia" creationdate="20200523T202926Z">
+        <seg>Щоб легше орієнтуватися у списку результатів пошуку, ви можете застосувати пошук в області редагування.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>For example, "&lt;e0&gt;Did it make sense?</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="maximo" changedate="20200414T190624Z" creationid="maximo" creationdate="20200414T190518Z">
@@ -10439,6 +10647,14 @@ provided (omegat.kaptn).</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="fanja9" changedate="20200510T191912Z" creationid="fanja9" creationdate="20200510T185605Z">
         <seg>Наприклад, якщо прийнятий стандартний режим, переклад з вторинної пам'яті перекладів приймається і доповнюється позначкою &lt;e3&gt; [fuzzy]&lt;/e3&gt;, завдяки цьому перекладач може переглянути переклад на останій стадії роботи і перевірити, чи були правильно перекладено сегменти, позначені таким чином&lt;m4&gt; &lt;g5&gt;.&lt;/g5&gt; &lt;/m4&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>For instance, &lt;l0&gt;'run?'&lt;/l0&gt; would match the word &lt;l1&gt;'runs'&lt;/l1&gt; and &lt;l2&gt;'runn'&lt;/l2&gt; in the word &lt;l3&gt;'running'&lt;/l3&gt;.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200523T202825Z" creationid="lesia" creationdate="20200523T202825Z">
+        <seg>Наприклад, &lt;l0&gt;'рік?'&lt;/l0&gt; відповідає слову &lt;l1&gt;'ріка'&lt;/l1&gt; та &lt;l2&gt;'ріко'&lt;/l2&gt; у слові &lt;l3&gt;'рікота'&lt;/l3&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11699,6 +11915,14 @@ need not be entered.)</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If a search removes duplicates, those duplicates will not be in the Editor.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200523T202933Z" creationid="lesia" creationdate="20200523T202933Z">
+        <seg>Якщо пошук не враховує повторювані результати, вони не відображатимуться в області редагування.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If a suitable JRE is already installed on your Windows system, select "Without JRE".</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="lesia" changedate="20200322T213117Z" creationid="maximo" creationdate="20200322T141635Z">
@@ -12444,6 +12668,14 @@ Explorer), change the settings so that file extensions are displayed.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If you click on the button &lt;g0&gt;Advanced options&lt;/g0&gt; additional criteria (author or changer of the translation, date translated, excluding orphan segments, etc) can be selected.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200523T202912Z" creationid="lesia" creationdate="20200523T202912Z">
+        <seg>Якщо натиснути на кнопку &lt;g0&gt;Показати сховані параметри&lt;/g0&gt;, можна вибрати додаткові параметри (атвор перекладу або особа, яка змінила переклад, дата перекладу, виключення покинутих сегментів).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If you decide mid-translation to switch from sentence to paragraph translation, the internal translation memory of the project will not be changed (OmegaT may upgrade old translation memories that did not use sentence segmentation, but not vice versa), but OmegaT will attempt to create paragraph fuzzy matches by gluing together existing sentence translations.</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="lesia" changedate="20200413T200659Z" creationid="lesia" creationdate="20200412T201144Z">
@@ -13140,6 +13372,14 @@ click on that shortcut.</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="maximo" changedate="20200511T194701Z" creationid="lesia" creationdate="20200420T194925Z">
         <seg>У діалозі "Шаблони для виключення" можна додавати чи видаляти шаблони або змінювати їх (для цього треба вибрати рядок та натиснути F2).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>In the Search window, you can use standard shortcuts (&lt;k0&gt; &lt;k1&gt;Ctrl&lt;/k1&gt; &lt;k2&gt;N&lt;/k2&gt; &lt;/k0&gt;, &lt;k3&gt; &lt;k4&gt;Ctrl&lt;/k4&gt; &lt;k5&gt;P&lt;/k5&gt; &lt;/k3&gt;) to move from one segment to another.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200523T202922Z" creationid="lesia" creationdate="20200523T202922Z">
+        <seg>У вікні Пошуку тексту ви можете використовувати стандартні комбінації клавіш (&lt;k0&gt; &lt;k1&gt;Ctrl&lt;/k1&gt; &lt;k2&gt;N&lt;/k2&gt; &lt;/k0&gt;, &lt;k3&gt; &lt;k4&gt;Ctrl&lt;/k4&gt; &lt;k5&gt;P&lt;/k5&gt; &lt;/k3&gt;) для переходу від одного сегмента на інший.</seg>
       </tuv>
     </tu>
     <tu>
@@ -14402,6 +14642,14 @@ itself on the first run.</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20190517T100602Z" creationid="Kos Ivantsov" creationdate="20190517T100602Z">
         <seg>Пошук за ключовими словами у такому разі неможливий.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Keyword searches are similar to a search "with all of the words" in an Internet search engine such as Google (AND logic).</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200523T202845Z" creationid="lesia" creationdate="20200523T202845Z">
+        <seg>Пошук за ключовими словами схожий на пошук "з усіма словами" в пошуковій системі, такій як Google (за принципом логічного оператора AND).</seg>
       </tuv>
     </tu>
     <tu>
@@ -16254,6 +16502,14 @@ as the Applications folder.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>NB:</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200523T202930Z" creationid="lesia" creationdate="20200523T202930Z">
+        <seg>Зверніть увагу:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Name</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20190807T150029Z" creationid="Kos Ivantsov" creationdate="20190807T150029Z">
@@ -16727,6 +16983,14 @@ as the Applications folder.</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="lesia" changedate="20200502T060335Z" creationid="lesia" creationdate="20200429T202821Z">
         <seg>Проте показники кількості не визначають, наскільки повторювані частини відповідають одна одній: вони можуть позначати доволі довгі речення, які повторюються кілька разів (в такому разі вам пощастило) або ряд ключових слів (у цьому випадку вам буде складніше).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Note that '*' and '?' have special meaning in regular expressions, so wild card search, as described here, applies to exact and keyword search only (see below).</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200523T202830Z" creationid="lesia" creationdate="20200523T202830Z">
+        <seg>Зауважте, що символи  «*» та  «?» мають особливе значення у пошуці регулярних виразів. Тому описаний тут пошук з символами узагальнення застосовується лише для точного пошуку та пошуку за ключовими словами (див. нижче).</seg>
       </tuv>
     </tu>
     <tu>
@@ -17336,6 +17600,14 @@ as the Applications folder.</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="maximo" changedate="20200322T141952Z" creationid="maximo" creationdate="20200322T141952Z">
         <seg>OmegaT вимагає JRE версії 1.6 чи більше.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>OmegaT displays a list of all segments containing all of the words specified.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200523T202843Z" creationid="lesia" creationdate="20200523T202843Z">
+        <seg>OmegaT відображає список всіх сегментів, які містять всі зазначені слова.</seg>
       </tuv>
     </tu>
     <tu>
@@ -19391,6 +19663,14 @@ project without team functionality.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Press the &lt;e0&gt;Filter&lt;/e0&gt; button on the bottom to limit the shown entries in the editor window to those that match the current search.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200523T202927Z" creationid="lesia" creationdate="20200523T202927Z">
+        <seg>Натисніть на кнопку &lt;e0&gt;Відфільтрувати&lt;/e0&gt; внизу вікна, щоб зменшити кількість записів в області редагування до тих, які відповідають поточному пошуку..</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Press the keyboard shortcut you wish to assign, then click OK.</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20190820T130322Z" creationid="Kos Ivantsov" creationdate="20190820T130322Z">
@@ -19419,6 +19699,14 @@ project without team functionality.</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="maximo" changedate="20200501T202648Z" creationid="maximo" creationdate="20200501T202648Z">
         <seg>Якщо натиснути &lt;k0&gt;F2&lt;/k0&gt;, то це стає можливим: стрілочки клавіатури дозволяють вивести курсор за межі поля редагування в оригінальний сегмент і взагалі в будь-яке місце вікна редагування.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Pressing the search button after entering a string in the search field displays all the segments in the project that include the entered string.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200523T202915Z" creationid="lesia" creationdate="20200523T202915Z">
+        <seg>Коли ви вводите рядок у поле пошуку та натискаєте кнопку пошуку, з'являються всі сегменти проєкту, які містять запитуваний рядок.</seg>
       </tuv>
     </tu>
     <tu>
@@ -21730,6 +22018,22 @@ The scope of a search is by default the project and can be set to be any files l
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Search for segments containing all keywords you specified, in any order.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200523T202841Z" creationid="lesia" creationdate="20200523T202841Z">
+        <seg>Пошук сегментів, які містять всі введені вами ключові слова у будь-якому порядку.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Search for segments containing the exact string you specified.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200523T202836Z" creationid="lesia" creationdate="20200523T202836Z">
+        <seg>Пошук сегментів, які містять точно такий рядок, який ви ввели.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Search for the required language combination - for instance on the &lt;u0&gt;dictionary links given by the OmegaT Wiki&lt;/u0&gt;.</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="maximo" changedate="20200329T200308Z" creationid="maximo" creationdate="20200329T200308Z">
@@ -21754,6 +22058,14 @@ The scope of a search is by default the project and can be set to be any files l
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Search methods and options</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200523T202831Z" creationid="lesia" creationdate="20200523T202831Z">
+        <seg>Методи та параметри пошуку</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Search options</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="maximo" changedate="20200503T063709Z" creationid="maximo" creationdate="20200503T063709Z">
@@ -21770,10 +22082,26 @@ The scope of a search is by default the project and can be set to be any files l
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Search results display</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200523T202914Z" creationid="lesia" creationdate="20200523T202914Z">
+        <seg>Зображення результатів пошуку</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Search thread died unexpectedly!</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20190517T104536Z" creationid="Kos Ivantsov" creationdate="20190517T104536Z">
         <seg>Потік, у якому здійснювався пошуку, неочікувано перервався!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Searching for &lt;l0&gt;open file&lt;/l0&gt; will thus find all occurrences of the string &lt;e1&gt;&lt;l2&gt;open file&lt;/l2&gt;&lt;/e1&gt;, but not &lt;e3&gt;&lt;l4&gt;file opened&lt;/l4&gt;&lt;/e3&gt; or &lt;e5&gt;&lt;l6&gt;open input file&lt;/l6&gt;&lt;/e5&gt;.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200523T202839Z" creationid="lesia" creationdate="20200523T202839Z">
+        <seg>Тому якщо ви шукаєте фразу &lt;l0&gt;відкрити файл&lt;/l0&gt;, ви знайдете всі випадки запиту &lt;e1&gt;&lt;l2&gt;відкрити файл&lt;/l2&gt;&lt;/e1&gt;, але не &lt;e3&gt;&lt;l4&gt;відкритий файл&lt;/l4&gt;&lt;/e3&gt; або &lt;e5&gt;&lt;l6&gt;відкрити вхідний файл&lt;/l6&gt;&lt;/e5&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -22356,6 +22684,14 @@ The scope of a search is by default the project and can be set to be any files l
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Select keyword search to search for any number of individual full words, in any order.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200523T202842Z" creationid="lesia" creationdate="20200523T202842Z">
+        <seg>Оберіть пошук за ключовими словами, щоб знайти будь-яку кількість цілих окремих слів у будь-якому порядку.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Select languagetool-server.jar</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20190821T135256Z" creationid="Kos Ivantsov" creationdate="20190821T135256Z">
@@ -22392,6 +22728,14 @@ The scope of a search is by default the project and can be set to be any files l
       </tuv>
       <tuv lang="uk-UA" changeid="maximo" changedate="20200416T210602Z" creationid="maximo" creationdate="20200416T210602Z">
         <seg>Обрати адресу інструменту з перевірки граматики.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Select the method using the radio buttons.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200523T202832Z" creationid="lesia" creationdate="20200523T202832Z">
+        <seg>Оберіть тип пошуку, використовуючи радіокнопки.</seg>
       </tuv>
     </tu>
     <tu>
@@ -25290,6 +25634,14 @@ instead.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The following search methods are available:</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200523T202833Z" creationid="lesia" creationdate="20200523T202833Z">
+        <seg>Доступні наступні методи пошуку:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The following tutorials are available online/for download:</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="lesia" changedate="20200324T173056Z" creationid="lesia" creationdate="20200324T163915Z">
@@ -25528,6 +25880,14 @@ in /lib/licenses/Licenses.txt.</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="maximo" changedate="20200501T203818Z" creationid="maximo" creationdate="20200501T203818Z">
         <seg>Переглядач збігів показує найбільш схожі сегменти із памʼяті перекладів. Це може бути як внутрішня памʼять перекладів проєкту, що наповнюється в режимі реального часу, коли ви перекладаєте, так і вторинна памʼять перекладів, імпортована з ваших попередніх проєктів, отримана від клієнта чи бюро перекладів.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The matches will be displayed in bold blue.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200523T202828Z" creationid="lesia" creationdate="20200523T202828Z">
+        <seg>Збіги відображатимуться жирним синім шрифтом.</seg>
       </tuv>
     </tu>
     <tu>
@@ -25955,6 +26315,22 @@ in /lib/licenses/Licenses.txt.</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>The search string - [a-zA-Z]+[öäüqwß] - in the example above for instance looks for words in the target segment, containing questionable characters from German keyboard.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200523T202850Z" creationid="lesia" creationdate="20200523T202850Z">
+        <seg>Якщо ввести такий рядок [a-zA-Z]+[öäüqwß] у пошук, то він шукатиме слова у сегменті перекладу, які містять перераховані символи з німецької розкладки.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The search string will be treated as a regular expression.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200523T202848Z" creationid="lesia" creationdate="20200523T202848Z">
+        <seg>Введений в пошук рядок буде розглядатися як регулярний вираз.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>подумати, можливо, дати якийсь реальний 
 приклад зі словоформами</note>
       <tuv lang="en">
@@ -25994,6 +26370,14 @@ in /lib/licenses/Licenses.txt.</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="lesia" changedate="20200412T195757Z" creationid="lesia" creationdate="20200412T195757Z">
         <seg>Налаштування сегментації стосуються лише того, як &lt;a0&gt;OmegaT&lt;/a0&gt; опрацьовує файли оригіналу.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The segments are displayed in order of appearance in the project.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200523T202917Z" creationid="lesia" creationdate="20200523T202917Z">
+        <seg>Сегменти з'являються в тому порядку, в якому вони знаходяться у проєкті.</seg>
       </tuv>
     </tu>
     <tu>
@@ -27772,6 +28156,14 @@ the server.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>To remove a filter, press the &lt;e0&gt;Remove filter&lt;/e0&gt; button, or reload a project.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200523T202946Z" creationid="lesia" creationdate="20200523T202946Z">
+        <seg>Щоб прибрати режим фільтра, натисніть кнопку &lt;e0&gt;Показати без фільтра&lt;/e0&gt; або перезавантажте проєкт.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>To run &lt;a0&gt;OmegaT&lt;/a0&gt; in the command line mode, a valid &lt;a1&gt;OmegaT&lt;/a1&gt; project must be present.</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="maximo" changedate="20200423T140859Z" creationid="maximo" creationdate="20200423T140859Z">
@@ -28210,6 +28602,14 @@ linux-install.sh script, and execute the script with ./linux-install.sh.</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20190807T170259Z" creationid="Kos Ivantsov" creationdate="20190807T170259Z">
         <seg>Тло перекладених сегментів</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Translated segments are displayed with the original text at the top and the translated text at the bottom, untranslated segments are displayed as the source only.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200523T202918Z" creationid="lesia" creationdate="20200523T202918Z">
+        <seg>Перекладені сегменти з'являються з оригінальним текстом вгорі та перекладеним текстом знизу, неперекладені сегменти з'являються лише у вигляді оригінального тексту.</seg>
       </tuv>
     </tu>
     <tu>
@@ -29452,6 +29852,14 @@ searchable without subscription:</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Using keyword search with &lt;e0&gt;&lt;l1&gt;open file&lt;/l1&gt;&lt;/e0&gt; will thus find all occurrences of the string &lt;e2&gt;&lt;l3&gt;open file&lt;/l3&gt;,&lt;/e2&gt; as well as &lt;e4&gt;&lt;l5&gt;file opened&lt;/l5&gt;, &lt;l6&gt;open input file&lt;/l6&gt;, &lt;l7&gt;file may not be safe to open&lt;/l7&gt;&lt;/e4&gt;, etc.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200523T202846Z" creationid="lesia" creationdate="20200523T202846Z">
+        <seg>Якщо ви використаєте пошук за ключовими словами для пошуку фрази &lt;e0&gt;&lt;l1&gt;відкрити файл&lt;/l1&gt;&lt;/e0&gt; , ви знайдете всі випадки рядка &lt;e2&gt;&lt;l3&gt;відкрити файл&lt;/l3&gt;,&lt;/e2&gt; а також рядків &lt;e4&gt;&lt;l5&gt;відкритий файл&lt;/l5&gt;, &lt;l6&gt;відкрити вхідний файл&lt;/l6&gt;, &lt;l7&gt;файл неможливо відкрити&lt;/l7&gt;&lt;/e4&gt; тощо.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Using spellchecker</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="maximo" changedate="20200411T134316Z" creationid="maximo" creationdate="20200411T134316Z">
@@ -29880,6 +30288,14 @@ of selecting, obtaining and installing it.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>When &lt;e1&gt;Full/Half width char insensitive&lt;/e1&gt; option is checked, searches for fullwidth forms (CJK characters) will match halfwidth forms and vice versa.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200523T202913Z" creationid="lesia" creationdate="20200523T202913Z">
+        <seg>Якщо відмітити параметр &lt;e1&gt;Не розрізняти повну/половинну ширину&lt;/e1&gt;, запити на пошук шрифтів повної ширини (китайські / японські / корейські (CJK) символи) відповідатимуть шрифтам половинної ширини та навпаки.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>When OmegaT encounters a file in its source folder, it attempts to select the filter based upon the file's extension.</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="lesia" changedate="20200419T142828Z" creationid="maximo" creationdate="20200413T183406Z">
@@ -29916,6 +30332,14 @@ of selecting, obtaining and installing it.</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="maximo" changedate="20200423T155951Z" creationid="maximo" creationdate="20200423T155951Z">
         <seg>Якщо використовується консольний режим, то ви можете цією опцією обмежити файли, що будуть перекладені.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>When searching through files (as opposed to translation memories), OmegaT restricts the search to files in source file formats.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200523T202910Z" creationid="lesia" creationdate="20200523T202910Z">
+        <seg>Якщо пошук відбувається у файлах (окрім файлів перекладацької пам'яті), OmegaT зводить пошук до файлів у форматах оригіналу.</seg>
       </tuv>
     </tu>
     <tu>
@@ -30970,6 +31394,14 @@ installation script (linux-install.sh).</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>You can quickly see their contents by looking at their title: it will contain the search term used.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200523T202924Z" creationid="lesia" creationdate="20200523T202924Z">
+        <seg>Ви швидко можете проглянути, які запити пошуку має кожне вікно, якщо подивитеся на назву вікна: вона міститиме запит пошуку.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>You can select a file with &lt;k1&gt;Up&lt;/k1&gt; and &lt;k2&gt;Down&lt;/k2&gt; keys, and open it for translation by pressing &lt;k3&gt;Enter&lt;/k3&gt;</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="lesia" changedate="20200429T202806Z" creationid="lesia" creationdate="20200429T202806Z">
@@ -31018,10 +31450,26 @@ installation script (linux-install.sh).</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>You can then switch back to the Search window for the next segment found, for instance to check and, if necessary, correct the terminology.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200523T202920Z" creationid="lesia" creationdate="20200523T202920Z">
+        <seg>Потім ви можете повернутися до вікна Пошуку тексту до наступного знайденого сегмента, щоб наприклад, перевірити або, якщо необхідно, виправити термінологію.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>You can thus select a word anywhere in &lt;a1&gt;OmegaT&lt;/a1&gt; and use Services to check this word, for instance in Spotlight or in Google.</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="maximo" changedate="20200420T165218Z" creationid="maximo" creationdate="20200420T165218Z">
         <seg>Таким чином, ви можете виділити слово будь-де у &lt;a1&gt;OmegaT&lt;/a1&gt; та використати Services, щоб перевірити це слово, наприклад у Spotlight чи Google.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You can use normal navigation to go to e.g. the next (untranslated) segment that matches the search criteria.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200523T202928Z" creationid="lesia" creationdate="20200523T202928Z">
+        <seg>Ви можете використати звичайну навігацію, щоб перейти, наприклад, до наступного (неперекладеного) сегмента, який відповідає критеріям пошуку.</seg>
       </tuv>
     </tu>
     <tu>
@@ -31088,6 +31536,14 @@ window to be able to launch it from any location.</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="maximo" changedate="20200404T164900Z" creationid="maximo" creationdate="20200404T164900Z">
         <seg>Для зручності запуску можна перетягнути застосунок OmegaT в док або на панель Finder.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You may have several Search windows open at the same time.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200523T202923Z" creationid="lesia" creationdate="20200523T202923Z">
+        <seg>Кілька вікон Пошуку тексту можуть бути відкритими одночансо.</seg>
       </tuv>
     </tu>
     <tu>
@@ -32106,8 +32562,8 @@ create its configuration folder.</seg>
       <tuv lang="en">
         <seg>keyword search</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="maximo" changedate="20200424T135849Z" creationid="maximo" creationdate="20200424T135849Z">
-        <seg>за ключовими словами</seg>
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200523T202840Z" creationid="maximo" creationdate="20200424T135849Z">
+        <seg>пошук за ключовими словами</seg>
       </tuv>
     </tu>
     <tu>
