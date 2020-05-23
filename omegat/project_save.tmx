@@ -8597,10 +8597,26 @@ project_save.tmx не був переданий на віддалений сер
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Edit &gt; Create Glossary Entry (&lt;k0&gt; &lt;k1&gt;Ctrl&lt;/k1&gt; &lt;k2&gt;Shift&lt;/k2&gt; &lt;k3&gt;G&lt;/k3&gt; &lt;/k0&gt;): add a new glossary item.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200523T202217Z" creationid="lesia" creationdate="20200523T202217Z">
+        <seg>Редагування &gt; Створити запис у глосарії (&lt;k0&gt; &lt;k1&gt;Ctrl&lt;/k1&gt; &lt;k2&gt;Shift&lt;/k2&gt; &lt;k3&gt;G&lt;/k3&gt; &lt;/k0&gt;): додати новий запис у глосарії.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Edit &gt; Insert source (&lt;k0&gt; &lt;k1&gt;Ctrl&lt;/k1&gt; &lt;k2&gt;Shift&lt;/k2&gt; &lt;k3&gt;I&lt;/k3&gt; &lt;/k0&gt;): insert current segment source.</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="lesia" changedate="20200523T202119Z" creationid="lesia" creationdate="20200523T202119Z">
         <seg>Редагування &gt; Вставити текст оригіналу (&lt;k0&gt; &lt;k1&gt;Ctrl&lt;/k1&gt; &lt;k2&gt;Shift&lt;/k2&gt; &lt;k3&gt;I&lt;/k3&gt; &lt;/k0&gt;): вставити поточний сегмент тексту оригіналу.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Edit &gt; Replace with source (&lt;k0&gt; &lt;k1&gt;Ctrl&lt;/k1&gt; &lt;k2&gt;Shift&lt;/k2&gt; &lt;k3&gt;R&lt;/k3&gt; &lt;/k0&gt;): replace with current segment source.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200523T202203Z" creationid="lesia" creationdate="20200523T202203Z">
+        <seg>Редагування &gt; Замінити текстом оригіналу (&lt;k0&gt; &lt;k1&gt;Ctrl&lt;/k1&gt; &lt;k2&gt;Shift&lt;/k2&gt; &lt;k3&gt;R&lt;/k3&gt; &lt;/k0&gt;): замінити запит на поточний сегмент тексту оригіналу.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12884,6 +12900,14 @@ click on that shortcut.</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="maximo" changedate="20200501T201751Z" creationid="maximo" creationdate="20200501T201751Z">
         <seg>Окрім того, якщо ви натиснете правою кнопкою на активний сегмент, то також будуть доступні додаткові команди, пов'язані з &lt;e12&gt;Варіантами перекладу&lt;/e12&gt; наприклад, перехід до наступного неунікального сегмента.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>In both exact and keyword searches, the wild card search characters '*' and '?' can be used.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200523T202323Z" creationid="lesia" creationdate="20200523T202323Z">
+        <seg>У точному пошуку та пошуку за ключовими словами можна застосовувати символи узагальнення «*» та «?».</seg>
       </tuv>
     </tu>
     <tu>
@@ -26603,6 +26627,14 @@ You, victim of one</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>They have the meaning, familiar to Word users:</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200523T202348Z" creationid="lesia" creationdate="20200523T202348Z">
+        <seg>Користувачам Word буде знайоме їх значення:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>They will appear as separate segments in the translation.</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="maximo" changedate="20200413T113836Z" creationid="maximo" creationdate="20200413T113836Z">
@@ -29422,6 +29454,14 @@ searchable without subscription:</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="maximo" changedate="20200413T164213Z" creationid="maximo" creationdate="20200413T164213Z">
         <seg>Використовуючи цей параметр може вказати, чи перекладені файли мусять містити оголошення про кодування.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Using wild cards</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200523T202247Z" creationid="lesia" creationdate="20200523T202247Z">
+        <seg>Використання символів узагальнення</seg>
       </tuv>
     </tu>
     <tu>
