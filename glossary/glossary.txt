@@ -1,31 +1,62 @@
-Alternative Translation	варіант перекладу
-Auto-Completion	Автодоповнення
-check out	отримати зі сховища
-Copy Files to Source Folder	Скопіювати документи до теки з файлами для перекладу
-Displays	Відображає
-Editor	Вікно редагування
 file filters	фільтри файлів
-GNU	GNU	назва організації та операційної системи
-History Completion	Доповнення зі збереженого
-History Prediction	Прогнозовані доповнення зі збереженого
-Java	Java
-LanguageTool	LanguageTool	Назва програми
-Localization	Локалізація
-Match	Збіг
-memory	памʼять	Файл памʼяті перекладів (tm)
-MyMemory	MyMemory
-note	примітка	частина інтерфейсу
-OmegaT	OmegaT	назва програми, залишається латинкою
-Preferences	Параметри	меню
 repository	сховище
-Saving and Output	Збереження та вивід
 segment	сегмент
-Shortcuts	Комбінація клавіш
-Source Files Folder	Тека для файлів для перекладу
-tag	теґ	tags
-TMX	TMX
-Translated Files Folder	Тека для перекладених файлів
-Project Files	Файли проєкту
 project properties	властивості проєкту
-folder	тека
 install	встановити
+JRE	JRE	середовище Java
+Java Runtime Environment	середовище Java
+alternative translation	варіант перекладу
+auto-completion	автодоповнення
+auto-populated	заповнений автоматично
+bold	напівжирний шрифт
+bookmark	закладка
+break	розрив
+by default	типово	без налаштувань, зі стандартними налаштуваннями
+case-insensitive	без врахування регістру
+character	символ
+check box	прапорець
+click	натиснути
+command line	командний рядок
+confirmation	підтвердження
+default	типовий
+double-click	двічі натиснути	подвійне натискання
+download	завантажити
+drop-down menu	випадне меню
+editor	вікно редагування
+escape	екранувати
+extension	розширення
+flag	прапорець
+glossary	глосарій
+hint	підказка
+history completion	доповнення зі збереженого
+history prediction	прогнозовані доповнення зі збереженого
+list	перелік
+localization	локалізація
+log	журнал
+manual	посібник користувача
+match	збіг
+menu item	пункт меню
+note	примітка
+option	параметр
+orphan segment	покинутий сегмент
+pattern	шаблон
+plain-text	чисто текстовий
+preferences	параметри	меню
+read-only	тільки для читання
+rule-based	за правилами
+scroll	промотати
+scrollbar	смуга прокручування
+service	рушій, сервіс	... машинного перекладу
+shortcut	комбінація клавіш
+source files	файли для перекладу
+spell checker	перевірка правопису
+spelling dictionary	орфографічний словник
+string	стрічка
+supplier	рушій, сервіс	... машинного перекладу
+tag	теґ	(пропонується - мітка)
+text box	текстове поле
+translated files	перекладені файли
+translation memory	памʼять перекладів	TM
+tutorial	туторіал
+uncheck	забрати прапорець
+warning	обережно, увага
