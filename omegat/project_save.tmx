@@ -6141,8 +6141,8 @@ Buy another drink</seg>
       <tuv lang="EN">
         <seg>Check that your dict files are in the correct folder (or in a subfolder below it).</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="maximo" changedate="20200329T200640Z" creationid="maximo" creationdate="20200329T200640Z">
-        <seg>Перевірте, що файли словників розташовані в правильній директорії (чи піддиректорії).</seg>
+      <tuv lang="UK-UA" changeid="fanja9" changedate="20200529T171748Z" creationid="maximo" creationdate="20200329T200640Z">
+        <seg>Перевірте, чи розташовані файли словників в правильній теці (чи підтеці).</seg>
       </tuv>
     </tu>
     <tu>
@@ -15991,11 +15991,12 @@ itself on the first run.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>можливо, варто локалізувати картинку</note>
       <tuv lang="EN">
         <seg>Merriam Webster dictionary - use</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="maximo" changedate="20200329T200617Z" creationid="maximo" creationdate="20200329T200617Z">
-        <seg>Словник Мерріам-Вебстер - використання</seg>
+      <tuv lang="UK-UA" changeid="fanja9" changedate="20200529T171411Z" creationid="maximo" creationdate="20200329T200617Z">
+        <seg>Словник Мерріама-Вебстера - використання</seg>
       </tuv>
     </tu>
     <tu>
