@@ -17797,8 +17797,8 @@ as the Applications folder.</seg>
       <tuv lang="en">
         <seg>Of course it is much wiser, to take a short break and download the correct versions of the spell checker.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="maximo" changedate="20200411T135817Z" creationid="maximo" creationdate="20200411T135817Z">
-        <seg>Звичайно, розумніше буде зробити перерву та завантажити правильні версії словників з інтернету.</seg>
+      <tuv lang="uk-UA" changeid="maximo" changedate="20200607T170847Z" creationid="maximo" creationdate="20200411T135817Z">
+        <seg>Звичайно, розумніше буде виділити трохи часу та завантажити правильні версії словників з інтернету.</seg>
       </tuv>
     </tu>
     <tu>
@@ -27257,8 +27257,8 @@ in /lib/licenses/Licenses.txt.</seg>
       <tuv lang="en">
         <seg>There is no need to instruct OmegaT to use a particular spelling dictionary; OmegaT will use the correct language dictionary based upon the language codes of your project.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="maximo" changedate="20200411T133732Z" creationid="maximo" creationdate="20200411T133732Z">
-        <seg>Немає потреби вказувати OmegaT, який орфографічний словник використовувати, - OmegaT використовує потрібний словник у відповідності до кодів мов вашого проєкту.</seg>
+      <tuv lang="uk-UA" changeid="maximo" changedate="20200607T170717Z" creationid="maximo" creationdate="20200411T133732Z">
+        <seg>Немає потреби вказувати OmegaT, який орфографічний словник використовувати, - OmegaT використовує словник у відповідності до кодів мов вашого проєкту.</seg>
       </tuv>
     </tu>
     <tu>
