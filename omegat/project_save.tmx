@@ -26897,8 +26897,8 @@ in /lib/licenses/Licenses.txt.</seg>
       <tuv lang="en">
         <seg>There is no EXACT match between the glossary entry and the source text in your document - for instance plurals.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="lesia" changedate="20200505T203457Z" creationid="lesia" creationdate="20200505T203457Z">
-        <seg>Між термінами сегменту чи тексту, який ви наразі перекладаєте, та записом у глосарії немає ПОВНОЇ відповідності. Наприклад, в глосарії стоїть однина, а у вашому тексті - множина. Як зазначено вище, глосарій не підтримує флексій.</seg>
+      <tuv lang="uk-UA" changeid="maximo" changedate="20200607T164644Z" creationid="lesia" creationdate="20200505T203457Z">
+        <seg>Між термінами сегменту чи тексту, який ви наразі перекладаєте, та записом у глосарії немає ПОВНОЇ відповідності. Наприклад, в глосарії стоїть однина, а у вашому тексті - множина. Як зазначено вище, для деяких мов глосарій не підтримує флексій.</seg>
       </tuv>
     </tu>
     <tu>
