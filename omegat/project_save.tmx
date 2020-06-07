@@ -25313,8 +25313,8 @@ instead.</seg>
       <tuv lang="en">
         <seg>The contents of glossary files are kept in memory and are loaded when the project is opened or reloaded.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="lesia" changedate="20200505T200301Z" creationid="lesia" creationdate="20200505T195630Z">
-        <seg>Зміст глосарію зберігається і завантажується, коли проєкт відкривається або перезавантажується.</seg>
+      <tuv lang="uk-UA" changeid="maximo" changedate="20200607T164130Z" creationid="lesia" creationdate="20200505T195630Z">
+        <seg>Зміст файлів глосарію зберігається в оперативній пам'яті, і оновлюється коли проєкт відкривається або перезавантажується.</seg>
       </tuv>
     </tu>
     <tu>
@@ -25854,8 +25854,8 @@ in /lib/licenses/Licenses.txt.</seg>
       <tuv lang="en">
         <seg>The location of the writable glossary file can be set in the &lt;g0&gt;Project &gt; Properties ... &lt;/g0&gt;dialog.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="fanja9" changedate="20200531T183903Z" creationid="lesia" creationdate="20200505T200959Z">
-        <seg>Місце розташування файлу глосарію, який можна буде редагувати, можна вибрати, зайшовши у &lt;g0&gt;Проєкт &gt; Властивості ... &lt;/g0&gt;.</seg>
+      <tuv lang="uk-UA" changeid="maximo" changedate="20200607T164354Z" creationid="lesia" creationdate="20200505T200959Z">
+        <seg>Місце розташування файлу глосарію, в який будуть додаватися записи, можна вибрати, зайшовши у &lt;g0&gt;Проєкт &gt; Властивості ... &lt;/g0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -29328,8 +29328,8 @@ on line {1}, column {2}.</seg>
       <tuv lang="en">
         <seg>Updating a glossary file is thus rather simple: press &lt;k0&gt;Ctrl+Shift+G&lt;/k0&gt; and enter the new term, its translation and any comments you may have (ensuring you press tab between the fields) and save the file.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="lesia" changedate="20200505T200634Z" creationid="lesia" creationdate="20200505T200634Z">
-        <seg>Тож доповнення словника відбувається просто: натисніть &lt;k0&gt;Ctrl+Shift+G&lt;/k0&gt; і введіть новий термін, його переклад та за необхідності коментар (не забувайте відділяти їх табуляцією) та збережіть файл.</seg>
+      <tuv lang="uk-UA" changeid="maximo" changedate="20200607T164247Z" creationid="lesia" creationdate="20200505T200634Z">
+        <seg>Тож доповнення словника відбувається просто: натисніть &lt;k0&gt;Ctrl+Shift+G&lt;/k0&gt; і введіть новий термін, його переклад та за необхідності коментар.</seg>
       </tuv>
     </tu>
     <tu>
