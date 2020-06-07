@@ -6342,8 +6342,8 @@ Buy another drink</seg>
       <tuv lang="en">
         <seg>Clear this option to deactivate automatic searching – if dictionaries are too long, for example.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="maximo" changedate="20200413T104901Z" creationid="maximo" creationdate="20200412T142317Z">
-        <seg>Вимкніть цю опцію, щоб вимкнути автоматичний пошук. Це може бути потрібно, якщо словник завеликий.</seg>
+      <tuv lang="uk-UA" changeid="maximo" changedate="20200607T173801Z" creationid="maximo" creationdate="20200412T142317Z">
+        <seg>Заберіть прапорець, щоб вимкнути автоматичний пошук. Це може бути потрібно, якщо словник завеликий.</seg>
       </tuv>
     </tu>
     <tu>
@@ -31796,8 +31796,8 @@ installation script (linux-install.sh).</seg>
       <tuv lang="en">
         <seg>You can then create an access key on the page &lt;u0&gt;https://term.tilde.com/account/keys/create?system=omegaT&lt;/u0&gt;.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="lesia" changedate="20200418T192311Z" creationid="maximo" creationdate="20200412T141754Z">
-        <seg>Тепер ви можете  створити ключ доступу на сторінці &lt;u0&gt;https://term.tilde.com/account/keys/create?system=omegaT&lt;/u0&gt;.</seg>
+      <tuv lang="uk-UA" changeid="maximo" changedate="20200607T173715Z" creationid="maximo" creationdate="20200412T141754Z">
+        <seg>Тепер ви можете створити ключ доступу на сторінці &lt;u0&gt;https://term.tilde.com/account/keys/create?system=omegaT&lt;/u0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -33149,6 +33149,14 @@ create its configuration folder.</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>https://sourceforge.net/p/omegat/wiki/Configuring Machine Translation Services</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="maximo" changedate="20200607T173702Z" creationid="maximo" creationdate="20200607T173702Z">
+        <seg>https://sourceforge.net/p/omegat/wiki/Configuring Machine Translation Services</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>не знайшла цього посилання у оригінальному файлі</note>
       <tuv lang="en">
         <seg>https://sourceforge.net/p/omegat/wiki/Reference%20Material/</seg>
@@ -33163,6 +33171,22 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="lesia" changedate="20200503T060705Z" creationid="lesia" creationdate="20200503T060705Z">
         <seg>https://sourceforge.net/projects/omegatscripts/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>https://term.tilde.com/account/keys/create?system=omegaT</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="maximo" changedate="20200607T173708Z" creationid="maximo" creationdate="20200607T173708Z">
+        <seg>https://term.tilde.com/account/keys/create?system=omegaT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>https://term.tilde.com/taas</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="maximo" changedate="20200607T173704Z" creationid="maximo" creationdate="20200607T173704Z">
+        <seg>https://term.tilde.com/taas</seg>
       </tuv>
     </tu>
     <tu>
