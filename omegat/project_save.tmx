@@ -1652,6 +1652,14 @@ To add files to the project, click on the Copy Files to Source Folder... button 
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>, &lt;e0&gt;alt&lt;/e0&gt;, &lt;e1&gt;altGraph&lt;/e1&gt;</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="maximo" changedate="20200607T165415Z" creationid="maximo" creationdate="20200607T165415Z">
+        <seg>, &lt;e0&gt;alt&lt;/e0&gt;, &lt;e1&gt;altGraph&lt;/e1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>, one can find:</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="maximo" changedate="20200405T184247Z" creationid="maximo" creationdate="20200405T184247Z">
@@ -2227,6 +2235,14 @@ The current setting is {0}MB;</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="maximo" changedate="20200405T043414Z" creationid="maximo" creationdate="20200405T043414Z">
         <seg>&lt;c0&gt;&lt;модифікатор&gt;&lt;/c0&gt; приймає значення: &lt;e1&gt;shift&lt;/e1&gt;, &lt;e2&gt;control&lt;/e2&gt;, &lt;e3&gt;ctrl&lt;/e3&gt;, &lt;e4&gt;meta&lt;/e4&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;c0&gt;projectOpenMenuItem=shift ctrl O&lt;/c0&gt;.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="maximo" changedate="20200607T165506Z" creationid="maximo" creationdate="20200607T165506Z">
+        <seg>&lt;c0&gt;projectOpenMenuItem=shift ctrl O&lt;/c0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7456,6 +7472,182 @@ Buy another drink</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Ctrl+D</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="maximo" changedate="20200607T165538Z" creationid="maximo" creationdate="20200607T165538Z">
+        <seg>Ctrl+D</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Ctrl+E</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="maximo" changedate="20200607T165541Z" creationid="maximo" creationdate="20200607T165541Z">
+        <seg>Ctrl+E</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Ctrl+F</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="maximo" changedate="20200607T165633Z" creationid="maximo" creationdate="20200607T165633Z">
+        <seg>Ctrl+F</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Ctrl+I</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="maximo" changedate="20200607T165626Z" creationid="maximo" creationdate="20200607T165626Z">
+        <seg>Ctrl+I</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Ctrl+L</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="maximo" changedate="20200607T165543Z" creationid="maximo" creationdate="20200607T165543Z">
+        <seg>Ctrl+L</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Ctrl+M</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="maximo" changedate="20200607T165627Z" creationid="maximo" creationdate="20200607T165627Z">
+        <seg>Ctrl+M</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Ctrl+O</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="maximo" changedate="20200607T165523Z" creationid="maximo" creationdate="20200607T165523Z">
+        <seg>Ctrl+O</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Ctrl+Q</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="maximo" changedate="20200607T165619Z" creationid="maximo" creationdate="20200607T165619Z">
+        <seg>Ctrl+Q</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Ctrl+R</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="maximo" changedate="20200607T165624Z" creationid="maximo" creationdate="20200607T165624Z">
+        <seg>Ctrl+R</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Ctrl+S</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="maximo" changedate="20200607T165536Z" creationid="maximo" creationdate="20200607T165536Z">
+        <seg>Ctrl+S</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Ctrl+Shift+C</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="maximo" changedate="20200607T165631Z" creationid="maximo" creationdate="20200607T165631Z">
+        <seg>Ctrl+Shift+C</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Ctrl+Shift+D</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="maximo" changedate="20200607T165540Z" creationid="maximo" creationdate="20200607T165540Z">
+        <seg>Ctrl+Shift+D</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Ctrl+Shift+F</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="maximo" changedate="20200607T165634Z" creationid="maximo" creationdate="20200607T165634Z">
+        <seg>Ctrl+Shift+F</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Ctrl+Shift+G</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="maximo" changedate="20200607T165632Z" creationid="maximo" creationdate="20200607T165632Z">
+        <seg>Ctrl+Shift+G</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Ctrl+Shift+I</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="maximo" changedate="20200607T165629Z" creationid="maximo" creationdate="20200607T165629Z">
+        <seg>Ctrl+Shift+I</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Ctrl+Shift+N</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="maximo" changedate="20200607T165517Z" creationid="maximo" creationdate="20200607T165517Z">
+        <seg>Ctrl+Shift+N</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Ctrl+Shift+R</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="maximo" changedate="20200607T165628Z" creationid="maximo" creationdate="20200607T165628Z">
+        <seg>Ctrl+Shift+R</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Ctrl+Shift+T</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="maximo" changedate="20200607T165630Z" creationid="maximo" creationdate="20200607T165630Z">
+        <seg>Ctrl+Shift+T</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Ctrl+Shift+W</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="maximo" changedate="20200607T165535Z" creationid="maximo" creationdate="20200607T165535Z">
+        <seg>Ctrl+Shift+W</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Ctrl+T</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="maximo" changedate="20200607T165630Z" creationid="maximo" creationdate="20200607T165630Z">
+        <seg>Ctrl+T</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Ctrl+Y</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="maximo" changedate="20200607T165623Z" creationid="maximo" creationdate="20200607T165623Z">
+        <seg>Ctrl+Y</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Ctrl+Z</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="maximo" changedate="20200607T165622Z" creationid="maximo" creationdate="20200607T165622Z">
+        <seg>Ctrl+Z</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Current DOCX file</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20190516T205804Z" creationid="Kos Ivantsov" creationdate="20190516T205804Z">
@@ -9910,6 +10102,14 @@ Gossamer threads hold you back
       </tuv>
       <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20190811T132736Z" creationid="Kos Ivantsov" creationdate="20190811T132736Z">
         <seg>Зайвий теґ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>F5</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="maximo" changedate="20200607T165534Z" creationid="maximo" creationdate="20200607T165534Z">
+        <seg>F5</seg>
       </tuv>
     </tu>
     <tu>
@@ -32238,6 +32438,110 @@ create its configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>editCreateGlossaryEntryMenuItem</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="maximo" changedate="20200607T165632Z" creationid="maximo" creationdate="20200607T165632Z">
+        <seg>editCreateGlossaryEntryMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>editCreateGlossaryEntryMenuItem=ctrl shift G</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="maximo" changedate="20200607T165451Z" creationid="maximo" creationdate="20200607T165451Z">
+        <seg>editCreateGlossaryEntryMenuItem=ctrl shift G</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>editExportSelectionMenuItem</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="maximo" changedate="20200607T165632Z" creationid="maximo" creationdate="20200607T165632Z">
+        <seg>editExportSelectionMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>editFindInProjectMenuItem</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="maximo" changedate="20200607T165633Z" creationid="maximo" creationdate="20200607T165633Z">
+        <seg>editFindInProjectMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>editInsertSourceMenuItem</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="maximo" changedate="20200607T165629Z" creationid="maximo" creationdate="20200607T165629Z">
+        <seg>editInsertSourceMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>editInsertTranslationMenuItem</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="maximo" changedate="20200607T165626Z" creationid="maximo" creationdate="20200607T165626Z">
+        <seg>editInsertTranslationMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>editOverwriteMachineTranslationMenuItem</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="maximo" changedate="20200607T165628Z" creationid="maximo" creationdate="20200607T165628Z">
+        <seg>editOverwriteMachineTranslationMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>editOverwriteSourceMenuItem</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="maximo" changedate="20200607T165629Z" creationid="maximo" creationdate="20200607T165629Z">
+        <seg>editOverwriteSourceMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>editOverwriteTranslationMenuItem</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="maximo" changedate="20200607T165625Z" creationid="maximo" creationdate="20200607T165625Z">
+        <seg>editOverwriteTranslationMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>editRedoMenuItem</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="maximo" changedate="20200607T165624Z" creationid="maximo" creationdate="20200607T165624Z">
+        <seg>editRedoMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>editTagNextMissedMenuItem</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="maximo" changedate="20200607T165631Z" creationid="maximo" creationdate="20200607T165631Z">
+        <seg>editTagNextMissedMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>editTagPainterMenuItem</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="maximo" changedate="20200607T165630Z" creationid="maximo" creationdate="20200607T165630Z">
+        <seg>editTagPainterMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>editUndoMenuItem</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="maximo" changedate="20200607T165623Z" creationid="maximo" creationdate="20200607T165623Z">
+        <seg>editUndoMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>en</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="maximo" changedate="20200413T170417Z" creationid="maximo" creationdate="20200413T170417Z">
@@ -32294,6 +32598,14 @@ create its configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>findInProjectReuseLastWindow</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="maximo" changedate="20200607T165634Z" creationid="maximo" creationdate="20200607T165634Z">
+        <seg>findInProjectReuseLastWindow</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>for (i in 0 ..&lt; files.size())</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="lesia" changedate="20200503T063601Z" creationid="lesia" creationdate="20200503T063601Z">
@@ -32330,6 +32642,22 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20190815T133305Z" creationid="Kos Ivantsov" creationdate="20190815T133305Z">
         <seg>href (URL-адреси &amp;посилань)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>http://docs.oracle.com/javase/6/docs/api/java/awt/event/KeyEvent.html</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="maximo" changedate="20200607T165428Z" creationid="maximo" creationdate="20200607T165428Z">
+        <seg>http://docs.oracle.com/javase/6/docs/api/java/awt/event/KeyEvent.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>http://docs.oracle.com/javase/6/docs/api/javax/swing/KeyStroke.html</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="maximo" changedate="20200607T165338Z" creationid="maximo" creationdate="20200607T165338Z">
+        <seg>http://docs.oracle.com/javase/6/docs/api/javax/swing/KeyStroke.html</seg>
       </tuv>
     </tu>
     <tu>
@@ -32418,6 +32746,22 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20190822T210421Z" creationid="Kos Ivantsov" creationdate="20190808T091330Z">
         <seg>https://sourceforge.net/p/omegat/feature-requests/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>https://sourceforge.net/p/omegat/svn/HEAD/tree/trunk/src/org/omegat/gui/main/MainMenuShortcuts.mac.properties</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="maximo" changedate="20200607T165441Z" creationid="maximo" creationdate="20200607T165441Z">
+        <seg>https://sourceforge.net/p/omegat/svn/HEAD/tree/trunk/src/org/omegat/gui/main/MainMenuShortcuts.mac.properties</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>https://sourceforge.net/p/omegat/svn/HEAD/tree/trunk/src/org/omegat/gui/main/MainMenuShortcuts.properties</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="maximo" changedate="20200607T165436Z" creationid="maximo" creationdate="20200607T165436Z">
+        <seg>https://sourceforge.net/p/omegat/svn/HEAD/tree/trunk/src/org/omegat/gui/main/MainMenuShortcuts.properties</seg>
       </tuv>
     </tu>
     <tu>
@@ -32786,6 +33130,182 @@ create its configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>projectAccessCurrentSourceDocumentMenuItem</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="maximo" changedate="20200607T165617Z" creationid="maximo" creationdate="20200607T165617Z">
+        <seg>projectAccessCurrentSourceDocumentMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>projectAccessCurrentTargetDocumentMenuItem</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="maximo" changedate="20200607T165618Z" creationid="maximo" creationdate="20200607T165618Z">
+        <seg>projectAccessCurrentTargetDocumentMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>projectAccessDictionaryMenuItem</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="maximo" changedate="20200607T165611Z" creationid="maximo" creationdate="20200607T165611Z">
+        <seg>projectAccessDictionaryMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>projectAccessGlossaryMenuItem</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="maximo" changedate="20200607T165613Z" creationid="maximo" creationdate="20200607T165613Z">
+        <seg>projectAccessGlossaryMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>projectAccessRootMenuItem</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="maximo" changedate="20200607T165609Z" creationid="maximo" creationdate="20200607T165609Z">
+        <seg>projectAccessRootMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>projectAccessSourceMenuItem</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="maximo" changedate="20200607T165616Z" creationid="maximo" creationdate="20200607T165616Z">
+        <seg>projectAccessSourceMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>projectAccessTargetMenuItem</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="maximo" changedate="20200607T165616Z" creationid="maximo" creationdate="20200607T165616Z">
+        <seg>projectAccessTargetMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>projectAccessWriteableGlossaryMenuItem</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="maximo" changedate="20200607T165618Z" creationid="maximo" creationdate="20200607T165618Z">
+        <seg>projectAccessWriteableGlossaryMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>projectCloseMenuItem</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="maximo" changedate="20200607T165535Z" creationid="maximo" creationdate="20200607T165535Z">
+        <seg>projectCloseMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>projectCompileMenuItem</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="maximo" changedate="20200607T165538Z" creationid="maximo" creationdate="20200607T165538Z">
+        <seg>projectCompileMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>projectEditMenuItem</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="maximo" changedate="20200607T165541Z" creationid="maximo" creationdate="20200607T165541Z">
+        <seg>projectEditMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>projectExitMenuItem</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="maximo" changedate="20200607T165619Z" creationid="maximo" creationdate="20200607T165619Z">
+        <seg>projectExitMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>projectImportMenuItem</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="maximo" changedate="20200607T165532Z" creationid="maximo" creationdate="20200607T165532Z">
+        <seg>projectImportMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>projectNewMenuItem</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="maximo" changedate="20200607T165517Z" creationid="maximo" creationdate="20200607T165517Z">
+        <seg>projectNewMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>projectOpenMenuItem</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="maximo" changedate="20200607T165523Z" creationid="maximo" creationdate="20200607T165523Z">
+        <seg>projectOpenMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>projectOpenMenuItem=ctrl O</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="maximo" changedate="20200607T165450Z" creationid="maximo" creationdate="20200607T165450Z">
+        <seg>projectOpenMenuItem=ctrl O</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>projectOpenRecentMenuItem</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="maximo" changedate="20200607T165526Z" creationid="maximo" creationdate="20200607T165526Z">
+        <seg>projectOpenRecentMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>projectReloadMenuItem</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="maximo" changedate="20200607T165534Z" creationid="maximo" creationdate="20200607T165534Z">
+        <seg>projectReloadMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>projectSaveMenuItem</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="maximo" changedate="20200607T165537Z" creationid="maximo" creationdate="20200607T165537Z">
+        <seg>projectSaveMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>projectSingleCompileMenuItem</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="maximo" changedate="20200607T165540Z" creationid="maximo" creationdate="20200607T165540Z">
+        <seg>projectSingleCompileMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>projectTeamNewMenuItem</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="maximo" changedate="20200607T165522Z" creationid="maximo" creationdate="20200607T165522Z">
+        <seg>projectTeamNewMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>projectWikiImportMenuItem</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="maximo" changedate="20200607T165533Z" creationid="maximo" creationdate="20200607T165533Z">
+        <seg>projectWikiImportMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>puts the pane back within the main window</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="maximo" changedate="20200429T205011Z" creationid="maximo" creationdate="20200429T205011Z">
@@ -32915,6 +33435,14 @@ create its configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>toolsShowStatisticsStandardMenuItem=shift meta S</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="maximo" changedate="20200607T165512Z" creationid="maximo" creationdate="20200607T165512Z">
+        <seg>toolsShowStatisticsStandardMenuItem=shift meta S</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>total number of segments (including repeats) in the project</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="maximo" changedate="20200503T060645Z" creationid="maximo" creationdate="20200503T060633Z">
@@ -32967,6 +33495,14 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20190815T140424Z" creationid="Kos Ivantsov" creationdate="20190815T140424Z">
         <seg>value (&amp;для «button», «submit» і «reset»)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>viewFileListMenuItem</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="maximo" changedate="20200607T165543Z" creationid="maximo" creationdate="20200607T165543Z">
+        <seg>viewFileListMenuItem</seg>
       </tuv>
     </tu>
     <tu>
