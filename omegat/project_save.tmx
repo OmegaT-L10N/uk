@@ -5198,8 +5198,8 @@ Buy another drink</seg>
       <tuv lang="en">
         <seg>Before the spell check function can be used, a suitable dictionary or dictionaries (i.e. for your target language) must be installed.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="maximo" changedate="20200411T103942Z" creationid="maximo" creationdate="20200411T103942Z">
-        <seg>Для того щоб використовувати функцію перевірки правопису ви маєте спершу встановити словники для потрібної мови.</seg>
+      <tuv lang="uk-UA" changeid="maximo" changedate="20200607T170338Z" creationid="maximo" creationdate="20200411T103942Z">
+        <seg>Щоб використовувати функцію перевірки правопису ви маєте спершу встановити словники для потрібної мови.</seg>
       </tuv>
     </tu>
     <tu>
@@ -28406,8 +28406,8 @@ the server.</seg>
       <tuv lang="en">
         <seg>To install spelling dictionaries, follow this procedure:</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="maximo" changedate="20200411T104006Z" creationid="maximo" creationdate="20200411T104006Z">
-        <seg>Для встановлення орфографічних словників зробіть наступні кроки:</seg>
+      <tuv lang="uk-UA" changeid="maximo" changedate="20200607T170356Z" creationid="maximo" creationdate="20200411T104006Z">
+        <seg>Порядок дій такий:</seg>
       </tuv>
     </tu>
     <tu>
