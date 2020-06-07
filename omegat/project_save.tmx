@@ -1564,8 +1564,8 @@ To add files to the project, click on the Copy Files to Source Folder... button 
       <tuv lang="en">
         <seg>(The definition of “unique” is case-sensitive: "Run" and "run" are treated as being different)</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="lesia" changedate="20200429T202818Z" creationid="lesia" creationdate="20200429T202818Z">
-        <seg>(Тлумачення поняття “унікальний” залежить від регістру символів: "Запуск" та "запуск" вважаються різними поняттями)</seg>
+      <tuv lang="uk-UA" changeid="maximo" changedate="20200607T171750Z" creationid="lesia" creationdate="20200429T202818Z">
+        <seg>(“унікальність” враховує регістр символів: "Запуск" та "запуск" не є повтором)</seg>
       </tuv>
     </tu>
     <tu>
@@ -26776,8 +26776,8 @@ in /lib/licenses/Licenses.txt.</seg>
       <tuv lang="en">
         <seg>The set of &lt;e0&gt;Unique &lt;/e0&gt;segments is computed by taking all the segments and removing all duplicate segments.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="lesia" changedate="20200429T202816Z" creationid="lesia" creationdate="20200429T202816Z">
-        <seg>Набір &lt;e0&gt;Унікальних &lt;/e0&gt;сегментів розраховується шляхом віднімання всіх продубльованих сегментів від загальної кількості сегментів.</seg>
+      <tuv lang="uk-UA" changeid="maximo" changedate="20200607T171652Z" creationid="lesia" creationdate="20200429T202816Z">
+        <seg>Множина &lt;e0&gt;Унікальних&lt;/e0&gt; сегментів розраховується шляхом віднімання повторів сегментів від загальної їх кількості.</seg>
       </tuv>
     </tu>
     <tu>
