@@ -2474,8 +2474,8 @@ The current setting is {0}MB;</seg>
       <tuv lang="en">
         <seg>&lt;e0&gt;Note: &lt;/e0&gt;Of course there are other ways and means to create a simple file with tab delimited entries.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="fanja9" changedate="20200531T184017Z" creationid="lesia" creationdate="20200505T201251Z">
-        <seg>&lt;e0&gt;Зверніть увагу: &lt;/e0&gt;звісно, є інші шляхи та засоби створення простого файлу із записами, розділеними табуляцією.</seg>
+      <tuv lang="uk-UA" changeid="maximo" changedate="20200607T164424Z" creationid="lesia" creationdate="20200505T201251Z">
+        <seg>&lt;e0&gt;Зверніть увагу:&lt;/e0&gt; є інші шляхи та засоби створення простого файлу із записами, розділеними табуляцією.</seg>
       </tuv>
     </tu>
     <tu>
@@ -17253,8 +17253,8 @@ as the Applications folder.</seg>
       <tuv lang="en">
         <seg>Nothing speaks against using Notepad++ on Windows, GEdit on Linux for instance or some spreadsheet program for this purpose: any application, that can handle UTF-8 (or UTF-16 LE) and that can show white space (so that you do not miss the required &lt;k1&gt;TAB&lt;/k1&gt; characters) can be used.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="lesia" changedate="20200505T201802Z" creationid="lesia" creationdate="20200505T201802Z">
-        <seg>Цілком можна з цією метою вдатися, приміром, до Notepad++ на Windows, GEdit на Linux або ж тої чи іншої програми для роботи з таблицями: підійде будь-яка програма, яка працює з UTF-8 (або UTF-16 LE) і може відображувати пробіли (щоб ви не пропустили потрібних символів &lt;k1&gt;TAB&lt;/k1&gt;).</seg>
+      <tuv lang="uk-UA" changeid="maximo" changedate="20200607T164623Z" creationid="lesia" creationdate="20200505T201802Z">
+        <seg>Наприклад, можна використати Notepad++ на Windows, GEdit на Linux або ж ту чи іншу програму для роботи з таблицями. Підійде будь-яка програма, яка працює з UTF-8 (або UTF-16 LE) і може відображати пробільні символи (щоб ви не пропустили потрібних символів &lt;k1&gt;TAB&lt;/k1&gt;).</seg>
       </tuv>
     </tu>
     <tu>
