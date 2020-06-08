@@ -4278,8 +4278,8 @@ The current setting is {0}MB;</seg>
       <tuv lang="en">
         <seg>Allows the user create an entry in the default glossary file.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="lesia" changedate="20200425T143651Z" creationid="lesia" creationdate="20200425T143651Z">
-        <seg>Дозволяє користувачу створювати запис в стандартний файл глосарію.</seg>
+      <tuv lang="uk-UA" changeid="maximo" changedate="20200608T163536Z" creationid="lesia" creationdate="20200425T143651Z">
+        <seg>Дозволяє користувачу створювати записи в стандартному файлі глосарію.</seg>
       </tuv>
     </tu>
     <tu>
@@ -20194,6 +20194,14 @@ project without team functionality.</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="lesia" changedate="20200523T202915Z" creationid="lesia" creationdate="20200523T202915Z">
         <seg>Коли ви вводите рядок у поле пошуку та натискаєте кнопку пошуку, з'являються всі сегменти проєкту, які містять запитуваний рядок.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Prevent data loss</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="maximo" changedate="20200608T163408Z" creationid="maximo" creationdate="20200608T163408Z">
+        <seg>Prevent data loss</seg>
       </tuv>
     </tu>
     <tu>
