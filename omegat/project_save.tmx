@@ -23118,8 +23118,8 @@ The scope of a search is by default the project and can be set to be any files l
       <tuv lang="en">
         <seg>Select this option if you want dictionaries to display words that have the same root.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="maximo" changedate="20200412T142353Z" creationid="maximo" creationdate="20200412T142353Z">
-        <seg>Увімкніть цю опцію, якщо ви хочете, щоб у словниках показувалися слова з такими ж коренями.</seg>
+      <tuv lang="uk-UA" changeid="maximo" changedate="20200608T100836Z" creationid="maximo" creationdate="20200412T142353Z">
+        <seg>Увімкніть цю опцію, якщо ви хочете, щоб у словниках також показувалися спільнокореневі слова.</seg>
       </tuv>
     </tu>
     <tu>
