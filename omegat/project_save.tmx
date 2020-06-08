@@ -2832,6 +2832,30 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;l0&gt;${extension-0}&lt;/l0&gt; docx</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="maximo" changedate="20200608T105040Z" creationid="maximo" creationdate="20200608T105040Z">
+        <seg>&lt;l0&gt;${extension-0}&lt;/l0&gt; docx</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;l0&gt;${extension-1}&lt;/l0&gt; xx.docx</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="maximo" changedate="20200608T105040Z" creationid="maximo" creationdate="20200608T105040Z">
+        <seg>&lt;l0&gt;${extension-1}&lt;/l0&gt; xx.docx</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;l0&gt;${extension-2}&lt;/l0&gt; Document.xx.docx</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="maximo" changedate="20200608T105041Z" creationid="maximo" creationdate="20200608T105041Z">
+        <seg>&lt;l0&gt;${extension-2}&lt;/l0&gt; Document.xx.docx</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;l0&gt;${extension} &lt;/l0&gt;- the original file extension</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="maximo" changedate="20200413T191301Z" creationid="maximo" creationdate="20200413T191301Z">
@@ -2852,6 +2876,30 @@ The current setting is {0}MB;</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="maximo" changedate="20200413T192030Z" creationid="maximo" creationdate="20200413T192030Z">
         <seg>&lt;l0&gt;${file-target-encoding}&lt;/l0&gt; - кодування перекладеного файлу</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;l0&gt;${nameOnly-0}&lt;/l0&gt; Document</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="maximo" changedate="20200608T105038Z" creationid="maximo" creationdate="20200608T105038Z">
+        <seg>&lt;l0&gt;${nameOnly-0}&lt;/l0&gt; Document</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;l0&gt;${nameOnly-1}&lt;/l0&gt; Document.xx</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="maximo" changedate="20200608T105038Z" creationid="maximo" creationdate="20200608T105038Z">
+        <seg>&lt;l0&gt;${nameOnly-1}&lt;/l0&gt; Document.xx</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;l0&gt;${nameOnly-2}&lt;/l0&gt; Document.xx.docx</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="maximo" changedate="20200608T105039Z" creationid="maximo" creationdate="20200608T105039Z">
+        <seg>&lt;l0&gt;${nameOnly-2}&lt;/l0&gt; Document.xx.docx</seg>
       </tuv>
     </tu>
     <tu>
@@ -18497,8 +18545,8 @@ installed on your system.</seg>
       <tuv lang="en">
         <seg>On the other hand this functionality can be very useful in special cases, where you can increase your productivity by tuning the segmentation rules to the text to be translated.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="maximo" changedate="20200414T142911Z" creationid="maximo" creationdate="20200414T142911Z">
-        <seg>З іншого боку, ця можливість може бути зручною в певних випадках, де ви зможете збільшити свою продуктивність шляхом налаштування правил сегментації для свого конкретного випадку.</seg>
+      <tuv lang="uk-UA" changeid="maximo" changedate="20200608T105206Z" creationid="maximo" creationdate="20200414T142911Z">
+        <seg>З іншого боку, ця можливість може бути зручною в певних випадках. Іноді можна значно збільшити свою продуктивність шляхом налаштування правил сегментації для свого конкретного випадку.</seg>
       </tuv>
     </tu>
     <tu>
@@ -33026,6 +33074,14 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20190815T133305Z" creationid="Kos Ivantsov" creationdate="20190815T133305Z">
         <seg>href (URL-адреси &amp;посилань)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>http://docs.oracle.com/javase/1.4.2/docs/api/java/text/SimpleDateFormat.html</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="maximo" changedate="20200608T105019Z" creationid="maximo" creationdate="20200608T105019Z">
+        <seg>http://docs.oracle.com/javase/1.4.2/docs/api/java/text/SimpleDateFormat.html</seg>
       </tuv>
     </tu>
     <tu>
