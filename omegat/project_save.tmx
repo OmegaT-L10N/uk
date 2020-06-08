@@ -33225,8 +33225,8 @@ create its configuration folder.</seg>
       <tuv lang="en">
         <seg>if sentence segmentation rules are active, the text will be segmented further according to the option selected here.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="lesia" changedate="20200419T062850Z" creationid="maximo" creationdate="20200412T202657Z">
-        <seg>якщо активовані правила сегментації на речення, текст буде далі сегментований відповідно до цього параметру.</seg>
+      <tuv lang="uk-UA" changeid="maximo" changedate="20200608T103621Z" creationid="maximo" creationdate="20200412T202657Z">
+        <seg>якщо сегментація на речення активна, то отримані абзаци будуть сегментовані далі.</seg>
       </tuv>
     </tu>
     <tu>
