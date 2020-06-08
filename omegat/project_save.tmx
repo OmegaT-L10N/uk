@@ -2393,16 +2393,16 @@ The current setting is {0}MB;</seg>
       <tuv lang="en">
         <seg>&lt;e0&gt;Excel: &lt;/e0&gt;comments, sheet names</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="maximo" changedate="20200608T103931Z" creationid="maximo" creationdate="20200413T114047Z">
-        <seg>&lt;e0&gt;Excel:&lt;/e0&gt; коментарі, назви аркушів</seg>
+      <tuv lang="uk-UA" changeid="maximo" changedate="20200608T103955Z" creationid="maximo" creationdate="20200413T114047Z">
+        <seg>&lt;e0&gt;Excel&lt;/e0&gt;: коментарі, назви аркушів</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>&lt;e0&gt;Global:&lt;/e0&gt; charts, diagrams, drawings, WordArt</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="maximo" changedate="20200413T114234Z" creationid="maximo" creationdate="20200413T114234Z">
-        <seg>&lt;e0&gt;Global:&lt;/e0&gt; схеми, діаграми, малюнки, об'єкти WordArt</seg>
+      <tuv lang="uk-UA" changeid="maximo" changedate="20200608T104008Z" creationid="maximo" creationdate="20200413T114234Z">
+        <seg>&lt;e0&gt;Global&lt;/e0&gt;: схеми, діаграми, малюнки, об'єкти WordArt</seg>
       </tuv>
     </tu>
     <tu>
@@ -2626,8 +2626,8 @@ The current setting is {0}MB;</seg>
       <tuv lang="en">
         <seg>&lt;e0&gt;Word:&lt;/e0&gt; non-visible instruction text, comments, footnotes, endnotes, footers</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="maximo" changedate="20200413T114017Z" creationid="maximo" creationdate="20200413T114017Z">
-        <seg>&lt;e0&gt;Word:&lt;/e0&gt; невидимий текст інструкцій, коментарі, зноски, примітки, колонтитули</seg>
+      <tuv lang="uk-UA" changeid="maximo" changedate="20200608T103949Z" creationid="maximo" creationdate="20200413T114017Z">
+        <seg>&lt;e0&gt;Word&lt;/e0&gt;: невидимий текст інструкцій, коментарі, зноски, примітки, колонтитули</seg>
       </tuv>
     </tu>
     <tu>
