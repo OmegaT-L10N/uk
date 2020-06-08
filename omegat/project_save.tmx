@@ -18609,8 +18609,8 @@ installed on your system.</seg>
       <tuv lang="en">
         <seg>Only a limited number of file formats specify a mandatory encoding.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="maximo" changedate="20200413T184551Z" creationid="maximo" creationdate="20200413T184551Z">
-        <seg>Тільки невелика кількість форматів файлів вимагає явного зазначення системи кодування.</seg>
+      <tuv lang="uk-UA" changeid="maximo" changedate="20200608T105014Z" creationid="maximo" creationdate="20200413T184551Z">
+        <seg>Тільки невелика кількість форматів файлів передбачає, що система кодування буде вказана явно.</seg>
       </tuv>
     </tu>
     <tu>
