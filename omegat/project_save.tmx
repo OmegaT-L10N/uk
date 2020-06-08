@@ -12888,8 +12888,8 @@ their defaults as a result of the location change.</seg>
       <tuv lang="en">
         <seg>If you add a prefix (for instance [fuzzy]), you can trace those translations later to see they are correct.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="maximo" changedate="20200416T213008Z" creationid="maximo" creationdate="20200416T213008Z">
-        <seg>Якщо ви додасте префікс, наприклад [нечіткий збіг], то вам легше буде відслідковувати такі переклади і перевіряти, чи вони правильні.</seg>
+      <tuv lang="uk-UA" changeid="maximo" changedate="20200608T111848Z" creationid="maximo" creationdate="20200416T213008Z">
+        <seg>Якщо ви додасте префікс, наприклад [нечіткий збіг], то вам легше буде відслідковувати такі переклади, щоб перевірити, чи вони правильні.</seg>
       </tuv>
     </tu>
     <tu>
@@ -16871,6 +16871,22 @@ as the Applications folder.</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20190701T155851Z" creationid="Kos Ivantsov" creationdate="20190701T155851Z">
         <seg>Файли Mozilla Lang</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Mr??s??\.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="maximo" changedate="20200608T111640Z" creationid="maximo" creationdate="20200608T111640Z">
+        <seg>Mr??s??\.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Mr\.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="maximo" changedate="20200608T111636Z" creationid="maximo" creationdate="20200608T111636Z">
+        <seg>Mr\.</seg>
       </tuv>
     </tu>
     <tu>
@@ -28302,8 +28318,8 @@ the server.</seg>
       <tuv lang="en">
         <seg>To check their syntax and their applicability, it is advisable to use tools which allow you to see their effect directly.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="maximo" changedate="20200416T090459Z" creationid="maximo" creationdate="20200416T090459Z">
-        <seg>Щоб перевірити їх синтаксис та їх ефект, використовуйте спеціальні інструменти.</seg>
+      <tuv lang="uk-UA" changeid="maximo" changedate="20200608T111635Z" creationid="maximo" creationdate="20200416T090459Z">
+        <seg>Щоб перевірити їх синтаксис та ефект, використовуйте спеціальні інструменти.</seg>
       </tuv>
     </tu>
     <tu>
@@ -34527,6 +34543,14 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20190808T091253Z" creationid="Kos Ivantsov" creationdate="20190808T091253Z">
         <seg>▼</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>。</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="maximo" changedate="20200608T111637Z" creationid="maximo" creationdate="20200608T111637Z">
+        <seg>。</seg>
       </tuv>
     </tu>
 <!-- Alternative translations -->
