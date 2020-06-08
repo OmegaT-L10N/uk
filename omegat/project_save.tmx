@@ -140,6 +140,78 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>${adjustedScore}</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="maximo" changedate="20200608T112251Z" creationid="maximo" creationdate="20200608T112251Z">
+        <seg>${adjustedScore}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>${diffReversed}</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="maximo" changedate="20200608T112247Z" creationid="maximo" creationdate="20200608T112247Z">
+        <seg>${diffReversed}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>${diff}</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="maximo" changedate="20200608T112246Z" creationid="maximo" creationdate="20200608T112246Z">
+        <seg>${diff}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>${fuzzyFlag}</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="maximo" changedate="20200608T112252Z" creationid="maximo" creationdate="20200608T112252Z">
+        <seg>${fuzzyFlag}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>${id}</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="maximo" changedate="20200608T112241Z" creationid="maximo" creationdate="20200608T112241Z">
+        <seg>${id}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>${noStemScore}</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="maximo" changedate="20200608T112250Z" creationid="maximo" creationdate="20200608T112250Z">
+        <seg>${noStemScore}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>${score}</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="maximo" changedate="20200608T112249Z" creationid="maximo" creationdate="20200608T112249Z">
+        <seg>${score}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>${sourceText}</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="maximo" changedate="20200608T112244Z" creationid="maximo" creationdate="20200608T112244Z">
+        <seg>${sourceText}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>${targetText}</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="maximo" changedate="20200608T112245Z" creationid="maximo" creationdate="20200608T112245Z">
+        <seg>${targetText}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&amp;About...</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20190422T204535Z" creationid="Kos Ivantsov" creationdate="20190422T204522Z">
@@ -12273,8 +12345,8 @@ need not be entered.)</seg>
       <tuv lang="en">
         <seg>If OmegaT needs to use an authenticated proxy server to access the Internet, enter the details provided by the proxy administrator here.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="maximo" changedate="20200417T083720Z" creationid="maximo" creationdate="20200417T083720Z">
-        <seg>Якщо OmegaT для роботи з інтернетом потрібен проксі, тут ви зможете ввести ідентифікаційні дані до проксі, надані вам його адміністратором.</seg>
+      <tuv lang="uk-UA" changeid="maximo" changedate="20200608T112511Z" creationid="maximo" creationdate="20200417T083720Z">
+        <seg>Якщо доступ в інтернет відбувається через проксі, тут ви зможете ввести ідентифікаційні дані, надані вам його адміністратором.</seg>
       </tuv>
     </tu>
     <tu>
