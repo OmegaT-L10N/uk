@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.2.0_0_747fc65a9" segtype="sentence" srclang="en"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.2.0_0_747fc65a" segtype="sentence" srclang="en"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -17524,8 +17524,8 @@ as the Applications folder.</seg>
       <tuv lang="en">
         <seg>Note that in addition to "source-target" dictionaries you can, using the Dictionary feature, obtain access to information such as:</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="fanja9" changedate="20200529T151513Z" creationid="maximo" creationdate="20200329T200436Z">
-        <seg>Зверніть увагу, функція словника надає доступ не лише до звичайних перекладних словників, а й до багато чого іншого. Приміром:</seg>
+      <tuv lang="uk-UA" changeid="Asus" changedate="20200609T114007Z" creationid="maximo" creationdate="20200329T200436Z">
+        <seg>Зверніть увагу, функція словника надає доступ не лише до звичайних перекладних словників, а й до таких ресурсів як:</seg>
       </tuv>
     </tu>
     <tu>
@@ -22532,8 +22532,8 @@ The scope of a search is by default the project and can be set to be any files l
       <tuv lang="en">
         <seg>Search for the required language combination - for instance on the &lt;u0&gt;dictionary links given by the OmegaT Wiki&lt;/u0&gt;.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="maximo" changedate="20200329T200308Z" creationid="maximo" creationdate="20200329T200308Z">
-        <seg>Знайти необхідну мовну пару — наприклад, за &lt;u0&gt;посиланнями на словники&lt;/u0&gt; з OmegaT Wiki.</seg>
+      <tuv lang="uk-UA" changeid="Asus" changedate="20200609T112902Z" creationid="maximo" creationdate="20200329T200308Z">
+        <seg>Знайти необхідну мовну пару — наприклад, за &lt;u0&gt;посиланнями на словники&lt;/u0&gt; від OmegaT Wiki.</seg>
       </tuv>
     </tu>
     <tu>
@@ -23831,8 +23831,8 @@ The scope of a search is by default the project and can be set to be any files l
       <tuv lang="en">
         <seg>Some of the dictionaries have no strings attached - i.e. are "Free to use", and others, like the selection above, are under the GPL license.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="lesia" changedate="20200511T194145Z" creationid="maximo" creationdate="20200329T200607Z">
-        <seg>Ці словники видані під ліцензією GPL, однак, є і такі, які не прив'язані ні до яких ліцензій, тобто, їх можна використовувати абсолютно вільно.</seg>
+      <tuv lang="uk-UA" changeid="Asus" changedate="20200609T115300Z" creationid="maximo" creationdate="20200329T200607Z">
+        <seg>Ці словники видані під ліцензією GPL, однак, є і такі, які не прив'язані до жодних ліцензій, тобто, вони "Вільні для використання".</seg>
       </tuv>
     </tu>
     <tu>
@@ -26108,8 +26108,8 @@ instead.</seg>
       <tuv lang="en">
         <seg>The following example shows Merriam Webster 10th dictionary "in action":</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="fanja9" changedate="20200529T171338Z" creationid="maximo" creationdate="20200329T200613Z">
-        <seg>Скриншот нижче показує, як працює словник Мерріама-Вебстера (10-видання):</seg>
+      <tuv lang="uk-UA" changeid="Asus" changedate="20200609T115421Z" creationid="maximo" creationdate="20200329T200613Z">
+        <seg>Нижче зображено, як працює словник Мерріама-Вебстера (10-видання):</seg>
       </tuv>
     </tu>
     <tu>
@@ -30770,7 +30770,7 @@ of selecting, obtaining and installing it.</seg>
       <tuv lang="en">
         <seg>Webster's Revised Unabridged Dictionary (1913)</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="lesia" changedate="20200510T145946Z" creationid="lesia" creationdate="20200510T145946Z">
+      <tuv lang="uk-UA" changeid="Asus" changedate="20200609T115508Z" creationid="Asus" creationdate="20200609T115508Z">
         <seg>Webster's Revised Unabridged Dictionary (1913)</seg>
       </tuv>
     </tu>
@@ -33309,12 +33309,11 @@ create its configuration folder.</seg>
       </tuv>
     </tu>
     <tu>
-      <note>не знайшла цього посилання у оригінальному файлі</note>
       <tuv lang="en">
         <seg>https://sourceforge.net/p/omegat/wiki/Reference%20Material/</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="lesia" changedate="20200510T163224Z" creationid="maximo" creationdate="20200505T191632Z">
-        <seg>зайти на https://sourceforge.net/p/omegat/wiki/Reference%20Material/</seg>
+      <tuv lang="uk-UA" changeid="Asus" changedate="20200609T120906Z" creationid="maximo" creationdate="20200505T191632Z">
+        <seg>Зайти на https://sourceforge.net/p/omegat/wiki/Reference%20Material/</seg>
       </tuv>
     </tu>
     <tu>
