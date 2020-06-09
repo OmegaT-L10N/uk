@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.2.0_0_747fc65a" segtype="sentence" srclang="en"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.2.0_0_747fc65a9" segtype="sentence" srclang="en"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -5278,8 +5278,8 @@ Buy another drink</seg>
       <tuv lang="en">
         <seg>Bear in mind that changing the languages may render the currently used translation memories useless since their language pair may not longer match the new languages.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="lesia" changedate="20200412T195411Z" creationid="lesia" creationdate="20200412T195411Z">
-        <seg>Зверніть увагу: якщо мовна пара актуальної памʼяті перекладів не відповідатиме новій встановленій мовній парі проєкту, пам'ять перекладів більше не можна буде використовувати.</seg>
+      <tuv lang="uk-UA" changeid="maximo" changedate="20200609T124239Z" creationid="lesia" creationdate="20200412T195411Z">
+        <seg>Зверніть увагу: якщо ви змінюєте мовну пару проєкту, то вже напрацьована пам'ять перекладів перестає функціонувати.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13146,8 +13146,8 @@ Explorer), change the settings so that file extensions are displayed.</seg>
       <tuv lang="en">
         <seg>If you decide mid-translation to switch from sentence to paragraph translation, the internal translation memory of the project will not be changed (OmegaT may upgrade old translation memories that did not use sentence segmentation, but not vice versa), but OmegaT will attempt to create paragraph fuzzy matches by gluing together existing sentence translations.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="lesia" changedate="20200413T200659Z" creationid="lesia" creationdate="20200412T201144Z">
-        <seg>Якщо під час перекладу ви вирішите змінити правила сегментації і працювати не за реченнями, а за абзацами, це не змінить памʼять перекладів, що створилася у проєкті (OmegaT може оновити старі файли памʼяті перекладів, які працювали з більшими за реченнями сегментами, але не навпаки). Однак, OmegaT буде намагатися створити нечіткі збіги на рівні абзаців, "склеюючи" наявні переклади речень. </seg>
+      <tuv lang="uk-UA" changeid="maximo" changedate="20200609T124431Z" creationid="lesia" creationdate="20200412T201144Z">
+        <seg>Якщо під час перекладу ви вирішите змінити правила сегментації і працювати не за реченнями, а за абзацами, це не змінить памʼять перекладів, що створилася у проєкті (OmegaT може оновити старі файли памʼяті перекладів, які працювали з більшими за речення сегментами, але не навпаки). Однак, OmegaT буде намагатися створити нечіткі збіги на рівні абзаців, "склеюючи" наявні переклади речень. </seg>
       </tuv>
     </tu>
     <tu>
@@ -26606,8 +26606,8 @@ in /lib/licenses/Licenses.txt.</seg>
       <tuv lang="en">
         <seg>The predominant way of segmenting the sources is the sentence-level segmenting, so this check box should in a normal case be left checked.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="lesia" changedate="20200412T200140Z" creationid="lesia" creationdate="20200412T200140Z">
-        <seg>За замовчуванням оригінал сегментується за реченнями, тож якщо не бажаєте вносити ніяких змін, залиште цей прапорець на місці.</seg>
+      <tuv lang="uk-UA" changeid="maximo" changedate="20200609T124331Z" creationid="lesia" creationdate="20200412T200140Z">
+        <seg>За замовчуванням оригінал сегментується за реченнями, і зазвичай це найкращий варіант.</seg>
       </tuv>
     </tu>
     <tu>
@@ -31790,8 +31790,8 @@ start menu, the desktop or the quick launch area to link it from there.</seg>
       <tuv lang="en">
         <seg>You can either enter the source and target languages by hand or use the drop down menus.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="lesia" changedate="20200412T145125Z" creationid="lesia" creationdate="20200412T145125Z">
-        <seg>Мови оригіналу та перекладу можна ввести вручну або ж вибрати із меню.</seg>
+      <tuv lang="uk-UA" changeid="maximo" changedate="20200609T114019Z" creationid="lesia" creationdate="20200412T145125Z">
+        <seg>Мови оригіналу та перекладу можна ввести вручну або ж вибрати з меню.</seg>
       </tuv>
     </tu>
     <tu>
