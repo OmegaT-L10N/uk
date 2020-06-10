@@ -26342,8 +26342,8 @@ in /lib/licenses/Licenses.txt.</seg>
       <tuv lang="en">
         <seg>The location of the file must be within the &lt;f2&gt;/glossary&lt;/f2&gt; folder, but it can be in a deeper folder (e.g., &lt;f3&gt;glossary/sub/glossary.txt&lt;/f3&gt;).</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="fanja9" changedate="20200531T145106Z" creationid="maximo" creationdate="20200404T171120Z">
-        <seg>Файл глосарію має знаходитися у теці &lt;f2&gt;/glossary&lt;/f2&gt;, але він може також бути у глибшій теці (наприклад &lt;f3&gt;glossary/sub/glossary.txt&lt;/f3&gt;).</seg>
+      <tuv lang="uk-UA" changeid="Asus" changedate="20200610T082339Z" creationid="maximo" creationdate="20200404T171120Z">
+        <seg>Файл глосарія має знаходитися у теці &lt;f2&gt;/glossary&lt;/f2&gt;, але він може також бути у глибшій теці (наприклад, &lt;f3&gt;glossary/sub/glossary.txt&lt;/f3&gt;).</seg>
       </tuv>
     </tu>
     <tu>
@@ -31996,8 +31996,8 @@ installation script (linux-install.sh).</seg>
       <tuv lang="en">
         <seg>You define its location and name in the project properties dialog.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="fanja9" changedate="20200531T144848Z" creationid="maximo" creationdate="20200404T170913Z">
-        <seg>Ви можете вказати місце розташування та назву глосарію у діалозі Властивості проєкту.</seg>
+      <tuv lang="uk-UA" changeid="Asus" changedate="20200610T082228Z" creationid="maximo" creationdate="20200404T170913Z">
+        <seg>Ви визначаєте місце розташування та назву глосарія у діалозі Властивості проєкту.</seg>
       </tuv>
     </tu>
     <tu>
