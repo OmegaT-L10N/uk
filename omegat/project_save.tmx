@@ -35194,6 +35194,21 @@ create its configuration folder.</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="file">doc_src/App_Glossaries.xml</prop>
+      <prop type="prev">New terms can be added manually to the glossary file(s) during translation, for example in a text editor.</prop>
+      <prop type="next">The source term does not have to be a single-word item, as the next example shows:</prop>
+      <note>UPD. Розумію це речення так: Щойно ви збережете зміни в оригінальному текстовому файлі, додані вами терміни не відображатимуться у вікні Глосарій. 
+не розумію, про що тут
+переписано на щось плюс мінус логічне
+Насправді, зміни видно одразу.</note>
+      <tuv lang="en">
+        <seg>Newly added terms will not be recognized once the changes in the text file have been saved.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Asus" changedate="20200610T094529Z" creationid="Asus" creationdate="20200610T094529Z">
+        <seg>Щойно ви збережете файл глосарію, зміни стануть доступні у програмі.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <prop type="file">readme_uk.txt</prop>
       <prop type="prev">and then:</prop>
       <prop type="next">For a more user-friendly way of launching OmegaT, you can use the Kaptain
