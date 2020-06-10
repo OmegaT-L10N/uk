@@ -12008,14 +12008,13 @@ Its winter has come</seg>
       </tuv>
     </tu>
     <tu>
-      <note>помилка - inserts
-
-шось не сходиться: якщо клікати правою кнопкою на слово, то курсор буде знаходитися на слові, а не на сегменті перекладу. як це працює?</note>
+      <note>Розширила переклад, бо лише так воно працює
+помилка - inserts</note>
       <tuv lang="en">
         <seg>Highlighting it in the Glossary pane and then rightclicking insets at the cursor position in the target segment.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="fanja9" changedate="20200531T174353Z" creationid="lesia" creationdate="20200505T190906Z">
-        <seg>Якщо виділити слово у вікні Глосарію та клікнути правою кнопкою миші, слово вставиться на місце курсора в сегменті перекладу.</seg>
+      <tuv lang="uk-UA" changeid="Asus" changedate="20200610T101237Z" creationid="lesia" creationdate="20200505T190906Z">
+        <seg>Якщо виділити слово у вікні Глосарія, клікнути правою кнопкою миші та обрати Вставити вибране, тоді слово вставиться на місце курсора в сегменті перекладу.</seg>
       </tuv>
     </tu>
     <tu>
