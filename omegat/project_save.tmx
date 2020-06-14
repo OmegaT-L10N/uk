@@ -3990,8 +3990,8 @@ The current setting is {0}MB;</seg>
       <tuv lang="en">
         <seg>After the source files have loaded in the &lt;g3&gt;Editor&lt;/g3&gt; pane, you can close the &lt;g4&gt;Project Files&lt;/g4&gt; dialog.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20190812T105741Z" creationid="Kos Ivantsov" creationdate="20190812T105741Z">
-        <seg>Коли в &lt;g3&gt;області редагування&lt;/g3&gt; з’явиться вміст файлів для перекладу, діалогове вікно &lt;g4&gt;«Файли проєкту»&lt;/g4&gt; можна закривати.</seg>
+      <tuv lang="uk-UA" changeid="maximo" changedate="20200614T155409Z" creationid="Kos Ivantsov" creationdate="20190812T105741Z">
+        <seg>Коли в &lt;g3&gt;області редагування&lt;/g3&gt; з’явиться вміст файлів для перекладу, діалогове вікно &lt;g4&gt;Файли проєкту&lt;/g4&gt; можна закривати.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4006,8 +4006,8 @@ The current setting is {0}MB;</seg>
       <tuv lang="en">
         <seg>After you give your project a name, the &lt;g0&gt;Create New Project&lt;/g0&gt; dialog will open.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20190812T103722Z" creationid="Kos Ivantsov" creationdate="20190812T103722Z">
-        <seg>Після того як буде вказана назва проєкту, з’явиться діалогове вікно &lt;g0&gt;«Створити новий проєкт»&lt;/g0&gt;.</seg>
+      <tuv lang="uk-UA" changeid="maximo" changedate="20200614T155331Z" creationid="Kos Ivantsov" creationdate="20190812T103722Z">
+        <seg>Після того як буде вказана назва проєкту, з’явиться діалогове вікно &lt;g0&gt;Створити новий проєкт&lt;/g0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4938,8 +4938,8 @@ may experience unexpected, but correct behaviour.</seg>
       <tuv lang="en">
         <seg>At the top of that dialog, select your source file's language and the language that your translated file will be, and click &lt;g1&gt;OK&lt;/g1&gt; to continue.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20190812T103906Z" creationid="Kos Ivantsov" creationdate="20190812T103906Z">
-        <seg>У верхній частині діалогового вікна оберіть мову оригіналу та мову перекладу. Для продовження натисніть &lt;g1&gt;«Гаразд»&lt;/g1&gt;.</seg>
+      <tuv lang="uk-UA" changeid="maximo" changedate="20200614T155341Z" creationid="Kos Ivantsov" creationdate="20190812T103906Z">
+        <seg>У верхній частині діалогового вікна оберіть мову оригіналу та мову перекладу. Для продовження натисніть &lt;g1&gt;Гаразд&lt;/g1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6542,8 +6542,8 @@ Buy another drink</seg>
       <tuv lang="en">
         <seg>Click on &lt;g1&gt;Copy Files to Source Folder...&lt;/g1&gt; to select your source files.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20190812T105547Z" creationid="Kos Ivantsov" creationdate="20190812T105512Z">
-        <seg>Для вибору файлів, які мають перекладатися у цьому проєкті, натисніть кнопку &lt;g1&gt;«Скопіювати документи до теки з файлами для перекладу...»&lt;/g1&gt;.</seg>
+      <tuv lang="uk-UA" changeid="maximo" changedate="20200614T155356Z" creationid="Kos Ivantsov" creationdate="20190812T105512Z">
+        <seg>Для вибору файлів, які мають перекладатися у цьому проєкті, натисніть кнопку &lt;g1&gt;Скопіювати документи до теки з файлами для перекладу...&lt;/g1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9160,8 +9160,8 @@ project_save.tmx не був переданий на віддалений сер
       <tuv lang="en">
         <seg>During translation, use the &lt;g4&gt;Edit&lt;/g4&gt; and &lt;g5&gt;Go To&lt;/g5&gt; menus to perform various useful functions.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20190812T110718Z" creationid="Kos Ivantsov" creationdate="20190812T110718Z">
-        <seg>Чимало корисних функцій, доступних у меню &lt;g4&gt;«Редагування»&lt;/g4&gt; та &lt;g5&gt;«Перехід»&lt;/g5&gt;, можуть стати у пригоді під час роботи над перекладом.</seg>
+      <tuv lang="uk-UA" changeid="maximo" changedate="20200614T155443Z" creationid="Kos Ivantsov" creationdate="20190812T110718Z">
+        <seg>Чимало корисних функцій, доступних у меню &lt;g4&gt;Редагування&lt;/g4&gt; та &lt;g5&gt;Перехід&lt;/g5&gt;, можуть стати у нагоді під час роботи над перекладом.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13298,8 +13298,8 @@ to use Java Web Start.</seg>
       <tuv lang="en">
         <seg>If you place such translation memory files in the &lt;f6&gt;/tm/&lt;/f6&gt; subfolder of a project, OmegaT will automatically search them for similar segments, called "fuzzy matches".</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20190822T203728Z" creationid="Kos Ivantsov" creationdate="20190822T203728Z">
-        <seg>Якщо покласти файл памʼяті до підтеки для файлів пам’яті перекладів (підтека &lt;f6&gt;/tm&lt;/f6&gt; у типовій конфігурації), OmegaT автоматично шукатиме схожі сегменти (так звані «нечіткі збіги»).</seg>
+      <tuv lang="uk-UA" changeid="maximo" changedate="20200614T155552Z" creationid="Kos Ivantsov" creationdate="20190822T203728Z">
+        <seg>Якщо покласти файл памʼяті до підтеки для файлів пам’яті перекладів (підтека &lt;f6&gt;tm&lt;/f6&gt; у типовій конфігурації), OmegaT автоматично шукатиме схожі сегменти (так звані «нечіткі збіги»).</seg>
       </tuv>
     </tu>
     <tu>
@@ -13812,8 +13812,8 @@ click on that shortcut.</seg>
       <tuv lang="en">
         <seg>In the &lt;g0&gt;Project&lt;/g0&gt; menu, select &lt;m1&gt;&lt;g2&gt;New...&lt;/g2&gt;&lt;/m1&gt; and type a name for your project.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20190812T103516Z" creationid="Kos Ivantsov" creationdate="20190812T103516Z">
-        <seg>У меню &lt;g0&gt;«Проєкт»&lt;/g0&gt; оберіть пункт &lt;m1&gt;&lt;g2&gt;«Новий…»&lt;/g2&gt;&lt;/m1&gt; і введіть назву проєкту.</seg>
+      <tuv lang="uk-UA" changeid="maximo" changedate="20200614T155322Z" creationid="Kos Ivantsov" creationdate="20190812T103516Z">
+        <seg>У меню &lt;g0&gt;Проєкт&lt;/g0&gt; оберіть пункт &lt;m1&gt;&lt;g2&gt;Новий…&lt;/g2&gt;&lt;/m1&gt; і введіть назву проєкту.</seg>
       </tuv>
     </tu>
     <tu>
@@ -17198,8 +17198,8 @@ as the Applications folder.</seg>
       <tuv lang="en">
         <seg>Next, the &lt;g0&gt;Project Files&lt;/g0&gt; dialog opens.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20190812T105359Z" creationid="Kos Ivantsov" creationdate="20190812T105359Z">
-        <seg>Далі з’явиться діалогове вікно &lt;g0&gt;«Файли проєкту»&lt;/g0&gt;.</seg>
+      <tuv lang="uk-UA" changeid="maximo" changedate="20200614T155347Z" creationid="Kos Ivantsov" creationdate="20190812T105359Z">
+        <seg>Далі з’явиться діалогове вікно &lt;g0&gt;Файли проєкту&lt;/g0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -18518,8 +18518,8 @@ installed on your system.</seg>
       <tuv lang="en">
         <seg>OmegaT will then copy the selected files to the &lt;f2&gt;/source/&lt;/f2&gt; subfolder of your newly created project.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20190812T105629Z" creationid="Kos Ivantsov" creationdate="20190812T105629Z">
-        <seg>OmegaT скопіює вибрані файли до підтеки &lt;f2&gt;«source»&lt;/f2&gt; у щойно створеному проєкті.</seg>
+      <tuv lang="uk-UA" changeid="maximo" changedate="20200614T155401Z" creationid="Kos Ivantsov" creationdate="20190812T105629Z">
+        <seg>OmegaT скопіює вибрані файли до підтеки &lt;f2&gt;source&lt;/f2&gt; у щойно створеному проєкті.</seg>
       </tuv>
     </tu>
     <tu>
@@ -18686,8 +18686,8 @@ installed on your system.</seg>
       <tuv lang="en">
         <seg>Once you have made certain that there are no tag errors in your translation, press &lt;k0&gt;Ctrl+D&lt;/k0&gt; to generate the target files, which will be created in the &lt;f1&gt;/target/&lt;/f1&gt; subfolder of your project folder.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20190822T203745Z" creationid="Kos Ivantsov" creationdate="20190822T155221Z">
-        <seg>Переконавшись, що у перекладі відсутні помилки, пов’язані з теґами, натисніть &lt;k0&gt;Ctrl+D&lt;/k0&gt; для створення перекладених файлів. Вони будуть створені у теці, призначеній для перекладних файлів (у типовій конфігурації — тека &lt;f1&gt;/target&lt;/f1&gt; всередині теки проєкту).</seg>
+      <tuv lang="uk-UA" changeid="maximo" changedate="20200614T155459Z" creationid="Kos Ivantsov" creationdate="20190822T155221Z">
+        <seg>Переконавшись, що у перекладі відсутні помилки, пов’язані з теґами, натисніть &lt;k0&gt;Ctrl+D&lt;/k0&gt; для створення перекладених файлів. Вони будуть створені у теці, призначеній для перекладних файлів (у типовій конфігурації — тека &lt;f1&gt;target&lt;/f1&gt; всередині теки проєкту).</seg>
       </tuv>
     </tu>
     <tu>
@@ -22697,8 +22697,8 @@ The scope of a search is by default the project and can be set to be any files l
       <tuv lang="en">
         <seg>See &lt;m1&gt;&lt;g2&gt;Options&lt;/g2&gt;&lt;g3&gt;Preferences...&lt;/g3&gt;&lt;g4&gt;File Filters&lt;/g4&gt;&lt;/m1&gt; for a list of file formats that OmegaT can handle.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20190822T155630Z" creationid="Kos Ivantsov" creationdate="20190822T155451Z">
-        <seg>Перелік файлів, які підтримуються в OmegaT, можна переглянути у розділі &lt;m1&gt;&lt;g4&gt;«Фільтр файлів»&lt;/g4&gt;&lt;/m1&gt; (меню &lt;m1&gt;&lt;g2&gt;«Налаштування»&lt;/g2&gt;&lt;g3&gt;«Параметри...»&lt;/g3&gt;&lt;/m1&gt;).</seg>
+      <tuv lang="uk-UA" changeid="maximo" changedate="20200614T155522Z" creationid="Kos Ivantsov" creationdate="20190822T155451Z">
+        <seg>Перелік файлів, які підтримуються в OmegaT, можна переглянути у розділі &lt;m1&gt;&lt;g4&gt;Фільтр файлів&lt;/g4&gt;&lt;/m1&gt; (меню &lt;m1&gt;&lt;g2&gt;Налаштування&lt;/g2&gt;&lt;g3&gt;Параметри...&lt;/g3&gt;&lt;/m1&gt;).</seg>
       </tuv>
     </tu>
     <tu>
@@ -28676,8 +28676,8 @@ the server.</seg>
       <tuv lang="en">
         <seg>To see a list of files in the project, open the &lt;g1&gt;Project Files&lt;/g1&gt; dialog by pressing &lt;k2&gt;Ctrl+L&lt;/k2&gt;.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20190823T145719Z" creationid="Kos Ivantsov" creationdate="20190822T202843Z">
-        <seg>Щоб переглянути перелік файлів у проєкті, відкрийте діалогове вікно &lt;g1&gt;«Файли проєкту»&lt;/g1&gt;, натиснувши &lt;k2&gt;Ctrl+L&lt;/k2&gt;.</seg>
+      <tuv lang="uk-UA" changeid="maximo" changedate="20200614T155531Z" creationid="Kos Ivantsov" creationdate="20190822T202843Z">
+        <seg>Щоб переглянути перелік файлів у проєкті, відкрийте діалогове вікно &lt;g1&gt;Файли проєкту&lt;/g1&gt;, натиснувши &lt;k2&gt;Ctrl+L&lt;/k2&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -30976,8 +30976,8 @@ of selecting, obtaining and installing it.</seg>
       <tuv lang="en">
         <seg>Whenever you want to see what your translation will look like in its final format, press &lt;k2&gt;Ctrl+D&lt;/k2&gt; to generate the translated documents, which will be created in the &lt;f3&gt;/target/&lt;/f3&gt; subfolder of your project folder.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20190823T145359Z" creationid="Kos Ivantsov" creationdate="20190812T110507Z">
-        <seg>Щоб побачити, як виглядатиме переклад у кінцевому форматі, потрібно натиснути &lt;k2&gt;Ctrl+D&lt;/k2&gt; для створення перекладених документів. Вони з’являться у підтеці &lt;f3&gt;«target»&lt;/f3&gt; у поточному проєкті.</seg>
+      <tuv lang="uk-UA" changeid="maximo" changedate="20200614T155421Z" creationid="Kos Ivantsov" creationdate="20190812T110507Z">
+        <seg>Щоб побачити, як виглядатиме переклад у кінцевому форматі, потрібно натиснути &lt;k2&gt;Ctrl+D&lt;/k2&gt; для створення перекладених документів. Вони з’являться у підтеці &lt;f3&gt;target&lt;/f3&gt; у поточному проєкті.</seg>
       </tuv>
     </tu>
     <tu>
