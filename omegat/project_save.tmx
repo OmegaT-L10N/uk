@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.2.0_0_747fc65a9" segtype="sentence" srclang="en"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.2.0_0_747fc65a" segtype="sentence" srclang="en"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -4850,8 +4850,8 @@ may experience unexpected, but correct behaviour.</seg>
       <tuv lang="en">
         <seg>As entries can mix words from priority and non priority glossaries, the words from the priority glossary are displayed in bold.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="Asus" changedate="20200610T145830Z" creationid="lesia" creationdate="20200505T202731Z">
-        <seg>Записи із пріоритетного та непріоритетного глосаріїв можуть відображатися у вікні глосарія непослідовно, тож для зручності слова з пріоритетного глосарію виділені напівжирним шрифтом.</seg>
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200614T160501Z" creationid="lesia" creationdate="20200505T202731Z">
+        <seg>Записи із пріоритетного та непріоритетного глосаріїв можуть відображатися в області глосарія непослідовно, тож для зручності слова з пріоритетного глосарію виділені напівжирним шрифтом.</seg>
       </tuv>
     </tu>
     <tu>
@@ -26764,8 +26764,8 @@ in /lib/licenses/Licenses.txt.</seg>
       <tuv lang="en">
         <seg>The results from the priority glossary (by default, glossary/glossary.txt) appear in first places in the Glossary pane and in TransTips.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="fanja9" changedate="20200531T185039Z" creationid="lesia" creationdate="20200505T202008Z">
-        <seg>Результати з пріоритетного словника (типово це glossary/glossary.txt) з'являються на першому місці у вікні "Глосарій" та у "Підказках перекладу".</seg>
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200614T155122Z" creationid="lesia" creationdate="20200505T202008Z">
+        <seg>Результати з пріоритетного словника (типово це glossary/glossary.txt) з'являються на першому місці в області "Глосарій" та у "Підказках перекладу".</seg>
       </tuv>
     </tu>
     <tu>
