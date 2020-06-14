@@ -27805,8 +27805,8 @@ the server.</seg>
       <tuv lang="en">
         <seg>This external command cannot include "pipes", etc., which is why calling a script is recommended.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="maximo" changedate="20200614T120341Z" creationid="lesia" creationdate="20200420T090139Z">
-        <seg>Ця зовнішні команда не підтримує синтаксис шеллу (наприклад, пайпи) , саме тому рекомендується користуватися скриптами.</seg>
+      <tuv lang="uk-UA" changeid="maximo" changedate="20200614T144322Z" creationid="lesia" creationdate="20200420T090139Z">
+        <seg>Ця зовнішня команда не підтримує синтаксис шеллу (наприклад, пайпи) , саме тому для складніших випадків рекомендується створити скрипт.</seg>
       </tuv>
     </tu>
     <tu>
