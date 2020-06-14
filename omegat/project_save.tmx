@@ -2490,8 +2490,8 @@ The current setting is {0}MB;</seg>
       <tuv lang="en">
         <seg>&lt;e0&gt;Hint:&lt;/e0&gt; the set of file filters for a given project is stored as &lt;f1&gt;project/omegat/filters.xml.&lt;/f1&gt;</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="lesia" changedate="20200420T163735Z" creationid="lesia" creationdate="20200420T163735Z">
-        <seg>&lt;e0&gt;До уваги:&lt;/e0&gt; набір фільтрів файлів для конкретного проєкту збережено тут: &lt;f1&gt;project/omegat/filters.xml.&lt;/f1&gt;</seg>
+      <tuv lang="uk-UA" changeid="maximo" changedate="20200614T143955Z" creationid="lesia" creationdate="20200420T163735Z">
+        <seg>&lt;e0&gt;До уваги:&lt;/e0&gt; набір фільтрів файлів для конкретного проєкту зберігається у вигляді файлу &lt;f1&gt;project/omegat/filters.xml.&lt;/f1&gt;</seg>
       </tuv>
     </tu>
     <tu>
