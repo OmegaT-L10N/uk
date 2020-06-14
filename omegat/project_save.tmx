@@ -8124,8 +8124,8 @@ Buy another drink</seg>
       <tuv lang="en">
         <seg>Depending on the pane status, different signs can appear at its top right corner:</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="maximo" changedate="20200412T175345Z" creationid="maximo" creationdate="20200412T175345Z">
-        <seg>У верхньому правому кутку панелі ви можете побачити різні значки, в залежності від її стану:</seg>
+      <tuv lang="uk-UA" changeid="maximo" changedate="20200614T162014Z" creationid="maximo" creationdate="20200412T175345Z">
+        <seg>У верхньому правому кутку кожної області ви можете побачити різні значки, в залежності від її стану:</seg>
       </tuv>
     </tu>
     <tu>
@@ -13078,8 +13078,8 @@ their defaults as a result of the location change.</seg>
       <tuv lang="en">
         <seg>If you can not see all the panes (be it opened or minimized), pressing &lt;g0&gt; Options &gt; Restore Main Window &lt;/g0&gt;will restore them to the state, defined in the installation.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="maximo" changedate="20200428T180652Z" creationid="maximo" creationdate="20200428T180652Z">
-        <seg>Якщо ви не бачите всі панелі (відкриті або згорнуті) &lt;g0&gt;Вигляд &gt; Відновити вигляд головного вікна&lt;/g0&gt; поверне їх до стандартного стану.</seg>
+      <tuv lang="uk-UA" changeid="maximo" changedate="20200614T162032Z" creationid="maximo" creationdate="20200428T180652Z">
+        <seg>Якщо ви не бачите всі області (відкриті або згорнуті) &lt;g0&gt;Вигляд &gt; Відновити вигляд головного вікна&lt;/g0&gt; поверне їх до стандартного стану.</seg>
       </tuv>
     </tu>
     <tu>
@@ -19405,8 +19405,8 @@ Vanishing like mist</seg>
       <tuv lang="en">
         <seg>Pane widgets</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="maximo" changedate="20200429T075354Z" creationid="maximo" creationdate="20200429T075354Z">
-        <seg>Кнопки керування панелі</seg>
+      <tuv lang="uk-UA" changeid="maximo" changedate="20200614T162038Z" creationid="maximo" creationdate="20200429T075354Z">
+        <seg>Кнопки керування області</seg>
       </tuv>
     </tu>
     <tu>
@@ -26371,8 +26371,8 @@ in /lib/licenses/Licenses.txt.</seg>
       <tuv lang="en">
         <seg>The main window consists of several panes, the main menu and a status bar.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="maximo" changedate="20200412T175019Z" creationid="maximo" creationdate="20200412T175019Z">
-        <seg>Основне вікно складається з кількох панелей, меню, та рядка стану.</seg>
+      <tuv lang="uk-UA" changeid="maximo" changedate="20200614T161831Z" creationid="maximo" creationdate="20200412T175019Z">
+        <seg>Основне вікно складається з кількох областей, меню, та рядка стану.</seg>
       </tuv>
     </tu>
     <tu>
@@ -31724,8 +31724,8 @@ start menu, the desktop or the quick launch area to link it from there.</seg>
       <tuv lang="en">
         <seg>You can change the position of any pane or even undock it to a separate window by clicking and dragging the pane by its name.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="maximo" changedate="20200412T175144Z" creationid="maximo" creationdate="20200412T175144Z">
-        <seg>Ви можете змінювати положення кожної панелі чи навіть відокремити її у окреме вікно, якщо перетягнете її натиснувши на заголовок.</seg>
+      <tuv lang="uk-UA" changeid="maximo" changedate="20200614T161955Z" creationid="maximo" creationdate="20200412T175144Z">
+        <seg>Ви можете змінювати положення кожної області чи навіть відокремити її у окреме вікно, якщо перетягнете її натиснувши на заголовок.</seg>
       </tuv>
     </tu>
     <tu>
@@ -33560,8 +33560,8 @@ create its configuration folder.</seg>
       <tuv lang="en">
         <seg>minimizes the pane, so that only its name is shown at the bottom of the window</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="maximo" changedate="20200429T075724Z" creationid="maximo" creationdate="20200429T075724Z">
-        <seg>згортає панель, так що тільки її назву показується внизу вікна</seg>
+      <tuv lang="uk-UA" changeid="maximo" changedate="20200614T162130Z" creationid="maximo" creationdate="20200429T075724Z">
+        <seg>згортає область до закладки з назвою внизу вікна</seg>
       </tuv>
     </tu>
     <tu>
