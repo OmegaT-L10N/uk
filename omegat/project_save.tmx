@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.2.0_0_747fc65a" segtype="sentence" srclang="en"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.2.0_0_747fc65a9" segtype="sentence" srclang="en"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -13900,8 +13900,8 @@ click on that shortcut.</seg>
       <tuv lang="en">
         <seg>In the target document, nothing will appear for this segment.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="lesia" changedate="20200425T154541Z" creationid="lesia" creationdate="20200425T154541Z">
-        <seg>В документі перекладу на місці цього семента не буде нічого.</seg>
+      <tuv lang="uk-UA" changeid="maximo" changedate="20200614T161435Z" creationid="lesia" creationdate="20200425T154541Z">
+        <seg>В документі перекладу на місці цього сегмента не буде нічого.</seg>
       </tuv>
     </tu>
     <tu>
