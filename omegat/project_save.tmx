@@ -27627,8 +27627,8 @@ the server.</seg>
       <tuv lang="en">
         <seg>This area allows entering an external post-processing command (for instance, a script to rename files) that will be applied each time Create Translated Documents is used.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="maximo" changedate="20200614T120258Z" creationid="lesia" creationdate="20200420T085122Z">
-        <seg>Тут можна вказати зовнішню команди постобробки перекладених файлів (наприклад, скрипт, який перейменовує файли). Вона буде викликатися кожен раз при натисканні команди "Створити перекладені документи".</seg>
+      <tuv lang="uk-UA" changeid="maximo" changedate="20200614T144749Z" creationid="lesia" creationdate="20200420T085122Z">
+        <seg>Тут можна вказати зовнішню команду постобробки перекладених файлів (наприклад, скрипт, який перейменовує файли). Вона буде викликатися кожен раз при натисканні команди "Створити перекладені документи".</seg>
       </tuv>
     </tu>
     <tu>
