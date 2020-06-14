@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.2.0_0_747fc65a" segtype="sentence" srclang="en"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.2.0_0_747fc65a9" segtype="sentence" srclang="en"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -27627,8 +27627,8 @@ the server.</seg>
       <tuv lang="en">
         <seg>This area allows entering an external post-processing command (for instance, a script to rename files) that will be applied each time Create Translated Documents is used.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="lesia" changedate="20200420T085818Z" creationid="lesia" creationdate="20200420T085122Z">
-        <seg>Ця область дозволяє вводити зовнішні команди постобробки перекладених файлів (наприклад, скрипт, який переіменовує файли), які будуть ініціюватися кожен раз при натисканні команди "Створити перекладені документи".</seg>
+      <tuv lang="uk-UA" changeid="maximo" changedate="20200614T120258Z" creationid="lesia" creationdate="20200420T085122Z">
+        <seg>Тут можна вказати зовнішню команди постобробки перекладених файлів (наприклад, скрипт, який перейменовує файли). Вона буде викликатися кожен раз при натисканні команди "Створити перекладені документи".</seg>
       </tuv>
     </tu>
     <tu>
@@ -27805,8 +27805,8 @@ the server.</seg>
       <tuv lang="en">
         <seg>This external command cannot include "pipes", etc., which is why calling a script is recommended.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="lesia" changedate="20200420T090139Z" creationid="lesia" creationdate="20200420T090139Z">
-        <seg>Ці зовнішні команди не підтримують синтаксис шеллу, саме тому рекомендується користуватися скриптами.</seg>
+      <tuv lang="uk-UA" changeid="maximo" changedate="20200614T120341Z" creationid="lesia" creationdate="20200420T090139Z">
+        <seg>Ця зовнішні команда не підтримує синтаксис шеллу (наприклад, пайпи) , саме тому рекомендується користуватися скриптами.</seg>
       </tuv>
     </tu>
     <tu>
