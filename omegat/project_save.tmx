@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.2.0_0_747fc65a" segtype="sentence" srclang="en"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.2.0_0_747fc65a9" segtype="sentence" srclang="en"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -13932,8 +13932,8 @@ click on that shortcut.</seg>
       <tuv lang="en">
         <seg>In this mode, "&lt;g1&gt;Cursor lock off&lt;/g1&gt;" is displayed at the bottom of the pane.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="maximo" changedate="20200501T203001Z" creationid="maximo" creationdate="20200501T203001Z">
-        <seg>В цьому режимі внизу панелі з'явиться повідомлення "&lt;g1&gt;Курсор розблоковано&lt;/g1&gt;".</seg>
+      <tuv lang="uk-UA" changeid="maximo" changedate="20200614T162446Z" creationid="maximo" creationdate="20200501T203001Z">
+        <seg>В цьому режимі внизу панелі з'явиться повідомлення &lt;g1&gt;Курсор розблоковано&lt;/g1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -27157,6 +27157,14 @@ in /lib/licenses/Licenses.txt.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The three matching percentages are in the following order:</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="maximo" changedate="20200614T162612Z" creationid="maximo" creationdate="20200614T162612Z">
+        <seg>Три варіанта відсотку збігів відображаються в такому порядку:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The title of the dialog reflects the file actually used (which depends on how many instances of OmegaT are running concurrently).</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="maximo" changedate="20200423T183310Z" creationid="maximo" creationdate="20200423T183310Z">
@@ -28413,8 +28421,8 @@ the server.</seg>
       <tuv lang="en">
         <seg>To come back to the standard mode "&lt;g2&gt;Cursor lock on&lt;/g2&gt;", press &lt;k3&gt;F2&lt;/k3&gt; again.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="maximo" changedate="20200501T203104Z" creationid="maximo" creationdate="20200501T203104Z">
-        <seg>Щоб повернутися до стандартного режиму "&lt;g2&gt;Курсор заблоковано&lt;/g2&gt;", ще раз натисніть &lt;k3&gt;F2&lt;/k3&gt;.</seg>
+      <tuv lang="uk-UA" changeid="maximo" changedate="20200614T162452Z" creationid="maximo" creationdate="20200501T203104Z">
+        <seg>Щоб повернутися до стандартного режиму &lt;g2&gt;Курсор заблоковано&lt;/g2&gt;, ще раз натисніть &lt;k3&gt;F2&lt;/k3&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -33261,6 +33269,14 @@ create its configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>https://en.wikipedia.org/wiki/Stemming</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="maximo" changedate="20200614T162710Z" creationid="maximo" creationdate="20200614T162710Z">
+        <seg>https://uk.wikipedia.org/wiki/%D0%A1%D1%82%D0%B5%D0%BC%D1%96%D0%BD%D0%B3</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>https://groups.yahoo.com/neo/groups/OmegaT/info</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20190822T150934Z" creationid="Kos Ivantsov" creationdate="20190808T091346Z">
@@ -34140,6 +34156,14 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="lesia" changedate="20200429T202801Z" creationid="lesia" creationdate="20200429T202801Z">
         <seg>список усіх файлів для перекладу у проєкті.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>the percentage calculated with stemming</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="maximo" changedate="20200614T162706Z" creationid="maximo" creationdate="20200614T162706Z">
+        <seg>відсоток збігів з врахуванням стемінгу</seg>
       </tuv>
     </tu>
     <tu>
