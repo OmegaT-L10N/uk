@@ -2417,8 +2417,8 @@ The current setting is {0}MB;</seg>
       <tuv lang="en">
         <seg>&lt;e0&gt;Adding files to the project: &lt;/e0&gt;You can add source files to the project by clicking on the "&lt;g1&gt;Import Source Files..."&lt;/g1&gt; button.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="lesia" changedate="20200502T060526Z" creationid="lesia" creationdate="20200429T202826Z">
-        <seg>&lt;e0&gt;Додавати файли до проєкту: &lt;/e0&gt;Ви можете додати до проєкту файли для перекладу, натиснувши кнопку "&lt;g1&gt;Скопіювати документи до теки з файлами для перекладу..."&lt;/g1&gt;.</seg>
+      <tuv lang="uk-UA" changeid="maximo" changedate="20200614T165211Z" creationid="lesia" creationdate="20200429T202826Z">
+        <seg>&lt;e0&gt;Додавати файли до проєкту: &lt;/e0&gt;Ви можете додати до проєкту файли для перекладу, натиснувши кнопку &lt;g1&gt;Скопіювати документи до теки з файлами для перекладу...&lt;/g1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -25642,8 +25642,8 @@ current folder will be used instead.</seg>
       <tuv lang="en">
         <seg>The &lt;g2&gt;Project Files&lt;/g2&gt; Window displays the following information:</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="lesia" changedate="20200429T202756Z" creationid="lesia" creationdate="20200429T202756Z">
-        <seg>Вікно &lt;g2&gt;"Файли проєкту"&lt;/g2&gt; містить наступну інформацію:</seg>
+      <tuv lang="uk-UA" changeid="maximo" changedate="20200614T165203Z" creationid="lesia" creationdate="20200429T202756Z">
+        <seg>Вікно &lt;g2&gt;Файли проєкту&lt;/g2&gt; містить наступну інформацію:</seg>
       </tuv>
     </tu>
     <tu>
@@ -32017,8 +32017,8 @@ can then launch the Kaptain launch script with:</seg>
       <tuv lang="en">
         <seg>You can also add source files from Internet pages, written in MediaWiki, by clicking on&lt;g3&gt; "Import from MediaWiki"&lt;/g3&gt; button and providing the corresponding URL.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="lesia" changedate="20200429T202829Z" creationid="lesia" creationdate="20200429T202829Z">
-        <seg>Ви також можете додати файли для перекладу з інтернет-сторінок, створених у MediaWiki, натиснувши кнопку &lt;g3&gt; "Стягнути сторінку MediaWiki..."&lt;/g3&gt; та ввівши відповідну URL-адресу.</seg>
+      <tuv lang="uk-UA" changeid="maximo" changedate="20200614T165218Z" creationid="lesia" creationdate="20200429T202829Z">
+        <seg>Ви також можете додати файли для перекладу з інтернет-сторінок, створених у MediaWiki, натиснувши кнопку &lt;g3&gt;Стягнути сторінку MediaWiki...&lt;/g3&gt; та ввівши відповідну URL-адресу.</seg>
       </tuv>
     </tu>
     <tu>
