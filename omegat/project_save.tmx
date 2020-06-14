@@ -26521,8 +26521,8 @@ instead.</seg>
       <tuv lang="en">
         <seg>The full syntax for keystrokes (shortcuts) is defined in the following Java 1.6 documentation from Oracle (bottom of page): &lt;u0&gt;Java 1.6 keystrokes shortcuts&lt;/u0&gt;</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="maximo" changedate="20200405T043330Z" creationid="maximo" creationdate="20200405T043330Z">
-        <seg>Повний синтаксис натискань клавіш (комбінацій клавіш) описано в документації Java 1.6 від Oracle (внизу сторінки): &lt;u0&gt;Java 1.6 keystrokes shortcuts&lt;/u0&gt;</seg>
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200614T170348Z" creationid="maximo" creationdate="20200405T043330Z">
+        <seg>Повний синтаксис комбінацій клавіш описано в документації Java 1.6 від Oracle (внизу сторінки): &lt;u0&gt;Java 1.6 keystrokes shortcuts&lt;/u0&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -27286,8 +27286,8 @@ in /lib/licenses/Licenses.txt.</seg>
       <tuv lang="en">
         <seg>The shortcut definition file must be named &lt;f0&gt;MainMenuShortcuts.properties&lt;/f0&gt; and must contain at most one shortcut definition per line.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="maximo" changedate="20200405T043003Z" creationid="maximo" creationdate="20200405T043003Z">
-        <seg>Файл визначення комбінацій клавіш повинен мати назву &lt;f0&gt;MainMenuShortcuts.properties&lt;/f0&gt; і повинен містити лише одну комбінацію на рядок.</seg>
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200614T165857Z" creationid="maximo" creationdate="20200405T043003Z">
+        <seg>Файл визначення комбінацій клавіш повинен мати назву &lt;f0&gt;MainMenuShortcuts.properties&lt;/f0&gt; і містити лише одну комбінацію на рядок.</seg>
       </tuv>
     </tu>
     <tu>
@@ -32134,8 +32134,8 @@ start menu, the desktop or the quick launch area to link it from there.</seg>
       <tuv lang="en">
         <seg>You can change the already assigned shortcuts and add new shortcuts by putting a shortcut definition file in your &lt;a0&gt;OmegaT&lt;/a0&gt; preferences folder (accessible by &lt;m1&gt; &lt;g2&gt;Options&lt;/g2&gt; &lt;g3&gt;Access Configuration Folder&lt;/g3&gt; &lt;/m1&gt; menu).</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="maximo" changedate="20200607T165158Z" creationid="maximo" creationdate="20200405T042953Z">
-        <seg>Ви можете змінити вже наявні комбінації та додати нові поклавши файл із комбінаціями в теку налаштувань &lt;a0&gt;OmegaT&lt;/a0&gt; (меню &lt;m1&gt; &lt;g2&gt;Налаштування&lt;/g2&gt; &lt;g3&gt;Відкрити теку з налаштуваннями&lt;/g3&gt; &lt;/m1&gt;).</seg>
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200614T165811Z" creationid="maximo" creationdate="20200405T042953Z">
+        <seg>Ви можете змінити вже наявні комбінації та додати нові, поклавши файл із комбінаціями в теку налаштувань &lt;a0&gt;OmegaT&lt;/a0&gt; (меню &lt;m1&gt; &lt;g2&gt;Налаштування&lt;/g2&gt; &lt;g3&gt;Відкрити теку з налаштуваннями&lt;/g3&gt; &lt;/m1&gt;).</seg>
       </tuv>
     </tu>
     <tu>
