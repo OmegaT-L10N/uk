@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.2.0_0_747fc65a" segtype="sentence" srclang="en"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.2.0_0_747fc65a9" segtype="sentence" srclang="en"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -12012,8 +12012,8 @@ Its winter has come</seg>
       <tuv lang="en">
         <seg>Highlighting it in the Glossary pane and then rightclicking insets at the cursor position in the target segment.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="Asus" changedate="20200610T101237Z" creationid="lesia" creationdate="20200505T190906Z">
-        <seg>Якщо виділити слово у вікні Глосарія, клікнути правою кнопкою миші та обрати Вставити вибране, тоді слово вставиться на місце курсора в сегменті перекладу.</seg>
+      <tuv lang="uk-UA" changeid="maximo" changedate="20200614T154619Z" creationid="lesia" creationdate="20200505T190906Z">
+        <seg>Якщо виділити слово у області Глосарія, клікнути правою кнопкою миші та обрати Вставити вибране, тоді слово вставиться на місце курсора в сегменті перекладу.</seg>
       </tuv>
     </tu>
     <tu>
@@ -33577,8 +33577,8 @@ create its configuration folder.</seg>
       <tuv lang="en">
         <seg>multiple words entries in glossaries - example</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="Asus" changedate="20200610T101607Z" creationid="lesia" creationdate="20200504T165035Z">
-        <seg>Приклад кількох статтей глосарій до одного терміна оригіналу</seg>
+      <tuv lang="uk-UA" changeid="maximo" changedate="20200614T154601Z" creationid="lesia" creationdate="20200504T165035Z">
+        <seg>Приклад кількох статтей глосарію до одного терміна оригіналу</seg>
       </tuv>
     </tu>
     <tu>
