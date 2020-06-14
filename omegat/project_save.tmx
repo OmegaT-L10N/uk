@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.2.0_0_747fc65a" segtype="sentence" srclang="en"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.2.0_0_747fc65a9" segtype="sentence" srclang="en"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -22735,6 +22735,14 @@ The scope of a search is by default the project and can be set to be any files l
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>See &lt;u0&gt;https://en.wikipedia.org/wiki/Stemming&lt;/u0&gt;</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="maximo" changedate="20200614T162741Z" creationid="maximo" creationdate="20200614T162727Z">
+        <seg>Див. &lt;u0&gt;https://uk.wikipedia.org/wiki/Стемінг&lt;/u0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>See Help &gt; User's Manual for more information.</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20190419T183813Z" creationid="Kos Ivantsov" creationdate="20190419T183813Z">
@@ -32608,6 +32616,14 @@ create its configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>and ignoring tags and numbers (generally the highest)</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="maximo" changedate="20200614T162823Z" creationid="maximo" creationdate="20200614T162738Z">
+        <seg>та ігноруючи теґи та числа (як правило, найбільше значення)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>and many, many more very helpful people</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20190822T215250Z" creationid="Kos Ivantsov" creationdate="20190822T215250Z">
@@ -34167,6 +34183,22 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="maximo" changedate="20200614T162706Z" creationid="maximo" creationdate="20200614T162706Z">
         <seg>відсоток збігів з врахуванням стемінгу</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>the percentage calculated with the full text, including tags and numbers (generally the lowest)</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="maximo" changedate="20200614T163028Z" creationid="maximo" creationdate="20200614T163028Z">
+        <seg>відсоток повних збігів, з врахуванням теґів та чисел (як правило, найнижчий)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>the percentage calculated without stemming and still ignoring tags and numbers (generally slightly lower)</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="maximo" changedate="20200614T162926Z" creationid="maximo" creationdate="20200614T162926Z">
+        <seg>відсоток без стемінгу але все ще без теґів та чисел (зазвичай, трохи менше число)</seg>
       </tuv>
     </tu>
     <tu>
