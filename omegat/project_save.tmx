@@ -30127,8 +30127,8 @@ on line {1}, column {2}.</seg>
       <tuv lang="en">
         <seg>Use this command to register the translation to be identical to the source, even if &lt;l0&gt;&lt;g1&gt;Allow translation to be equal to source&lt;/g1&gt;&lt;/l0&gt; is not checked.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="lesia" changedate="20200425T155356Z" creationid="lesia" creationdate="20200425T155356Z">
-        <seg>Використовуйте цю команду, щоб закріпити за цим сегментом переклад ідентичний оригіналу, навіть якщо опція &lt;l0&gt;&lt;g1&gt;Дозволити, щоб оригінал і переклад були однаковими&lt;/g1&gt;&lt;/l0&gt; не відмічена прапорцем.</seg>
+      <tuv lang="uk-UA" changeid="maximo" changedate="20200614T161440Z" creationid="lesia" creationdate="20200425T155356Z">
+        <seg>Використовуйте цю команду, щоб закріпити за цим сегментом переклад ідентичний оригіналові, навіть якщо опція &lt;l0&gt;&lt;g1&gt;Дозволити, щоб оригінал і переклад були однаковими&lt;/g1&gt;&lt;/l0&gt; не відмічена прапорцем.</seg>
       </tuv>
     </tu>
     <tu>
