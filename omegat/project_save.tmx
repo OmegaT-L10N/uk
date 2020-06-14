@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.2.0_0_747fc65a" segtype="sentence" srclang="en"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.2.0_0_747fc65a9" segtype="sentence" srclang="en"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -11398,8 +11398,8 @@ provided (omegat.kaptn).</seg>
       <tuv lang="en">
         <seg>Fuzzy Matches pane: Dropped &lt;f0&gt;.tmx&lt;/f0&gt; files will be copied to the &lt;f1&gt;tm&lt;/f1&gt; folder.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="maximo" changedate="20200429T210509Z" creationid="maximo" creationdate="20200429T210509Z">
-        <seg>Для панелі нечітких збігів: Якщо перетягнути туди файли &lt;f0&gt;.tmx&lt;/f0&gt;, то вони будуть скопійовані до теки &lt;f1&gt;tm&lt;/f1&gt;.</seg>
+      <tuv lang="uk-UA" changeid="maximo" changedate="20200614T162339Z" creationid="maximo" creationdate="20200429T210509Z">
+        <seg>Для області нечітких збігів: Якщо перетягнути туди файли &lt;f0&gt;.tmx&lt;/f0&gt;, то вони будуть скопійовані до теки &lt;f1&gt;tm&lt;/f1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11670,8 +11670,8 @@ provided (omegat.kaptn).</seg>
       <tuv lang="en">
         <seg>Glossary pane: Dropped files with known glossary extensions (&lt;f0&gt;.txt&lt;/f0&gt;, &lt;f1&gt;.tab&lt;/f1&gt;, etc.) will be copied to the &lt;f2&gt;glossary&lt;/f2&gt; folder.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="maximo" changedate="20200429T210659Z" creationid="maximo" creationdate="20200429T210659Z">
-        <seg>Для панелі глосарію: Якщо скопіювати туди файл з відомим розширенням файлів глосаріїв (&lt;f0&gt;.txt&lt;/f0&gt;, &lt;f1&gt;.tab&lt;/f1&gt;, і т.п.), то його буде скопійовано у теку &lt;f2&gt;glossary&lt;/f2&gt;.</seg>
+      <tuv lang="uk-UA" changeid="maximo" changedate="20200614T162345Z" creationid="maximo" creationdate="20200429T210659Z">
+        <seg>Для області глосарію: Якщо скопіювати туди файл з відомим розширенням файлів глосаріїв (&lt;f0&gt;.txt&lt;/f0&gt;, &lt;f1&gt;.tab&lt;/f1&gt;, і т.п.), то його буде скопійовано у теку &lt;f2&gt;glossary&lt;/f2&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -14678,8 +14678,8 @@ click on that shortcut.</seg>
       <tuv lang="en">
         <seg>It is possible to drag and drop files to each pane, which will react accordingly.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="maximo" changedate="20200429T210001Z" creationid="maximo" creationdate="20200429T210001Z">
-        <seg>На кожну з панелей можна перетягувати файли.</seg>
+      <tuv lang="uk-UA" changeid="maximo" changedate="20200614T162318Z" creationid="maximo" creationdate="20200429T210001Z">
+        <seg>На кожну з областей можна перетягувати файли.</seg>
       </tuv>
     </tu>
     <tu>
@@ -23539,8 +23539,8 @@ The scope of a search is by default the project and can be set to be any files l
       <tuv lang="en">
         <seg>Should you lose track of your changes to the user interface, you can use &lt;g0&gt; Options → Restore the main window&lt;/g0&gt; any time to return to the original layout.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="maximo" changedate="20200429T205912Z" creationid="maximo" creationdate="20200429T205912Z">
-        <seg>На випадок якщо ви загубилися за всіма змінами, що ви внесли у розташування панелей, ви завжди можете використати &lt;g0&gt;Вигляд → Відновити вигляд головного вікна&lt;/g0&gt;, щоб повернутися до стандартного вигляду.</seg>
+      <tuv lang="uk-UA" changeid="maximo" changedate="20200614T162313Z" creationid="maximo" creationdate="20200429T205912Z">
+        <seg>На випадок якщо ви загубилися за всіма змінами, що ви внесли у розташування областей, ви завжди можете використати &lt;g0&gt;Вигляд → Відновити вигляд головного вікна&lt;/g0&gt;, щоб повернутися до стандартного вигляду.</seg>
       </tuv>
     </tu>
     <tu>
@@ -26902,8 +26902,8 @@ in /lib/licenses/Licenses.txt.</seg>
       <tuv lang="en">
         <seg>The separators between the panes can be dragged to resize panes.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="maximo" changedate="20200429T205435Z" creationid="maximo" creationdate="20200429T205435Z">
-        <seg>Межі між панелями можна перетягувати мишкою.</seg>
+      <tuv lang="uk-UA" changeid="maximo" changedate="20200614T162301Z" creationid="maximo" creationdate="20200429T205435Z">
+        <seg>Межі між областями можна перетягувати мишкою.</seg>
       </tuv>
     </tu>
     <tu>
@@ -30888,8 +30888,8 @@ of selecting, obtaining and installing it.</seg>
       <tuv lang="en">
         <seg>When this is done the panes display a tab at the top.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="maximo" changedate="20200429T205402Z" creationid="maximo" creationdate="20200429T205158Z">
-        <seg>У цьому випадку згори панелі будуть відображатися вкладки.</seg>
+      <tuv lang="uk-UA" changeid="maximo" changedate="20200614T162256Z" creationid="maximo" creationdate="20200429T205158Z">
+        <seg>У цьому випадку згори області будуть відображатися вкладки.</seg>
       </tuv>
     </tu>
     <tu>
@@ -31890,8 +31890,8 @@ installation script (linux-install.sh).</seg>
       <tuv lang="en">
         <seg>You can overlap panes if desired.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="maximo" changedate="20200429T205247Z" creationid="maximo" creationdate="20200429T205057Z">
-        <seg>Ви можете накласти панелі одна на одну, якщо вам так зручніше.</seg>
+      <tuv lang="uk-UA" changeid="maximo" changedate="20200614T162217Z" creationid="maximo" creationdate="20200429T205057Z">
+        <seg>Ви можете накласти області одна на одну, якщо вам так зручніше.</seg>
       </tuv>
     </tu>
     <tu>
@@ -33552,8 +33552,8 @@ create its configuration folder.</seg>
       <tuv lang="en">
         <seg>maximizes the pane</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="maximo" changedate="20200429T075737Z" creationid="maximo" creationdate="20200429T075737Z">
-        <seg>розгортає панель</seg>
+      <tuv lang="uk-UA" changeid="maximo" changedate="20200614T162153Z" creationid="maximo" creationdate="20200429T075737Z">
+        <seg>розгортає область на все вікно</seg>
       </tuv>
     </tu>
     <tu>
@@ -34025,8 +34025,8 @@ create its configuration folder.</seg>
       <tuv lang="en">
         <seg>puts the pane back within the main window</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="maximo" changedate="20200429T205011Z" creationid="maximo" creationdate="20200429T205011Z">
-        <seg>приєднує панель назад до основного вікна</seg>
+      <tuv lang="uk-UA" changeid="maximo" changedate="20200614T162212Z" creationid="maximo" creationdate="20200429T205011Z">
+        <seg>приєднує область назад до основного вікна</seg>
       </tuv>
     </tu>
     <tu>
@@ -34041,8 +34041,8 @@ create its configuration folder.</seg>
       <tuv lang="en">
         <seg>restores the layout before the maximizing step</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="maximo" changedate="20200429T204918Z" creationid="maximo" creationdate="20200429T204918Z">
-        <seg>відновлює вигляд панелі до того, який був перед її розгортанням</seg>
+      <tuv lang="uk-UA" changeid="maximo" changedate="20200614T162200Z" creationid="maximo" creationdate="20200429T204918Z">
+        <seg>відновлює вигляд області до того, який був перед її розгортанням</seg>
       </tuv>
     </tu>
     <tu>
@@ -34250,8 +34250,8 @@ create its configuration folder.</seg>
       <tuv lang="en">
         <seg>undocks the pane from the main window</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="maximo" changedate="20200429T204946Z" creationid="maximo" creationdate="20200429T204946Z">
-        <seg>відокремлює панель у окреме вікно</seg>
+      <tuv lang="uk-UA" changeid="maximo" changedate="20200614T162205Z" creationid="maximo" creationdate="20200429T204946Z">
+        <seg>відокремлює область у окреме вікно</seg>
       </tuv>
     </tu>
     <tu>
