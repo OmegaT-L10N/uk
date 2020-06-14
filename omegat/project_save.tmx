@@ -3261,8 +3261,8 @@ The current setting is {0}MB;</seg>
       <tuv lang="en">
         <seg>&lt;shortcut&gt; must be of the following form: 0 or more &lt;c0&gt;&lt;modifier&gt;&lt;/c0&gt; followed by 0 or 1 &lt;c1&gt;&lt;event&gt;&lt;/c1&gt; followed by 1 &lt;c2&gt;&lt;key&gt;&lt;/c2&gt;, where:</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="maximo" changedate="20200405T043358Z" creationid="maximo" creationdate="20200405T043358Z">
-        <seg>&lt;комбінація клавіш&gt; складається з наступних елементів: 0 чи більше елементів &lt;c0&gt;&lt;модифікатор&gt;&lt;/c0&gt; потім 0 чи 1 &lt;c1&gt;&lt;подія&gt;&lt;/c1&gt; за ним 1 &lt;c2&gt;&lt;клавіша&gt;&lt;/c2&gt;, де:</seg>
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200614T170619Z" creationid="maximo" creationdate="20200405T043358Z">
+        <seg>&lt;комбінація клавіш&gt; складається з таких елементів: 0 чи більше елементів &lt;c0&gt;&lt;модифікатор&gt;&lt;/c0&gt; потім 0 чи 1 &lt;c1&gt;&lt;подія&gt;&lt;/c1&gt; за ним 1 &lt;c2&gt;&lt;клавіша&gt;&lt;/c2&gt;, де:</seg>
       </tuv>
     </tu>
     <tu>
@@ -18894,8 +18894,8 @@ installed on your system.</seg>
       <tuv lang="en">
         <seg>On the Mac, the modifier &lt;e0&gt;meta&lt;/e0&gt; must be used to specify the &lt;e1&gt;command&lt;/e1&gt; key.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="maximo" changedate="20200405T043425Z" creationid="maximo" creationdate="20200405T043425Z">
-        <seg>На системах Mac, модифікатор &lt;e0&gt;meta&lt;/e0&gt; використовується для позначення кнопки &lt;e1&gt;command&lt;/e1&gt;.</seg>
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200614T170640Z" creationid="maximo" creationdate="20200405T043425Z">
+        <seg>На системах Mac модифікатор &lt;e0&gt;meta&lt;/e0&gt; використовується для позначення кнопки &lt;e1&gt;command&lt;/e1&gt; </seg>
       </tuv>
     </tu>
     <tu>
@@ -33008,8 +33008,8 @@ create its configuration folder.</seg>
       <tuv lang="en">
         <seg>and &lt;c0&gt;&lt;key&gt;&lt;/c0&gt; can be any key available on your keyboard</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="maximo" changedate="20200405T043649Z" creationid="maximo" creationdate="20200405T043649Z">
-        <seg>та &lt;c0&gt;&lt;клавіша&gt;&lt;/c0&gt; приймає значення будь якої клавіші на вашій клавіатурі</seg>
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200614T170653Z" creationid="maximo" creationdate="20200405T043649Z">
+        <seg>та &lt;c0&gt;&lt;клавіша&gt;&lt;/c0&gt; приймає значення будь-якої клавіші на вашій клавіатурі</seg>
       </tuv>
     </tu>
     <tu>
