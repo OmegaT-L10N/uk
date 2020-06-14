@@ -11638,8 +11638,8 @@ provided (omegat.kaptn).</seg>
       <tuv lang="en">
         <seg>Glossary files are simple plain text files containing three-column, tab-delimited lists with the source and target terms in the first and second columns respectively.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="Asus" changedate="20200610T135715Z" creationid="lesia" creationdate="20200505T191944Z">
-        <seg>Файли глосарія - це прості текстові файли, у яких терміни мов оригіналу та перекладу сформовані у колонки, відділені одна від одної табуляцією. Перша колонка містить термін оригіналу, друга - перекладу.</seg>
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200614T161054Z" creationid="lesia" creationdate="20200505T191944Z">
+        <seg>Файли глосарію - це прості текстові файли, у яких терміни мов оригіналу та перекладу сформовані у колонки, відділені одна від одної табуляцією. Перша колонка містить термін оригіналу, друга - перекладу.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12012,8 +12012,8 @@ Its winter has come</seg>
       <tuv lang="en">
         <seg>Highlighting it in the Glossary pane and then rightclicking insets at the cursor position in the target segment.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="maximo" changedate="20200614T154619Z" creationid="lesia" creationdate="20200505T190906Z">
-        <seg>Якщо виділити слово у області Глосарія, клікнути правою кнопкою миші та обрати Вставити вибране, тоді слово вставиться на місце курсора в сегменті перекладу.</seg>
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200614T161051Z" creationid="lesia" creationdate="20200505T190906Z">
+        <seg>Якщо виділити слово у області Глосарію, клікнути правою кнопкою миші та обрати Вставити вибране, тоді слово вставиться на місце курсора в сегменті перекладу.</seg>
       </tuv>
     </tu>
     <tu>
@@ -21870,8 +21870,8 @@ These words: 'Page not found'</seg>
       <tuv lang="en">
         <seg>Right-click in the glossary pane or press &lt;k0&gt;Ctrl+Shift+G&lt;/k0&gt; to add a new entry.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="Asus" changedate="20200610T142457Z" creationid="lesia" creationdate="20200505T195445Z">
-        <seg>Щоб створити новий запис, натисніть правою кнопкою миші у вікні глосарія (або комбінацію клавіш  &lt;k0&gt;Ctrl+Shift+G&lt;/k0&gt;).</seg>
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200614T161109Z" creationid="lesia" creationdate="20200505T195445Z">
+        <seg>Щоб створити новий запис, натисніть правою кнопкою миші у вікні глосарію (або комбінацію клавіш  &lt;k0&gt;Ctrl+Shift+G&lt;/k0&gt;).</seg>
       </tuv>
     </tu>
     <tu>
@@ -25022,8 +25022,8 @@ The scope of a search is by default the project and can be set to be any files l
       <tuv lang="en">
         <seg>Terms in the current segment which &lt;a2&gt;OmegaT&lt;/a2&gt; finds in the glossary file(s) are displayed in the Glossary pane:</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="Asus" changedate="20200610T092616Z" creationid="maximo" creationdate="20200404T172052Z">
-        <seg>Терміни у виділеному сегменті, які &lt;a2&gt;OmegaT&lt;/a2&gt; бачить у глосаріях, відображаються у вікні Глосарія:</seg>
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200614T161031Z" creationid="maximo" creationdate="20200404T172052Z">
+        <seg>Терміни у виділеному сегменті, які &lt;a2&gt;OmegaT&lt;/a2&gt; бачить у глосаріях, відображаються в області Глосарій:</seg>
       </tuv>
     </tu>
     <tu>
@@ -25814,8 +25814,8 @@ instead.</seg>
       <tuv lang="en">
         <seg>The contents of the glossary pane will be updated accordingly.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="Asus" changedate="20200610T143219Z" creationid="lesia" creationdate="20200505T200725Z">
-        <seg>Вміст вікна глосарія буде оновлено.</seg>
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200614T161123Z" creationid="lesia" creationdate="20200505T200725Z">
+        <seg>Вміст вікна глосарію буде оновлено.</seg>
       </tuv>
     </tu>
     <tu>
@@ -26194,8 +26194,8 @@ instead.</seg>
       <tuv lang="en">
         <seg>The glossary function only finds exact matches with the glossary entry (e.g. does not find inflected forms etc.).</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="Asus" changedate="20200610T092522Z" creationid="lesia" creationdate="20200504T155722Z">
-        <seg>Функція глосарія залежить від наявності токенізації для кожної конкретної мови. Якщо токенізації для вашої мови немає - флексії не розпізнаються, і будуть знаходитися лише точні збіги зі словами в сегменті оригіналу. Якщо ж токенізація для вашої мови є - знаходитимуться і флективні форми слів.</seg>
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200614T161037Z" creationid="lesia" creationdate="20200504T155722Z">
+        <seg>Функція глосарію залежить від наявності токенізації для кожної конкретної мови. Якщо токенізації для вашої мови немає - флексії не розпізнаються, і будуть знаходитися лише точні збіги зі словами в сегменті оригіналу. Якщо ж токенізація для вашої мови є - знаходитимуться і флективні форми слів.</seg>
       </tuv>
     </tu>
     <tu>
@@ -26339,16 +26339,16 @@ in /lib/licenses/Licenses.txt.</seg>
       <tuv lang="en">
         <seg>The location of the file must be within the &lt;f2&gt;/glossary&lt;/f2&gt; folder, but it can be in a deeper folder (e.g., &lt;f3&gt;glossary/sub/glossary.txt&lt;/f3&gt;).</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="Asus" changedate="20200610T082339Z" creationid="maximo" creationdate="20200404T171120Z">
-        <seg>Файл глосарія має знаходитися у теці &lt;f2&gt;/glossary&lt;/f2&gt;, але він може також бути у глибшій теці (наприклад, &lt;f3&gt;glossary/sub/glossary.txt&lt;/f3&gt;).</seg>
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200614T160956Z" creationid="maximo" creationdate="20200404T171120Z">
+        <seg>Файл глосарію має знаходитися у теці &lt;f2&gt;/glossary&lt;/f2&gt;, але він може також бути у глибшій теці (наприклад, &lt;f3&gt;glossary/sub/glossary.txt&lt;/f3&gt;).</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>The location of the writable glossary file can be set in the &lt;g0&gt;Project &gt; Properties ... &lt;/g0&gt;dialog.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="Asus" changedate="20200610T143245Z" creationid="lesia" creationdate="20200505T200959Z">
-        <seg>Місце розташування файлу глосарія, в який будуть додаватися записи, можна вибрати, зайшовши у &lt;g0&gt;Проєкт &gt; Властивості ... &lt;/g0&gt;.</seg>
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200614T161137Z" creationid="lesia" creationdate="20200505T200959Z">
+        <seg>Місце розташування файлу глосарію, в який будуть додаватися записи, можна вибрати, зайшовши у &lt;g0&gt;Проєкт &gt; Властивості ... &lt;/g0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -31994,8 +31994,8 @@ installation script (linux-install.sh).</seg>
       <tuv lang="en">
         <seg>You define its location and name in the project properties dialog.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="Asus" changedate="20200610T082228Z" creationid="maximo" creationdate="20200404T170913Z">
-        <seg>Ви визначаєте місце розташування та назву глосарія у діалозі Властивості проєкту.</seg>
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200614T160950Z" creationid="maximo" creationdate="20200404T170913Z">
+        <seg>Ви визначаєте місце розташування та назву глосарію у діалозі Властивості проєкту.</seg>
       </tuv>
     </tu>
     <tu>
