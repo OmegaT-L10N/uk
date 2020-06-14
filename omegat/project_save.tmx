@@ -10868,8 +10868,8 @@ Gossamer threads hold you back
       <tuv lang="en">
         <seg>For a more comprehensive introduction see &lt;u0&gt;OmegaT for beginners&lt;/u0&gt; on the OmegaT web site.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20190822T205151Z" creationid="Kos Ivantsov" creationdate="20190822T205031Z">
-        <seg>Для більш докладного ознайомлення з програмою можна переглянути посібник &lt;u0&gt;«OmegaT для CAT-початківців»&lt;/u0&gt; на сайті OmegaT.</seg>
+      <tuv lang="uk-UA" changeid="maximo" changedate="20200614T155623Z" creationid="Kos Ivantsov" creationdate="20190822T205031Z">
+        <seg>Для більш докладного ознайомлення з програмою можна переглянути посібник &lt;u0&gt;OmegaT для CAT-початківців&lt;/u0&gt; на сайті OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
@@ -14662,8 +14662,8 @@ click on that shortcut.</seg>
       <tuv lang="en">
         <seg>It is often useful to search for words and phrases in the source text and in your translation, so press &lt;k0&gt;Ctrl+F&lt;/k0&gt; for the &lt;g1&gt;Text Search&lt;/g1&gt; dialog at any time.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20190822T204421Z" creationid="Kos Ivantsov" creationdate="20190822T204421Z">
-        <seg>Доволі часто виникає потреба шукати слова та словосполучення в оригіналі та в перекладі. Для цього у будь-який момент можна натиснути &lt;k0&gt;Ctrl+F&lt;/k0&gt; і викликати вікно &lt;g1&gt;«Пошук тексту»&lt;/g1&gt;.</seg>
+      <tuv lang="uk-UA" changeid="maximo" changedate="20200614T155609Z" creationid="Kos Ivantsov" creationdate="20190822T204421Z">
+        <seg>Доволі часто виникає потреба шукати слова та словосполучення в оригіналі та в перекладі. Для цього у будь-який момент можна натиснути &lt;k0&gt;Ctrl+F&lt;/k0&gt; і викликати вікно &lt;g1&gt;Пошук тексту&lt;/g1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -31567,8 +31567,8 @@ can then launch the Kaptain launch script with:</seg>
       <tuv lang="en">
         <seg>You can add a new term to the glossary by pressing &lt;k0&gt;Ctrl+Shift+G&lt;/k0&gt;, or copy existing glossaries to the &lt;f1&gt;/glossary/&lt;/f1&gt; subfolder of your project folder, and OmegaT will automatically look up words in them.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20190822T204044Z" creationid="Kos Ivantsov" creationdate="20190822T204044Z">
-        <seg>Щоб додати новий термін до глосарія, потрібно натиснути &lt;k0&gt;Ctrl+Shift+G&lt;/k0&gt;. Якщо скопіювати файли глосаріїв у призначену для них теку (у типовій конфігурації — підтека &lt;f1&gt;/glossary&lt;/f1&gt; у теці проєкту), OmegaT автоматично почне шукати слова в них.</seg>
+      <tuv lang="uk-UA" changeid="maximo" changedate="20200614T155602Z" creationid="Kos Ivantsov" creationdate="20190822T204044Z">
+        <seg>Щоб додати новий термін до глосарія, потрібно натиснути &lt;k0&gt;Ctrl+Shift+G&lt;/k0&gt;. Якщо скопіювати файли глосаріїв у призначену для них теку (у типовій конфігурації — підтека &lt;f1&gt;glossary&lt;/f1&gt; у теці проєкту), OmegaT автоматично почне шукати слова в них.</seg>
       </tuv>
     </tu>
     <tu>
@@ -33272,6 +33272,14 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20190822T205037Z" creationid="Kos Ivantsov" creationdate="20190822T150834Z">
         <seg>https://omegat.org/files/guide/OmegaT_for_Beginners_uk.pdf</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>https://omegat.org/support</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="maximo" changedate="20200614T155611Z" creationid="maximo" creationdate="20200614T155611Z">
+        <seg>https://omegat.org/support</seg>
       </tuv>
     </tu>
     <tu>
