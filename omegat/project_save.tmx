@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.2.0_0_747fc65a9" segtype="sentence" srclang="en"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.2.0_0_747fc65a" segtype="sentence" srclang="en"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -3330,7 +3330,7 @@ The current setting is {0}MB;</seg>
       </tuv>
     </tu>
     <tu>
-      <note>тут знов скрін</note>
+      <note>тут знов скрин</note>
       <tuv lang="en">
         <seg>A dialog opens, allowing you to enter the source term, target term and any comments you may have:</seg>
       </tuv>
@@ -12007,7 +12007,7 @@ Its winter has come</seg>
       </tuv>
     </tu>
     <tu>
-      <note>Розширила переклад, бо лише так воно працює
+      <note>
 помилка - inserts</note>
       <tuv lang="en">
         <seg>Highlighting it in the Glossary pane and then rightclicking insets at the cursor position in the target segment.</seg>
@@ -23784,7 +23784,8 @@ The scope of a search is by default the project and can be set to be any files l
       </tuv>
     </tu>
     <tu>
-      <note>це стосується нелокалізованого скрина</note>
+      <note>
+</note>
       <tuv lang="en">
         <seg>So the inserted "pojavni meni" in the nominative form - has to be changed to "pojavnem meniju" , i.e. to the locative.</seg>
       </tuv>
@@ -26764,8 +26765,8 @@ in /lib/licenses/Licenses.txt.</seg>
       <tuv lang="en">
         <seg>The results from the priority glossary (by default, glossary/glossary.txt) appear in first places in the Glossary pane and in TransTips.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="lesia" changedate="20200614T155122Z" creationid="lesia" creationdate="20200505T202008Z">
-        <seg>Результати з пріоритетного словника (типово це glossary/glossary.txt) з'являються на першому місці в області "Глосарій" та у "Підказках перекладу".</seg>
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200614T162613Z" creationid="lesia" creationdate="20200505T202008Z">
+        <seg>Результати з пріоритетного словника (типово це glossary/glossary.txt) з'являються на першому місці в області "Глосарій".</seg>
       </tuv>
     </tu>
     <tu>
