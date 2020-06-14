@@ -1971,7 +1971,7 @@ To add files to the project, click on the Copy Files to Source Folder... button 
       <tuv lang="en">
         <seg>... matches the following</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="maximo" changedate="20200412T044944Z" creationid="maximo" creationdate="20200412T044944Z">
+      <tuv lang="uk-UA" changeid="Asus" changedate="20200614T035450Z" creationid="maximo" creationdate="20200412T044944Z">
         <seg>... спіймає</seg>
       </tuv>
     </tu>
@@ -1995,7 +1995,7 @@ To add files to the project, click on the Copy Files to Source Folder... button 
       <tuv lang="en">
         <seg>...matches the following</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="maximo" changedate="20200412T045753Z" creationid="maximo" creationdate="20200412T045753Z">
+      <tuv lang="uk-UA" changeid="Asus" changedate="20200614T035420Z" creationid="maximo" creationdate="20200412T045753Z">
         <seg>... спіймає</seg>
       </tuv>
     </tu>
@@ -3285,8 +3285,8 @@ The current setting is {0}MB;</seg>
       <tuv lang="en">
         <seg>A character in the Greek block (simple &lt;u0&gt; block&lt;/u0&gt;)</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="maximo" changedate="20200412T050434Z" creationid="maximo" creationdate="20200412T050434Z">
-        <seg>Символ із грецького блоку юнікоду (простий &lt;u0&gt;блок&lt;/u0&gt;)</seg>
+      <tuv lang="uk-UA" changeid="Asus" changedate="20200614T040034Z" creationid="maximo" creationdate="20200412T050434Z">
+        <seg>Символ із грецького блоку (простий &lt;u0&gt;блок&lt;/u0&gt;)</seg>
       </tuv>
     </tu>
     <tu>
@@ -3339,6 +3339,7 @@ The current setting is {0}MB;</seg>
       </tuv>
     </tu>
     <tu>
+      <note>Число чи цифра? Перевірити</note>
       <tuv lang="en">
         <seg>A digit: [0-9]</seg>
       </tuv>
@@ -3395,6 +3396,7 @@ The current setting is {0}MB;</seg>
       </tuv>
     </tu>
     <tu>
+      <note>чи цифра?</note>
       <tuv lang="en">
         <seg>A non-digit: [^0-9]</seg>
       </tuv>
@@ -3414,8 +3416,8 @@ The current setting is {0}MB;</seg>
       <tuv lang="en">
         <seg>A non-word boundary</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="maximo" changedate="20200412T051349Z" creationid="maximo" creationdate="20200412T051349Z">
-        <seg>Не межа "слова"</seg>
+      <tuv lang="uk-UA" changeid="Asus" changedate="20200614T042627Z" creationid="maximo" creationdate="20200412T051349Z">
+        <seg>Не межу "слова"</seg>
       </tuv>
     </tu>
     <tu>
@@ -3510,8 +3512,8 @@ The current setting is {0}MB;</seg>
       <tuv lang="en">
         <seg>A word boundary</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="maximo" changedate="20200412T051320Z" creationid="maximo" creationdate="20200412T051320Z">
-        <seg>Межа "слова"</seg>
+      <tuv lang="uk-UA" changeid="Asus" changedate="20200614T042553Z" creationid="maximo" creationdate="20200412T051320Z">
+        <seg>Межу "слова"</seg>
       </tuv>
     </tu>
     <tu>
@@ -4629,8 +4631,8 @@ The TMX file will not be loaded.</seg>
       <tuv lang="en">
         <seg>An uppercase letter (simple &lt;u0&gt; category&lt;/u0&gt;)</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="maximo" changedate="20200412T050515Z" creationid="maximo" creationdate="20200412T050515Z">
-        <seg>Велика літера (проста &lt;u0&gt;категорія&lt;/u0&gt;)</seg>
+      <tuv lang="uk-UA" changeid="Asus" changedate="20200614T042524Z" creationid="maximo" creationdate="20200412T050515Z">
+        <seg>Велику літеру (проста &lt;u0&gt;категорія&lt;/u0&gt;)</seg>
       </tuv>
     </tu>
     <tu>
@@ -4666,6 +4668,7 @@ The TMX file will not be loaded.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>перевірити</note>
       <tuv lang="en">
         <seg>Any character (except for line terminators)</seg>
       </tuv>
@@ -4693,8 +4696,8 @@ The TMX file will not be loaded.</seg>
       <tuv lang="en">
         <seg>Any letter except an uppercase letter (subtraction)</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="maximo" changedate="20200412T050651Z" creationid="maximo" creationdate="20200412T050651Z">
-        <seg>Будь-яка літера, окрім великих (виключення)</seg>
+      <tuv lang="uk-UA" changeid="Asus" changedate="20200614T042548Z" creationid="maximo" creationdate="20200412T050651Z">
+        <seg>Будь-яку літеру, окрім великих (виключення)</seg>
       </tuv>
     </tu>
     <tu>
@@ -9516,8 +9519,8 @@ Your help page not found</seg>
       <tuv lang="en">
         <seg>Enables case-insensitive matching (by default, the pattern is case-sensitive).</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="maximo" changedate="20200412T045104Z" creationid="maximo" creationdate="20200412T045104Z">
-        <seg>Вмикає пошук без врахування регістру літер.</seg>
+      <tuv lang="uk-UA" changeid="Asus" changedate="20200614T033756Z" creationid="maximo" creationdate="20200412T045104Z">
+        <seg>Вмикає пошук без врахування регістру літер (типово шаблон враховує регістр).</seg>
       </tuv>
     </tu>
     <tu>
@@ -17756,7 +17759,7 @@ as the Applications folder.</seg>
       <tuv lang="en">
         <seg>Nothing, but quotes the following character.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="maximo" changedate="20200412T045825Z" creationid="maximo" creationdate="20200412T045825Z">
+      <tuv lang="uk-UA" changeid="Asus" changedate="20200614T035515Z" creationid="maximo" creationdate="20200412T045825Z">
         <seg>Нічого не спіймає, але екранує наступний символ.</seg>
       </tuv>
     </tu>
@@ -19591,8 +19594,8 @@ Vanishing like mist</seg>
       <tuv lang="en">
         <seg>Period, followed by an upper-case letter - possibly a space is missing between the period and the start of a new sentence?</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="maximo" changedate="20200412T053428Z" creationid="maximo" creationdate="20200412T053428Z">
-        <seg>Крапка, після якої іде велика літера - можливо, пропущений пробіл</seg>
+      <tuv lang="uk-UA" changeid="Asus" changedate="20200614T042309Z" creationid="maximo" creationdate="20200412T053428Z">
+        <seg>Крапку, після якої іде велика літера - можливо, пропущений пробіл між крапкою та новим реченням</seg>
       </tuv>
     </tu>
     <tu>
@@ -20962,6 +20965,7 @@ These words: 'Page not found'</seg>
       </tuv>
     </tu>
     <tu>
+      <note>перевірити</note>
       <tuv lang="en">
         <seg>Regex - Classes for Unicode blocks and categories</seg>
       </tuv>
@@ -20973,8 +20977,8 @@ These words: 'Page not found'</seg>
       <tuv lang="en">
         <seg>Regex - Examples of regular expressions in translations</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="maximo" changedate="20200412T052926Z" creationid="maximo" creationdate="20200412T052926Z">
-        <seg>Регулярні вирази - приклади регулярних виразів</seg>
+      <tuv lang="uk-UA" changeid="Asus" changedate="20200614T042003Z" creationid="maximo" creationdate="20200412T052926Z">
+        <seg>Регулярні вирази - приклади регулярних виразів у перекладах</seg>
       </tuv>
     </tu>
     <tu>
@@ -20986,6 +20990,7 @@ These words: 'Page not found'</seg>
       </tuv>
     </tu>
     <tu>
+      <note>перевірити "квантифікатори"</note>
       <tuv lang="en">
         <seg>Regex - Greedy quantifiers</seg>
       </tuv>
@@ -21005,8 +21010,8 @@ These words: 'Page not found'</seg>
       <tuv lang="en">
         <seg>Regex - Predefined character classes</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="maximo" changedate="20200412T050855Z" creationid="maximo" creationdate="20200412T050855Z">
-        <seg>Регулярні вирази - Стандартні класи символів</seg>
+      <tuv lang="uk-UA" changeid="Asus" changedate="20200614T040259Z" creationid="maximo" creationdate="20200412T050855Z">
+        <seg>Регулярні вирази - Попередньо визначені класи символів</seg>
       </tuv>
     </tu>
     <tu>
@@ -21018,6 +21023,7 @@ These words: 'Page not found'</seg>
       </tuv>
     </tu>
     <tu>
+      <note>перевірити</note>
       <tuv lang="en">
         <seg>Regex - Reluctant (non-greedy) quantifiers</seg>
       </tuv>
@@ -21026,6 +21032,7 @@ These words: 'Page not found'</seg>
       </tuv>
     </tu>
     <tu>
+      <note>тут є скрин, який варто локалізувати</note>
       <tuv lang="en">
         <seg>Regex Tester</seg>
       </tuv>
@@ -25709,8 +25716,8 @@ Please try to correct the error and reload the project.</seg>
       <tuv lang="en">
         <seg>The character x, except the following...</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="maximo" changedate="20200412T045207Z" creationid="maximo" creationdate="20200412T045207Z">
-        <seg>Символ x, за виключенням...</seg>
+      <tuv lang="uk-UA" changeid="Asus" changedate="20200614T033313Z" creationid="maximo" creationdate="20200412T045207Z">
+        <seg>Символ x, за винятком...</seg>
       </tuv>
     </tu>
     <tu>
@@ -26114,8 +26121,8 @@ instead.</seg>
       <tuv lang="en">
         <seg>The following list includes expressions you may find useful when searching through the translation memory:</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="maximo" changedate="20200412T052850Z" creationid="maximo" creationdate="20200412T052850Z">
-        <seg>Ось підбірка регулярних виразів, які можуть бути корисні для пошуку у памʼяті перекладів:</seg>
+      <tuv lang="uk-UA" changeid="Asus" changedate="20200614T041916Z" creationid="maximo" creationdate="20200412T052850Z">
+        <seg>Перелік регулярних виразів, які можуть бути корисні для пошуку у памʼяті перекладів:</seg>
       </tuv>
     </tu>
     <tu>
@@ -26151,11 +26158,12 @@ instead.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>перевірити "наповнення форми"?</note>
       <tuv lang="en">
         <seg>The form-feed character ('\u000C')</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="maximo" changedate="20200412T045417Z" creationid="maximo" creationdate="20200412T045417Z">
-        <seg>Символ заповнення форми ('\u000C')</seg>
+      <tuv lang="uk-UA" changeid="Asus" changedate="20200614T034102Z" creationid="maximo" creationdate="20200412T045417Z">
+        <seg>Символ зміни сторінки ('\u000C')</seg>
       </tuv>
     </tu>
     <tu>
@@ -27527,8 +27535,8 @@ You, victim of one</seg>
       <tuv lang="en">
         <seg>They generally follow much the same pattern (for an example from the Regular Expression Tester see below): the regular expression (top entry) analyzes the search text (Text box in the middle) , yielding the hits, shown in the result Text box.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="lesia" changedate="20200511T202042Z" creationid="maximo" creationdate="20200412T052402Z">
-        <seg>Загалом вони працюють за такою схемою: регулярний вираз (зверху) аналізує текст (посередині) і видає результати у нижньому текстовому полі. (Приклад із Regular Expression Tester)</seg>
+      <tuv lang="uk-UA" changeid="Asus" changedate="20200614T041524Z" creationid="maximo" creationdate="20200412T052402Z">
+        <seg>Загалом вони працюють за такою схемою: регулярний вираз (запис зверху) аналізує текст (текстове поле посередині) і видає результати у нижньому текстовому полі. (Приклад із Regular Expression Tester)</seg>
       </tuv>
     </tu>
     <tu>
@@ -27682,8 +27690,8 @@ the server.</seg>
       <tuv lang="en">
         <seg>This chapter is intended for advanced users, who need to define their own variants of segmentation rules or devise more complex and powerful key search items.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="lesia" changedate="20200511T201403Z" creationid="maximo" creationdate="20200412T044842Z">
-        <seg>Цей розділ призначений для тих користувачів OmegaT, яким треба визначити свої варіанти правил сегментації чи шукати в тексті складні конструкції.</seg>
+      <tuv lang="uk-UA" changeid="Asus" changedate="20200614T032221Z" creationid="maximo" creationdate="20200412T044842Z">
+        <seg>Цей розділ призначений для досвідчених користувачів OmegaT, яким треба визначити свої варіанти правил сегментації чи шукати в тексті складні конструкції.</seg>
       </tuv>
     </tu>
     <tu>
@@ -27916,8 +27924,8 @@ the server.</seg>
       <tuv lang="en">
         <seg>This is much the same as the above example.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="maximo" changedate="20200412T052610Z" creationid="maximo" creationdate="20200412T052610Z">
-        <seg>Він працює в цілому так само як попередній приклад.</seg>
+      <tuv lang="uk-UA" changeid="Asus" changedate="20200614T041752Z" creationid="maximo" creationdate="20200412T052610Z">
+        <seg>Він працює в цілому так само як на попередньому прикладі.</seg>
       </tuv>
     </tu>
     <tu>
@@ -27932,8 +27940,8 @@ the server.</seg>
       <tuv lang="en">
         <seg>This is required if you would like to enter any of the meta characters !$()*+.&lt;&gt;?[\]^{|} to match as themselves.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="maximo" changedate="20200412T045955Z" creationid="maximo" creationdate="20200412T045955Z">
-        <seg>Це потрібно, якщо вам треба зловити якийсь метасимвол - !$()*+.&lt;&gt;?[\]^{|} - уникаючи його інтерпретації як спеціального.</seg>
+      <tuv lang="uk-UA" changeid="Asus" changedate="20200614T035638Z" creationid="maximo" creationdate="20200412T045955Z">
+        <seg>Це потрібно, якщо вам треба ввести якийсь метасимвол - !$()*+.&lt;&gt;?[\]^{|} - уникаючи його інтерпретації як спеціального.</seg>
       </tuv>
     </tu>
     <tu>
@@ -31344,8 +31352,8 @@ Your page is not found</seg>
       <tuv lang="en">
         <seg>X, once or not at all</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="maximo" changedate="20200412T051529Z" creationid="maximo" creationdate="20200412T051529Z">
-        <seg>Один раз X, або жодного</seg>
+      <tuv lang="uk-UA" changeid="Asus" changedate="20200614T040845Z" creationid="maximo" creationdate="20200412T051529Z">
+        <seg>X, один раз або жодного</seg>
       </tuv>
     </tu>
     <tu>
@@ -32568,8 +32576,8 @@ create its configuration folder.</seg>
       <tuv lang="en">
         <seg>a through z or A through Z, inclusive (range)</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="maximo" changedate="20200412T050830Z" creationid="maximo" creationdate="20200412T050830Z">
-        <seg>Від a до z чи від A до Z, включно (відрізок)</seg>
+      <tuv lang="uk-UA" changeid="Asus" changedate="20200614T040231Z" creationid="maximo" creationdate="20200412T050830Z">
+        <seg>Від a до z чи від A до Z, включно (діапазон)</seg>
       </tuv>
     </tu>
     <tu>
@@ -32672,8 +32680,8 @@ create its configuration folder.</seg>
       <tuv lang="en">
         <seg>comma or a period, followed by spaces and yet another comma or period</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="maximo" changedate="20200412T053101Z" creationid="maximo" creationdate="20200412T053101Z">
-        <seg>кома чи крапка, після якої через пробіл іде ще одна кома чи крапка</seg>
+      <tuv lang="uk-UA" changeid="Asus" changedate="20200614T042055Z" creationid="maximo" creationdate="20200412T053101Z">
+        <seg>кому чи крапку, після якої через пробіл іде ще одна кома чи крапка</seg>
       </tuv>
     </tu>
     <tu>
@@ -33117,6 +33125,7 @@ create its configuration folder.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>перевірити кванифікатори</note>
       <tuv lang="en">
         <seg>greedy quantifiers will match as much as they can.</seg>
       </tuv>
@@ -33584,6 +33593,7 @@ create its configuration folder.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>перевірити</note>
       <tuv lang="en">
         <seg>non-greedy quantifiers will match as little as they can.</seg>
       </tuv>
@@ -34035,8 +34045,8 @@ create its configuration folder.</seg>
       <tuv lang="en">
         <seg>search for “is”, not “this” or “isn't” etc.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="maximo" changedate="20200412T070703Z" creationid="maximo" creationdate="20200412T053455Z">
-        <seg>пошук цілого слова “is”, але не “this” чи “isn't”.</seg>
+      <tuv lang="uk-UA" changeid="Asus" changedate="20200614T042338Z" creationid="maximo" creationdate="20200412T053455Z">
+        <seg>пошук цілого слова “is”, але не “this” чи “isn't” тощо.</seg>
       </tuv>
     </tu>
     <tu>
