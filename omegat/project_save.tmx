@@ -3339,12 +3339,11 @@ The current setting is {0}MB;</seg>
       </tuv>
     </tu>
     <tu>
-      <note>Число чи цифра? Перевірити</note>
       <tuv lang="en">
         <seg>A digit: [0-9]</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="maximo" changedate="20200412T050929Z" creationid="maximo" creationdate="20200412T050929Z">
-        <seg>Число: [0-9]</seg>
+      <tuv lang="uk-UA" changeid="Asus" changedate="20200614T050238Z" creationid="maximo" creationdate="20200412T050929Z">
+        <seg>Цифру: [0-9]</seg>
       </tuv>
     </tu>
     <tu>
@@ -3396,12 +3395,11 @@ The current setting is {0}MB;</seg>
       </tuv>
     </tu>
     <tu>
-      <note>чи цифра?</note>
       <tuv lang="en">
         <seg>A non-digit: [^0-9]</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="maximo" changedate="20200412T050937Z" creationid="maximo" creationdate="20200412T050937Z">
-        <seg>Не число: [^0-9]</seg>
+      <tuv lang="uk-UA" changeid="Asus" changedate="20200614T050300Z" creationid="maximo" creationdate="20200412T050937Z">
+        <seg>Не цифру: [^0-9]</seg>
       </tuv>
     </tu>
     <tu>
@@ -4668,12 +4666,11 @@ The TMX file will not be loaded.</seg>
       </tuv>
     </tu>
     <tu>
-      <note>перевірити</note>
       <tuv lang="en">
         <seg>Any character (except for line terminators)</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="maximo" changedate="20200412T050920Z" creationid="maximo" creationdate="20200412T050920Z">
-        <seg>Будь-який символ, окрім символів нового рядка.</seg>
+      <tuv lang="uk-UA" changeid="Asus" changedate="20200614T050250Z" creationid="maximo" creationdate="20200412T050920Z">
+        <seg>Будь-який символ, окрім символів кінця рядка.</seg>
       </tuv>
     </tu>
     <tu>
@@ -20965,12 +20962,11 @@ These words: 'Page not found'</seg>
       </tuv>
     </tu>
     <tu>
-      <note>перевірити</note>
       <tuv lang="en">
         <seg>Regex - Classes for Unicode blocks and categories</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="maximo" changedate="20200412T050252Z" creationid="maximo" creationdate="20200412T050252Z">
-        <seg>Регулярні вирази - Класи символів чи юнікодні блоки та категорії</seg>
+      <tuv lang="uk-UA" changeid="Asus" changedate="20200614T050115Z" creationid="maximo" creationdate="20200412T050252Z">
+        <seg>Регулярні вирази - Класи символів для блоків та категорій Юнікоду</seg>
       </tuv>
     </tu>
     <tu>
@@ -20990,7 +20986,6 @@ These words: 'Page not found'</seg>
       </tuv>
     </tu>
     <tu>
-      <note>перевірити "квантифікатори"</note>
       <tuv lang="en">
         <seg>Regex - Greedy quantifiers</seg>
       </tuv>
@@ -21023,7 +21018,6 @@ These words: 'Page not found'</seg>
       </tuv>
     </tu>
     <tu>
-      <note>перевірити</note>
       <tuv lang="en">
         <seg>Regex - Reluctant (non-greedy) quantifiers</seg>
       </tuv>
@@ -26158,11 +26152,10 @@ instead.</seg>
       </tuv>
     </tu>
     <tu>
-      <note>перевірити "наповнення форми"?</note>
       <tuv lang="en">
         <seg>The form-feed character ('\u000C')</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="Asus" changedate="20200614T034102Z" creationid="maximo" creationdate="20200412T045417Z">
+      <tuv lang="uk-UA" changeid="Asus" changedate="20200614T045055Z" creationid="maximo" creationdate="20200412T045417Z">
         <seg>Символ зміни сторінки ('\u000C')</seg>
       </tuv>
     </tu>
@@ -33125,7 +33118,6 @@ create its configuration folder.</seg>
       </tuv>
     </tu>
     <tu>
-      <note>перевірити кванифікатори</note>
       <tuv lang="en">
         <seg>greedy quantifiers will match as much as they can.</seg>
       </tuv>
@@ -33593,7 +33585,6 @@ create its configuration folder.</seg>
       </tuv>
     </tu>
     <tu>
-      <note>перевірити</note>
       <tuv lang="en">
         <seg>non-greedy quantifiers will match as little as they can.</seg>
       </tuv>
