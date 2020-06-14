@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.2.0_0_747fc65a" segtype="sentence" srclang="en"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.2.0_0_747fc65a9" segtype="sentence" srclang="en"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -136,6 +136,14 @@
       </tuv>
       <tuv lang="uk-UA" changeid="lesia" changedate="20200511T201911Z" creationid="lesia" creationdate="20200511T201911Z">
         <seg>$</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>$ &lt;s0&gt;java -version&lt;/s0&gt;</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="maximo" changedate="20200614T164028Z" creationid="maximo" creationdate="20200614T164028Z">
+        <seg>$ &lt;s0&gt;java -version&lt;/s0&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -2001,6 +2009,14 @@ To add files to the project, click on the Copy Files to Source Folder... button 
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>.repositories</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="maximo" changedate="20200614T163934Z" creationid="maximo" creationdate="20200614T163934Z">
+        <seg>.repositories</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>1 conflict</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20190821T114928Z" creationid="Kos Ivantsov" creationdate="20190821T114928Z">
@@ -2243,6 +2259,14 @@ The current setting is {0}MB;</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="maximo" changedate="20200414T145048Z" creationid="maximo" creationdate="20200414T145048Z">
         <seg>&lt;a0&gt;OmegaT&lt;/a0&gt; проводить сегментацію в такій послідовності:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;a0&gt;OpenOffice.org&lt;/a0&gt; &lt;br1/&gt;</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="maximo" changedate="20200614T164228Z" creationid="maximo" creationdate="20200614T164228Z">
+        <seg>&lt;a0&gt;OpenOffice.org&lt;/a0&gt; &lt;br1/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -3588,6 +3612,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Aaron Madlon-Kay</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="maximo" changedate="20200614T163954Z" creationid="maximo" creationdate="20200614T163954Z">
+        <seg>Aaron Madlon-Kay</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Aaron Madlon-Kay is the OmegaT project manager.</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20190822T213839Z" creationid="Kos Ivantsov" creationdate="20190424T213203Z">
@@ -4056,6 +4088,14 @@ The current setting is {0}MB;</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="maximo" changedate="20200425T153933Z" creationid="maximo" creationdate="20200425T153933Z">
         <seg>Примусове використання резервного шрифту</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Alex Buloichik</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="maximo" changedate="20200614T163955Z" creationid="maximo" creationdate="20200614T163955Z">
+        <seg>Alex Buloichik</seg>
       </tuv>
     </tu>
     <tu>
@@ -5256,6 +5296,14 @@ may experience unexpected, but correct behaviour.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Balabit</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="maximo" changedate="20200614T164242Z" creationid="maximo" creationdate="20200614T164242Z">
+        <seg>Balabit</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Bartender yells loud:
 Your page cannot be found, boy
 Buy another drink</seg>
@@ -5408,6 +5456,14 @@ Buy another drink</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20190819T104958Z" creationid="Kos Ivantsov" creationdate="20190819T104958Z">
         <seg>Розрив/Виняток</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Briac Pilpré</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="maximo" changedate="20200614T163953Z" creationid="maximo" creationdate="20200614T163953Z">
+        <seg>Briac Pilpré</seg>
       </tuv>
     </tu>
     <tu>
@@ -5720,6 +5776,14 @@ Buy another drink</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20190421T152448Z" creationid="Kos Ivantsov" creationdate="20190421T152448Z">
         <seg>П&amp;оточний перекладений документ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>CJ Translations</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="maximo" changedate="20200614T164242Z" creationid="maximo" creationdate="20200614T164242Z">
+        <seg>CJ Translations</seg>
       </tuv>
     </tu>
     <tu>
@@ -6841,6 +6905,14 @@ Buy another drink</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20190504T102503Z" creationid="Kos Ivantsov" creationdate="20190504T102503Z">
         <seg>Фіксація перекладених файлів</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Commodity12</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="maximo" changedate="20200614T164242Z" creationid="maximo" creationdate="20200614T164242Z">
+        <seg>Commodity12</seg>
       </tuv>
     </tu>
     <tu>
@@ -8354,6 +8426,14 @@ Buy another drink</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Diego Merino Traducciones</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="maximo" changedate="20200614T164243Z" creationid="maximo" creationdate="20200614T164243Z">
+        <seg>Diego Merino Traducciones</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Diff (GPL)</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20190424T212216Z" creationid="Kos Ivantsov" creationdate="20190424T212216Z">
@@ -8374,6 +8454,14 @@ Buy another drink</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20190822T221452Z" creationid="Kos Ivantsov" creationdate="20190822T221452Z">
         <seg>Різний регістр перших літер</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Diptik</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="maximo" changedate="20200614T164243Z" creationid="maximo" creationdate="20200614T164243Z">
+        <seg>Diptik</seg>
       </tuv>
     </tu>
     <tu>
@@ -8903,6 +8991,14 @@ Buy another drink</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20190822T221345Z" creationid="Kos Ivantsov" creationdate="20190822T221345Z">
         <seg>Повтор слів</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Doublet KK</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="maximo" changedate="20200614T164243Z" creationid="maximo" creationdate="20200614T164243Z">
+        <seg>Doublet KK</seg>
       </tuv>
     </tu>
     <tu>
@@ -11460,6 +11556,14 @@ provided (omegat.kaptn).</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Genua</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="maximo" changedate="20200614T164243Z" creationid="maximo" creationdate="20200614T164243Z">
+        <seg>Genua</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>German</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20190422T210020Z" creationid="Kos Ivantsov" creationdate="20190422T210020Z">
@@ -11776,6 +11880,22 @@ provided (omegat.kaptn).</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20190517T104414Z" creationid="Kos Ivantsov" creationdate="20190517T104414Z">
         <seg>Група {0} не існує у виразі, за яким було здійснено пошук</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Grup de Recerca Tradumàtica</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="maximo" changedate="20200614T164244Z" creationid="maximo" creationdate="20200614T164244Z">
+        <seg>Grup de Recerca Tradumàtica</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Guida completa a OmegaT: tecniche, trucchi e consigli per traduttori e project manager</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="maximo" changedate="20200614T164011Z" creationid="maximo" creationdate="20200614T164011Z">
+        <seg>Guida completa a OmegaT: tecniche, trucchi e consigli per traduttori e project manager</seg>
       </tuv>
     </tu>
     <tu>
@@ -12262,6 +12382,14 @@ Its winter has come</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20190517T141717Z" creationid="Kos Ivantsov" creationdate="20190517T141717Z">
         <seg>Сталася помилка IOException:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Icons</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="maximo" changedate="20200614T164222Z" creationid="maximo" creationdate="20200614T164222Z">
+        <seg>Іконки</seg>
       </tuv>
     </tu>
     <tu>
@@ -13514,6 +13642,14 @@ click on that shortcut.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Important: listed plug-ins work with OmegaT version 4 and above.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="maximo" changedate="20200614T164152Z" creationid="maximo" creationdate="20200614T164152Z">
+        <seg>Увага: перелічені плагіни працюють лише з версіями OmegaT 4 та вище.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Importing Wiki Page Failed</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20190420T142540Z" creationid="Kos Ivantsov" creationdate="20190420T142540Z">
@@ -14372,6 +14508,14 @@ click on that shortcut.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Institut Laue-Langevin</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="maximo" changedate="20200614T164244Z" creationid="maximo" creationdate="20200614T164244Z">
+        <seg>Institut Laue-Langevin</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Insufficient permissions for project dir {0}</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20190504T124309Z" creationid="Kos Ivantsov" creationdate="20190504T124309Z">
@@ -14456,6 +14600,14 @@ click on that shortcut.</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20190516T180129Z" creationid="Kos Ivantsov" creationdate="20190516T180129Z">
         <seg>Неприпустимий тип сховища: {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Invantive</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="maximo" changedate="20200614T164244Z" creationid="maximo" creationdate="20200614T164244Z">
+        <seg>Invantive</seg>
       </tuv>
     </tu>
     <tu>
@@ -14688,6 +14840,14 @@ click on that shortcut.</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="maximo" changedate="20200501T201832Z" creationid="maximo" creationdate="20200501T201832Z">
         <seg>З будь-якого місця головного вікна можна перетягнути текст в сегмент.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>It is possible to modify the sort order of the three percentages but not which is used to select the fuzzy matches.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="maximo" changedate="20200614T163612Z" creationid="maximo" creationdate="20200614T163612Z">
+        <seg>Порядок відображення цих відсотків можна змінювати, але це не впливає на знаходження нечітких збігів.</seg>
       </tuv>
     </tu>
     <tu>
@@ -14928,6 +15088,14 @@ itself on the first run.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>JRE</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="maximo" changedate="20200614T164018Z" creationid="maximo" creationdate="20200614T164018Z">
+        <seg>JRE</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>JSch (JSch License)</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20190424T212211Z" creationid="Kos Ivantsov" creationdate="20190424T212211Z">
@@ -15040,10 +15208,26 @@ itself on the first run.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Julian Rippon</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="maximo" changedate="20200614T164244Z" creationid="maximo" creationdate="20200614T164244Z">
+        <seg>Julian Rippon</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Jumping to last edited segment...</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20190420T125035Z" creationid="Kos Ivantsov" creationdate="20190420T125035Z">
         <seg>Перехід до останнього редагованого сегмента...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Justification of source and target segments depends upon the project languages.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="maximo" changedate="20200614T164329Z" creationid="maximo" creationdate="20200614T164329Z">
+        <seg>Justification of source and target segments depends upon the project languages.</seg>
       </tuv>
     </tu>
     <tu>
@@ -15088,6 +15272,14 @@ itself on the first run.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Keith Godfrey</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="maximo" changedate="20200614T163954Z" creationid="maximo" creationdate="20200614T163954Z">
+        <seg>Keith Godfrey</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Key:</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20190422T205416Z" creationid="Kos Ivantsov" creationdate="20190422T205416Z">
@@ -15128,10 +15320,26 @@ itself on the first run.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Kilgray</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="maximo" changedate="20200614T164244Z" creationid="maximo" creationdate="20200614T164244Z">
+        <seg>Kilgray</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Kos Ivantsof (localisation manager)</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20190822T213706Z" creationid="Kos Ivantsov" creationdate="20190808T092025Z">
         <seg>Кость Іванцов [Kos Ivantsov] (координатор з локалізації);</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Kos Ivantsov</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="maximo" changedate="20200614T163959Z" creationid="maximo" creationdate="20200614T163959Z">
+        <seg>Kos Ivantsov</seg>
       </tuv>
     </tu>
     <tu>
@@ -15156,6 +15364,14 @@ itself on the first run.</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20190822T215952Z" creationid="Kos Ivantsov" creationdate="20190822T215952Z">
         <seg>ДОДАНО:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>LF Aligner</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="maximo" changedate="20200614T164231Z" creationid="maximo" creationdate="20200614T164231Z">
+        <seg>LF Aligner</seg>
       </tuv>
     </tu>
     <tu>
@@ -15650,6 +15866,14 @@ itself on the first run.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Linux</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="maximo" changedate="20200614T164020Z" creationid="maximo" creationdate="20200614T164020Z">
+        <seg>Linux</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Linux (Intel) Users</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="maximo" changedate="20200419T072224Z" creationid="maximo" creationdate="20200419T072224Z">
@@ -15890,6 +16114,14 @@ itself on the first run.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Mac OS X</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="maximo" changedate="20200614T164020Z" creationid="maximo" creationdate="20200614T164020Z">
+        <seg>Mac OS X</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Mac OS X has a feature called Gatekeeper that increases security by making it difficult to run unsigned programs.</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="lesia" changedate="20200324T174621Z" creationid="maximo" creationdate="20200322T161113Z">
@@ -16054,6 +16286,14 @@ itself on the first run.</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20190807T095850Z" creationid="Kos Ivantsov" creationdate="20190807T095850Z">
         <seg>Позначати пробі&amp;ли</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Marc Prior</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="maximo" changedate="20200614T163958Z" creationid="maximo" creationdate="20200614T163958Z">
+        <seg>Marc Prior</seg>
       </tuv>
     </tu>
     <tu>
@@ -16238,6 +16478,14 @@ itself on the first run.</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20190808T115924Z" creationid="Kos Ivantsov" creationdate="20190808T115924Z">
         <seg>Маска</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Master</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="maximo" changedate="20200614T164032Z" creationid="maximo" creationdate="20200614T164032Z">
+        <seg>Master</seg>
       </tuv>
     </tu>
     <tu>
@@ -17562,8 +17810,8 @@ as the Applications folder.</seg>
       <tuv lang="en">
         <seg>Note that the TMX files in the tm folder can be compressed with gzip.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="fanja9" changedate="20200510T133834Z" creationid="fanja9" creationdate="20200504T203050Z">
-        <seg>Зверніть увагу, що файли TMX у теці tm можна зжати у форматі gzip.</seg>
+      <tuv lang="uk-UA" changeid="maximo" changedate="20200614T163848Z" creationid="fanja9" creationdate="20200504T203050Z">
+        <seg>Зверніть увагу, що файли TMX у теці tm можна заархівувати у форматі gzip.</seg>
       </tuv>
     </tu>
     <tu>
@@ -17964,6 +18212,30 @@ as the Applications folder.</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="lesia" changedate="20200322T151249Z" creationid="lesia" creationdate="20200322T151249Z">
         <seg>Плагін Okapi Filters</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Okapi Framework</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="maximo" changedate="20200614T164230Z" creationid="maximo" creationdate="20200614T164230Z">
+        <seg>Okapi Framework</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>OmT-l10n</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="maximo" changedate="20200614T164003Z" creationid="maximo" creationdate="20200614T164003Z">
+        <seg>OmT-l10n</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>OmTdev</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="maximo" changedate="20200614T164003Z" creationid="maximo" creationdate="20200614T164003Z">
+        <seg>OmTdev</seg>
       </tuv>
     </tu>
     <tu>
@@ -18700,6 +18972,14 @@ installed on your system.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Ondiloto</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="maximo" changedate="20200614T164204Z" creationid="maximo" creationdate="20200614T164204Z">
+        <seg>Ondiloto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>One of the above segments is the current segment.</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="maximo" changedate="20200501T161044Z" creationid="maximo" creationdate="20200501T161044Z">
@@ -19227,6 +19507,14 @@ installed on your system.</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20190516T185352Z" creationid="Kos Ivantsov" creationdate="20190504T130448Z">
         <seg>Покинуті сегменти</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Orphan segments (match #2) describe segments in the default project translation memory that have no corresponding source segment.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="maximo" changedate="20200614T163732Z" creationid="maximo" creationdate="20200614T163732Z">
+        <seg>Покинуті сегменти (збіг 2) показують сегменти із внутрішньої памʼяті поточного проєкту, у яких нема відповідного оригінального сегмента.</seg>
       </tuv>
     </tu>
     <tu>
@@ -19935,6 +20223,14 @@ additional steps need to be taken.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Plug-ins</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="maximo" changedate="20200614T164045Z" creationid="maximo" creationdate="20200614T164045Z">
+        <seg>Plug-ins</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Plugin successfully loaded from class '{0}'</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20190517T151802Z" creationid="Kos Ivantsov" creationdate="20190517T151802Z">
@@ -19979,6 +20275,14 @@ additional steps need to be taken.</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20190420T154211Z" creationid="Kos Ivantsov" creationdate="20190420T154211Z">
         <seg>Кінець тексту з іншим напрямком письма (PDF U+202C)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Portavita</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="maximo" changedate="20200614T164245Z" creationid="maximo" creationdate="20200614T164245Z">
+        <seg>Portavita</seg>
       </tuv>
     </tu>
     <tu>
@@ -20753,6 +21057,14 @@ project without team functionality.</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20190822T215654Z" creationid="Kos Ivantsov" creationdate="20190822T215654Z">
         <seg>Контроль якості — правила перевірки</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Qabiria</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="maximo" changedate="20200614T164245Z" creationid="maximo" creationdate="20200614T164245Z">
+        <seg>Qabiria</seg>
       </tuv>
     </tu>
     <tu>
@@ -24468,6 +24780,14 @@ The scope of a search is by default the project and can be set to be any files l
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Stripper</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="maximo" changedate="20200614T164200Z" creationid="maximo" creationdate="20200614T164200Z">
+        <seg>Stripper</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Structure level segmentation</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="maximo" changedate="20200412T202039Z" creationid="maximo" creationdate="20200412T202039Z">
@@ -24676,6 +24996,14 @@ The scope of a search is by default the project and can be set to be any files l
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>TKount</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="maximo" changedate="20200614T164202Z" creationid="maximo" creationdate="20200614T164202Z">
+        <seg>TKount</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>TKount text counting utility.</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="lesia" changedate="20200322T155030Z" creationid="lesia" creationdate="20200322T155030Z">
@@ -24720,6 +25048,22 @@ The scope of a search is by default the project and can be set to be any files l
       </tuv>
       <tuv lang="uk-UA" changeid="lesia" changedate="20200322T160026Z" creationid="lesia" creationdate="20200322T160026Z">
         <seg>Файли TMX з локалізації/перекладу документації OmegaT та цього сайту. Для тих, хто займається локалізацією проєкту.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>TMXCleaner</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="maximo" changedate="20200614T164155Z" creationid="maximo" creationdate="20200614T164155Z">
+        <seg>TMXCleaner</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>TMXMerger</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="maximo" changedate="20200614T164154Z" creationid="maximo" creationdate="20200614T164154Z">
+        <seg>TMXMerger</seg>
       </tuv>
     </tu>
     <tu>
@@ -25000,6 +25344,14 @@ The scope of a search is by default the project and can be set to be any files l
       </tuv>
       <tuv lang="uk-UA" changeid="maximo" changedate="20200510T164903Z" creationid="maximo" creationdate="20200413T105504Z">
         <seg>З технічної точки зору, це означає, що сегмент &lt;c0&gt;msgstr&lt;/c0&gt; у перекладеному PO файлі, якщо він створиться, буде залишатися порожнім.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Telegram</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="maximo" changedate="20200614T164007Z" creationid="maximo" creationdate="20200614T164007Z">
+        <seg>Telegram</seg>
       </tuv>
     </tu>
     <tu>
@@ -25330,8 +25682,8 @@ current folder will be used instead.</seg>
       <tuv lang="en">
         <seg>The Glossary pane allows you to access your own collection of expressions and specialist terminology which you have built up in your glossary files.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="maximo" changedate="20200503T053515Z" creationid="maximo" creationdate="20200503T053515Z">
-        <seg>Панель глосарію відкриває доступ до вашої власної колекції виразів та термінології, яку ви збираєте у файли глосаріїв.</seg>
+      <tuv lang="uk-UA" changeid="maximo" changedate="20200614T163754Z" creationid="maximo" creationdate="20200503T053515Z">
+        <seg>Область глосарію відкриває доступ до вашої власної колекції виразів та термінології, яку ви збираєте у файли глосаріїв.</seg>
       </tuv>
     </tu>
     <tu>
@@ -28910,6 +29262,14 @@ linux-install.sh script, and execute the script with ./linux-install.sh.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Toxic</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="maximo" changedate="20200614T164156Z" creationid="maximo" creationdate="20200614T164156Z">
+        <seg>Toxic</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Toxic for Linux</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="lesia" changedate="20200322T154355Z" creationid="lesia" creationdate="20200322T154355Z">
@@ -29291,6 +29651,14 @@ linux-install.sh script, and execute the script with ./linux-install.sh.</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="lesia" changedate="20200324T095506Z" creationid="maximo" creationdate="20200322T113201Z">
         <seg>Тьюторіали</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Twitter</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="maximo" changedate="20200614T164007Z" creationid="maximo" creationdate="20200614T164007Z">
+        <seg>Twitter</seg>
       </tuv>
     </tu>
     <tu>
@@ -29982,12 +30350,11 @@ on line {1}, column {2}.</seg>
       </tuv>
     </tu>
     <tu>
-      <note>спитати у Кості, як називається кнопка</note>
       <tuv lang="en">
         <seg>Use &lt;g0&gt;ID comparison&lt;/g0&gt; mode to align Key=Value texts.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="lesia" changedate="20200501T203347Z">
-        <seg>Щоб вирівнювати тексти типу "ключ-значення", використовуйте режим &lt;g0&gt;Порівняння ІD&lt;/g0&gt;.</seg>
+      <tuv lang="uk-UA" changeid="maximo" changedate="20200614T164831Z">
+        <seg>Щоб вирівнювати тексти типу "ключ-значення", використовуйте режим &lt;g0&gt;За ідентифікатором&lt;/g0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -30525,6 +30892,14 @@ searchable without subscription:</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Velior</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="maximo" changedate="20200614T164245Z" creationid="maximo" creationdate="20200614T164245Z">
+        <seg>Velior</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Velior's corporate blog &lt;br0/&gt;</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="maximo" changedate="20200322T135638Z" creationid="maximo" creationdate="20200322T135638Z">
@@ -30617,6 +30992,14 @@ searchable without subscription:</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="maximo" changedate="20200405T190453Z" creationid="maximo" creationdate="20200405T190453Z">
         <seg>Вигляд...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Vincent Bidaux</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="maximo" changedate="20200614T163958Z" creationid="maximo" creationdate="20200614T163958Z">
+        <seg>Vincent Bidaux</seg>
       </tuv>
     </tu>
     <tu>
@@ -31103,6 +31486,14 @@ Your page is not found</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Windows</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="maximo" changedate="20200614T164019Z" creationid="maximo" creationdate="20200614T164019Z">
+        <seg>Windows</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Windows Resources</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20190517T152315Z" creationid="Kos Ivantsov" creationdate="20190517T152315Z">
@@ -31235,6 +31626,14 @@ Your page is not found</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20190822T134730Z" creationid="Kos Ivantsov" creationdate="20190807T103338Z">
         <seg>Обʼєк&amp;ти WordArt</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Wordfast TMX file converter</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="maximo" changedate="20200614T164207Z" creationid="maximo" creationdate="20200614T164207Z">
+        <seg>Wordfast TMX file converter</seg>
       </tuv>
     </tu>
     <tu>
@@ -32655,6 +33054,22 @@ create its configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>bitext2tmx</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="maximo" changedate="20200614T164230Z" creationid="maximo" creationdate="20200614T164230Z">
+        <seg>bitext2tmx</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>cApStAn</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="maximo" changedate="20200614T164242Z" creationid="maximo" creationdate="20200614T164242Z">
+        <seg>cApStAn</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>canceled ({0} ms elapsed)</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20190808T092838Z" creationid="Kos Ivantsov" creationdate="20190422T215530Z">
@@ -32743,6 +33158,14 @@ create its configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>dictionary</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="maximo" changedate="20200614T163919Z" creationid="maximo" creationdate="20200614T163919Z">
+        <seg>dictionary</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>done ({0} ms elapsed)</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20190808T092830Z" creationid="Kos Ivantsov" creationdate="20190422T215513Z">
@@ -32763,6 +33186,14 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="maximo" changedate="20200425T150447Z" creationid="maximo" creationdate="20200425T150447Z">
         <seg>натисніть двічі на рядок, щоб відкрити відповідний сегмент у вікні редагування,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>e-lexica</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="maximo" changedate="20200614T164243Z" creationid="maximo" creationdate="20200614T164243Z">
+        <seg>e-lexica</seg>
       </tuv>
     </tu>
     <tu>
@@ -33031,6 +33462,14 @@ create its configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>filters.xml</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="maximo" changedate="20200614T163932Z" creationid="maximo" creationdate="20200614T163932Z">
+        <seg>filters.xml</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>findInProjectReuseLastWindow</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="maximo" changedate="20200607T165634Z" creationid="maximo" creationdate="20200607T165634Z">
@@ -33051,6 +33490,22 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="lesia" changedate="20200503T063603Z" creationid="lesia" creationdate="20200503T063603Z">
         <seg>for (j in 0 ..&lt; files[i].entries.size())</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>git clone https://git.code.sf.net/p/omegat/code omegat-code</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="maximo" changedate="20200614T164037Z" creationid="maximo" creationdate="20200614T164037Z">
+        <seg>git clone https://git.code.sf.net/p/omegat/code omegat-code</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>glossary</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="maximo" changedate="20200614T163920Z" creationid="maximo" creationdate="20200614T163920Z">
+        <seg>glossary</seg>
       </tuv>
     </tu>
     <tu>
@@ -33303,6 +33758,14 @@ create its configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>https://omegat.org/</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="maximo" changedate="20200614T163947Z" creationid="maximo" creationdate="20200614T163947Z">
+        <seg>https://omegat.org/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>https://omegat.org/files/OmegaT_for_Beginners.pdf</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20190822T205037Z" creationid="Kos Ivantsov" creationdate="20190822T150834Z">
@@ -33315,6 +33778,14 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="maximo" changedate="20200614T155611Z" creationid="maximo" creationdate="20200614T155611Z">
         <seg>https://omegat.org/support</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>https://omegat.sourceforge.net/webstart/OmegaT.jnlp</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="maximo" changedate="20200614T163940Z" creationid="maximo" creationdate="20200614T163940Z">
+        <seg>https://omegat.sourceforge.net/webstart/OmegaT.jnlp</seg>
       </tuv>
     </tu>
     <tu>
@@ -33431,6 +33902,14 @@ create its configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>ignored_words.txt.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="maximo" changedate="20200614T163924Z" creationid="maximo" creationdate="20200614T163924Z">
+        <seg>ignored_words.txt.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>images/InstantGuide_1.png</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20190823T145428Z" creationid="Kos Ivantsov" creationdate="20190823T145428Z">
@@ -33533,6 +34012,14 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20190815T133539Z" creationid="Kos Ivantsov" creationdate="20190815T133539Z">
         <seg>lang (&amp;атрибут мови)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>learned_words.txt</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="maximo" changedate="20200614T163924Z" creationid="maximo" creationdate="20200614T163924Z">
+        <seg>learned_words.txt</seg>
       </tuv>
     </tu>
     <tu>
@@ -33678,6 +34165,14 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20190516T205917Z" creationid="Kos Ivantsov" creationdate="20190516T205917Z">
         <seg>omegat.kaptn</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>omegat.project (file)</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="maximo" changedate="20200614T163934Z" creationid="maximo" creationdate="20200614T163934Z">
+        <seg>omegat.project (file)</seg>
       </tuv>
     </tu>
     <tu>
@@ -34058,6 +34553,14 @@ create its configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>project_stats_match.txt</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="maximo" changedate="20200614T163930Z" creationid="maximo" creationdate="20200614T163930Z">
+        <seg>project_stats_match.txt</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>puts the pane back within the main window</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="maximo" changedate="20200614T162212Z" creationid="maximo" creationdate="20200429T205011Z">
@@ -34094,6 +34597,14 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20190420T125040Z" creationid="Kos Ivantsov" creationdate="20190420T125040Z">
         <seg>сегмент 0000</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>segmentation.conf</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="maximo" changedate="20200614T163930Z" creationid="maximo" creationdate="20200614T163930Z">
+        <seg>segmentation.conf</seg>
       </tuv>
     </tu>
     <tu>
@@ -34138,6 +34649,14 @@ create its configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>source</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="maximo" changedate="20200614T163804Z" creationid="maximo" creationdate="20200614T163804Z">
+        <seg>source</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>source = currSegment.getSrcText();</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="lesia" changedate="20200503T063607Z" creationid="lesia" creationdate="20200503T063607Z">
@@ -34158,6 +34677,22 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20190822T134812Z" creationid="Kos Ivantsov" creationdate="20190422T210744Z">
         <seg>src (URL-адреси зобра&amp;жень)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>stats.txt</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="maximo" changedate="20200614T163923Z" creationid="maximo" creationdate="20200614T163923Z">
+        <seg>stats.txt</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>target</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="maximo" changedate="20200614T163809Z" creationid="maximo" creationdate="20200614T163809Z">
+        <seg>target</seg>
       </tuv>
     </tu>
     <tu>
@@ -34223,6 +34758,46 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="maximo" changedate="20200607T165636Z" creationid="maximo" creationdate="20200607T165636Z">
         <seg>titleCaseMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>tm</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="maximo" changedate="20200614T163812Z" creationid="maximo" creationdate="20200614T163812Z">
+        <seg>tm</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>tm/auto</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="maximo" changedate="20200614T163817Z" creationid="maximo" creationdate="20200614T163817Z">
+        <seg>tm/auto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>tm/enforce</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="maximo" changedate="20200614T163904Z" creationid="maximo" creationdate="20200614T163904Z">
+        <seg>tm/enforce</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>tm/mt</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="maximo" changedate="20200614T163908Z" creationid="maximo" creationdate="20200614T163908Z">
+        <seg>tm/mt</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>tm/penalty-xxx</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="maximo" changedate="20200614T163913Z" creationid="maximo" creationdate="20200614T163913Z">
+        <seg>tm/penalty-xxx</seg>
       </tuv>
     </tu>
     <tu>
@@ -34303,6 +34878,14 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20190424T212218Z" creationid="Kos Ivantsov" creationdate="20190424T212218Z">
         <seg>trilead-ssh2 (ліцензія Trilead SSH)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>uiLayout.xml</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="maximo" changedate="20200614T163933Z" creationid="maximo" creationdate="20200614T163933Z">
+        <seg>uiLayout.xml</seg>
       </tuv>
     </tu>
     <tu>
@@ -34439,6 +35022,14 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="maximo" changedate="20200607T165707Z" creationid="maximo" creationdate="20200607T165707Z">
         <seg>viewMarkWhitespaceCheckBoxMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>weLocalize</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="maximo" changedate="20200614T164246Z" creationid="maximo" creationdate="20200614T164246Z">
+        <seg>weLocalize</seg>
       </tuv>
     </tu>
     <tu>
@@ -34647,6 +35238,14 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="lesia" changedate="20200503T063609Z" creationid="lesia" creationdate="20200503T063609Z">
         <seg>}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>×</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="maximo" changedate="20200614T164041Z" creationid="maximo" creationdate="20200614T164041Z">
+        <seg>×</seg>
       </tuv>
     </tu>
     <tu>
