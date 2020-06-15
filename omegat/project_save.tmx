@@ -24918,16 +24918,16 @@ The scope of a search is by default the project and can be set to be any files l
       <tuv lang="en">
         <seg>Switch Case To/Title Case</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="maximo" changedate="20200405T185453Z" creationid="maximo" creationdate="20200405T185428Z">
-        <seg>Змінити регістр/Починати всі слова з великої літери</seg>
+      <tuv lang="uk-UA" changeid="Asus" changedate="20200615T042707Z" creationid="maximo" creationdate="20200405T185428Z">
+        <seg>Змінити регістр/Кожне слово з великої літери</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>Switch Case To/Upper Case</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="maximo" changedate="20200405T185416Z" creationid="maximo" creationdate="20200405T185416Z">
-        <seg>Змінити регістр/На верхній</seg>
+      <tuv lang="uk-UA" changeid="Asus" changedate="20200615T042512Z" creationid="maximo" creationdate="20200405T185416Z">
+        <seg>Змінити регістр/Усе у верхньому регістрі</seg>
       </tuv>
     </tu>
     <tu>
