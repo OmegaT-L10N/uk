@@ -11118,8 +11118,8 @@ provided (omegat.kaptn).</seg>
       <tuv lang="en">
         <seg>For example, in the default OmegaT shortcuts</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="maximo" changedate="20200405T184110Z" creationid="maximo" creationdate="20200405T184040Z">
-        <seg>Для прикладу, в стандартних комбінаціях OmegaT</seg>
+      <tuv lang="uk-UA" changeid="Asus" changedate="20200615T033130Z" creationid="maximo" creationdate="20200405T184040Z">
+        <seg>Наприклад, в стандартних комбінаціях OmegaT</seg>
       </tuv>
     </tu>
     <tu>
@@ -26947,8 +26947,8 @@ in /lib/licenses/Licenses.txt.</seg>
       <tuv lang="en">
         <seg>The possible keyevents (keys) are listed in the following Java 1.6 documentation from Oracle: &lt;u0&gt;Java 1.6 keyEvents description&lt;/u0&gt;</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="maximo" changedate="20200405T184037Z" creationid="maximo" creationdate="20200405T184037Z">
-        <seg>Можливі події для клавіш перераховані в документації Java 1.6 від Oracle: &lt;u0&gt;Java 1.6 опис keyEvent&lt;/u0&gt;</seg>
+      <tuv lang="uk-UA" changeid="Asus" changedate="20200615T033026Z" creationid="maximo" creationdate="20200405T184037Z">
+        <seg>Можливі події для клавіш перераховані в документації Java 1.6 від Oracle: &lt;u0&gt;Опис Java 1.6 keyEvents&lt;/u0&gt;</seg>
       </tuv>
     </tu>
     <tu>
