@@ -13038,8 +13038,8 @@ their defaults as a result of the location change.</seg>
       <tuv lang="en">
         <seg>If they do not conflict with system shortcuts, they should be available from within OmegaT.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="maximo" changedate="20200510T162455Z" creationid="maximo" creationdate="20200405T184406Z">
-        <seg>Якщо вони не конфліктують із системними комбінаціями, то вони будуть доступні у OmegaT.</seg>
+      <tuv lang="uk-UA" changeid="Asus" changedate="20200615T040924Z" creationid="maximo" creationdate="20200405T184406Z">
+        <seg>Якщо вони не конфліктують із системними комбінаціями, то вони будуть доступні в OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13158,8 +13158,8 @@ their defaults as a result of the location change.</seg>
       <tuv lang="en">
         <seg>If you are on a Mac and you want to add a &lt;k0&gt; &lt;k1&gt;Shift&lt;/k1&gt; &lt;k2&gt;Command&lt;/k2&gt; &lt;k3&gt;S&lt;/k3&gt; &lt;/k0&gt; shortcut to &lt;m4&gt; &lt;g5&gt;Tools&lt;/g5&gt; &lt;g6&gt;Statistics&lt;/g6&gt; &lt;/m4&gt;, add the following line to your &lt;f7&gt;MainMenuShortcuts.properties&lt;/f7&gt;:</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="maximo" changedate="20200405T184336Z" creationid="maximo" creationdate="20200405T184336Z">
-        <seg>Якщо ви використовуєте Mac та бажаєте додати &lt;k0&gt; &lt;k1&gt;Shift&lt;/k1&gt; &lt;k2&gt;Command&lt;/k2&gt; &lt;k3&gt;S&lt;/k3&gt; &lt;/k0&gt; скорочення до пункту &lt;m4&gt; &lt;g5&gt;Інструменти&lt;/g5&gt; &lt;g6&gt;Статистика&lt;/g6&gt; &lt;/m4&gt;, додайте наступний рядок до вашого &lt;f7&gt;MainMenuShortcuts.properties&lt;/f7&gt;:</seg>
+      <tuv lang="uk-UA" changeid="Asus" changedate="20200615T040734Z" creationid="maximo" creationdate="20200405T184336Z">
+        <seg>Якщо ви використовуєте Mac та бажаєте додати комбінацію клавіш &lt;k0&gt; &lt;k1&gt;Shift&lt;/k1&gt; &lt;k2&gt;Command&lt;/k2&gt; &lt;k3&gt;S&lt;/k3&gt; &lt;/k0&gt; до пункту &lt;m4&gt; &lt;g5&gt;Інструменти&lt;/g5&gt; &lt;g6&gt;Статистика&lt;/g6&gt; &lt;/m4&gt;, додайте наступний рядок до вашого &lt;f7&gt;MainMenuShortcuts.properties&lt;/f7&gt;:</seg>
       </tuv>
     </tu>
     <tu>
