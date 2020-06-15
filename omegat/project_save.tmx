@@ -24894,8 +24894,8 @@ The scope of a search is by default the project and can be set to be any files l
       <tuv lang="en">
         <seg>Switch Case To/Cycle</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="maximo" changedate="20200405T185504Z" creationid="maximo" creationdate="20200405T185504Z">
-        <seg>Змінити регістр/Циклічно</seg>
+      <tuv lang="uk-UA" changeid="Asus" changedate="20200615T042805Z" creationid="maximo" creationdate="20200405T185504Z">
+        <seg>Змінити регістр/Циклічна зміна регістра</seg>
       </tuv>
     </tu>
     <tu>
@@ -24910,8 +24910,8 @@ The scope of a search is by default the project and can be set to be any files l
       <tuv lang="en">
         <seg>Switch Case To/Sentence Case</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20200502T143508Z" creationid="maximo" creationdate="20200405T185444Z">
-        <seg>Змінити регістр/Як у реченні</seg>
+      <tuv lang="uk-UA" changeid="Asus" changedate="20200615T042742Z" creationid="maximo" creationdate="20200405T185444Z">
+        <seg>Змінити регістр/Перше слово з великої літери</seg>
       </tuv>
     </tu>
     <tu>
