@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.2.0_0_747fc65a9" segtype="sentence" srclang="en"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.2.0_0_747fc65a" segtype="sentence" srclang="en"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -3822,8 +3822,8 @@ The current setting is {0}MB;</seg>
       <tuv lang="en">
         <seg>Add Glossary Entry</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="lesia" changedate="20200614T161950Z" creationid="Kos Ivantsov" creationdate="20190807T140514Z">
-        <seg>Створити запис глосарію</seg>
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200616T203841Z" creationid="Kos Ivantsov" creationdate="20190807T140514Z">
+        <seg>Створити запис глосарія</seg>
       </tuv>
     </tu>
     <tu>
@@ -3886,8 +3886,8 @@ The current setting is {0}MB;</seg>
       <tuv lang="en">
         <seg>Add terms to a glossary whilst translating in OmegaT</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="lesia" changedate="20200322T162055Z" creationid="lesia" creationdate="20200322T162055Z">
-        <seg>Додавати поняття до глосарію OmegaT під час перекладу</seg>
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200616T203841Z" creationid="lesia" creationdate="20200322T162055Z">
+        <seg>Додавати поняття до глосарія OmegaT під час перекладу</seg>
       </tuv>
     </tu>
     <tu>
@@ -3902,8 +3902,8 @@ The current setting is {0}MB;</seg>
       <tuv lang="en">
         <seg>Added {0} glossary entries from {1}</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20190701T140753Z" creationid="Kos Ivantsov" creationdate="20190701T140753Z">
-        <seg>З файлу {1} додано записів глосарію: {0}</seg>
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200616T203841Z" creationid="Kos Ivantsov" creationdate="20190701T140753Z">
+        <seg>З файлу {1} додано записів глосарія: {0}</seg>
       </tuv>
     </tu>
     <tu>
@@ -4318,8 +4318,8 @@ The current setting is {0}MB;</seg>
       <tuv lang="en">
         <seg>Allows the user create an entry in the default glossary file.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="maximo" changedate="20200608T163536Z" creationid="lesia" creationdate="20200425T143651Z">
-        <seg>Дозволяє користувачу створювати записи в стандартному файлі глосарію.</seg>
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200616T203841Z" creationid="lesia" creationdate="20200425T143651Z">
+        <seg>Дозволяє користувачу створювати записи в стандартному файлі глосарія.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4890,8 +4890,8 @@ may experience unexpected, but correct behaviour.</seg>
       <tuv lang="en">
         <seg>As entries can mix words from priority and non priority glossaries, the words from the priority glossary are displayed in bold.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="lesia" changedate="20200614T161208Z" creationid="lesia" creationdate="20200505T202731Z">
-        <seg>Записи із пріоритетного та непріоритетного глосаріїв можуть відображатися в області глосарію непослідовно, тож для зручності слова з пріоритетного глосарію виділені напівжирним шрифтом.</seg>
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200616T203841Z" creationid="lesia" creationdate="20200505T202731Z">
+        <seg>Записи із пріоритетного та непріоритетного глосаріїв можуть відображатися в області глосарія непослідовно, тож для зручності слова з пріоритетного глосарія виділені напівжирним шрифтом.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9804,8 +9804,8 @@ Your help page not found</seg>
       <tuv lang="en">
         <seg>Entries from the writeable glossary are in bold.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="lesia" changedate="20200614T161950Z" creationid="Kos Ivantsov" creationdate="20190807T182136Z">
-        <seg>Жирним шрифтом позначаються елементи з глосарію для запису.</seg>
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200616T203841Z" creationid="Kos Ivantsov" creationdate="20190807T182136Z">
+        <seg>Жирним шрифтом позначаються елементи з глосарія для запису.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10000,8 +10000,8 @@ No one hears your screams</seg>
       <tuv lang="en">
         <seg>Error updating glossary file</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="lesia" changedate="20200614T161950Z" creationid="Kos Ivantsov" creationdate="20190817T205829Z">
-        <seg>Помилка під час оновлення файлу глосарію</seg>
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200616T203841Z" creationid="Kos Ivantsov" creationdate="20190817T205829Z">
+        <seg>Помилка під час оновлення файлу глосарія</seg>
       </tuv>
     </tu>
     <tu>
@@ -11734,16 +11734,16 @@ provided (omegat.kaptn).</seg>
       <tuv lang="en">
         <seg>Glossary file: {0}</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="lesia" changedate="20200614T161950Z" creationid="Kos Ivantsov" creationdate="20190821T145913Z">
-        <seg>Файл глосарію: {0}</seg>
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200616T203841Z" creationid="Kos Ivantsov" creationdate="20190821T145913Z">
+        <seg>Файл глосарія: {0}</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>Glossary files are simple plain text files containing three-column, tab-delimited lists with the source and target terms in the first and second columns respectively.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="lesia" changedate="20200614T161054Z" creationid="lesia" creationdate="20200505T191944Z">
-        <seg>Файли глосарію - це прості текстові файли, у яких терміни мов оригіналу та перекладу сформовані у колонки, відділені одна від одної табуляцією. Перша колонка містить термін оригіналу, друга - перекладу.</seg>
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200616T203841Z" creationid="lesia" creationdate="20200505T191944Z">
+        <seg>Файли глосарія - це прості текстові файли, у яких терміни мов оригіналу та перекладу сформовані у колонки, відділені одна від одної табуляцією. Перша колонка містить термін оригіналу, друга - перекладу.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11774,8 +11774,8 @@ provided (omegat.kaptn).</seg>
       <tuv lang="en">
         <seg>Glossary pane: Dropped files with known glossary extensions (&lt;f0&gt;.txt&lt;/f0&gt;, &lt;f1&gt;.tab&lt;/f1&gt;, etc.) will be copied to the &lt;f2&gt;glossary&lt;/f2&gt; folder.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="maximo" changedate="20200614T162345Z" creationid="maximo" creationdate="20200429T210659Z">
-        <seg>Для області глосарію: Якщо скопіювати туди файл з відомим розширенням файлів глосаріїв (&lt;f0&gt;.txt&lt;/f0&gt;, &lt;f1&gt;.tab&lt;/f1&gt;, і т.п.), то його буде скопійовано у теку &lt;f2&gt;glossary&lt;/f2&gt;.</seg>
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200616T203841Z" creationid="maximo" creationdate="20200429T210659Z">
+        <seg>Для області глосарія: Якщо скопіювати туди файл з відомим розширенням файлів глосаріїв (&lt;f0&gt;.txt&lt;/f0&gt;, &lt;f1&gt;.tab&lt;/f1&gt;, і т.п.), то його буде скопійовано у теку &lt;f2&gt;glossary&lt;/f2&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12132,8 +12132,8 @@ Its winter has come</seg>
       <tuv lang="en">
         <seg>Highlighting it in the Glossary pane and then rightclicking insets at the cursor position in the target segment.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="lesia" changedate="20200614T161051Z" creationid="lesia" creationdate="20200505T190906Z">
-        <seg>Якщо виділити слово у області Глосарію, клікнути правою кнопкою миші та обрати Вставити вибране, тоді слово вставиться на місце курсора в сегменті перекладу.</seg>
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200616T203841Z" creationid="lesia" creationdate="20200505T190906Z">
+        <seg>Якщо виділити слово у області глосарія, клікнути правою кнопкою миші та обрати Вставити вибране, тоді слово вставиться на місце курсора в сегменті перекладу.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12543,8 +12543,8 @@ need not be entered.)</seg>
       <tuv lang="en">
         <seg>If both this option and the &lt;l0&gt;&lt;g1&gt;Insert the source text&lt;/g1&gt;&lt;/l0&gt; option are selected, all words with a corresponding glossary entry will be translated automatically when the source text is inserted.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="lesia" changedate="20200418T192054Z" creationid="maximo" creationdate="20200412T141325Z">
-        <seg>Якщо ця опція, а також опція &lt;l0&gt;&lt;g1&gt;Вставити текст оригіналу&lt;/g1&gt;&lt;/l0&gt; увімкнуті, всі слова, для яких є відповідна стаття глосарію, будуть замінені автоматично, коли вставляється текст оригіналу.</seg>
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200616T203841Z" creationid="maximo" creationdate="20200412T141325Z">
+        <seg>Якщо ця опція, а також опція &lt;l0&gt;&lt;g1&gt;Вставити текст оригіналу&lt;/g1&gt;&lt;/l0&gt; увімкнуті, всі слова, для яких є відповідна стаття глосарія, будуть замінені автоматично, коли вставляється текст оригіналу.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13288,8 +13288,8 @@ Explorer), change the settings so that file extensions are displayed.</seg>
       <tuv lang="en">
         <seg>If you have TransTips option activated (&lt;g0&gt;Options → TransTips&lt;/g0&gt;), you can right click on the highlighted word in the source segment to open a pop-up menu with suggested translation, as offered by your glossary.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="lesia" changedate="20200614T161950Z" creationid="maximo" creationdate="20200503T054135Z">
-        <seg>Якщо у вас включена функція підказки перекладу (&lt;g0&gt;Налаштування → Підказки перекладу&lt;/g0&gt;), ви можете натиснути правою кнопкою на підсвічене слово у оригінальному сегменті. В результаті відкриється меню з варіантами перекладу з вашого глосарію.</seg>
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200616T203841Z" creationid="maximo" creationdate="20200503T054135Z">
+        <seg>Якщо у вас включена функція підказки перекладу (&lt;g0&gt;Налаштування → Підказки перекладу&lt;/g0&gt;), ви можете натиснути правою кнопкою на підсвічене слово у оригінальному сегменті. В результаті відкриється меню з варіантами перекладу з вашого глосарія.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13442,8 +13442,8 @@ to use Java Web Start.</seg>
       <tuv lang="en">
         <seg>If you right click on the Editor pane, a pop-up menu opens, offering&lt;e0&gt; Cut, Copy, Paste&lt;/e0&gt; (i.e. same functions as &lt;k1&gt; &lt;k2&gt;Ctrl&lt;/k2&gt; &lt;k3&gt;X&lt;/k3&gt; &lt;/k1&gt;, &lt;k4&gt; &lt;k5&gt;Ctrl&lt;/k5&gt; &lt;k6&gt;C&lt;/k6&gt; &lt;/k4&gt; and &lt;k7&gt; &lt;k8&gt;Ctrl&lt;/k8&gt; &lt;k9&gt;V&lt;/k9&gt; &lt;/k7&gt;), &lt;e10&gt;GoTo segment&lt;/e10&gt; and &lt;e11&gt;Add glossary entry&lt;/e11&gt; functions.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="lesia" changedate="20200614T161950Z" creationid="maximo" creationdate="20200501T201536Z">
-        <seg>Якщо ви натиснете правою кнопкою на вікно редагування, відкриється меню із командами &lt;e0&gt;Вирізати, Копіювати, Вставити&lt;/e0&gt; (тобто з тим самим функціоналом, що і &lt;k1&gt; &lt;k2&gt;Ctrl&lt;/k2&gt; &lt;k3&gt;X&lt;/k3&gt; &lt;/k1&gt;, &lt;k4&gt; &lt;k5&gt;Ctrl&lt;/k5&gt; &lt;k6&gt;C&lt;/k6&gt; &lt;/k4&gt; та &lt;k7&gt; &lt;k8&gt;Ctrl&lt;/k8&gt; &lt;k9&gt;V&lt;/k9&gt; &lt;/k7&gt;), &lt;e10&gt;Перейти до сегмента&lt;/e10&gt; та &lt;e11&gt;Створити запис глосарію&lt;/e11&gt;.</seg>
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200616T203841Z" creationid="maximo" creationdate="20200501T201536Z">
+        <seg>Якщо ви натиснете правою кнопкою на вікно редагування, відкриється меню із командами &lt;e0&gt;Вирізати, Копіювати, Вставити&lt;/e0&gt; (тобто з тим самим функціоналом, що і &lt;k1&gt; &lt;k2&gt;Ctrl&lt;/k2&gt; &lt;k3&gt;X&lt;/k3&gt; &lt;/k1&gt;, &lt;k4&gt; &lt;k5&gt;Ctrl&lt;/k5&gt; &lt;k6&gt;C&lt;/k6&gt; &lt;/k4&gt; та &lt;k7&gt; &lt;k8&gt;Ctrl&lt;/k8&gt; &lt;k9&gt;V&lt;/k9&gt; &lt;/k7&gt;), &lt;e10&gt;Перейти до сегмента&lt;/e10&gt; та &lt;e11&gt;Створити запис глосарія&lt;/e11&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13733,8 +13733,8 @@ click on that shortcut.</seg>
       <tuv lang="en">
         <seg>In addition, two menu entries allow opening directly the current source and target documents and the writable glossary.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="maximo" changedate="20200425T145310Z" creationid="maximo" creationdate="20200425T145113Z">
-        <seg>Наприклад, є окремі пункти меню, що відкривають теки документів для перекладу, перекладених документів, та глосарію, відкритого для редагування.</seg>
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200616T203841Z" creationid="maximo" creationdate="20200425T145113Z">
+        <seg>Наприклад, є окремі пункти меню, що відкривають теки документів для перекладу, перекладених документів, та глосарія, відкритого для редагування.</seg>
       </tuv>
     </tu>
     <tu>
@@ -14711,8 +14711,8 @@ click on that shortcut.</seg>
       <tuv lang="en">
         <seg>It also displays the number of fuzzy and glossary matches for the current segment.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="lesia" changedate="20200614T161950Z" creationid="maximo" creationdate="20200503T060408Z">
-        <seg>Також він відображає кількість нечітких збігів та знайдених статей глосарію для поточного сегмента.</seg>
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200616T203841Z" creationid="maximo" creationdate="20200503T060408Z">
+        <seg>Також він відображає кількість нечітких збігів та знайдених статей глосарія для поточного сегмента.</seg>
       </tuv>
     </tu>
     <tu>
@@ -15973,8 +15973,8 @@ itself on the first run.</seg>
       <tuv lang="en">
         <seg>Loading glossary {0}</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="lesia" changedate="20200614T161950Z" creationid="Kos Ivantsov" creationdate="20190517T143210Z">
-        <seg>Завантаження глосарію {0}</seg>
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200616T203841Z" creationid="Kos Ivantsov" creationdate="20190517T143210Z">
+        <seg>Завантаження глосарія {0}</seg>
       </tuv>
     </tu>
     <tu>
@@ -17324,8 +17324,8 @@ as the Applications folder.</seg>
       <tuv lang="en">
         <seg>New terms can be added manually to the glossary file(s) during translation, for example in a text editor.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="lesia" changedate="20200510T172350Z" creationid="lesia" creationdate="20200504T162536Z">
-        <seg>Нові терміни можна додавати до глосарію вручну під час перекладу, наприклад, у текстовому редакторі.</seg>
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200616T203841Z" creationid="lesia" creationdate="20200504T162536Z">
+        <seg>Нові терміни можна додавати до глосарія вручну під час перекладу, наприклад, у текстовому редакторі.</seg>
       </tuv>
     </tu>
     <tu>
@@ -17511,8 +17511,8 @@ as the Applications folder.</seg>
       <tuv lang="en">
         <seg>No glossary file found in the "glossary" folder.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="lesia" changedate="20200614T161225Z" creationid="lesia" creationdate="20200505T203006Z">
-        <seg>Не знайдено файлів глосарію у теці "glossary".</seg>
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200616T203841Z" creationid="lesia" creationdate="20200505T203006Z">
+        <seg>Не знайдено файлів глосарія у теці "glossary".</seg>
       </tuv>
     </tu>
     <tu>
@@ -19191,8 +19191,8 @@ installed on your system.</seg>
       <tuv lang="en">
         <seg>Open Writable Glossary File</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="lesia" changedate="20200614T161950Z" creationid="Kos Ivantsov" creationdate="20190807T145014Z">
-        <seg>Відкрити файл глосарію, в який відбувається запис</seg>
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200616T203841Z" creationid="Kos Ivantsov" creationdate="20190807T145014Z">
+        <seg>Відкрити файл глосарія, в який відбувається запис</seg>
       </tuv>
     </tu>
     <tu>
@@ -20592,16 +20592,16 @@ project without team functionality.</seg>
       <tuv lang="en">
         <seg>Problem: In the glossary pane, some characters are not displayed properly</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="lesia" changedate="20200614T161404Z" creationid="lesia" creationdate="20200505T203712Z">
-        <seg>Проблема: у вікні глосарію деякі символи відображуються некоректно</seg>
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200616T203841Z" creationid="lesia" creationdate="20200505T203712Z">
+        <seg>Проблема: у вікні глосарія деякі символи відображуються некоректно</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>Problem: No glossary terms are displayed - possible causes:</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="lesia" changedate="20200614T161222Z" creationid="lesia" creationdate="20200505T202933Z">
-        <seg>Проблема: записи глосарію не відображаються. Можливі причини:</seg>
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200616T203841Z" creationid="lesia" creationdate="20200505T202933Z">
+        <seg>Проблема: записи глосарія не відображаються. Можливі причини:</seg>
       </tuv>
     </tu>
     <tu>
@@ -22182,8 +22182,8 @@ These words: 'Page not found'</seg>
       <tuv lang="en">
         <seg>Right-click in the glossary pane or press &lt;k0&gt;Ctrl+Shift+G&lt;/k0&gt; to add a new entry.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="lesia" changedate="20200614T161109Z" creationid="lesia" creationdate="20200505T195445Z">
-        <seg>Щоб створити новий запис, натисніть правою кнопкою миші у вікні глосарію (або комбінацію клавіш  &lt;k0&gt;Ctrl+Shift+G&lt;/k0&gt;).</seg>
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200616T203841Z" creationid="lesia" creationdate="20200505T195445Z">
+        <seg>Щоб створити новий запис, натисніть правою кнопкою миші у вікні глосарія (або комбінацію клавіш  &lt;k0&gt;Ctrl+Shift+G&lt;/k0&gt;).</seg>
       </tuv>
     </tu>
     <tu>
@@ -24109,8 +24109,8 @@ The scope of a search is by default the project and can be set to be any files l
       <tuv lang="en">
         <seg>So the inserted "pojavni meni" in the nominative form - has to be changed to "pojavnem meniju" , i.e. to the locative.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="lesia" changedate="20200614T154648Z" creationid="lesia" creationdate="20200505T191146Z">
-        <seg>Якщо термін стоятиме в сегменті не у називному відмінку, вставлену із глосарію пропозицію потрібно буде провідміняти.</seg>
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200616T203841Z" creationid="lesia" creationdate="20200505T191146Z">
+        <seg>Якщо термін стоятиме в сегменті не у називному відмінку, вставлену із глосарія пропозицію потрібно буде провідміняти.</seg>
       </tuv>
     </tu>
     <tu>
@@ -25684,8 +25684,8 @@ current folder will be used instead.</seg>
       <tuv lang="en">
         <seg>The Glossary pane allows you to access your own collection of expressions and specialist terminology which you have built up in your glossary files.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="maximo" changedate="20200614T163754Z" creationid="maximo" creationdate="20200503T053515Z">
-        <seg>Область глосарію відкриває доступ до вашої власної колекції виразів та термінології, яку ви збираєте у файли глосаріїв.</seg>
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200616T203841Z" creationid="maximo" creationdate="20200503T053515Z">
+        <seg>Область глосарія відкриває доступ до вашої власної колекції виразів та термінології, яку ви збираєте у файли глосаріїв.</seg>
       </tuv>
     </tu>
     <tu>
@@ -26168,16 +26168,16 @@ instead.</seg>
       <tuv lang="en">
         <seg>The contents of glossary files are kept in memory and are loaded when the project is opened or reloaded.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="maximo" changedate="20200607T164130Z" creationid="lesia" creationdate="20200505T195630Z">
-        <seg>Зміст файлів глосарію зберігається в оперативній пам'яті, і оновлюється коли проєкт відкривається або перезавантажується.</seg>
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200616T203841Z" creationid="lesia" creationdate="20200505T195630Z">
+        <seg>Зміст файлів глосарія зберігається в оперативній пам'яті, і оновлюється коли проєкт відкривається або перезавантажується.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>The contents of the glossary pane will be updated accordingly.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="lesia" changedate="20200614T161123Z" creationid="lesia" creationdate="20200505T200725Z">
-        <seg>Вміст вікна глосарію буде оновлено.</seg>
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200616T203841Z" creationid="lesia" creationdate="20200505T200725Z">
+        <seg>Вміст вікна глосарія буде оновлено.</seg>
       </tuv>
     </tu>
     <tu>
@@ -26531,24 +26531,24 @@ instead.</seg>
       <tuv lang="en">
         <seg>The glossary file does not have the correct encoding.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="lesia" changedate="20200614T161348Z" creationid="lesia" creationdate="20200505T203523Z">
-        <seg>Файл глосарію має неправильне кодування.</seg>
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200616T203841Z" creationid="lesia" creationdate="20200505T203523Z">
+        <seg>Файл глосарія має неправильне кодування.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>The glossary file does not have the correct extension (.tab, .utf8 or .txt).</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="lesia" changedate="20200614T161243Z" creationid="lesia" creationdate="20200505T203139Z">
-        <seg>Файл глосарію має неправильне розширення (необхідні розширення - .tab, .utf8 чи .txt).</seg>
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200616T203841Z" creationid="lesia" creationdate="20200505T203139Z">
+        <seg>Файл глосарія має неправильне розширення (необхідні розширення - .tab, .utf8 чи .txt).</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>The glossary file is empty.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="lesia" changedate="20200614T161237Z" creationid="lesia" creationdate="20200505T203023Z">
-        <seg>Файл глосарію порожній.</seg>
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200616T203841Z" creationid="lesia" creationdate="20200505T203023Z">
+        <seg>Файл глосарія порожній.</seg>
       </tuv>
     </tu>
     <tu>
@@ -26556,8 +26556,8 @@ instead.</seg>
       <tuv lang="en">
         <seg>The glossary function only finds exact matches with the glossary entry (e.g. does not find inflected forms etc.).</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="lesia" changedate="20200614T161037Z" creationid="lesia" creationdate="20200504T155722Z">
-        <seg>Функція глосарію залежить від наявності токенізації для кожної конкретної мови. Якщо токенізації для вашої мови немає - флексії не розпізнаються, і будуть знаходитися лише точні збіги зі словами в сегменті оригіналу. Якщо ж токенізація для вашої мови є - знаходитимуться і флективні форми слів.</seg>
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200616T203841Z" creationid="lesia" creationdate="20200504T155722Z">
+        <seg>Функція глосарія залежить від наявності токенізації для кожної конкретної мови. Якщо токенізації для вашої мови немає - флексії не розпізнаються, і будуть знаходитися лише точні збіги зі словами в сегменті оригіналу. Якщо ж токенізація для вашої мови є - знаходитимуться і флективні форми слів.</seg>
       </tuv>
     </tu>
     <tu>
@@ -26701,16 +26701,16 @@ in /lib/licenses/Licenses.txt.</seg>
       <tuv lang="en">
         <seg>The location of the file must be within the &lt;f2&gt;/glossary&lt;/f2&gt; folder, but it can be in a deeper folder (e.g., &lt;f3&gt;glossary/sub/glossary.txt&lt;/f3&gt;).</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="lesia" changedate="20200614T160956Z" creationid="maximo" creationdate="20200404T171120Z">
-        <seg>Файл глосарію має знаходитися у теці &lt;f2&gt;/glossary&lt;/f2&gt;, але він може також бути у глибшій теці (наприклад, &lt;f3&gt;glossary/sub/glossary.txt&lt;/f3&gt;).</seg>
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200616T203841Z" creationid="maximo" creationdate="20200404T171120Z">
+        <seg>Файл глосарія має знаходитися у теці &lt;f2&gt;/glossary&lt;/f2&gt;, але він може також бути у глибшій теці (наприклад, &lt;f3&gt;glossary/sub/glossary.txt&lt;/f3&gt;).</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>The location of the writable glossary file can be set in the &lt;g0&gt;Project &gt; Properties ... &lt;/g0&gt;dialog.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="lesia" changedate="20200614T161137Z" creationid="lesia" creationdate="20200505T200959Z">
-        <seg>Місце розташування файлу глосарію, в який будуть додаватися записи, можна вибрати, зайшовши у &lt;g0&gt;Проєкт &gt; Властивості ... &lt;/g0&gt;.</seg>
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200616T203841Z" creationid="lesia" creationdate="20200505T200959Z">
+        <seg>Місце розташування файлу глосарія, в який будуть додаватися записи, можна вибрати, зайшовши у &lt;g0&gt;Проєкт &gt; Властивості ... &lt;/g0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -27053,8 +27053,8 @@ in /lib/licenses/Licenses.txt.</seg>
       <tuv lang="en">
         <seg>The project setting allows one to enter a name for a writable glossary file (see beginning of this chapter).</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="Asus" changedate="20200610T142406Z" creationid="lesia" creationdate="20200505T195242Z">
-        <seg>Налаштування проєкту дають можливість ввести назву для того файлу глосарію, який можна буде редагувати (детальніше на початку розділу).</seg>
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200616T203841Z" creationid="lesia" creationdate="20200505T195242Z">
+        <seg>Налаштування проєкту дають можливість ввести назву для того файлу глосарія, який можна буде редагувати (детальніше на початку розділу).</seg>
       </tuv>
     </tu>
     <tu>
@@ -27584,8 +27584,8 @@ in /lib/licenses/Licenses.txt.</seg>
       <tuv lang="en">
         <seg>The underlined item "pop-up menu" can be found in the glossary pane as "pojavni menu".</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="lesia" changedate="20200614T152814Z" creationid="lesia" creationdate="20200504T165038Z">
-        <seg>В області глосарію відображується український відповідник підкресленого терміну "file filters" - "фільтри файлів".</seg>
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200616T203841Z" creationid="lesia" creationdate="20200504T165038Z">
+        <seg>В області глосарія відображується український відповідник підкресленого терміну "file filters" - "фільтри файлів".</seg>
       </tuv>
     </tu>
     <tu>
@@ -27656,16 +27656,16 @@ in /lib/licenses/Licenses.txt.</seg>
       <tuv lang="en">
         <seg>The writeable glossary file is not in the glossary folder.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="lesia" changedate="20200614T161950Z" creationid="Kos Ivantsov" creationdate="20190807T191338Z">
-        <seg>Файл глосарію для запису повинен розмішуватися у теці для глосаріїв.</seg>
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200616T203841Z" creationid="Kos Ivantsov" creationdate="20190807T191338Z">
+        <seg>Файл глосарія для запису повинен розмішуватися у теці для глосаріїв.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>The writeable glossary file must be inside the glossary folder</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="lesia" changedate="20200614T161950Z" creationid="Kos Ivantsov" creationdate="20190516T181045Z">
-        <seg>Файл глосарію для запису повинен міститися в теці для глосаріїв</seg>
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200616T203841Z" creationid="Kos Ivantsov" creationdate="20190516T181045Z">
+        <seg>Файл глосарія для запису повинен міститися в теці для глосаріїв</seg>
       </tuv>
     </tu>
     <tu>
@@ -27728,8 +27728,8 @@ in /lib/licenses/Licenses.txt.</seg>
       <tuv lang="en">
         <seg>There are no terms in the current segment which match any terms in the glossary.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="lesia" changedate="20200614T161351Z" creationid="lesia" creationdate="20200505T203525Z">
-        <seg>У виділеному сегменті немає термінів, записаних до глосарію.</seg>
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200616T203841Z" creationid="lesia" creationdate="20200505T203525Z">
+        <seg>У виділеному сегменті немає термінів, записаних до глосарія.</seg>
       </tuv>
     </tu>
     <tu>
@@ -29909,8 +29909,8 @@ Exact searches match the whole search string.</seg>
       <tuv lang="en">
         <seg>Uncheck this option if the context description shown for each glossary entry is unnecessary or too long.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="maximo" changedate="20200412T140644Z" creationid="maximo" creationdate="20200412T140644Z">
-        <seg>Вимкніть цю опцію, якщо опис контексту у вікні глосарію непотрібний чи просто задовгий.</seg>
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200616T203841Z" creationid="maximo" creationdate="20200412T140644Z">
+        <seg>Вимкніть цю опцію, якщо опис контексту у вікні глосарія непотрібний чи просто задовгий.</seg>
       </tuv>
     </tu>
     <tu>
@@ -31668,24 +31668,24 @@ Your page is not found</seg>
       <tuv lang="en">
         <seg>Writeable Glossary File</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="lesia" changedate="20200614T161950Z" creationid="Kos Ivantsov" creationdate="20190504T132910Z">
-        <seg>Файл глосарію для запису</seg>
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200616T203841Z" creationid="Kos Ivantsov" creationdate="20190504T132910Z">
+        <seg>Файл глосарія для запису</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>Writeable Glossary File:</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="lesia" changedate="20200614T161950Z" creationid="Kos Ivantsov" creationdate="20190504T132216Z">
-        <seg>Файл глосарію для запису:</seg>
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200616T203841Z" creationid="Kos Ivantsov" creationdate="20190504T132216Z">
+        <seg>Файл глосарія для запису:</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>Writeable glossary file folder entered does not exist!</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="lesia" changedate="20200614T161950Z" creationid="Kos Ivantsov" creationdate="20190516T181003Z">
-        <seg>Вказана тека для глосарію для запису не існує!</seg>
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200616T203841Z" creationid="Kos Ivantsov" creationdate="20190516T181003Z">
+        <seg>Вказана тека для глосарія для запису не існує!</seg>
       </tuv>
     </tu>
     <tu>
@@ -31989,8 +31989,8 @@ can then launch the Kaptain launch script with:</seg>
       <tuv lang="en">
         <seg>You can add a new term to the glossary by pressing &lt;k0&gt;Ctrl+Shift+G&lt;/k0&gt;, or copy existing glossaries to the &lt;f1&gt;/glossary/&lt;/f1&gt; subfolder of your project folder, and OmegaT will automatically look up words in them.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="lesia" changedate="20200614T161950Z" creationid="Kos Ivantsov" creationdate="20190822T204044Z">
-        <seg>Щоб додати новий термін до глосарію, потрібно натиснути &lt;k0&gt;Ctrl+Shift+G&lt;/k0&gt;. Якщо скопіювати файли глосаріїв у призначену для них теку (у типовій конфігурації — підтека &lt;f1&gt;glossary&lt;/f1&gt; у теці проєкту), OmegaT автоматично почне шукати слова в них.</seg>
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200616T203841Z" creationid="Kos Ivantsov" creationdate="20190822T204044Z">
+        <seg>Щоб додати новий термін до глосарія, потрібно натиснути &lt;k0&gt;Ctrl+Shift+G&lt;/k0&gt;. Якщо скопіювати файли глосаріїв у призначену для них теку (у типовій конфігурації — підтека &lt;f1&gt;glossary&lt;/f1&gt; у теці проєкту), OmegaT автоматично почне шукати слова в них.</seg>
       </tuv>
     </tu>
     <tu>
@@ -32045,8 +32045,8 @@ can then launch the Kaptain launch script with:</seg>
       <tuv lang="en">
         <seg>You can also highlight your preferred alternative in the glossary pane and insert it into the target by right clicking on the selection.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="maximo" changedate="20200503T054749Z" creationid="maximo" creationdate="20200503T054749Z">
-        <seg>Також ви можете виділити потрібний варіант в панелі глосарію та вставити його натиснувши праву кнопку миші.</seg>
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200616T203841Z" creationid="maximo" creationdate="20200503T054749Z">
+        <seg>Також ви можете виділити потрібний варіант в панелі глосарія та вставити його натиснувши праву кнопку миші.</seg>
       </tuv>
     </tu>
     <tu>
@@ -32170,8 +32170,8 @@ start menu, the desktop or the quick launch area to link it from there.</seg>
       <tuv lang="en">
         <seg>You can create glossary entries with Create Glossary Entry in the Edit menu.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="lesia" changedate="20200614T161950Z" creationid="Kos Ivantsov" creationdate="20190807T182030Z">
-        <seg>Записи глосарію можна створити, вибравши пункт «Створити запис у глосарії» в меню «Редагування».</seg>
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200616T203841Z" creationid="Kos Ivantsov" creationdate="20190807T182030Z">
+        <seg>Записи глосарія можна створити, вибравши пункт «Створити запис у глосарії» в меню «Редагування».</seg>
       </tuv>
     </tu>
     <tu>
@@ -32416,8 +32416,8 @@ installation script (linux-install.sh).</seg>
       <tuv lang="en">
         <seg>You define its location and name in the project properties dialog.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="lesia" changedate="20200614T160950Z" creationid="maximo" creationdate="20200404T170913Z">
-        <seg>Ви визначаєте місце розташування та назву глосарію у діалозі Властивості проєкту.</seg>
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200616T203841Z" creationid="maximo" creationdate="20200404T170913Z">
+        <seg>Ви визначаєте місце розташування та назву глосарія у діалозі Властивості проєкту.</seg>
       </tuv>
     </tu>
     <tu>
@@ -34111,8 +34111,8 @@ create its configuration folder.</seg>
       <tuv lang="en">
         <seg>multiple words entries in glossaries - example</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="maximo" changedate="20200614T154601Z" creationid="lesia" creationdate="20200504T165035Z">
-        <seg>Приклад кількох статтей глосарію до одного терміна оригіналу</seg>
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200616T203841Z" creationid="lesia" creationdate="20200504T165035Z">
+        <seg>Приклад кількох статтей глосарія до одного терміна оригіналу</seg>
       </tuv>
     </tu>
     <tu>
@@ -35880,8 +35880,8 @@ create its configuration folder.</seg>
       <tuv lang="en">
         <seg>Newly added terms will not be recognized once the changes in the text file have been saved.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="Asus" changedate="20200610T094529Z" creationid="Asus" creationdate="20200610T094529Z">
-        <seg>Щойно ви збережете файл глосарію, зміни стануть доступні у програмі.</seg>
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200616T203841Z" creationid="Asus" creationdate="20200610T094529Z">
+        <seg>Щойно ви збережете файл глосарія, зміни стануть доступні у програмі.</seg>
       </tuv>
     </tu>
     <tu>
