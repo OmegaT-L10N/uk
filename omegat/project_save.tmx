@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.2.0_0_747fc65a" segtype="sentence" srclang="en"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.2.0_0_747fc65a9" segtype="sentence" srclang="en"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -2417,8 +2417,8 @@ The current setting is {0}MB;</seg>
       <tuv lang="en">
         <seg>&lt;e0&gt;Adding files to the project: &lt;/e0&gt;You can add source files to the project by clicking on the "&lt;g1&gt;Import Source Files..."&lt;/g1&gt; button.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="maximo" changedate="20200614T165211Z" creationid="lesia" creationdate="20200429T202826Z">
-        <seg>&lt;e0&gt;Додавати файли до проєкту: &lt;/e0&gt;Ви можете додати до проєкту файли для перекладу, натиснувши кнопку &lt;g1&gt;Скопіювати документи до теки з файлами для перекладу...&lt;/g1&gt;.</seg>
+      <tuv lang="uk-UA" changeid="maximo" changedate="20200616T120843Z" creationid="lesia" creationdate="20200429T202826Z">
+        <seg>&lt;e0&gt;Як додавати файли до проєкту: &lt;/e0&gt;Ви можете додати до проєкту файли для перекладу, натиснувши кнопку &lt;g1&gt;Скопіювати документи до теки з файлами для перекладу...&lt;/g1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
