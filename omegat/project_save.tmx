@@ -1644,8 +1644,8 @@ To add files to the project, click on the Copy Files to Source Folder... button 
       <tuv lang="en">
         <seg>(The definition of “unique” is case-sensitive: "Run" and "run" are treated as being different)</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="maximo" changedate="20200607T171750Z" creationid="lesia" creationdate="20200429T202818Z">
-        <seg>(“унікальність” враховує регістр символів: "Запуск" та "запуск" не є повтором)</seg>
+      <tuv lang="uk-UA" changeid="maximo" changedate="20200616T121005Z" creationid="lesia" creationdate="20200429T202818Z">
+        <seg>(“Унікальність” враховує регістр символів: "Запуск" та "запуск" не є повтором)</seg>
       </tuv>
     </tu>
     <tu>
@@ -34744,8 +34744,8 @@ create its configuration folder.</seg>
       <tuv lang="en">
         <seg>the total number of segments, the number of unique segments in the whole project, and the number of unique segments already translated are shown at the bottom</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="lesia" changedate="20200429T202814Z" creationid="lesia" creationdate="20200429T202814Z">
-        <seg>загальну кількість сегментів, кількість унікальних сегментів у всьому проєкті та кількість перекладених унікальних сегментів. Ця інформація знаходиться внизу вікна.</seg>
+      <tuv lang="uk-UA" changeid="maximo" changedate="20200616T121023Z" creationid="lesia" creationdate="20200429T202814Z">
+        <seg>Загальна кількість сегментів, кількість унікальних сегментів у всьому проєкті та кількість перекладених унікальних сегментів. Ця інформація знаходиться внизу вікна.</seg>
       </tuv>
     </tu>
     <tu>
