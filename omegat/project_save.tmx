@@ -5366,8 +5366,8 @@ Buy another drink</seg>
       <tuv lang="en">
         <seg>Before the spell check function can be used, a suitable dictionary or dictionaries (i.e. for your target language) must be installed.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="maximo" changedate="20200607T170338Z" creationid="maximo" creationdate="20200411T103942Z">
-        <seg>Щоб використовувати функцію перевірки правопису ви маєте спершу встановити словники для потрібної мови.</seg>
+      <tuv lang="uk-UA" changeid="Asus" changedate="20200616T041502Z" creationid="maximo" creationdate="20200411T103942Z">
+        <seg>Щоб використовувати функцію перевірки правопису, ви маєте спершу встановити словники для потрібної мови.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6270,7 +6270,7 @@ Buy another drink</seg>
       <tuv lang="en">
         <seg>Check however that the language codes are exactly the same: an FR-FR dictionary will not work with an FR target setting, for example.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="maximo" changedate="20200411T133911Z" creationid="maximo" creationdate="20200411T133911Z">
+      <tuv lang="uk-UA" changeid="Asus" changedate="20200616T045405Z" creationid="maximo" creationdate="20200411T133911Z">
         <seg>Але обов'язково перевірте, щоб коди були однакові. Наприклад, словник FR-FR не буде працювати для цільової мови FR.</seg>
       </tuv>
     </tu>
@@ -7378,8 +7378,8 @@ Buy another drink</seg>
       <tuv lang="en">
         <seg>Copying the files manually makes sense if you already have suitable dictionary files on your system, for instance as part of your Apache OpenOffice, LibreOffice, Firefox or Thunderbird installation.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="maximo" changedate="20200411T105934Z" creationid="maximo" creationdate="20200411T105934Z">
-        <seg>Копіювання файлів словників самостійно має сенс лише якщо у вас вже встановлені відповідні словники, наприклад, для Apache OpenOffice, LibreOffice, Firefox чи Thunderbird.</seg>
+      <tuv lang="uk-UA" changeid="Asus" changedate="20200616T043134Z" creationid="maximo" creationdate="20200411T105934Z">
+        <seg>Копіювання файлів словників самостійно має сенс, лише якщо у вас вже встановлені відповідні словники, наприклад, для Apache OpenOffice, LibreOffice, Firefox чи Thunderbird.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11102,8 +11102,8 @@ provided (omegat.kaptn).</seg>
       <tuv lang="en">
         <seg>For example, if you have selected ES-MX (Mexican Spanish) as the target language, the dictionary files must be named es_MX.dic and es_MX.aff.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="maximo" changedate="20200411T111248Z" creationid="maximo" creationdate="20200411T111248Z">
-        <seg>Наприклад, якщо ви обрали ES-MX (мексиканська іспанська) як цільову мову, то файли словників мусять називатися es_MX.dic та es_MX.aff.</seg>
+      <tuv lang="uk-UA" changeid="Asus" changedate="20200616T045339Z" creationid="maximo" creationdate="20200411T111248Z">
+        <seg>Наприклад, якщо ви обрали ES-MX (мексиканська іспанська) як цільову мову, то файли словників повинні називатися es_MX.dic та es_MX.aff.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13410,8 +13410,8 @@ to use Java Web Start.</seg>
       <tuv lang="en">
         <seg>If you only have a standard Spanish dictionary available, with file names es_es.dic and es_es.aff for instance, you can copy these files to es_MX.dic and es_MX.aff, and the spelling dictionary will work.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="maximo" changedate="20200411T111444Z" creationid="maximo" creationdate="20200411T111444Z">
-        <seg>Якщо у вас є тільки стандартний словник іспанської, з іменами es_es.dic та es_es.aff, ви можете просто зробити їх копії es_MX.dic та es_MX.aff, і словник орфографії запрацює.</seg>
+      <tuv lang="uk-UA" changeid="Asus" changedate="20200616T044222Z" creationid="maximo" creationdate="20200411T111444Z">
+        <seg>Якщо у вас є тільки стандартний словник іспанської з назвами файлів es_es.dic та es_es.aff, ви можете просто зробити копії цих файлів, змінивши їх назви на es_MX.dic та es_MX.aff, і словник орфографії запрацює.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13689,11 +13689,12 @@ click on that shortcut.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>Ред.: додала "Налаштування", щоб було зрозуміліше</note>
       <tuv lang="en">
         <seg>In OmegaT, select &lt;g0&gt;Options &gt; Spell Checking&lt;/g0&gt;, then click &lt;g1&gt;Choose &lt;/g1&gt; beside the Dictionary file folder field.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="maximo" changedate="20200411T134240Z" creationid="maximo" creationdate="20200411T105010Z">
-        <seg>У OmegaT оберіть &lt;g0&gt;Параметри &gt; Перевірка правопису&lt;/g0&gt;, а там натисніть &lt;g1&gt;Огляд&lt;/g1&gt; біля поля Тека для файлів словників.</seg>
+      <tuv lang="uk-UA" changeid="Asus" changedate="20200616T042402Z" creationid="maximo" creationdate="20200411T105010Z">
+        <seg>У OmegaT оберіть &lt;g0&gt;Налаштування &gt; Параметри &gt; Перевірка правопису&lt;/g0&gt;, потім натисніть &lt;g1&gt;Огляд&lt;/g1&gt; біля поля Тека для файлів словників.</seg>
       </tuv>
     </tu>
     <tu>
@@ -14879,8 +14880,8 @@ click on that shortcut.</seg>
       <tuv lang="en">
         <seg>It is simpler, however, to look for dictionaries online, using the &lt;e0&gt;URL of online dictionaries&lt;/e0&gt; field:</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="maximo" changedate="20200411T110113Z" creationid="maximo" creationdate="20200411T110113Z">
-        <seg>Але насправді простіше шукати словники онлайн, використовуючи поле &lt;e0&gt;URL-адреса словників в інтернеті&lt;/e0&gt;:</seg>
+      <tuv lang="uk-UA" changeid="Asus" changedate="20200616T043307Z" creationid="maximo" creationdate="20200411T110113Z">
+        <seg>Утім насправді простіше шукати словники онлайн, використовуючи поле &lt;e0&gt;URL-адреса словників в інтернеті&lt;/e0&gt;:</seg>
       </tuv>
     </tu>
     <tu>
@@ -17834,8 +17835,8 @@ as the Applications folder.</seg>
       <tuv lang="en">
         <seg>Note that this will of course check for the standard (Castillian) rather than for Mexican Spanish.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="maximo" changedate="20200607T170642Z" creationid="maximo" creationdate="20200411T112153Z">
-        <seg>Безумовно, перевіряти воно буде все одно ту саму стандартну (кастильську) іспанську, а не мексиканський діалект.</seg>
+      <tuv lang="uk-UA" changeid="Asus" changedate="20200616T044830Z" creationid="maximo" creationdate="20200411T112153Z">
+        <seg>Безумовно, він все одно буде перевіряти ту саму стандартну (кастильську) іспанську, а не мексиканський діалект.</seg>
       </tuv>
     </tu>
     <tu>
@@ -18410,8 +18411,8 @@ as the Applications folder.</seg>
       <tuv lang="en">
         <seg>OmegaT has a built-in spell checker based on the spelling checker used in Apache OpenOffice, LibreOffice, Firefox and Thunderbird.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="maximo" changedate="20200411T103557Z" creationid="maximo" creationdate="20200411T103557Z">
-        <seg>В OmegaT вбудована перевірка правопису на базі того, що використовується у Apache OpenOffice, LibreOffice, Firefox та Thunderbird.</seg>
+      <tuv lang="uk-UA" changeid="Asus" changedate="20200616T041354Z" creationid="maximo" creationdate="20200411T103557Z">
+        <seg>В OmegaT вбудована перевірка правопису на базі тієї, що використовується у Apache OpenOffice, LibreOffice, Firefox та Thunderbird.</seg>
       </tuv>
     </tu>
     <tu>
@@ -24529,6 +24530,7 @@ The scope of a search is by default the project and can be set to be any files l
       </tuv>
     </tu>
     <tu>
+      <note>Тут скрин, який варто локалізувати</note>
       <tuv lang="en">
         <seg>Spellchecker setup</seg>
       </tuv>
@@ -26811,8 +26813,8 @@ in /lib/licenses/Licenses.txt.</seg>
       <tuv lang="en">
         <seg>The names of the files must correspond to the language code of your target language as defined in the project properties dialog (&lt;g0&gt;Project &gt; Properties&lt;/g0&gt;).</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="maximo" changedate="20200510T162845Z" creationid="maximo" creationdate="20200411T110520Z">
-        <seg>Назви файлів мають відповідати коду цільової мови, який вказано у властивостях проєкту(діалог &lt;g0&gt;Проєкт &gt; Властивості...&lt;/g0&gt;).</seg>
+      <tuv lang="uk-UA" changeid="Asus" changedate="20200616T045322Z" creationid="maximo" creationdate="20200411T110520Z">
+        <seg>Назви файлів мають відповідати коду цільової мови, який вказано у діалоговому вікні властивостей проєкту (&lt;g0&gt;Проєкт &gt; Властивості...&lt;/g0&gt;).</seg>
       </tuv>
     </tu>
     <tu>
@@ -27702,8 +27704,8 @@ in /lib/licenses/Licenses.txt.</seg>
       <tuv lang="en">
         <seg>There are essentially two ways in which you can do this.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="maximo" changedate="20200411T105126Z" creationid="maximo" creationdate="20200411T105126Z">
-        <seg>Є два основних шляхи, як це зробити..</seg>
+      <tuv lang="uk-UA" changeid="Asus" changedate="20200616T042656Z" creationid="maximo" creationdate="20200411T105126Z">
+        <seg>Це можна зробити двома основними способами.</seg>
       </tuv>
     </tu>
     <tu>
@@ -27770,8 +27772,8 @@ in /lib/licenses/Licenses.txt.</seg>
       <tuv lang="en">
         <seg>There is no need to instruct OmegaT to use a particular spelling dictionary; OmegaT will use the correct language dictionary based upon the language codes of your project.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="maximo" changedate="20200607T170717Z" creationid="maximo" creationdate="20200411T133732Z">
-        <seg>Немає потреби вказувати OmegaT, який орфографічний словник використовувати, - OmegaT використовує словник у відповідності до кодів мов вашого проєкту.</seg>
+      <tuv lang="uk-UA" changeid="Asus" changedate="20200616T044935Z" creationid="maximo" creationdate="20200411T133732Z">
+        <seg>Немає потреби вказувати OmegaT, який орфографічний словник використовувати. OmegaT використовує словник у відповідності до кодів мов вашого проєкту.</seg>
       </tuv>
     </tu>
     <tu>
@@ -32200,8 +32202,8 @@ start menu, the desktop or the quick launch area to link it from there.</seg>
       <tuv lang="en">
         <seg>You can either copy files manually, i.e. from elsewhere on your system, using your file manager; or you can use OmegaT's &lt;e0&gt;"Install new dictionary"&lt;/e0&gt; function to provide a list of available dictionaries to select from.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="maximo" changedate="20200411T105401Z" creationid="maximo" creationdate="20200411T105401Z">
-        <seg>Ви можете або вручну скопіювати їх з будь-якого місця вашої системи, або ж ви можете скористатися функцією OmegaT &lt;e0&gt;"Установити новий словник"&lt;/e0&gt;, яка запропонує вам вибірку словників.</seg>
+      <tuv lang="uk-UA" changeid="Asus" changedate="20200616T042910Z" creationid="maximo" creationdate="20200411T105401Z">
+        <seg>Ви можете або вручну скопіювати їх з будь-якого місця вашої системи за допомогою файлового менеджера, або ж ви можете скористатися функцією OmegaT &lt;e0&gt;"Установити новий словник"&lt;/e0&gt;, яка запропонує вам вибірку словників.</seg>
       </tuv>
     </tu>
     <tu>
