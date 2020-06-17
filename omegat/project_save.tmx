@@ -4358,8 +4358,8 @@ The current setting is {0}MB;</seg>
       <tuv lang="en">
         <seg>Also check that the target language code of your project against the available vocabularies in the setup window.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="maximo" changedate="20200411T135131Z" creationid="maximo" creationdate="20200411T135131Z">
-        <seg>Також перевірте, чи є код вашої цільової мови у списку доступних словників.</seg>
+      <tuv lang="uk-UA" changeid="Asus" changedate="20200617T033055Z" creationid="maximo" creationdate="20200411T135131Z">
+        <seg>Також перевірте, чи є код вашої цільової мови у списку доступних словників у вікні налаштувань.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12979,11 +12979,12 @@ their defaults as a result of the location change.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>ред.: додала "Налаштування", щоб легше було знайти потрібне вікно</note>
       <tuv lang="en">
         <seg>If the spell checker is not working, then make sure first that the check box &lt;g0&gt;"Automatically check the spelling of text"&lt;/g0&gt; in the spell checker dialog (&lt;g1&gt;Options &gt; Spell checking...)&lt;/g1&gt; is checked.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="maximo" changedate="20200411T135030Z" creationid="maximo" creationdate="20200411T135030Z">
-        <seg>Якщо перевірка правопису не працює, то перш за все перевірте, що у вас відмічено &lt;g0&gt;"Автоматично перевіряти правопис у тексті"&lt;/g0&gt; у діалозі перевірки правопису (&lt;g1&gt;Параметри &gt; Перевірка правопису...)&lt;/g1&gt;.</seg>
+      <tuv lang="uk-UA" changeid="Asus" changedate="20200617T032914Z" creationid="maximo" creationdate="20200411T135030Z">
+        <seg>Якщо перевірка правопису не працює, то перш за все перевірте, чи у вас відмічений прапорець &lt;g0&gt;"Автоматично перевіряти правопис у тексті"&lt;/g0&gt; у діалоговому вікні перевірки правопису (&lt;g1&gt;Налаштування &gt; Параметри &gt; Перевірка правопису...)&lt;/g1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13030,8 +13031,8 @@ their defaults as a result of the location change.</seg>
       <tuv lang="en">
         <seg>If they are used by some other application on your system, they will disappear from that application, too.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="maximo" changedate="20200411T140019Z" creationid="maximo" creationdate="20200411T140019Z">
-        <seg>Якщо вони використовуються якимись ще програмами у вашій системі, вони стануть недоступні і в тій програмі також.</seg>
+      <tuv lang="uk-UA" changeid="Asus" changedate="20200617T033647Z" creationid="maximo" creationdate="20200411T140019Z">
+        <seg>Якщо вони використовуються й іншими програмами у вашій системі, вони стануть недоступні і в тій програмі також.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13330,8 +13331,8 @@ to use Java Web Start.</seg>
       <tuv lang="en">
         <seg>If you have already translated a large body of text, and then realize the target language code of the project does not match the spell checker's language code (you specified pt_BR as the language, but there are no pt_BR vocabularies, for instance) you can simply copy the two corresponding files and rename them (e.g. from &lt;e0&gt;pt_PT.aff&lt;/e0&gt; and &lt;e1&gt;pt_PT.dic&lt;/e1&gt; to &lt;e2&gt;pt_BR.aff&lt;/e2&gt; and &lt;e3&gt;pt_BR.dic&lt;/e3&gt;).</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="maximo" changedate="20200411T135721Z" creationid="maximo" creationdate="20200411T135721Z">
-        <seg>Якщо ви вже переклали великий шмат тексту і раптом зрозуміли, що код цільової мови не збігається із кодом орфографічного словника (наприклад, ви вказали pt_BR як цільову мову, але словників pt_BR нема) ви можете просто скопіювати відповідні файли та перейменувати їх: &lt;e0&gt;pt_PT.aff&lt;/e0&gt; та &lt;e1&gt;pt_PT.dic&lt;/e1&gt; у, відповідно, &lt;e2&gt;pt_BR.aff&lt;/e2&gt; та &lt;e3&gt;pt_BR.dic&lt;/e3&gt;).</seg>
+      <tuv lang="uk-UA" changeid="Asus" changedate="20200617T033502Z" creationid="maximo" creationdate="20200411T135721Z">
+        <seg>Якщо ви вже переклали великий шмат тексту і раптом зрозуміли, що код цільової мови не збігається із кодом орфографічного словника (наприклад, ви вказали pt_BR як цільову мову, але словників pt_BR немає), ви можете просто скопіювати відповідні файли та перейменувати їх (наприклад, &lt;e0&gt;pt_PT.aff&lt;/e0&gt; та &lt;e1&gt;pt_PT.dic&lt;/e1&gt; у &lt;e2&gt;pt_BR.aff&lt;/e2&gt; та &lt;e3&gt;pt_BR.dic&lt;/e3&gt; відповідно).</seg>
       </tuv>
     </tu>
     <tu>
@@ -18179,8 +18180,8 @@ as the Applications folder.</seg>
       <tuv lang="en">
         <seg>Of course it is much wiser, to take a short break and download the correct versions of the spell checker.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="maximo" changedate="20200607T170847Z" creationid="maximo" creationdate="20200411T135817Z">
-        <seg>Звичайно, розумніше буде виділити трохи часу та завантажити правильні версії словників з інтернету.</seg>
+      <tuv lang="uk-UA" changeid="Asus" changedate="20200617T033532Z" creationid="maximo" creationdate="20200411T135817Z">
+        <seg>Звичайно, доречніше буде виділити трохи часу та завантажити правильні версії словників з інтернету.</seg>
       </tuv>
     </tu>
     <tu>
@@ -22204,11 +22205,12 @@ These words: 'Page not found'</seg>
       </tuv>
     </tu>
     <tu>
+      <note>тут, можливо, якщо скрин буде локаізований, то і приклад буде іншим</note>
       <tuv lang="en">
         <seg>Right-clicking on an underlined word (Artund in the figure above) opens a drop-down menu listing suggestions for the correction (Art und).</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="maximo" changedate="20200411T134451Z" creationid="maximo" creationdate="20200411T134451Z">
-        <seg>Якщо натиснути правою кнопкою миші на підкреслене слово (Artund у прикладі), то відкриється меню зі списком варіантів виправлень (Art und).</seg>
+      <tuv lang="uk-UA" changeid="Asus" changedate="20200617T032452Z" creationid="maximo" creationdate="20200411T134451Z">
+        <seg>Якщо натиснути правою кнопкою миші на підкреслене слово (Artund на зображенні вище), то відкриється випадне меню зі списком варіантів виправлень (Art und).</seg>
       </tuv>
     </tu>
     <tu>
@@ -27416,8 +27418,8 @@ in /lib/licenses/Licenses.txt.</seg>
       <tuv lang="en">
         <seg>The spell checker uses the target language code to determine the language to be used : if the target language is Brazilian Portuguese (PT_BR), the subfolder with vocabularies must contain the two vocabulary files, called &lt;e0&gt;pt_br.aff&lt;/e0&gt; and &lt;e1&gt;pt_br.dic&lt;/e1&gt;.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="maximo" changedate="20200411T135400Z" creationid="maximo" creationdate="20200411T135400Z">
-        <seg>Перевірка правопису використовує код цільової мови, щоб визначити, який словник використовувати. Якщо цільова мова - бразильська португальська (PT_BR), тека зі словниками мусить мати два файла словників: &lt;e0&gt;pt_br.aff&lt;/e0&gt; та &lt;e1&gt;pt_br.dic&lt;/e1&gt;.</seg>
+      <tuv lang="uk-UA" changeid="Asus" changedate="20200617T033235Z" creationid="maximo" creationdate="20200411T135400Z">
+        <seg>Перевірка правопису використовує код цільової мови, щоб визначити, який словник використовувати. Якщо цільова мова - бразильська португальська (PT_BR), тека зі словниками повинна мати два файли словників: &lt;e0&gt;pt_br.aff&lt;/e0&gt; та &lt;e1&gt;pt_br.dic&lt;/e1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -28886,11 +28888,12 @@ the server.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>ред.: додала до перекладу "Налаштування", щоб було зрозуміло, уцди заходити</note>
       <tuv lang="en">
         <seg>To enable the spell checker, select &lt;g0&gt;Options &gt; Spell Checking&lt;/g0&gt; and tick the &lt;g1&gt;Automatically check the spelling of text&lt;/g1&gt; check box (see above).</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="maximo" changedate="20200411T134233Z" creationid="maximo" creationdate="20200411T134233Z">
-        <seg>Щоб увімкнути перевірку правопису, відкрийте &lt;g0&gt;Параметри &gt; Перевірка правопису&lt;/g0&gt; та відмітьте &lt;g1&gt;Автоматично перевіряти правопис у тексті&lt;/g1&gt;.</seg>
+      <tuv lang="uk-UA" changeid="Asus" changedate="20200617T032106Z" creationid="maximo" creationdate="20200411T134233Z">
+        <seg>Щоб увімкнути перевірку правопису, відкрийте &lt;g0&gt;Налаштування &gt; Параметри &gt; Перевірка правопису&lt;/g0&gt; та відмітьте &lt;g1&gt;Автоматично перевіряти правопис у тексті&lt;/g1&gt; (див. вище).</seg>
       </tuv>
     </tu>
     <tu>
@@ -30749,6 +30752,7 @@ searchable without subscription:</seg>
       </tuv>
     </tu>
     <tu>
+      <note>тут потрібно локалізувати скрин</note>
       <tuv lang="en">
         <seg>Using spellchecker</seg>
       </tuv>
@@ -32053,8 +32057,8 @@ can then launch the Kaptain launch script with:</seg>
       <tuv lang="en">
         <seg>You can also instruct the spell checker to ignore all the occurrences of the mis-spelled word, or add it to the dictionary.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="maximo" changedate="20200411T134802Z" creationid="maximo" creationdate="20200411T134802Z">
-        <seg>Ви також можете пропустити всі інші випадки, коли слово зустрічається у такому написанні, чи додати його до словника.</seg>
+      <tuv lang="uk-UA" changeid="Asus" changedate="20200617T032640Z" creationid="maximo" creationdate="20200411T134802Z">
+        <seg>Ви також можете налаштувати функцію перевірки правопису на пропуск всіх випадків, коли слово зустрічається у такому написанні, чи додати його до словника.</seg>
       </tuv>
     </tu>
     <tu>
