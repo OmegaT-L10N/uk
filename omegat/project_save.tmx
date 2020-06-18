@@ -3478,8 +3478,8 @@ The current setting is {0}MB;</seg>
       <tuv lang="en">
         <seg>A script bundled with OmegaT called Switch Colour Themes provides a default "Dark" theme.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="maximo" changedate="20200412T175913Z" creationid="maximo" creationdate="20200412T175641Z">
-        <seg>Скрипт Switch Colour Themes, вбудований у OmegaT, надає стандарту темну тему "Dark".</seg>
+      <tuv lang="uk-UA" changeid="Asus" changedate="20200618T042155Z" creationid="maximo" creationdate="20200412T175641Z">
+        <seg>Скрипт Switch Colour Themes, вбудований у OmegaT, надає стандартну темну тему "Dark".</seg>
       </tuv>
     </tu>
     <tu>
@@ -4781,8 +4781,8 @@ The TMX file will not be loaded.</seg>
       <tuv lang="en">
         <seg>Appearance</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="maximo" changedate="20200412T142401Z" creationid="maximo" creationdate="20200412T142401Z">
-        <seg>Вигляд</seg>
+      <tuv lang="uk-UA" changeid="Asus" changedate="20200618T040431Z" creationid="maximo" creationdate="20200412T142401Z">
+        <seg>Оформлення програми</seg>
       </tuv>
     </tu>
     <tu>
@@ -6366,8 +6366,8 @@ Buy another drink</seg>
       <tuv lang="en">
         <seg>Check this box to send only untranslated segments to the machine translation services.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="maximo" changedate="20200412T072144Z" creationid="maximo" creationdate="20200412T072144Z">
-        <seg>Відмітьте цю опцію, щоб тільки неперекладені сегменти відправлялись на машинний переклад.</seg>
+      <tuv lang="uk-UA" changeid="Asus" changedate="20200618T035649Z" creationid="maximo" creationdate="20200412T072144Z">
+        <seg>Відмітьте цей параметр, щоб тільки неперекладені сегменти відправлялись на машинний переклад.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6526,8 +6526,8 @@ Buy another drink</seg>
       <tuv lang="en">
         <seg>Clear this option to deactivate automatic searching – if dictionaries are too long, for example.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="maximo" changedate="20200607T173801Z" creationid="maximo" creationdate="20200412T142317Z">
-        <seg>Заберіть прапорець, щоб вимкнути автоматичний пошук. Це може бути потрібно, якщо словник завеликий.</seg>
+      <tuv lang="uk-UA" changeid="Asus" changedate="20200618T040206Z" creationid="maximo" creationdate="20200412T142317Z">
+        <seg>Заберіть прапорець, щоб вимкнути автоматичний пошук. Це може бути потрібно, якщо, наприклад, словник завеликий.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12543,8 +12543,8 @@ need not be entered.)</seg>
       <tuv lang="en">
         <seg>If both this option and the &lt;l0&gt;&lt;g1&gt;Insert the source text&lt;/g1&gt;&lt;/l0&gt; option are selected, all words with a corresponding glossary entry will be translated automatically when the source text is inserted.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="lesia" changedate="20200616T203841Z" creationid="maximo" creationdate="20200412T141325Z">
-        <seg>Якщо ця опція, а також опція &lt;l0&gt;&lt;g1&gt;Вставити текст оригіналу&lt;/g1&gt;&lt;/l0&gt; увімкнуті, всі слова, для яких є відповідна стаття глосарія, будуть замінені автоматично, коли вставляється текст оригіналу.</seg>
+      <tuv lang="uk-UA" changeid="Asus" changedate="20200618T034217Z" creationid="maximo" creationdate="20200412T141325Z">
+        <seg>Якщо цей параметр, а також параметр &lt;l0&gt;&lt;g1&gt;Вставити текст оригіналу&lt;/g1&gt;&lt;/l0&gt; увімкнуті, всі слова, для яких є відповідна стаття глосарія, будуть замінені автоматично, коли вставляється текст оригіналу.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12734,8 +12734,8 @@ their defaults as a result of the location change.</seg>
       <tuv lang="en">
         <seg>If necessary, you can select a specific domain to limit the volume of data sent and received.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="lesia" changedate="20200418T192736Z" creationid="maximo" creationdate="20200412T142201Z">
-        <seg>Якщо потрібно, ви можете обрати конкретну область, щоб зменшити обсяг даних для завантаження.</seg>
+      <tuv lang="uk-UA" changeid="Asus" changedate="20200618T040048Z" creationid="maximo" creationdate="20200412T142201Z">
+        <seg>Якщо потрібно, ви можете вибрати конкретну область, щоб зменшити обсяг відправлених та отриманих даних.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13047,8 +13047,8 @@ their defaults as a result of the location change.</seg>
       <tuv lang="en">
         <seg>If this option is checked, the glossary will only display one entry, even if the same word exists in several forms (e.g. with and without capital letters) in the glossary.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="lesia" changedate="20200418T192148Z" creationid="maximo" creationdate="20200412T141559Z">
-        <seg>Коли вибрана ця опція, глосарій буде показувати тільки один збіг, навіть якщо це слово є в глосарії в кількох формах (наприклад, з маленької та з великої букви)</seg>
+      <tuv lang="uk-UA" changeid="Asus" changedate="20200618T034401Z" creationid="maximo" creationdate="20200412T141559Z">
+        <seg>Якщо цей параметр відмічений, глосарій буде показувати тільки один збіг, навіть якщо це слово є в глосарії в кількох формах (наприклад, з маленької та з великої букви)</seg>
       </tuv>
     </tu>
     <tu>
@@ -13063,8 +13063,8 @@ their defaults as a result of the location change.</seg>
       <tuv lang="en">
         <seg>If this option is selected, OmegaT will not remember the access key between sessions.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="maximo" changedate="20200412T141844Z" creationid="maximo" creationdate="20200412T141844Z">
-        <seg>Якщо ця опція обрана, OmegaT не буде запам'ятовувати ключ доступу між сеансами.</seg>
+      <tuv lang="uk-UA" changeid="Asus" changedate="20200618T035630Z" creationid="maximo" creationdate="20200412T141844Z">
+        <seg>Якщо цей параметр вибраний, OmegaT не буде запам'ятовувати ключ доступу між сеансами.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13435,8 +13435,8 @@ to use Java Web Start.</seg>
       <tuv lang="en">
         <seg>If you prefer not to use OmegaT to translate files of a certain type, you can turn off the corresponding filter by deactivating the check box beside its name.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="maximo" changedate="20200412T195046Z" creationid="maximo" creationdate="20200412T195046Z">
-        <seg>Якщо ви не хочете за допомогою OmegaT перекладати файли певного типу, ви можете вимкнути відповідний фільтр, знявши відмітку біля його назви.</seg>
+      <tuv lang="uk-UA" changeid="Asus" changedate="20200618T042443Z" creationid="maximo" creationdate="20200412T195046Z">
+        <seg>Якщо ви не хочете перекладати файли певного типу за допомогою OmegaT, ви можете вимкнути відповідний фільтр, прибравши прапорець біля його назви.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13483,8 +13483,8 @@ to use Java Web Start.</seg>
       <tuv lang="en">
         <seg>If you uncheck this option, machine translations will be fetched only when you press &lt;k0&gt; &lt;k1&gt;Ctrl&lt;/k1&gt; &lt;k2&gt;M&lt;/k2&gt; &lt;/k0&gt; (&lt;k3&gt; &lt;k4&gt;Cmd&lt;/k4&gt; &lt;k5&gt;M&lt;/k5&gt; &lt;/k3&gt; on OS X) in the current segment.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="maximo" changedate="20200412T071954Z" creationid="maximo" creationdate="20200412T071954Z">
-        <seg>Якщо ви відключите цю опцію, варіанти машинного перекладу сегменту будуть отримані лише після натискання &lt;k0&gt; &lt;k1&gt;Ctrl&lt;/k1&gt; &lt;k2&gt;M&lt;/k2&gt; &lt;/k0&gt; (&lt;k3&gt; &lt;k4&gt;Cmd&lt;/k4&gt; &lt;k5&gt;M&lt;/k5&gt; &lt;/k3&gt; для OS X).</seg>
+      <tuv lang="uk-UA" changeid="Asus" changedate="20200618T032821Z" creationid="maximo" creationdate="20200412T071954Z">
+        <seg>Якщо ви відключите цей параметр, варіанти машинного перекладу сегмента будуть отримані лише після натискання клавіш &lt;k0&gt; &lt;k1&gt;Ctrl&lt;/k1&gt; &lt;k2&gt;M&lt;/k2&gt; &lt;/k0&gt; (&lt;k3&gt; &lt;k4&gt;Cmd&lt;/k4&gt; &lt;k5&gt;M&lt;/k5&gt; &lt;/k3&gt; для OS X).</seg>
       </tuv>
     </tu>
     <tu>
@@ -14744,8 +14744,8 @@ click on that shortcut.</seg>
       <tuv lang="en">
         <seg>It can also be used when panes do not appear as expected following an OmegaT upgrade.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="lesia" changedate="20200418T193221Z" creationid="maximo" creationdate="20200412T142855Z">
-        <seg>Також її можна використовувати, якщо панелі відображуються неправильно після оновлення OmegaT.</seg>
+      <tuv lang="uk-UA" changeid="Asus" changedate="20200618T040714Z" creationid="maximo" creationdate="20200412T142855Z">
+        <seg>Також його можна використовувати, якщо панелі відображуються неправильно після оновлення OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
@@ -18800,8 +18800,8 @@ installed on your system.</seg>
       <tuv lang="en">
         <seg>OmegaT will then omit the corresponding files when loading projects, and will copy them unmodified to the target folder when creating target documents.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="lesia" changedate="20200419T061723Z" creationid="maximo" creationdate="20200412T195153Z">
-        <seg>OmegaT пропускатиме файли цього типу при завантаженні проєкту та скопіює їх незмінними в теку з результатами перекладу.</seg>
+      <tuv lang="uk-UA" changeid="Asus" changedate="20200618T042534Z" creationid="maximo" creationdate="20200412T195153Z">
+        <seg>OmegaT пропускатиме файли цього типу при завантаженні проєкту та скопіює їх незмінними в теку з документами перекладу.</seg>
       </tuv>
     </tu>
     <tu>
@@ -20569,8 +20569,8 @@ project without team functionality.</seg>
       <tuv lang="en">
         <seg>Private collections are displayed in bold.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="maximo" changedate="20200412T142013Z" creationid="maximo" creationdate="20200412T142013Z">
-        <seg>Жирний шрифт для приватних колекцій</seg>
+      <tuv lang="uk-UA" changeid="Asus" changedate="20200618T035920Z" creationid="maximo" creationdate="20200412T142013Z">
+        <seg>Приватні колекції виділені напівжирним шрифтом.</seg>
       </tuv>
     </tu>
     <tu>
@@ -22063,8 +22063,8 @@ These words: 'Page not found'</seg>
       <tuv lang="en">
         <seg>Restores the components of the main OmegaT window to their default state.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="maximo" changedate="20200412T142511Z" creationid="maximo" creationdate="20200412T142511Z">
-        <seg>Повернути головне вікно OmegaT до його стандартного вигляду.</seg>
+      <tuv lang="uk-UA" changeid="Asus" changedate="20200618T040614Z" creationid="maximo" creationdate="20200412T142511Z">
+        <seg>Цей параметр повертає головне вікно OmegaT до його стандартного вигляду.</seg>
       </tuv>
     </tu>
     <tu>
@@ -23097,6 +23097,7 @@ The scope of a search is by default the project and can be set to be any files l
       </tuv>
     </tu>
     <tu>
+      <note>ред.: не можу знайти цей розділ</note>
       <tuv lang="en">
         <seg>See font settings in Miscellanea</seg>
       </tuv>
@@ -23477,8 +23478,8 @@ The scope of a search is by default the project and can be set to be any files l
       <tuv lang="en">
         <seg>Select a supplier from the list and, if necessary, click &lt;g0&gt;Configure&lt;/g0&gt; to enter the identification details provided by the supplier.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="maximo" changedate="20200412T140319Z" creationid="maximo" creationdate="20200412T140319Z">
-        <seg>Оберіть джерело машинного перекладу і за необхідності натисніть &lt;g0&gt;Налаштувати&lt;/g0&gt;, щоб ввести ідентифікаційні дані.</seg>
+      <tuv lang="uk-UA" changeid="Asus" changedate="20200618T032607Z" creationid="maximo" creationdate="20200412T140319Z">
+        <seg>Оберіть сервіс машинного перекладу і за необхідності натисніть &lt;g0&gt;Налаштувати&lt;/g0&gt;, щоб ввести ідентифікаційні дані.</seg>
       </tuv>
     </tu>
     <tu>
@@ -23581,16 +23582,16 @@ The scope of a search is by default the project and can be set to be any files l
       <tuv lang="en">
         <seg>Select this option if you want dictionaries to display words that have the same root.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="maximo" changedate="20200608T100836Z" creationid="maximo" creationdate="20200412T142353Z">
-        <seg>Увімкніть цю опцію, якщо ви хочете, щоб у словниках також показувалися спільнокореневі слова.</seg>
+      <tuv lang="uk-UA" changeid="Asus" changedate="20200618T040328Z" creationid="maximo" creationdate="20200412T142353Z">
+        <seg>Виберіть цей параметр, якщо ви хочете, щоб словники показували спільнокореневі слова.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>Select this option if you want the glossary to display words that have the same root.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="maximo" changedate="20200412T141055Z" creationid="maximo" creationdate="20200412T141055Z">
-        <seg>Увімкніть цю опцію, якщо ви хочете, щоб у глосарії показувалися слова з такими ж коренями.</seg>
+      <tuv lang="uk-UA" changeid="Asus" changedate="20200618T040351Z" creationid="maximo" creationdate="20200412T141055Z">
+        <seg>Оберіть цей параметр, якщо ви хочете, щоб глосарій відображав спільнокореневі слова.</seg>
       </tuv>
     </tu>
     <tu>
@@ -23933,8 +23934,8 @@ The scope of a search is by default the project and can be set to be any files l
       <tuv lang="en">
         <seg>Shows the dialog to modify the text display font.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="maximo" changedate="20200412T143005Z" creationid="maximo" creationdate="20200412T143005Z">
-        <seg>Показати діалог вибору шрифта.</seg>
+      <tuv lang="uk-UA" changeid="Asus" changedate="20200618T040812Z" creationid="maximo" creationdate="20200412T143005Z">
+        <seg>Показує діалог вибору шрифта.</seg>
       </tuv>
     </tu>
     <tu>
@@ -28143,8 +28144,8 @@ the server.</seg>
       <tuv lang="en">
         <seg>This dialog lists the file filters available.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="maximo" changedate="20200510T164354Z" creationid="maximo" creationdate="20200412T194759Z">
-        <seg>У цьому діалозі перераховані доступні фільтри файлів.</seg>
+      <tuv lang="uk-UA" changeid="Asus" changedate="20200618T042332Z" creationid="maximo" creationdate="20200412T194759Z">
+        <seg>У цьому діалоговому вікні перераховані доступні фільтри файлів.</seg>
       </tuv>
     </tu>
     <tu>
@@ -28497,8 +28498,8 @@ the server.</seg>
       <tuv lang="en">
         <seg>This option is useful for some Chinese, Japanese or Korean character input systems.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="Asus" changedate="20200617T034427Z" creationid="maximo" creationdate="20200412T071548Z">
-        <seg>Ця опція зручна для деяких систем введення китайської, японської чи корейської мов.</seg>
+      <tuv lang="uk-UA" changeid="Asus" changedate="20200618T033816Z" creationid="maximo" creationdate="20200412T071548Z">
+        <seg>Цей параметр зручний для деяких систем введення китайської, японської чи корейської мов.</seg>
       </tuv>
     </tu>
     <tu>
@@ -28875,8 +28876,8 @@ the server.</seg>
       <tuv lang="en">
         <seg>To edit the files and encodings a filter is used for, select the filter in the list and click &lt;e1&gt;Edit.&lt;/e1&gt;</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="lesia" changedate="20200419T061959Z" creationid="maximo" creationdate="20200412T195521Z">
-        <seg>Щоб налаштувати, які типи файлів та в якому кодуванні оброблятиме той чи інший фільтр, виберіть потрібний фільтр у переліку та натисніть «Редагувати».</seg>
+      <tuv lang="uk-UA" changeid="Asus" changedate="20200618T043809Z" creationid="maximo" creationdate="20200412T195521Z">
+        <seg>Щоб налаштувати, які типи файлів та в якому кодуванні оброблятиме той чи інший фільтр, виберіть потрібний фільтр у переліку та натисніть &lt;e1&gt;Редагувати.&lt;/e1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -29912,16 +29913,16 @@ Exact searches match the whole search string.</seg>
       <tuv lang="en">
         <seg>Uncheck this option if the context description shown for each glossary entry is unnecessary or too long.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="lesia" changedate="20200616T203841Z" creationid="maximo" creationdate="20200412T140644Z">
-        <seg>Вимкніть цю опцію, якщо опис контексту у вікні глосарія непотрібний чи просто задовгий.</seg>
+      <tuv lang="uk-UA" changeid="Asus" changedate="20200618T033744Z" creationid="maximo" creationdate="20200412T140644Z">
+        <seg>Заберіть прапорець з цього параметра, якщо опис контексту для кожного запису глосарія непотрібний чи просто задовгий.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>Uncheck this option if the glossary displays too many false positives.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="maximo" changedate="20200412T140921Z" creationid="maximo" creationdate="20200412T140921Z">
-        <seg>Вимкніть цю опцію, якщо глосарій показує багато зайвого.</seg>
+      <tuv lang="uk-UA" changeid="Asus" changedate="20200618T033643Z" creationid="maximo" creationdate="20200412T140921Z">
+        <seg>Заберіть прапорець з цього параметра, якщо глосарій показує багато зайвого.</seg>
       </tuv>
     </tu>
     <tu>
@@ -30526,8 +30527,8 @@ on line {1}, column {2}.</seg>
       <tuv lang="en">
         <seg>Use this feature when you have undocked, moved or hidden one or more components and you are unable to restore the desired arrangement.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="lesia" changedate="20200418T193202Z" creationid="maximo" creationdate="20200412T142738Z">
-        <seg>Використовуйте цю опцію, якщо ви відкріпили, посунули чи сховали якесь із вікон і не можете відновити потрібне їх розташування.</seg>
+      <tuv lang="uk-UA" changeid="Asus" changedate="20200618T040643Z" creationid="maximo" creationdate="20200412T142738Z">
+        <seg>Використовуйте його, якщо ви відкріпили, посунули чи сховали якесь із вікон і не можете відновити потрібне їх розташування.</seg>
       </tuv>
     </tu>
     <tu>
@@ -30697,8 +30698,8 @@ searchable without subscription:</seg>
       <tuv lang="en">
         <seg>Users of old computers who feel window resizing is very slow can try changing the font.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="lesia" changedate="20200418T193422Z" creationid="maximo" creationdate="20200412T143151Z">
-        <seg>Якщо ви працюєте на старому комп'ютері і відчуваєте, що програма заповільнюється під час зміни розміру вікна, спробуйте змінити шрифт.</seg>
+      <tuv lang="uk-UA" changeid="Asus" changedate="20200618T041155Z" creationid="maximo" creationdate="20200412T143151Z">
+        <seg>Якщо ви працюєте на старому комп'ютері і відчуваєте, що програма уповільнюється під час зміни розміру вікна, спробуйте змінити шрифт.</seg>
       </tuv>
     </tu>
     <tu>
@@ -31306,8 +31307,8 @@ of selecting, obtaining and installing it.</seg>
       <tuv lang="en">
         <seg>When this option is checked, the glossary will display pairs or groups of words (expressions) even if the words within them appear separately in the source text.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="maximo" changedate="20200412T140826Z" creationid="maximo" creationdate="20200412T140826Z">
-        <seg>Якщо вибрана ця опція, глосарій буде показувати вирази, навіть якщо слова з них не були сусідніми у тексті.</seg>
+      <tuv lang="uk-UA" changeid="Asus" changedate="20200618T033319Z" creationid="maximo" creationdate="20200412T140826Z">
+        <seg>Якщо цей параметр відмічений, глосарій буде показувати вирази, навіть якщо слова з них не були сусідніми у тексті.</seg>
       </tuv>
     </tu>
     <tu>
@@ -31378,8 +31379,8 @@ of selecting, obtaining and installing it.</seg>
       <tuv lang="en">
         <seg>When you wish to use the filter again, just tick the check box.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="maximo" changedate="20200412T195224Z" creationid="maximo" creationdate="20200412T195224Z">
-        <seg>Якщо Ви знову схочете використовувати фільтр, установіть прапорець.</seg>
+      <tuv lang="uk-UA" changeid="Asus" changedate="20200618T042604Z" creationid="maximo" creationdate="20200412T195224Z">
+        <seg>Якщо ви знову захочете використовувати фільтр, установіть прапорець.</seg>
       </tuv>
     </tu>
     <tu>
