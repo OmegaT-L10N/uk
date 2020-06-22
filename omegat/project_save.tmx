@@ -2409,8 +2409,8 @@ The current setting is {0}MB;</seg>
       <tuv lang="en">
         <seg>&lt;e0&gt;Add or rewrite encoding declaration in HTML and XHTML files&lt;/e0&gt;: the target files often need to have a different character set encoding from the one in the source file (whether it is explicitly defined or implied).</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="maximo" changedate="20200413T164124Z" creationid="maximo" creationdate="20200413T164124Z">
-        <seg>&lt;e0&gt;Додавати чи перезаписувати оголошення про кодування у файлах HTML і XHTML&lt;/e0&gt;: перекладені файли часто потребують іншої системи кодування, ніж у оригінальному файлі.</seg>
+      <tuv lang="uk-UA" changeid="Asus" changedate="20200622T041039Z" creationid="maximo" creationdate="20200413T164124Z">
+        <seg>&lt;e0&gt;Додавати чи перезаписувати оголошення про кодування у файлах HTML і XHTML&lt;/e0&gt;: перекладені файли часто потребують іншої системи кодування, ніж в оригінальному файлі (незалежно від того, чи вона чітко визначена, чи прихована).</seg>
       </tuv>
     </tu>
     <tu>
@@ -2425,8 +2425,8 @@ The current setting is {0}MB;</seg>
       <tuv lang="en">
         <seg>&lt;e0&gt;Aggregate tags&lt;/e0&gt;: if checked, tags with no translatable text between them will be aggregated into a single tag.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="maximo" changedate="20200413T114605Z" creationid="maximo" creationdate="20200413T114316Z">
-        <seg>&lt;e0&gt;З'єднувати теґи&lt;/e0&gt;: якщо цей прапорець активний, то теґи, між якими нема тексту для перекладу, будуть зливатися в один теґ.</seg>
+      <tuv lang="uk-UA" changeid="Asus" changedate="20200622T040602Z" creationid="maximo" creationdate="20200413T114316Z">
+        <seg>&lt;e0&gt;З'єднувати теґи&lt;/e0&gt;: якщо цей параметр активний, то теґи, між якими нема тексту для перекладу, будуть зливатися в один теґ.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2449,7 +2449,7 @@ The current setting is {0}MB;</seg>
       <tuv lang="en">
         <seg>&lt;e0&gt;Compress whitespace in translated document&lt;/e0&gt;: multiple continuous whitespace characters will be converted into one single whitespace in the translated document.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="maximo" changedate="20200413T164617Z" creationid="maximo" creationdate="20200413T164617Z">
+      <tuv lang="uk-UA" changeid="Asus" changedate="20200622T041710Z" creationid="maximo" creationdate="20200413T164617Z">
         <seg>&lt;e0&gt;Стискати пробільні символи у перекладених документах&lt;/e0&gt;: послідовності пробільних символів у перекладеному документі будуть перетворені на один пробіл.</seg>
       </tuv>
     </tu>
@@ -2473,16 +2473,16 @@ The current setting is {0}MB;</seg>
       <tuv lang="en">
         <seg>&lt;e0&gt;Do not translate the content attribute of meta-tags ...:&lt;/e0&gt; The meta-tags in the box will not be translated.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="maximo" changedate="20200608T103840Z" creationid="maximo" creationdate="20200413T112955Z">
-        <seg>&lt;e0&gt;Не перекладати атрибут вмісту тих метатеґів, що мають наступні пари «ключ-значення» (окремо через коми):&lt;/e0&gt; Не перекладати метатеґи, перераховані у текстовому полі.</seg>
+      <tuv lang="uk-UA" changeid="Asus" changedate="20200622T035420Z" creationid="maximo" creationdate="20200413T112955Z">
+        <seg>&lt;e0&gt;Не перекладати атрибут вмісту тих метатеґів, що мають наступні пари «ключ-значення» (окремо через коми):&lt;/e0&gt; Метатеґи, перераховані у текстовому полі, не перекладатимуться.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>&lt;e0&gt;Do not translate the content of tags with the following attribute key-value pairs (separate with commas)&lt;/e0&gt;: if a tag matches the list of key-value pairs, its content will be ignored.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="lesia" changedate="20200419T105209Z" creationid="maximo" creationdate="20200413T113107Z">
-        <seg>&lt;e0&gt;Не перекладати вміст тих теґів, що мають наступні пари «ключ-значення» (окремо через коми)&lt;/e0&gt;: якщо серед атрибутів теґу зустрічаються якісь з перелічених - не перекладати його вміст.</seg>
+      <tuv lang="uk-UA" changeid="Asus" changedate="20200622T035547Z" creationid="maximo" creationdate="20200413T113107Z">
+        <seg>&lt;e0&gt;Не перекладати вміст тих теґів, що мають наступні пари «ключ-значення» (окремо через коми)&lt;/e0&gt;: якщо серед атрибутів теґу зустрічаються якісь з перелічених пар - не перекладати його вміст.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2602,8 +2602,8 @@ The current setting is {0}MB;</seg>
       <tuv lang="en">
         <seg>&lt;e0&gt;Preserve spaces for all tags&lt;/e0&gt;: if checked, "white space" (i.e. spaces and newlines) will be preserved, even if this option is not defined in the document.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="lesia" changedate="20200419T063607Z" creationid="maximo" creationdate="20200413T114508Z">
-        <seg>&lt;e0&gt;Зберігати пробіли для всіх теґів&lt;/e0&gt;: якщо цей прапорець активний, то пробільні символи, тобто пробіли та символи нового рядка, будуть зберігатися, навіть якщо цей параметр не проставлений у самому документі.</seg>
+      <tuv lang="uk-UA" changeid="Asus" changedate="20200622T040642Z" creationid="maximo" creationdate="20200413T114508Z">
+        <seg>&lt;e0&gt;Зберігати пробіли для всіх теґів&lt;/e0&gt;: якщо цей параметр активний, то пробільні символи, тобто пробіли та символи нового рядка, будуть зберігатися, навіть якщо цей параметр не проставлений у самому документі.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2618,8 +2618,8 @@ The current setting is {0}MB;</seg>
       <tuv lang="en">
         <seg>&lt;e0&gt;Remove HTML comments in translated document&lt;/e0&gt;: commented parts (between &lt;!-- and --&gt;) will not be copied into the translated document.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="maximo" changedate="20200413T164753Z" creationid="maximo" creationdate="20200413T164753Z">
-        <seg>&lt;e0&gt;Вилучати коментарі HTML у перекладених документах&lt;/e0&gt;: закоментовані частини документу (між &lt;!-- та --&gt;) не будуть скопійовані до перекладеного документу.</seg>
+      <tuv lang="uk-UA" changeid="Asus" changedate="20200622T041640Z" creationid="maximo" creationdate="20200413T164753Z">
+        <seg>&lt;e0&gt;Вилучати коментарі HTML у перекладених документах&lt;/e0&gt;: частини документу з коментарями (між &lt;!-- та --&gt;) не будуть скопійовані до перекладеного документу.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2674,16 +2674,16 @@ The current setting is {0}MB;</seg>
       <tuv lang="en">
         <seg>&lt;e0&gt;Start a new paragraph on&lt;/e0&gt;: the &lt;br&gt; HTML tag will constitute a paragraph break for segmentation purposes.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="lesia" changedate="20200419T063303Z" creationid="maximo" creationdate="20200413T112416Z">
-        <seg>&lt;e0&gt;Починати абзац на місці&lt;/e0&gt;:  HTML теґ &lt;br&gt; (розрив рядка) буде використовуватися як ознака кінця абзацу.</seg>
+      <tuv lang="uk-UA" changeid="Asus" changedate="20200622T035006Z" creationid="maximo" creationdate="20200413T112416Z">
+        <seg>&lt;e0&gt;Починати абзац на місці&lt;/e0&gt;:  HTML теґ &lt;br&gt; (розрив рядка) буде використовуватися як ознака кінця абзацу з метою сегментації.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>&lt;e0&gt;Translate the following attributes&lt;/e0&gt;: the selected attributes will appear as segments in the Editor window.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="maximo" changedate="20200510T170218Z" creationid="maximo" creationdate="20200413T112108Z">
-        <seg>&lt;e0&gt;Перекладати наступні атрибути&lt;/e0&gt;: значення вибраних атрибутів будуть серед сегментів для перекладу.</seg>
+      <tuv lang="uk-UA" changeid="Asus" changedate="20200622T034647Z" creationid="maximo" creationdate="20200413T112108Z">
+        <seg>&lt;e0&gt;Перекладати наступні атрибути&lt;/e0&gt;: значення вибраних атрибутів будуть серед сегментів для перекладу у вікні редагування.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2722,8 +2722,8 @@ The current setting is {0}MB;</seg>
       <tuv lang="en">
         <seg>&lt;e0&gt;Word:&lt;/e0&gt; non-visible instruction text, comments, footnotes, endnotes, footers</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="maximo" changedate="20200608T103949Z" creationid="maximo" creationdate="20200413T114017Z">
-        <seg>&lt;e0&gt;Word&lt;/e0&gt;: невидимий текст інструкцій, коментарі, зноски, примітки, колонтитули</seg>
+      <tuv lang="uk-UA" changeid="Asus" changedate="20200622T040351Z" creationid="maximo" creationdate="20200413T114017Z">
+        <seg>&lt;e0&gt;Word&lt;/e0&gt;: невидимий текст інструкцій, коментарі, виноски, кінцеві виноски, колонтитули</seg>
       </tuv>
     </tu>
     <tu>
@@ -4914,8 +4914,8 @@ may experience unexpected, but correct behaviour.</seg>
       <tuv lang="en">
         <seg>As this is the standard behaviour for PO files, it is selected by default.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="lesia" changedate="20200419T103201Z" creationid="maximo" creationdate="20200413T105557Z">
-        <seg>Оскільки це стандартна поведінка для PO файлів, цей прапорець активний за замовчуванням.</seg>
+      <tuv lang="uk-UA" changeid="Asus" changedate="20200622T034151Z" creationid="maximo" creationdate="20200413T105557Z">
+        <seg>Оскільки це стандартна поведінка для файлів PO, цей прапорець активний за стандартними налаштуваннями.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11222,8 +11222,8 @@ provided (omegat.kaptn).</seg>
       <tuv lang="en">
         <seg>For instance, if the file filter specifies UTF8 as the encoding scheme for the target files, selecting Always will ensure that this information is included in the translated files.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="maximo" changedate="20200510T165205Z" creationid="maximo" creationdate="20200413T164427Z">
-        <seg>Наприклад, якщо фільтр файлів вказує UTF-8 як систему кодування для перекладених файлів, то обирання варіанту "Завжди" гарантує те, що ця інформація буде відображена у перекладених файлах.</seg>
+      <tuv lang="uk-UA" changeid="Asus" changedate="20200622T041256Z" creationid="maximo" creationdate="20200413T164427Z">
+        <seg>Наприклад, якщо фільтр файлів вказує UTF-8 як систему кодування для перекладених файлів, то вибраний варіант "Завжди" гарантує те, що ця інформація буде відображена у перекладених файлах.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12814,8 +12814,8 @@ their defaults as a result of the location change.</seg>
       <tuv lang="en">
         <seg>If selected, when a segment in a PO file (which may be a whole paragraph) is not translated, the translation will be empty in the target file.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="lesia" changedate="20200419T062958Z" creationid="maximo" creationdate="20200413T105314Z">
-        <seg>Якщо стоїть цей прапорець, то неперекладені сегменти у PO файлі (це можуть бути і цілі абзаци) будуть порожніми у перекладеному файлі.</seg>
+      <tuv lang="uk-UA" changeid="Asus" changedate="20200622T034132Z" creationid="maximo" creationdate="20200413T105314Z">
+        <seg>Якщо стоїть цей прапорець, то неперекладені сегменти у файлі PO (це можуть бути і цілі абзаци) будуть порожніми у перекладеному файлі.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12942,8 +12942,8 @@ their defaults as a result of the location change.</seg>
       <tuv lang="en">
         <seg>If the option is checked, the source file name will not be used, and alternative translations will take effect in any file as long as the other context (previous/next segments or some sort of segment identifier, depending on the file format) matches.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="maximo" changedate="20200412T201425Z" creationid="maximo" creationdate="20200412T201425Z">
-        <seg>Якщо поставити цей прапорець, назва файлу для перекладу не буде братися до уваги і варіанти перекладу будуть використовуватися, якщо інший контекст збігається (наприклад, попередній, наступний сегмент, чи якийсь ідентифікатор, залежно від формату файлу).</seg>
+      <tuv lang="uk-UA" changeid="Asus" changedate="20200622T032601Z" creationid="maximo" creationdate="20200412T201425Z">
+        <seg>Якщо поставити цей прапорець, назва файлу для перекладу не буде братися до уваги і варіанти перекладу будуть використовуватися у будь-якому файлі, якщо інший контекст збігається (наприклад, попередній, наступний сегмент, чи якийсь ідентифікатор, залежно від формату файлу).</seg>
       </tuv>
     </tu>
     <tu>
@@ -13597,8 +13597,8 @@ click on that shortcut.</seg>
       <tuv lang="en">
         <seg>Ignore file context when identifying segments with alternate translations: by default, OmegaT uses the source file name as part of the identification of an alternative translation.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="maximo" changedate="20200412T201129Z" creationid="maximo" creationdate="20200412T201129Z">
-        <seg>Не брати до уваги файловий контекст при визначенні сегментів з варіантами перекладу: за замовчуванням OmegaT використовує назву файлу для перекладу, щоб визначити варіант перекладу.</seg>
+      <tuv lang="uk-UA" changeid="Asus" changedate="20200622T032406Z" creationid="maximo" creationdate="20200412T201129Z">
+        <seg>Не брати до уваги файловий контекст при визначенні сегментів з варіантами перекладу: типово OmegaT використовує назву файлу для перекладу, щоб визначити варіант перекладу.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13814,8 +13814,8 @@ click on that shortcut.</seg>
       <tuv lang="en">
         <seg>In non-segmented projects, it is possible to keep it by unchecking this option.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="maximo" changedate="20200412T200440Z" creationid="maximo" creationdate="20200412T200440Z">
-        <seg>В несегментованих проєктах їх можна залишити, якщо забрати цей прапорець.</seg>
+      <tuv lang="uk-UA" changeid="Asus" changedate="20200622T033625Z" creationid="maximo" creationdate="20200412T200440Z">
+        <seg>В несегментованих проєктах їх можна залишити, якщо забрати прапорець з цього параметра.</seg>
       </tuv>
     </tu>
     <tu>
@@ -14889,8 +14889,8 @@ click on that shortcut.</seg>
       <tuv lang="en">
         <seg>It is sometimes useful to be able make certain tags untranslatable based on the values of their attributes.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="maximo" changedate="20200413T113626Z" creationid="maximo" creationdate="20200413T113304Z">
-        <seg>Це іноді корисно, щоб ігнорувати вміст теґів, основуючись на значеннях їх атрибутів.</seg>
+      <tuv lang="uk-UA" changeid="Asus" changedate="20200622T035912Z" creationid="maximo" creationdate="20200413T113304Z">
+        <seg>Іноді корисно залишати певні теґи неперекладеними, керуючись значеннями їх атрибутів.</seg>
       </tuv>
     </tu>
     <tu>
@@ -19667,8 +19667,8 @@ installed on your system.</seg>
       <tuv lang="en">
         <seg>PO files</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="maximo" changedate="20200412T202214Z" creationid="maximo" creationdate="20200412T202214Z">
-        <seg>PO файли</seg>
+      <tuv lang="uk-UA" changeid="Asus" changedate="20200622T034119Z" creationid="maximo" creationdate="20200412T202214Z">
+        <seg>Файли PO</seg>
       </tuv>
     </tu>
     <tu>
@@ -19735,8 +19735,8 @@ Vanishing like mist</seg>
       <tuv lang="en">
         <seg>Paragraph segmentation on line breaks, empty lines or never:</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="lesia" changedate="20200419T062830Z" creationid="maximo" creationdate="20200412T202552Z">
-        <seg>Сегментація на абзаци по символах нового рядка, пустих рядках чи ніколи:</seg>
+      <tuv lang="uk-UA" changeid="Asus" changedate="20200622T033045Z" creationid="maximo" creationdate="20200412T202552Z">
+        <seg>Сегментація на абзаци після розривів рядків, після порожніх рядків чи ніколи:</seg>
       </tuv>
     </tu>
     <tu>
@@ -21613,16 +21613,16 @@ These words: 'Page not found'</seg>
       <tuv lang="en">
         <seg>Remove leading and trailing tags: uncheck this option to display all the tags, including tags at the beginning and end of the segment.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="maximo" changedate="20200412T200005Z" creationid="maximo" creationdate="20200412T200005Z">
-        <seg>Забирати початкові та кінцеві теґи: заберіть прапорець, якщо ви хочете, щоб відображалися всі теґи, в тому числі ті, що починають та закінчують сегмент.</seg>
+      <tuv lang="uk-UA" changeid="Asus" changedate="20200622T031706Z" creationid="maximo" creationdate="20200412T200005Z">
+        <seg>Видалити початкові та кінцеві теґи: заберіть прапорець, якщо ви хочете, щоб відображалися всі теґи, в тому числі ті, що починають та закінчують сегмент.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>Remove leading and trailing whitespace in non-segmented projects: by default, OmegaT removes leading and trailing whitespace.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="maximo" changedate="20200412T200359Z" creationid="maximo" creationdate="20200412T200359Z">
-        <seg>Видалити початкові та кінцеві пробіли в несегментованих проєктах: за замовчуванням OmegaT видаляє початкові та кінцеві пробіли.</seg>
+      <tuv lang="uk-UA" changeid="Asus" changedate="20200622T031955Z" creationid="maximo" creationdate="20200412T200359Z">
+        <seg>Видалити початкові та кінцеві пробіли в несегментованих проєктах: типово OmegaT видаляє початкові та кінцеві пробіли.</seg>
       </tuv>
     </tu>
     <tu>
@@ -23822,8 +23822,8 @@ The scope of a search is by default the project and can be set to be any files l
       <tuv lang="en">
         <seg>Several filters (text files, XHTML files, HTML and XHTML files, OpenDocument files and Microsoft Open XML files) have one or more specific options.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="maximo" changedate="20200412T202404Z" creationid="maximo" creationdate="20200412T202404Z">
-        <seg>Деякі фільтри файлів (для текстових файлів, XHTML, HTML, OpenDocument та Microsoft Open XML) мають свої специфічні параметри.</seg>
+      <tuv lang="uk-UA" changeid="Asus" changedate="20200622T032811Z" creationid="maximo" creationdate="20200412T202404Z">
+        <seg>Деякі фільтри файлів (для текстових файлів, XHTML, HTML, OpenDocument та Microsoft Open XML) мають свої окремі параметри.</seg>
       </tuv>
     </tu>
     <tu>
@@ -25347,8 +25347,8 @@ The scope of a search is by default the project and can be set to be any files l
       <tuv lang="en">
         <seg>Technically speaking, the &lt;c0&gt;msgstr&lt;/c0&gt; segment in the PO target file, if created, will be left empty.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="maximo" changedate="20200510T164903Z" creationid="maximo" creationdate="20200413T105504Z">
-        <seg>З технічної точки зору, це означає, що сегмент &lt;c0&gt;msgstr&lt;/c0&gt; у перекладеному PO файлі, якщо він створиться, буде залишатися порожнім.</seg>
+      <tuv lang="uk-UA" changeid="Asus" changedate="20200622T034141Z" creationid="maximo" creationdate="20200413T105504Z">
+        <seg>З технічної точки зору, це означає, що сегмент &lt;c0&gt;msgstr&lt;/c0&gt; у перекладеному файлі PO, якщо він створиться, буде залишатися порожнім.</seg>
       </tuv>
     </tu>
     <tu>
@@ -26268,8 +26268,8 @@ instead.</seg>
       <tuv lang="en">
         <seg>The dialog allows you to enable or disable the following options:</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="lesia" changedate="20200419T062011Z" creationid="maximo" creationdate="20200412T195630Z">
-        <seg>Цей діалог дає можливість редагувати такі параметри:</seg>
+      <tuv lang="uk-UA" changeid="Asus" changedate="20200622T031607Z" creationid="maximo" creationdate="20200412T195630Z">
+        <seg>Це діалогове вікно дає можливість редагувати такі параметри:</seg>
       </tuv>
     </tu>
     <tu>
@@ -28466,8 +28466,8 @@ the server.</seg>
       <tuv lang="en">
         <seg>This option allows OmegaT to override the specification in the PO file header and use the default for the selected target language.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="maximo" changedate="20200413T105920Z" creationid="maximo" creationdate="20200413T105920Z">
-        <seg>Цей параметр дозволяє OmegaT переписати специфікацію у заголовку PO файла та використовувати стандартну для мови перекладу.</seg>
+      <tuv lang="uk-UA" changeid="Asus" changedate="20200622T034457Z" creationid="maximo" creationdate="20200413T105920Z">
+        <seg>Цей параметр дозволяє OmegaT замінити специфікацію у заголовку файла PO та використовувати стандартну для мови перекладу.</seg>
       </tuv>
     </tu>
     <tu>
@@ -30773,8 +30773,8 @@ searchable without subscription:</seg>
       <tuv lang="en">
         <seg>Using this option, the translator can specify whether the target files should have the encoding declaration included.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="maximo" changedate="20200413T164213Z" creationid="maximo" creationdate="20200413T164213Z">
-        <seg>Використовуючи цей параметр може вказати, чи перекладені файли мусять містити оголошення про кодування.</seg>
+      <tuv lang="uk-UA" changeid="Asus" changedate="20200622T041127Z" creationid="maximo" creationdate="20200413T164213Z">
+        <seg>Використовуючи цей параметр, перекладач може вказати, чи перекладені файли мусять містити оголошення про кодування.</seg>
       </tuv>
     </tu>
     <tu>
@@ -31097,8 +31097,8 @@ searchable without subscription:</seg>
       <tuv lang="en">
         <seg>Warning: in Microsoft Open XML formats (docx, xlsx, etc.), if all tags are displayed, DO NOT place any text before the first tag – it is a technical tag that must always begin the segment.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="lesia" changedate="20200419T062215Z" creationid="maximo" creationdate="20200412T200249Z">
-        <seg>Обережно! У форматах Microsoft Open XML (docx, xlsx, etc.) якщо відображуються всі теґи, в жодному разі не вставляйте ніякого тексту перед першим теґом! Це технічний теґ, він обов'язково має починати сегмент.</seg>
+      <tuv lang="uk-UA" changeid="Asus" changedate="20200622T031907Z" creationid="maximo" creationdate="20200412T200249Z">
+        <seg>Обережно! У форматах Microsoft Open XML (docx, xlsx, etc.) якщо відображуються всі теґи, в жодному разі НЕ вставляйте текст перед першим теґом. Це технічний теґ, він обов'язково має починати сегмент.</seg>
       </tuv>
     </tu>
     <tu>
@@ -33905,8 +33905,8 @@ create its configuration folder.</seg>
       <tuv lang="en">
         <seg>if sentence segmentation rules are active, the text will be segmented further according to the option selected here.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="maximo" changedate="20200608T103621Z" creationid="maximo" creationdate="20200412T202657Z">
-        <seg>якщо сегментація на речення активна, то отримані абзаци будуть сегментовані далі.</seg>
+      <tuv lang="uk-UA" changeid="Asus" changedate="20200622T033614Z" creationid="maximo" creationdate="20200412T202657Z">
+        <seg>якщо сегментація на речення активна, то текст буде далі ділитися на сегменти відповідно до вибраного параметра.</seg>
       </tuv>
     </tu>
     <tu>
