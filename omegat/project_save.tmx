@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.2.0_0_747fc65a9" segtype="sentence" srclang="en"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.2.0_0_747fc65a" segtype="sentence" srclang="en"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -2177,8 +2177,8 @@ The current setting is {0}MB;</seg>
       <tuv lang="en">
         <seg>&lt;/e2&gt;The '*' character matches zero or more characters.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="maximo" changedate="20200505T201259Z" creationid="maximo" creationdate="20200413T184226Z">
-        <seg>&lt;/e2&gt;. Символ '*' відповідає нулю чи більше будь-яких символів.</seg>
+      <tuv lang="uk-UA" changeid="Asus" changedate="20200623T033545Z" creationid="maximo" creationdate="20200413T184226Z">
+        <seg>&lt;/e2&gt;. Символ '*' відповідає нулю чи більшим символам.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2305,8 +2305,8 @@ The current setting is {0}MB;</seg>
       <tuv lang="en">
         <seg>&lt;auto&gt; leaves the choice of encoding to &lt;a1&gt;OmegaT&lt;/a1&gt;.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="maximo" changedate="20200413T185515Z" creationid="maximo" creationdate="20200413T185515Z">
-        <seg>Вибором варіанту &lt;auto&gt; ви залишаєте &lt;a1&gt;OmegaT&lt;/a1&gt; вибір кодування.</seg>
+      <tuv lang="uk-UA" changeid="Asus" changedate="20200623T034826Z" creationid="maximo" creationdate="20200413T185515Z">
+        <seg>Якщо ви вибираєте &lt;auto&gt;, то залишаєте &lt;a1&gt;OmegaT&lt;/a1&gt; вибір кодування.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3002,8 +3002,8 @@ The current setting is {0}MB;</seg>
       <tuv lang="en">
         <seg>&lt;l0&gt;${nameOnly}&lt;/l0&gt;– allows you to insert only the name of the source file without the extension.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="maximo" changedate="20200413T191258Z" creationid="maximo" creationdate="20200413T191258Z">
-        <seg>&lt;l0&gt;${nameOnly}&lt;/l0&gt;– дозволяє вписати назву файлу оригінала без розширення.</seg>
+      <tuv lang="uk-UA" changeid="Asus" changedate="20200623T040647Z" creationid="maximo" creationdate="20200413T191258Z">
+        <seg>&lt;l0&gt;${nameOnly}&lt;/l0&gt;– дозволяє вказати лише назву файлу оригінала без розширення.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3018,8 +3018,8 @@ The current setting is {0}MB;</seg>
       <tuv lang="en">
         <seg>&lt;l0&gt;${system-os-name}&lt;/l0&gt; - operating system of the computer used</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="maximo" changedate="20200413T191616Z" creationid="maximo" creationdate="20200413T191616Z">
-        <seg>&lt;l0&gt;${system-os-name}&lt;/l0&gt; - операційна система комп'ютера, на якому робився переклад</seg>
+      <tuv lang="uk-UA" changeid="Asus" changedate="20200623T041438Z" creationid="maximo" creationdate="20200413T191616Z">
+        <seg>&lt;l0&gt;${system-os-name}&lt;/l0&gt; - операційна система використаного комп'ютера</seg>
       </tuv>
     </tu>
     <tu>
@@ -3034,16 +3034,16 @@ The current setting is {0}MB;</seg>
       <tuv lang="en">
         <seg>&lt;l0&gt;${targetCountryCode}&lt;/l0&gt;– the target country - only "YY"</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="maximo" changedate="20200413T191335Z" creationid="maximo" creationdate="20200413T191335Z">
-        <seg>&lt;l0&gt;${targetCountryCode}&lt;/l0&gt;– лише код країни перекладу ("YY").</seg>
+      <tuv lang="uk-UA" changeid="Asus" changedate="20200623T040817Z" creationid="maximo" creationdate="20200413T191335Z">
+        <seg>&lt;l0&gt;${targetCountryCode}&lt;/l0&gt;– код країни перекладу (лише "YY").</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>&lt;l0&gt;${targetLanguageCode}&lt;/l0&gt; – the target language - only "XX"</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="maximo" changedate="20200413T191330Z" creationid="maximo" creationdate="20200413T191330Z">
-        <seg>&lt;l0&gt;${targetLanguageCode}&lt;/l0&gt; – лише код мови перекладу ("XX").</seg>
+      <tuv lang="uk-UA" changeid="Asus" changedate="20200623T040802Z" creationid="maximo" creationdate="20200413T191330Z">
+        <seg>&lt;l0&gt;${targetLanguageCode}&lt;/l0&gt; – код мови перекладу (лише "XX").</seg>
       </tuv>
     </tu>
     <tu>
@@ -3074,8 +3074,8 @@ The current setting is {0}MB;</seg>
       <tuv lang="en">
         <seg>&lt;l0&gt;${timestamp-????}&lt;/l0&gt; – system date time at generation time in various patterns</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="maximo" changedate="20200413T191424Z" creationid="maximo" creationdate="20200413T191412Z">
-        <seg>&lt;l0&gt;${timestamp-????}&lt;/l0&gt; – системний час та дата в момент створення файлу у різних форматах</seg>
+      <tuv lang="uk-UA" changeid="Asus" changedate="20200623T040841Z" creationid="maximo" creationdate="20200413T191412Z">
+        <seg>&lt;l0&gt;${timestamp-????}&lt;/l0&gt; – системний час та дата в момент створення файлу у різних шаблонах</seg>
       </tuv>
     </tu>
     <tu>
@@ -5726,8 +5726,8 @@ Buy another drink</seg>
       <tuv lang="en">
         <seg>By default, the translated file encoding is the same as the source file encoding.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="lesia" changedate="20200419T103228Z" creationid="maximo" creationdate="20200413T185224Z">
-        <seg>За замовчуванням перекладені файли записуються в тій самій системі кодування, що була у файлів для перекладу.</seg>
+      <tuv lang="uk-UA" changeid="Asus" changedate="20200623T034644Z" creationid="maximo" creationdate="20200413T185224Z">
+        <seg>У рамках стандартних налаштувань перекладені файли записуються в тій самій системі кодування, що і файли для перекладу.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8124,8 +8124,8 @@ Buy another drink</seg>
       <tuv lang="en">
         <seg>Default is &lt;l0&gt;${filename}&lt;/l0&gt;– full filename of the source file with extension: in this case the name of the translated file is the same as that of the source file.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="maximo" changedate="20200413T191254Z" creationid="maximo" creationdate="20200413T191254Z">
-        <seg>За замовчуванням встановлено &lt;l0&gt;${filename}&lt;/l0&gt;– повна назва файлу оригінала з розширенням, тобто назва перекладеного файлу збігається з назвою файлу оригінала.</seg>
+      <tuv lang="uk-UA" changeid="Asus" changedate="20200623T040605Z" creationid="maximo" creationdate="20200413T191254Z">
+        <seg>Типово встановлено &lt;l0&gt;${filename}&lt;/l0&gt;– повна назва файлу оригінала з розширенням, тобто назва перекладеного файлу збігається з назвою файлу оригінала.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10692,8 +10692,8 @@ Gossamer threads hold you back
       <tuv lang="en">
         <seg>File formats that do not specify their encoding will use the encoding you set up for the extension that matches their name.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="maximo" changedate="20200413T184816Z" creationid="maximo" creationdate="20200413T184816Z">
-        <seg>Для файлів у форматах, що не вказують кодування, будуть використані системи кодування, які ви вказали для всіх файлів цього типу.</seg>
+      <tuv lang="uk-UA" changeid="Asus" changedate="20200623T034252Z" creationid="maximo" creationdate="20200413T184816Z">
+        <seg>Для форматів файлів, що не вказують кодування, буде використане кодування, яке ви вказали для розширення файлів цього типу.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11078,16 +11078,16 @@ provided (omegat.kaptn).</seg>
       <tuv lang="en">
         <seg>For example, by default &lt;l0&gt;.txt&lt;/l0&gt; files will be loaded using the default encoding of your operating system.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="maximo" changedate="20200505T202506Z" creationid="maximo" creationdate="20200413T185003Z">
-        <seg>Наприклад, без спеціального налаштування файли &lt;l0&gt;.txt&lt;/l0&gt; завантажуються у системі кодування, що вказана як основна у вашій операційній системі.</seg>
+      <tuv lang="uk-UA" changeid="Asus" changedate="20200623T034438Z" creationid="maximo" creationdate="20200413T185003Z">
+        <seg>Наприклад, без спеціального налаштування файли &lt;l0&gt;.txt&lt;/l0&gt; завантажуються у системі кодування, що є типовою у вашій операційній системі.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>For example, by default, the XHTML filter is used to process files with the .xhtml extension.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="maximo" changedate="20200413T183928Z" creationid="maximo" creationdate="20200413T183928Z">
-        <seg>Наприклад, зазвичай фільтр XHTML використовується для файлів із розширенням .xhtml.</seg>
+      <tuv lang="uk-UA" changeid="Asus" changedate="20200623T032839Z" creationid="maximo" creationdate="20200413T183928Z">
+        <seg>Наприклад, зазвичай фільтр XHTML використовується для обробки файлів із розширенням .xhtml.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11110,8 +11110,8 @@ provided (omegat.kaptn).</seg>
       <tuv lang="en">
         <seg>For example, if you wish the text filter to handle readme files (&lt;l3&gt;readme, read.me&lt;/l3&gt;, and &lt;l4&gt;readme.txt&lt;/l4&gt;) you should use the pattern &lt;l5&gt;read*&lt;/l5&gt;.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="maximo" changedate="20200413T184421Z" creationid="maximo" creationdate="20200413T184421Z">
-        <seg>Наприклад, якщо ви хочете, щоб текстовий фільтр працював для файлів readme (&lt;l3&gt;readme, read.me&lt;/l3&gt;, та &lt;l4&gt;readme.txt&lt;/l4&gt;) ви можете використати шаблон &lt;l5&gt;read*&lt;/l5&gt;.</seg>
+      <tuv lang="uk-UA" changeid="Asus" changedate="20200623T033639Z" creationid="maximo" creationdate="20200413T184421Z">
+        <seg>Наприклад, якщо ви хочете, щоб текстовий фільтр працював для файлів readme (&lt;l3&gt;readme, read.me&lt;/l3&gt;, та &lt;l4&gt;readme.txt&lt;/l4&gt;) вам варто використати шаблон &lt;l5&gt;read*&lt;/l5&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12647,8 +12647,8 @@ need not be entered.)</seg>
       <tuv lang="en">
         <seg>If for example the original file is named Document.xx.docx, the following variables will give the following results:</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="maximo" changedate="20200413T192503Z" creationid="maximo" creationdate="20200413T192503Z">
-        <seg>Наприклад, якщо оригінальний файл називався Document.xx.docx, то цей синтаксис буде працювати так:</seg>
+      <tuv lang="uk-UA" changeid="Asus" changedate="20200623T041915Z" creationid="maximo" creationdate="20200413T192503Z">
+        <seg>Наприклад, якщо оригінальний файл називався Document.xx.docx, то синтаксис буде працювати так:</seg>
       </tuv>
     </tu>
     <tu>
@@ -13507,8 +13507,8 @@ to use Java Web Start.</seg>
       <tuv lang="en">
         <seg>If you want to revert to the filter's default configuration, click &lt;e1&gt;Defaults.&lt;/e1&gt; You can also modify the name directly in the target filename pattern field of the file filters dialog.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="maximo" changedate="20200413T191027Z" creationid="maximo" creationdate="20200413T191027Z">
-        <seg>Якщо ви хочете повернутися до стандартних налаштувань фільтру файлів, натисніть  &lt;e1&gt;Відновити типові значення&lt;/e1&gt;. Також ви можете змінити шаблон безпосередньо у відповідному полі діалогового вікна налаштувань фільтру файлів.</seg>
+      <tuv lang="uk-UA" changeid="Asus" changedate="20200623T040413Z" creationid="maximo" creationdate="20200413T191027Z">
+        <seg>Якщо ви хочете повернутися до стандартних налаштувань фільтру, натисніть &lt;e1&gt;Відновити типові значення&lt;/e1&gt;. Також ви можете змінити ім'я безпосередньо у полі шаблону для імен перекладених файлів у діалоговому вікні налаштувань фільтру файлів.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13758,8 +13758,8 @@ click on that shortcut.</seg>
       <tuv lang="en">
         <seg>In case the file name has ambivalent name, one can apply variables of the form &lt;l0&gt;${name only&lt;/l0&gt;&lt;e1&gt;-extension number&lt;/e1&gt;} and &lt;l2&gt;${extension&lt;/l2&gt;-&lt;e3&gt;extension number} &lt;/e3&gt;.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="maximo" changedate="20200510T170610Z" creationid="maximo" creationdate="20200413T192354Z">
-        <seg>Якщо ім'я файлу неоднозначне, то можна використати ці змінні у такому форматі: &lt;l0&gt;${nameOnly&lt;/l0&gt;&lt;e1&gt;-кількість розширень&lt;/e1&gt;} and &lt;l2&gt;${extension&lt;/l2&gt;-&lt;e3&gt;кількість розширень} &lt;/e3&gt;.</seg>
+      <tuv lang="uk-UA" changeid="Asus" changedate="20200623T041640Z" creationid="maximo" creationdate="20200413T192354Z">
+        <seg>Якщо ім'я файлу неоднозначне, то можна використати ці змінні у такому форматі: &lt;l0&gt;${nameOnly&lt;/l0&gt;&lt;e1&gt;-кількість розширень&lt;/e1&gt;} та &lt;l2&gt;${extension&lt;/l2&gt;-&lt;e3&gt;кількість розширень} &lt;/e3&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -18460,8 +18460,8 @@ as the Applications folder.</seg>
       <tuv lang="en">
         <seg>OmegaT identifies the source file encoding by using its encoding declaration, if present (HTML files, XML based files).</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="maximo" changedate="20200413T185719Z" creationid="maximo" creationdate="20200413T185719Z">
-        <seg>OmegaT визначає кодування файлу для перекладу шляхом перевірки оголошення системи кодування, якщо воно є (файли HTML та інші типи файлів, засновані на XML).</seg>
+      <tuv lang="uk-UA" changeid="Asus" changedate="20200623T035330Z" creationid="maximo" creationdate="20200413T185719Z">
+        <seg>OmegaT визначає кодування файлу для перекладу шляхом перевірки оголошення кодування, якщо воно є (файли HTML та файли, засновані на XML).</seg>
       </tuv>
     </tu>
     <tu>
@@ -19024,8 +19024,8 @@ installed on your system.</seg>
       <tuv lang="en">
         <seg>Only a limited number of file formats specify a mandatory encoding.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="maximo" changedate="20200608T105014Z" creationid="maximo" creationdate="20200413T184551Z">
-        <seg>Тільки невелика кількість форматів файлів передбачає, що система кодування буде вказана явно.</seg>
+      <tuv lang="uk-UA" changeid="Asus" changedate="20200623T034025Z" creationid="maximo" creationdate="20200413T184551Z">
+        <seg>Тільки обмежена кількість форматів файлів вказує обов'язкове кодування.</seg>
       </tuv>
     </tu>
     <tu>
@@ -24184,8 +24184,8 @@ The scope of a search is by default the project and can be set to be any files l
       <tuv lang="en">
         <seg>Sometimes you may wish to rename the files you translate automatically, for example adding a language code after the file name.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="maximo" changedate="20200413T190122Z" creationid="maximo" creationdate="20200413T190112Z">
-        <seg>Іноді може бути зручно, щоб перекладені файли мали змінену назву. Наприклад, щоб після імені додавався код мови перекладу.</seg>
+      <tuv lang="uk-UA" changeid="Asus" changedate="20200623T035835Z" creationid="maximo" creationdate="20200413T190112Z">
+        <seg>Іноді може бути зручно, щоб перекладені файли автоматично змінювали назву. Наприклад, щоб після імені додавався код мови перекладу.</seg>
       </tuv>
     </tu>
     <tu>
@@ -24304,8 +24304,8 @@ The scope of a search is by default the project and can be set to be any files l
       <tuv lang="en">
         <seg>Source and Translated file encoding</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="maximo" changedate="20200413T184455Z" creationid="maximo" creationdate="20200413T184455Z">
-        <seg>Кодування файлів для перекладу, та перекладених файлів</seg>
+      <tuv lang="uk-UA" changeid="Asus" changedate="20200623T033810Z" creationid="maximo" creationdate="20200413T184455Z">
+        <seg>Кодування файлів для перекладу та перекладених файлів</seg>
       </tuv>
     </tu>
     <tu>
@@ -24352,8 +24352,8 @@ The scope of a search is by default the project and can be set to be any files l
       <tuv lang="en">
         <seg>Source filename patterns use wild card characters similar to those used in &lt;e2&gt;Searches.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="maximo" changedate="20200505T201247Z" creationid="maximo" creationdate="20200413T184153Z">
-        <seg>Шаблони імен файлів для перекладу використовують той самий набір спеціальних символів, що і &lt;e2&gt;Пошук</seg>
+      <tuv lang="uk-UA" changeid="Asus" changedate="20200623T033501Z" creationid="maximo" creationdate="20200413T184153Z">
+        <seg>Шаблони імен файлів для перекладу використовують той самий набір символів узагальнення, що і у вікні &lt;e2&gt;Пошук.</seg>
       </tuv>
     </tu>
     <tu>
@@ -25235,8 +25235,8 @@ The scope of a search is by default the project and can be set to be any files l
       <tuv lang="en">
         <seg>Target files can also be written in any encoding.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="maximo" changedate="20200413T185123Z" creationid="maximo" creationdate="20200413T185123Z">
-        <seg>Перекладені файли також можуть записуватися у будь-якому кодуванні.</seg>
+      <tuv lang="uk-UA" changeid="Asus" changedate="20200623T034536Z" creationid="maximo" creationdate="20200413T185123Z">
+        <seg>Перекладені файли також можуть записуватися з використанням будь-якого кодування.</seg>
       </tuv>
     </tu>
     <tu>
@@ -25671,8 +25671,8 @@ current folder will be used instead.</seg>
       <tuv lang="en">
         <seg>The Edit Pattern Dialog offers among others the following options:</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="maximo" changedate="20200413T191237Z" creationid="maximo" creationdate="20200413T191237Z">
-        <seg>Серед іншого, діалогове вікно Редагувати шаблон дає можливість використати такі шаблони:</seg>
+      <tuv lang="uk-UA" changeid="Asus" changedate="20200623T040439Z" creationid="maximo" creationdate="20200413T191237Z">
+        <seg>Серед іншого, діалогове вікно Редагувати шаблон дає можливість використати наступні варіанти:</seg>
       </tuv>
     </tu>
     <tu>
@@ -26276,8 +26276,8 @@ instead.</seg>
       <tuv lang="en">
         <seg>The dialog includes a special target filename pattern editor, which you can use to customize the names of output files.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="maximo" changedate="20200413T165605Z" creationid="maximo" creationdate="20200413T165605Z">
-        <seg>Діалогове вікно містить спеціальний редактор шаблонів назв перекладених файлів.</seg>
+      <tuv lang="uk-UA" changeid="Asus" changedate="20200623T032444Z" creationid="maximo" creationdate="20200413T165605Z">
+        <seg>Діалогове вікно містить спеціальний редактор шаблонів імен перекладених файлів.</seg>
       </tuv>
     </tu>
     <tu>
@@ -27467,8 +27467,8 @@ in /lib/licenses/Licenses.txt.</seg>
       <tuv lang="en">
         <seg>The target filename pattern uses a special syntax, so if you want to edit this field, you must click &lt;e0&gt;Edit...&lt;/e0&gt;and use the Edit Pattern Dialog.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="maximo" changedate="20200413T190343Z" creationid="maximo" creationdate="20200413T190343Z">
-        <seg>Шаблон імені перекладеного файлу використовує спеціальний синтаксис, тому якщо ви хочете змінити це поле, вам треба натиснути &lt;e0&gt;Редагувати...&lt;/e0&gt; та використати діалог Редагувати шаблон.</seg>
+      <tuv lang="uk-UA" changeid="Asus" changedate="20200623T040037Z" creationid="maximo" creationdate="20200413T190343Z">
+        <seg>Шаблон імені перекладеного файлу використовує спеціальний синтаксис, тому якщо ви хочете змінити це поле, вам треба натиснути &lt;e0&gt;Редагувати...&lt;/e0&gt; та використати діалогове вікно Редагувати шаблон.</seg>
       </tuv>
     </tu>
     <tu>
@@ -28120,8 +28120,8 @@ the server.</seg>
       <tuv lang="en">
         <seg>This dialog enables you to specify the source filename patterns for files to be processed by the filter, customize the filenames of translated files and select which encodings should be used for loading the source file and saving the translation.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="lesia" changedate="20200419T100810Z" creationid="maximo" creationdate="20200413T165350Z">
-        <seg>У діалоговому вікні можна налаштувати шаблон назви файлу оригіналу, який оброблятиметься фільтром, та назви перекладеного файлу, а також встановити, які кодування будуть використовуватися для завантаження файлу та збереження його перекладу.</seg>
+      <tuv lang="uk-UA" changeid="Asus" changedate="20200623T032424Z" creationid="maximo" creationdate="20200413T165350Z">
+        <seg>У діалоговому вікні можна налаштувати шаблони імені файлу оригіналу, який оброблятиметься фільтром, та імені перекладеного файлу, а також встановити, які кодування будуть використовуватися для завантаження оригіналу та збереження його перекладу.</seg>
       </tuv>
     </tu>
     <tu>
@@ -31211,8 +31211,8 @@ of selecting, obtaining and installing it.</seg>
       <tuv lang="en">
         <seg>When OmegaT encounters a file in its source folder, it attempts to select the filter based upon the file's extension.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="lesia" changedate="20200419T142828Z" creationid="maximo" creationdate="20200413T183406Z">
-        <seg>Для кожного з файлів у теці для файлів оригіналу OmegaT намагається підібрати фільтр відповідно до його розширення.</seg>
+      <tuv lang="uk-UA" changeid="Asus" changedate="20200623T032632Z" creationid="maximo" creationdate="20200413T183406Z">
+        <seg>Для кожного з файлів оригіналу у відповідній теці OmegaT намагається підібрати фільтр відповідно до його розширення.</seg>
       </tuv>
     </tu>
     <tu>
@@ -32135,8 +32135,8 @@ start menu, the desktop or the quick launch area to link it from there.</seg>
       <tuv lang="en">
         <seg>You can change or add filename patterns for files to be handled by each file filter.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="maximo" changedate="20200413T184038Z" creationid="maximo" creationdate="20200413T184038Z">
-        <seg>Ви можете змінити існуючі шаблони і додати нові для кожного фільтра файлів.</seg>
+      <tuv lang="uk-UA" changeid="Asus" changedate="20200623T033026Z" creationid="maximo" creationdate="20200413T184038Z">
+        <seg>Ви можете змінити або додати шаблони імені файлів для кожного фільтра файлів.</seg>
       </tuv>
     </tu>
     <tu>
@@ -32159,8 +32159,8 @@ start menu, the desktop or the quick launch area to link it from there.</seg>
       <tuv lang="en">
         <seg>You can change the source encoding for each different source filename pattern.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="maximo" changedate="20200413T185052Z" creationid="maximo" creationdate="20200413T185052Z">
-        <seg>Ви можете змінити систему кодування для кожного шаблону імен файлів.</seg>
+      <tuv lang="uk-UA" changeid="Asus" changedate="20200623T034457Z" creationid="maximo" creationdate="20200413T185052Z">
+        <seg>Ви можете змінити кодування для кожного шаблону імен файлів.</seg>
       </tuv>
     </tu>
     <tu>
