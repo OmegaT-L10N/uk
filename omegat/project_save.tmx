@@ -1644,8 +1644,8 @@ To add files to the project, click on the Copy Files to Source Folder... button 
       <tuv lang="en">
         <seg>(The definition of “unique” is case-sensitive: "Run" and "run" are treated as being different)</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="maximo" changedate="20200616T121005Z" creationid="lesia" creationdate="20200429T202818Z">
-        <seg>(“Унікальність” враховує регістр символів: "Запуск" та "запуск" не є повтором)</seg>
+      <tuv lang="uk-UA" changeid="maximo" changedate="20200624T201427Z" creationid="lesia" creationdate="20200429T202818Z">
+        <seg>“Унікальність” враховує регістр символів: "запуск" та "Запуск" не є повтором.</seg>
       </tuv>
     </tu>
     <tu>
