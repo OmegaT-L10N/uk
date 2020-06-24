@@ -28096,8 +28096,8 @@ the server.</seg>
       <tuv lang="en">
         <seg>This copies the selected files to the &lt;f2&gt;source&lt;/f2&gt; folder and reloads the project to import the new files.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="lesia" changedate="20200429T202828Z" creationid="lesia" creationdate="20200429T202828Z">
-        <seg>Це дозволяє скопіювати обрані файли до теки &lt;f2&gt;source&lt;/f2&gt; та перезавантажити проєкт для імпорту нових файлів.</seg>
+      <tuv lang="uk-UA" changeid="maximo" changedate="20200624T202354Z" creationid="lesia" creationdate="20200429T202828Z">
+        <seg>В результаті файли скопіюються до теки &lt;f2&gt;source&lt;/f2&gt;, і проєкт перезавантажиться, щоб вони імпортувалися.</seg>
       </tuv>
     </tu>
     <tu>
