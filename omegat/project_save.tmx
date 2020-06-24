@@ -5710,8 +5710,8 @@ Buy another drink</seg>
       <tuv lang="en">
         <seg>By default, scripts are stored in the &lt;f0&gt;scripts&lt;/f0&gt; folder located in the OmegaT installation folder (the folder that contains the &lt;f1&gt;OmegaT.jar&lt;/f1&gt; file).</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="lesia" changedate="20200503T060538Z" creationid="lesia" creationdate="20200503T060218Z">
-        <seg>Типово скрипти зберігаються у теці &lt;f0&gt;скрипти&lt;/f0&gt;, розміщеній у теці програми OmegaT (яка містить файл &lt;f1&gt;OmegaT.jar&lt;/f1&gt;).</seg>
+      <tuv lang="uk-UA" changeid="maximo" changedate="20200624T203223Z" creationid="lesia" creationdate="20200503T060218Z">
+        <seg>Типово скрипти зберігаються у теці &lt;f0&gt;scripts&lt;/f0&gt;, розміщеній у теці програми OmegaT (яка містить файл &lt;f1&gt;OmegaT.jar&lt;/f1&gt;).</seg>
       </tuv>
     </tu>
     <tu>
