@@ -28820,8 +28820,8 @@ the server.</seg>
       <tuv lang="en">
         <seg>To customize the scripting feature, do the following:</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="lesia" changedate="20200503T054935Z" creationid="lesia" creationdate="20200503T054935Z">
-        <seg>Щоб налаштувати цю можливість, потрібно:</seg>
+      <tuv lang="uk-UA" changeid="maximo" changedate="20200624T203102Z" creationid="lesia" creationdate="20200503T054935Z">
+        <seg>Для того, щоб скористатися певною скриптовою функцією потрібно:</seg>
       </tuv>
     </tu>
     <tu>
@@ -31355,8 +31355,8 @@ of selecting, obtaining and installing it.</seg>
       <tuv lang="en">
         <seg>When you left-click the number, the selected script will run.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="lesia" changedate="20200503T055619Z" creationid="lesia" creationdate="20200503T055535Z">
-        <seg>Скрипт почне виконуватися після натискання лівою клавішою миші на число.</seg>
+      <tuv lang="uk-UA" changeid="maximo" changedate="20200624T203129Z" creationid="lesia" creationdate="20200503T055535Z">
+        <seg>Запустити скрипт можна натиснувши лівою клавішою миші на число.</seg>
       </tuv>
     </tu>
     <tu>
@@ -32111,8 +32111,8 @@ start menu, the desktop or the quick launch area to link it from there.</seg>
       <tuv lang="en">
         <seg>You can also start the selected macros from the main menu by using their entries in the &lt;g0&gt;Tools &lt;/g0&gt;menu or by pressing&lt;k1&gt; Ctrl+Alt+F#&lt;/k1&gt; (# 1 to 12).</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="lesia" changedate="20200503T060239Z" creationid="lesia" creationdate="20200503T055540Z">
-        <seg>Ви також можете запустити вибрані макроси з головного меню, використовуючи відповідний пункт меню &lt;g0&gt;Інструменти &lt;/g0&gt;або натиснувши&lt;k1&gt; Ctrl+Alt+F#&lt;/k1&gt; (# від 1 до 12).</seg>
+      <tuv lang="uk-UA" changeid="maximo" changedate="20200624T203213Z" creationid="lesia" creationdate="20200503T055540Z">
+        <seg>Ви також можете запустити обрані скрипти з головного меню, використовуючи відповідний пункт меню &lt;g0&gt;Інструменти&lt;/g0&gt; або натиснувши&lt;k1&gt; Ctrl+Alt+F#&lt;/k1&gt; (# від 1 до 12).</seg>
       </tuv>
     </tu>
     <tu>
