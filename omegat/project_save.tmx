@@ -2626,8 +2626,8 @@ The current setting is {0}MB;</seg>
       <tuv lang="en">
         <seg>&lt;e0&gt;Replace All:&lt;/e0&gt; operates replacement of all occurrences (after displaying a confirmation window where the number of occurrences is shown).</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="maximo" changedate="20200503T062334Z" creationid="maximo" creationdate="20200503T061609Z">
-        <seg>&lt;e0&gt;Замінити все&lt;/e0&gt; - використовує заміну для всюди (перед тим показуючи кількість місць).</seg>
+      <tuv lang="uk-UA" changeid="maximo" changedate="20200624T204110Z" creationid="maximo" creationdate="20200503T061609Z">
+        <seg>&lt;e0&gt;Замінити все&lt;/e0&gt; - використовує заміну для всіх місць (перед тим показуючи їх кількість).</seg>
       </tuv>
     </tu>
     <tu>
@@ -9764,8 +9764,8 @@ Your help page not found</seg>
       <tuv lang="en">
         <seg>Enter the new word or phrase (regular expressions are not supported) in the &lt;e0&gt;Replace with&lt;/e0&gt; box, then click one of the following options:</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="maximo" changedate="20200503T061616Z" creationid="maximo" creationdate="20200503T061522Z">
-        <seg>Введіть нове слово, чи фразу, у поле (регулярні вирази не підтримуються) в поле &lt;e0&gt;Замінити на:&lt;/e0&gt;, тоді оберіть один з варіантів:</seg>
+      <tuv lang="uk-UA" changeid="maximo" changedate="20200624T204045Z" creationid="maximo" creationdate="20200503T061522Z">
+        <seg>Введіть нове слово чи фразу у поле &lt;e0&gt;Замінити на:&lt;/e0&gt; (регулярні вирази не підтримуються), тоді оберіть один з варіантів:</seg>
       </tuv>
     </tu>
     <tu>
