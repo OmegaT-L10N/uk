@@ -25847,8 +25847,8 @@ current folder will be used instead.</seg>
       <tuv lang="en">
         <seg>The Scripting window allows you to load an existing script into the text area and run it against the current opened project.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="lesia" changedate="20200503T054834Z" creationid="lesia" creationdate="20200503T054834Z">
-        <seg>Вікно скриптів дозволяє завантажити наявний скрипт в зону тексту та застосувати його до поточного проєкту.</seg>
+      <tuv lang="uk-UA" changeid="maximo" changedate="20200624T202722Z" creationid="lesia" creationdate="20200503T054834Z">
+        <seg>Вікно скриптів дозволяє відкрити скрипт, поредагувати його та застосувати до поточного проєкту.</seg>
       </tuv>
     </tu>
     <tu>
