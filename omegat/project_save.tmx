@@ -10676,8 +10676,8 @@ Gossamer threads hold you back
       <tuv lang="en">
         <seg>File entries include their names, file filter types, their encoding and the number of segments each file contains</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="lesia" changedate="20200429T202812Z" creationid="lesia" creationdate="20200429T202812Z">
-        <seg>Відомості про файл, до яких входить назва файлу, тип фільтру, кодування та кількість сегментів у файлі.</seg>
+      <tuv lang="uk-UA" changeid="maximo" changedate="20200624T201312Z" creationid="lesia" creationdate="20200429T202812Z">
+        <seg>відомості про файл, до яких входить назва файлу, тип фільтру, кодування та кількість сегментів у файлі.</seg>
       </tuv>
     </tu>
     <tu>
@@ -14720,8 +14720,8 @@ click on that shortcut.</seg>
       <tuv lang="en">
         <seg>It also possible to change the position of a filename, by clicking on it and pressing &lt;e0&gt;Move ...&lt;/e0&gt; buttons.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="maximo" changedate="20200622T140314Z" creationid="lesia" creationdate="20200429T202809Z">
-        <seg>Можна також сортувати їх вручну за допомогою кнопок &lt;e0&gt;Посунути ...&lt;/e0&gt;праворуч у вікні.</seg>
+      <tuv lang="uk-UA" changeid="maximo" changedate="20200624T201303Z" creationid="lesia" creationdate="20200429T202809Z">
+        <seg>Можна також сортувати їх вручну за допомогою кнопок &lt;e0&gt;Посунути ...&lt;/e0&gt; праворуч у вікні.</seg>
       </tuv>
     </tu>
     <tu>
@@ -34749,8 +34749,8 @@ create its configuration folder.</seg>
       <tuv lang="en">
         <seg>the total number of segments, the number of unique segments in the whole project, and the number of unique segments already translated are shown at the bottom</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="maximo" changedate="20200616T121023Z" creationid="lesia" creationdate="20200429T202814Z">
-        <seg>Загальна кількість сегментів, кількість унікальних сегментів у всьому проєкті та кількість перекладених унікальних сегментів. Ця інформація знаходиться внизу вікна.</seg>
+      <tuv lang="uk-UA" changeid="maximo" changedate="20200624T201337Z" creationid="lesia" creationdate="20200429T202814Z">
+        <seg>загальну кількість сегментів, кількість унікальних сегментів у всьому проєкті та кількість перекладених унікальних сегментів. Ця інформація знаходиться внизу вікна.</seg>
       </tuv>
     </tu>
     <tu>
