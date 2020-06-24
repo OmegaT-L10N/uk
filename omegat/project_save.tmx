@@ -17716,8 +17716,8 @@ as the Applications folder.</seg>
       <tuv lang="en">
         <seg>Note however that the numbers do not indicate how relevant the repetitions are: they could mean relatively long sentences repeated a number of times (in which case you are fortunate) or it could describe a table of keywords (not so fortunate).</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="maximo" changedate="20200622T135623Z" creationid="lesia" creationdate="20200429T202821Z">
-        <seg>Проте показники кількості не визначають, наскільки повторювані частини відповідають одна одній: вони можуть позначати доволі довгі речення, які повторюються кілька разів (у такому разі вам пощастило) або ряд ключових слів (несуттєве полегшення).</seg>
+      <tuv lang="uk-UA" changeid="maximo" changedate="20200624T202102Z" creationid="lesia" creationdate="20200429T202821Z">
+        <seg>Проте показники кількості не визначають, наскільки серйозними насправді є ці повтори: вони можуть позначати доволі довгі речення, які зустрічаються багато разів (у такому разі вам пощастило) або перетини в списках ключових слів (несуттєве полегшення).</seg>
       </tuv>
     </tu>
     <tu>
@@ -26286,8 +26286,8 @@ instead.</seg>
       <tuv lang="en">
         <seg>The difference between "Number of segments" and "Number of unique segments" provides an approximate idea of the number of repetitions in the text.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="maximo" changedate="20200607T171830Z" creationid="lesia" creationdate="20200429T202819Z">
-        <seg>Різниця між "Кількістю сегментів" та "Кількістю унікальних сегментів" дає приблизну оцінку кількості повторів у тексті.</seg>
+      <tuv lang="uk-UA" changeid="maximo" changedate="20200624T201639Z" creationid="lesia" creationdate="20200429T202819Z">
+        <seg>Різниця між числами "Кількість сегментів" та "Кількість унікальних сегментів" дає приблизну оцінку кількості повторів у тексті.</seg>
       </tuv>
     </tu>
     <tu>
