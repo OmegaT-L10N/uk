@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.2.0_0_747fc65a9" segtype="sentence" srclang="en"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.2.0_0_747fc65a" segtype="sentence" srclang="en"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -12726,8 +12726,8 @@ their defaults as a result of the location change.</seg>
       <tuv lang="en">
         <seg>If necessary, edit the file names of the dictionary or change your project's language settings.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="maximo" changedate="20200411T134018Z" creationid="maximo" creationdate="20200411T134018Z">
-        <seg>За необхідності, змініть назву файлу словника, або змініть код цільової мови.</seg>
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200628T141148Z" creationid="maximo" creationdate="20200411T134018Z">
+        <seg>За необхідності змініть назву файлу словника або змініть код цільової мови.</seg>
       </tuv>
     </tu>
     <tu>
@@ -32207,8 +32207,8 @@ start menu, the desktop or the quick launch area to link it from there.</seg>
       <tuv lang="en">
         <seg>You can either copy files manually, i.e. from elsewhere on your system, using your file manager; or you can use OmegaT's &lt;e0&gt;"Install new dictionary"&lt;/e0&gt; function to provide a list of available dictionaries to select from.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="Asus" changedate="20200616T042910Z" creationid="maximo" creationdate="20200411T105401Z">
-        <seg>Ви можете або вручну скопіювати їх з будь-якого місця вашої системи за допомогою файлового менеджера, або ж ви можете скористатися функцією OmegaT &lt;e0&gt;"Установити новий словник"&lt;/e0&gt;, яка запропонує вам вибірку словників.</seg>
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200628T140655Z" creationid="maximo" creationdate="20200411T105401Z">
+        <seg>Ви можете або вручну скопіювати їх з будь-якого місця вашої системи за допомогою файлового менеджера, або ж скористатися функцією OmegaT &lt;e0&gt;"Установити новий словник"&lt;/e0&gt;, яка запропонує вам вибірку словників.</seg>
       </tuv>
     </tu>
     <tu>
