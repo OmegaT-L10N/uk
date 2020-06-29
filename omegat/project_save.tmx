@@ -13690,7 +13690,6 @@ click on that shortcut.</seg>
       </tuv>
     </tu>
     <tu>
-      <note>Ред.: додала "Налаштування", щоб було зрозуміліше</note>
       <tuv lang="en">
         <seg>In OmegaT, select &lt;g0&gt;Options &gt; Spell Checking&lt;/g0&gt;, then click &lt;g1&gt;Choose &lt;/g1&gt; beside the Dictionary file folder field.</seg>
       </tuv>
@@ -28889,7 +28888,8 @@ the server.</seg>
       </tuv>
     </tu>
     <tu>
-      <note>ред.: додала до перекладу "Налаштування", щоб було зрозуміло, уцди заходити</note>
+      <note>
+</note>
       <tuv lang="en">
         <seg>To enable the spell checker, select &lt;g0&gt;Options &gt; Spell Checking&lt;/g0&gt; and tick the &lt;g1&gt;Automatically check the spelling of text&lt;/g1&gt; check box (see above).</seg>
       </tuv>
