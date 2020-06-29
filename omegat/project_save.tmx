@@ -12979,7 +12979,8 @@ their defaults as a result of the location change.</seg>
       </tuv>
     </tu>
     <tu>
-      <note>ред.: додала "Налаштування", щоб легше було знайти потрібне вікно</note>
+      <note>
+</note>
       <tuv lang="en">
         <seg>If the spell checker is not working, then make sure first that the check box &lt;g0&gt;"Automatically check the spelling of text"&lt;/g0&gt; in the spell checker dialog (&lt;g1&gt;Options &gt; Spell checking...)&lt;/g1&gt; is checked.</seg>
       </tuv>
