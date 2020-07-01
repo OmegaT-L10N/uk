@@ -2169,8 +2169,8 @@ The current setting is {0}MB;</seg>
       <tuv lang="en">
         <seg>&lt;/e1&gt; Empty translations are now allowed.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="maximo" changedate="20200416T212034Z" creationid="maximo" creationdate="20200416T212034Z">
-        <seg>&lt;/e1&gt;. Зверніть увагу, що це також дозволяє пустий переклад для сегментів.</seg>
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200701T124313Z" creationid="maximo" creationdate="20200416T212034Z">
+        <seg>&lt;/e1&gt;. Зверніть увагу, що це також дозволяє порожній переклад для сегментів.</seg>
       </tuv>
     </tu>
     <tu>
@@ -31931,8 +31931,8 @@ can then launch the Kaptain launch script with:</seg>
       <tuv lang="en">
         <seg>You achieve the same by clearing the target segment and pressing &lt;g4&gt;Enter.&lt;/g4&gt;</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="maximo" changedate="20200416T212535Z" creationid="maximo" creationdate="20200416T212535Z">
-        <seg>Ви можете досягнути того самого ефекту шляхом очистки перекладеного сегмента та натискання &lt;g4&gt;Enter&lt;/g4&gt;.</seg>
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200701T124441Z" creationid="maximo" creationdate="20200416T212535Z">
+        <seg>Цього ж ефекту можна досягнути, очистивши перекладений сегмент та натисгувши &lt;g4&gt;Enter&lt;/g4&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -32544,8 +32544,8 @@ window to be able to launch it from any location.</seg>
       <tuv lang="en">
         <seg>You will need to restart OmegaT for this change to take effect.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="maximo" changedate="20200416T211520Z" creationid="maximo" creationdate="20200416T211520Z">
-        <seg>Щоб ці зміни мали ефект, вам треба перезапустити OmegaT.</seg>
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200701T124257Z" creationid="maximo" creationdate="20200416T211520Z">
+        <seg>Щоб ці зміни вступили в дію, вам треба перезапустити OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
