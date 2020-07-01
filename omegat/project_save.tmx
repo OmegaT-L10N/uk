@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.2.0_0_747fc65a9" segtype="sentence" srclang="en"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.2.0_0_747fc65a" segtype="sentence" srclang="en"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -2510,7 +2510,8 @@ The current setting is {0}MB;</seg>
       </tuv>
     </tu>
     <tu>
-      <note>Hint я вже двічі переклала як "до уваги". А ви як? Примітка?</note>
+      <note>Hint я вже двічі переклала як "до уваги". А ви як? Примітка?
+- в проєкті воно зустрічається лише три рази. Думаю, цілком можна виправити попереднє "підказка" на "До уваги". Я зроблю це. </note>
       <tuv lang="en">
         <seg>&lt;e0&gt;Hint:&lt;/e0&gt; the set of file filters for a given project is stored as &lt;f1&gt;project/omegat/filters.xml.&lt;/f1&gt;</seg>
       </tuv>
