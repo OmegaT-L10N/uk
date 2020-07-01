@@ -12920,8 +12920,8 @@ their defaults as a result of the location change.</seg>
       <tuv lang="en">
         <seg>If the files to be translated are parts of a tree structure (as in a website), you need only specify the top-level subfolder and OmegaT will maintain the entire contents, while keeping the tree structure intact.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="maximo" changedate="20200701T152104Z" creationid="fanja9" creationdate="20200418T094336Z">
-        <seg>Якщо файли для перекладу розміщені у хитромудро вкладених теках, просто скопіюйте їх як є - однією головною текою. OmegaT відтворить структуру у теці з перекладеними файлами.</seg>
+      <tuv lang="uk-UA" changeid="maximo" changedate="20200701T152114Z" creationid="fanja9" creationdate="20200418T094336Z">
+        <seg>Якщо файли для перекладу розміщені у хитромудро вкладених теках, просто скопіюйте їх як є - однією головною текою. OmegaT відтворить структуру в теці з перекладеними файлами.</seg>
       </tuv>
     </tu>
     <tu>
