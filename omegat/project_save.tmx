@@ -5376,8 +5376,8 @@ Buy another drink</seg>
       <tuv lang="en">
         <seg>Being the language behind popular software such as Firefox, it is a familiar and preferred programming tool in the open-source domain.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="lesia" changedate="20200503T063254Z" creationid="lesia" creationdate="20200503T063254Z">
-        <seg>Це мова таких популярних продуктів як Firefox, нею часто та охоче користуються, створюючи open-source.</seg>
+      <tuv lang="uk-UA" changeid="maximo" changedate="20200701T150806Z" creationid="lesia" creationdate="20200503T063254Z">
+        <seg>Це мова таких популярних продуктів як Firefox, нею часто та охоче користуються для open-source проєктів.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11144,8 +11144,8 @@ provided (omegat.kaptn).</seg>
       <tuv lang="en">
         <seg>For example, the following Groovy code snippet scans through all the segments in all the files in the current project and, if a translation exists, prints out the source and the target of the segment:</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="lesia" changedate="20200503T063557Z" creationid="lesia" creationdate="20200503T063557Z">
-        <seg>Нижче наведений приклад коду на groovy зчитує всі сегменти у всіх файлах поточного проєкту, і, якщо наявний переклад, друкує оригінал та переклад сегменту:</seg>
+      <tuv lang="uk-UA" changeid="maximo" changedate="20200701T150811Z" creationid="lesia" creationdate="20200503T063557Z">
+        <seg>Нижче наведений приклад коду на groovy зчитує всі сегменти у всіх файлах поточного проєкту, і якщо наявний переклад, друкує оригінал та переклад сегменту:</seg>
       </tuv>
     </tu>
     <tu>
