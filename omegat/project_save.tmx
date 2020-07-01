@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.2.0_0_747fc65a" segtype="sentence" srclang="en"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.2.0_0_747fc65a9" segtype="sentence" srclang="en"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -3776,8 +3776,8 @@ The current setting is {0}MB;</seg>
       <tuv lang="en">
         <seg>Activate the "Show hidden files" option to make it visible.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="fanja9" changedate="20200510T183209Z" creationid="fanja9" creationdate="20200510T131120Z">
-        <seg>Активуйте опцію "Показати приховані файли", щоб зробити її видимою.</seg>
+      <tuv lang="uk-UA" changeid="maximo" changedate="20200701T204334Z" creationid="fanja9" creationdate="20200510T131120Z">
+        <seg>Використайте опцію "Показати приховані файли", щоб зробити її видимою.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13912,8 +13912,8 @@ click on that shortcut.</seg>
       <tuv lang="en">
         <seg>In some operating systems, this folder is not displayed by default.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="fanja9" changedate="20200510T183150Z" creationid="fanja9" creationdate="20200510T183150Z">
-        <seg>У деяких операційних системах ця тека не відображається за замовчуванням.</seg>
+      <tuv lang="uk-UA" changeid="maximo" changedate="20200701T204317Z" creationid="fanja9" creationdate="20200510T183150Z">
+        <seg>У деяких операційних системах ця тека буде прихована.</seg>
       </tuv>
     </tu>
     <tu>
@@ -32304,8 +32304,8 @@ installation script (linux-install.sh).</seg>
       <tuv lang="en">
         <seg>You can make changes to remote files (e.g. deleting a file) using this folder and a Git or SVN client.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="fanja9" changedate="20200510T183033Z" creationid="fanja9" creationdate="20200510T183033Z">
-        <seg>Ви можете видозмінювати віддалені файли (наприклад, видаляти файл), користуючись цією текою або клієнтами Git чи SVN.</seg>
+      <tuv lang="uk-UA" changeid="maximo" changedate="20200701T204242Z" creationid="fanja9" creationdate="20200510T183033Z">
+        <seg>Ви может змінювати віддалені файли (наприклад, видаляти файли), користуючись цією текою та клієнтами вашої системи контролю версій (Git чи SVN).</seg>
       </tuv>
     </tu>
     <tu>
