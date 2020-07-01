@@ -13056,8 +13056,8 @@ their defaults as a result of the location change.</seg>
       <tuv lang="en">
         <seg>If this option is checked, when a fuzzy match is inserted, either manually or automatically, OmegaT attempts to convert the numbers in the fuzzy matches according to the source contents.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="maximo" changedate="20200416T213237Z" creationid="maximo" creationdate="20200416T213237Z">
-        <seg>Якщо цей параметр активний, то коли вставляється нечіткий збіг, неважливо, вручну, чи автоматично, OmegaT намагається підставити в результат числа із тексту оригіналу.</seg>
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200701T125012Z" creationid="maximo" creationdate="20200416T213237Z">
+        <seg>Якщо цей параметр активний, то коли вставляється нечіткий збіг, неважливо, вручну чи автоматично, OmegaT намагається підставити в результат числа із тексту оригіналу.</seg>
       </tuv>
     </tu>
     <tu>
