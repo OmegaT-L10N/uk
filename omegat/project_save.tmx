@@ -11110,8 +11110,8 @@ provided (omegat.kaptn).</seg>
       <tuv lang="en">
         <seg>For example, if you wish the text filter to handle readme files (&lt;l3&gt;readme, read.me&lt;/l3&gt;, and &lt;l4&gt;readme.txt&lt;/l4&gt;) you should use the pattern &lt;l5&gt;read*&lt;/l5&gt;.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="Asus" changedate="20200623T033639Z" creationid="maximo" creationdate="20200413T184421Z">
-        <seg>Наприклад, якщо ви хочете, щоб текстовий фільтр працював для файлів readme (&lt;l3&gt;readme, read.me&lt;/l3&gt;, та &lt;l4&gt;readme.txt&lt;/l4&gt;) вам варто використати шаблон &lt;l5&gt;read*&lt;/l5&gt;.</seg>
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200701T122312Z" creationid="maximo" creationdate="20200413T184421Z">
+        <seg>Наприклад, якщо ви хочете, щоб текстовий фільтр працював для файлів readme (&lt;l3&gt;readme, read.me&lt;/l3&gt;, та &lt;l4&gt;readme.txt&lt;/l4&gt;), вам варто використати шаблон &lt;l5&gt;read*&lt;/l5&gt;.</seg>
       </tuv>
     </tu>
     <tu>
