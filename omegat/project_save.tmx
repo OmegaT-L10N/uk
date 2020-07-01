@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.2.0_0_747fc65a" segtype="sentence" srclang="en"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.2.0_0_747fc65a9" segtype="sentence" srclang="en"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -11208,8 +11208,8 @@ provided (omegat.kaptn).</seg>
       <tuv lang="en">
         <seg>For instance (if the default is accepted), the translation from the ancillary TM is accepted and prefixed with&lt;e3&gt; [fuzzy]&lt;/e3&gt;, so that the translator can review the translations at a later stage and check whether the segments tagged this way, have been translated correctly&lt;m4&gt; &lt;g5&gt;.&lt;/g5&gt; &lt;/m4&gt;</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="fanja9" changedate="20200510T191912Z" creationid="fanja9" creationdate="20200510T185605Z">
-        <seg>Наприклад, якщо прийнятий стандартний режим, переклад з вторинної пам'яті перекладів приймається і доповнюється позначкою &lt;e3&gt; [fuzzy]&lt;/e3&gt;, завдяки цьому перекладач може переглянути переклад на останій стадії роботи і перевірити, чи були правильно перекладено сегменти, позначені таким чином&lt;m4&gt; &lt;g5&gt;.&lt;/g5&gt; &lt;/m4&gt;</seg>
+      <tuv lang="uk-UA" changeid="maximo" changedate="20200701T201850Z" creationid="fanja9" creationdate="20200510T185605Z">
+        <seg>Наприклад, якщо прийнятий стандартний режим, переклад з вторинної пам'яті перекладів приймається і доповнюється позначкою &lt;e3&gt;[fuzzy]&lt;/e3&gt;, завдяки цьому перекладач може переглянути переклад на останій стадії роботи і перевірити, чи були правильно перекладено сегменти, позначені таким чином&lt;m4&gt; &lt;g5&gt;.&lt;/g5&gt; &lt;/m4&gt;</seg>
       </tuv>
     </tu>
     <tu>
