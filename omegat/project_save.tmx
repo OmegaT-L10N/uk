@@ -4432,8 +4432,8 @@ The current setting is {0}MB;</seg>
       <tuv lang="en">
         <seg>An OmegaT project is a folder containing files and subfolders.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="fanja9" changedate="20200510T183222Z" creationid="fanja9" creationdate="20200418T091633Z">
-        <seg>Проєкт OmegaT - це тека, яка містить файли проєкту і підтеки.</seg>
+      <tuv lang="uk-UA" changeid="maximo" changedate="20200701T151312Z" creationid="fanja9" creationdate="20200418T091633Z">
+        <seg>Проєкт OmegaT - це тека з визначеною структорою файлів і підтек.</seg>
       </tuv>
     </tu>
     <tu>
@@ -17830,8 +17830,8 @@ as the Applications folder.</seg>
       <tuv lang="en">
         <seg>Note that the structure of the source subfolder may take any form you like.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="fanja9" changedate="20200418T093150Z" creationid="fanja9" creationdate="20200418T093150Z">
-        <seg>Зверніть увагу, ви можете структурувати підтеку оригіналу за своїм смаком.</seg>
+      <tuv lang="uk-UA" changeid="maximo" changedate="20200701T151439Z" creationid="fanja9" creationdate="20200418T093150Z">
+        <seg>Зверніть увагу, що ви можете структурувати підтеку оригіналу за своїм смаком.</seg>
       </tuv>
     </tu>
     <tu>
@@ -32013,8 +32013,8 @@ can then launch the Kaptain launch script with:</seg>
       <tuv lang="en">
         <seg>You can add the files to it later.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="fanja9" changedate="20200418T092154Z" creationid="fanja9" creationdate="20200418T092154Z">
-        <seg>Пізніше ви також можете додавати сюди файли.</seg>
+      <tuv lang="uk-UA" changeid="maximo" changedate="20200701T151345Z" creationid="fanja9" creationdate="20200418T092154Z">
+        <seg>Додавати сюди файли можна і після початку роботи з проєктом.</seg>
       </tuv>
     </tu>
     <tu>
