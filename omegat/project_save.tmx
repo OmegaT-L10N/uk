@@ -12942,8 +12942,8 @@ their defaults as a result of the location change.</seg>
       <tuv lang="en">
         <seg>If the option is checked, the source file name will not be used, and alternative translations will take effect in any file as long as the other context (previous/next segments or some sort of segment identifier, depending on the file format) matches.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="Asus" changedate="20200622T032601Z" creationid="maximo" creationdate="20200412T201425Z">
-        <seg>Якщо поставити цей прапорець, назва файлу для перекладу не буде братися до уваги і варіанти перекладу будуть використовуватися у будь-якому файлі, якщо інший контекст збігається (наприклад, попередній, наступний сегмент, чи якийсь ідентифікатор, залежно від формату файлу).</seg>
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200701T115924Z" creationid="maximo" creationdate="20200412T201425Z">
+        <seg>Якщо поставити цей прапорець, назва файлу для перекладу не буде братися до уваги, і варіанти перекладу будуть використовуватися у будь-якому файлі, якщо інший контекст збігається (наприклад, попередній, наступний сегмент, чи якийсь ідентифікатор, залежно від формату файлу).</seg>
       </tuv>
     </tu>
     <tu>
@@ -20397,8 +20397,8 @@ additional steps need to be taken.</seg>
       <tuv lang="en">
         <seg>Preserve spaces for all tags: check this option if the source documents contain significant spaces used to control the layout that must not be ignored.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="maximo" changedate="20200412T200951Z" creationid="maximo" creationdate="20200412T200951Z">
-        <seg>Зберігати пробіли для всіх теґів: поставте цей прапорець, якщо документи для перекладу містять пробіли, що використовуються для керування виглядом документу і які не можна ігнорувати.</seg>
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200701T115525Z" creationid="maximo" creationdate="20200412T200951Z">
+        <seg>Зберігати пробіли для всіх теґів: поставте цей прапорець, якщо документи для перекладу містять пробіли, що використовуються для керування виглядом документу, і які не можна ігнорувати.</seg>
       </tuv>
     </tu>
     <tu>
