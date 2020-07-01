@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.2.0_0_747fc65a9" segtype="sentence" srclang="en"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.2.0_0_747fc65a" segtype="sentence" srclang="en"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -14762,8 +14762,8 @@ click on that shortcut.</seg>
       <tuv lang="en">
         <seg>It does not apply to the Web Start versions, which are upgraded automatically, nor to cross-platform versions installed on Windows.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="maximo" changedate="20200419T070947Z" creationid="maximo" creationdate="20200419T070947Z">
-        <seg>Вона не стосується версій Web Start, які оновлюються автоматично, та кросплатформенних версій, які встановлені на Windows.</seg>
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200701T202719Z" creationid="maximo" creationdate="20200419T070947Z">
+        <seg>Вона не актуальна для версій Web Start, які оновлюються автоматично, та кросплатформенних версій, які встановлені на Windows.</seg>
       </tuv>
     </tu>
     <tu>
@@ -27309,8 +27309,8 @@ in /lib/licenses/Licenses.txt.</seg>
       <tuv lang="en">
         <seg>The simplest way to launch OmegaT, however, is to execute the &lt;f0&gt;OmegaT.exe&lt;/f0&gt; program.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="maximo" changedate="20200418T130350Z" creationid="maximo" creationdate="20200418T130350Z">
-        <seg>Але найпростіший шлях запуску OmegaT, це використання &lt;f0&gt;OmegaT.exe&lt;/f0&gt;.</seg>
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200701T202413Z" creationid="maximo" creationdate="20200418T130350Z">
+        <seg>Але найпростіший шлях запуску OmegaT - це використання &lt;f0&gt;OmegaT.exe&lt;/f0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -28220,8 +28220,8 @@ the server.</seg>
       <tuv lang="en">
         <seg>This includes preferences set from within OmegaT, any changes you have made to your &lt;f1&gt;OmegaT.l4J.ini&lt;/f1&gt; file, and also your launch script (&lt;f2&gt;.bat&lt;/f2&gt; file), if you are using one.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="maximo" changedate="20200419T071542Z" creationid="maximo" creationdate="20200419T071542Z">
-        <seg>Тобто всі налаштування, які ви зробили безпосередньо із OmegaT, всі зміни до файлу &lt;f1&gt;OmegaT.l4J.ini&lt;/f1&gt;, а також скрипт запуску (файл &lt;f2&gt;.bat&lt;/f2&gt;), якщо ви його використовували.</seg>
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200701T202839Z" creationid="maximo" creationdate="20200419T071542Z">
+        <seg>Тобто йдеться про всі налаштування, які ви зробили безпосередньо із OmegaT, всі зміни до файлу &lt;f1&gt;OmegaT.l4J.ini&lt;/f1&gt;, а також скрипт запуску (файл &lt;f2&gt;.bat&lt;/f2&gt;), якщо ви його використовували.</seg>
       </tuv>
     </tu>
     <tu>
