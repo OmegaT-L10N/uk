@@ -2511,7 +2511,8 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <note>Hint я вже двічі переклала як "до уваги". А ви як? Примітка?
-- в проєкті воно зустрічається лише три рази. Думаю, цілком можна виправити попереднє "підказка" на "До уваги". Я зроблю це. </note>
+- в проєкті воно зустрічається лише кілька разів. Думаю, цілком можна виправити попереднє "підказка" на "До уваги". Я зроблю це. 
+Якщо виникають такі питання, можна шукати просто пошуком по всьому проєкту, тоді одразу видно всі сементи з потрібним словом.</note>
       <tuv lang="en">
         <seg>&lt;e0&gt;Hint:&lt;/e0&gt; the set of file filters for a given project is stored as &lt;f1&gt;project/omegat/filters.xml.&lt;/f1&gt;</seg>
       </tuv>
@@ -24740,8 +24741,8 @@ The scope of a search is by default the project and can be set to be any files l
       <tuv lang="en">
         <seg>String showing the differences between the source and the match.&lt;e0&gt; Hint:&lt;/e0&gt; use this if the text you are translating has been updated.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="maximo" changedate="20200417T082252Z" creationid="maximo" creationdate="20200417T082252Z">
-        <seg>Рядок, що показує різницю між оригінальним текстом і текстом збігу. &lt;e0&gt; Підказка:&lt;/e0&gt; це особливо корисно, коли текст, який ви перекладаєте, змінився.</seg>
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200701T142445Z" creationid="maximo" creationdate="20200417T082252Z">
+        <seg>Рядок, що показує різницю між оригінальним текстом і текстом збігу. &lt;e0&gt; До уваги:&lt;/e0&gt; це особливо корисно, коли текст, який ви перекладаєте, змінився.</seg>
       </tuv>
     </tu>
     <tu>
