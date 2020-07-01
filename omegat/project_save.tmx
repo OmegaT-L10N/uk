@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.2.0_0_747fc65a9" segtype="sentence" srclang="en"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.2.0_0_747fc65a" segtype="sentence" srclang="en"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -12481,8 +12481,8 @@ need not be entered.)</seg>
       <tuv lang="en">
         <seg>If a "command not found" or similar message is returned, it is likely that Java is not installed on your system.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="maximo" changedate="20200420T170251Z" creationid="maximo" creationdate="20200420T170251Z">
-        <seg>Якщо в результаті ви отримали "команду не знайдено", чи щось таке, - скоріш за все у вас на комп'ютері нема Java.</seg>
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200701T203628Z" creationid="maximo" creationdate="20200420T170251Z">
+        <seg>Якщо в результаті ви отримали "команду не знайдено" чи щось таке, - скоріш за все, у вас на комп'ютері нема Java.</seg>
       </tuv>
     </tu>
     <tu>
@@ -28114,8 +28114,8 @@ the server.</seg>
       <tuv lang="en">
         <seg>This creates an &lt;f2&gt;./OmegaT_4.n.n_Without_JRE/&lt;/f2&gt; folder in the working folder with all the files necessary to run &lt;a3&gt;OmegaT&lt;/a3&gt;.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="maximo" changedate="20200420T170755Z" creationid="maximo" creationdate="20200420T170755Z">
-        <seg>В результаті ви отримаєте теку &lt;f2&gt;./OmegaT_4.n.n_Without_JRE/&lt;/f2&gt;, у якій ви побачите файли, що необхідні для запуску &lt;a3&gt;OmegaT&lt;/a3&gt;.</seg>
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200701T203635Z" creationid="maximo" creationdate="20200420T170755Z">
+        <seg>В результаті ви отримаєте теку &lt;f2&gt;./OmegaT_4.n.n_Without_JRE/&lt;/f2&gt;, у якій побачите файли, необхідні для запуску &lt;a3&gt;OmegaT&lt;/a3&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -30709,8 +30709,8 @@ searchable without subscription:</seg>
       <tuv lang="en">
         <seg>Users of other platforms (Linux PowerPC, Linux x64, Solaris SPARC/x86/x64, Windows x64 etc) must have a running compatible Java JRE on their system to be able to use &lt;a1&gt;OmegaT&lt;/a1&gt;.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="maximo" changedate="20200420T165757Z" creationid="maximo" creationdate="20200420T165757Z">
-        <seg>Користувачі інших платформ (Linux PowerPC, Linux x64, Solaris SPARC/x86/x64, Windows x64 і т.п.) мають самі забезпечити наявність потрібної версії Java JRE на своїй системі, щоб могти запустити &lt;a1&gt;OmegaT&lt;/a1&gt;.</seg>
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200701T203451Z" creationid="maximo" creationdate="20200420T165757Z">
+        <seg>Користувачі інших платформ (Linux PowerPC, Linux x64, Solaris SPARC/x86/x64, Windows x64 і т.п.) мають забезпечити наявність потрібної версії Java JRE на своїй системі, щоб могти запустити &lt;a1&gt;OmegaT&lt;/a1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
