@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.2.0_0_747fc65a9" segtype="sentence" srclang="en"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.2.0_0_747fc65a" segtype="sentence" srclang="en"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -28050,8 +28050,8 @@ the server.</seg>
       <tuv lang="en">
         <seg>This can be achieved in two ways:</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="maximo" changedate="20200423T141154Z" creationid="maximo" creationdate="20200423T141154Z">
-        <seg>Це можна досягти двома шляхами:</seg>
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200701T205813Z" creationid="maximo" creationdate="20200423T141154Z">
+        <seg>Цього можна досягти двома шляхами:</seg>
       </tuv>
     </tu>
     <tu>
