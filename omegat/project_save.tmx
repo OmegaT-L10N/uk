@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.2.0_0_747fc65a" segtype="sentence" srclang="en"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.2.0_0_747fc65a9" segtype="sentence" srclang="en"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -13720,8 +13720,8 @@ click on that shortcut.</seg>
       <tuv lang="en">
         <seg>In a team project, this folder contains a versioned copy of the project tree structure linked directly to the remote server.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="fanja9" changedate="20200510T193501Z" creationid="fanja9" creationdate="20200510T131419Z">
-        <seg>В командному проєкті в цю теку входить копія дерева проєкту (яка може мати версії), напряму під'єднана до віддаленого серверу.</seg>
+      <tuv lang="uk-UA" changeid="maximo" changedate="20200701T204010Z" creationid="fanja9" creationdate="20200510T131419Z">
+        <seg>В командному проєкті в цю теку входить версіонована копія дерева проєкту, напряму під'єднана до віддаленого серверу.</seg>
       </tuv>
     </tu>
     <tu>
@@ -22973,8 +22973,8 @@ The scope of a search is by default the project and can be set to be any files l
       <tuv lang="en">
         <seg>See &lt;l0&gt;Glossaries&lt;/l0&gt; for more on this subject.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="maximo" changedate="20200701T203607Z" creationid="fanja9" creationdate="20200510T132321Z">
-        <seg>Див. &lt;l0&gt;Глосарій&lt;/l0&gt; для більш детальної інформації.</seg>
+      <tuv lang="uk-UA" changeid="maximo" changedate="20200701T203729Z" creationid="fanja9" creationdate="20200510T132321Z">
+        <seg>Див. &lt;l0&gt;Глосарії&lt;/l0&gt; для більш детальної інформації.</seg>
       </tuv>
     </tu>
     <tu>
@@ -32408,8 +32408,8 @@ installation script (linux-install.sh).</seg>
       <tuv lang="en">
         <seg>You can view it by selecting &lt;g0&gt;Tools &gt; Statistics&lt;/g0&gt;</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="fanja9" changedate="20200510T165905Z" creationid="fanja9" creationdate="20200510T165905Z">
-        <seg>Можете переглянути її, вибравши &lt;g0&gt;Інструменти &gt; Статистика&lt;/g0&gt;</seg>
+      <tuv lang="uk-UA" changeid="maximo" changedate="20200701T203751Z" creationid="fanja9" creationdate="20200510T165905Z">
+        <seg>Ви можете переглянути її, вибравши &lt;g0&gt;Інструменти &gt; Статистика&lt;/g0&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -33140,8 +33140,8 @@ create its configuration folder.</seg>
       <tuv lang="en">
         <seg>contains the current statistics of the current project.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="fanja9" changedate="20200510T173151Z" creationid="fanja9" creationdate="20200510T172511Z">
-        <seg>тут знаходиться поточна статистика поточного проєкту.</seg>
+      <tuv lang="uk-UA" changeid="maximo" changedate="20200701T203743Z" creationid="fanja9" creationdate="20200510T172511Z">
+        <seg>тут знаходиться актуальна статистика поточного проєкту.</seg>
       </tuv>
     </tu>
     <tu>
@@ -33884,8 +33884,8 @@ create its configuration folder.</seg>
       <tuv lang="en">
         <seg>if existing, it contains project-specific GUI settings.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="fanja9" changedate="20200510T180912Z" creationid="fanja9" creationdate="20200510T180912Z">
-        <seg>якщо такий файл існує, то він містить специфічні для проєкту налаштування режиму без графічного інтерфейсу.</seg>
+      <tuv lang="uk-UA" changeid="maximo" changedate="20200701T203852Z" creationid="fanja9" creationdate="20200510T180912Z">
+        <seg>якщо такий файл існує, то він містить специфічні для проєкту налаштування графічного інтерфейсу.</seg>
       </tuv>
     </tu>
     <tu>
@@ -34183,8 +34183,8 @@ create its configuration folder.</seg>
       <tuv lang="en">
         <seg>omegat.project (file)</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="maximo" changedate="20200614T163934Z" creationid="maximo" creationdate="20200614T163934Z">
-        <seg>omegat.project (file)</seg>
+      <tuv lang="uk-UA" changeid="maximo" changedate="20200701T203906Z" creationid="maximo" creationdate="20200614T163934Z">
+        <seg>omegat.project</seg>
       </tuv>
     </tu>
     <tu>
