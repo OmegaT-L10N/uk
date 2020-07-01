@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.2.0_0_747fc65a" segtype="sentence" srclang="en"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.2.0_0_747fc65a9" segtype="sentence" srclang="en"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -13720,8 +13720,8 @@ click on that shortcut.</seg>
       <tuv lang="en">
         <seg>In a team project, this folder contains a versioned copy of the project tree structure linked directly to the remote server.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="maximo" changedate="20200701T204010Z" creationid="fanja9" creationdate="20200510T131419Z">
-        <seg>В командному проєкті в цю теку входить версіонована копія дерева проєкту, напряму під'єднана до віддаленого серверу.</seg>
+      <tuv lang="uk-UA" changeid="maximo" changedate="20200701T204722Z" creationid="fanja9" creationdate="20200510T131419Z">
+        <seg>В командному проєкті саме в цій теці зберігається робоча директорія системи контролю версій.</seg>
       </tuv>
     </tu>
     <tu>
@@ -32304,8 +32304,8 @@ installation script (linux-install.sh).</seg>
       <tuv lang="en">
         <seg>You can make changes to remote files (e.g. deleting a file) using this folder and a Git or SVN client.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="maximo" changedate="20200701T204242Z" creationid="fanja9" creationdate="20200510T183033Z">
-        <seg>Ви может змінювати віддалені файли (наприклад, видаляти файли), користуючись цією текою та клієнтами вашої системи контролю версій (Git чи SVN).</seg>
+      <tuv lang="uk-UA" changeid="maximo" changedate="20200701T204756Z" creationid="fanja9" creationdate="20200510T183033Z">
+        <seg>Якщо ви хочете змінити віддалені файли, міняйте їх тут, та синхронізуйте зміни за допомогою відповідного клієнта (Git чи SVN).</seg>
       </tuv>
     </tu>
     <tu>
