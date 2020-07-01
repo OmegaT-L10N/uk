@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.2.0_0_747fc65a" segtype="sentence" srclang="en"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.2.0_0_747fc65a9" segtype="sentence" srclang="en"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -11208,8 +11208,8 @@ provided (omegat.kaptn).</seg>
       <tuv lang="en">
         <seg>For instance (if the default is accepted), the translation from the ancillary TM is accepted and prefixed with&lt;e3&gt; [fuzzy]&lt;/e3&gt;, so that the translator can review the translations at a later stage and check whether the segments tagged this way, have been translated correctly&lt;m4&gt; &lt;g5&gt;.&lt;/g5&gt; &lt;/m4&gt;</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="maximo" changedate="20200701T202015Z" creationid="fanja9" creationdate="20200510T185605Z">
-        <seg>Наприклад, якщо прийнятий стандартний режим, переклад з вторинної пам'яті перекладів приймається і доповнюється позначкою &lt;e3&gt;[нечіткий збіг]&lt;/e3&gt;, завдяки цьому перекладач може переглянути переклад на останій стадії роботи і перевірити, чи були правильно перекладено сегменти, позначені таким чином&lt;m4&gt; &lt;g5&gt;.&lt;/g5&gt; &lt;/m4&gt;</seg>
+      <tuv lang="uk-UA" changeid="maximo" changedate="20200701T202250Z" creationid="fanja9" creationdate="20200510T185605Z">
+        <seg>Наприклад, переклад з вторинної пам'яті перекладів може вставлятися з позначкою &lt;e3&gt;[нечіткий збіг]&lt;/e3&gt;. Завдяки цьому перекладач зможе легко виявити такі сегменти і перевірити їх&lt;m4&gt; &lt;g5&gt;.&lt;/g5&gt; &lt;/m4&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -12707,8 +12707,8 @@ need not be entered.)</seg>
       <tuv lang="en">
         <seg>If it is clear from the very start, that translations in a given TM (or TMs) are all correct, one can put them into the&lt;e0&gt; tm/auto&lt;/e0&gt; folder and avoid confirming a lot of&lt;e1&gt; [fuzzy]&lt;/e1&gt; cases.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="fanja9" changedate="20200510T191844Z" creationid="fanja9" creationdate="20200510T133615Z">
-        <seg>Якщо одразу зрозуміло, що переклад, вказаний у файлі (або файлах) пам'яті перекладів, - правильний, його можна перемістити у теку &lt;e0&gt; tm/auto&lt;/e0&gt; і уникнути необхідності підтвердження значної кількості збігів з позначкою &lt;e1&gt;[fuzzy]&lt;/e1&gt;.</seg>
+      <tuv lang="uk-UA" changeid="maximo" changedate="20200701T202627Z" creationid="fanja9" creationdate="20200510T133615Z">
+        <seg>Якщо одразу зрозуміло, що переклад, вказаний у файлі (або файлах) пам'яті перекладів, - правильний, його можна перемістити у теку &lt;e0&gt; tm/auto&lt;/e0&gt; і уникнути необхідності підтвердження значної кількості збігів з позначкою &lt;e1&gt;[нечіткий збіг]&lt;/e1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -14939,8 +14939,8 @@ click on that shortcut.</seg>
       <tuv lang="en">
         <seg>It may happen, that translation memories, available in the &lt;f0&gt;tm&lt;/f0&gt; subfolder, contain segments with identical source text, but differing targets.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="fanja9" changedate="20200504T203402Z" creationid="fanja9" creationdate="20200504T203402Z">
-        <seg>Буває так, що у пам'яті перекладів, яка доступна у підтеці tm, знаходяться сегменти з ідентичним текстом джерела, але різними перекладами.</seg>
+      <tuv lang="uk-UA" changeid="maximo" changedate="20200701T202421Z" creationid="fanja9" creationdate="20200504T203402Z">
+        <seg>Буває так, що у пам'яті перекладів з підтеки tm, знаходяться сегменти, у яких оригінал ідентичний, а переклади різні.</seg>
       </tuv>
     </tu>
     <tu>
@@ -25045,8 +25045,8 @@ The scope of a search is by default the project and can be set to be any files l
       <tuv lang="en">
         <seg>TMX files are read sorted by their names and segments within a given TMX file line by line.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="fanja9" changedate="20200510T191621Z" creationid="fanja9" creationdate="20200510T185943Z">
-        <seg>Файли TMX читаються відповідно до того, як вони посортовані: за назвою файла і за сегментами з даним файлом TMX, які розміщені рядок за рядком.</seg>
+      <tuv lang="uk-UA" changeid="maximo" changedate="20200701T202503Z" creationid="fanja9" creationdate="20200510T185943Z">
+        <seg>Файли TMX читаються відповідно до того, як вони посортовані: за назвою файла і за порядком сегментів у TMX.</seg>
       </tuv>
     </tu>
     <tu>
@@ -26648,8 +26648,8 @@ xx or xxx is the language code and YY is the region or country code (optional).<
       <tuv lang="en">
         <seg>The last segment with the identical source text will thus prevail (Note: of course it makes more sense to avoid this to happen in the first place).</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="fanja9" changedate="20200510T190427Z" creationid="fanja9" creationdate="20200510T190427Z">
-        <seg>Тож останній серед сегментів з ідентичним текстом оригіналу буде більш пріоритетним (Примітка: звичайно, набагато краще взагалі уникати таких випадків).</seg>
+      <tuv lang="uk-UA" changeid="maximo" changedate="20200701T202616Z" creationid="fanja9" creationdate="20200510T190427Z">
+        <seg>Останній серед сегментів з ідентичним текстом оригіналу буде більш пріоритетним (звичайно, набагато краще взагалі уникати таких випадків).</seg>
       </tuv>
     </tu>
     <tu>
