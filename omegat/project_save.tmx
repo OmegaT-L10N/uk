@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.2.0_0_747fc65a9" segtype="sentence" srclang="en"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.2.0_0_747fc65a" segtype="sentence" srclang="en"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -13792,8 +13792,8 @@ click on that shortcut.</seg>
       <tuv lang="en">
         <seg>In its most basic form, this command is:</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="maximo" changedate="20200420T201337Z" creationid="maximo" creationdate="20200420T201337Z">
-        <seg>В найпростішій своїй формі вона виглядає так:</seg>
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200701T204124Z" creationid="maximo" creationdate="20200420T201337Z">
+        <seg>У найпростішій своїй формі вона виглядає так:</seg>
       </tuv>
     </tu>
     <tu>
@@ -14947,8 +14947,8 @@ click on that shortcut.</seg>
       <tuv lang="en">
         <seg>It might also be possible to open an OmegaT project by double-clicking on an &lt;f1&gt;omegat.project&lt;/f1&gt; file.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="maximo" changedate="20200420T171326Z" creationid="maximo" creationdate="20200420T171256Z">
-        <seg>Також може бути, що можна відкрити проєкт OmegaT, якщо клацнути двічі на файл &lt;f1&gt;omegat.project&lt;/f1&gt;.</seg>
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200701T203808Z" creationid="maximo" creationdate="20200420T171256Z">
+        <seg>Також може бути, що можна відкрити проєкт OmegaT, якщо двічі клацнути на файл &lt;f1&gt;omegat.project&lt;/f1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -25923,8 +25923,8 @@ Please try to correct the error and reload the project.</seg>
       <tuv lang="en">
         <seg>The above method somewhat impractical way of launching a program routinely.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="maximo" changedate="20200420T201800Z" creationid="maximo" creationdate="20200420T201800Z">
-        <seg>Але щоб запускати програму з дня на день цей метод не дуже зручний.</seg>
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200701T204310Z" creationid="maximo" creationdate="20200420T201800Z">
+        <seg>Але для щоденного запускати програми цей метод не дуже зручний.</seg>
       </tuv>
     </tu>
     <tu>
@@ -26448,8 +26448,8 @@ instead.</seg>
       <tuv lang="en">
         <seg>The first of these is:</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="maximo" changedate="20200420T200915Z" creationid="maximo" creationdate="20200420T200915Z">
-        <seg>Перша це:</seg>
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200701T204055Z" creationid="maximo" creationdate="20200420T200915Z">
+        <seg>Перша - це:</seg>
       </tuv>
     </tu>
     <tu>
@@ -28428,8 +28428,8 @@ the server.</seg>
       <tuv lang="en">
         <seg>This method has a particular benefit of being suitable for finding causes of problems: if an error occurs during use of the program, an error message is output in the terminal window which may contain useful information on the cause of the error.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="maximo" changedate="20200511T200447Z" creationid="maximo" creationdate="20200420T201717Z">
-        <seg>Запуск OmegaT з командного рядка особливо корисний для знаходження причин проблем у роботі програми. Якщо під час роботи програми стаються якісь помилки, то у вікно терміналу надрукуються повідомлення про помилку. По ним іноді можна зрозуміти причину помилки.</seg>
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200701T204238Z" creationid="maximo" creationdate="20200420T201717Z">
+        <seg>Запуск OmegaT з командного рядка особливо корисний для знаходження причин проблем у роботі програми. Якщо під час роботи програми стаються якісь помилки, то у вікно терміналу надрукуються повідомлення про помилку. По них іноді можна зрозуміти причину помилки.</seg>
       </tuv>
     </tu>
     <tu>
