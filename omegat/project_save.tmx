@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.2.0_0_747fc65a9" segtype="sentence" srclang="en"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.2.0_0_747fc65a" segtype="sentence" srclang="en"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -2345,8 +2345,8 @@ The current setting is {0}MB;</seg>
       <tuv lang="en">
         <seg>&lt;e0&gt;-Duser.country=&lt;p1&gt;XX&lt;/p1&gt;&lt;/e0&gt; Besides the language, you can also specify the country, for example &lt;l2&gt;CN&lt;/l2&gt; or &lt;l3&gt;TW&lt;/l3&gt; in case of the Chinese language.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="maximo" changedate="20200420T203514Z" creationid="maximo" creationdate="20200420T203514Z">
-        <seg>&lt;e0&gt;-Duser.country=&lt;p1&gt;XX&lt;/p1&gt;&lt;/e0&gt; Окрім мови ви також можете вказати і країну. Наприклад &lt;l2&gt;CN&lt;/l2&gt; чи &lt;l3&gt;TW&lt;/l3&gt; для китайської мови.</seg>
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200701T204535Z" creationid="maximo" creationdate="20200420T203514Z">
+        <seg>&lt;e0&gt;-Duser.country=&lt;p1&gt;XX&lt;/p1&gt;&lt;/e0&gt; Окрім мови ви також можете вказати і країну. Наприклад, &lt;l2&gt;CN&lt;/l2&gt; чи &lt;l3&gt;TW&lt;/l3&gt; для китайської мови.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5992,8 +5992,8 @@ Buy another drink</seg>
       <tuv lang="en">
         <seg>Changes to this command involve the addition of "arguments" to it.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="maximo" changedate="20200420T202209Z" creationid="maximo" creationdate="20200420T202209Z">
-        <seg>Її можна змінити додаючи до неї "аргументи".</seg>
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200701T204527Z" creationid="maximo" creationdate="20200420T202209Z">
+        <seg>Її можна змінити, додаючи до неї "аргументи".</seg>
       </tuv>
     </tu>
     <tu>
@@ -7073,8 +7073,8 @@ Buy another drink</seg>
       <tuv lang="en">
         <seg>Consequently, to make changes to the launch command, it is sufficient to modify the file.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="maximo" changedate="20200420T202053Z" creationid="maximo" creationdate="20200420T202053Z">
-        <seg>Тому, якщо ви хочете змінити команди запуску - просто змініть цей файл.</seg>
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200701T204354Z" creationid="maximo" creationdate="20200420T202053Z">
+        <seg>Тому якщо ви хочете змінити команди запуску - просто змініть цей файл.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11312,8 +11312,8 @@ provided (omegat.kaptn).</seg>
       <tuv lang="en">
         <seg>For this reason, the two commands described above are contained in a file (a "script", also called a "&lt;f0&gt;.bat&lt;/f0&gt; file" on Windows systems).</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="maximo" changedate="20200511T200514Z" creationid="maximo" creationdate="20200420T201931Z">
-        <seg>Тому дві ці команди запаковані у спеціальний файл ("скрипт", на Windows його ще називають "&lt;f0&gt;.bat&lt;/f0&gt; файлом").</seg>
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200701T204333Z" creationid="maximo" creationdate="20200420T201931Z">
+        <seg>Тому ці дві команди запаковані у спеціальний файл ("скрипт", на Windows його ще називають "&lt;f0&gt;.bat&lt;/f0&gt; файлом").</seg>
       </tuv>
     </tu>
     <tu>
@@ -28300,8 +28300,8 @@ the server.</seg>
       <tuv lang="en">
         <seg>This is necessary even if there's only one combination available, like &lt;l4&gt;pt_BR&lt;/l4&gt; in case of Brazilian Portuguese.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="maximo" changedate="20200420T203811Z" creationid="maximo" creationdate="20200420T203811Z">
-        <seg>Це необхідно навіть якщо доступна лише одна комбінація, як от &lt;l4&gt;pt_BR&lt;/l4&gt; у випадку бразильської португальської.</seg>
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200701T204630Z" creationid="maximo" creationdate="20200420T203811Z">
+        <seg>Це необхідно, навіть якщо доступна лише одна комбінація, як от &lt;l4&gt;pt_BR&lt;/l4&gt; у випадку бразильської португальської.</seg>
       </tuv>
     </tu>
     <tu>
@@ -28870,8 +28870,8 @@ the server.</seg>
       <tuv lang="en">
         <seg>To display the instant start guide in the desired language, you need to specify both the language and the country.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="maximo" changedate="20200420T203703Z" creationid="maximo" creationdate="20200420T203703Z">
-        <seg>Щоб інструкція швидкого старту показувалась потрібною мовою, ви маєте вказати і мову і країну.</seg>
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200701T204544Z" creationid="maximo" creationdate="20200420T203703Z">
+        <seg>Щоб інструкція швидкого старту показувалась потрібною мовою, ви маєте вказати і мову, і країну.</seg>
       </tuv>
     </tu>
     <tu>
