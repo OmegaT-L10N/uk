@@ -12976,8 +12976,8 @@ their defaults as a result of the location change.</seg>
       <tuv lang="en">
         <seg>If the source segment in one of the ancillary TMs is identical to the text being translated, OmegaT acts as defined in the &lt;m0&gt; &lt;g1&gt;Options&lt;/g1&gt; &lt;g2&gt;Editing Behavior...&lt;/g2&gt; &lt;/m0&gt; dialog window.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="fanja9" changedate="20200510T185010Z" creationid="fanja9" creationdate="20200510T185010Z">
-        <seg>Якщо сегмент оригіналу у вторинній пам'яті перекладів є ідентичним до тексту, який перекладається, OmegaT діє так, як вказано у діалоговому вікні &lt;m0&gt; &lt;g1&gt;Опції&lt;/g1&gt; &lt;g2&gt;Поведінка редактора...&lt;/g2&gt; &lt;/m0&gt;.</seg>
+      <tuv lang="uk-UA" changeid="maximo" changedate="20200701T201956Z" creationid="fanja9" creationdate="20200510T185010Z">
+        <seg>Якщо сегмент оригіналу у вторинній пам'яті перекладів є ідентичним до тексту, який перекладається, OmegaT діє так, як вказано у діалоговому вікні &lt;m0&gt; &lt;g1&gt;Налаштування&lt;/g1&gt; &lt;g2&gt;Область редагування...&lt;/g2&gt; &lt;/m0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
