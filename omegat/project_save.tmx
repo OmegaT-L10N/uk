@@ -18518,8 +18518,8 @@ translation leveraging into updated projects.</seg>
       <tuv lang="en">
         <seg>OmegaT is able to recognize that you have done this.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="maximo" changedate="20200417T063945Z" creationid="maximo" creationdate="20200416T214214Z">
-        <seg>OmegaT може визначити, якщо ви це зробили.</seg>
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200701T125253Z" creationid="maximo" creationdate="20200416T214214Z">
+        <seg>OmegaT може визначити, що ви це зробили.</seg>
       </tuv>
     </tu>
     <tu>
@@ -25937,8 +25937,8 @@ Please try to correct the error and reload the project.</seg>
       <tuv lang="en">
         <seg>The alternative is to enter a translation that is identical to the source text.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="maximo" changedate="20200416T214139Z" creationid="maximo" creationdate="20200416T214139Z">
-        <seg>Альтернатива - вставляти переклад, який такий самий, як оригінал.</seg>
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200701T125227Z" creationid="maximo" creationdate="20200416T214139Z">
+        <seg>Альтернатива - вводити переклад, ідентичний оригіналу.</seg>
       </tuv>
     </tu>
     <tu>
@@ -26856,8 +26856,8 @@ in /lib/licenses/Licenses.txt.</seg>
       <tuv lang="en">
         <seg>The numbers must be exactly the same between the source and the target matches.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="maximo" changedate="20200416T213445Z" creationid="maximo" creationdate="20200416T213445Z">
-        <seg>Числа мають бути абсолютно однаковими для оригіналу та перекладу.</seg>
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200701T125108Z" creationid="maximo" creationdate="20200416T213445Z">
+        <seg>Числа в оригіналі та перекладі мають бути абсолютно однаковими.</seg>
       </tuv>
     </tu>
     <tu>
@@ -27739,8 +27739,8 @@ in /lib/licenses/Licenses.txt.</seg>
       <tuv lang="en">
         <seg>There are two strategies for segments that contain only such invariable text.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="maximo" changedate="20200416T213929Z" creationid="maximo" creationdate="20200416T213929Z">
-        <seg>Є дві стратегії того, що робити з такими сегментами, які містять лише незмінний текст.</seg>
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200701T125204Z" creationid="maximo" creationdate="20200416T213929Z">
+        <seg>З сегментами, які містять лише незмінний текст, можна поводитись двома способами:</seg>
       </tuv>
     </tu>
     <tu>
