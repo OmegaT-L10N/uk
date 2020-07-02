@@ -19556,8 +19556,8 @@ installed on your system.</seg>
       <tuv lang="en">
         <seg>Opens this manual in the default browser.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="maximo" changedate="20200423T182804Z" creationid="maximo" creationdate="20200423T182804Z">
-        <seg>Відкрити цей посібник в стандартному браузері.</seg>
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200702T203706Z" creationid="maximo" creationdate="20200423T182804Z">
+        <seg>Відкрити цей посібник у стандартному браузері.</seg>
       </tuv>
     </tu>
     <tu>
@@ -27673,8 +27673,8 @@ in /lib/licenses/Licenses.txt.</seg>
       <tuv lang="en">
         <seg>The title of the dialog reflects the file actually used (which depends on how many instances of OmegaT are running concurrently).</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="maximo" changedate="20200423T183310Z" creationid="maximo" creationdate="20200423T183310Z">
-        <seg>У заголовку цього діалогу можна побачити ім'я файла, в який ведеться запис. Це може бути корисно, якщо ви запускаєте кілька OmegaT паралельно.</seg>
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200702T204258Z" creationid="maximo" creationdate="20200423T183310Z">
+        <seg>У заголовку цього діалогу можна побачити ім'я файлу, в який ведеться запис. Це може бути корисно, якщо ви запускаєте кілька OmegaT паралельно.</seg>
       </tuv>
     </tu>
     <tu>
