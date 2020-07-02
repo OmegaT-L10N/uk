@@ -18986,8 +18986,8 @@ installed on your system.</seg>
       <tuv lang="en">
         <seg>Once the code is downloaded, open a command in the source folder and type:</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="maximo" changedate="20200423T161619Z" creationid="maximo" creationdate="20200423T161619Z">
-        <seg>Після завантаження, перейдіть у теку коду програми та запустіть команду:</seg>
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200702T185314Z" creationid="maximo" creationdate="20200423T161619Z">
+        <seg>Після завантаження перейдіть у теку коду програми та запустіть команду:</seg>
       </tuv>
     </tu>
     <tu>
@@ -27423,8 +27423,8 @@ in /lib/licenses/Licenses.txt.</seg>
       <tuv lang="en">
         <seg>The sources of the current version can be retrieved with a SVN client from the repository &lt;u0/&gt; or directly on &lt;u1&gt;SourceForge&lt;/u1&gt;.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="maximo" changedate="20200423T161541Z" creationid="maximo" creationdate="20200423T161541Z">
-        <seg>Код поточної версії можна завантажити за допомогою клієнта SVN із репозиторія &lt;u0/&gt;, чи напряму з &lt;u1&gt;SourceForge&lt;/u1&gt;.</seg>
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200702T185307Z" creationid="maximo" creationdate="20200423T161541Z">
+        <seg>Код поточної версії можна завантажити за допомогою клієнта SVN із репозиторія &lt;u0/&gt; чи напряму з &lt;u1&gt;SourceForge&lt;/u1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
