@@ -8663,8 +8663,8 @@ Buy another drink</seg>
       <tuv lang="en">
         <seg>Displays the Match Statistics for each file of the project: the number of repetitions, exact matches, fuzzy matches and no-matches for segments, words and characters.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="maximo" changedate="20200425T151343Z" creationid="maximo" creationdate="20200425T151343Z">
-        <seg>Показати статистику збігів для кожного файлу проєкту: кількість повторів, повних збігів, нечітких збігів та унікальних сегментів. Також є ці дані перераховані на кількість слів та символів.</seg>
+      <tuv lang="uk-UA" changeid="maximo" changedate="20200702T175352Z" creationid="maximo" creationdate="20200425T151343Z">
+        <seg>Показати статистику збігів для кожного з файлів проєкту: кількість повторів, повних збігів, нечітких збігів та унікальних сегментів. Також вікно містить ці самі дані, перераховані на кількість слів та символів.</seg>
       </tuv>
     </tu>
     <tu>
@@ -27375,8 +27375,8 @@ in /lib/licenses/Licenses.txt.</seg>
       <tuv lang="en">
         <seg>The source and target files can have different formats (for example, a &lt;f0&gt;.docx&lt;/f0&gt; file can be aligned with a &lt;f1&gt;.pdf&lt;/f1&gt; file).</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="maximo" changedate="20200425T151812Z" creationid="maximo" creationdate="20200425T151812Z">
-        <seg>Оригінал та переклад можуть бути у різних форматах (наприклад, файл &lt;f0&gt;.docx&lt;/f0&gt; можна вирівнювати із файлом &lt;f1&gt;.pdf&lt;/f1&gt;).</seg>
+      <tuv lang="uk-UA" changeid="maximo" changedate="20200702T175419Z" creationid="maximo" creationdate="20200425T151812Z">
+        <seg>Оригінал та переклад можуть бути у різних форматах. Наприклад, файл &lt;f0&gt;.docx&lt;/f0&gt; можна вирівнювати із файлом &lt;f1&gt;.pdf&lt;/f1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
