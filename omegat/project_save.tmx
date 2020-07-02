@@ -1957,6 +1957,14 @@ To add files to the project, click on the Copy Files to Source Folder... button 
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>--source-pattern=&lt;p0&gt;regexp&lt;/p0&gt;</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200702T135306Z" creationid="lesia" creationdate="20200702T135306Z">
+        <seg>--source-pattern=&lt;p0&gt;regexp&lt;/p0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>--tag-validation=[abort|warn]
 		Validate tags.</seg>
       </tuv>
@@ -1989,6 +1997,14 @@ To add files to the project, click on the Copy Files to Source Folder... button 
       </tuv>
       <tuv lang="uk-UA" changeid="lesia" changedate="20200511T201845Z" creationid="lesia" creationdate="20200511T201845Z">
         <seg>.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>.*\.html</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200702T135321Z" creationid="lesia" creationdate="20200702T135321Z">
+        <seg>.*\.html</seg>
       </tuv>
     </tu>
     <tu>
@@ -4088,8 +4104,8 @@ The current setting is {0}MB;</seg>
       <tuv lang="en">
         <seg>Again note that the backslash is escaped as well.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="maximo" changedate="20200511T201033Z" creationid="maximo" creationdate="20200423T160447Z">
-        <seg>Тут треба звернути увагу, що бекслеш (обернену скісну риску) також треба екранувати нею ж.</seg>
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200702T135524Z" creationid="maximo" creationdate="20200423T160447Z">
+        <seg>Зверніть увагу і на те, що бекслеш (обернену скісну риску) також треба екранувати нею ж.</seg>
       </tuv>
     </tu>
     <tu>
@@ -19114,8 +19130,8 @@ installed on your system.</seg>
       <tuv lang="en">
         <seg>Only the file test.html at the root of the source folder will be translated.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="maximo" changedate="20200423T160301Z" creationid="maximo" creationdate="20200423T160301Z">
-        <seg>Лише файл test.html в корені проєкту буде перекладатись.</seg>
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200702T135350Z" creationid="maximo" creationdate="20200423T160301Z">
+        <seg>Перекладено буде лише файл test.html в корені проєкту.</seg>
       </tuv>
     </tu>
     <tu>
@@ -33220,6 +33236,14 @@ create its configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>dir-10\\test\.html</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200702T135405Z" creationid="lesia" creationdate="20200702T135405Z">
+        <seg>dir-10\\test\.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>done ({0} ms elapsed)</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20190808T092830Z" creationid="Kos Ivantsov" creationdate="20190422T215513Z">
@@ -34755,6 +34779,14 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="lesia" changedate="20200503T063608Z" creationid="lesia" creationdate="20200503T063608Z">
         <seg>target = project.getTranslationInfo(currSegment).translation;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>test\.html</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200702T135326Z" creationid="lesia" creationdate="20200702T135326Z">
+        <seg>test\.html</seg>
       </tuv>
     </tu>
     <tu>
