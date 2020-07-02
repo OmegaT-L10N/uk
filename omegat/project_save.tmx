@@ -13487,8 +13487,8 @@ to use Java Web Start.</seg>
       <tuv lang="en">
         <seg>If you have no doubt that a TMX is more accurate than the &lt;f0&gt;project_save.tmx&lt;/f0&gt; of OmegaT, put this TMX in /tm/enforce to overwrite existing default translations unconditionally.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="fanja9" changedate="20200510T192119Z" creationid="fanja9" creationdate="20200510T153015Z">
-        <seg>Якщо ви впевнені, що файл TMX більш точний ніж &lt;f0&gt;project_save.tmx&lt;/f0&gt; від OmegaT, помістіть цей TMX у /tm/enforce, щоб вже існуючі стандартні переклади були автоматично переписані.</seg>
+      <tuv lang="uk-UA" changeid="maximo" changedate="20200702T194619Z" creationid="fanja9" creationdate="20200510T153015Z">
+        <seg>Якщо ви впевнені, що файл TMX більш точний ніж &lt;f0&gt;project_save.tmx&lt;/f0&gt; від OmegaT, помістіть цей TMX у /tm/enforce, щоб вже існуючі переклади були автоматично переписані.</seg>
       </tuv>
     </tu>
     <tu>
@@ -17943,8 +17943,8 @@ as the Applications folder.</seg>
       <tuv lang="en">
         <seg>Note that the TMX files in the tm folder can be compressed with gzip.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="maximo" changedate="20200614T163848Z" creationid="fanja9" creationdate="20200504T203050Z">
-        <seg>Зверніть увагу, що файли TMX у теці tm можна заархівувати у форматі gzip.</seg>
+      <tuv lang="uk-UA" changeid="maximo" changedate="20200702T194515Z" creationid="fanja9" creationdate="20200504T203050Z">
+        <seg>Зверніть увагу, що файли TMX у теці tm можна тримати заархівованими у форматі gzip.</seg>
       </tuv>
     </tu>
     <tu>
@@ -18047,8 +18047,8 @@ as the Applications folder.</seg>
       <tuv lang="en">
         <seg>Note: if TMX is removed from /tm/auto before step 3, no extra Translation Unit is added.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="fanja9" changedate="20200510T133853Z" creationid="fanja9" creationdate="20200506T211330Z">
-        <seg>Примітка: якщо файл TMX перенести з /tm/auto до виконання кроку 3, не буде створено ніяких додаткових одиниць перекладу.</seg>
+      <tuv lang="uk-UA" changeid="maximo" changedate="20200702T194611Z" creationid="fanja9" creationdate="20200506T211330Z">
+        <seg>Примітка: якщо файл TMX прибрати з /tm/auto до виконання кроку 3, не буде створено ніяких додаткових одиниць перекладу.</seg>
       </tuv>
     </tu>
     <tu>
@@ -26788,8 +26788,8 @@ xx or xxx is the language code and YY is the region or country code (optional).<
       <tuv lang="en">
         <seg>The last segment with the identical source text will thus prevail (Note: of course it makes more sense to avoid this to happen in the first place).</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="maximo" changedate="20200701T202616Z" creationid="fanja9" creationdate="20200510T190427Z">
-        <seg>Останній серед сегментів з ідентичним текстом оригіналу буде більш пріоритетним (звичайно, набагато краще взагалі уникати таких випадків).</seg>
+      <tuv lang="uk-UA" changeid="maximo" changedate="20200702T194426Z" creationid="fanja9" creationdate="20200510T190427Z">
+        <seg>Останній серед сегментів з ідентичним текстом оригіналу буде більш пріоритетним (звичайно, набагато краще взагалі уникати таких ситуацій).</seg>
       </tuv>
     </tu>
     <tu>
