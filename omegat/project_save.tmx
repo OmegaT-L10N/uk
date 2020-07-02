@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.2.0_0_747fc65a9" segtype="sentence" srclang="en"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.2.0_0_747fc65a" segtype="sentence" srclang="en"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -12969,8 +12969,8 @@ their defaults as a result of the location change.</seg>
       <tuv lang="en">
         <seg>If some texts are selected within the fuzzy match, only this selection will replace the whole target segment.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="lesia" changedate="20200425T134451Z" creationid="lesia" creationdate="20200425T134451Z">
-        <seg>Якщо виділити частину нечіткого збігу, це виділення замінить увесь сегмент перекладу.</seg>
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200702T194638Z" creationid="lesia" creationdate="20200425T134451Z">
+        <seg>Якщо виділити частину нечіткого збігу і вибрати відповідний пункт контекстного меню, яке з'явиться при натисканні правою клавішою миші, це виділення замінить увесь сегмент перекладу.</seg>
       </tuv>
     </tu>
     <tu>
@@ -21987,8 +21987,8 @@ These words: 'Page not found'</seg>
       <tuv lang="en">
         <seg>Replaces the whole target segment with the currently selected fuzzy match (by default the first match is selected).</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="maximo" changedate="20200511T201525Z" creationid="lesia" creationdate="20200425T134241Z">
-        <seg>Замінює увесь сегмент перекладу вибраним нечітким збігом (спочатку завжди вибраний перший збіг).</seg>
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200702T194411Z" creationid="lesia" creationdate="20200425T134241Z">
+        <seg>Замінює увесь сегмент перекладу вибраним нечітким збігом (за стандартними налаштуваннями завжди вибирається перший збіг).</seg>
       </tuv>
     </tu>
     <tu>
