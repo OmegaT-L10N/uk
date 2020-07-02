@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.2.0_0_747fc65a" segtype="sentence" srclang="en"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.2.0_0_747fc65a9" segtype="sentence" srclang="en"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -11441,8 +11441,8 @@ provided (omegat.kaptn).</seg>
       <tuv lang="en">
         <seg>For translation memories in folders with a name &lt;f0&gt;penalty-xxx&lt;/f0&gt; (with xxx between 0 and 100), matches will be degraded according to the name of the folder: a 100% match in any of TMs, residing in a folder called &lt;f1&gt;penalty-30&lt;/f1&gt; for instance, will be lowered to a 70% match.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="fanja9" changedate="20200510T193125Z" creationid="fanja9" creationdate="20200510T164559Z">
-        <seg>Для файлів пам'яті перекладу в теках з назвами &lt;f0&gt;penalty-xxx&lt;/f0&gt; (де xxx - це цифри від 0 до 100), збіги будуть розташовані відповідно до назви теки: наприклад, 100%-й збіг у будь-якій пам'яті перекладу, якщо його розмістити у теці &lt;f1&gt;penalty-30&lt;/f1&gt;, знизиться до 70%.</seg>
+      <tuv lang="uk-UA" changeid="maximo" changedate="20200702T194803Z" creationid="fanja9" creationdate="20200510T164559Z">
+        <seg>Для файлів пам'яті перекладу в теках з назвами &lt;f0&gt;penalty-xxx&lt;/f0&gt; (де xxx - це цифри від 0 до 100), збіги будуть оцінюватися нижче, відповідно до назви теки: наприклад, 100%-й збіг у будь-якій пам'яті перекладу, якщо його розмістити у теці &lt;f1&gt;penalty-30&lt;/f1&gt;, буде мати оцінку 70%.</seg>
       </tuv>
     </tu>
     <tu>
