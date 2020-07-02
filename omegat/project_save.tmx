@@ -25764,8 +25764,8 @@ current folder will be used instead.</seg>
       <tuv lang="en">
         <seg>The &lt;f3&gt;level1&lt;/f3&gt; and &lt;f4&gt;level2&lt;/f4&gt; memories can be shared with users of other translation programs.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20190823T145908Z" creationid="Kos Ivantsov" creationdate="20190822T203419Z">
-        <seg>Файли пам’яті, що мають в імені &lt;f3&gt;level1&lt;/f3&gt; або &lt;f4&gt;level2&lt;/f4&gt;, в можна використовувати для обміну з іншими програмами автоматизації перекладу.</seg>
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200702T191951Z" creationid="Kos Ivantsov" creationdate="20190822T203419Z">
+        <seg>Файли пам’яті, що мають в імені &lt;f3&gt;level1&lt;/f3&gt; або &lt;f4&gt;level2&lt;/f4&gt;, можна використовувати для обміну з іншими програмами автоматизації перекладу.</seg>
       </tuv>
     </tu>
     <tu>
@@ -27949,8 +27949,8 @@ in /lib/licenses/Licenses.txt.</seg>
       <tuv lang="en">
         <seg>Therefore, press &lt;k0&gt;Ctrl+Shift+V&lt;/k0&gt; before you generate your translated files, to validate that your tags are correct.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20190822T154107Z" creationid="Kos Ivantsov" creationdate="20190822T154107Z">
-        <seg>А тому перед створенням перекладених файлів варто натискати &lt;k0&gt;Ctrl+Shift+V&lt;/k0&gt;, щоб перевірити, чи немає у перекладі проблем з теґами.</seg>
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200702T191817Z" creationid="Kos Ivantsov" creationdate="20190822T154107Z">
+        <seg>Тому перед створенням перекладених файлів варто натискати &lt;k0&gt;Ctrl+Shift+V&lt;/k0&gt;, щоб перевірити, чи немає у перекладі проблем з теґами.</seg>
       </tuv>
     </tu>
     <tu>
