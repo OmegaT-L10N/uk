@@ -148,6 +148,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>$ tar xf downloaded_file.tar.gz</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200702T190109Z" creationid="lesia" creationdate="20200702T190109Z">
+        <seg>$ tar xf downloaded_file.tar.gz</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>${adjustedScore}</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="maximo" changedate="20200608T112251Z" creationid="maximo" creationdate="20200608T112251Z">
