@@ -20529,8 +20529,8 @@ project without team functionality.</seg>
       <tuv lang="en">
         <seg>Pressing &lt;k0&gt;F2&lt;/k0&gt; key allows to move the cursor into the source segment (or anywhere in the editor) with the keyboard arrows.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="maximo" changedate="20200501T202648Z" creationid="maximo" creationdate="20200501T202648Z">
-        <seg>Якщо натиснути &lt;k0&gt;F2&lt;/k0&gt;, то це стає можливим: стрілочки клавіатури дозволяють вивести курсор за межі поля редагування в оригінальний сегмент і взагалі в будь-яке місце вікна редагування.</seg>
+      <tuv lang="uk-UA" changeid="maximo" changedate="20200702T151019Z" creationid="maximo" creationdate="20200501T202648Z">
+        <seg>Якщо натиснути &lt;k0&gt;F2&lt;/k0&gt;, то це стає можливим: стрілочки клавіатури дозволяють перевести курсор за межі поля редагування - в оригінальний сегмент і взагалі в будь-яке місце вікна редагування.</seg>
       </tuv>
     </tu>
     <tu>
@@ -26796,8 +26796,8 @@ in /lib/licenses/Licenses.txt.</seg>
       <tuv lang="en">
         <seg>The match viewer shows the most similar segments from translation memories, both from internal project translation memory created in real time as you translate your project and from ancillary translation memories you have imported from your earlier jobs, or received from your client or translation agency.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="maximo" changedate="20200501T203818Z" creationid="maximo" creationdate="20200501T203818Z">
-        <seg>Переглядач збігів показує найбільш схожі сегменти із памʼяті перекладів. Це може бути як внутрішня памʼять перекладів проєкту, що наповнюється в режимі реального часу, коли ви перекладаєте, так і вторинна памʼять перекладів, імпортована з ваших попередніх проєктів, отримана від клієнта чи бюро перекладів.</seg>
+      <tuv lang="uk-UA" changeid="maximo" changedate="20200702T151154Z" creationid="maximo" creationdate="20200501T203818Z">
+        <seg>Область нечітких збігів показує найбільш схожі сегменти із памʼяті перекладів. Це може бути як внутрішня памʼять перекладів проєкту, що наповнюється в режимі реального часу, коли ви перекладаєте, так і вторинна памʼять перекладів, імпортована з ваших попередніх проєктів, отримана від клієнта чи бюро перекладів.</seg>
       </tuv>
     </tu>
     <tu>
@@ -31424,8 +31424,8 @@ of selecting, obtaining and installing it.</seg>
       <tuv lang="en">
         <seg>When you move to the next segment, the first fuzzy match (the one with the best matching percentage) is automatically selected.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="maximo" changedate="20200501T203928Z" creationid="maximo" creationdate="20200501T203928Z">
-        <seg>Коли ви переходите до наступного сегмента, то автоматично виділяється перший нечіткий збіг (тобто той, у якого найвищих відсоток схожості).</seg>
+      <tuv lang="uk-UA" changeid="maximo" changedate="20200702T151332Z" creationid="maximo" creationdate="20200501T203928Z">
+        <seg>Коли ви переходите до сегмента, для якого є збіги, перший нечіткий збіг, тобто той, у якого найвищий відсоток схожості, виділяється автоматично.</seg>
       </tuv>
     </tu>
     <tu>
