@@ -11312,8 +11312,8 @@ provided (omegat.kaptn).</seg>
       <tuv lang="en">
         <seg>For that reason, it is OFF by default.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="maximo" changedate="20200702T172640Z" creationid="maximo" creationdate="20200425T154247Z">
-        <seg>тому вмикайте його лише за нений.</seg>
+      <tuv lang="uk-UA" changeid="maximo" changedate="20200702T173127Z" creationid="maximo" creationdate="20200425T154247Z">
+        <seg>Саме тому він вимкнений у стандартних налаштуваннях.</seg>
       </tuv>
     </tu>
     <tu>
@@ -17982,8 +17982,8 @@ as the Applications folder.</seg>
       <tuv lang="en">
         <seg>Note: on Windows it seems that this manual font fallback mechanism can interfere with standard font fallback, causing undesirable font substitution.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="maximo" changedate="20200702T172513Z" creationid="maximo" creationdate="20200425T154210Z">
-        <seg>Зверніть увагу: під Windows цей параметр може конфліктувати зі стандартним механізмом використання резервних шрифтів, що може призводити до небажаних замін шрифтів,</seg>
+      <tuv lang="uk-UA" changeid="maximo" changedate="20200702T173301Z" creationid="maximo" creationdate="20200425T154210Z">
+        <seg>Зверніть увагу: під Windows ця функціональність OmegaT може конфліктувати з системним механізмом використання резервних шрифтів, що може призводити до небажаних замін.</seg>
       </tuv>
     </tu>
     <tu>
