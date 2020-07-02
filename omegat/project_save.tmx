@@ -14971,8 +14971,8 @@ click on that shortcut.</seg>
       <tuv lang="en">
         <seg>It is possible to drag text from anywhere in the main window and to drop it within the segment.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="maximo" changedate="20200501T201832Z" creationid="maximo" creationdate="20200501T201832Z">
-        <seg>З будь-якого місця головного вікна можна перетягнути текст в сегмент.</seg>
+      <tuv lang="uk-UA" changeid="maximo" changedate="20200702T200049Z" creationid="maximo" creationdate="20200501T201832Z">
+        <seg>В поточний сегмент можна перетягнути текст з будь-якого місця головного вікна.</seg>
       </tuv>
     </tu>
     <tu>
@@ -20619,8 +20619,8 @@ project without team functionality.</seg>
       <tuv lang="en">
         <seg>Pressing &lt;k0&gt;F2&lt;/k0&gt; key allows to move the cursor into the source segment (or anywhere in the editor) with the keyboard arrows.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="maximo" changedate="20200702T151019Z" creationid="maximo" creationdate="20200501T202648Z">
-        <seg>Якщо натиснути &lt;k0&gt;F2&lt;/k0&gt;, то це стає можливим: стрілочки клавіатури дозволяють перевести курсор за межі поля редагування - в оригінальний сегмент і взагалі в будь-яке місце вікна редагування.</seg>
+      <tuv lang="uk-UA" changeid="maximo" changedate="20200702T200235Z" creationid="maximo" creationdate="20200501T202648Z">
+        <seg>Якщо натиснути &lt;k0&gt;F2&lt;/k0&gt;, то це стає можливим. Курсор зможе вийти за межі поля редагування - в оригінальний сегмент і взагалі в будь-яке місце вікна редагування.</seg>
       </tuv>
     </tu>
     <tu>
