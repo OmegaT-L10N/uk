@@ -13331,8 +13331,8 @@ their defaults as a result of the location change.</seg>
       <tuv lang="en">
         <seg>If you can not see all the panes (be it opened or minimized), pressing &lt;g0&gt; Options &gt; Restore Main Window &lt;/g0&gt;will restore them to the state, defined in the installation.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="maximo" changedate="20200614T162032Z" creationid="maximo" creationdate="20200428T180652Z">
-        <seg>Якщо ви не бачите всі області (відкриті або згорнуті) &lt;g0&gt;Вигляд &gt; Відновити вигляд головного вікна&lt;/g0&gt; поверне їх до стандартного стану.</seg>
+      <tuv lang="uk-UA" changeid="maximo" changedate="20200702T195239Z" creationid="maximo" creationdate="20200428T180652Z">
+        <seg>Якщо ви бачите не всі області (відкриті або згорнуті) &lt;g0&gt;Вигляд &gt; Відновити вигляд головного вікна&lt;/g0&gt; поверне їх до стандартного стану.</seg>
       </tuv>
     </tu>
     <tu>
@@ -32302,8 +32302,8 @@ start menu, the desktop or the quick launch area to link it from there.</seg>
       <tuv lang="en">
         <seg>You can change the position of any pane or even undock it to a separate window by clicking and dragging the pane by its name.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="maximo" changedate="20200614T161955Z" creationid="maximo" creationdate="20200412T175144Z">
-        <seg>Ви можете змінювати положення кожної області чи навіть відокремити її у окреме вікно, якщо перетягнете її натиснувши на заголовок.</seg>
+      <tuv lang="uk-UA" changeid="maximo" changedate="20200702T195212Z" creationid="maximo" creationdate="20200412T175144Z">
+        <seg>Ви можете змінити положення будь-якої області чи навіть відокремити її у окреме вікно, якщо перетягнете її, взявшись на заголовок.</seg>
       </tuv>
     </tu>
     <tu>
