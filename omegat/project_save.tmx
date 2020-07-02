@@ -1342,8 +1342,8 @@
       <tuv lang="en">
         <seg>&amp;Skip PO header</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20190517T111612Z" creationid="Kos Ivantsov" creationdate="20190517T111612Z">
-        <seg>Пропустити заголово&amp;к файла PO</seg>
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200702T205110Z" creationid="Kos Ivantsov" creationdate="20190517T111612Z">
+        <seg>Пропустити заголово&amp;к файлу\b PO</seg>
       </tuv>
     </tu>
     <tu>
@@ -7725,8 +7725,8 @@ Buy another drink</seg>
       <tuv lang="en">
         <seg>Creates the target document corresponding to the current document in translation.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="maximo" changedate="20200425T144639Z" creationid="maximo" creationdate="20200425T144639Z">
-        <seg>Створити перекладений документ із активного файла.</seg>
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200702T205110Z" creationid="maximo" creationdate="20200425T144639Z">
+        <seg>Створити перекладений документ із активного файлу\b.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13123,8 +13123,8 @@ their defaults as a result of the location change.</seg>
       <tuv lang="en">
         <seg>If there's no file name displayed, the source is the internal project translation memory.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="maximo" changedate="20200503T052721Z" creationid="maximo" creationdate="20200503T052721Z">
-        <seg>Якщо імені файла нема, це означає, що збіг взято з внутрішньої памʼяті поточного проєкту.</seg>
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200702T205110Z" creationid="maximo" creationdate="20200503T052721Z">
+        <seg>Якщо імені файлу\b нема, це означає, що збіг взято з внутрішньої памʼяті поточного проєкту.</seg>
       </tuv>
     </tu>
     <tu>
@@ -14137,8 +14137,8 @@ click on that shortcut.</seg>
       <tuv lang="en">
         <seg>In the example below, the author of the PO file included a warning for the translator to check the length of the translation:</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="maximo" changedate="20200503T060034Z" creationid="maximo" creationdate="20200503T055912Z">
-        <seg>У прикладі автор файла PO додав попередження для перекладача, що треба перевірити довжину перекладу:</seg>
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200702T205110Z" creationid="maximo" creationdate="20200503T055912Z">
+        <seg>У прикладі автор файлу\b PO додав попередження для перекладача, що треба перевірити довжину перекладу:</seg>
       </tuv>
     </tu>
     <tu>
@@ -24148,8 +24148,8 @@ The scope of a search is by default the project and can be set to be any files l
       <tuv lang="en">
         <seg>Skip PO header</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="maximo" changedate="20200413T105651Z" creationid="maximo" creationdate="20200413T105651Z">
-        <seg>Пропустити заголовок файла PO</seg>
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200702T205110Z" creationid="maximo" creationdate="20200413T105651Z">
+        <seg>Пропустити заголовок файлу\b PO</seg>
       </tuv>
     </tu>
     <tu>
@@ -25185,8 +25185,8 @@ The scope of a search is by default the project and can be set to be any files l
       <tuv lang="en">
         <seg>TMX files are read sorted by their names and segments within a given TMX file line by line.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="maximo" changedate="20200701T202503Z" creationid="fanja9" creationdate="20200510T185943Z">
-        <seg>Файли TMX читаються відповідно до того, як вони посортовані: за назвою файла і за порядком сегментів у TMX.</seg>
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200702T205110Z" creationid="fanja9" creationdate="20200510T185943Z">
+        <seg>Файли TMX читаються відповідно до того, як вони посортовані: за назвою файлу\b і за порядком сегментів у TMX.</seg>
       </tuv>
     </tu>
     <tu>
@@ -25981,8 +25981,8 @@ current folder will be used instead.</seg>
       <tuv lang="en">
         <seg>The PO header will be skipped and left unchanged if this option is checked.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="maximo" changedate="20200413T105741Z" creationid="maximo" creationdate="20200413T105741Z">
-        <seg>Якщо цей параметр активний, заголовок файла PO буде залишений без змін.</seg>
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200702T205110Z" creationid="maximo" creationdate="20200413T105741Z">
+        <seg>Якщо цей параметр активний, заголовок файлу\b PO буде залишений без змін.</seg>
       </tuv>
     </tu>
     <tu>
@@ -27022,8 +27022,8 @@ in /lib/licenses/Licenses.txt.</seg>
       <tuv lang="en">
         <seg>The options for the program start-up in this case will be read from the &lt;f1&gt;OmegaT.l4J.ini&lt;/f1&gt; file, which resides in the same folder as the exe file and which you can edit to reflect your setup.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="maximo" changedate="20200418T130649Z" creationid="maximo" creationdate="20200418T130649Z">
-        <seg>У цьому випадку параметри для запуску програми зчитуються із файла &lt;f1&gt;OmegaT.l4J.ini&lt;/f1&gt;, який розташований у тій самій теці, що і файл .exe. Його можна редагувати, щоб змінити налаштування.</seg>
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200702T205110Z" creationid="maximo" creationdate="20200418T130649Z">
+        <seg>У цьому випадку параметри для запуску програми зчитуються із файлу\b &lt;f1&gt;OmegaT.l4J.ini&lt;/f1&gt;, який розташований у тій самій теці, що і файл .exe. Його можна редагувати, щоб змінити налаштування.</seg>
       </tuv>
     </tu>
     <tu>
@@ -28608,8 +28608,8 @@ the server.</seg>
       <tuv lang="en">
         <seg>This option allows OmegaT to override the specification in the PO file header and use the default for the selected target language.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="Asus" changedate="20200622T034457Z" creationid="maximo" creationdate="20200413T105920Z">
-        <seg>Цей параметр дозволяє OmegaT замінити специфікацію у заголовку файла PO та використовувати стандартну для мови перекладу.</seg>
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200702T205110Z" creationid="maximo" creationdate="20200413T105920Z">
+        <seg>Цей параметр дозволяє OmegaT замінити специфікацію у заголовку файлу\b PO та використовувати стандартну для мови перекладу.</seg>
       </tuv>
     </tu>
     <tu>
