@@ -14345,8 +14345,8 @@ click on that shortcut.</seg>
       <tuv lang="en">
         <seg>Initially empty, this folder will contain dictionaries you have added to the project.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="fanja9" changedate="20200510T183529Z" creationid="fanja9" creationdate="20200510T145806Z">
-        <seg>У момент початку роботи ця тека порожня, а пізніше тут розміщатимуться словники, які ви будете додавати до проєкту.</seg>
+      <tuv lang="uk-UA" changeid="maximo" changedate="20200702T194916Z" creationid="fanja9" creationdate="20200510T145806Z">
+        <seg>Сюди треба класти словники.</seg>
       </tuv>
     </tu>
     <tu>
@@ -15118,8 +15118,8 @@ inside the configuration folder.</seg>
       <tuv lang="en">
         <seg>It will contain glossaries you will be using in the project.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="maximo" changedate="20200702T194849Z" creationid="fanja9" creationdate="20200510T132042Z">
-        <seg>Сюди треба класти глосарії.</seg>
+      <tuv lang="uk-UA" changeid="maximo" changedate="20200702T195037Z" creationid="fanja9" creationdate="20200510T132042Z">
+        <seg>Сюди треба класти глосарії. Також тут автоматично створиться файл основного глосарію, якщо ви будете використовувати функцію "додати до глосарію".</seg>
       </tuv>
     </tu>
     <tu>
