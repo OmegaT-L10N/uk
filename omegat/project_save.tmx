@@ -1850,6 +1850,22 @@ To add files to the project, click on the Copy Files to Source Folder... button 
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>--config-dir=&lt;p1&gt;/path/to/config-files/&lt;/p1&gt; \</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200702T190314Z" creationid="lesia" creationdate="20200702T190314Z">
+        <seg>--config-dir=&lt;p1&gt;/path/to/config-files/&lt;/p1&gt; \</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>--config-file=&lt;p2&gt;/path/to/config-file/&lt;/p2&gt; \</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200702T190314Z" creationid="lesia" creationdate="20200702T190314Z">
+        <seg>--config-file=&lt;p2&gt;/path/to/config-file/&lt;/p2&gt; \</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>--config-file=&lt;path&gt;
 		A Java .properties file from which to load default settings.</seg>
       </tuv>
@@ -1880,6 +1896,14 @@ To add files to the project, click on the Copy Files to Source Folder... button 
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>--mode=&lt;p3&gt;console-translate|console-createpseudotranslatetmx|console-align&lt;/p3&gt; \</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200702T190315Z" creationid="lesia" creationdate="20200702T190315Z">
+        <seg>--mode=&lt;p3&gt;console-translate|console-createpseudotranslatetmx|console-align&lt;/p3&gt; \</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>--mode=[console-translate|console-pseudotranslatetmx|console-align]
 		Specify a mode other than default (GUI).</seg>
       </tuv>
@@ -1895,6 +1919,22 @@ To add files to the project, click on the Copy Files to Source Folder... button 
       </tuv>
       <tuv lang="uk-UA" changeid="lesia" changedate="20200702T091643Z" creationid="lesia" creationdate="20200702T091643Z">
         <seg>--mode=console-align</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>--mode=console-createpseudotranslatetmx</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200702T190319Z" creationid="lesia" creationdate="20200702T190319Z">
+        <seg>--mode=console-createpseudotranslatetmx</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>--mode=console-translate</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200702T190318Z" creationid="lesia" creationdate="20200702T190318Z">
+        <seg>--mode=console-translate</seg>
       </tuv>
     </tu>
     <tu>
@@ -1973,6 +2013,14 @@ To add files to the project, click on the Copy Files to Source Folder... button 
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>--source-pattern=&lt;p4&gt;regexp&lt;/p4&gt;</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200702T190315Z" creationid="lesia" creationdate="20200702T190315Z">
+        <seg>--source-pattern=&lt;p4&gt;regexp&lt;/p4&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>--tag-validation=[abort|warn]
 		Validate tags.</seg>
       </tuv>
@@ -1983,10 +2031,34 @@ To add files to the project, click on the Copy Files to Source Folder... button 
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>-Dmicrosoft.api.client_id=&lt;p0&gt;XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX&lt;/p0&gt;</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200702T190305Z" creationid="lesia" creationdate="20200702T190305Z">
+        <seg>-Dmicrosoft.api.client_id=&lt;p0&gt;XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX&lt;/p0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>-Dmicrosoft.api.client_secret=&lt;p0&gt;XXXX9xXxX9xXXxxXXX9xxX99xXXXX9xx9XXxXxXXXXX=&lt;/p0&gt;</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200702T190306Z" creationid="lesia" creationdate="20200702T190306Z">
+        <seg>-Dmicrosoft.api.client_secret=&lt;p0&gt;XXXX9xXxX9xXXxxXXX9xxX99xXXXX9xx9XXxXxXXXXX=&lt;/p0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>-Dsun.java2d.noddraw=false</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="maximo" changedate="20200510T172938Z" creationid="maximo" creationdate="20200510T172938Z">
         <seg>-Dsun.java2d.noddraw=false</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>-Dyandex.api.key=&lt;p0&gt;trnsl.1.1.XXXXXXXXXXXXXXXX.XXXXXXXXXXXXXXXX.XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX&lt;/p0&gt;</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200702T190308Z" creationid="lesia" creationdate="20200702T190308Z">
+        <seg>-Dyandex.api.key=&lt;p0&gt;trnsl.1.1.XXXXXXXXXXXXXXXX.XXXXXXXXXXXXXXXX.XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX&lt;/p0&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -11890,6 +11962,14 @@ provided (omegat.kaptn).</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20190807T184119Z" creationid="Kos Ivantsov" creationdate="20190807T184048Z">
         <seg>Ключ Google Api не доступний.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Google Translate V2</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200702T190302Z" creationid="lesia" creationdate="20200702T190302Z">
+        <seg>Google Translate V2</seg>
       </tuv>
     </tu>
     <tu>
@@ -33156,6 +33236,14 @@ create its configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>cd /usr/local/omegat</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200702T190153Z" creationid="lesia" creationdate="20200702T190153Z">
+        <seg>cd /usr/local/omegat</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>cd &lt;folder where the file OmegaT.jar is located&gt;</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20190822T212921Z" creationid="Kos Ivantsov" creationdate="20190822T212921Z">
@@ -33176,6 +33264,14 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="maximo" changedate="20200420T200921Z" creationid="maximo" creationdate="20200420T200921Z">
         <seg>cd &lt;p0&gt;тека&lt;/p0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>cd C:\Program Files\OmegaT</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200702T190152Z" creationid="lesia" creationdate="20200702T190152Z">
+        <seg>cd C:\Program Files\OmegaT</seg>
       </tuv>
     </tu>
     <tu>
@@ -33684,6 +33780,22 @@ create its configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>gradlew assembleDist</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200702T190335Z" creationid="lesia" creationdate="20200702T190335Z">
+        <seg>gradlew assembleDist</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>gradlew run</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200702T190336Z" creationid="lesia" creationdate="20200702T190336Z">
+        <seg>gradlew run</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>greedy quantifiers will match as much as they can.</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="maximo" changedate="20200412T051725Z" creationid="maximo" creationdate="20200412T051725Z">
@@ -33736,6 +33848,30 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20190815T133305Z" creationid="Kos Ivantsov" creationdate="20190815T133305Z">
         <seg>href (URL-адреси &amp;посилань)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>http://api.yandex.com/key/form.xml?service=trnsl</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200702T190306Z" creationid="lesia" creationdate="20200702T190306Z">
+        <seg>http://api.yandex.com/key/form.xml?service=trnsl</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>http://api.yandex.com/key/keyslist.xml</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200702T190306Z" creationid="lesia" creationdate="20200702T190306Z">
+        <seg>http://api.yandex.com/key/keyslist.xml</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>http://datamarket.azure.com/dataset/bing/microsofttranslator#schema</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200702T190303Z" creationid="lesia" creationdate="20200702T190303Z">
+        <seg>http://datamarket.azure.com/dataset/bing/microsofttranslator#schema</seg>
       </tuv>
     </tu>
     <tu>
@@ -33804,6 +33940,14 @@ create its configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>http://www.ibm.com/developerworks/java/jdk/linux/download.html</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200702T190136Z" creationid="lesia" creationdate="20200702T190136Z">
+        <seg>http://www.ibm.com/developerworks/java/jdk/linux/download.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>http://www.microsoft.com/Language/en-US/Terminology.aspx</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="lesia" changedate="20200505T193700Z" creationid="lesia" creationdate="20200505T193700Z">
@@ -33828,6 +33972,14 @@ create its configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>http://www.oracle.com/technetwork/java/archive-139210.html</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200702T190135Z" creationid="lesia" creationdate="20200702T190135Z">
+        <seg>http://www.oracle.com/technetwork/java/archive-139210.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>http://www.w3.org/International/questions/qa-bidi-controls</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="maximo" changedate="20200702T172228Z" creationid="maximo" creationdate="20200702T172228Z">
@@ -33840,6 +33992,14 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="maximo" changedate="20200614T151348Z" creationid="maximo" creationdate="20200614T151348Z">
         <seg>https://ant.apache.org/manual/dirtasks.html#patterns</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>https://datamarket.azure.com/account</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200702T190304Z" creationid="lesia" creationdate="20200702T190304Z">
+        <seg>https://datamarket.azure.com/account</seg>
       </tuv>
     </tu>
     <tu>
@@ -33884,6 +34044,14 @@ create its configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>https://omegat.sourceforge.io/webstart/OmegaT.jnlp</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200702T190143Z" creationid="lesia" creationdate="20200702T190143Z">
+        <seg>https://omegat.sourceforge.io/webstart/OmegaT.jnlp</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>https://omegat.sourceforge.net/webstart/OmegaT.jnlp</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="maximo" changedate="20200614T163940Z" creationid="maximo" creationdate="20200614T163940Z">
@@ -33904,6 +34072,22 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20190822T210421Z" creationid="Kos Ivantsov" creationdate="20190808T091330Z">
         <seg>https://sourceforge.net/p/omegat/feature-requests/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>https://sourceforge.net/p/omegat/svn/HEAD/tarball?path=/trunk</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200702T190333Z" creationid="lesia" creationdate="20200702T190333Z">
+        <seg>https://sourceforge.net/p/omegat/svn/HEAD/tarball?path=/trunk</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>https://sourceforge.net/p/omegat/svn/HEAD/tree/trunk/docs_devel/README.txt</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200702T190337Z" creationid="lesia" creationdate="20200702T190337Z">
+        <seg>https://sourceforge.net/p/omegat/svn/HEAD/tree/trunk/docs_devel/README.txt</seg>
       </tuv>
     </tu>
     <tu>
@@ -34082,6 +34266,46 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="lesia" changedate="20200420T194604Z" creationid="lesia" creationdate="20200420T194604Z">
         <seg>не враховуються у статистиці,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>java -Dswing.aatext=true -Duser.language=pt -Duser.country=BR -Xmx2048M -Dhttp.proxyHost=192.168.1.1 -Dhttp.proxyport=3128 -jar -OmegaT.jar</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200702T190308Z" creationid="lesia" creationdate="20200702T190308Z">
+        <seg>java -Dswing.aatext=true -Duser.language=pt -Duser.country=BR -Xmx2048M -Dhttp.proxyHost=192.168.1.1 -Dhttp.proxyport=3128 -jar -OmegaT.jar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>java -Duser.language=fr -jar OmegaT.jar</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200702T190254Z" creationid="lesia" creationdate="20200702T190254Z">
+        <seg>java -Duser.language=fr -jar OmegaT.jar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>java -Xmx2048M -jar OmegaT.jar</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200702T190259Z" creationid="lesia" creationdate="20200702T190259Z">
+        <seg>java -Xmx2048M -jar OmegaT.jar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>java -jar OmegaT.jar</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200702T190154Z" creationid="lesia" creationdate="20200702T190154Z">
+        <seg>java -jar OmegaT.jar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>java -jar OmegaT.jar &lt;p0&gt;/path/to/project&lt;/p0&gt; \</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200702T190314Z" creationid="lesia" creationdate="20200702T190314Z">
+        <seg>java -jar OmegaT.jar &lt;p0&gt;/path/to/project&lt;/p0&gt; \</seg>
       </tuv>
     </tu>
     <tu>
@@ -34787,6 +35011,14 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="maximo" changedate="20200614T163923Z" creationid="maximo" creationdate="20200614T163923Z">
         <seg>stats.txt</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>svn://svn.code.sf.net/p/omegat/svn/trunk</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200702T190333Z" creationid="lesia" creationdate="20200702T190333Z">
+        <seg>svn://svn.code.sf.net/p/omegat/svn/trunk</seg>
       </tuv>
     </tu>
     <tu>
