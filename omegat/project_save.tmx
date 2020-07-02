@@ -13865,8 +13865,8 @@ click on that shortcut.</seg>
       <tuv lang="en">
         <seg>In addition, when the right click occurs on an opened segment, other options concerning &lt;e12&gt;Alternative translations&lt;/e12&gt; are proposed, for example to to jump to another instance of non-unique segments.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="maximo" changedate="20200702T150933Z" creationid="maximo" creationdate="20200501T201751Z">
-        <seg>Окрім того, якщо ви натиснете правою кнопкою на активний сегмент, то також будуть доступні додаткові команди, пов'язані з &lt;e12&gt;Варіантами перекладу&lt;/e12&gt; наприклад, перехід до іншого повтору цього сегмента.</seg>
+      <tuv lang="uk-UA" changeid="maximo" changedate="20200702T195930Z" creationid="maximo" creationdate="20200501T201751Z">
+        <seg>Для активного сегмента будуть доступні додаткові команди, пов'язані з &lt;e12&gt;Варіантами перекладу&lt;/e12&gt;. Наприклад, перехід до іншого повтору цього сегмента.</seg>
       </tuv>
     </tu>
     <tu>
@@ -25821,8 +25821,8 @@ current folder will be used instead.</seg>
       <tuv lang="en">
         <seg>The Editor pane displays the text of the partially translated document: the text already translated is displayed in translation while the untranslated text is displayed in the original language.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="maximo" changedate="20200702T195618Z" creationid="maximo" creationdate="20200430T210534Z">
-        <seg>Вікно редагування відображає текст документа, що перекладається. Ті частини тексту, що вже мають переклад, відображається у перекладеному вигляді, а ті, що ще ні - мовою оригіналу.</seg>
+      <tuv lang="uk-UA" changeid="maximo" changedate="20200702T195838Z" creationid="maximo" creationdate="20200430T210534Z">
+        <seg>Вікно редагування відображає текст документа, що перекладається. Ті частини тексту, що вже мають переклад, відображаються у перекладеному вигляді, а ті, що ще ні - мовою оригіналу.</seg>
       </tuv>
     </tu>
     <tu>
