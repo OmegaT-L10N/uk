@@ -19637,8 +19637,8 @@ installed on your system.</seg>
       <tuv lang="en">
         <seg>Other translations, identified specifically in the TMX, can be displayed using different colours.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="maximo" changedate="20200425T153840Z" creationid="maximo" creationdate="20200425T153840Z">
-        <seg>Інші переклади, що визначені конкретно у TMX, можуть відображатися у інших кольорах.</seg>
+      <tuv lang="uk-UA" changeid="maximo" changedate="20200702T173810Z" creationid="maximo" creationdate="20200425T153840Z">
+        <seg>Інші переклади, що мають додаткові характеристики, прописані у TMX, можуть відображатися у інших кольорах.</seg>
       </tuv>
     </tu>
     <tu>
@@ -26149,8 +26149,8 @@ Please try to correct the error and reload the project.</seg>
       <tuv lang="en">
         <seg>The colours are displayed as long as the &lt;l1&gt;&lt;g2&gt;Save auto-populated status&lt;/g2&gt;&lt;/l1&gt; option is checked.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="maximo" changedate="20200425T153547Z" creationid="maximo" creationdate="20200425T153547Z">
-        <seg>Кольори будуть показуватися доки параметр &lt;l1&gt;&lt;g2&gt;Зберігати статус автоматичного заповнення&lt;/g2&gt;&lt;/l1&gt; є активним.</seg>
+      <tuv lang="uk-UA" changeid="maximo" changedate="20200702T173558Z" creationid="maximo" creationdate="20200425T153547Z">
+        <seg>Зверніть увагу, що для цого параметр &lt;l1&gt;&lt;g2&gt;Зберігати статус автоматичного заповнення&lt;/g2&gt;&lt;/l1&gt; має бути активним.</seg>
       </tuv>
     </tu>
     <tu>
@@ -30842,8 +30842,8 @@ searchable without subscription:</seg>
       <tuv lang="en">
         <seg>Usual translations inserted from the auto folder are displayed in orange.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="maximo" changedate="20200425T153754Z" creationid="maximo" creationdate="20200425T153754Z">
-        <seg>Звичайні переклади, що вставляються з теки auto, руді.</seg>
+      <tuv lang="uk-UA" changeid="maximo" changedate="20200702T173629Z" creationid="maximo" creationdate="20200425T153754Z">
+        <seg>Звичайні переклади, що вставляються з теки auto, будуть рудими.</seg>
       </tuv>
     </tu>
     <tu>
