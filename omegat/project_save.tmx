@@ -19719,8 +19719,8 @@ installed on your system.</seg>
       <tuv lang="en">
         <seg>Other dropped files will be copied to the &lt;f1&gt;source&lt;/f1&gt; folder.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="maximo" changedate="20200429T210243Z" creationid="maximo" creationdate="20200429T210243Z">
-        <seg>Інші типи файлів будуть скопіювані до теки &lt;f1&gt;source&lt;/f1&gt;.</seg>
+      <tuv lang="uk-UA" changeid="maximo" changedate="20200702T195439Z" creationid="maximo" creationdate="20200429T210243Z">
+        <seg>Інші типи файлів будуть скопійовані до теки &lt;f1&gt;source&lt;/f1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -28134,8 +28134,8 @@ the server.</seg>
       <tuv lang="en">
         <seg>This applies also to the &lt;l2&gt;Project files&lt;/l2&gt; window.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="maximo" changedate="20200429T210400Z" creationid="maximo" creationdate="20200429T210400Z">
-        <seg>Це також стосується вікна &lt;l2&gt;Файли проєкту&lt;/l2&gt;.</seg>
+      <tuv lang="uk-UA" changeid="maximo" changedate="20200702T195525Z" creationid="maximo" creationdate="20200429T210400Z">
+        <seg>Такий самий результат буде, якщо перетягнути їх у вікно &lt;l2&gt;Файли проєкту&lt;/l2&gt;.</seg>
       </tuv>
     </tu>
     <tu>
