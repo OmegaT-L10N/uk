@@ -12609,8 +12609,8 @@ need not be entered.)</seg>
       <tuv lang="en">
         <seg>If checked, source segments will be shown and marked in green.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="maximo" changedate="20200425T152858Z" creationid="maximo" creationdate="20200425T152858Z">
-        <seg>Якщо поставити прапорець, сегменти для перекладу будуть позначатися фіолетовим.</seg>
+      <tuv lang="uk-UA" changeid="maximo" changedate="20200702T174838Z" creationid="maximo" creationdate="20200425T152858Z">
+        <seg>Якщо поставити прапорець, текст сегментів для перекладу буде показуватися завжди та підсвічуватися зеленим кольором.</seg>
       </tuv>
     </tu>
     <tu>
@@ -28454,8 +28454,8 @@ the server.</seg>
       <tuv lang="en">
         <seg>This marking has priority over &lt;g0&gt;Mark Translated Segments&lt;/g0&gt; and &lt;g1&gt;Mark Untranslated Segments&lt;/g1&gt;.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="maximo" changedate="20200425T153156Z" creationid="maximo" creationdate="20200425T153156Z">
-        <seg>Ця позначка має приорітет перед &lt;g0&gt;Позначати перекладені сегменти&lt;/g0&gt; та &lt;g1&gt;Позначати неперекладені сегменти&lt;/g1&gt;.</seg>
+      <tuv lang="uk-UA" changeid="maximo" changedate="20200702T174528Z" creationid="maximo" creationdate="20200425T153156Z">
+        <seg>Ця позначка має приорітет над &lt;g0&gt;Позначати перекладені сегменти&lt;/g0&gt; та &lt;g1&gt;Позначати неперекладені сегменти&lt;/g1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
