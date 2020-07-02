@@ -17927,8 +17927,8 @@ as the Applications folder.</seg>
       <tuv lang="en">
         <seg>Note that other CAT tools can export (and import as well) tmx files, usually in all three forms.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="fanja9" changedate="20200510T133649Z" creationid="fanja9" creationdate="20200502T180844Z">
-        <seg>Зверніть увагу, файли tmx можна експортувати між CAT-інструментами трьома способами (та імпортувати також).</seg>
+      <tuv lang="uk-UA" changeid="maximo" changedate="20200702T194222Z" creationid="fanja9" creationdate="20200502T180844Z">
+        <seg>Зверніть увагу, що інші CAT-інструменти зазвичай можуть експортувати пам'ять перекладів у перших двох форматах.</seg>
       </tuv>
     </tu>
     <tu>
@@ -26143,8 +26143,8 @@ Please try to correct the error and reload the project.</seg>
       <tuv lang="en">
         <seg>The best thing of course is to use OmegaT-specific TMX files (see above), so that the in-line formatting within the segment is retained.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="fanja9" changedate="20200510T133823Z" creationid="fanja9" creationdate="20200502T222054Z">
-        <seg>Звичайно, найкраще використовувати файли TMX, специфічні для OmegaT (дивитись вище), таким чином в сегменті збережеться вбудоване системне форматування.</seg>
+      <tuv lang="uk-UA" changeid="maximo" changedate="20200702T194343Z" creationid="fanja9" creationdate="20200502T222054Z">
+        <seg>Але, безумовно, найкраще буде використовувати файли TMX, специфічні для OmegaT, оскільки в них для сегментів зберігається вбудоване системне форматування.</seg>
       </tuv>
     </tu>
     <tu>
