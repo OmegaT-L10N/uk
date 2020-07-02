@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.2.0_0_747fc65a9" segtype="sentence" srclang="en"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.2.0_0_747fc65a" segtype="sentence" srclang="en"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -32145,8 +32145,8 @@ can then launch the Kaptain launch script with:</seg>
       <tuv lang="en">
         <seg>You can add a new term to the glossary by pressing &lt;k0&gt;Ctrl+Shift+G&lt;/k0&gt;, or copy existing glossaries to the &lt;f1&gt;/glossary/&lt;/f1&gt; subfolder of your project folder, and OmegaT will automatically look up words in them.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="lesia" changedate="20200616T203841Z" creationid="Kos Ivantsov" creationdate="20190822T204044Z">
-        <seg>Щоб додати новий термін до глосарія, потрібно натиснути &lt;k0&gt;Ctrl+Shift+G&lt;/k0&gt;. Якщо скопіювати файли глосаріїв у призначену для них теку (у типовій конфігурації — підтека &lt;f1&gt;glossary&lt;/f1&gt; у теці проєкту), OmegaT автоматично почне шукати слова в них.</seg>
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200702T192143Z" creationid="Kos Ivantsov" creationdate="20190822T204044Z">
+        <seg>Щоб додати новий термін до глосарія, потрібно натиснути &lt;k0&gt;Ctrl+Shift+G&lt;/k0&gt;. Якщо скопіювати файли глосаріїв у призначену для них теку (у типовій конфігурації — підтека &lt;f1&gt;glossary&lt;/f1&gt; у теці проєкту), OmegaT автоматично почне шукати в них слова.</seg>
       </tuv>
     </tu>
     <tu>
