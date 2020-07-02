@@ -12617,8 +12617,8 @@ need not be entered.)</seg>
       <tuv lang="en">
         <seg>If checked, the background of all segments where the target segment has been auto-populated (from TMXs placed in &lt;f0&gt;/tm/auto&lt;/f0&gt; for example) are displayed in colour.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="maximo" changedate="20200702T172313Z" creationid="maximo" creationdate="20200425T153452Z">
-        <seg>Якщо поставити прапорець, то тло всіх сегментів, що були перекладені автоматично (наприклад, із файлів TMXs із теки &lt;f0&gt;/tm/auto&lt;/f0&gt;), буде кольоровим.</seg>
+      <tuv lang="uk-UA" changeid="maximo" changedate="20200702T174457Z" creationid="maximo" creationdate="20200425T153452Z">
+        <seg>Якщо поставити прапорець, то тло сегментів, переклад для яких зайдено автоматично (наприклад, у файлах TMX із теки &lt;f0&gt;/tm/auto&lt;/f0&gt;), буде кольоровим.</seg>
       </tuv>
     </tu>
     <tu>
