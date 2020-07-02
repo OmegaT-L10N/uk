@@ -4647,8 +4647,8 @@ The TMX file will not be loaded.</seg>
       <tuv lang="en">
         <seg>An extra command line parameter specific to console mode: &lt;l0&gt;--quiet&lt;/l0&gt;.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="maximo" changedate="20200423T161232Z" creationid="maximo" creationdate="20200423T161232Z">
-        <seg>Ще один параметр, специфічний для консольного режима: &lt;l0&gt;--quiet&lt;/l0&gt;.</seg>
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200702T185139Z" creationid="maximo" creationdate="20200423T161232Z">
+        <seg>Ще один параметр, специфічний для консольного режиму: &lt;l0&gt;--quiet&lt;/l0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -26836,8 +26836,8 @@ in /lib/licenses/Licenses.txt.</seg>
       <tuv lang="en">
         <seg>The messages you would usually find in the status bar are not displayed.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="maximo" changedate="20200423T161349Z" creationid="maximo" creationdate="20200423T161349Z">
-        <seg>Наприклад, ті повідомлення, які ви зазвичай бачите у рядку статусу не відображаються.</seg>
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200702T185156Z" creationid="maximo" creationdate="20200423T161349Z">
+        <seg>Наприклад, ті повідомлення, які ви зазвичай бачите у рядку статусу, не відображаються.</seg>
       </tuv>
     </tu>
     <tu>
