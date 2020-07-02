@@ -19647,8 +19647,8 @@ installed on your system.</seg>
       <tuv lang="en">
         <seg>Orphan segments (match #2) describe segments in the default project translation memory that have no corresponding source segment.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="maximo" changedate="20200702T151955Z" creationid="maximo" creationdate="20200614T163732Z">
-        <seg>Покинуті сегменти (збіг 2), це сегменти із внутрішньої памʼяті поточного проєкту, які стосуються змінених або видалених файлів оригіналу, тобто втратили прив'язку до реальних оригінальних сегментів.</seg>
+      <tuv lang="uk-UA" changeid="maximo" changedate="20200702T200914Z" creationid="maximo" creationdate="20200614T163732Z">
+        <seg>Покинуті сегменти (збіг 2), це сегменти із внутрішньої памʼяті поточного проєкту, які стосуються змінених або видалених файлів оригіналу, і таким чином втратили прив'язку до реальних оригінальних сегментів.</seg>
       </tuv>
     </tu>
     <tu>
@@ -24228,8 +24228,8 @@ The scope of a search is by default the project and can be set to be any files l
       <tuv lang="en">
         <seg>So do the next two matches, and the match #4 is similar, but different.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="maximo" changedate="20200702T151615Z" creationid="maximo" creationdate="20200503T052547Z">
-        <seg>Так само і два наступних збіга, а от #4 трохи відрізняється.</seg>
+      <tuv lang="uk-UA" changeid="maximo" changedate="20200702T200735Z" creationid="maximo" creationdate="20200503T052547Z">
+        <seg>Так само і два наступних збіги, а от #4 трохи відрізняється.</seg>
       </tuv>
     </tu>
     <tu>
