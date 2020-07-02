@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.2.0_0_747fc65a9" segtype="sentence" srclang="en"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.2.0_0_747fc65a" segtype="sentence" srclang="en"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -14161,8 +14161,8 @@ click on that shortcut.</seg>
       <tuv lang="en">
         <seg>In the target document, nothing will appear for this segment.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="maximo" changedate="20200614T161435Z" creationid="lesia" creationdate="20200425T154541Z">
-        <seg>В документі перекладу на місці цього сегмента не буде нічого.</seg>
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200702T200946Z" creationid="lesia" creationdate="20200425T154541Z">
+        <seg>У документі перекладу на місці цього сегмента не буде нічого.</seg>
       </tuv>
     </tu>
     <tu>
@@ -17240,8 +17240,8 @@ as the Applications folder.</seg>
       <tuv lang="en">
         <seg>Moves to the next segment that has no equivalent in the translation memory.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="maximo" changedate="20200425T133424Z" creationid="maximo" creationdate="20200425T133424Z">
-        <seg>Перейти на наступний сегмент, якому нема відповідника у памʼяті перекладів.</seg>
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200702T202922Z" creationid="maximo" creationdate="20200425T133424Z">
+        <seg>Перейти до наступного сегмента, якому немає відповідника у памʼяті перекладів.</seg>
       </tuv>
     </tu>
     <tu>
@@ -27006,8 +27006,8 @@ in /lib/licenses/Licenses.txt.</seg>
       <tuv lang="en">
         <seg>The one and the same segment may, depending on the context, require different translations.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="lesia" changedate="20200425T154157Z" creationid="lesia" creationdate="20200425T154157Z">
-        <seg>Один і той самий сегмент може залежно від контексту перекладатися по-різному.</seg>
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200702T200816Z" creationid="lesia" creationdate="20200425T154157Z">
+        <seg>Один і той же сегмент може залежно від контексту перекладатися по-різному.</seg>
       </tuv>
     </tu>
     <tu>
