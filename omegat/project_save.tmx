@@ -22222,7 +22222,9 @@ These words: 'Page not found'</seg>
       </tuv>
     </tu>
     <tu>
-      <note>замінила спливаюче на контекстне</note>
+      <note>замінила спливаюче на контекстне
+
+може всі pop-up menu зробити контекстними?</note>
       <tuv lang="EN">
         <seg>Right-clicking on a filename opens a popup that allows to open the source file and (if it exists) the target file.</seg>
       </tuv>
