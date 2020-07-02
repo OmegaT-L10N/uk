@@ -24204,8 +24204,8 @@ The scope of a search is by default the project and can be set to be any files l
       <tuv lang="en">
         <seg>Some of the file formats, specialized for translation work, for instance PO, allow the inclusion of comments.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="maximo" changedate="20200503T055946Z" creationid="maximo" creationdate="20200503T055821Z">
-        <seg>Деякі з форматів файлів, що спеціалізовані для роботи перекладача, наприклад файлу PO, дозволяють додавати коментарі.</seg>
+      <tuv lang="uk-UA" changeid="maximo" changedate="20200702T160545Z" creationid="maximo" creationdate="20200503T055821Z">
+        <seg>Деякі з форматів файлів, що спеціалізовані для роботи перекладача, наприклад файли PO, дозволяють додавати коментарі.</seg>
       </tuv>
     </tu>
     <tu>
@@ -26263,8 +26263,8 @@ instead.</seg>
       <tuv lang="en">
         <seg>The counters in the lower right corner keep track of the progress of the translation (numbers in the left hand column refer to the figure above):</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="maximo" changedate="20200503T060531Z" creationid="maximo" creationdate="20200503T060531Z">
-        <seg>Числа у правому нижньому кутку дозволяють відслітковувати прогрес перекладу (числа у лівій колонці відповідають попередньому прикладу):</seg>
+      <tuv lang="uk-UA" changeid="maximo" changedate="20200702T160650Z" creationid="maximo" creationdate="20200503T060531Z">
+        <seg>Числа у правому нижньому кутку дозволяють відслідковувати прогрес перекладу (числа у лівій колонці відповідають попередньому прикладу):</seg>
       </tuv>
     </tu>
     <tu>
@@ -27479,8 +27479,8 @@ in /lib/licenses/Licenses.txt.</seg>
       <tuv lang="en">
         <seg>The status bar displays work-flow related messages at the bottom of the main window.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="maximo" changedate="20200503T060159Z" creationid="maximo" creationdate="20200503T060159Z">
-        <seg>Рядок стану відображає повідомлення, що описують перебіг робочого процесу..</seg>
+      <tuv lang="uk-UA" changeid="maximo" changedate="20200702T160600Z" creationid="maximo" creationdate="20200503T060159Z">
+        <seg>Рядок стану відображає повідомлення, що описують перебіг робочого процесу.</seg>
       </tuv>
     </tu>
     <tu>
@@ -27615,8 +27615,8 @@ in /lib/licenses/Licenses.txt.</seg>
       <tuv lang="en">
         <seg>The translator can add notes to the opened segment, for instance to come back later to the segment and redo the translation, check that alternative translations are correct or to ask colleagues for their opinion.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20190807T151124Z" creationid="Kos Ivantsov" creationdate="20190807T151124Z">
-        <seg>Перекладач може додати зауваження та нотатки до поточного сегмента. Вони можуть призначені, наприклад, для того, щоб згодом повернутися до сегмента та переробити переклад, або перевірити, чи правильно було підібрано варіант перекладу, або запитати думку колег.</seg>
+      <tuv lang="uk-UA" changeid="maximo" changedate="20200702T160519Z" creationid="Kos Ivantsov" creationdate="20190807T151124Z">
+        <seg>Перекладач може додати зауваження та нотатки до поточного сегмента. Наприклад, щоб згодом повернутися до сегмента та переробити переклад, або перевірити, чи правильно було підібрано варіант перекладу, або запитати думку колег.</seg>
       </tuv>
     </tu>
     <tu>
@@ -28060,8 +28060,8 @@ the server.</seg>
       <tuv lang="en">
         <seg>This bar gives the user feedback on specific operations that are in progress.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="maximo" changedate="20200503T060254Z" creationid="maximo" creationdate="20200503T060254Z">
-        <seg>Він дає користувачу інформацію про певні операції, які зараз виконуються.</seg>
+      <tuv lang="uk-UA" changeid="maximo" changedate="20200702T160615Z" creationid="maximo" creationdate="20200503T060254Z">
+        <seg>Він дає користувачу інформацію про певні операції, які виконуються в даний момент.</seg>
       </tuv>
     </tu>
     <tu>
