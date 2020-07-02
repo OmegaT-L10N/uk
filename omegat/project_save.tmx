@@ -19557,8 +19557,8 @@ installed on your system.</seg>
       <tuv lang="en">
         <seg>Orphan segments (match #2) describe segments in the default project translation memory that have no corresponding source segment.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="maximo" changedate="20200614T163732Z" creationid="maximo" creationdate="20200614T163732Z">
-        <seg>Покинуті сегменти (збіг 2) показують сегменти із внутрішньої памʼяті поточного проєкту, у яких нема відповідного оригінального сегмента.</seg>
+      <tuv lang="uk-UA" changeid="maximo" changedate="20200702T151955Z" creationid="maximo" creationdate="20200614T163732Z">
+        <seg>Покинуті сегменти (збіг 2), це сегменти із внутрішньої памʼяті поточного проєкту, які стосуються змінених або видалених файлів оригіналу, тобто втратили прив'язку до реальних оригінальних сегментів.</seg>
       </tuv>
     </tu>
     <tu>
