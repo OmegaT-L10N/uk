@@ -27393,8 +27393,8 @@ in /lib/licenses/Licenses.txt.</seg>
       <tuv lang="en">
         <seg>The selected fuzzy match is highlighted in bold, words that are missing in the segment you are translating are colored blue and words adjacent to the missing parts green.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="maximo" changedate="20200702T151527Z" creationid="maximo" creationdate="20200503T052349Z">
-        <seg>Обраний нечіткий збіг буде виділено напівжирним шрифтом. Ті слова, яких нема у поточному сегменті підсвічуються синім, а сусідні до них - зеленим кольором.</seg>
+      <tuv lang="uk-UA" changeid="maximo" changedate="20200702T200721Z" creationid="maximo" creationdate="20200503T052349Z">
+        <seg>Обраний нечіткий збіг виділяється напівжирним шрифтом. Ті слова, яких нема у поточному сегменті підсвічуються синім, а сусідні до них - зеленим кольором.</seg>
       </tuv>
     </tu>
     <tu>
@@ -27665,8 +27665,8 @@ in /lib/licenses/Licenses.txt.</seg>
       <tuv lang="en">
         <seg>The three matching percentages are in the following order:</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="maximo" changedate="20200614T162612Z" creationid="maximo" creationdate="20200614T162612Z">
-        <seg>Три варіанта відсотку збігів відображаються в такому порядку:</seg>
+      <tuv lang="uk-UA" changeid="maximo" changedate="20200702T200457Z" creationid="maximo" creationdate="20200614T162612Z">
+        <seg>Три варіанта розрахованого відсотку подібності відображаються в такому порядку:</seg>
       </tuv>
     </tu>
     <tu>
@@ -35059,8 +35059,8 @@ create its configuration folder.</seg>
       <tuv lang="en">
         <seg>the percentage calculated with stemming</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="maximo" changedate="20200614T162706Z" creationid="maximo" creationdate="20200614T162706Z">
-        <seg>відсоток збігів з врахуванням стемінгу</seg>
+      <tuv lang="uk-UA" changeid="maximo" changedate="20200702T200628Z" creationid="maximo" creationdate="20200614T162706Z">
+        <seg>відсоток з врахуванням стемінгу</seg>
       </tuv>
     </tu>
     <tu>
