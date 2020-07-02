@@ -18319,8 +18319,8 @@ as the Applications folder.</seg>
       <tuv lang="en">
         <seg>Of course, pressing &lt;k1&gt; &lt;k2&gt;Ctrl&lt;/k2&gt; &lt;k3&gt;5&lt;/k3&gt; &lt;/k1&gt; will have no effect, if there is no match #5.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="maximo" changedate="20200501T204039Z" creationid="maximo" creationdate="20200501T204039Z">
-        <seg>Звичайно, якщо п'ятого збіга нема, то натискання &lt;k1&gt; &lt;k2&gt;Ctrl&lt;/k2&gt; &lt;k3&gt;5&lt;/k3&gt; &lt;/k1&gt; нічого не дасть.</seg>
+      <tuv lang="uk-UA" changeid="maximo" changedate="20200702T200350Z" creationid="maximo" creationdate="20200501T204039Z">
+        <seg>Звичайно, якщо є тільки чотири збіги, то натискання &lt;k1&gt; &lt;k2&gt;Ctrl&lt;/k2&gt; &lt;k3&gt;5&lt;/k3&gt; &lt;/k1&gt; нічого не дасть.</seg>
       </tuv>
     </tu>
     <tu>
