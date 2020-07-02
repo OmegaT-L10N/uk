@@ -24200,6 +24200,14 @@ The scope of a search is by default the project and can be set to be any files l
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Some supported filters: ILIAS Language File, Java(TM) Resource Bundles, Key=Value Text, Magento CE Locale CSV, MoodlePHP, Mozilla DTD, Mozilla FTL, PO, RC, SubRip Subtitles, Windows Resources</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200702T091938Z" creationid="lesia" creationdate="20200702T091938Z">
+        <seg>Some supported filters: ILIAS Language File, Java(TM) Resource Bundles, Key=Value Text, Magento CE Locale CSV, MoodlePHP, Mozilla DTD, Mozilla FTL, PO, RC, SubRip Subtitles, Windows Resources</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Something went wrong, please visit Tilde Terminology for details.</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20190817T205737Z" creationid="Kos Ivantsov" creationdate="20190817T205737Z">
@@ -31440,6 +31448,14 @@ of selecting, obtaining and installing it.</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="lesia" changedate="20200324T172619Z" creationid="lesia" creationdate="20200322T145203Z">
         <seg>Запит буде взято в роботу, якщо команда з розробки вважатиме таке вдосконалення доцільним, а хтось із розробників захоче його реалізувати.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Which files are used for alignment depends on if the file filter supports it.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200702T091933Z" creationid="lesia" creationdate="20200702T091933Z">
+        <seg>Які файли будуть використані для вирівнювання, залежить від того, чи вони підтримуються фільтрами файлів.</seg>
       </tuv>
     </tu>
     <tu>
