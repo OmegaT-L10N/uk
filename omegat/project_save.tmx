@@ -8671,8 +8671,8 @@ Buy another drink</seg>
       <tuv lang="en">
         <seg>Displays the Match Statistics for the project: the number of repetitions, exact matches, fuzzy matches and no-matches for segments, words and characters.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="maximo" changedate="20200425T151325Z" creationid="maximo" creationdate="20200425T151325Z">
-        <seg>Показати статистику збігів для проєкту: кількість повторів, повних збігів, нечітких збігів та унікальних сегментів. Також є ці дані перераховані на кількість слів та символів.</seg>
+      <tuv lang="uk-UA" changeid="maximo" changedate="20200702T175051Z" creationid="maximo" creationdate="20200425T151325Z">
+        <seg>Показати статистику збігів для проєкту: кількість повторів, повних збігів, нечітких збігів та унікальних сегментів. Також вікно містить ці самі дані, перераховані на кількість слів та символів.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11400,8 +11400,8 @@ provided (omegat.kaptn).</seg>
       <tuv lang="en">
         <seg>Four types of issues are detected:</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="maximo" changedate="20200425T145943Z" creationid="maximo" creationdate="20200425T145943Z">
-        <seg>Проводиться перевірка на такі чотири типа помилок:</seg>
+      <tuv lang="uk-UA" changeid="maximo" changedate="20200702T175002Z" creationid="maximo" creationdate="20200425T145943Z">
+        <seg>Проводиться перевірка на такі чотири типи помилок:</seg>
       </tuv>
     </tu>
     <tu>
