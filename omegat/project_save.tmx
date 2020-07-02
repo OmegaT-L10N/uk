@@ -25821,8 +25821,8 @@ current folder will be used instead.</seg>
       <tuv lang="en">
         <seg>The Editor pane displays the text of the partially translated document: the text already translated is displayed in translation while the untranslated text is displayed in the original language.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="maximo" changedate="20200430T210534Z" creationid="maximo" creationdate="20200430T210534Z">
-        <seg>Вікно редагування відображає текст частково перекладеного документа. Ті частини тексту, що вже мають переклад, відображається у перекладеному вигляді, а ті, що ще ні - мовою оригіналу.</seg>
+      <tuv lang="uk-UA" changeid="maximo" changedate="20200702T195618Z" creationid="maximo" creationdate="20200430T210534Z">
+        <seg>Вікно редагування відображає текст документа, що перекладається. Ті частини тексту, що вже мають переклад, відображається у перекладеному вигляді, а ті, що ще ні - мовою оригіналу.</seg>
       </tuv>
     </tu>
     <tu>
