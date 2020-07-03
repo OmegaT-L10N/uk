@@ -11257,8 +11257,8 @@ provided (omegat.kaptn).</seg>
       <tuv lang="EN">
         <seg>For example, the following Groovy code snippet scans through all the segments in all the files in the current project and, if a translation exists, prints out the source and the target of the segment:</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="maximo" changedate="20200701T150830Z" creationid="lesia" creationdate="20200503T063557Z">
-        <seg>Нижче наведений приклад коду на groovy зчитує всі сегменти у всіх файлах поточного проєкту, і якщо наявний переклад, друкує оригінал та переклад сегмента:</seg>
+      <tuv lang="UK-UA" changeid="fanja9" changedate="20200703T130318Z" creationid="lesia" creationdate="20200503T063557Z">
+        <seg>Нижче наведений приклад коду на Groovy зчитує всі сегменти в усіх файлах поточного проєкту, і, якщо у них наявний переклад, друкує оригінал та переклад сегмента:</seg>
       </tuv>
     </tu>
     <tu>
