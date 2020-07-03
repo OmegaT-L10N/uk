@@ -13389,8 +13389,8 @@ Explorer), change the settings so that file extensions are displayed.</seg>
       <tuv lang="en">
         <seg>If you click on the button &lt;g0&gt;Advanced options&lt;/g0&gt; additional criteria (author or changer of the translation, date translated, excluding orphan segments, etc) can be selected.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="lesia" changedate="20200523T202912Z" creationid="lesia" creationdate="20200523T202912Z">
-        <seg>Якщо натиснути на кнопку &lt;g0&gt;Показати сховані параметри&lt;/g0&gt;, можна вибрати додаткові параметри (атвор перекладу або особа, яка змінила переклад, дата перекладу, виключення покинутих сегментів).</seg>
+      <tuv lang="uk-UA" changeid="maximo" changedate="20200703T063107Z" creationid="lesia" creationdate="20200523T202912Z">
+        <seg>Якщо натиснути на кнопку &lt;g0&gt;Показати сховані параметри&lt;/g0&gt;, можна вибрати додаткові параметри (автор перекладу або особа, яка змінила переклад, дата перекладу, виключення покинутих сегментів).</seg>
       </tuv>
     </tu>
     <tu>
@@ -20627,8 +20627,8 @@ project without team functionality.</seg>
       <tuv lang="en">
         <seg>Pressing the search button after entering a string in the search field displays all the segments in the project that include the entered string.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="lesia" changedate="20200523T202915Z" creationid="lesia" creationdate="20200523T202915Z">
-        <seg>Коли ви вводите рядок у поле пошуку та натискаєте кнопку пошуку, з'являються всі сегменти проєкту, які містять запитуваний рядок.</seg>
+      <tuv lang="uk-UA" changeid="maximo" changedate="20200703T063124Z" creationid="lesia" creationdate="20200523T202915Z">
+        <seg>Коли ви вводите рядок у поле пошуку та натискаєте кнопку пошуку, з'являються всі сегменти проєкту, які містять цей рядок.</seg>
       </tuv>
     </tu>
     <tu>
