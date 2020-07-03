@@ -11481,8 +11481,8 @@ provided (omegat.kaptn).</seg>
       <tuv lang="en">
         <seg>Four types of issues are detected:</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="maximo" changedate="20200702T175002Z" creationid="maximo" creationdate="20200425T145943Z">
-        <seg>Проводиться перевірка на такі чотири типи помилок:</seg>
+      <tuv lang="uk-UA" changeid="Asus" changedate="20200703T114213Z" creationid="maximo" creationdate="20200425T145943Z">
+        <seg>Перевірка проводиться на такі чотири типи помилок:</seg>
       </tuv>
     </tu>
     <tu>
@@ -21205,8 +21205,8 @@ project without team functionality.</seg>
       <tuv lang="en">
         <seg>Quality assurance tool that carries out all the automatic checks in one go and displays the results in a window.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="maximo" changedate="20200425T145917Z" creationid="maximo" creationdate="20200425T145917Z">
-        <seg>Перевірка якості, що проводить автоматичний аналіз та показує результат у окремому вікні.</seg>
+      <tuv lang="uk-UA" changeid="Asus" changedate="20200703T114132Z" creationid="maximo" creationdate="20200425T145917Z">
+        <seg>Перевірка якості, що проводить автоматичний аналіз та показує результат в окремому вікні.</seg>
       </tuv>
     </tu>
     <tu>
@@ -34418,8 +34418,8 @@ create its configuration folder.</seg>
       <tuv lang="en">
         <seg>missing or displaced tags, including &lt;l0&gt;custom tags&lt;/l0&gt;.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="maximo" changedate="20200425T150030Z" creationid="maximo" creationdate="20200425T150030Z">
-        <seg>пропущені та пересунуті теґи, в тому числі &lt;l0&gt;користувацькі теґи&lt;/l0&gt;.</seg>
+      <tuv lang="uk-UA" changeid="Asus" changedate="20200703T114350Z" creationid="maximo" creationdate="20200425T150030Z">
+        <seg>пропущені та пересунуті теґи, зокрема &lt;l0&gt;користувацькі теґи&lt;/l0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
