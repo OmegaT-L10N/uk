@@ -3600,8 +3600,8 @@ The current setting is {0}MB;</seg>
       <tuv lang="en">
         <seg>A search may be limited to 1000 items, so if you search on a common phrase, the editor then shows only those 1000 matching entries, and not all entries that match the search criteria.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="lesia" changedate="20200523T202931Z" creationid="lesia" creationdate="20200523T202931Z">
-        <seg>Пошук може мати обмежену кількість результатів: до 1000. Тому якщо ви шукаєте загальновживану фразу, редактор покаже лише 1000 результатів, а не всі записи, які відповідають критеріям пошуку.</seg>
+      <tuv lang="uk-UA" changeid="maximo" changedate="20200703T063409Z" creationid="lesia" creationdate="20200523T202931Z">
+        <seg>Пошук може мати обмежену кількість результатів: до 1000. Тому якщо ви шукаєте загальновживану фразу, редактор покаже лише 1000 результатів, а не всі сегменти, які відповідають критеріям пошуку.</seg>
       </tuv>
     </tu>
     <tu>
@@ -14105,8 +14105,8 @@ click on that shortcut.</seg>
       <tuv lang="en">
         <seg>In the Search window, you can use standard shortcuts (&lt;k0&gt; &lt;k1&gt;Ctrl&lt;/k1&gt; &lt;k2&gt;N&lt;/k2&gt; &lt;/k0&gt;, &lt;k3&gt; &lt;k4&gt;Ctrl&lt;/k4&gt; &lt;k5&gt;P&lt;/k5&gt; &lt;/k3&gt;) to move from one segment to another.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="lesia" changedate="20200523T202922Z" creationid="lesia" creationdate="20200523T202922Z">
-        <seg>У вікні Пошуку тексту ви можете використовувати стандартні комбінації клавіш (&lt;k0&gt; &lt;k1&gt;Ctrl&lt;/k1&gt; &lt;k2&gt;N&lt;/k2&gt; &lt;/k0&gt;, &lt;k3&gt; &lt;k4&gt;Ctrl&lt;/k4&gt; &lt;k5&gt;P&lt;/k5&gt; &lt;/k3&gt;) для переходу від одного сегмента на інший.</seg>
+      <tuv lang="uk-UA" changeid="maximo" changedate="20200703T063228Z" creationid="lesia" creationdate="20200523T202922Z">
+        <seg>У вікні пошуку ви можете використовувати стандартні комбінації клавіш (&lt;k0&gt; &lt;k1&gt;Ctrl&lt;/k1&gt; &lt;k2&gt;N&lt;/k2&gt; &lt;/k0&gt;, &lt;k3&gt; &lt;k4&gt;Ctrl&lt;/k4&gt; &lt;k5&gt;P&lt;/k5&gt; &lt;/k3&gt;) для переходу від одного сегмента на інший.</seg>
       </tuv>
     </tu>
     <tu>
@@ -20587,8 +20587,8 @@ project without team functionality.</seg>
       <tuv lang="en">
         <seg>Press the &lt;e0&gt;Filter&lt;/e0&gt; button on the bottom to limit the shown entries in the editor window to those that match the current search.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="lesia" changedate="20200523T202927Z" creationid="lesia" creationdate="20200523T202927Z">
-        <seg>Натисніть на кнопку &lt;e0&gt;Відфільтрувати&lt;/e0&gt; внизу вікна, щоб зменшити кількість записів в області редагування до тих, які відповідають поточному пошуку..</seg>
+      <tuv lang="uk-UA" changeid="maximo" changedate="20200703T063347Z" creationid="lesia" creationdate="20200523T202927Z">
+        <seg>Натисніть на кнопку &lt;e0&gt;Відфільтрувати&lt;/e0&gt; внизу вікна, щоб обмежити показані сегменти в області редагування до тих, які відповідають поточному пошуку..</seg>
       </tuv>
     </tu>
     <tu>
@@ -32476,8 +32476,8 @@ installation script (linux-install.sh).</seg>
       <tuv lang="en">
         <seg>You can quickly see their contents by looking at their title: it will contain the search term used.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="lesia" changedate="20200523T202924Z" creationid="lesia" creationdate="20200523T202924Z">
-        <seg>Ви швидко можете проглянути, які запити пошуку має кожне вікно, якщо подивитеся на назву вікна: вона міститиме запит пошуку.</seg>
+      <tuv lang="uk-UA" changeid="maximo" changedate="20200703T063253Z" creationid="lesia" creationdate="20200523T202924Z">
+        <seg>Ви швидко можете проглянути, які запити пошуку містить кожне вікно, якщо подивитеся на назву вікна: вона міститиме запит пошуку.</seg>
       </tuv>
     </tu>
     <tu>
@@ -32622,8 +32622,8 @@ window to be able to launch it from any location.</seg>
       <tuv lang="en">
         <seg>You may have several Search windows open at the same time.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="lesia" changedate="20200523T202923Z" creationid="lesia" creationdate="20200523T202923Z">
-        <seg>Кілька вікон Пошуку тексту можуть бути відкритими одночансо.</seg>
+      <tuv lang="uk-UA" changeid="maximo" changedate="20200703T063244Z" creationid="lesia" creationdate="20200523T202923Z">
+        <seg>Кілька вікон пошуку можуть бути відкритими одночансо.</seg>
       </tuv>
     </tu>
     <tu>
