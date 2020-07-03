@@ -3600,8 +3600,8 @@ The current setting is {0}MB;</seg>
       <tuv lang="en">
         <seg>A search may be limited to 1000 items, so if you search on a common phrase, the editor then shows only those 1000 matching entries, and not all entries that match the search criteria.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="maximo" changedate="20200703T065423Z" creationid="lesia" creationdate="20200523T202931Z">
-        <seg>Пошук обмежений за кількістю результатів. Тому якщо ви шукаєте загальновживану фразу, редактор покаже лише перші 1000 результатів, а не всі сегменти, які відповідають критеріям пошуку.</seg>
+      <tuv lang="uk-UA" changeid="maximo" changedate="20200703T065523Z" creationid="lesia" creationdate="20200523T202931Z">
+        <seg>Пошук обмежений за кількістю результатів, тому якщо ви шукаєте загальновживану фразу, редактор покаже лише перші 1000 результатів, а не всі сегменти, які відповідають критеріям пошуку.</seg>
       </tuv>
     </tu>
     <tu>
