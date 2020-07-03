@@ -3244,8 +3244,8 @@ The current setting is {0}MB;</seg>
       <tuv lang="en">
         <seg>&lt;l0&gt;Regular expressions&lt;/l0&gt; are a powerful way to look for instances of a string.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="lesia" changedate="20200523T202851Z" creationid="lesia" creationdate="20200523T202851Z">
-        <seg>&lt;l0&gt;Регулярні вирази&lt;/l0&gt;  - це ефективний спосіб пошуку збігів рядка.</seg>
+      <tuv lang="uk-UA" changeid="maximo" changedate="20200703T062533Z" creationid="lesia" creationdate="20200523T202851Z">
+        <seg>&lt;l0&gt;Регулярні вирази&lt;/l0&gt; дають найбільший контроль над визначенням пошукового запиту.</seg>
       </tuv>
     </tu>
     <tu>
@@ -17855,8 +17855,8 @@ as the Applications folder.</seg>
       <tuv lang="en">
         <seg>Note that '*' and '?' have special meaning in regular expressions, so wild card search, as described here, applies to exact and keyword search only (see below).</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="lesia" changedate="20200523T202830Z" creationid="lesia" creationdate="20200523T202830Z">
-        <seg>Зауважте, що символи  «*» та  «?» мають особливе значення у пошуці регулярних виразів. Тому описаний тут пошук з символами узагальнення застосовується лише для точного пошуку та пошуку за ключовими словами (див. нижче).</seg>
+      <tuv lang="uk-UA" changeid="maximo" changedate="20200703T062204Z" creationid="lesia" creationdate="20200523T202830Z">
+        <seg>Зауважте, що символи  «*» та  «?» мають особливе значення у регулярних виразах. Тому описаний тут пошук із символами узагальнення застосовується лише для методів точного пошуку та пошуку за ключовими словами (див. нижче).</seg>
       </tuv>
     </tu>
     <tu>
