@@ -12634,8 +12634,8 @@ need not be entered.)</seg>
       <tuv lang="en">
         <seg>If a search removes duplicates, those duplicates will not be in the Editor.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="lesia" changedate="20200523T202933Z" creationid="lesia" creationdate="20200523T202933Z">
-        <seg>Якщо пошук не враховує повторювані результати, вони не відображатимуться в області редагування.</seg>
+      <tuv lang="uk-UA" changeid="maximo" changedate="20200703T065503Z" creationid="lesia" creationdate="20200523T202933Z">
+        <seg>Якщо пошук не враховує повтори сегментів, то і в області редагування вони не будуть показані.</seg>
       </tuv>
     </tu>
     <tu>
