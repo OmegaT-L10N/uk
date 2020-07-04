@@ -5117,6 +5117,14 @@ may experience unexpected, but correct behaviour.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>As above.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200704T204128Z" creationid="lesia" creationdate="20200704T204035Z">
+        <seg>Як зазначено вище.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>As elsewhere in the OmegaT project, the work of programming OmegaT is done by volunteers, and in keeping with the project philosophy, the developments and improvements they make to OmegaT are ultimately at their discretion.</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="lesia" changedate="20200324T172340Z" creationid="lesia" creationdate="20200322T130400Z">
@@ -34626,8 +34634,8 @@ create its configuration folder.</seg>
       <tuv lang="en">
         <seg>excludes</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="lesia" changedate="20200704T203947Z" creationid="lesia" creationdate="20200704T202841Z">
-        <seg>винятки</seg>
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200704T204033Z" creationid="lesia" creationdate="20200704T202841Z">
+        <seg>виключає</seg>
       </tuv>
     </tu>
     <tu>
@@ -35244,6 +35252,14 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="maximo" changedate="20200416T091216Z" creationid="maximo" creationdate="20200416T091216Z">
         <seg>у регулярних виразах</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>includes</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200704T204045Z" creationid="lesia" creationdate="20200704T204022Z">
+        <seg>включає</seg>
       </tuv>
     </tu>
     <tu>
