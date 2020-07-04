@@ -5713,6 +5713,14 @@ Buy another drink</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Before proceeding with such conversions, be sure to test all options.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="maximo" changedate="20200704T205836Z" creationid="maximo" creationdate="20200704T205836Z">
+        <seg>Перед тим як починати ці танці з перетвореннями, перевірте, що ви спробували всі можливі варіанти.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Before the spell check function can be used, a suitable dictionary or dictionaries (i.e. for your target language) must be installed.</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="Asus" changedate="20200616T041502Z" creationid="maximo" creationdate="20200411T103942Z">
@@ -6733,6 +6741,14 @@ Buy another drink</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="maximo" changedate="20200425T135614Z" creationid="maximo" creationdate="20200425T135614Z">
         <seg>Поставте прапорець &lt;g0&gt;Шукати записи у словнику з використанням нечітких збігів&lt;/g0&gt;, якщо ви хочете, щоб словники показували однокореневі слова.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Check the &lt;u0&gt;OmegaT home page&lt;/u0&gt; for an up-to-date listing of auxiliary translation tools.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="maximo" changedate="20200704T210115Z" creationid="maximo" creationdate="20200704T210115Z">
+        <seg>На &lt;u0&gt;головній сторінці OmegaT&lt;/u0&gt; ви можете побачити актуальний перелік доступних допоміжних інструментів.</seg>
       </tuv>
     </tu>
     <tu>
