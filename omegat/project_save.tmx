@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.2.0_0_747fc65a9" segtype="sentence" srclang="en"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.2.0_0_747fc65a" segtype="sentence" srclang="en"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -2295,6 +2295,16 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;/repository&gt;
+&lt;/repositories&gt;</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200704T191912Z" creationid="lesia" creationdate="20200704T191912Z">
+        <seg>&lt;/repository&gt;
+&lt;/repositories&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;EMPTY&gt;</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20190422T205220Z" creationid="Kos Ivantsov" creationdate="20190422T205220Z">
@@ -3266,6 +3276,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;mapping local="" repository=""/&gt;</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200704T191910Z" creationid="lesia" creationdate="20200704T191910Z">
+        <seg>&lt;mapping local="" repository=""/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;name and path of the Java executable file&gt; -jar OmegaT.jar</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20190822T212959Z" creationid="Kos Ivantsov" creationdate="20190822T212959Z">
@@ -3329,6 +3347,22 @@ The current setting is {0}MB;</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="fanja9" changedate="20200704T053655Z" creationid="lesia" creationdate="20200429T202754Z">
         <seg>&lt;r0&gt;Примітка:&lt;/r0&gt; автоматичне відображення вікна можна вимкнути, якщо виставити значення &lt;e1&gt;false&lt;/e1&gt; для параметру &lt;e2&gt;project_files_show_on_load&lt;/e2&gt; у файлі &lt;f3&gt;omegat.prefs&lt;/f3&gt; (щоб перейти до файлу, оберіть в головному меню &lt;m4&gt; &lt;g5&gt;Налаштування&lt;/g5&gt; &lt;g6&gt;Відкрити теку з налаштуваннями&lt;/g6&gt;&lt;/m4&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;repositories&gt;</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200704T191908Z" creationid="lesia" creationdate="20200704T191908Z">
+        <seg>&lt;repositories&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;repository type="git" url="https://repo_for_OmegaT_team_project.git"&gt;</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200704T191909Z" creationid="lesia" creationdate="20200704T191909Z">
+        <seg>&lt;repository type="git" url="https://repo_for_OmegaT_team_project.git"&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -6603,6 +6637,14 @@ Buy another drink</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20190821T152910Z" creationid="Kos Ivantsov" creationdate="20190821T152910Z">
         <seg>Отримання проєкту зі сховища…</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Checking statistics</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200704T192429Z" creationid="lesia" creationdate="20200704T192429Z">
+        <seg>Перевірка статистики</seg>
       </tuv>
     </tu>
     <tu>
@@ -14047,6 +14089,14 @@ click on that shortcut.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>In both cases, the project manager must send the translator their ID and password to access the repository.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200704T192352Z" creationid="lesia" creationdate="20200704T192352Z">
+        <seg>В обох випадках менеджер проєкту повинен надіслати перекладачу ID та пароль доступу для репозиторію.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>In both exact and keyword searches, the wild card search characters '*' and '?' can be used.</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="lesia" changedate="20200523T202323Z" creationid="lesia" creationdate="20200523T202323Z">
@@ -19334,6 +19384,14 @@ installed on your system.</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="lesia" changedate="20200702T185314Z" creationid="maximo" creationdate="20200423T161619Z">
         <seg>Після завантаження перейдіть у теку коду програми та запустіть команду:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Once the project is set up on the server, the project manager can invite the translator to work on it in either of two different ways:</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200704T191014Z" creationid="lesia" creationdate="20200704T190919Z">
+        <seg>Коли проєкт налаштовано на сервері, менеджер проєкту може запросити перекладача до роботи у ньому одним із двох способів:</seg>
       </tuv>
     </tu>
     <tu>
@@ -25191,6 +25249,14 @@ The scope of a search is by default the project and can be set to be any files l
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Step 3: Send an invitation to the translator</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200704T190842Z" creationid="lesia" creationdate="20200704T190842Z">
+        <seg>Крок 3: Надіслати запрошення перекладачеві</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Store for this session only</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="maximo" changedate="20200412T141759Z" creationid="maximo" creationdate="20200412T141759Z">
@@ -26319,6 +26385,14 @@ current folder will be used instead.</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="lesia" changedate="20200702T205110Z" creationid="maximo" creationdate="20200413T105741Z">
         <seg>Якщо цей параметр активний, заголовок файлу\b PO буде залишений без змін.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The Project Manager should check with the translator that the statistics are identical on both sides (server side and translator side).</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200704T192741Z" creationid="lesia" creationdate="20200704T192741Z">
+        <seg>Менеджеру проєкту треба перевірити, що статистика на боці сервера та перекладача співпадає.</seg>
       </tuv>
     </tu>
     <tu>
@@ -27576,6 +27650,14 @@ in /lib/licenses/Licenses.txt.</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="lesia" changedate="20200505T201128Z" creationid="lesia" creationdate="20200505T201128Z">
         <seg>Підтримуються два розширення - &lt;f1&gt;TXT&lt;/f1&gt; та &lt;f2&gt;UTF8&lt;/f2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The reference to the URL is specified as below (here to a Git repository):</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200704T191857Z" creationid="lesia" creationdate="20200704T191711Z">
+        <seg>Посилання виглядатиме так (приклад для репозиторію Git):</seg>
       </tuv>
     </tu>
     <tu>
@@ -35453,6 +35535,22 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="maximo" changedate="20200425T150802Z" creationid="maximo" creationdate="20200425T150802Z">
         <seg>виберіть, чи наведіть мишку на рядок, щоб у останній колонці з'явилася іконка із контекстним меню, що дозволяє виправити чи ігнорувати помилку.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>sending an &lt;f0&gt;omegat.project&lt;/f0&gt; file containing a reference to the URL and asking the translator to copy it into a dedicated folder and open it with OmegaT.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200704T191823Z" creationid="lesia" creationdate="20200704T191638Z">
+        <seg>надіслати файл &lt;f0&gt;omegat.project&lt;/f0&gt;, що містить посилання на репозиторій, і попросити перекладача скопіювати його у теку, яку він обрав для даного проєкту, та відкрити її в OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>sending the URL of the project and asking the translator to create a local copy with &lt;m0&gt; &lt;g1&gt;Project&lt;/g1&gt; &lt;g2&gt;Download Team Project&lt;/g2&gt; &lt;/m0&gt;.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200704T191211Z" creationid="lesia" creationdate="20200704T190922Z">
+        <seg>надіслати URL проєкту і попросити перекладача створити локальну копію через меню &lt;m0&gt; &lt;g1&gt;Проєкт&lt;/g1&gt; &lt;g2&gt;Стягнути командний проєкт</seg>
       </tuv>
     </tu>
     <tu>
