@@ -3292,6 +3292,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;mapping local="" repository="En-US_DE_project"/&gt;</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200704T204816Z" creationid="lesia" creationdate="20200704T204816Z">
+        <seg>&lt;mapping local="" repository="En-US_DE_project"/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;name and path of the Java executable file&gt; -jar OmegaT.jar</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20190822T212959Z" creationid="Kos Ivantsov" creationdate="20190822T212959Z">
@@ -3371,6 +3379,14 @@ The current setting is {0}MB;</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="lesia" changedate="20200704T191909Z" creationid="lesia" creationdate="20200704T191909Z">
         <seg>&lt;repository type="git" url="https://repo_for_OmegaT_team_project.git"&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;repository type="svn" url="https://repo_for_All_OmegaT_team_projects"&gt;</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200704T204814Z" creationid="lesia" creationdate="20200704T204814Z">
+        <seg>&lt;repository type="svn" url="https://repo_for_All_OmegaT_team_projects"&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -4497,10 +4513,18 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>All the contents of &lt;f0&gt;https://repo_for_All_OmegaT_team_projects/En-US_DE_project&lt;/f0&gt; are mapped to the local OmegaT project.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200704T205031Z" creationid="lesia" creationdate="20200704T204849Z">
+        <seg>Весь вміст &lt;f0&gt;https://repo_for_All_OmegaT_team_projects/En-US_DE_project&lt;/f0&gt; прив'язаний до локального проєкту OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>All the contents of &lt;f0&gt;https://repo_for_OmegaT_team_project&lt;/f0&gt; are mapped to the local OmegaT project</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="lesia" changedate="20200704T204812Z" creationid="lesia" creationdate="20200704T204812Z">
-        <seg>Весь зміст &lt;f0&gt;https://repo_for_OmegaT_team_project&lt;/f0&gt; прив'язаний до локального проєкту OmegaT </seg>
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200704T204855Z" creationid="lesia" creationdate="20200704T204812Z">
+        <seg>Весь вміст &lt;f0&gt;https://repo_for_OmegaT_team_project&lt;/f0&gt; прив'язаний до локального проєкту OmegaT </seg>
       </tuv>
     </tu>
     <tu>
