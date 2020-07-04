@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.2.0_0_747fc65a" segtype="sentence" srclang="en"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.2.0_0_747fc65a9" segtype="sentence" srclang="en"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -30938,6 +30938,14 @@ searchable without subscription:</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Using the RTL mode in &lt;a0&gt;OmegaT&lt;/a0&gt; has no influence whatsoever on the display mode of the translated documents created in &lt;a1&gt;OmegaT&lt;/a1&gt;.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="maximo" changedate="20200704T182427Z" creationid="maximo" creationdate="20200704T182427Z">
+        <seg>Використання у &lt;a0&gt;OmegaT&lt;/a0&gt; режиму справа наліво не впливає на режим показу перекладених документів, створених &lt;a1&gt;OmegaT&lt;/a1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Using this option, the translator can specify whether the target files should have the encoding declaration included.</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="Asus" changedate="20200622T041127Z" creationid="maximo" creationdate="20200413T164213Z">
@@ -33366,6 +33374,14 @@ create its configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>default justification, that is as defined by the language</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="maximo" changedate="20200704T182147Z" creationid="maximo" creationdate="20200704T182147Z">
+        <seg>стандартне вирівнювання, яке залежить від мови сегмента</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>dictionary</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="maximo" changedate="20200614T163919Z" creationid="maximo" creationdate="20200614T163919Z">
@@ -34384,6 +34400,14 @@ create its configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>left justification</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="maximo" changedate="20200704T182155Z" creationid="maximo" creationdate="20200704T182155Z">
+        <seg>ліве вирівнювання</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>loaded</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20190517T142631Z" creationid="Kos Ivantsov" creationdate="20190517T142631Z">
@@ -34941,6 +34965,14 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="maximo" changedate="20200614T162200Z" creationid="maximo" creationdate="20200429T204918Z">
         <seg>відновлює вигляд області до того, який був перед її розгортанням</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>right justification</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="maximo" changedate="20200704T182202Z" creationid="maximo" creationdate="20200704T182202Z">
+        <seg>праве вирівнювання</seg>
       </tuv>
     </tu>
     <tu>
