@@ -4433,6 +4433,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>All other files will be replaced by the files in the remote repository.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="maximo" changedate="20200704T202753Z" creationid="maximo" creationdate="20200704T202753Z">
+        <seg>Всі інші файли заміняються версіями з віддаленого репозиторія.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>All preferences protected by the master password will be reset.</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20190820T130122Z" creationid="Kos Ivantsov" creationdate="20190820T130122Z">
@@ -32356,8 +32364,8 @@ of selecting, obtaining and installing it.</seg>
       <tuv lang="en">
         <seg>Whenever the project is automatically saved, but also when it is opened, closed and reloaded, only two files are actually synchronised:</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="maximo" changedate="20200704T202658Z" creationid="maximo" creationdate="20200704T202658Z">
-        <seg>Щоразу як проєкт автоматично зберігається, а також коли він відкривається, закривається чи перезавантажується, тільки два файла справді синхронізуються:</seg>
+      <tuv lang="uk-UA" changeid="maximo" changedate="20200704T202718Z" creationid="maximo" creationdate="20200704T202658Z">
+        <seg>Щоразу як проєкт автоматично зберігається, а також коли він відкривається, закривається чи перезавантажується, тільки два файла справді синхронізуються в обидві сторони:</seg>
       </tuv>
     </tu>
     <tu>
