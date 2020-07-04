@@ -15194,6 +15194,14 @@ click on that shortcut.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>It should be noted that when &lt;a0&gt;OmegaT&lt;/a0&gt; is in RTL mode, both source and target are displayed in RTL mode.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="maximo" changedate="20200704T185223Z" creationid="maximo" creationdate="20200704T185223Z">
+        <seg>Треба сказати, що коли &lt;a0&gt;OmegaT&lt;/a0&gt; знаходиться у режимі ПНЛ, то і оригінал, і переклад будуть показуватися у режимі ПНЛ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>It should thus be carried out by a project manager, a project leader or a localisation engineer.</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="lesia" changedate="20200704T182822Z" creationid="lesia" creationdate="20200704T182822Z">
