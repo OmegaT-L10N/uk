@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.2.0_0_747fc65a" segtype="sentence" srclang="en"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.2.0_0_747fc65a9" segtype="sentence" srclang="en"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -2363,6 +2363,14 @@ The current setting is {0}MB;</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="maximo" changedate="20200425T134613Z" creationid="maximo" creationdate="20200425T134613Z">
         <seg>&lt;a0&gt;OmegaT&lt;/a0&gt; запам'ятовує порядок відвідування сегментів.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;a0&gt;OmegaT&lt;/a0&gt; tags in RTL segments</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="maximo" changedate="20200704T185740Z" creationid="maximo" creationdate="20200704T185740Z">
+        <seg>Теґи &lt;a0&gt;OmegaT&lt;/a0&gt; у ПНЛ сегментах</seg>
       </tuv>
     </tu>
     <tu>
@@ -5039,6 +5047,14 @@ may experience unexpected, but correct behaviour.</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="lesia" changedate="20200704T183509Z" creationid="lesia" creationdate="20200704T183509Z">
         <seg>Оскільки неважко знайти детальні описи принципів роботи SVN та Git, тут ми розповімо лише про те, як з ними працює OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>As stated above, OmegaT tags are LTR strings.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="maximo" changedate="20200704T185818Z" creationid="maximo" creationdate="20200704T185818Z">
+        <seg>Як вже згадувалось раніше, теґи OmegaT - це ЛНП стрічки.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11093,6 +11109,14 @@ Gossamer threads hold you back
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Follow the indications given in Hints for tags management.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="maximo" changedate="20200704T190308Z" creationid="maximo" creationdate="20200704T190308Z">
+        <seg>Обов'язково слідуйте порадам по роботі з теґами.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Follow the installation instructions of the package you need.</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="maximo" changedate="20200420T170625Z" creationid="maximo" creationdate="20200420T170625Z">
@@ -11571,6 +11595,14 @@ provided (omegat.kaptn).</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20190422T210029Z" creationid="Kos Ivantsov" creationdate="20190422T210029Z">
         <seg>Французька</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Frequently validate tags (see Tag validation) and produce translated documents (see below and Menu) at regular intervals to make it easier to catch any problems that arise.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="maximo" changedate="20200704T190644Z" creationid="maximo" creationdate="20200704T190351Z">
+        <seg>Частіше перевіряйте теґи (Інструменти &gt; Пошук помилок) та періодично генеруйте перекладені документи, щоб раніше помічати проблеми, якщо вони виникнуть.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13091,6 +13123,14 @@ their defaults as a result of the location change.</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="maximo" changedate="20200503T055335Z" creationid="maximo" creationdate="20200503T055335Z">
         <seg>Якщо поточний варіант перекладу не підходить, то можна обрати &lt;g0&gt;Редагування → Створити варіант перекладу&lt;/g0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If the document allows, the translator is strongly encouraged to remove style information from the original document so that as few tags as possible appear in the OmegaT interface.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="maximo" changedate="20200704T190226Z" creationid="maximo" creationdate="20200704T190226Z">
+        <seg>Тому, якщо це можливо, дуже бажано перед перекладом прибрати з документа все форматування, щоб при перекладі бачити якомога менше теґів.</seg>
       </tuv>
     </tu>
     <tu>
@@ -28782,6 +28822,14 @@ the server.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>This means that if the source language is LTR and the target language is RTL, or vice versa, it may be necessary to toggle back and forth between RTL and LTR modes to view the source and enter the target easily in their respective modes.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="maximo" changedate="20200704T185715Z" creationid="maximo" creationdate="20200704T185715Z">
+        <seg>Це означає, що коли мова оригіналу має систему письма зліва направо, а мова перекладу - справа наліво, чи навпаки, то доведеться постійно перемикатися між режимами ЛНП та ПНЛ, щоб і оригінал було зручно бачити, і переклад зручно писати.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>This means that the source code of the OmegaT program is freely available, and that OmegaT's license gives its users considerable freedom in its use.</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="lesia" changedate="20200321T125511Z" creationid="lesia" creationdate="20200321T125511Z">
@@ -31724,6 +31772,14 @@ of selecting, obtaining and installing it.</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="Asus" changedate="20200618T033319Z" creationid="maximo" creationdate="20200412T140826Z">
         <seg>Якщо цей параметр відмічений, глосарій буде показувати вирази, навіть якщо слова з них не були сусідніми у тексті.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>When translating between RTL and LTR languages, correctly reading the tags from the source and entering them properly in the target may require the translator to toggle between LTR and RTL modes numerous times.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="maximo" changedate="20200704T190048Z" creationid="maximo" creationdate="20200704T190048Z">
+        <seg>Під час перекладу між мовами з різними напрямками письма, щоб правильно прочитати теґи в оригінальних сегментах та щоб правильно вставити їх в переклад, може знадобитися купу разів переключатися між режимами.</seg>
       </tuv>
     </tu>
     <tu>
