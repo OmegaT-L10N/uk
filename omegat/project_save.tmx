@@ -21267,6 +21267,14 @@ project without team functionality.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Publish the new OmegaT project on the server (&lt;c0&gt;commit&lt;/c0&gt; with SVN, &lt;c1&gt;commit&lt;/c1&gt; followed by &lt;c2&gt;push&lt;/c2&gt; with Git).</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200704T184933Z" creationid="lesia" creationdate="20200704T184933Z">
+        <seg>Опублікуйте новий проєкт OmegaT на сервері (&lt;c0&gt;commit&lt;/c0&gt; для SVN, &lt;c1&gt;commit&lt;/c1&gt; , потім &lt;c2&gt;push&lt;/c2&gt; для Git).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Push failed.</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20190820T195847Z" creationid="Kos Ivantsov" creationdate="20190820T195847Z">
