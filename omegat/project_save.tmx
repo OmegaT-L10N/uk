@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.2.0_0_747fc65a" segtype="sentence" srclang="en"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.2.0_0_747fc65a9" segtype="sentence" srclang="en"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -2728,6 +2728,14 @@ The current setting is {0}MB;</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="maximo" changedate="20200607T164424Z" creationid="lesia" creationdate="20200505T201251Z">
         <seg>&lt;e0&gt;Зверніть увагу:&lt;/e0&gt; є інші шляхи та засоби створення простого файлу із записами, розділеними табуляцією.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;e0&gt;Note:&lt;/e0&gt; the above information applies only to PDF files with a text layer.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="maximo" changedate="20200704T204613Z" creationid="maximo" creationdate="20200704T204613Z">
+        <seg>&lt;e0&gt;Зверніть увагу:&lt;/e0&gt; Це все стосується лише PDF файлів, в яких є шар тексту.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10887,6 +10895,14 @@ Gossamer threads hold you back
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>External tools can be used to convert files to supported formats.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="maximo" changedate="20200704T205131Z" creationid="maximo" creationdate="20200704T205131Z">
+        <seg>Для перетворення файлів у формати, що підтримуються OmegaT, можна також використовувати спеціалізовані програми.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Extract all source text from the project files into a single, large text file</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="lesia" changedate="20200322T161916Z" creationid="lesia" creationdate="20200322T161916Z">
@@ -13865,6 +13881,14 @@ Explorer), change the settings so that file extensions are displayed.</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="maximo" changedate="20200702T201358Z" creationid="maximo" creationdate="20200503T054135Z">
         <seg>Якщо увімкнена опція &lt;g0&gt;Вигляд → Позначати збіги з глосаріїв&lt;/g0&gt;, ви можете натиснути правою кнопкою на підсвічене слово у оригінальному сегменті, щоб відкрити меню з варіантами перекладу.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If you have a PDF file made of scanned pages (sometimes such files are referred to as ‘dead’ PDFs), you need to use an OCR (optical character recognition) program to recognize the text and convert it to a format that can be handled by OmegaT.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="maximo" changedate="20200704T204905Z" creationid="maximo" creationdate="20200704T204905Z">
+        <seg>Якщо ж у вас файл PDF, що складається зі сканованих сторінок (так звані "мертві PDF"), вам для початку треба використати програму для розпізнавання тексту (OCR, optical character recognition), щоб отримати текст та перетворити його на формат, з яким OmegaT зможе працювати.</seg>
       </tuv>
     </tu>
     <tu>
@@ -20363,6 +20387,22 @@ installed on your system.</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="maximo" changedate="20200702T195439Z" creationid="maximo" creationdate="20200429T210243Z">
         <seg>Інші типи файлів будуть скопійовані до теки &lt;f1&gt;source&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Other file formats</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="maximo" changedate="20200704T204913Z" creationid="maximo" creationdate="20200704T204913Z">
+        <seg>Інші формати файлів</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Other plain text or formatted text file formats suitable for processing in OmegaT may also exist.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="maximo" changedate="20200704T205020Z" creationid="maximo" creationdate="20200704T205020Z">
+        <seg>Інші чисто текстові чи форматовані формати файлів також можуть бути оброблені OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
