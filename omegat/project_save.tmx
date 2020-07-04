@@ -21995,8 +21995,8 @@ These words: 'Page not found'</seg>
       <tuv lang="en">
         <seg>Replaces the whole target segment with the currently selected fuzzy match (by default the first match is selected).</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="lesia" changedate="20200702T194411Z" creationid="lesia" creationdate="20200425T134241Z">
-        <seg>Замінює увесь сегмент перекладу вибраним нечітким збігом (за стандартними налаштуваннями завжди вибирається перший збіг).</seg>
+      <tuv lang="uk-UA" changeid="maximo" changedate="20200704T134658Z" creationid="lesia" creationdate="20200425T134241Z">
+        <seg>Замінює увесь сегмент перекладу вибраним нечітким збігом (початково обраний перший збіг).</seg>
       </tuv>
     </tu>
     <tu>
