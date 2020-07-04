@@ -19233,6 +19233,14 @@ installed on your system.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>OmegaT team projects must first be &lt;l0&gt;set up&lt;/l0&gt; on a server.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="maximo" changedate="20200704T201817Z" creationid="maximo" creationdate="20200704T201817Z">
+        <seg>Щоб працювати з командним проєктом, спершу треба &lt;l0&gt;створити його на сервері&lt;/l0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>OmegaT training course.</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="lesia" changedate="20200322T155700Z" creationid="lesia" creationdate="20200322T155528Z">
@@ -29900,6 +29908,14 @@ the server.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>To use a team project for the first time, follow the procedure provided by the project manager.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="maximo" changedate="20200704T201917Z" creationid="maximo" creationdate="20200704T201917Z">
+        <seg>Щоб вперше відкрити командний проєкт, слідуйте інструкціям вашого проєктного менеджера.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>To use an existing glossary, simply place it in the &lt;f0&gt;/glossary&lt;/f0&gt; folder after creating the project.</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="Asus" changedate="20200610T085533Z" creationid="maximo" creationdate="20200404T171743Z">
@@ -30153,6 +30169,14 @@ linux-install.sh script, and execute the script with ./linux-install.sh.</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="Asus" changedate="20200624T035817Z" creationid="maximo" creationdate="20200414T160919Z">
         <seg>Якщо деякі атрибути у файлах XHTML чи HTML піддаються перекладу, то вони будуть відображатися як окремі сегменти.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Translate a PDF file</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="maximo" changedate="20200704T201705Z" creationid="maximo" creationdate="20200704T201705Z">
+        <seg>Translate a PDF file</seg>
       </tuv>
     </tu>
     <tu>
@@ -31194,6 +31218,14 @@ on line {1}, column {2}.</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="maximo" changedate="20200405T190134Z" creationid="maximo" creationdate="20200405T190134Z">
         <seg>Використати терміни, вжиті окремо у тексті оригіналу</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Use a Team Project</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="maximo" changedate="20200704T201726Z" creationid="maximo" creationdate="20200704T201726Z">
+        <seg>Командні проєкти</seg>
       </tuv>
     </tu>
     <tu>
