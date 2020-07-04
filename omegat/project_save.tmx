@@ -8807,6 +8807,14 @@ Buy another drink</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Disconnect from the network before opening the project,</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="maximo" changedate="20200704T203502Z" creationid="maximo" creationdate="20200704T203502Z">
+        <seg>Від'єднайтесь від мережі перед відкриттям проєкту,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Displa&amp;y source terms</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20190820T105437Z" creationid="Kos Ivantsov" creationdate="20190819T194236Z">
@@ -30133,6 +30141,14 @@ linux-install.sh script, and execute the script with ./linux-install.sh.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>To work offline:</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="maximo" changedate="20200704T203438Z" creationid="maximo" creationdate="20200704T203438Z">
+        <seg>Щоб працювати без синхронізації:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Toggle Selected</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20190821T214920Z" creationid="Kos Ivantsov" creationdate="20190821T214920Z">
@@ -35743,6 +35759,14 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="maximo" changedate="20200607T165733Z" creationid="maximo" creationdate="20200607T165733Z">
         <seg>optionsWorkflowMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>or open the project with the command line using the &lt;c0&gt;--no-team&lt;/c0&gt; option.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="maximo" changedate="20200704T203548Z" creationid="maximo" creationdate="20200704T203548Z">
+        <seg>або ж відкрийте проєкт з командного рядка, використовуючи опцію &lt;c0&gt;--no-team&lt;/c0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
