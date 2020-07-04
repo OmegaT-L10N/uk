@@ -1134,8 +1134,8 @@
       <tuv lang="EN">
         <seg>&amp;Remove untranslated strings in the target files</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20190701T155649Z" creationid="Kos Ivantsov" creationdate="20190701T155649Z">
-        <seg>&amp;Вилучити неперекладені рядки у перекладених файлах</seg>
+      <tuv lang="UK-UA" changeid="fanja9" changedate="20200704T145321Z" creationid="Kos Ivantsov" creationdate="20190701T155649Z">
+        <seg>&amp;Вилучити неперекладені стрічки у перекладених файлах</seg>
       </tuv>
     </tu>
     <tu>
@@ -4792,8 +4792,8 @@ The TMX file will not be loaded.</seg>
       <tuv lang="EN">
         <seg>Analyzing strings - {0} of {1} completed</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20190504T105045Z" creationid="Kos Ivantsov" creationdate="20190504T105045Z">
-        <seg>Аналіз рядків: виконано {0} з {1}</seg>
+      <tuv lang="UK-UA" changeid="fanja9" changedate="20200704T145131Z" creationid="Kos Ivantsov" creationdate="20190504T105045Z">
+        <seg>Аналіз стрічок: виконано {0} з {1}</seg>
       </tuv>
     </tu>
     <tu>
@@ -29847,9 +29847,9 @@ linux-install.sh script, and execute the script with ./linux-install.sh.</seg>
         <seg>Types:
 Exact searches match the whole search string.</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20190517T094351Z" creationid="Kos Ivantsov" creationdate="20190517T094234Z">
+      <tuv lang="UK-UA" changeid="fanja9" changedate="20200704T145219Z" creationid="Kos Ivantsov" creationdate="20190517T094234Z">
         <seg>Типи пошуку:
-Точний пошук — це пошук збігів з цілим рядком, зазначеним у полі пошуку.</seg>
+Точний пошук — це пошук збігів з усією стрічкою, зазначеною у полі пошуку.</seg>
       </tuv>
     </tu>
     <tu>
@@ -31482,8 +31482,8 @@ of selecting, obtaining and installing it.</seg>
       <tuv lang="EN">
         <seg>When using regular expressions, the replacement string supports references to groups defined in the search string.</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20190517T100730Z" creationid="Kos Ivantsov" creationdate="20190517T100730Z">
-        <seg>Якщо здійснюється пошук регулярних виразів, то у рядку заміни підтримується посилання на групи, визначені в рядку пошуку.</seg>
+      <tuv lang="UK-UA" changeid="fanja9" changedate="20200704T145306Z" creationid="Kos Ivantsov" creationdate="20190517T100730Z">
+        <seg>Якщо здійснюється пошук регулярних виразів, то у стрічці заміни підтримується посилання на групи, визначені в стрічці пошуку.</seg>
       </tuv>
     </tu>
     <tu>
