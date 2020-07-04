@@ -30358,6 +30358,14 @@ linux-install.sh script, and execute the script with ./linux-install.sh.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Translation memories may also contain reference translations: multinational legislation, such as that of the European Community, is a typical example.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="maximo" changedate="20200704T195144Z" creationid="maximo" creationdate="20200704T195144Z">
+        <seg>Памʼять перекладів також може містити стандартні переклади: документи багатонаціональних держав, наприклад, Європейського Союзу, це типовий приклад.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Translation memory files folder entered does not exist!</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20190807T145643Z" creationid="Kos Ivantsov" creationdate="20190516T181133Z">
@@ -32182,6 +32190,14 @@ of selecting, obtaining and installing it.</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="maximo" changedate="20200704T184031Z" creationid="maximo" creationdate="20200704T183427Z">
         <seg>Якщо у вас весь текст має визначений напрямок письма, тоді все просто.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>When you create the target documents in an &lt;a0&gt;OmegaT&lt;/a0&gt; project, the translation memory of the project is output in the form of three files in the root folder of your &lt;a1&gt;OmegaT&lt;/a1&gt; project (see the above description).</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="maximo" changedate="20200704T195407Z" creationid="maximo" creationdate="20200704T195407Z">
+        <seg>Коли ви створюєте перекладені документи у проєкті &lt;a0&gt;OmegaT&lt;/a0&gt;, у головній теці проєкту &lt;a1&gt;OmegaT&lt;/a1&gt; також буде створено три файли експортованої памʼяті перекладів.</seg>
       </tuv>
     </tu>
     <tu>
