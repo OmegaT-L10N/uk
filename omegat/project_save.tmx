@@ -3697,6 +3697,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>A team project can be opened and translated offline.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="maximo" changedate="20200704T203345Z" creationid="maximo" creationdate="20200704T203345Z">
+        <seg>Командний проєкт можна відкрити і перекладати без підключення до сервера.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>A vast range of functions, an uncluttered interface, and, most importantly, constant, regular open-source development!</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="lesia" changedate="20200323T071212Z" creationid="maximo" creationdate="20200322T174137Z">
@@ -4469,6 +4477,14 @@ The current setting is {0}MB;</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="maximo" changedate="20200415T111053Z" creationid="maximo" creationdate="20200415T105758Z">
         <seg>Всі правила, для яких спрацьовує шаблон назви мови, активні і будуть перевірятися у порядку, в якому вони перелічені. Тому правила для конкретної мови чи діалекту варто розташовувати вище за стандартні правила.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>All the changes will be synchronised the next time a connection is available.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="maximo" changedate="20200704T203416Z" creationid="maximo" creationdate="20200704T203416Z">
+        <seg>Всі зміни будуть синхронізовані як тільки з'єднання відновиться.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6245,6 +6261,14 @@ Buy another drink</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="lesia" changedate="20200701T204527Z" creationid="maximo" creationdate="20200420T202209Z">
         <seg>Її можна змінити, додаючи до неї "аргументи".</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Changing segmentation rules or file filters</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="maximo" changedate="20200704T203226Z" creationid="maximo" creationdate="20200704T203226Z">
+        <seg>Зміна правил сегментації та фільтрів файлів</seg>
       </tuv>
     </tu>
     <tu>
@@ -8467,6 +8491,14 @@ Buy another drink</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="lesia" changedate="20200425T154430Z" creationid="lesia" creationdate="20200425T154415Z">
         <seg>Видаляє переклад. Сегмент стає неперекладеним.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Deleting source files</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="maximo" changedate="20200704T203108Z" creationid="maximo" creationdate="20200704T203108Z">
+        <seg>Видалення файлів для перекладу</seg>
       </tuv>
     </tu>
     <tu>
@@ -11107,6 +11139,14 @@ Gossamer threads hold you back
       </tuv>
       <tuv lang="uk-UA" changeid="lesia" changedate="20200322T214309Z" creationid="maximo" creationdate="20200322T150904Z">
         <seg>Файли у старіших форматах MS Word, Excel та Powerpoint можна перекладати, попередньо сконвертувавши їх у відповідні сучасні формати Microsoft Office або ж у формати Office Open XML. Це можна зробити за допомогою OpenOffice.org чи LibreOffice (також вільне програмне забезпечення).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Files must be deleted first by the project manager, and then locally.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="maximo" changedate="20200704T203207Z" creationid="maximo" creationdate="20200704T203207Z">
+        <seg>Файли має спочатку видалити проєктний менеджер, тільки тоді можна видаляти локальні копії.</seg>
       </tuv>
     </tu>
     <tu>
@@ -21545,6 +21585,14 @@ project without team functionality.</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="maximo" changedate="20200321T124634Z" creationid="maximo" creationdate="20200321T124634Z">
         <seg>Проєктний менеджер</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Project parameters must be changed by the project manager.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="maximo" changedate="20200704T203253Z" creationid="maximo" creationdate="20200704T203253Z">
+        <seg>Параметри проєкту має змінювати виключно менеджер проєкту.</seg>
       </tuv>
     </tu>
     <tu>
@@ -32700,6 +32748,14 @@ Your page is not found</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="maximo" changedate="20200322T171416Z" creationid="maximo" creationdate="20200322T171416Z">
         <seg>Працює більш ніж із 30 форматами файлів</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Working offline</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="maximo" changedate="20200704T203313Z" creationid="maximo" creationdate="20200704T203313Z">
+        <seg>Робота без синхронізації</seg>
       </tuv>
     </tu>
     <tu>
