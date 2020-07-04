@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.2.0_0_747fc65a9" segtype="sentence" srclang="en"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.2.0_0_747fc65a" segtype="sentence" srclang="en"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -3375,6 +3375,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;repository type="svn" url="https://repo_for_OmegaT_team_project"&gt;</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200704T204706Z" creationid="lesia" creationdate="20200704T204706Z">
+        <seg>&lt;repository type="svn" url="https://repo_for_OmegaT_team_project"&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;s0&gt;&lt;a1&gt;{{site.data.versions.latest.name}}&lt;/a1&gt;&lt;/s0&gt; Latest Version</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="maximo" changedate="20200322T172547Z" creationid="maximo" creationdate="20200322T172547Z">
@@ -4485,6 +4493,14 @@ The current setting is {0}MB;</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="maximo" changedate="20200704T203416Z" creationid="maximo" creationdate="20200704T203416Z">
         <seg>Всі зміни будуть синхронізовані як тільки з'єднання відновиться.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>All the contents of &lt;f0&gt;https://repo_for_OmegaT_team_project&lt;/f0&gt; are mapped to the local OmegaT project</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200704T204812Z" creationid="lesia" creationdate="20200704T204812Z">
+        <seg>Весь зміст &lt;f0&gt;https://repo_for_OmegaT_team_project&lt;/f0&gt; прив'язаний до локального проєкту OmegaT </seg>
       </tuv>
     </tu>
     <tu>
@@ -5965,6 +5981,14 @@ Buy another drink</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="maximo" changedate="20200417T083530Z" creationid="maximo" creationdate="20200417T083530Z">
         <seg>Зазвичай OmegaT не виконує команд, які вказані у налаштуваннях проєкту (файл &lt;f0&gt;omegat.project&lt;/f0&gt;), оскільки вони можуть скомпроментувати безпеку комп'ютера.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>By default, all files that are not excluded are included.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200704T204408Z" creationid="lesia" creationdate="20200704T204408Z">
+        <seg>За стандартними налаштуваннями всі файли, що не виключаються, включатимуться.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10539,10 +10563,26 @@ No one hears your screams</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Example mappings</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200704T204702Z" creationid="lesia" creationdate="20200704T204702Z">
+        <seg>Приклади прив'язки</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Example:</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="maximo" changedate="20200423T154009Z" creationid="maximo" creationdate="20200423T154009Z">
         <seg>Наприклад:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Example: &lt;u0&gt;**/*.docx&lt;/u0&gt; to add all .docx files, wherever they are located in the project, even in excluded folders</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200704T204308Z" creationid="lesia" creationdate="20200704T204308Z">
+        <seg>Приклад: &lt;u0&gt;**/*.docx&lt;/u0&gt; додає всі файли .docx, де б вони не були розміщені у проєкті, навіть у папках, котрі підпадають під виключення.</seg>
       </tuv>
     </tu>
     <tu>
@@ -33722,6 +33762,14 @@ window to be able to launch it from any location.</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20190807T183435Z" creationid="Kos Ivantsov" creationdate="20190807T183435Z">
         <seg>Потрібно оновити JDK 1.6 до останньої версії або просто видалити файли jaxb-*.jar з теки OmegaT/lib</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You only need to specify this to override some exclusions.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200704T204607Z" creationid="lesia" creationdate="20200704T204607Z">
+        <seg>Вказувати ці параметри потрібно лише щоб обійти деякі виключення.</seg>
       </tuv>
     </tu>
     <tu>
