@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.2.0_0_747fc65a" segtype="sentence" srclang="en"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.2.0_0_747fc65a9" segtype="sentence" srclang="en"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -4125,6 +4125,14 @@ The current setting is {0}MB;</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="maximo" changedate="20200419T072611Z" creationid="maximo" creationdate="20200419T072611Z">
         <seg>Додавання &lt;a0&gt;OmegaT&lt;/a0&gt; у меню (KDE) чи панелі (Gnome)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Adding new source files</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="maximo" changedate="20200704T202807Z" creationid="maximo" creationdate="20200704T202807Z">
+        <seg>Додавання файлів для перекладу</seg>
       </tuv>
     </tu>
     <tu>
@@ -10603,6 +10611,14 @@ Gossamer threads hold you back
       </tuv>
       <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20190807T191209Z" creationid="Kos Ivantsov" creationdate="20190807T191209Z">
         <seg>Виконується скрипт {0} (подія {1})</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Existing source files can be modified, but the commit operation must be carried out before an automatic save and before the project is reloaded or closed.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="maximo" changedate="20200704T203057Z" creationid="maximo" creationdate="20200704T202839Z">
+        <seg>Хоча локальні файли для перекладу можна вільно модифікувати, якщо не провести фіксацію до того, як проєкт автоматично збережеться, чи ви його перезавантажите чи закриєте, всі зміни втратяться.</seg>
       </tuv>
     </tu>
     <tu>
@@ -29564,6 +29580,14 @@ the server.</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="maximo" changedate="20200413T165503Z" creationid="maximo" creationdate="20200413T165503Z">
         <seg>Щоб додати новий шаблон фільтра файлів, натисніть &lt;e1&gt;Додати&lt;/e1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To add a new source file:</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="maximo" changedate="20200704T202822Z" creationid="maximo" creationdate="20200704T202822Z">
+        <seg>Щоб додати файл для перекладу:</seg>
       </tuv>
     </tu>
     <tu>
