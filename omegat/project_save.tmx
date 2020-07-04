@@ -13599,8 +13599,8 @@ to use Java Web Start.</seg>
       <tuv lang="EN">
         <seg>If you select a text string (in any pane) before pressing &lt;k0&gt; &lt;k1&gt;Ctrl&lt;/k1&gt; &lt;k2&gt;Shift&lt;/k2&gt; &lt;k3&gt;G&lt;/k3&gt; &lt;/k0&gt;, the text will be pasted by default in the &lt;g4&gt;Source term&lt;/g4&gt; field.</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="lesia" changedate="20200425T143959Z" creationid="lesia" creationdate="20200425T143959Z">
-        <seg>Якщо виділити стрічку тексту (будь-якою з обох мов), а потім натиснути &lt;k0&gt; &lt;k1&gt;Ctrl&lt;/k1&gt; &lt;k2&gt;Shift&lt;/k2&gt; &lt;k3&gt;G&lt;/k3&gt; &lt;/k0&gt;, текст буде автоматично додано в поле &lt;g4&gt;Термін мовою оригіналу&lt;/g4&gt;.</seg>
+      <tuv lang="UK-UA" changeid="fanja9" changedate="20200704T145712Z" creationid="lesia" creationdate="20200425T143959Z">
+        <seg>Якщо виділити текст (чи переклад, чи оригінал), а потім натиснути &lt;k0&gt; &lt;k1&gt;Ctrl&lt;/k1&gt; &lt;k2&gt;Shift&lt;/k2&gt; &lt;k3&gt;G&lt;/k3&gt; &lt;/k0&gt;, текст буде автоматично додано в поле &lt;g4&gt;Термін мовою оригіналу&lt;/g4&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -24889,8 +24889,8 @@ The scope of a search is by default the project and can be set to be any files l
       <tuv lang="EN">
         <seg>String showing the differences between the source and the match.&lt;e0&gt; Hint:&lt;/e0&gt; use this if the text you are translating has been updated.</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="lesia" changedate="20200701T142445Z" creationid="maximo" creationdate="20200417T082252Z">
-        <seg>Рядок, що показує різницю між оригінальним текстом і текстом збігу. &lt;e0&gt; До уваги:&lt;/e0&gt; це особливо корисно, коли текст, який ви перекладаєте, змінився.</seg>
+      <tuv lang="UK-UA" changeid="fanja9" changedate="20200704T145524Z" creationid="maximo" creationdate="20200417T082252Z">
+        <seg>Стрічка, що показує різницю між оригінальним текстом і текстом збігу. &lt;e0&gt; До уваги:&lt;/e0&gt; це особливо корисно, коли змінився текст, який ви перекладаєте.</seg>
       </tuv>
     </tu>
     <tu>
