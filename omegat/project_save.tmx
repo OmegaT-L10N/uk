@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.2.0_0_747fc65a" segtype="sentence" srclang="en"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.2.0_0_747fc65a9" segtype="sentence" srclang="en"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -5849,8 +5849,8 @@ Buy another drink</seg>
       <tuv lang="en">
         <seg>By default, left justification is used for Left-To-Right (LTR) languages and right justification for Right-To-Left (RTL) languages.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="maximo" changedate="20200704T181818Z" creationid="maximo" creationdate="20200704T093539Z">
-        <seg>Без спеціальних налаштувань для мов з письмом зліва направо використовується ліве вирівнювання, а для мов з письмом справа наліво - праве вирівнювання.</seg>
+      <tuv lang="uk-UA" changeid="maximo" changedate="20200704T184522Z" creationid="maximo" creationdate="20200704T093539Z">
+        <seg>Без спеціальних налаштувань для мов з письмом зліва направо (ЛНП) використовується ліве вирівнювання, а для мов з письмом справа наліво (ПНЛ) - праве вирівнювання.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11295,6 +11295,14 @@ provided (omegat.kaptn).</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>For example, in OmegaT tags, product names that must be left in the LTR source language, place holders in localization files, and numbers in text.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="maximo" changedate="20200704T184947Z" creationid="maximo" creationdate="20200704T184947Z">
+        <seg>Наприклад, теґи OmegaT, назви продуктів, які треба залишити у первісному вигляді, змінні в спеціалізованих файлах локалізації та числа.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>For example, in the default OmegaT shortcuts</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="Asus" changedate="20200615T033130Z" creationid="maximo" creationdate="20200405T184040Z">
@@ -13967,6 +13975,14 @@ click on that shortcut.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>In cases like these it becomes necessary to switch to RTL mode, so that the RTL (in fact bidirectional) text is displayed correctly.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="maximo" changedate="20200704T185104Z" creationid="maximo" creationdate="20200704T185104Z">
+        <seg>У такому випадку доводиться переключатися між двома режимами, щоб такий двонаправлений текст відображався коректно.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>In comments</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20190817T201807Z" creationid="Kos Ivantsov" creationdate="20190516T181613Z">
@@ -13979,6 +13995,14 @@ click on that shortcut.</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="lesia" changedate="20200701T204124Z" creationid="maximo" creationdate="20200420T201337Z">
         <seg>У найпростішій своїй формі вона виглядає так:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>In many cases, however, it is necessary to embed LTR text in RTL text.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="maximo" changedate="20200704T184634Z" creationid="maximo" creationdate="20200704T184449Z">
+        <seg>Але частенько буває треба включити ЛНП текст у ПНЛ текст.</seg>
       </tuv>
     </tu>
     <tu>
@@ -17060,6 +17084,14 @@ itself on the first run.</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="maximo" changedate="20200511T194211Z" creationid="lesia" creationdate="20200412T202534Z">
         <seg>Звісно, якщо потрібно, можна буде внести зміни до цього першого перекладу за допомогою функції &lt;g0&gt;"Створити варіант перекладу"&lt;/g0&gt;, яку можна вибрати у контекстному меню.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Mixing RTL and LTR strings in segments</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="maximo" changedate="20200704T183343Z" creationid="maximo" creationdate="20200704T183343Z">
+        <seg>Різні напрямки письма в одному сегменті</seg>
       </tuv>
     </tu>
     <tu>
@@ -26588,8 +26620,8 @@ instead.</seg>
       <tuv lang="en">
         <seg>The display mode of the translated documents must be modified within the application (such as Microsoft Word) commonly used to display or modify them (check the relevant manuals for details).</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="maximo" changedate="20200704T182650Z" creationid="maximo" creationdate="20200704T182650Z">
-        <seg>Його треба буде змінити за допомогою відповідної програми (наприклад, Microsoft Word).</seg>
+      <tuv lang="uk-UA" changeid="maximo" changedate="20200704T184605Z" creationid="maximo" creationdate="20200704T182650Z">
+        <seg>Його треба буде змінити за допомогою відповідної програми (наприклад, Microsoft Word). Див. її інструкцію з використання.</seg>
       </tuv>
     </tu>
     <tu>
@@ -31660,6 +31692,14 @@ of selecting, obtaining and installing it.</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="lesia" changedate="20200420T170002Z" creationid="lesia" creationdate="20200420T170002Z">
         <seg>Під час роботи над командним проєктом це вікно дозволяє синхронізувати віддалені папки та локальну (приклади можна подивитися&lt;l0&gt;тут&lt;/l0&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>When writing purely RTL text, the default (LTR) view may be used.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="maximo" changedate="20200704T184031Z" creationid="maximo" creationdate="20200704T183427Z">
+        <seg>Якщо у вас весь текст має визначений напрямок письма, тоді все просто.</seg>
       </tuv>
     </tu>
     <tu>
