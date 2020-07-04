@@ -6489,8 +6489,8 @@ Buy another drink</seg>
       <tuv lang="en">
         <seg>Check this option in case &lt;a0&gt;OmegaT&lt;/a0&gt; does not display some glyphs properly (even if the fonts containing the relevant glyphs are installed on your machine).</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="maximo" changedate="20200425T154048Z" creationid="maximo" creationdate="20200425T154048Z">
-        <seg>Поставте цей прапорець, якщо &lt;a0&gt;OmegaT&lt;/a0&gt; не відображає правильно певні символи (навіть коли ці символи є у шрифтах, що встановлені на комп'ютері).</seg>
+      <tuv lang="uk-UA" changeid="Asus" changedate="20200704T100840Z" creationid="maximo" creationdate="20200425T154048Z">
+        <seg>Виберіть цей параметр, якщо &lt;a0&gt;OmegaT&lt;/a0&gt; не відображає правильно певні символи (навіть якщо ці символи є у шрифтах, що встановлені на комп'ютері).</seg>
       </tuv>
     </tu>
     <tu>
@@ -12682,8 +12682,8 @@ need not be entered.)</seg>
       <tuv lang="en">
         <seg>If checked, non-unique segments will be marked in pale grey.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="maximo" changedate="20200425T153018Z" creationid="maximo" creationdate="20200425T153018Z">
-        <seg>Поставте цей прапорець, щоб показувати всі неунікальні сегменти (повтори) сірим кольором.</seg>
+      <tuv lang="uk-UA" changeid="Asus" changedate="20200704T095543Z" creationid="maximo" creationdate="20200425T153018Z">
+        <seg>Якщо поставити прапорець, всі неунікальні сегменти (повтори) будуть позначені сірим кольором.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12706,8 +12706,8 @@ need not be entered.)</seg>
       <tuv lang="en">
         <seg>If checked, the background of all segments where the target segment has been auto-populated (from TMXs placed in &lt;f0&gt;/tm/auto&lt;/f0&gt; for example) are displayed in colour.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="maximo" changedate="20200702T174457Z" creationid="maximo" creationdate="20200425T153452Z">
-        <seg>Якщо поставити прапорець, то тло сегментів, переклад для яких зайдено автоматично (наприклад, у файлах TMX із теки &lt;f0&gt;/tm/auto&lt;/f0&gt;), буде кольоровим.</seg>
+      <tuv lang="uk-UA" changeid="Asus" changedate="20200704T100257Z" creationid="maximo" creationdate="20200425T153452Z">
+        <seg>Якщо поставити прапорець, то тло сегментів, переклад для яких автоматично заповнюється (наприклад, у файлах TMX із теки &lt;f0&gt;/tm/auto&lt;/f0&gt;), буде кольоровим.</seg>
       </tuv>
     </tu>
     <tu>
@@ -18071,8 +18071,8 @@ as the Applications folder.</seg>
       <tuv lang="en">
         <seg>Note: on Windows it seems that this manual font fallback mechanism can interfere with standard font fallback, causing undesirable font substitution.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="maximo" changedate="20200702T173301Z" creationid="maximo" creationdate="20200425T154210Z">
-        <seg>Зверніть увагу: під Windows ця функціональність OmegaT може конфліктувати з системним механізмом використання резервних шрифтів, що може призводити до небажаних замін.</seg>
+      <tuv lang="uk-UA" changeid="Asus" changedate="20200704T100943Z" creationid="maximo" creationdate="20200425T154210Z">
+        <seg>Зверніть увагу: під Windows ця функція OmegaT може конфліктувати з системним механізмом використання резервних шрифтів, що може призводити до небажаних замін.</seg>
       </tuv>
     </tu>
     <tu>
@@ -23940,16 +23940,16 @@ The scope of a search is by default the project and can be set to be any files l
       <tuv lang="en">
         <seg>Setting it to &lt;g1&gt;All segments&lt;/g1&gt; shows this information for all segments and &lt;g2&gt;None&lt;/g2&gt; turns this option off.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="maximo" changedate="20200425T154558Z" creationid="maximo" creationdate="20200425T154558Z">
-        <seg>Якщо вибрати &lt;g1&gt;Показувати для всіх сегментів&lt;/g1&gt;, ця інформація буде показуватися для всіх сегментів. &lt;g2&gt;Не показувати&lt;/g2&gt; вимикає цю опцію.</seg>
+      <tuv lang="uk-UA" changeid="Asus" changedate="20200704T101105Z" creationid="maximo" creationdate="20200425T154558Z">
+        <seg>Якщо вибрати &lt;g1&gt;Показувати для всіх сегментів&lt;/g1&gt;, ця інформація буде відображена для всіх сегментів. &lt;g2&gt;Не показувати&lt;/g2&gt; вимикає цю опцію.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>Setting the Display Modification option to &lt;g0&gt;Current segment&lt;/g0&gt; will display the time and the author of the last change in the current segment.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="maximo" changedate="20200425T154423Z" creationid="maximo" creationdate="20200425T154423Z">
-        <seg>Якщо вибрати &lt;g0&gt;Показувати для поточного сегменту&lt;/g0&gt;, то для нього буде показуватись час та автор останньої зміни.</seg>
+      <tuv lang="uk-UA" changeid="Asus" changedate="20200704T101042Z" creationid="maximo" creationdate="20200425T154423Z">
+        <seg>Якщо вибрати &lt;g0&gt;Показувати для поточного сегменту&lt;/g0&gt;, то для нього буде відображений час та автор останньої зміни.</seg>
       </tuv>
     </tu>
     <tu>
@@ -30932,8 +30932,8 @@ searchable without subscription:</seg>
       <tuv lang="en">
         <seg>Usual translations inserted from the auto folder are displayed in orange.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="maximo" changedate="20200702T173629Z" creationid="maximo" creationdate="20200425T153754Z">
-        <seg>Звичайні переклади, що вставляються з теки auto, будуть рудими.</seg>
+      <tuv lang="uk-UA" changeid="Asus" changedate="20200704T100529Z" creationid="maximo" creationdate="20200425T153754Z">
+        <seg>Звичайні переклади, що вставляються з теки auto, будуть помаранчевого кольору.</seg>
       </tuv>
     </tu>
     <tu>
