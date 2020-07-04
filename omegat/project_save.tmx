@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.2.0_0_747fc65a" segtype="sentence" srclang="en"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.2.0_0_747fc65a9" segtype="sentence" srclang="en"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -13919,6 +13919,14 @@ to use Java Web Start.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If you need to reproduce text formatting (as well as other things such as drawings) in your translation, there are three ways to try:</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="maximo" changedate="20200704T204106Z" creationid="maximo" creationdate="20200704T204106Z">
+        <seg>Якщо вам у вашому перекладі треба відтворити форматування (та інші елементи документа, наприклад, картинки) то є три способи які можна спробувати:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If you only have a standard Spanish dictionary available, with file names es_es.dic and es_es.aff for instance, you can copy these files to es_MX.dic and es_MX.aff, and the spelling dictionary will work.</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="Asus" changedate="20200616T044222Z" creationid="maximo" creationdate="20200411T111444Z">
@@ -20331,6 +20339,14 @@ installed on your system.</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20190820T123353Z" creationid="Kos Ivantsov" creationdate="20190701T155447Z">
         <seg>Файли PDF (лише на ввід)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>PDF files are a special case.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="maximo" changedate="20200704T203644Z" creationid="maximo" creationdate="20200704T203644Z">
+        <seg>Файли PDF особливі.</seg>
       </tuv>
     </tu>
     <tu>
@@ -28795,6 +28811,14 @@ You, victim of one</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>They contain text formatting information, but such information cannot be reused by &lt;a0&gt;OmegaT&lt;/a0&gt; in order to create target files.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="maximo" changedate="20200704T203741Z" creationid="maximo" creationdate="20200704T203741Z">
+        <seg>В них є інформація про форматування, але &lt;a0&gt;OmegaT&lt;/a0&gt; не може використати її для створення перекладених документів.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>They generally follow much the same pattern (for an example from the Regular Expression Tester see below): the regular expression (top entry) analyzes the search text (Text box in the middle) , yielding the hits, shown in the result Text box.</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="Asus" changedate="20200614T041524Z" creationid="maximo" creationdate="20200412T052402Z">
@@ -29616,6 +29640,14 @@ the server.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Thus, PDF files are handled as plain text files, and output files are plain text files.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="maximo" changedate="20200704T203849Z" creationid="maximo" creationdate="20200704T203849Z">
+        <seg>Таким чином, файли PDF опрацьовуються як прості текстові файли, і перекладені документи також генеруються як прості текстові файли.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Thus, for example, rules for Canadian French (FR-CA) should be higher than rules for French (FR.*), and higher than Default (.*) ones.</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20190820T122408Z" creationid="Kos Ivantsov" creationdate="20190820T122408Z">
@@ -30375,8 +30407,8 @@ linux-install.sh script, and execute the script with ./linux-install.sh.</seg>
       <tuv lang="en">
         <seg>Translate a PDF file</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="maximo" changedate="20200704T201705Z" creationid="maximo" creationdate="20200704T201705Z">
-        <seg>Translate a PDF file</seg>
+      <tuv lang="uk-UA" changeid="maximo" changedate="20200704T203629Z" creationid="maximo" creationdate="20200704T201705Z">
+        <seg>Переклад файлів PDF</seg>
       </tuv>
     </tu>
     <tu>
@@ -31370,6 +31402,14 @@ on line {1}, column {2}.</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20190422T204413Z" creationid="Kos Ivantsov" creationdate="20190422T204356Z">
         <seg>Шукати терміни у глосарії за &amp;основами слів</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Use &lt;a0&gt;OmegaT’s&lt;/a0&gt; default filter (PDF input), translate, create a target file (it will be a plain text file), add relevant formatting and items manually.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="maximo" changedate="20200704T204245Z" creationid="maximo" creationdate="20200704T204245Z">
+        <seg>Використовуйте стандартний фільтр &lt;a0&gt;OmegaT&lt;/a0&gt; для PDF, перекладайте, створюйте перекладений документ (текстовий файл) та додавайте всі необхідні елементи та форматування вручну.</seg>
       </tuv>
     </tu>
     <tu>
