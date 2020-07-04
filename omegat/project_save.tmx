@@ -14153,6 +14153,14 @@ click on that shortcut.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Import the source file to &lt;u0&gt;LibreOffice Draw&lt;/u0&gt;, save it as an ODG file, translate, export to PDF as needed.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="maximo" changedate="20200704T204526Z" creationid="maximo" creationdate="20200704T204403Z">
+        <seg>Імпортуйте файл для перекладу в &lt;u0&gt;LibreOffice Draw&lt;/u0&gt;, збережіть його як ODG, перекладіть, згенеруйте перекладений документ і експортуйте його в PDF.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Important: in order to use the plug-ins, you may need to install a more recent version of OmegaT.</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="lesia" changedate="20200322T152714Z" creationid="lesia" creationdate="20200322T152714Z">
@@ -23785,6 +23793,14 @@ The scope of a search is by default the project and can be set to be any files l
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>See &lt;u0&gt;Howto - Translating PDF files with Iceni Infix and OmegaT&lt;/u0&gt;.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="maximo" changedate="20200704T204318Z" creationid="maximo" creationdate="20200704T204318Z">
+        <seg>Див &lt;u0&gt;Howto - Translating PDF files with Iceni Infix and OmegaT&lt;/u0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>See &lt;u0&gt;Oracle documentation&lt;/u0&gt; for examples of the "SimpleDateFormat" patterns</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="maximo" changedate="20200413T191540Z" creationid="maximo" creationdate="20200413T191540Z">
@@ -31408,8 +31424,8 @@ on line {1}, column {2}.</seg>
       <tuv lang="en">
         <seg>Use &lt;a0&gt;OmegaT’s&lt;/a0&gt; default filter (PDF input), translate, create a target file (it will be a plain text file), add relevant formatting and items manually.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="maximo" changedate="20200704T204245Z" creationid="maximo" creationdate="20200704T204245Z">
-        <seg>Використовуйте стандартний фільтр &lt;a0&gt;OmegaT&lt;/a0&gt; для PDF, перекладайте, створюйте перекладений документ (текстовий файл) та додавайте всі необхідні елементи та форматування вручну.</seg>
+      <tuv lang="uk-UA" changeid="maximo" changedate="20200704T204430Z" creationid="maximo" creationdate="20200704T204245Z">
+        <seg>Використайте стандартний фільтр &lt;a0&gt;OmegaT&lt;/a0&gt; для PDF, перекладіть документ, створіть перекладений документ (текстовий файл) та додайте всі необхідні елементи та форматування вручну.</seg>
       </tuv>
     </tu>
     <tu>
@@ -31570,6 +31586,14 @@ on line {1}, column {2}.</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="maximo" changedate="20200420T165026Z" creationid="maximo" creationdate="20200420T165026Z">
         <seg>Щоб запустити &lt;a2&gt;OmegaT&lt;/a2&gt; з командного рядка використовуйте файл &lt;f0&gt;OmegaT.jar&lt;/f0&gt;, що розташований у теці &lt;f1&gt;OmegaT.app/Contents/MacOS/Java/&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Use the Iceni Infix filter.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="maximo" changedate="20200704T204302Z" creationid="maximo" creationdate="20200704T204302Z">
+        <seg>Використайте фільтр Iceni Infix.</seg>
       </tuv>
     </tu>
     <tu>
@@ -35112,6 +35136,14 @@ create its configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>https://omegat.org/howtos/iceni_infix.html</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="maximo" changedate="20200704T204245Z" creationid="maximo" creationdate="20200704T204245Z">
+        <seg>https://omegat.org/howtos/iceni_infix.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>https://omegat.org/support</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="maximo" changedate="20200614T155611Z" creationid="maximo" creationdate="20200614T155611Z">
@@ -35220,6 +35252,14 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="maximo" changedate="20200607T173704Z" creationid="maximo" creationdate="20200607T173704Z">
         <seg>https://term.tilde.com/taas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>https://www.libreoffice.org/discover/draw/</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="maximo" changedate="20200704T204320Z" creationid="maximo" creationdate="20200704T204320Z">
+        <seg>https://www.libreoffice.org/discover/draw/</seg>
       </tuv>
     </tu>
     <tu>
