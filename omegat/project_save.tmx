@@ -13591,8 +13591,8 @@ to use Java Web Start.</seg>
       <tuv lang="EN">
         <seg>If you select a text string (in any pane) before pressing &lt;k0&gt; &lt;k1&gt;Ctrl&lt;/k1&gt; &lt;k2&gt;K&lt;/k2&gt; &lt;/k0&gt;, the text will be pasted by default in the &lt;g3&gt;Search for&lt;/g3&gt; field.</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="maximo" changedate="20200523T162831Z" creationid="lesia" creationdate="20200425T145957Z">
-        <seg>Якщо виділити текст (будь-якою з обох мов), а потім натиснути  &lt;k0&gt; &lt;k1&gt;Ctrl&lt;/k1&gt; &lt;k2&gt;K&lt;/k2&gt; &lt;/k0&gt;, він автоматично вставиться в поле &lt;g3&gt;Шукати&lt;/g3&gt;.</seg>
+      <tuv lang="UK-UA" changeid="fanja9" changedate="20200704T145735Z" creationid="lesia" creationdate="20200425T145957Z">
+        <seg>Якщо виділити текст (чи переклад, чи оригінал), а потім натиснути  &lt;k0&gt; &lt;k1&gt;Ctrl&lt;/k1&gt; &lt;k2&gt;K&lt;/k2&gt; &lt;/k0&gt;, він автоматично вставиться в поле &lt;g3&gt;Шукати&lt;/g3&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -27335,16 +27335,16 @@ in /lib/licenses/Licenses.txt.</seg>
       <tuv lang="EN">
         <seg>The search string - [a-zA-Z]+[öäüqwß] - in the example above for instance looks for words in the target segment, containing questionable characters from German keyboard.</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="lesia" changedate="20200523T202850Z" creationid="lesia" creationdate="20200523T202850Z">
-        <seg>Якщо ввести такий рядок [a-zA-Z]+[öäüqwß] у пошук, то він шукатиме слова у сегменті перекладу, які містять перераховані символи з німецької розкладки.</seg>
+      <tuv lang="UK-UA" changeid="fanja9" changedate="20200704T145933Z" creationid="lesia" creationdate="20200523T202850Z">
+        <seg>Якщо ввести таку стрічку [a-zA-Z]+[öäüqwß] у пошук, то вона шукатиме слова у сегменті перекладу, які містять перераховані символи з німецької розкладки.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>The search string will be treated as a regular expression.</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="lesia" changedate="20200523T202848Z" creationid="lesia" creationdate="20200523T202848Z">
-        <seg>Введений в пошук рядок буде розглядатися як регулярний вираз.</seg>
+      <tuv lang="UK-UA" changeid="fanja9" changedate="20200704T145917Z" creationid="lesia" creationdate="20200523T202848Z">
+        <seg>Введена в пошук стрічка буде розглядатися як регулярний вираз.</seg>
       </tuv>
     </tu>
     <tu>
@@ -30899,8 +30899,8 @@ searchable without subscription:</seg>
       <tuv lang="EN">
         <seg>Using keyword search with &lt;e0&gt;&lt;l1&gt;open file&lt;/l1&gt;&lt;/e0&gt; will thus find all occurrences of the string &lt;e2&gt;&lt;l3&gt;open file&lt;/l3&gt;,&lt;/e2&gt; as well as &lt;e4&gt;&lt;l5&gt;file opened&lt;/l5&gt;, &lt;l6&gt;open input file&lt;/l6&gt;, &lt;l7&gt;file may not be safe to open&lt;/l7&gt;&lt;/e4&gt;, etc.</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="lesia" changedate="20200523T202846Z" creationid="lesia" creationdate="20200523T202846Z">
-        <seg>Якщо ви використаєте пошук за ключовими словами для пошуку фрази &lt;e0&gt;&lt;l1&gt;відкрити файл&lt;/l1&gt;&lt;/e0&gt; , ви знайдете всі випадки рядка &lt;e2&gt;&lt;l3&gt;відкрити файл&lt;/l3&gt;,&lt;/e2&gt; а також рядків &lt;e4&gt;&lt;l5&gt;відкритий файл&lt;/l5&gt;, &lt;l6&gt;відкрити вхідний файл&lt;/l6&gt;, &lt;l7&gt;файл неможливо відкрити&lt;/l7&gt;&lt;/e4&gt; тощо.</seg>
+      <tuv lang="UK-UA" changeid="fanja9" changedate="20200704T145848Z" creationid="lesia" creationdate="20200523T202846Z">
+        <seg>Якщо ви використаєте пошук за ключовими словами для пошуку фрази &lt;e0&gt;&lt;l1&gt;відкрити файл&lt;/l1&gt;&lt;/e0&gt; , ви знайдете всі випадки запиту &lt;e2&gt;&lt;l3&gt;відкрити файл&lt;/l3&gt;,&lt;/e2&gt; а також запитів &lt;e4&gt;&lt;l5&gt;відкритий файл&lt;/l5&gt;, &lt;l6&gt;відкрити вхідний файл&lt;/l6&gt;, &lt;l7&gt;файл неможливо відкрити&lt;/l7&gt;&lt;/e4&gt; тощо.</seg>
       </tuv>
     </tu>
     <tu>
