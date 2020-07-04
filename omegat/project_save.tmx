@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.2.0_0_747fc65a" segtype="sentence" srclang="en"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.2.0_0_747fc65a9" segtype="sentence" srclang="en"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -18783,6 +18783,14 @@ as the Applications folder.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>OmegaT also backs up the translation memory to project_save.tmx.YEARMMDDHHNN.bak in the same subfolder each time a project is opened or reloaded.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="maximo" changedate="20200704T193301Z" creationid="maximo" creationdate="20200704T193301Z">
+        <seg>Також, щоразу як проєкт відкривається чи закривається, OmegaT створює в тій самій теці резервні копії цього файлу зі структурою назви project_save.tmx.YYYYMMDDHHNN.bak.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>OmegaT also has the following mailing lists and trackers, which are hosted on Sourceforge:</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="maximo" changedate="20200321T130307Z" creationid="maximo" creationdate="20200321T130307Z">
@@ -32076,8 +32084,8 @@ of selecting, obtaining and installing it.</seg>
       <tuv lang="en">
         <seg>When you translate your files, &lt;a2&gt;OmegaT&lt;/a2&gt; stores all your progress in the translation memory &lt;l3&gt;project_save.tmx&lt;/l3&gt; that resides in the project's &lt;l4&gt;/omegat&lt;/l4&gt; subfolder.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="maximo" changedate="20200704T192524Z" creationid="maximo" creationdate="20200704T192524Z">
-        <seg>When you translate your files, &lt;a2&gt;OmegaT&lt;/a2&gt; stores all your progress in the translation memory &lt;l3&gt;project_save.tmx&lt;/l3&gt; that resides in the project's &lt;l4&gt;/omegat&lt;/l4&gt; subfolder.</seg>
+      <tuv lang="uk-UA" changeid="maximo" changedate="20200704T192930Z" creationid="maximo" creationdate="20200704T192524Z">
+        <seg>Під час перекладу &lt;a2&gt;OmegaT&lt;/a2&gt; зберігає результати роботи у памʼять перекладів &lt;l3&gt;project_save.tmx&lt;/l3&gt;, що розташована у підтеці проєкту &lt;l4&gt;/omegat&lt;/l4&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -32612,6 +32620,14 @@ Your page is not found</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="lesia" changedate="20200511T202008Z" creationid="lesia" creationdate="20200511T202008Z">
         <seg>X|Y</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>YEAR is the 4-digit year, MM is the month, DD the day of the month, and HH and NN are the hours and minutes when the previous translation memory was saved.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="maximo" changedate="20200704T193438Z" creationid="maximo" creationdate="20200704T193438Z">
+        <seg>Де YYYY це рік, MM це місяць, DD день, а HH та NN це години та хвилини, коли ця копія памʼяті перекладів була востаннє збережена.</seg>
       </tuv>
     </tu>
     <tu>
