@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.2.0_0_747fc65a" segtype="sentence" srclang="en"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.2.0_0_747fc65a9" segtype="sentence" srclang="en"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -11621,6 +11621,14 @@ provided (omegat.kaptn).</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="maximo" changedate="20200417T080847Z" creationid="maximo" creationdate="20200417T080847Z">
         <seg>Наприклад, якщо ви введете &lt;u0&gt;\d+&lt;/u0&gt; у поле &lt;g1&gt;Регулярний вираз для теґів, визначених користувачем&lt;/g1&gt;, всі числа будуть вважатися теґами. Це дасть можливість гарантувати, що вони не будуть помилково змінені в процесі перекладу.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>For example, if you have an outdated Microsoft Word version, that does not handle the ODT format, here's a round trip for Word files with the DOC extension:</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="maximo" changedate="20200704T205350Z" creationid="maximo" creationdate="20200704T205350Z">
+        <seg>Наприклад, якщо у вас застаріла версія Microsoft Word, що не працює із ODT, можна провести таку послідовність операцій, щоб отримати перекладений DOC:</seg>
       </tuv>
     </tu>
     <tu>
@@ -28134,6 +28142,14 @@ in /lib/licenses/Licenses.txt.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The quality of formatting of the translated file will depend on the quality of the round-trip conversion.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="maximo" changedate="20200704T205742Z" creationid="maximo" creationdate="20200704T205742Z">
+        <seg>Якість форматування у перекладеному файлі буде залежати від якості перетворення форматів файлів.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The recognized extensions are &lt;f1&gt;TXT&lt;/f1&gt; and &lt;f2&gt;UTF8&lt;/f2&gt;</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="lesia" changedate="20200505T201128Z" creationid="lesia" creationdate="20200505T201128Z">
@@ -28621,6 +28637,14 @@ in /lib/licenses/Licenses.txt.</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20190516T180657Z" creationid="Kos Ivantsov" creationdate="20190516T180657Z">
         <seg>Вказана неприпустима мова перекладу!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The translated files will then need to be converted back to the original format.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="maximo" changedate="20200704T205209Z" creationid="maximo" creationdate="20200704T205209Z">
+        <seg>Перекладені файли згодом можна буде перетворити в оригінальний формат.</seg>
       </tuv>
     </tu>
     <tu>
@@ -35224,6 +35248,14 @@ create its configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>http://www.omegat.org</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="maximo" changedate="20200704T205606Z" creationid="maximo" creationdate="20200704T205606Z">
+        <seg>http://www.omegat.org</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>http://www.omegat.org/</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20190822T210433Z" creationid="Kos Ivantsov" creationdate="20190808T091353Z">
@@ -35496,6 +35528,14 @@ create its configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>import the file into ODF writer</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="maximo" changedate="20200704T205429Z" creationid="maximo" creationdate="20200704T205429Z">
+        <seg>імпортуйте файл в програму для роботи з ODF</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>in regular expressions</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="maximo" changedate="20200416T091216Z" creationid="maximo" creationdate="20200416T091216Z">
@@ -35646,6 +35686,14 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="maximo" changedate="20200704T182155Z" creationid="maximo" creationdate="20200704T182155Z">
         <seg>ліве вирівнювання</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>load the target file in ODF writer</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="maximo" changedate="20200704T205552Z" creationid="maximo" creationdate="20200704T205552Z">
+        <seg>завантажте його у програму для роботи з ODF</seg>
       </tuv>
     </tu>
     <tu>
@@ -36299,6 +36347,22 @@ create its configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>save the file as a DOC file</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="maximo" changedate="20200704T205605Z" creationid="maximo" creationdate="20200704T205605Z">
+        <seg>збережіть файл як DOC</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>save the file in ODT format</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="maximo" changedate="20200704T205445Z" creationid="maximo" creationdate="20200704T205445Z">
+        <seg>збережіть файл у форматі ODT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>search for “is”, not “this” or “isn't” etc.</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="Asus" changedate="20200614T042338Z" creationid="maximo" creationdate="20200412T053455Z">
@@ -36608,6 +36672,14 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="maximo" changedate="20200503T060645Z" creationid="maximo" creationdate="20200503T060633Z">
         <seg>загальна кількість сегментів, включно з повторами</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>translate it into the target ODT file</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="maximo" changedate="20200704T205518Z" creationid="maximo" creationdate="20200704T205518Z">
+        <seg>перекладіть його та згенеруйте перекладений файл ODT</seg>
       </tuv>
     </tu>
     <tu>
