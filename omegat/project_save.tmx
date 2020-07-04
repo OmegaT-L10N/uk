@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.2.0_0_747fc65a" segtype="sentence" srclang="en"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.2.0_0_747fc65a9" segtype="sentence" srclang="en"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -16657,6 +16657,14 @@ itself on the first run.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Make regular copies of the file /omegat/project_save.tmx to backup media, such as CD or DVD.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="maximo" changedate="20200704T193915Z" creationid="maximo" creationdate="20200704T193915Z">
+        <seg>Робіть регулярні копії /omegat/project_save.tmx на резервні носії, наприклад, на CD чи DVD.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Make sure that you have a free Microsoft account.</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="maximo" changedate="20200422T171625Z" creationid="maximo" creationdate="20200422T171625Z">
@@ -29432,6 +29440,14 @@ the server.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>To avoid losing important data:</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="maximo" changedate="20200704T193751Z" creationid="maximo" creationdate="20200704T193751Z">
+        <seg>Щоб уникнути втрати важливих даних:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>To be sure that no translation will be lost, you need to:
 1.</seg>
       </tuv>
@@ -30834,6 +30850,14 @@ on line {1}, column {2}.</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20190701T114538Z" creationid="Kos Ivantsov" creationdate="20190701T114538Z">
         <seg>Версія проєкту {0} не підтримується!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Until you are familiar with &lt;a0&gt;OmegaT&lt;/a0&gt;, create translated files at regular intervals and check that the translated file contains the latest version of your translation.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="maximo" changedate="20200704T194205Z" creationid="maximo" creationdate="20200704T194205Z">
+        <seg>Поки ви ще не відчуваєте себе абсолютно впевнено при роботі з &lt;a0&gt;OmegaT&lt;/a0&gt;, періодично генеруйте перекладені файли та перевіряйте, що в них міститься правильна версія вашого перекладу.</seg>
       </tuv>
     </tu>
     <tu>
@@ -35183,6 +35207,14 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="maximo" changedate="20200322T135652Z" creationid="maximo" creationdate="20200322T135652Z">
         <seg>про переклад та&lt;br1/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>open the project</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="maximo" changedate="20200704T193719Z" creationid="maximo" creationdate="20200704T193719Z">
+        <seg>відкрийте проєкт</seg>
       </tuv>
     </tu>
     <tu>
