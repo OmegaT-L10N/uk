@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.2.0_0_747fc65a" segtype="sentence" srclang="en"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.2.0_0_747fc65a9" segtype="sentence" srclang="en"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -10439,6 +10439,14 @@ No one hears your screams</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20190820T172531Z" creationid="Kos Ivantsov" creationdate="20190820T172531Z">
         <seg>Подія: зміна проєкту — «{0}»</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Every 3 minutes (by default), the local project is synchronised with the remote repository so that the project manager or other translators can see and use translations added during that period.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="maximo" changedate="20200704T202353Z" creationid="maximo" creationdate="20200704T202353Z">
+        <seg>Раз у 3 хвилини (за типових налаштувань) локальний проєкт синхронізується з віддаленим репозиторієм. Таким чином менеджер проєкту та інші перекладаі зможуть бачити та користуватися перекладами, що були додані за цей час.</seg>
       </tuv>
     </tu>
     <tu>
@@ -25673,6 +25681,14 @@ The scope of a search is by default the project and can be set to be any files l
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Synchronised files</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="maximo" changedate="20200704T202410Z" creationid="maximo" creationdate="20200704T202410Z">
+        <seg>Синхронізовані файли</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Synchronization error</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20190807T191519Z" creationid="Kos Ivantsov" creationdate="20190807T191519Z">
@@ -32334,6 +32350,14 @@ of selecting, obtaining and installing it.</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="Asus" changedate="20200618T042604Z" creationid="maximo" creationdate="20200412T195224Z">
         <seg>Якщо ви знову захочете використовувати фільтр, установіть прапорець.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Whenever the project is automatically saved, but also when it is opened, closed and reloaded, only two files are actually synchronised:</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="maximo" changedate="20200704T202658Z" creationid="maximo" creationdate="20200704T202658Z">
+        <seg>Щоразу як проєкт автоматично зберігається, а також коли він відкривається, закривається чи перезавантажується, тільки два файла справді синхронізуються:</seg>
       </tuv>
     </tu>
     <tu>
