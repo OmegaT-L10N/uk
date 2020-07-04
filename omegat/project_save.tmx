@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.2.0_0_747fc65a" segtype="sentence" srclang="en"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.2.0_0_747fc65a9" segtype="sentence" srclang="en"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -13567,6 +13567,14 @@ their defaults as a result of the location change.</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20190821T150205Z" creationid="Kos Ivantsov" creationdate="20190821T150205Z">
         <seg>Для використання проксі з автентифікацією вкажіть ім’я користувача та пароль.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If you believe that you have lost translation data, you can use the following procedure to restore the project to its most recently saved state, usually not older than approximately 10 minutes or so:</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="maximo" changedate="20200704T193528Z" creationid="maximo" creationdate="20200704T193528Z">
+        <seg>Якщо вам здається, що ви втратили якийсь шматок роботи, ви можете скористатися такою процедурою:</seg>
       </tuv>
     </tu>
     <tu>
@@ -33888,6 +33896,14 @@ create its configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>close the project</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="maximo" changedate="20200704T193536Z" creationid="maximo" creationdate="20200704T193536Z">
+        <seg>закрийте проєкт</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>comma or a period, followed by spaces and yet another comma or period</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="Asus" changedate="20200614T042055Z" creationid="maximo" creationdate="20200412T053101Z">
@@ -35555,6 +35571,22 @@ create its configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>rename it &lt;l0&gt;project_save.tmx&lt;/l0&gt;</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="maximo" changedate="20200704T193711Z" creationid="maximo" creationdate="20200704T193711Z">
+        <seg>перейменуйте її в &lt;l0&gt;project_save.tmx&lt;/l0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>rename the current &lt;f0&gt;project_save.tmx &lt;/f0&gt;file (e.g. to &lt;f1&gt;project_save.tmx.temporary&lt;/f1&gt;)</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="maximo" changedate="20200704T193612Z" creationid="maximo" creationdate="20200704T193612Z">
+        <seg>перейменуйте &lt;f0&gt;project_save.tmx&lt;/f0&gt; (наприклад, у &lt;f1&gt;project_save.tmx.temporary&lt;/f1&gt;)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>restores the layout before the maximizing step</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="maximo" changedate="20200614T162200Z" creationid="maximo" creationdate="20200429T204918Z">
@@ -35591,6 +35623,14 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="maximo" changedate="20200614T163930Z" creationid="maximo" creationdate="20200614T163930Z">
         <seg>segmentation.conf</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>select the backup translation memory that is the most likely to contain the data you are looking for</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="maximo" changedate="20200704T193658Z" creationid="maximo" creationdate="20200704T193658Z">
+        <seg>оберіть резервну копію памʼяті перекладів, яка найбільш вірогідно містить потрібні дані</seg>
       </tuv>
     </tu>
     <tu>
