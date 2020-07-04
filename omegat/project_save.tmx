@@ -13321,6 +13321,14 @@ their defaults as a result of the location change.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If the source file is modified after you have begun translating, &lt;a1&gt;OmegaT&lt;/a1&gt; may be unable to find a segment that you have already translated.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="maximo" changedate="20200704T194443Z" creationid="maximo" creationdate="20200704T194443Z">
+        <seg>Якщо змінити оригінальний файл після того, як ви вже почали переклад, може виявитись так, що &lt;a1&gt;OmegaT&lt;/a1&gt; не знайде оригінали для вже перекладених сегментів.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If the source segment in one of the ancillary TMs is identical to the text being translated, OmegaT acts as defined in the &lt;m0&gt; &lt;g1&gt;Options&lt;/g1&gt; &lt;g2&gt;Editing Behavior...&lt;/g2&gt; &lt;/m0&gt; dialog window.</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="maximo" changedate="20200701T201956Z" creationid="fanja9" creationdate="20200510T185010Z">
@@ -25829,6 +25837,14 @@ The scope of a search is by default the project and can be set to be any files l
       </tuv>
       <tuv lang="uk-UA" changeid="lesia" changedate="20200701T141512Z" creationid="maximo" creationdate="20200417T084118Z">
         <seg>Майте на увазі, що потрібно зробити бекап всіх цих даних перед зміною паролю, бо після створення нового паролю вам треба буде їх всі ввести вручну заново.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Take particular care when making changes to the files in &lt;l0&gt;/source&lt;/l0&gt; while in the middle of a project.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="maximo" changedate="20200704T194307Z" creationid="maximo" creationdate="20200704T194307Z">
+        <seg>Будьте особливо обережні, якщо вам раптом треба внести зміни до файлів у теці &lt;l0&gt;/source&lt;/l0&gt; посеред роботи над проєктом.</seg>
       </tuv>
     </tu>
     <tu>
