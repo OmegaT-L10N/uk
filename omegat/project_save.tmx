@@ -9545,6 +9545,14 @@ project_save.tmx не був переданий на віддалений сер
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Each output format has specific ways of dealing with RTL display; check the relevant application manuals for details.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="maximo" changedate="20200704T191223Z" creationid="maximo" creationdate="20200704T191223Z">
+        <seg>Кожен з форматів має свої засоби роботи з напрямком письма, див. довідкові матеріали відповідних програм.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Ed&amp;it</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20190808T125841Z" creationid="Kos Ivantsov" creationdate="20190808T125841Z">
@@ -11177,6 +11185,14 @@ Gossamer threads hold you back
       </tuv>
       <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20190822T134218Z" creationid="Kos Ivantsov" creationdate="20190805T115711Z">
         <seg>Ни&amp;жні колонтитули</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>For .docx files, a number of changes are however done automatically:</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="maximo" changedate="20200704T191308Z" creationid="maximo" creationdate="20200704T191308Z">
+        <seg>Але для файлів .docx files OmegaT робить такі автоматичні зміни:</seg>
       </tuv>
     </tu>
     <tu>
@@ -13217,8 +13233,8 @@ their defaults as a result of the location change.</seg>
       <tuv lang="en">
         <seg>If the original document was LTR, the display direction of the target document must be changed manually to RTL in its viewing application.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="maximo" changedate="20200704T191056Z" creationid="maximo" creationdate="20200704T191056Z">
-        <seg>Якщо оригінальний документ був ЛНП, змінити його на ПНЛ треба буде вже у відповідній програмі.</seg>
+      <tuv lang="uk-UA" changeid="maximo" changedate="20200704T191231Z" creationid="maximo" creationdate="20200704T191056Z">
+        <seg>Якщо оригінальний документ був ЛНП, змінити його на ПНЛ треба буде вручну.</seg>
       </tuv>
     </tu>
     <tu>
@@ -20109,6 +20125,14 @@ Vanishing like mist</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="Asus" changedate="20200622T033045Z" creationid="maximo" creationdate="20200412T202552Z">
         <seg>Сегментація на абзаци після розривів рядків, після порожніх рядків чи ніколи:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Paragraphs, sections and tables are set to bidi</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="maximo" changedate="20200704T191453Z" creationid="maximo" creationdate="20200704T191453Z">
+        <seg>Абзаци, розділи і таблички будуть мати змішаний напрямок письма</seg>
       </tuv>
     </tu>
     <tu>
