@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.2.0_0_747fc65a9" segtype="sentence" srclang="en"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.2.0_0_747fc65a" segtype="sentence" srclang="en"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -10535,6 +10535,14 @@ No one hears your screams</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="maximo" changedate="20200423T154009Z" creationid="maximo" creationdate="20200423T154009Z">
         <seg>Наприклад:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Example: &lt;u0&gt;**/excludedfolder/**;*.txt&lt;/u0&gt; excludes files that have /excludedfolder/ in the path, and files with .txt extension.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200704T203720Z" creationid="lesia" creationdate="20200704T203720Z">
+        <seg>Приклад: &lt;u0&gt;**/excludedfolder/**;*.txt&lt;/u0&gt; виключає файли, що мають компонент /excludedfolder/ у шляху, та файл з розширенням .txt.</seg>
       </tuv>
     </tu>
     <tu>
@@ -24388,6 +24396,14 @@ The scope of a search is by default the project and can be set to be any files l
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Separate different patterns with a semicolon.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200704T203506Z" creationid="lesia" creationdate="20200704T203506Z">
+        <seg>Відділяйте паттерни один від одного крапкою з комою.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Separates the source text into segments.</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="maximo" changedate="20200414T190415Z" creationid="maximo" creationdate="20200414T190415Z">
@@ -34610,8 +34626,8 @@ create its configuration folder.</seg>
       <tuv lang="en">
         <seg>excludes</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="lesia" changedate="20200704T202841Z" creationid="lesia" creationdate="20200704T202841Z">
-        <seg>excludes</seg>
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200704T203947Z" creationid="lesia" creationdate="20200704T202841Z">
+        <seg>винятки</seg>
       </tuv>
     </tu>
     <tu>
