@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.2.0_0_747fc65a9" segtype="sentence" srclang="en"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.2.0_0_747fc65a" segtype="sentence" srclang="en"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -14489,6 +14489,14 @@ click on that shortcut.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>In this case, the procedure is the same, but the project manager does not add files to the /source folder.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200704T194005Z" creationid="lesia" creationdate="20200704T194005Z">
+        <seg>У таком увипадку процедура створення проєкту буде така ж за вийнятком того, що менеджер проєкту не додаватиме файли до теки /source folder.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>In this mode OmegaT will create a TMX for the whole project, based on the source files only.</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="maximo" changedate="20200423T155102Z" creationid="maximo" creationdate="20200423T155102Z">
@@ -16779,8 +16787,8 @@ itself on the first run.</seg>
       <tuv lang="en">
         <seg>Mapping parameters</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="maximo" changedate="20200704T195735Z" creationid="maximo" creationdate="20200704T195735Z">
-        <seg>Mapping parameters</seg>
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200704T201644Z" creationid="lesia" creationdate="20200704T194013Z">
+        <seg>Параметри прив'язки</seg>
       </tuv>
     </tu>
     <tu>
@@ -17756,6 +17764,14 @@ as the Applications folder.</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20190807T150029Z" creationid="Kos Ivantsov" creationdate="20190807T150029Z">
         <seg>Імʼя</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Name of the local folder or file, relative to the root of the OmegaT project.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200704T202420Z" creationid="lesia" creationdate="20200704T202420Z">
+        <seg>Ім'я локальної теки або файлу, що співвідноситься з коренем проєкту OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
@@ -22077,6 +22093,14 @@ These words: 'Page not found'</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20190516T180218Z" creationid="Kos Ivantsov" creationdate="20190504T135635Z">
         <seg>Віддалені сховища</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Remote location of the files to translate.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200704T202201Z" creationid="lesia" creationdate="20200704T202201Z">
+        <seg>Віддалене розташування файлів для перекладу.</seg>
       </tuv>
     </tu>
     <tu>
@@ -28814,6 +28838,14 @@ the server.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>This can be either http (which includes https), svn or git.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200704T201844Z" creationid="lesia" creationdate="20200704T201844Z">
+        <seg>http (також https), svn або git</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>This chapter is intended for advanced users, who need to define their own variants of segmentation rules or devise more complex and powerful key search items.</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="Asus" changedate="20200614T032221Z" creationid="maximo" creationdate="20200412T044842Z">
@@ -35234,6 +35266,14 @@ create its configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>mapping local</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200704T202216Z" creationid="lesia" creationdate="20200704T202216Z">
+        <seg>mapping local</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>maximizes the pane</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="maximo" changedate="20200614T162153Z" creationid="maximo" creationdate="20200429T075737Z">
@@ -35781,8 +35821,16 @@ create its configuration folder.</seg>
       <tuv lang="en">
         <seg>repository type</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="maximo" changedate="20200704T195743Z" creationid="maximo" creationdate="20200704T195743Z">
-        <seg>repository type</seg>
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200704T201657Z" creationid="lesia" creationdate="20200704T200142Z">
+        <seg>тип репозиторію</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>repository url</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200704T202126Z" creationid="lesia" creationdate="20200704T202126Z">
+        <seg>url репозиторію</seg>
       </tuv>
     </tu>
     <tu>
