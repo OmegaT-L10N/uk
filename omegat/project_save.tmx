@@ -7675,6 +7675,14 @@ Buy another drink</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Create a local copy of the repository (&lt;c0&gt;check out&lt;/c0&gt; with SVN, &lt;c1&gt;clone&lt;/c1&gt; with Git).</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200704T184141Z" creationid="lesia" creationdate="20200704T184141Z">
+        <seg>Створіть локальну копію цього репозиторію (команди &lt;c0&gt;check out&lt;/c0&gt; для SVN, &lt;c1&gt;clone&lt;/c1&gt; для Git).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Create an SVN or Git repository on a server that will be accessible by the translators.</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="lesia" changedate="20200704T183826Z" creationid="lesia" creationdate="20200704T183612Z">
