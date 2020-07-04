@@ -2930,6 +2930,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;g0&gt;Project&lt;/g0&gt; &lt;g1&gt;New...&lt;/g1&gt;</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200704T184307Z" creationid="lesia" creationdate="20200704T184307Z">
+        <seg>&lt;g0&gt;Проєкт&lt;/g0&gt; &lt;g1&gt;Новий...&lt;/g1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;g0&gt;Spelling Issues&lt;/g0&gt; (optional).</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="maximo" changedate="20200425T150207Z" creationid="maximo" creationdate="20200425T150207Z">
@@ -7679,6 +7687,14 @@ Buy another drink</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="lesia" changedate="20200704T184141Z" creationid="lesia" creationdate="20200704T184141Z">
         <seg>Створіть локальну копію цього репозиторію (команди &lt;c0&gt;check out&lt;/c0&gt; для SVN, &lt;c1&gt;clone&lt;/c1&gt; для Git).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Create a new, empty OmegaT project in the local repository.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200704T184226Z" creationid="lesia" creationdate="20200704T184226Z">
+        <seg>Створіть новий, порожній проєкт OmegaT у локальному репозиторії.</seg>
       </tuv>
     </tu>
     <tu>
@@ -28308,6 +28324,14 @@ the server.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>This can be done in two ways:</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200704T184248Z" creationid="lesia" creationdate="20200704T184248Z">
+        <seg>Зробити це можна двома шляхами:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>This chapter is intended for advanced users, who need to define their own variants of segmentation rules or devise more complex and powerful key search items.</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="Asus" changedate="20200614T032221Z" creationid="maximo" creationdate="20200412T044842Z">
@@ -34653,6 +34677,14 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="maximo" changedate="20200701T203906Z" creationid="maximo" creationdate="20200614T163934Z">
         <seg>omegat.project</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>on the command line: &lt;c0&gt;java -jar OmegaT.jar team init [lang1] [lang2]&lt;/c0&gt;</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200704T184429Z" creationid="lesia" creationdate="20200704T184429Z">
+        <seg>в командному рядку: &lt;c0&gt;java -jar OmegaT.jar team init [lang1] [lang2]&lt;/c0&gt;</seg>
       </tuv>
     </tu>
     <tu>
