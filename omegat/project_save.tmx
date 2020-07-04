@@ -17855,8 +17855,8 @@ as the Applications folder.</seg>
       <tuv lang="EN">
         <seg>Note that '*' and '?' have special meaning in regular expressions, so wild card search, as described here, applies to exact and keyword search only (see below).</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="maximo" changedate="20200703T062204Z" creationid="lesia" creationdate="20200523T202830Z">
-        <seg>Зауважте, що символи  «*» та  «?» мають особливе значення у регулярних виразах. Тому описаний тут пошук із символами узагальнення застосовується лише для методів точного пошуку та пошуку за ключовими словами (див. нижче).</seg>
+      <tuv lang="UK-UA" changeid="fanja9" changedate="20200704T054004Z" creationid="lesia" creationdate="20200523T202830Z">
+        <seg>Зверніть увагу, що символи  «*» та  «?» мають особливе значення у регулярних виразах. Тому описаний тут пошук із символами узагальнення застосовується лише для точного пошуку та пошуку за ключовими словами (див. нижче).</seg>
       </tuv>
     </tu>
     <tu>
@@ -22969,8 +22969,8 @@ The scope of a search is by default the project and can be set to be any files l
       <tuv lang="EN">
         <seg>Search for segments containing the exact string you specified.</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="lesia" changedate="20200523T202836Z" creationid="lesia" creationdate="20200523T202836Z">
-        <seg>Пошук сегментів, які містять точно такий рядок, який ви ввели.</seg>
+      <tuv lang="UK-UA" changeid="fanja9" changedate="20200704T054410Z" creationid="lesia" creationdate="20200523T202836Z">
+        <seg>Пошук сегментів, які містять стрічку, повністю ідентичну тій, яку ви ввели.</seg>
       </tuv>
     </tu>
     <tu>
