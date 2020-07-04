@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.2.0_0_747fc65a9" segtype="sentence" srclang="en"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.2.0_0_747fc65a" segtype="sentence" srclang="en"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -13343,6 +13343,14 @@ their defaults as a result of the location change.</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="lesia" changedate="20200704T190817Z" creationid="lesia" creationdate="20200704T190817Z">
         <seg>Якщо перекладач спробує щось у них змінити, при наступному відкритті, закритті, перезавантаженні чи збереженні проєкту вони повернуться до попереднього стану.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If there are any differences, check that the &lt;f0&gt;filters.xml&lt;/f0&gt; and &lt;f1&gt;segmentation.conf&lt;/f1&gt; files are under version control.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200704T193159Z" creationid="lesia" creationdate="20200704T193159Z">
+        <seg>Якщо є якісь відмінності, перевірте, чи файли &lt;f0&gt;filters.xml&lt;/f0&gt; та &lt;f1&gt;segmentation.conf&lt;/f1&gt; включені до системи керування версіями.</seg>
       </tuv>
     </tu>
     <tu>
