@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.2.0_0_747fc65a9" segtype="sentence" srclang="en"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.2.0_0_747fc65a" segtype="sentence" srclang="en"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -5019,6 +5019,14 @@ may experience unexpected, but correct behaviour.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>As plenty of information about SVN and Git is easily available, we won't describe how they work here, but only how OmegaT works with them.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200704T183509Z" creationid="lesia" creationdate="20200704T183509Z">
+        <seg>Оскільки неважко знайти детальні описи принципів роботи SVN та Git, тут ми розповімо лише про те, як з ними працює OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>As the existing content will not be touched, damage to an existing file would be limited.</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="maximo" changedate="20200607T152606Z" creationid="maximo" creationdate="20200404T171639Z">
@@ -7667,6 +7675,14 @@ Buy another drink</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Create an SVN or Git repository on a server that will be accessible by the translators.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200704T183826Z" creationid="lesia" creationdate="20200704T183612Z">
+        <seg>Створіть репозиторій SVN або Git на сервері, який буде доступним перекладачам.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Create backup files of original DOCX</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20190516T205807Z" creationid="Kos Ivantsov" creationdate="20190516T205807Z">
@@ -7751,6 +7767,14 @@ Buy another drink</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="maximo" changedate="20200415T110123Z" creationid="maximo" creationdate="20200415T110123Z">
         <seg>Створити нове правило</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Creating an empty project on a server</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200704T183638Z" creationid="lesia" creationdate="20200704T183638Z">
+        <seg>Створення порожнього проєкту на сервері</seg>
       </tuv>
     </tu>
     <tu>
@@ -24915,6 +24939,14 @@ The scope of a search is by default the project and can be set to be any files l
       </tuv>
       <tuv lang="uk-UA" changeid="lesia" changedate="20200501T200743Z" creationid="maximo" creationdate="20200413T170615Z">
         <seg>Крок 1. Налаштуйте параметри вирівнювання</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Step 1: Create an empty project on a server</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200704T183609Z" creationid="lesia" creationdate="20200704T183609Z">
+        <seg>Крок 1: Створіть порожній проєкт на сервері</seg>
       </tuv>
     </tu>
     <tu>
