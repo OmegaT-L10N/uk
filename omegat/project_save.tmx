@@ -22733,6 +22733,14 @@ These words: 'Page not found'</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Runs (text elements) are set to RTL</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="maximo" changedate="20200704T191528Z" creationid="maximo" creationdate="20200704T191528Z">
+        <seg>Текстові елементи будуть мати напрямок справа наліво</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Russian</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20190422T210527Z" creationid="Kos Ivantsov" creationdate="20190422T210527Z">
@@ -29258,6 +29266,14 @@ the server.</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="Asus" changedate="20200703T120113Z" creationid="maximo" creationdate="20200425T152103Z">
         <seg>Щоб прив'язати скрипт до числа, необхідно:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To avoid changing the target files display parameters each time the files are opened, it may be possible to change the source file display parameters such that such parameters are inherited by the target files.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="maximo" changedate="20200704T191916Z" creationid="maximo" creationdate="20200704T191916Z">
+        <seg>Щоб не міняти напрямок письма щоразу, коли перекладені файли перегенеровуються, можна схитрувати та змінити напрямок письма в оригінальних файлах на потрібний для файлів перекладу.</seg>
       </tuv>
     </tu>
     <tu>
