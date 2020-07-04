@@ -12842,6 +12842,14 @@ need not be entered.)</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If a given sentence has already been translated once, and translated correctly, there is no need for it to be retranslated.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="maximo" changedate="20200704T194957Z" creationid="maximo" creationdate="20200704T194957Z">
+        <seg>Якщо певне речення вже було перекладене, причому правильно, то нема чого його ще раз перекладати.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If a search removes duplicates, those duplicates will not be in the Editor.</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="maximo" changedate="20200703T065503Z" creationid="lesia" creationdate="20200523T202933Z">
@@ -14653,6 +14661,14 @@ click on that shortcut.</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20190820T160407Z" creationid="Kos Ivantsov" creationdate="20190819T112524Z">
         <seg>Максимальна кількість сегментів у початковому заванта&amp;женні:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Initially, that is when the project is created, the main TM of the project, &lt;f0&gt;project_save.tmx&lt;/f0&gt; is empty.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="maximo" changedate="20200704T194806Z" creationid="maximo" creationdate="20200704T194806Z">
+        <seg>При створенні проєкту його пам'ять перекладів (&lt;f0&gt;project_save.tmx&lt;/f0&gt;) пуста.</seg>
       </tuv>
     </tu>
     <tu>
@@ -22643,6 +22659,14 @@ These words: 'Page not found'</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Reuse Translation Memories</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="maximo" changedate="20200704T194727Z" creationid="maximo" creationdate="20200704T194702Z">
+        <seg>Використання існуючої памʼяті перекладів</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Review of OmegaT 1.6 RC5.</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="maximo" changedate="20200322T165833Z" creationid="maximo" creationdate="20200322T165833Z">
@@ -28654,6 +28678,14 @@ the server.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>This TM gradually becomes filled during the translation.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="maximo" changedate="20200704T194829Z" creationid="maximo" creationdate="20200704T194829Z">
+        <seg>Вона поступово наповнюється в процесі перекладу.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>This URL appears to be invalid.</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20190821T154315Z" creationid="Kos Ivantsov" creationdate="20190821T154315Z">
@@ -29800,6 +29832,14 @@ the server.</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20190823T145711Z" creationid="Kos Ivantsov" creationdate="20190823T145632Z">
         <seg>Щоб переглянути перелік файлів у проєкті, відкрийте діалогове вікно &lt;s2&gt;«Файли проєкту»&lt;/s2&gt;, натиснувши &lt;s3&gt;&lt;s4&gt;Ctrl+L&lt;/s4&gt;&lt;/s3&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To speed up this process, existing translations can be reused.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="maximo" changedate="20200704T194911Z" creationid="maximo" creationdate="20200704T194911Z">
+        <seg>Щоб прискорити процес, можна скористатися існуючими перекладами.</seg>
       </tuv>
     </tu>
     <tu>
