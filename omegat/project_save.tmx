@@ -28396,6 +28396,14 @@ the server.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>This can also be done within OmegaT:</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200704T185715Z" creationid="lesia" creationdate="20200704T185715Z">
+        <seg>Це можна зробити і в самій OmegaT:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>This can apply also to &lt;g0&gt;Target term&lt;/g0&gt; and &lt;g1&gt;Comment &lt;/g1&gt;fields if new selections are made and &lt;k2&gt; &lt;k3&gt;Ctrl&lt;/k3&gt; &lt;k4&gt;Shift&lt;/k4&gt; &lt;k5&gt;G&lt;/k5&gt; &lt;/k2&gt; pressed again.</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="maximo" changedate="20200517T103058Z" creationid="lesia" creationdate="20200425T144725Z">
@@ -33582,6 +33590,14 @@ create its configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>copy the files to the &lt;f0&gt;/source&lt;/f0&gt; folder</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200704T185736Z" creationid="lesia" creationdate="20200704T185736Z">
+        <seg>скопіюйте файли до теки &lt;f0&gt;/source&lt;/f0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>currSegment = files[i].entries[j];</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="lesia" changedate="20200503T063604Z" creationid="lesia" creationdate="20200503T063604Z">
@@ -35550,6 +35566,14 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="maximo" changedate="20200607T165636Z" creationid="maximo" creationdate="20200607T165636Z">
         <seg>upperCaseMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>use &lt;m0&gt; &lt;g1&gt;Project&lt;/g1&gt; &lt;g2&gt;Commit Source Files&lt;/g2&gt; &lt;/m0&gt;</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200704T185856Z" creationid="lesia" creationdate="20200704T185856Z">
+        <seg>використайте &lt;m0&gt; &lt;g1&gt;Проєкт&lt;/g1&gt; &lt;g2&gt;Зафіксувати файли для перекладу&lt;/g2&gt; &lt;/m0&gt;</seg>
       </tuv>
     </tu>
     <tu>
