@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.2.0_0_747fc65a" segtype="sentence" srclang="en"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.2.0_0_747fc65a9" segtype="sentence" srclang="en"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -3530,6 +3530,14 @@ The current setting is {0}MB;</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="maximo" changedate="20200416T090552Z" creationid="maximo" creationdate="20200416T090552Z">
         <seg>Хорошим початком буде редагування існуючих правил.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>A hint: translating a plain text version of the text and adding the necessary style in the relevant application at a later stage may turn out to be less hassle.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="maximo" changedate="20200704T190820Z" creationid="maximo" creationdate="20200704T190820Z">
+        <seg>Повірте, переклад чисто текстового документа і додавання форматування вже потім вручну у відповідній програмі, може виявитися серйозною економією зусиль та часу.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7839,6 +7847,14 @@ Buy another drink</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20190516T205339Z" creationid="Kos Ivantsov" creationdate="20190516T205339Z">
         <seg>Створюється файл «{0}» після обробки</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Creating translated RTL documents</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="maximo" changedate="20200704T190923Z" creationid="maximo" creationdate="20200704T190844Z">
+        <seg>Створення перекладених документів з правильним напрямком письма наліво</seg>
       </tuv>
     </tu>
     <tu>
@@ -13195,6 +13211,14 @@ their defaults as a result of the location change.</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="maximo" changedate="20200413T105646Z" creationid="maximo" creationdate="20200413T105646Z">
         <seg>Якщо цей параметр вимкнений, текст оригіналу буде скопійовано у перекладений файл.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If the original document was LTR, the display direction of the target document must be changed manually to RTL in its viewing application.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="maximo" changedate="20200704T191056Z" creationid="maximo" creationdate="20200704T191056Z">
+        <seg>Якщо оригінальний документ був ЛНП, змінити його на ПНЛ треба буде вже у відповідній програмі.</seg>
       </tuv>
     </tu>
     <tu>
@@ -31764,6 +31788,14 @@ of selecting, obtaining and installing it.</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="maximo" changedate="20200417T082838Z" creationid="maximo" creationdate="20200417T082838Z">
         <seg>Коли цей прапорець не поставлений, то сірим позначаються всі неунікальні сегменти окрім першого випадку їх зустрічання.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>When the translated document is created, its display direction will be the same as that of the original document.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="maximo" changedate="20200704T190957Z" creationid="maximo" creationdate="20200704T190856Z">
+        <seg>Коли створюється перекладений документ, його напрямок письма буде такий самий як і в оригіналі.</seg>
       </tuv>
     </tu>
     <tu>
