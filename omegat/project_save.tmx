@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.2.0_0_747fc65a" segtype="sentence" srclang="en"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.2.0_0_747fc65a9" segtype="sentence" srclang="en"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -2357,6 +2357,14 @@ The current setting is {0}MB;</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="Asus" changedate="20200624T033936Z" creationid="maximo" creationdate="20200413T192714Z">
         <seg>&lt;a0&gt;OmegaT&lt;/a0&gt; має два способи сегментації: розбиття на абзаци та розбиття на речення, яке ще називають "сегментація за правилами".</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;a0&gt;OmegaT&lt;/a0&gt; is a robust application.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="maximo" changedate="20200704T192328Z" creationid="maximo" creationdate="20200704T192328Z">
+        <seg>&lt;a0&gt;OmegaT&lt;/a0&gt; надійна програма.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12497,8 +12505,8 @@ Its winter has come</seg>
       <tuv lang="en">
         <seg>How To...</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="maximo" changedate="20200413T165852Z" creationid="maximo" creationdate="20200413T165852Z">
-        <seg>Практичні вказівки How To</seg>
+      <tuv lang="uk-UA" changeid="maximo" changedate="20200704T192743Z" creationid="maximo" creationdate="20200413T165852Z">
+        <seg>Практичні рекомендації</seg>
       </tuv>
     </tu>
     <tu>
@@ -12587,6 +12595,14 @@ Its winter has come</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="lesia" changedate="20200322T214025Z" creationid="maximo" creationdate="20200322T145804Z">
         <seg>Але інструкція користувача може не встигати за змінами. Також ця версія значно менше тестується, тож можливі незначні баги.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>However, you should take precautions against data loss when using &lt;a1&gt;OmegaT&lt;/a1&gt;, just as with any other application.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="maximo" changedate="20200704T192458Z" creationid="maximo" creationdate="20200704T192458Z">
+        <seg>Але все ж і при роботі з &lt;a1&gt;OmegaT&lt;/a1&gt;, як із будь-якою іншою програмою, варто перестрахуватися.</seg>
       </tuv>
     </tu>
     <tu>
@@ -32046,6 +32062,14 @@ of selecting, obtaining and installing it.</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="maximo" changedate="20200702T151332Z" creationid="maximo" creationdate="20200501T203928Z">
         <seg>Коли ви переходите до сегмента, для якого є збіги, перший нечіткий збіг, тобто той, у якого найвищий відсоток схожості, виділяється автоматично.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>When you translate your files, &lt;a2&gt;OmegaT&lt;/a2&gt; stores all your progress in the translation memory &lt;l3&gt;project_save.tmx&lt;/l3&gt; that resides in the project's &lt;l4&gt;/omegat&lt;/l4&gt; subfolder.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="maximo" changedate="20200704T192524Z" creationid="maximo" creationdate="20200704T192524Z">
+        <seg>When you translate your files, &lt;a2&gt;OmegaT&lt;/a2&gt; stores all your progress in the translation memory &lt;l3&gt;project_save.tmx&lt;/l3&gt; that resides in the project's &lt;l4&gt;/omegat&lt;/l4&gt; subfolder.</seg>
       </tuv>
     </tu>
     <tu>
