@@ -14881,6 +14881,14 @@ click on that shortcut.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>It can also be used in all the input fields found in &lt;a7&gt;OmegaT&lt;/a7&gt; - in the search window, for segmentation rules etc.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="maximo" changedate="20200704T183141Z" creationid="maximo" creationdate="20200704T183141Z">
+        <seg>Також її можна використати у всіх полях введення тексту в &lt;a7&gt;OmegaT&lt;/a7&gt;: у вікні пошуку, при визначенні правил сегментації і т.п.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>It can also be used when panes do not appear as expected following an OmegaT upgrade.</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="Asus" changedate="20200618T040714Z" creationid="maximo" creationdate="20200412T142855Z">
@@ -16283,6 +16291,14 @@ itself on the first run.</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="lesia" changedate="20200324T174621Z" creationid="maximo" creationdate="20200322T161113Z">
         <seg>Mac OS X має сервіс Gatekeeper, що створює перешкоди для запуску незавірених програм.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Mac OS X users, note: use &lt;k0&gt; &lt;k1&gt;Shift&lt;/k1&gt; &lt;k2&gt;Ctrl&lt;/k2&gt; &lt;k3&gt;O&lt;/k3&gt; &lt;/k0&gt; shortcut and &lt;e4&gt;not &lt;/e4&gt;cmd+Ctrl+O.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="maximo" changedate="20200704T183242Z" creationid="maximo" creationdate="20200704T183242Z">
+        <seg>Для користувачів Mac OS X, зверніть увагу, що треба користуватися саме &lt;k0&gt; &lt;k1&gt;Shift&lt;/k1&gt; &lt;k2&gt;Ctrl&lt;/k2&gt; &lt;k3&gt;O&lt;/k3&gt; &lt;/k0&gt; а &lt;e4&gt;не&lt;/e4&gt; cmd+Ctrl+O.</seg>
       </tuv>
     </tu>
     <tu>
