@@ -2868,8 +2868,8 @@ The current setting is {0}MB;</seg>
       <tuv lang="EN">
         <seg>&lt;e0&gt;case sensitive&lt;/e0&gt;: the search will be performed for the exact string specified; i.e. capitalization is observed.</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="lesia" changedate="20200523T202853Z" creationid="lesia" creationdate="20200523T202853Z">
-        <seg>&lt;e0&gt;Враховувати регістр&lt;/e0&gt;: пошук точного рядка, як зазначено, тобто капіталізація букв враховується.</seg>
+      <tuv lang="UK-UA" changeid="fanja9" changedate="20200704T054812Z" creationid="lesia" creationdate="20200523T202853Z">
+        <seg>&lt;e0&gt;Враховувати регістр&lt;/e0&gt;: пошук повністю ідентичної стрічки, як зазначено, тобто капіталізація букв враховується.</seg>
       </tuv>
     </tu>
     <tu>
@@ -15439,8 +15439,8 @@ itself on the first run.</seg>
       <tuv lang="EN">
         <seg>Keyword searches are similar to a search "with all of the words" in an Internet search engine such as Google (AND logic).</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="lesia" changedate="20200523T202845Z" creationid="lesia" creationdate="20200523T202845Z">
-        <seg>Пошук за ключовими словами схожий на пошук "з усіма словами" в пошуковій системі, такій як Google (за принципом логічного оператора AND).</seg>
+      <tuv lang="UK-UA" changeid="fanja9" changedate="20200704T054602Z" creationid="lesia" creationdate="20200523T202845Z">
+        <seg>Пошук за ключовими словами схожий на пошук "за усіма словами" в пошуковій системі, такій як Google (за принципом логічного оператора AND).</seg>
       </tuv>
     </tu>
     <tu>
