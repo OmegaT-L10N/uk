@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.2.0_0_747fc65a" segtype="sentence" srclang="en"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.2.0_0_747fc65a9" segtype="sentence" srclang="en"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -14897,6 +14897,14 @@ click on that shortcut.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>It can be used separately for all three panes (Editor, Fuzzy Matches and Glossary) by clicking on the pane and toggling the display mode.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="maximo" changedate="20200704T182906Z" creationid="maximo" creationdate="20200704T182906Z">
+        <seg>Цю комбінацію можна використовувати у трьох областях: редагування, нечітких збігів та глосарія.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>It does not apply to the Web Start versions, which are upgraded automatically, nor to cross-platform versions installed on Windows.</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="lesia" changedate="20200701T202719Z" creationid="maximo" creationdate="20200419T070947Z">
@@ -26482,6 +26490,14 @@ instead.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The display mode of the translated documents must be modified within the application (such as Microsoft Word) commonly used to display or modify them (check the relevant manuals for details).</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="maximo" changedate="20200704T182650Z" creationid="maximo" creationdate="20200704T182650Z">
+        <seg>Його треба буде змінити за допомогою відповідної програми (наприклад, Microsoft Word).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The displayed text is split into segments and you may scroll through the document and double-click on any segment to open and edit it.</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="maximo" changedate="20200501T160930Z" creationid="maximo" creationdate="20200501T160930Z">
@@ -30899,6 +30915,14 @@ searchable without subscription:</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="lesia" changedate="20200322T214519Z" creationid="maximo" creationdate="20200322T154121Z">
         <seg>Користувачі, що мають досвід використання OmegaT, часто надають перевагу останній версії.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Using &lt;k2&gt; &lt;k3&gt;Shift&lt;/k3&gt; &lt;k4&gt;Ctrl&lt;/k4&gt; &lt;k5&gt;O&lt;/k5&gt; &lt;/k2&gt; causes both text input and display in &lt;a6&gt;OmegaT&lt;/a6&gt; to change.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="maximo" changedate="20200704T182735Z" creationid="maximo" creationdate="20200704T182735Z">
+        <seg>Використання &lt;k2&gt; &lt;k3&gt;Shift&lt;/k3&gt; &lt;k4&gt;Ctrl&lt;/k4&gt; &lt;k5&gt;O&lt;/k5&gt; &lt;/k2&gt; змінює і вигляд і систему введеня тексту в &lt;a6&gt;OmegaT&lt;/a6&gt;.</seg>
       </tuv>
     </tu>
     <tu>
