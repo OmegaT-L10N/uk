@@ -14175,6 +14175,14 @@ to use Java Web Start.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If you only need textual information (and not formatting information), use the level 1 file that OmegaT has created.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200705T075126Z" creationid="lesia" creationdate="20200705T075126Z">
+        <seg>Якщо вам потрібна лише текстова інформація (а не форматування), використовуйте файл 1-го рівня, який був створений в OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If you place such translation memory files in the &lt;c6&gt;/tm/&lt;/c6&gt; subfolder of a project, OmegaT will automatically search them for similar segments, called "fuzzy matches".</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20190823T145944Z" creationid="Kos Ivantsov" creationdate="20190823T145944Z">
