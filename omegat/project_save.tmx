@@ -18615,6 +18615,14 @@ as the Applications folder.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Note that only one TMX for a given language pair is possible, so if several translation memories should be involved, you will need to merge them all into the XX_YY.tmx.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="maximo" changedate="20200705T053456Z" creationid="maximo" creationdate="20200705T053456Z">
+        <seg>Зверніть увагу, що для кожної пари мов можна створити тільки одну таку памʼять перекладів, тому якщо у вас їх кілька, їх треба буде об'єднати в один файл XX_YY.tmx.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Note that only two files are modified by OmegaT during translation:</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="lesia" changedate="20200704T190403Z" creationid="lesia" creationdate="20200704T190403Z">
