@@ -19391,6 +19391,14 @@ as the Applications folder.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>OmegaT exports version 1.4 TMX files (both level 1 and level 2).</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200705T074250Z" creationid="lesia" creationdate="20200705T074242Z">
+        <seg>OmegaT експортує файли 1.4 TMX (як 1-го, так і 2-го рівня).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>OmegaT follows very strict procedures when loading translation memory (tmx) files.</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="lesia" changedate="20200705T073153Z" creationid="lesia" creationdate="20200705T073153Z">
@@ -27966,8 +27974,8 @@ xx or xxx is the language code and YY is the region or country code (optional).<
       <tuv lang="en">
         <seg>The level 2 export is not fully compliant with the level 2 standard, but is sufficiently close and will generate correct matches in other translation memory tools supporting TMX Level 2.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="lesia" changedate="20200705T054459Z" creationid="lesia" creationdate="20200705T054459Z">
-        <seg>The level 2 export is not fully compliant with the level 2 standard, but is sufficiently close and will generate correct matches in other translation memory tools supporting TMX Level 2.</seg>
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200705T074647Z" creationid="lesia" creationdate="20200705T054459Z">
+        <seg>Експорт рівня 2 не повністю співпадає зі стандартним експортом такого рівня, але достатньо близький, щоб згенерувати правильні метчі в інших САТ-інструментах, котрі підтримують TMX 2-го рівня.</seg>
       </tuv>
     </tu>
     <tu>
