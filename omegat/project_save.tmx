@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.2.0_0_747fc65a9" segtype="sentence" srclang="en"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.2.0_0_747fc65a" segtype="sentence" srclang="en"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -18679,6 +18679,14 @@ as the Applications folder.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Note that all the tmx files in the /tm repository are parsed when the project is opened, so putting all different TMs you may have on hand into this folder may unnecessarily slow OmegaT down.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200705T060350Z" creationid="lesia" creationdate="20200705T060350Z">
+        <seg>Зауважте, що всі файли tmx у теці /tm зчитуються програмою кожен раз, коли ви відкриваєте проєкт, тож не варто додавати до проєкту всі пам'яті перекладів, що у вас є - це уповільнить роботу OmegaT. Доцільно використовувати лише ті пам'яті, які справді допоможуть вам при перекладі.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Note that if you need or wish to use any of the launch command arguments (see above), you must use the normal installation.</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="maximo" changedate="20200420T195925Z" creationid="maximo" creationdate="20200420T195925Z">
@@ -32948,8 +32956,8 @@ of selecting, obtaining and installing it.</seg>
       <tuv lang="en">
         <seg>When you begin a new project on the same subject or for the same customer, navigate to the repository folder in the &lt;g0&gt;Project &gt; Properties &gt; Edit Project dialog&lt;/g0&gt; and select it as the translation memory folder.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="lesia" changedate="20200705T055242Z" creationid="lesia" creationdate="20200705T055242Z">
-        <seg>Починаючи новий проєкт для того ж замовника або з тієї ж тематики, оберіть теку репозиторію у &lt;g0&gt;Проєкт &gt; Властивості &gt; Edit Project dialog&lt;/g0&gt; and select it as the translation memory folder.</seg>
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200705T055834Z" creationid="lesia" creationdate="20200705T055242Z">
+        <seg>Починаючи новий проєкт для того ж замовника або з тієї ж тематики,  зайдіть у &lt;g0&gt;Проєкт &gt; Властивості&lt;/g0&gt; та оберіть у діалозі редагування властивостей проєкту цю теку репозиторію як теку для файлів памʼяті перекладів.</seg>
       </tuv>
     </tu>
     <tu>
@@ -34146,6 +34154,14 @@ window to be able to launch it from any location.</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="maximo" changedate="20200404T164900Z" creationid="maximo" creationdate="20200404T164900Z">
         <seg>Для зручності запуску можна перетягнути застосунок OmegaT в док або на панель Finder.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You may even consider removing those that are not required any more, once you have used their contents to fill up the &lt;f0&gt;project-save.tmx&lt;/f0&gt; file.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200705T060459Z" creationid="lesia" creationdate="20200705T060459Z">
+        <seg>Можливо, ви захочете навіть видалити ті з них, які більше не потрібні &lt;f0&gt;project-save.tmx&lt;/f0&gt; file.</seg>
       </tuv>
     </tu>
     <tu>
