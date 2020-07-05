@@ -29938,8 +29938,8 @@ the server.</seg>
       <tuv lang="EN">
         <seg>This means that if the source language is LTR and the target language is RTL, or vice versa, it may be necessary to toggle back and forth between RTL and LTR modes to view the source and enter the target easily in their respective modes.</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="maximo" changedate="20200704T185715Z" creationid="maximo" creationdate="20200704T185715Z">
-        <seg>Це означає, що коли мова оригіналу має систему письма зліва направо, а мова перекладу - справа наліво, чи навпаки, то доведеться постійно перемикатися між режимами ЛНП та ПНЛ, щоб і оригінал було зручно бачити, і переклад зручно писати.</seg>
+      <tuv lang="UK-UA" changeid="fanja9" changedate="20200705T102308Z" creationid="maximo" creationdate="20200704T185715Z">
+        <seg>Тобто якщо мова оригіналу має систему письма зліва направо, а мова перекладу - справа наліво, чи навпаки, вам доведеться постійно перемикатися між режимами справа наліво та зліва направо, щоб було зручно як переглядати оригінал, так і вводити переклад.</seg>
       </tuv>
     </tu>
     <tu>
