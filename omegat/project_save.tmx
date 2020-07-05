@@ -13210,6 +13210,14 @@ need not be entered.)</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If an error is found in such a file, OmegaT will indicate the position within the defective file at which the error is located.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200705T073238Z" creationid="lesia" creationdate="20200705T073238Z">
+        <seg>Якщо у такому файлі буде знайдено помилку, OmegaT вкаже місце, де була виявлена помилка.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If both this option and the &lt;l0&gt;&lt;g1&gt;Insert the source text&lt;/g1&gt;&lt;/l0&gt; option are selected, all words with a corresponding glossary entry will be translated automatically when the source text is inserted.</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="Asus" changedate="20200618T034217Z" creationid="maximo" creationdate="20200412T141325Z">
@@ -19375,6 +19383,14 @@ as the Applications folder.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>OmegaT follows very strict procedures when loading translation memory (tmx) files.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200705T073153Z" creationid="lesia" creationdate="20200705T073153Z">
+        <seg>Завантажуючи файли памʼяті перекладів (tmx), OmegaT слідує дуже чіткій процедурі.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>OmegaT for Beginners tutorial</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="lesia" changedate="20200324T164021Z" creationid="maximo" creationdate="20200322T113246Z">
@@ -25346,6 +25362,14 @@ The scope of a search is by default the project and can be set to be any files l
       </tuv>
       <tuv lang="uk-UA" changeid="lesia" changedate="20200702T135049Z" creationid="lesia" creationdate="20200702T091938Z">
         <seg>Деякі підтримувані фільтри: ILIAS Language File, Java(TM) Resource Bundles, Key=Value Text, Magento CE Locale CSV, MoodlePHP, Mozilla DTD, Mozilla FTL, PO, RC, SubRip Subtitles, Windows Resources</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Some tools are known to produce invalid tmx files under certain conditions.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200705T073349Z" creationid="lesia" creationdate="20200705T073349Z">
+        <seg>Відомо, що деякі САТ-інструменти за певних умов створюють несправні файли tmx.</seg>
       </tuv>
     </tu>
     <tu>
