@@ -27838,8 +27838,8 @@ instead.</seg>
       <tuv lang="en">
         <seg>The following recipe is just one of the possibilities, but simple enough to follow and without any dangers for the assets.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="maximo" changedate="20200705T055739Z" creationid="maximo" creationdate="20200705T055739Z">
-        <seg>Можна зробити це різними способами, але цей достатньо простий і не несе загрози втрати даних.</seg>
+      <tuv lang="uk-UA" changeid="maximo" changedate="20200705T094739Z" creationid="maximo" creationdate="20200705T055739Z">
+        <seg>Можна зробити це різними способами, але ось цей достатньо простий і не несе загрози втрати даних.</seg>
       </tuv>
     </tu>
     <tu>
@@ -28014,8 +28014,8 @@ xx or xxx is the language code and YY is the region or country code (optional).<
       <tuv lang="en">
         <seg>The level 2 export is not fully compliant with the level 2 standard, but is sufficiently close and will generate correct matches in other translation memory tools supporting TMX Level 2.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="lesia" changedate="20200705T074647Z" creationid="lesia" creationdate="20200705T054459Z">
-        <seg>Експорт рівня 2 не повністю співпадає зі стандартним експортом такого рівня, але достатньо близький, щоб згенерувати правильні метчі в інших САТ-інструментах, котрі підтримують TMX 2-го рівня.</seg>
+      <tuv lang="uk-UA" changeid="maximo" changedate="20200705T094722Z" creationid="lesia" creationdate="20200705T054459Z">
+        <seg>Експорт рівня 2 не повністю співпадає зі стандартним експортом такого рівня, але достатньо близький, щоб згенерувати правильні збіги в інших САТ-інструментах, котрі підтримують TMX 2-го рівня.</seg>
       </tuv>
     </tu>
     <tu>
