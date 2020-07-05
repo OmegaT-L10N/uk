@@ -2684,6 +2684,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;e0&gt;Important: &lt;/e0&gt;the supporting TMX must be renamed XX_YY.tmx, where XX_YY is the target language of the tmx, for instance to ZH_CN.tmx in the example above.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="maximo" changedate="20200705T053245Z" creationid="maximo" creationdate="20200705T053245Z">
+        <seg>&lt;e0&gt;Зверніть увагу:&lt;/e0&gt; перекладацьку пам'ять треба перейменувати в XX_YY.tmx, де XX_YY, це код мови перекладу. У попередньому прикладі ZH_CN.tmx.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;e0&gt;Install over the existing installation.&lt;/e0&gt; To do this, simply select the same installation folder as the existing installation when installing the new version.</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="maximo" changedate="20200419T071311Z" creationid="maximo" creationdate="20200419T071311Z">
@@ -28122,6 +28130,14 @@ in /lib/licenses/Licenses.txt.</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="maximo" changedate="20200412T071619Z" creationid="maximo" creationdate="20200412T071619Z">
         <seg>Програма показуватиме діалог підтвердження перед закриттям.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The project and TMX source languages should of course be identical - NL in our example.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="maximo" changedate="20200705T053348Z" creationid="maximo" creationdate="20200705T053348Z">
+        <seg>Мова оригіналу в проєкті та в TMX має бути однаковою. У прикладі - NL.</seg>
       </tuv>
     </tu>
     <tu>
