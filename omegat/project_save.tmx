@@ -4145,6 +4145,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Add patterns using wildcards (Apache Ant style): *, ?, **</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="maximo" changedate="20200705T093608Z" creationid="maximo" creationdate="20200705T093608Z">
+        <seg>Додайте паттерни, застосовуючи wildcards (стиль Apache Ant): *, ?, **.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Add patterns using wildcards (Apache Ant style): *, ?, **.</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="lesia" changedate="20200704T202916Z" creationid="lesia" creationdate="20200704T202916Z">
@@ -10739,6 +10747,22 @@ No one hears your screams</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Example: &lt;u0&gt;**/*.docx&lt;/u0&gt; to add all .docx files, wherever they are located in the project.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="maximo" changedate="20200705T093644Z" creationid="maximo" creationdate="20200705T093644Z">
+        <seg>Приклад: &lt;u0&gt;**/*.docx&lt;/u0&gt; додає всі файли .docx, де б вони не були розміщені у проєкті</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Example: &lt;u0&gt;**/.ini/**&lt;/u0&gt;</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="maximo" changedate="20200705T093619Z" creationid="maximo" creationdate="20200705T093619Z">
+        <seg>Наприклад: &lt;u0&gt;**/.ini/**&lt;/u0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Example: &lt;u0&gt;**/excludedfolder/**;*.txt&lt;/u0&gt; excludes files that have /excludedfolder/ in the path, and files with .txt extension.</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="lesia" changedate="20200704T203720Z" creationid="lesia" creationdate="20200704T203720Z">
@@ -15870,8 +15894,8 @@ click on that shortcut.</seg>
       <tuv lang="en">
         <seg>It should thus be carried out by a project manager, a project leader or a localisation engineer.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="lesia" changedate="20200704T182822Z" creationid="lesia" creationdate="20200704T182822Z">
-        <seg>Найкраще виконати його зможе керівник проєкту або інженер з локалізації.</seg>
+      <tuv lang="uk-UA" changeid="maximo" changedate="20200705T093800Z" creationid="lesia" creationdate="20200704T182822Z">
+        <seg>Найкраще виконати його зможе менеджер проєкту або інженер з локалізації.</seg>
       </tuv>
     </tu>
     <tu>
@@ -27917,6 +27941,14 @@ But others await</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="maximo" changedate="20200322T144955Z" creationid="maximo" creationdate="20200322T144955Z">
         <seg>JRE в пакеті 64-бітної версії.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The inclusion rules take priority over the exclusion rules.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="maximo" changedate="20200705T093743Z" creationid="maximo" creationdate="20200705T093743Z">
+        <seg>Правила включення мають пріорітет над правилами виключення.</seg>
       </tuv>
     </tu>
     <tu>
