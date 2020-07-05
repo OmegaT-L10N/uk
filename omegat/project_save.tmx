@@ -6091,8 +6091,8 @@ Buy another drink</seg>
       <tuv lang="EN">
         <seg>By default, left justification is used for Left-To-Right (LTR) languages and right justification for Right-To-Left (RTL) languages.</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="maximo" changedate="20200704T184522Z" creationid="maximo" creationdate="20200704T093539Z">
-        <seg>Без спеціальних налаштувань для мов з письмом зліва направо (ЛНП) використовується ліве вирівнювання, а для мов з письмом справа наліво (ПНЛ) - праве вирівнювання.</seg>
+      <tuv lang="UK-UA" changeid="fanja9" changedate="20200705T104251Z" creationid="maximo" creationdate="20200704T093539Z">
+        <seg>Без спеціальних налаштувань для мов з письмом зліва направо використовується ліве вирівнювання, а для мов з письмом справа наліво - праве вирівнювання.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11771,8 +11771,8 @@ provided (omegat.kaptn).</seg>
       <tuv lang="EN">
         <seg>For example, in OmegaT tags, product names that must be left in the LTR source language, place holders in localization files, and numbers in text.</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="maximo" changedate="20200704T184947Z" creationid="maximo" creationdate="20200704T184947Z">
-        <seg>Наприклад, теґи OmegaT, назви продуктів, які треба залишити у первісному вигляді, змінні в спеціалізованих файлах локалізації та числа.</seg>
+      <tuv lang="UK-UA" changeid="fanja9" changedate="20200705T104218Z" creationid="maximo" creationdate="20200704T184947Z">
+        <seg>Наприклад, якщо це теґи OmegaT, назви продуктів, які треба залишити у первісному вигляді, змінні в спеціалізованих файлах локалізації та числа.</seg>
       </tuv>
     </tu>
     <tu>
@@ -14619,8 +14619,8 @@ click on that shortcut.</seg>
       <tuv lang="EN">
         <seg>In cases like these it becomes necessary to switch to RTL mode, so that the RTL (in fact bidirectional) text is displayed correctly.</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="fanja9" changedate="20200705T101521Z" creationid="maximo" creationdate="20200704T185104Z">
-        <seg>У такому випадку доводиться перемикатися між двома типами вирівнювання, щоб такий двонаправлений текст відображався коректно.</seg>
+      <tuv lang="UK-UA" changeid="fanja9" changedate="20200705T104237Z" creationid="maximo" creationdate="20200704T185104Z">
+        <seg>У такому випадку доведеться перемикатися між двома типами вирівнювання, щоб такий двонаправлений текст відображався коректно.</seg>
       </tuv>
     </tu>
     <tu>
@@ -14651,8 +14651,8 @@ click on that shortcut.</seg>
       <tuv lang="EN">
         <seg>In many cases, however, it is necessary to embed LTR text in RTL text.</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="fanja9" changedate="20200705T101244Z" creationid="maximo" creationdate="20200704T184449Z">
-        <seg>Але частенько буває треба додати текст зліва направо до тексту справа на ліво.</seg>
+      <tuv lang="UK-UA" changeid="fanja9" changedate="20200705T104155Z" creationid="maximo" creationdate="20200704T184449Z">
+        <seg>Але частенько треба додати текст зліва направо до тексту справа наліво.</seg>
       </tuv>
     </tu>
     <tu>
@@ -27638,8 +27638,8 @@ instead.</seg>
       <tuv lang="EN">
         <seg>The display mode of the translated documents must be modified within the application (such as Microsoft Word) commonly used to display or modify them (check the relevant manuals for details).</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="fanja9" changedate="20200705T095213Z" creationid="maximo" creationdate="20200704T182650Z">
-        <seg>Його треба буде змінити за допомогою відповідної програми (наприклад, Microsoft Word). Див. посібник користувача до цієї програми для більш детальної інформації.</seg>
+      <tuv lang="UK-UA" changeid="fanja9" changedate="20200705T104110Z" creationid="maximo" creationdate="20200704T182650Z">
+        <seg>Їхній вигляд треба буде змінити за допомогою відповідної програми (наприклад, Microsoft Word). Див. посібник користувача до цієї програми для більш детальної інформації.</seg>
       </tuv>
     </tu>
     <tu>
@@ -32478,8 +32478,8 @@ searchable without subscription:</seg>
       <tuv lang="EN">
         <seg>Using the RTL mode in &lt;a0&gt;OmegaT&lt;/a0&gt; has no influence whatsoever on the display mode of the translated documents created in &lt;a1&gt;OmegaT&lt;/a1&gt;.</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="fanja9" changedate="20200705T095444Z" creationid="maximo" creationdate="20200704T182427Z">
-        <seg>Використання у &lt;a0&gt;OmegaT&lt;/a0&gt; режиму справа наліво не впливає на відоюраження перекладених документів, створених &lt;a1&gt;OmegaT&lt;/a1&gt;.</seg>
+      <tuv lang="UK-UA" changeid="fanja9" changedate="20200705T104031Z" creationid="maximo" creationdate="20200704T182427Z">
+        <seg>Використання у &lt;a0&gt;OmegaT&lt;/a0&gt; режиму справа наліво не впливає на відображення перекладених документів, створених &lt;a1&gt;OmegaT&lt;/a1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
