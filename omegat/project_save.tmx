@@ -14481,6 +14481,14 @@ click on that shortcut.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>In cases where a team of translators is involved, translators will prefer to share common translation memories rather than distribute their local versions.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="maximo" changedate="20200705T053810Z" creationid="maximo" creationdate="20200705T053639Z">
+        <seg>Для команди перекладачів може бути зручніше користуватися спільною памʼяттю перекладів, а не пересилати постійно локальні копії.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>In comments</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20190817T201807Z" creationid="Kos Ivantsov" creationdate="20190516T181613Z">
@@ -24816,6 +24824,14 @@ The scope of a search is by default the project and can be set to be any files l
       </tuv>
       <tuv lang="uk-UA" changeid="Asus" changedate="20200622T032811Z" creationid="maximo" creationdate="20200412T202404Z">
         <seg>Деякі фільтри файлів (для текстових файлів, XHTML, HTML, OpenDocument та Microsoft Open XML) мають свої окремі параметри.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Sharing translation memories</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="maximo" changedate="20200705T053650Z" creationid="maximo" creationdate="20200705T053627Z">
+        <seg>Спільна памʼять перекладів</seg>
       </tuv>
     </tu>
     <tu>
