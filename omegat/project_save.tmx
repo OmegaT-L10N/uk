@@ -11545,8 +11545,8 @@ Gossamer threads hold you back
       <tuv lang="EN">
         <seg>Follow the indications given in Hints for tags management.</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="fanja9" changedate="20200705T115010Z" creationid="maximo" creationdate="20200704T190308Z">
-        <seg>Дотримуйтесь таких рекомендацій по роботі з теґами.</seg>
+      <tuv lang="UK-UA" changeid="fanja9" changedate="20200705T115059Z" creationid="maximo" creationdate="20200704T190308Z">
+        <seg>Дотримуйтесь таких рекомендацій по роботі з теґами:</seg>
       </tuv>
     </tu>
     <tu>
@@ -12051,8 +12051,8 @@ provided (omegat.kaptn).</seg>
       <tuv lang="EN">
         <seg>Frequently validate tags (see Tag validation) and produce translated documents (see below and Menu) at regular intervals to make it easier to catch any problems that arise.</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="maximo" changedate="20200704T190644Z" creationid="maximo" creationdate="20200704T190351Z">
-        <seg>Частіше перевіряйте теґи (Інструменти &gt; Пошук помилок) та періодично генеруйте перекладені документи, щоб раніше помічати проблеми, якщо вони виникнуть.</seg>
+      <tuv lang="UK-UA" changeid="fanja9" changedate="20200705T115109Z" creationid="maximo" creationdate="20200704T190351Z">
+        <seg>частіше перевіряйте теґи (Інструменти &gt; Пошук помилок) та періодично генеруйте перекладені документи, щоб раніше помічати проблеми, якщо вони виникнуть.</seg>
       </tuv>
     </tu>
     <tu>
