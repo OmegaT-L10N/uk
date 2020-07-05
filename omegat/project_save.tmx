@@ -7773,6 +7773,14 @@ Buy another drink</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Copy the documents, you need the translation memory for, into the source folder of the project.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200705T054426Z" creationid="lesia" creationdate="20200705T054426Z">
+        <seg>Copy the documents, you need the translation memory for, into the source folder of the project.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Copy the folder to a suitable folder (e.g. Applications).</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="maximo" changedate="20200420T162748Z" creationid="maximo" creationdate="20200420T162748Z">
@@ -7785,6 +7793,14 @@ Buy another drink</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="maximo" changedate="20200425T143136Z" creationid="maximo" creationdate="20200425T143136Z">
         <seg>Скопіюйте текст і вставте перекладену версію на сторінку Вікіпедії.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Copy the translation memories, containing the translations of the documents above, into &lt;f0&gt;tm/auto&lt;/f0&gt; subfolder of the new project.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200705T054424Z" creationid="lesia" creationdate="20200705T054424Z">
+        <seg>Copy the translation memories, containing the translations of the documents above, into &lt;f0&gt;tm/auto&lt;/f0&gt; subfolder of the new project.</seg>
       </tuv>
     </tu>
     <tu>
@@ -36711,6 +36727,14 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="lesia" changedate="20200702T135326Z" creationid="lesia" creationdate="20200702T135326Z">
         <seg>test\.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>the TMX files in the main project folder (see above) now contain the translations in the selected language pair, for the files, you have copied into the source folder.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200705T054418Z" creationid="lesia" creationdate="20200705T054418Z">
+        <seg>the TMX files in the main project folder (see above) now contain the translations in the selected language pair, for the files, you have copied into the source folder.</seg>
       </tuv>
     </tu>
     <tu>
