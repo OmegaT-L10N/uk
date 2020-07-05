@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.2.0_0_747fc65a9" segtype="sentence" srclang="en"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.2.0_0_747fc65a" segtype="sentence" srclang="en"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -10693,8 +10693,8 @@ No one hears your screams</seg>
       <tuv lang="en">
         <seg>Every 3 minutes (by default), the local project is synchronised with the remote repository so that the project manager or other translators can see and use translations added during that period.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="maximo" changedate="20200704T202353Z" creationid="maximo" creationdate="20200704T202353Z">
-        <seg>Раз у 3 хвилини (за типових налаштувань) локальний проєкт синхронізується з віддаленим репозиторієм. Таким чином менеджер проєкту та інші перекладаі зможуть бачити та користуватися перекладами, що були додані за цей час.</seg>
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200705T093016Z" creationid="maximo" creationdate="20200704T202353Z">
+        <seg>Раз у 3 хвилини (за типових налаштувань) локальний проєкт синхронізується з віддаленим репозиторієм. Таким чином менеджер проєкту та інші перекладачі зможуть бачити та користуватися перекладами, що були додані за цей час.</seg>
       </tuv>
     </tu>
     <tu>
@@ -20014,8 +20014,8 @@ installed on your system.</seg>
       <tuv lang="en">
         <seg>Once the project has been opened, translation proceeds in the same way as for a non-team project, except the following points.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="maximo" changedate="20200704T202134Z" creationid="maximo" creationdate="20200704T202134Z">
-        <seg>Після відкриття, працюйте з проєктом як зі звичайним, некомандним проєктом, але зверніть увагу на такі моменти:</seg>
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200705T092957Z" creationid="maximo" creationdate="20200704T202134Z">
+        <seg>Після відкриття працюйте з командним проєктом так само, як зі звичайним, але зверніть увагу на такі моменти:</seg>
       </tuv>
     </tu>
     <tu>
