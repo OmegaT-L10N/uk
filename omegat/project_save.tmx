@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.2.0_0_747fc65a9" segtype="sentence" srclang="en"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.2.0_0_747fc65a" segtype="sentence" srclang="en"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -6099,8 +6099,8 @@ Buy another drink</seg>
       <tuv lang="en">
         <seg>By default, the /tm folder is below the project's root folder (e.g. ...&lt;e0&gt;/MyProject/tm&lt;/e0&gt;), but you can choose a different folder in the project properties dialog if you wish.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="lesia" changedate="20200705T053824Z" creationid="lesia" creationdate="20200705T053824Z">
-        <seg>Типово тека /tm розміщена на рівень нижче кореневої теки проєкту (наприклад ...&lt;e0&gt;/MyProject/tm&lt;/e0&gt;), однак за бажанням її можна розмістити в іншій теці у діалозі "Властивості проєкту".</seg>
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200705T053946Z" creationid="lesia" creationdate="20200705T053824Z">
+        <seg>Типово тека /tm розміщена на рівень нижче кореневої теки проєкту (наприклад ...&lt;e0&gt;/MyProject/tm&lt;/e0&gt;), однак за бажанням її можна розмістити в іншій теці у діалозі Властивості проєкту.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7953,6 +7953,14 @@ Buy another drink</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="lesia" changedate="20200322T162030Z" creationid="lesia" creationdate="20200322T162023Z">
         <seg>Створити файл TMX, що містить всі стрічки, у яких оригінал та переклад будуть ідентичними</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Create a folder (a "repository folder") in a convenient location on your hard drive for the translation memories for a particular customer or subject.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200705T054058Z" creationid="lesia" creationdate="20200705T054058Z">
+        <seg>Create a folder (a "repository folder") in a convenient location on your hard drive for the translation memories for a particular customer or subject.</seg>
       </tuv>
     </tu>
     <tu>
@@ -14773,6 +14781,14 @@ click on that shortcut.</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="lesia" changedate="20200702T200946Z" creationid="lesia" creationdate="20200425T154541Z">
         <seg>У документі перекладу на місці цього сегмента не буде нічого.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>In this case, a useful procedure would be:</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200705T054057Z" creationid="lesia" creationdate="20200705T054057Z">
+        <seg>У цьому випадку порядок дій має бути таким:</seg>
       </tuv>
     </tu>
     <tu>
@@ -29652,6 +29668,14 @@ the server.</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="maximo" changedate="20200416T211741Z" creationid="maximo" creationdate="20200416T211741Z">
         <seg>Це особливо корисно для текстів із великою кількістю торгових марок чи інших власних назв, які треба лишати як є.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This is useful if you frequently use translation memories produced in the past, for example because they are on the same subject or for the same customer.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200705T054211Z" creationid="lesia" creationdate="20200705T054034Z">
+        <seg>Це зручно, якщо ви часто використовуєте памʼяті перекладів з попередніх проєктів, наприклад, тому що вони мають ту ж тему.</seg>
       </tuv>
     </tu>
     <tu>
