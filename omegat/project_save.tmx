@@ -14923,8 +14923,8 @@ click on that shortcut.</seg>
       <tuv lang="en">
         <seg>In this case, the procedure is the same, but the project manager does not add files to the /source folder.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="lesia" changedate="20200704T194005Z" creationid="lesia" creationdate="20200704T194005Z">
-        <seg>У таком увипадку процедура створення проєкту буде така ж за вийнятком того, що менеджер проєкту не додаватиме файли до теки /source folder.</seg>
+      <tuv lang="uk-UA" changeid="maximo" changedate="20200705T093538Z" creationid="lesia" creationdate="20200704T194005Z">
+        <seg>У такому випадку процедура створення проєкту буде така ж за вийнятком того, що менеджер проєкту не додаватиме файли до теки source.</seg>
       </tuv>
     </tu>
     <tu>
@@ -27151,8 +27151,8 @@ current folder will be used instead.</seg>
       <tuv lang="en">
         <seg>The Project Manager should check with the translator that the statistics are identical on both sides (server side and translator side).</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="lesia" changedate="20200704T192741Z" creationid="lesia" creationdate="20200704T192741Z">
-        <seg>Менеджеру проєкту треба перевірити, що статистика на боці сервера та перекладача співпадає.</seg>
+      <tuv lang="uk-UA" changeid="maximo" changedate="20200705T093525Z" creationid="lesia" creationdate="20200704T192741Z">
+        <seg>Менеджер проєкту має перевірити, що статистика на боці сервера та перекладача співпадає.</seg>
       </tuv>
     </tu>
     <tu>
