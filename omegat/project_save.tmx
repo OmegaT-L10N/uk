@@ -12887,6 +12887,14 @@ Its winter has come</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>However, OmegaT does not fully support imported level 2 tmx files (these store not only the translation, but also the formatting).</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200705T061700Z" creationid="lesia" creationdate="20200705T061700Z">
+        <seg>However, OmegaT does not fully support imported level 2 tmx files (these store not only the translation, but also the formatting).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>However, if you made mistakes when you typed the formatting tags, your translated files might fail to open.</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20190822T153947Z" creationid="Kos Ivantsov" creationdate="20190822T153947Z">
@@ -29570,6 +29578,14 @@ the server.</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="lesia" changedate="20200322T144638Z" creationid="lesia" creationdate="20200322T144638Z">
         <seg>Це полегшує роботу з численними пропозиціями.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This enables the translation memories produced by other tools to be read by OmegaT.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200705T061721Z" creationid="lesia" creationdate="20200705T061657Z">
+        <seg>Це дозволяє OmegaT читати памʼяті перекладів, створені за допомогою інших САТ-інструментами.</seg>
       </tuv>
     </tu>
     <tu>
