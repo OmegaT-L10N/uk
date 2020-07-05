@@ -33740,6 +33740,14 @@ installation script (linux-install.sh).</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>You can regard these three tmx files (&lt;f2&gt;-omegat.tmx&lt;/f2&gt;, &lt;f3&gt;-level1.tmx&lt;/f3&gt; and &lt;f4&gt;-level2.tmx&lt;/f4&gt;) as an "export translation memory", i.e. as an export of your current project's content in bilingual form.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200705T050144Z" creationid="lesia" creationdate="20200705T050144Z">
+        <seg>Ці три файли tmx (&lt;f2&gt;-omegat.tmx&lt;/f2&gt;, &lt;f3&gt;-level1.tmx&lt;/f3&gt; та &lt;f4&gt;-level2.tmx&lt;/f4&gt;) можуть слугувати "експортом памʼяті перекладів", тобто експортом вашого поточного проєкту у двомовній формі.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>You can select a file with &lt;k1&gt;Up&lt;/k1&gt; and &lt;k2&gt;Down&lt;/k2&gt; keys, and open it for translation by pressing &lt;k3&gt;Enter&lt;/k3&gt;</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="maximo" changedate="20200622T135839Z" creationid="lesia" creationdate="20200429T202806Z">
