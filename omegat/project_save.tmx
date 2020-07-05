@@ -23245,8 +23245,8 @@ These words: 'Page not found'</seg>
       <tuv lang="en">
         <seg>Reuse Translation Memories</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="maximo" changedate="20200704T194727Z" creationid="maximo" creationdate="20200704T194702Z">
-        <seg>Використання існуючої памʼяті перекладів</seg>
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200705T075252Z" creationid="maximo" creationdate="20200704T194702Z">
+        <seg>Використання вже наявної памʼяті перекладів</seg>
       </tuv>
     </tu>
     <tu>
@@ -30638,8 +30638,8 @@ the server.</seg>
       <tuv lang="en">
         <seg>To speed up this process, existing translations can be reused.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="maximo" changedate="20200704T194911Z" creationid="maximo" creationdate="20200704T194911Z">
-        <seg>Щоб прискорити процес, можна скористатися існуючими перекладами.</seg>
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200705T075236Z" creationid="maximo" creationdate="20200704T194911Z">
+        <seg>Щоб прискорити процес, можна скористатися вже наявними перекладами.</seg>
       </tuv>
     </tu>
     <tu>
@@ -33060,8 +33060,8 @@ of selecting, obtaining and installing it.</seg>
       <tuv lang="en">
         <seg>When you create the target documents in an &lt;a0&gt;OmegaT&lt;/a0&gt; project, the translation memory of the project is output in the form of three files in the root folder of your &lt;a1&gt;OmegaT&lt;/a1&gt; project (see the above description).</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="maximo" changedate="20200704T195407Z" creationid="maximo" creationdate="20200704T195407Z">
-        <seg>Коли ви створюєте перекладені документи у проєкті &lt;a0&gt;OmegaT&lt;/a0&gt;, у головній теці проєкту &lt;a1&gt;OmegaT&lt;/a1&gt; також буде створено три файли експортованої памʼяті перекладів.</seg>
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200705T075432Z" creationid="maximo" creationdate="20200704T195407Z">
+        <seg>Коли ви створюєте перекладені документи у проєкті &lt;a0&gt;OmegaT&lt;/a0&gt;, у головній теці проєкту &lt;a1&gt;OmegaT&lt;/a1&gt; також буде створено три файли памʼяті перекладів для експорту.</seg>
       </tuv>
     </tu>
     <tu>
