@@ -36949,8 +36949,8 @@ create its configuration folder.</seg>
       <tuv lang="en">
         <seg>the TMX files in the main project folder (see above) now contain the translations in the selected language pair, for the files, you have copied into the source folder.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="maximo" changedate="20200705T060449Z" creationid="lesia" creationdate="20200705T054418Z">
-        <seg>В головній теці проєкту тепер будуть файли TMX з перекладом для потрібної мовної пари і лише для тих файлів, які ви скопіювали в підтеку source.</seg>
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200705T081934Z" creationid="lesia" creationdate="20200705T054418Z">
+        <seg>У головній теці проєкту тепер будуть файли TMX з перекладом для потрібної мовної пари і лише для тих файлів, які ви скопіювали в підтеку source.</seg>
       </tuv>
     </tu>
     <tu>
