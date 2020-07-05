@@ -2686,8 +2686,8 @@ The current setting is {0}MB;</seg>
       <tuv lang="en">
         <seg>&lt;e0&gt;Important: &lt;/e0&gt;the supporting TMX must be renamed XX_YY.tmx, where XX_YY is the target language of the tmx, for instance to ZH_CN.tmx in the example above.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="maximo" changedate="20200705T053245Z" creationid="maximo" creationdate="20200705T053245Z">
-        <seg>&lt;e0&gt;Зверніть увагу:&lt;/e0&gt; перекладацьку пам'ять треба перейменувати в XX_YY.tmx, де XX_YY, це код мови перекладу. У попередньому прикладі ZH_CN.tmx.</seg>
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200705T083124Z" creationid="maximo" creationdate="20200705T053245Z">
+        <seg>&lt;e0&gt;Зверніть увагу:&lt;/e0&gt; перекладацьку пам'ять треба перейменувати в XX_YY.tmx, де XX_YY - це код мови перекладу. У попередньому прикладі ZH_CN.tmx.</seg>
       </tuv>
     </tu>
     <tu>
