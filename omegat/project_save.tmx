@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.2.0_0_747fc65a9" segtype="sentence" srclang="en"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.2.0_0_747fc65a" segtype="sentence" srclang="en"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -4539,8 +4539,8 @@ The current setting is {0}MB;</seg>
       <tuv lang="en">
         <seg>All other files will be replaced by the files in the remote repository.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="maximo" changedate="20200704T202753Z" creationid="maximo" creationdate="20200704T202753Z">
-        <seg>Всі інші файли заміняються версіями з віддаленого репозиторія.</seg>
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200705T093609Z" creationid="maximo" creationdate="20200704T202753Z">
+        <seg>Всі інші файли замінюються версіями з віддаленого репозиторія.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4563,8 +4563,8 @@ The current setting is {0}MB;</seg>
       <tuv lang="en">
         <seg>All the changes will be synchronised the next time a connection is available.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="maximo" changedate="20200704T203416Z" creationid="maximo" creationdate="20200704T203416Z">
-        <seg>Всі зміни будуть синхронізовані як тільки з'єднання відновиться.</seg>
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200705T093755Z" creationid="maximo" creationdate="20200704T203416Z">
+        <seg>Всі зміни будуть синхронізовані, як тільки з'єднання відновиться.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9001,8 +9001,8 @@ Buy another drink</seg>
       <tuv lang="en">
         <seg>Disconnect from the network before opening the project,</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="maximo" changedate="20200704T203502Z" creationid="maximo" creationdate="20200704T203502Z">
-        <seg>Від'єднайтесь від мережі перед відкриттям проєкту,</seg>
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200705T093809Z" creationid="maximo" creationdate="20200704T203502Z">
+        <seg>Від'єднайтесь від мережі перед відкриттям проєкту</seg>
       </tuv>
     </tu>
     <tu>
@@ -10889,8 +10889,8 @@ Gossamer threads hold you back
       <tuv lang="en">
         <seg>Existing source files can be modified, but the commit operation must be carried out before an automatic save and before the project is reloaded or closed.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="maximo" changedate="20200704T203057Z" creationid="maximo" creationdate="20200704T202839Z">
-        <seg>Хоча локальні файли для перекладу можна вільно модифікувати, якщо не провести фіксацію до того, як проєкт автоматично збережеться, чи ви його перезавантажите чи закриєте, всі зміни втратяться.</seg>
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200705T093711Z" creationid="maximo" creationdate="20200704T202839Z">
+        <seg>Хоча локальні файли для перекладу можна вільно модифікувати, якщо не провести фіксацію до того, як проєкт збережеться автоматично чи ви його перезавантажите чи закриєте, всі зміни втратяться.</seg>
       </tuv>
     </tu>
     <tu>
