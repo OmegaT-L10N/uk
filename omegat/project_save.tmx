@@ -32898,6 +32898,14 @@ of selecting, obtaining and installing it.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>When you begin a new project on the same subject or for the same customer, navigate to the repository folder in the &lt;g0&gt;Project &gt; Properties &gt; Edit Project dialog&lt;/g0&gt; and select it as the translation memory folder.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200705T055242Z" creationid="lesia" creationdate="20200705T055242Z">
+        <seg>Починаючи новий проєкт для того ж замовника або з тієї ж тематики, оберіть теку репозиторію у &lt;g0&gt;Проєкт &gt; Властивості &gt; Edit Project dialog&lt;/g0&gt; and select it as the translation memory folder.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>When you create the target documents in an &lt;a0&gt;OmegaT&lt;/a0&gt; project, the translation memory of the project is output in the form of three files in the root folder of your &lt;a1&gt;OmegaT&lt;/a1&gt; project (see the above description).</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="maximo" changedate="20200704T195407Z" creationid="maximo" creationdate="20200704T195407Z">
