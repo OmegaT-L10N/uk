@@ -11593,8 +11593,8 @@ Gossamer threads hold you back
       <tuv lang="EN">
         <seg>For .docx files, a number of changes are however done automatically:</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="maximo" changedate="20200704T191308Z" creationid="maximo" creationdate="20200704T191308Z">
-        <seg>Але для файлів .docx files OmegaT робить такі автоматичні зміни:</seg>
+      <tuv lang="UK-UA" changeid="fanja9" changedate="20200705T120415Z" creationid="maximo" creationdate="20200704T191308Z">
+        <seg>Але для файлів формату .docx OmegaT робить такі автоматичні зміни:</seg>
       </tuv>
     </tu>
     <tu>
@@ -20869,8 +20869,8 @@ Vanishing like mist</seg>
       <tuv lang="EN">
         <seg>Paragraphs, sections and tables are set to bidi</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="maximo" changedate="20200704T191453Z" creationid="maximo" creationdate="20200704T191453Z">
-        <seg>Абзаци, розділи і таблички будуть мати змішаний напрямок письма</seg>
+      <tuv lang="UK-UA" changeid="fanja9" changedate="20200705T120512Z" creationid="maximo" creationdate="20200704T191453Z">
+        <seg>Абзаци, розділи і таблички мають змішаний напрямок письма</seg>
       </tuv>
     </tu>
     <tu>
@@ -23497,8 +23497,8 @@ These words: 'Page not found'</seg>
       <tuv lang="EN">
         <seg>Runs (text elements) are set to RTL</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="maximo" changedate="20200704T191528Z" creationid="maximo" creationdate="20200704T191528Z">
-        <seg>Текстові елементи будуть мати напрямок справа наліво</seg>
+      <tuv lang="UK-UA" changeid="fanja9" changedate="20200705T120536Z" creationid="maximo" creationdate="20200704T191528Z">
+        <seg>Текстові елементи вводяться справа наліво</seg>
       </tuv>
     </tu>
     <tu>
@@ -30311,6 +30311,7 @@ the server.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>схитрувати тут в тему)</note>
       <tuv lang="EN">
         <seg>To avoid changing the target files display parameters each time the files are opened, it may be possible to change the source file display parameters such that such parameters are inherited by the target files.</seg>
       </tuv>
