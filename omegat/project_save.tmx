@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.2.0_0_747fc65a" segtype="sentence" srclang="en"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.2.0_0_747fc65a9" segtype="sentence" srclang="en"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -14457,6 +14457,14 @@ click on that shortcut.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>In case of OmegaT complete project folders - in other words the translation memories involved as well as source folders, project settings etc - are managed by the selected RCS.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="maximo" changedate="20200705T054137Z" creationid="maximo" creationdate="20200705T054137Z">
+        <seg>OmegaT використовує їх для контролю всіх файлів у теці проєкту: як файлів памʼяті перекладів, так і файлів оригіналу чи налаштувань проєкту.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>In case the file name has ambivalent name, one can apply variables of the form &lt;l0&gt;${name only&lt;/l0&gt;&lt;e1&gt;-extension number&lt;/e1&gt;} and &lt;l2&gt;${extension&lt;/l2&gt;-&lt;e3&gt;extension number} &lt;/e3&gt;.</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="Asus" changedate="20200623T041640Z" creationid="maximo" creationdate="20200413T192354Z">
@@ -19355,6 +19363,14 @@ as the Applications folder.</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="maximo" changedate="20200416T212805Z" creationid="maximo" creationdate="20200416T212805Z">
         <seg>OmegaT буде вставляти переклад найбільш схожого сегмента, якщо рівень його схожості до поточного більший за певну межу.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>OmegaT interfaces to SVN and Git, two common team software versioning and revision control systems (RCS), available under an open source license.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="maximo" changedate="20200705T053925Z" creationid="maximo" creationdate="20200705T053925Z">
+        <seg>У OmegaT є опенсорсні інтерфейси до двох популярних систем керування версіями: SVN та Git.</seg>
       </tuv>
     </tu>
     <tu>
