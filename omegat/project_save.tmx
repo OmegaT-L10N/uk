@@ -28817,6 +28817,14 @@ in /lib/licenses/Licenses.txt.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Then you need a translation in e.g. Chinese, but your translator does not understand Dutch; she, however, understands perfectly English.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="maximo" changedate="20200705T052233Z" creationid="maximo" creationdate="20200705T052036Z">
+        <seg>а вам потрібен ще переклад китайською мовою. А перекладач не розуміє голандську, зате прекрасно знає англійську.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Then, after selecting a suitable menu, add a submenu/item with &lt;e0&gt;File - New&lt;/e0&gt; Submenu and &lt;e1&gt;File - New Item&lt;/e1&gt;.</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="maximo" changedate="20200419T102326Z" creationid="maximo" creationdate="20200419T102310Z">
@@ -28913,6 +28921,14 @@ in /lib/licenses/Licenses.txt.</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="lesia" changedate="20200324T174652Z" creationid="maximo" creationdate="20200322T161515Z">
         <seg>Завірені версії можуть виходити із затримкою.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>There may be cases where you have done a project with e.g. Dutch sources, and a translation in say English.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="maximo" changedate="20200705T052051Z" creationid="maximo" creationdate="20200705T052026Z">
+        <seg>Може бути так, що у вас є переклад проєкту з голандської на англійську,</seg>
       </tuv>
     </tu>
     <tu>
