@@ -24852,6 +24852,14 @@ The scope of a search is by default the project and can be set to be any files l
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Should you wish to reuse a translation memory from a previous project (for example because the new project is similar to the previous project, or uses terminology which might have been used before), you can use these translation memories as "input translation memories", i.e. for import into your new project.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200705T050644Z" creationid="lesia" creationdate="20200705T050644Z">
+        <seg>Якщо ви захочете скористатися вашою памʼяттю перекладів з попереднього проєкту (наприклад, у випадку, якщо новий проєкт схожий за змістом до попереднього або ж використовує ту ж термінологію), ви можете використати ці файли як "імпортовану памʼять перекладів", тобто, додати їх до вашого нового проєкту.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Show &amp;longer target terms first</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20190820T105727Z" creationid="Kos Ivantsov" creationdate="20190819T194603Z">
