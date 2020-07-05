@@ -11463,6 +11463,14 @@ Gossamer threads hold you back
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Fixes are trivial operations and OmegaT assists troubleshooting with the related error message.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200705T074052Z" creationid="lesia" creationdate="20200705T074052Z">
+        <seg>Зазвичай виправлення таких помилок - це нескладні операції, і OmegaT допомагає в цьому, індикуючи тип помилки.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Flash XML Export</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20190706T131514Z" creationid="Kos Ivantsov" creationdate="20190706T131514Z">
