@@ -28441,6 +28441,14 @@ in /lib/licenses/Licenses.txt.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The solution in our example is to copy the existing translation memory into the tm/tmx2source/ subfolder and rename it to ZH_CN.tmx to indicate the target language of the tmx.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="maximo" changedate="20200705T052923Z" creationid="maximo" creationdate="20200705T052923Z">
+        <seg>Цього можна досягнути, якщо скопіювати існуючу памʼять перекладів у підтеку tm/tmx2source/ та перейменувати її в ZH_CN.tmx, що визначає її мову перекладу.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The source and target encoding fields use drop-down menus containing all the supported encodings.</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="maximo" changedate="20200413T185408Z" creationid="maximo" creationdate="20200413T185408Z">
@@ -28701,6 +28709,14 @@ in /lib/licenses/Licenses.txt.</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="maximo" changedate="20200702T160519Z" creationid="Kos Ivantsov" creationdate="20190807T151124Z">
         <seg>Перекладач може додати зауваження та нотатки до поточного сегмента. Наприклад, щоб згодом повернутися до сегмента та переробити переклад, або перевірити, чи правильно було підібрано варіант перекладу, або запитати думку колег.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The translator will be shown English translations for source segments in Dutch and use them to create the Chinese translation.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="maximo" changedate="20200705T053056Z" creationid="maximo" creationdate="20200705T053056Z">
+        <seg>Таким чином перекладачу для оригінальних сегментів голандською будуть показуватись англійські переклади, і він зможе використати їх для створення китайського перекладу.</seg>
       </tuv>
     </tu>
     <tu>
