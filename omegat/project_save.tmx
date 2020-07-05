@@ -6633,6 +6633,14 @@ Buy another drink</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Check for possible Tag errors with &lt;k0&gt;Ctrl+T &lt;/k0&gt;and untranslated segments with &lt;k1&gt;Ctrl+U&lt;/k1&gt;.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="maximo" changedate="20200705T060201Z" creationid="maximo" creationdate="20200705T060201Z">
+        <seg>Перевірте його на помилки теґів &lt;k0&gt;Ctrl+T&lt;/k0&gt; та неперекладені сегменти &lt;k1&gt;Ctrl+U&lt;/k1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Check for segments with spelling errors</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20190822T221130Z" creationid="Kos Ivantsov" creationdate="20190822T221130Z">
@@ -7775,8 +7783,8 @@ Buy another drink</seg>
       <tuv lang="en">
         <seg>Copy the documents, you need the translation memory for, into the source folder of the project.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="lesia" changedate="20200705T054426Z" creationid="lesia" creationdate="20200705T054426Z">
-        <seg>Copy the documents, you need the translation memory for, into the source folder of the project.</seg>
+      <tuv lang="uk-UA" changeid="maximo" changedate="20200705T060009Z" creationid="lesia" creationdate="20200705T054426Z">
+        <seg>Скопіюйте потрібні документи в підтеку source.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7799,8 +7807,8 @@ Buy another drink</seg>
       <tuv lang="en">
         <seg>Copy the translation memories, containing the translations of the documents above, into &lt;f0&gt;tm/auto&lt;/f0&gt; subfolder of the new project.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="lesia" changedate="20200705T054424Z" creationid="lesia" creationdate="20200705T054424Z">
-        <seg>Copy the translation memories, containing the translations of the documents above, into &lt;f0&gt;tm/auto&lt;/f0&gt; subfolder of the new project.</seg>
+      <tuv lang="uk-UA" changeid="maximo" changedate="20200705T060110Z" creationid="lesia" creationdate="20200705T054424Z">
+        <seg>Скопіюйте памʼять перекладів, що містить потрібні переклади у підтеку &lt;f0&gt;tm/auto&lt;/f0&gt; нового проєкту.</seg>
       </tuv>
     </tu>
     <tu>
@@ -25809,6 +25817,14 @@ The scope of a search is by default the project and can be set to be any files l
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Start the project.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="maximo" changedate="20200705T060125Z" creationid="maximo" creationdate="20200705T060125Z">
+        <seg>Відкрийте проєкт.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Starting OmegaT from the command line</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="maximo" changedate="20200420T195935Z" creationid="maximo" creationdate="20200420T195935Z">
@@ -30206,6 +30222,14 @@ the server.</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="maximo" changedate="20200420T164604Z" creationid="maximo" creationdate="20200420T164604Z">
         <seg>Щоб змінити кількість доступної памʼяті, відредагуйте файл &lt;e0&gt;OmegaT.app/Contents/Info.plist&lt;/e0&gt; та розкоментуйте рядок &lt;l1&gt;&lt;!-- &lt;string&gt;-Xmx6g&lt;/string&gt; --&gt;&lt;/l1&gt; - заберіть &lt;l2&gt;&lt;!--&lt;/l2&gt; та &lt;l3&gt;--&gt;&lt;/l3&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To check everything is as expected, you may press &lt;k2&gt;Ctrl+D&lt;/k2&gt; to create the target documents and check their contents.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="maximo" changedate="20200705T060248Z" creationid="maximo" creationdate="20200705T060248Z">
+        <seg>Щоб ще раз перевірити, що все добре, згенеруйте перекладені документи &lt;k2&gt;Ctrl+D&lt;/k2&gt;, та перевірте їх.</seg>
       </tuv>
     </tu>
     <tu>
