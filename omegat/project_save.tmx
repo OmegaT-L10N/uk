@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.2.0_0_747fc65a" segtype="sentence" srclang="en"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.2.0_0_747fc65a9" segtype="sentence" srclang="en"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -32075,6 +32075,14 @@ searchable without subscription:</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Using TMX with alternative language</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="maximo" changedate="20200705T051747Z" creationid="maximo" creationdate="20200705T051747Z">
+        <seg>Використання TMX з альтернативною мовою</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Using a different language checker on your local machine than the one supplied with OmegaT gives you the option of personalising the verification rules.</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="maximo" changedate="20200416T210751Z" creationid="maximo" creationdate="20200416T210751Z">
@@ -36407,6 +36415,14 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="Asus" changedate="20200614T042338Z" creationid="maximo" creationdate="20200412T053455Z">
         <seg>пошук цілого слова “is”, але не “this” чи “isn't” тощо.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>see more in Chapter</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="maximo" changedate="20200705T051716Z" creationid="maximo" creationdate="20200705T051716Z">
+        <seg>див. розділ</seg>
       </tuv>
     </tu>
     <tu>
