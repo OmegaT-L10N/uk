@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.2.0_0_747fc65a" segtype="sentence" srclang="en"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.2.0_0_747fc65a9" segtype="sentence" srclang="en"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -8093,6 +8093,14 @@ Buy another drink</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Creating a translation memory for selected documents</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="maximo" changedate="20200705T055359Z" creationid="maximo" creationdate="20200705T055359Z">
+        <seg>Створення памʼяті перекладів для окремих документів</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Creating an empty project on a server</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="lesia" changedate="20200704T183638Z" creationid="lesia" creationdate="20200704T183638Z">
@@ -14515,8 +14523,8 @@ click on that shortcut.</seg>
       <tuv lang="en">
         <seg>In case translators need to share their TMX bases while excluding some of their parts or including just translations of certain files, sharing the complete &lt;f0&gt;ProjectName-omegat.tmx&lt;/f0&gt; is out of question.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="lesia" changedate="20200705T054504Z" creationid="lesia" creationdate="20200705T054504Z">
-        <seg>In case translators need to share their TMX bases while excluding some of their parts or including just translations of certain files, sharing the complete &lt;f0&gt;ProjectName-omegat.tmx&lt;/f0&gt; is out of question.</seg>
+      <tuv lang="uk-UA" changeid="maximo" changedate="20200705T055603Z" creationid="lesia" creationdate="20200705T054504Z">
+        <seg>Якщо перекладачам треба обмінюватися TMX, але тільки для певних файлів, то звичний шлях через &lt;f0&gt;ProjectName-omegat.tmx&lt;/f0&gt; не спрацює.</seg>
       </tuv>
     </tu>
     <tu>
@@ -27688,6 +27696,14 @@ instead.</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20190805T104136Z" creationid="Kos Ivantsov" creationdate="20190805T104136Z">
         <seg>Наступні параметри ігноруються, якщо вибрано пункт «Сумісність з OmegaT 2.6»</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The following recipe is just one of the possibilities, but simple enough to follow and without any dangers for the assets.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="maximo" changedate="20200705T055739Z" creationid="maximo" creationdate="20200705T055739Z">
+        <seg>Можна зробити це різними способами, але цей достатньо простий і не несе загрози втрати даних.</seg>
       </tuv>
     </tu>
     <tu>
