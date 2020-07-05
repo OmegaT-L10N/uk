@@ -12889,8 +12889,8 @@ Its winter has come</seg>
       <tuv lang="en">
         <seg>However, OmegaT does not fully support imported level 2 tmx files (these store not only the translation, but also the formatting).</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="lesia" changedate="20200705T061700Z" creationid="lesia" creationdate="20200705T061700Z">
-        <seg>However, OmegaT does not fully support imported level 2 tmx files (these store not only the translation, but also the formatting).</seg>
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200705T062012Z" creationid="lesia" creationdate="20200705T061700Z">
+        <seg>Однак, OmegaT не має повної підтримки tmx файлів 2-го рівня (які зберігають не лише переклад, а й форматування).</seg>
       </tuv>
     </tu>
     <tu>
@@ -16663,6 +16663,14 @@ itself on the first run.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Level 2 tmx files will still be imported and their textual content can be seen in OmegaT, but the quality of fuzzy matches will be somewhat lower.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200705T062208Z" creationid="lesia" creationdate="20200705T062208Z">
+        <seg>Tmx файли 2-го рівня будуть імпортовані, і їх текстове наповлення буде відображуватись в OmegaT, однак, якість нечітких збігів буде дещо нижчою.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Level 2:</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20190516T205832Z" creationid="Kos Ivantsov" creationdate="20190516T205832Z">
@@ -19683,8 +19691,8 @@ installed on your system.</seg>
       <tuv lang="en">
         <seg>OmegaT supports imported tmx versions 1.1-1.4b (both level 1 and level 2).</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="lesia" changedate="20200705T060847Z" creationid="lesia" creationdate="20200705T060847Z">
-        <seg>OmegaT підтримує імпортовані версії tmx 1.1-1.4b (як level 1, так і level 2).</seg>
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200705T061918Z" creationid="lesia" creationdate="20200705T060847Z">
+        <seg>OmegaT підтримує імпортовані версії tmx 1.1-1.4b (як 1-го, так і 2-го рівня).</seg>
       </tuv>
     </tu>
     <tu>
@@ -29584,8 +29592,8 @@ the server.</seg>
       <tuv lang="en">
         <seg>This enables the translation memories produced by other tools to be read by OmegaT.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="lesia" changedate="20200705T061721Z" creationid="lesia" creationdate="20200705T061657Z">
-        <seg>Це дозволяє OmegaT читати памʼяті перекладів, створені за допомогою інших САТ-інструментами.</seg>
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200705T061726Z" creationid="lesia" creationdate="20200705T061657Z">
+        <seg>Це дозволяє OmegaT читати памʼяті перекладів, створені за допомогою інших САТ-інструментів.</seg>
       </tuv>
     </tu>
     <tu>
