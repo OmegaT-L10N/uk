@@ -14761,6 +14761,14 @@ click on that shortcut.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>In this case, the NL-EN translation memory can serve as a go-between to help generate NL to ZH translation.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="maximo" changedate="20200705T052722Z" creationid="maximo" creationdate="20200705T052722Z">
+        <seg>У цьому випадку перекладацька пам'ять NL-EN може послужити проміжним засобом для створення перекладу NL-ZH.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>In this case, the procedure is the same, but the project manager does not add files to the /source folder.</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="lesia" changedate="20200704T194005Z" creationid="lesia" creationdate="20200704T194005Z">
