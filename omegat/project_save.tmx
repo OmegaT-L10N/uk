@@ -7975,8 +7975,8 @@ Buy another drink</seg>
       <tuv lang="en">
         <seg>Create a folder (a "repository folder") in a convenient location on your hard drive for the translation memories for a particular customer or subject.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="lesia" changedate="20200705T054058Z" creationid="lesia" creationdate="20200705T054058Z">
-        <seg>Create a folder (a "repository folder") in a convenient location on your hard drive for the translation memories for a particular customer or subject.</seg>
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200705T054916Z" creationid="lesia" creationdate="20200705T054058Z">
+        <seg>Створіть теку ("тека репозиторію") у зручному місці вашого жорсткого диску. У ній ви можете розміщувати памʼяті перекладів певного замовника чи певної тематики.</seg>
       </tuv>
     </tu>
     <tu>
@@ -14231,6 +14231,14 @@ to use Java Web Start.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If you wish to use such files as reference translations in OmegaT, they must be repaired, or OmegaT will report an error and fail to load them.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200705T054457Z" creationid="lesia" creationdate="20200705T054457Z">
+        <seg>If you wish to use such files as reference translations in OmegaT, they must be repaired, or OmegaT will report an error and fail to load them.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If you're a programmer and you happen to know Java, please check the documentation in the &lt;a0&gt;source code&lt;/a0&gt; under /docs_devel for information on how to get started.</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="lesia" changedate="20200323T223236Z" creationid="maximo" creationdate="20200322T180933Z">
@@ -14501,6 +14509,14 @@ click on that shortcut.</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="lesia" changedate="20200412T202228Z" creationid="lesia" creationdate="20200412T202228Z">
         <seg>Якщо у файлах оригіналу є сегменти, котрі повторюються, перекладач може вирішити, як йому зручніше працювати з ними. Перший варіант: якщо прапорець на функції "Автоматичне заповнення" виставлено, перший переклад сегменту, який у подільшому повторюється, буде вважатися правильним для всіх подальших ідентичних цьому сегментів і автоматично буде підставлений всюди в поле цільового тексту. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>In case translators need to share their TMX bases while excluding some of their parts or including just translations of certain files, sharing the complete &lt;f0&gt;ProjectName-omegat.tmx&lt;/f0&gt; is out of question.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200705T054504Z" creationid="lesia" creationdate="20200705T054504Z">
+        <seg>In case translators need to share their TMX bases while excluding some of their parts or including just translations of certain files, sharing the complete &lt;f0&gt;ProjectName-omegat.tmx&lt;/f0&gt; is out of question.</seg>
       </tuv>
     </tu>
     <tu>
@@ -27836,6 +27852,14 @@ xx or xxx is the language code and YY is the region or country code (optional).<
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The level 2 export is not fully compliant with the level 2 standard, but is sufficiently close and will generate correct matches in other translation memory tools supporting TMX Level 2.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200705T054459Z" creationid="lesia" creationdate="20200705T054459Z">
+        <seg>The level 2 export is not fully compliant with the level 2 standard, but is sufficiently close and will generate correct matches in other translation memory tools supporting TMX Level 2.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The license of each library is mentioned in
 /lib/licenses/Licenses.txt.</seg>
       </tuv>
@@ -32934,6 +32958,14 @@ of selecting, obtaining and installing it.</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="maximo" changedate="20200704T202718Z" creationid="maximo" creationdate="20200704T202658Z">
         <seg>Щоразу як проєкт автоматично зберігається, а також коли він відкривається, закривається чи перезавантажується, тільки два файла справді синхронізуються в обидві сторони:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Whenever you finish a project, copy one of the three "export" translation memory files from the root folder of the project to the repository folder.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200705T054621Z" creationid="lesia" creationdate="20200705T054621Z">
+        <seg>Whenever you finish a project, copy one of the three "export" translation memory files from the root folder of the project to the repository folder.</seg>
       </tuv>
     </tu>
     <tu>
