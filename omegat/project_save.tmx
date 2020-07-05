@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.2.0_0_747fc65a9" segtype="sentence" srclang="en"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.2.0_0_747fc65a" segtype="sentence" srclang="en"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -6093,6 +6093,14 @@ Buy another drink</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="maximo" changedate="20200701T150658Z" creationid="lesia" creationdate="20200503T060218Z">
         <seg>Типово скрипти зберігаються у теці &lt;f0&gt;scripts&lt;/f0&gt;, розміщеній у теці програми OmegaT (там де лежить &lt;f1&gt;OmegaT.jar&lt;/f1&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>By default, the /tm folder is below the project's root folder (e.g. ...&lt;e0&gt;/MyProject/tm&lt;/e0&gt;), but you can choose a different folder in the project properties dialog if you wish.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200705T053824Z" creationid="lesia" creationdate="20200705T053824Z">
+        <seg>Типово тека /tm розміщена на рівень нижче кореневої теки проєкту (наприклад ...&lt;e0&gt;/MyProject/tm&lt;/e0&gt;), однак за бажанням її можна розмістити в іншій теці у діалозі "Властивості проєкту".</seg>
       </tuv>
     </tu>
     <tu>
@@ -14773,6 +14781,14 @@ click on that shortcut.</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="maximo" changedate="20200419T072019Z" creationid="maximo" creationdate="20200419T072019Z">
         <seg>Але в той же час:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>In this case, place the translation memories you wish to use in the &lt;e0&gt;/tm&lt;/e0&gt; or &lt;e1&gt;/tm&lt;/e1&gt;/auto folder of your new project: in the former case you will get hits from these translation memories in the fuzzy matches viewer, and in the latter case these TMs will be used to pre-translate your source text.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200705T053938Z" creationid="lesia" creationdate="20200705T053046Z">
+        <seg>У цьому випадку розмістіть памʼяті перекладів, яку ви хочете використати, у теці &lt;e0&gt;/tm&lt;/e0&gt; або &lt;e1&gt;/tm&lt;/e1&gt;/auto вашого нового проєкту: у першому випадку ви отримуватимете підказки з ваших памʼятей перекладів у вікні Нечіткі збіги, у другому - збіги будуть автоматично вставлятися із памʼятей перекладів у відповідні сегменти в області редагування.</seg>
       </tuv>
     </tu>
     <tu>
