@@ -30216,6 +30216,14 @@ the server.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>To avoid reusing the project and thus possibly polluting future cases, delete the project folder or archive it away from your workplace.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="maximo" changedate="20200705T060628Z" creationid="maximo" creationdate="20200705T060628Z">
+        <seg>Видаліть цей допоміжний проєкт.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>To be sure that no translation will be lost, you need to:
 1.</seg>
       </tuv>
