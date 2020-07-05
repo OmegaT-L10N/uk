@@ -9869,8 +9869,8 @@ project_save.tmx не був переданий на віддалений сер
       <tuv lang="EN">
         <seg>Each output format has specific ways of dealing with RTL display; check the relevant application manuals for details.</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="maximo" changedate="20200704T191223Z" creationid="maximo" creationdate="20200704T191223Z">
-        <seg>Кожен з форматів має свої засоби роботи з напрямком письма, див. довідкові матеріали відповідних програм.</seg>
+      <tuv lang="UK-UA" changeid="fanja9" changedate="20200705T120352Z" creationid="maximo" creationdate="20200704T191223Z">
+        <seg>Кожен з форматів має свої засоби роботи з напрямком письма. Див. посібники користувача до відповідних програм для більш детальної інформації.</seg>
       </tuv>
     </tu>
     <tu>
