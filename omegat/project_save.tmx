@@ -7997,6 +7997,14 @@ Buy another drink</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Create a project, separate for other projects, in the desired language pair, with an appropriate name - note that the TMXs created will include this name.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="maximo" changedate="20200705T055917Z" creationid="maximo" creationdate="20200705T055917Z">
+        <seg>Створіть новий проєкт для потрібної пари мов. Назвіть його відповідно до мети (зверніть увагу, що TMX буде містити ім'я проєкту).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Create an SVN or Git repository on a server that will be accessible by the translators.</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="lesia" changedate="20200704T183826Z" creationid="lesia" creationdate="20200704T183612Z">
@@ -14523,8 +14531,8 @@ click on that shortcut.</seg>
       <tuv lang="en">
         <seg>In case translators need to share their TMX bases while excluding some of their parts or including just translations of certain files, sharing the complete &lt;f0&gt;ProjectName-omegat.tmx&lt;/f0&gt; is out of question.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="maximo" changedate="20200705T055603Z" creationid="lesia" creationdate="20200705T054504Z">
-        <seg>Якщо перекладачам треба обмінюватися TMX, але тільки для певних файлів, то звичний шлях через &lt;f0&gt;ProjectName-omegat.tmx&lt;/f0&gt; не спрацює.</seg>
+      <tuv lang="uk-UA" changeid="maximo" changedate="20200705T055937Z" creationid="lesia" creationdate="20200705T054504Z">
+        <seg>Якщо перекладачам треба обмінюватися TMX, але тільки для певних файлів, то звичний шлях через &lt;f0&gt;Ім'яПроєкту-omegat.tmx&lt;/f0&gt; не спрацює.</seg>
       </tuv>
     </tu>
     <tu>
