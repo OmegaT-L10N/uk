@@ -2395,8 +2395,8 @@ The current setting is {0}MB;</seg>
       <tuv lang="EN">
         <seg>&lt;a0&gt;OmegaT&lt;/a0&gt; tags in RTL segments</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="fanja9" changedate="20200705T102348Z" creationid="maximo" creationdate="20200704T185740Z">
-        <seg>Теґи &lt;a0&gt;OmegaT&lt;/a0&gt; у сегментах справа наліво</seg>
+      <tuv lang="UK-UA" changeid="fanja9" changedate="20200705T104814Z" creationid="maximo" creationdate="20200704T185740Z">
+        <seg>Теґи &lt;a0&gt;OmegaT&lt;/a0&gt; у сегментах, написаних справа наліво</seg>
       </tuv>
     </tu>
     <tu>
@@ -11545,8 +11545,8 @@ Gossamer threads hold you back
       <tuv lang="EN">
         <seg>Follow the indications given in Hints for tags management.</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="maximo" changedate="20200704T190308Z" creationid="maximo" creationdate="20200704T190308Z">
-        <seg>Обов'язково слідуйте порадам по роботі з теґами.</seg>
+      <tuv lang="UK-UA" changeid="fanja9" changedate="20200705T111945Z" creationid="maximo" creationdate="20200704T190308Z">
+        <seg>Дотримуйтесь вказівок по роботі з теґами.</seg>
       </tuv>
     </tu>
     <tu>
