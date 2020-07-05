@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.2.0_0_747fc65a9" segtype="sentence" srclang="en"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.2.0_0_747fc65a" segtype="sentence" srclang="en"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -2371,8 +2371,8 @@ The current setting is {0}MB;</seg>
       <tuv lang="en">
         <seg>&lt;a0&gt;OmegaT&lt;/a0&gt; is a robust application.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="maximo" changedate="20200704T192328Z" creationid="maximo" creationdate="20200704T192328Z">
-        <seg>&lt;a0&gt;OmegaT&lt;/a0&gt; надійна програма.</seg>
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200705T094304Z" creationid="maximo" creationdate="20200704T192328Z">
+        <seg>&lt;a0&gt;OmegaT&lt;/a0&gt; - надійна програма.</seg>
       </tuv>
     </tu>
     <tu>
@@ -19353,8 +19353,8 @@ as the Applications folder.</seg>
       <tuv lang="en">
         <seg>OmegaT also backs up the translation memory to project_save.tmx.YEARMMDDHHNN.bak in the same subfolder each time a project is opened or reloaded.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="maximo" changedate="20200704T193301Z" creationid="maximo" creationdate="20200704T193301Z">
-        <seg>Також, щоразу як проєкт відкривається чи закривається, OmegaT створює в тій самій теці резервні копії цього файлу зі структурою назви project_save.tmx.YYYYMMDDHHNN.bak.</seg>
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200705T094337Z" creationid="maximo" creationdate="20200704T193301Z">
+        <seg>Крім цього, щоразу як проєкт відкривається чи закривається, OmegaT створює в тій самій теці резервні копії цього файлу зі структурою назви project_save.tmx.YYYYMMDDHHNN.bak.</seg>
       </tuv>
     </tu>
     <tu>
@@ -33706,8 +33706,8 @@ Your page is not found</seg>
       <tuv lang="en">
         <seg>YEAR is the 4-digit year, MM is the month, DD the day of the month, and HH and NN are the hours and minutes when the previous translation memory was saved.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="maximo" changedate="20200704T193438Z" creationid="maximo" creationdate="20200704T193438Z">
-        <seg>Де YYYY це рік, MM це місяць, DD день, а HH та NN це години та хвилини, коли ця копія памʼяті перекладів була востаннє збережена.</seg>
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200705T094445Z" creationid="maximo" creationdate="20200704T193438Z">
+        <seg>YYYY - це рік, MM - це місяць, DD - день, а HH та NN - години та хвилини, коли ця копія памʼяті перекладів була востаннє збережена.</seg>
       </tuv>
     </tu>
     <tu>
