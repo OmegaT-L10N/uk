@@ -14619,8 +14619,8 @@ click on that shortcut.</seg>
       <tuv lang="EN">
         <seg>In cases like these it becomes necessary to switch to RTL mode, so that the RTL (in fact bidirectional) text is displayed correctly.</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="maximo" changedate="20200704T185104Z" creationid="maximo" creationdate="20200704T185104Z">
-        <seg>У такому випадку доводиться переключатися між двома режимами, щоб такий двонаправлений текст відображався коректно.</seg>
+      <tuv lang="UK-UA" changeid="fanja9" changedate="20200705T101521Z" creationid="maximo" creationdate="20200704T185104Z">
+        <seg>У такому випадку доводиться перемикатися між двома типами вирівнювання, щоб такий двонаправлений текст відображався коректно.</seg>
       </tuv>
     </tu>
     <tu>
@@ -15886,8 +15886,8 @@ click on that shortcut.</seg>
       <tuv lang="EN">
         <seg>It should be noted that when &lt;a0&gt;OmegaT&lt;/a0&gt; is in RTL mode, both source and target are displayed in RTL mode.</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="maximo" changedate="20200704T185223Z" creationid="maximo" creationdate="20200704T185223Z">
-        <seg>Треба сказати, що коли &lt;a0&gt;OmegaT&lt;/a0&gt; знаходиться у режимі ПНЛ, то і оригінал, і переклад будуть показуватися у режимі ПНЛ.</seg>
+      <tuv lang="UK-UA" changeid="fanja9" changedate="20200705T101856Z" creationid="maximo" creationdate="20200704T185223Z">
+        <seg>Зауважте, що коли &lt;a0&gt;OmegaT&lt;/a0&gt; знаходиться у режимі справа наліво, то і оригінал, і переклад будуть показуватися у режимі справа наліво.</seg>
       </tuv>
     </tu>
     <tu>
