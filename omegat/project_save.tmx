@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.2.0_0_747fc65a" segtype="sentence" srclang="en"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.2.0_0_747fc65a9" segtype="sentence" srclang="en"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -10289,8 +10289,8 @@ Your help page not found</seg>
       <tuv lang="en">
         <seg>Enter "&lt;a0&gt;OmegaT&lt;/a0&gt;" in the "Name" field; in the "Command" field, use the navigation button to find your &lt;a1&gt;OmegaT&lt;/a1&gt; launch script (the file named &lt;a2&gt;OmegaT&lt;/a2&gt; in the unpacked folder).</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="maximo" changedate="20200419T110824Z" creationid="maximo" creationdate="20200419T110702Z">
-        <seg>Вставте "&lt;a0&gt;OmegaT&lt;/a0&gt;" у поле "Ім'я"; у полі "Команда" використайте кнопку Огляд, щоб знайти свій скрипт запуску &lt;a0&gt;OmegaT&lt;/a0&gt; (файл &lt;a1&gt;OmegaT&lt;/a1&gt; у розпакованій теці).</seg>
+      <tuv lang="uk-UA" changeid="maximo" changedate="20200708T053721Z" creationid="maximo" creationdate="20200419T110702Z">
+        <seg>Вставте "&lt;a0&gt;OmegaT&lt;/a0&gt;" у поле "Ім'я"; у полі "Команда" використайте кнопку Огляд, щоб знайти свій скрипт запуску &lt;a1&gt;OmegaT&lt;/a1&gt; (файл &lt;a2&gt;OmegaT&lt;/a2&gt; у розпакованій теці).</seg>
       </tuv>
     </tu>
     <tu>
