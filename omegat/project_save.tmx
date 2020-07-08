@@ -4739,8 +4739,8 @@ The current setting is {0}MB;</seg>
       <tuv lang="en">
         <seg>Although many users are aware of this, their reaction is often "But I can't program!".</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="lesia" changedate="20200323T071856Z" creationid="maximo" creationdate="20200322T174944Z">
-        <seg>Багато хто знає про це, але думає: "Ну я ж не вмію програмувати!".</seg>
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200708T092827Z" creationid="maximo" creationdate="20200322T174944Z">
+        <seg>Багато хто знає про це, але думає: «Ну я ж не вмію програмувати!».</seg>
       </tuv>
     </tu>
     <tu>
@@ -5931,8 +5931,8 @@ Buy another drink</seg>
       <tuv lang="en">
         <seg>But I can't program at all, I hear you say.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="lesia" changedate="20200324T161602Z" creationid="maximo" creationdate="20200322T181244Z">
-        <seg>"Та я ж взагалі не вмію програмувати!" — скажете ви.</seg>
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200708T092841Z" creationid="maximo" creationdate="20200322T181244Z">
+        <seg>«Та я ж взагалі не вмію програмувати!» — скажете ви.</seg>
       </tuv>
     </tu>
     <tu>
@@ -14923,8 +14923,8 @@ click on that shortcut.</seg>
       <tuv lang="en">
         <seg>In this case, do not select the Default version; select a different version (e.g. Standard or Latest), then select a version marked "Java not included".</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="lesia" changedate="20200324T173446Z" creationid="maximo" creationdate="20200322T155858Z">
-        <seg>У цьому випадку не обирайте дефолтну версію — оберіть іншу версію (наприклад, стандартну чи останню), а потім оберіть версію, позначену як "без JRE".</seg>
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200708T092814Z" creationid="maximo" creationdate="20200322T155858Z">
+        <seg>У цьому випадку не обирайте дефолтну версію — оберіть іншу версію (наприклад, стандартну чи останню), а потім оберіть версію, позначену як «без JRE».</seg>
       </tuv>
     </tu>
     <tu>
