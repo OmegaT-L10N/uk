@@ -3326,16 +3326,16 @@ The current setting is {0}MB;</seg>
       <tuv lang="en">
         <seg>&lt;mapping local="source/Bundle.properties" repository="src/org/omegat/Bundle.properties"/&gt;</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="lesia" changedate="20200708T103757Z" creationid="lesia" creationdate="20200704T205033Z">
-        <seg>&lt;mapping local="./source/Bundle.properties" repository="src/org/omegat/Bundle.properties"/&gt;</seg>
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200708T103900Z" creationid="lesia" creationdate="20200704T205033Z">
+        <seg>&lt;mapping local="source/Bundle.properties" repository="src/org/omegat/Bundle.properties"/&gt;</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>&lt;mapping local="source/readme_tr.txt" repository="release/readme.txt"/&gt;</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="lesia" changedate="20200708T103801Z" creationid="lesia" creationdate="20200704T205125Z">
-        <seg>&lt;mapping local="./source/readme_tr.txt" repository="release/readme.txt"/&gt;</seg>
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200708T103850Z" creationid="lesia" creationdate="20200704T205125Z">
+        <seg>&lt;mapping local="source/readme_tr.txt" repository="release/readme.txt"/&gt;</seg>
       </tuv>
     </tu>
     <tu>
