@@ -32,8 +32,8 @@
       <tuv lang="en">
         <seg>"Main class name is required.";</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="maximo" changedate="20200404T170122Z" creationid="maximo" creationdate="20200404T170122Z">
-        <seg>"Треба вказати ім'я головного класу.";</seg>
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200708T101958Z" creationid="maximo" creationdate="20200404T170122Z">
+        <seg>"Треба вказати ім’я головного класу.";</seg>
       </tuv>
     </tu>
     <tu>
@@ -2419,8 +2419,8 @@ The current setting is {0}MB;</seg>
       <tuv lang="en">
         <seg>&lt;a0&gt;Sponsorship of development has already resulted in the addition of certain features.&lt;/a0&gt; If you are willing to finance the work of implementing your desired feature, please contact the development team privately for a quotation.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="lesia" changedate="20200322T145739Z" creationid="lesia" creationdate="20200322T145719Z">
-        <seg>&lt;a0&gt;Спонсорство з розробки вже посприяло впровадженню в проєкт деяких функцій.&lt;/a0&gt; Якщо ви готові фінансувати роботу з реалізації вашого запиту, будь ласка, зв'яжіться з командою розробників особисто.</seg>
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200708T102014Z" creationid="lesia" creationdate="20200322T145719Z">
+        <seg>&lt;a0&gt;Спонсорство з розробки вже посприяло впровадженню в проєкт деяких функцій.&lt;/a0&gt; Якщо ви готові фінансувати роботу з реалізації вашого запиту, будь ласка, зв’яжіться з командою розробників особисто.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2611,8 +2611,8 @@ The current setting is {0}MB;</seg>
       <tuv lang="en">
         <seg>&lt;e0&gt;Display: file names: &lt;/e0&gt;if checked, the name of the file where each segment is found is displayed above each result.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="maximo" changedate="20200703T062729Z" creationid="lesia" creationdate="20200523T202904Z">
-        <seg>&lt;e0&gt;Показувати: імена файлів&lt;/e0&gt;: якщо відмічено, тоді над кожним результатом пошуку буде зображене ім'я відповідного файлу.</seg>
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200708T101944Z" creationid="lesia" creationdate="20200523T202904Z">
+        <seg>&lt;e0&gt;Показувати: імена файлів&lt;/e0&gt;: якщо відмічено, тоді над кожним результатом пошуку буде зображене ім’я відповідного файлу.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2710,8 +2710,8 @@ The current setting is {0}MB;</seg>
       <tuv lang="en">
         <seg>&lt;e0&gt;JavaScript&lt;/e0&gt; (sometimes abbreviated JS, not to be confused with Java): a prototype-based scripting language that is dynamic, weakly typed and has first-class functions.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="lesia" changedate="20200708T095823Z" creationid="lesia" creationdate="20200503T062251Z">
-        <seg>&lt;e0&gt;JavaScript&lt;/e0&gt; (іноді скорочують як JS, не плутати з Java): прототипно-орієнтована мова з динамічною, слабкою типізацією та функціями як обʼєктами першого класу.</seg>
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200708T101841Z" creationid="lesia" creationdate="20200503T062251Z">
+        <seg>&lt;e0&gt;JavaScript&lt;/e0&gt; (іноді скорочують як JS, не плутати з Java): прототипно-орієнтована мова з динамічною, слабкою типізацією та функціями як об’єктами першого класу.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2814,8 +2814,8 @@ The current setting is {0}MB;</seg>
       <tuv lang="en">
         <seg>&lt;e0&gt;Search in Project&lt;/e0&gt;: check &lt;e1&gt;Memory&lt;/e1&gt; to include the project memory (project_save.tmx file) in the search.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="lesia" changedate="20200523T202905Z" creationid="lesia" creationdate="20200523T202905Z">
-        <seg>&lt;e0&gt;Де шукати: У проєкті&lt;/e0&gt;: відмітьте &lt;e1&gt;У пам'яті проєкту&lt;/e1&gt;, щоб включити до пошуку пам'ять проєкту (файл project_save.tmx).</seg>
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200708T101945Z" creationid="lesia" creationdate="20200523T202905Z">
+        <seg>&lt;e0&gt;Де шукати: У проєкті&lt;/e0&gt;: відмітьте &lt;e1&gt;У пам’яті проєкту&lt;/e1&gt;, щоб включити до пошуку пам’ять проєкту (файл project_save.tmx).</seg>
       </tuv>
     </tu>
     <tu>
@@ -3473,8 +3473,8 @@ The current setting is {0}MB;</seg>
       <tuv lang="en">
         <seg>&lt;s0&gt;OmegaT&lt;/s0&gt; is a free translation memory application that works on Windows, macOS, Linux...</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="lesia" changedate="20200323T062755Z" creationid="maximo" creationdate="20200322T170902Z">
-        <seg>&lt;s0&gt;OmegaT&lt;/s0&gt; — це безкоштовна програма з пам'яттю перекладів, яка працює на Windows, macOS, Linux...</seg>
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200708T102009Z" creationid="maximo" creationdate="20200322T170902Z">
+        <seg>&lt;s0&gt;OmegaT&lt;/s0&gt; — це безкоштовна програма з пам’яттю перекладів, яка працює на Windows, macOS, Linux...</seg>
       </tuv>
     </tu>
     <tu>
@@ -4483,8 +4483,8 @@ The current setting is {0}MB;</seg>
       <tuv lang="en">
         <seg>Alignment involves creating a bilingual translation memory from monolingual documents that have already been translated.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="lesia" changedate="20200501T200554Z" creationid="lesia" creationdate="20200501T200554Z">
-        <seg>Вирівнювання дозволяє створити двомовний файл памʼяті перекладів з одномовних документів, що вже були перекладені раніше.</seg>
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200708T101836Z" creationid="lesia" creationdate="20200501T200554Z">
+        <seg>Вирівнювання дозволяє створити двомовний файл пам’яті перекладів з одномовних документів, що вже були перекладені раніше.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4587,8 +4587,8 @@ The current setting is {0}MB;</seg>
       <tuv lang="en">
         <seg>All the languages have access to the OmegaT object model, with the project as the top object.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="lesia" changedate="20200503T063403Z" creationid="lesia" creationdate="20200503T063403Z">
-        <seg>Всі мови мають доступ до об'єктної моделі OmegaT, де проєкт є головним об'єктом.</seg>
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200708T101843Z" creationid="lesia" creationdate="20200503T063403Z">
+        <seg>Всі мови мають доступ до об’єктної моделі OmegaT, де проєкт є головним об’єктом.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4755,8 +4755,8 @@ The current setting is {0}MB;</seg>
       <tuv lang="en">
         <seg>An Instant Start Guide, which guides you through the main procedures and functions of OmegaT, is displayed in the OmegaT user interface by default.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="lesia" changedate="20200322T211859Z" creationid="maximo" creationdate="20200322T112810Z">
-        <seg>Рекомендації для швидкого початку роботи, які описують основні методи та функції OmegaT, з'являються одразу після запуску програми.</seg>
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200708T102001Z" creationid="maximo" creationdate="20200322T112810Z">
+        <seg>Рекомендації для швидкого початку роботи, які описують основні методи та функції OmegaT, з’являються одразу після запуску програми.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5074,8 +5074,8 @@ The TMX file will not be loaded.</seg>
       <tuv lang="en">
         <seg>Any text, already translated and stored in those files, will appear among the fuzzy matches, if it is sufficiently similar to the text currently being translated.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="fanja9" changedate="20200504T202417Z" creationid="fanja9" creationdate="20200504T202417Z">
-        <seg>Кожен серед перекладених і збережених у цих файлах текстів може з'явитися серед часткових збігів, якщо він достатньо подібний на той текст, що перекладається зараз.</seg>
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200708T101820Z" creationid="fanja9" creationdate="20200504T202417Z">
+        <seg>Кожен серед перекладених і збережених у цих файлах текстів може з’явитися серед часткових збігів, якщо він достатньо подібний на той текст, що перекладається зараз.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5186,8 +5186,8 @@ The TMX file will not be loaded.</seg>
       <tuv lang="en">
         <seg>As &lt;a0&gt;OmegaT&lt;/a0&gt; handles identical segments as one single entity, only the first unique segment is shown.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="lesia" changedate="20200523T202916Z" creationid="lesia" creationdate="20200523T202916Z">
-        <seg>Позаяк &lt;a0&gt;OmegaT&lt;/a0&gt; рахує ідентичні сегменти як єдину одиницю, під час пошуку з'являється лише перший унікальний сегмент.</seg>
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200708T101950Z" creationid="lesia" creationdate="20200523T202916Z">
+        <seg>Позаяк &lt;a0&gt;OmegaT&lt;/a0&gt; рахує ідентичні сегменти як єдину одиницю, під час пошуку з’являється лише перший унікальний сегмент.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5399,8 +5399,8 @@ may experience unexpected, but correct behaviour.</seg>
       <tuv lang="en">
         <seg>Auto replace 'nplurals=INTEGER; &amp;plural=EXPRESSION;' in header</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20190822T135324Z" creationid="Kos Ivantsov" creationdate="20190701T155249Z">
-        <seg>&amp;Автоматично замінювати 'nplurals=INTEGER; &amp;plural=EXPRESSION;' у заголовку</seg>
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200708T102058Z" creationid="Kos Ivantsov" creationdate="20190701T155249Z">
+        <seg>&amp;Автоматично замінювати «nplurals=INTEGER; &amp;plural=EXPRESSION;» у заголовку</seg>
       </tuv>
     </tu>
     <tu>
@@ -5851,8 +5851,8 @@ Buy another drink</seg>
       <tuv lang="en">
         <seg>Brief introduction to OmegaT, 2009 (in Vietnamese).</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="maximo" changedate="20200322T170122Z" creationid="maximo" creationdate="20200322T170122Z">
-        <seg>Короткий вступ до OmegaT, 2009 (в'єтнамською).</seg>
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200708T102018Z" creationid="maximo" creationdate="20200322T170122Z">
+        <seg>Короткий вступ до OmegaT, 2009 (в’єтнамською).</seg>
       </tuv>
     </tu>
     <tu>
@@ -6507,8 +6507,8 @@ Buy another drink</seg>
       <tuv lang="en">
         <seg>Check &lt;e2&gt;TMs&lt;/e2&gt; to include the translation memories located in the &lt;f3&gt;tm&lt;/f3&gt; folder in the search.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="lesia" changedate="20200523T202906Z" creationid="lesia" creationdate="20200523T202906Z">
-        <seg>Відмітьте &lt;e2&gt;У файлах пам'яті&lt;/e2&gt;, щоб включити до пошуку файли перекладацької пам'яті, розміщені у теці &lt;f3&gt;tm&lt;/f3&gt;.</seg>
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200708T101947Z" creationid="lesia" creationdate="20200523T202906Z">
+        <seg>Відмітьте &lt;e2&gt;У файлах пам’яті&lt;/e2&gt;, щоб включити до пошуку файли перекладацької пам’яті, розміщені у теці &lt;f3&gt;tm&lt;/f3&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7468,8 +7468,8 @@ Buy another drink</seg>
       <tuv lang="en">
         <seg>Connect</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="maximo" changedate="20200322T165501Z" creationid="maximo" creationdate="20200322T165501Z">
-        <seg>Зв'язок</seg>
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200708T102026Z" creationid="maximo" creationdate="20200322T165501Z">
+        <seg>Зв’язок</seg>
       </tuv>
     </tu>
     <tu>
@@ -7733,8 +7733,8 @@ Buy another drink</seg>
       <tuv lang="en">
         <seg>Converts translation memories in TMX format generated by Wordfast to a form which can be read by OmegaT.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="lesia" changedate="20200322T155408Z" creationid="lesia" creationdate="20200322T155408Z">
-        <seg>Перетворює перекладацьку пам'ять, створену Wordfast у форматі TMX, у формат, який може прочитати OmegaT.</seg>
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200708T102016Z" creationid="lesia" creationdate="20200322T155408Z">
+        <seg>Перетворює перекладацьку пам’ять, створену Wordfast у форматі TMX, у формат, який може прочитати OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10413,8 +10413,8 @@ No one hears your screams</seg>
       <tuv lang="en">
         <seg>Error decoding user and password.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20190821T150242Z" creationid="Kos Ivantsov" creationdate="20190821T150242Z">
-        <seg>Помилка під час декодування імʼя користувача та паролю.</seg>
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200708T102104Z" creationid="Kos Ivantsov" creationdate="20190821T150242Z">
+        <seg>Помилка під час декодування ім’я користувача та паролю.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11153,8 +11153,8 @@ Gossamer threads hold you back
       <tuv lang="en">
         <seg>Failed to load translation memory {0} for project!</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20190422T204640Z" creationid="Kos Ivantsov" creationdate="20190422T204640Z">
-        <seg>Не вдалося завантажити памʼять перекладів {0} для проєкту!</seg>
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200708T102038Z" creationid="Kos Ivantsov" creationdate="20190422T204640Z">
+        <seg>Не вдалося завантажити пам’ять перекладів {0} для проєкту!</seg>
       </tuv>
     </tu>
     <tu>
@@ -11867,16 +11867,16 @@ provided (omegat.kaptn).</seg>
       <tuv lang="en">
         <seg>For instance (if the default is accepted), the translation from the ancillary TM is accepted and prefixed with&lt;e3&gt; [fuzzy]&lt;/e3&gt;, so that the translator can review the translations at a later stage and check whether the segments tagged this way, have been translated correctly&lt;m4&gt; &lt;g5&gt;.&lt;/g5&gt; &lt;/m4&gt;</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="maximo" changedate="20200701T202250Z" creationid="fanja9" creationdate="20200510T185605Z">
-        <seg>Наприклад, переклад з вторинної пам'яті перекладів може вставлятися з позначкою &lt;e3&gt;[нечіткий збіг]&lt;/e3&gt;. Завдяки цьому перекладач зможе легко виявити такі сегменти і перевірити їх&lt;m4&gt; &lt;g5&gt;.&lt;/g5&gt; &lt;/m4&gt;</seg>
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200708T101822Z" creationid="fanja9" creationdate="20200510T185605Z">
+        <seg>Наприклад, переклад з вторинної пам’яті перекладів може вставлятися з позначкою &lt;e3&gt;[нечіткий збіг]&lt;/e3&gt;. Завдяки цьому перекладач зможе легко виявити такі сегменти і перевірити їх&lt;m4&gt; &lt;g5&gt;.&lt;/g5&gt; &lt;/m4&gt;</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>For instance, &lt;l0&gt;'run?'&lt;/l0&gt; would match the word &lt;l1&gt;'runs'&lt;/l1&gt; and &lt;l2&gt;'runn'&lt;/l2&gt; in the word &lt;l3&gt;'running'&lt;/l3&gt;.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="lesia" changedate="20200523T202825Z" creationid="lesia" creationdate="20200523T202825Z">
-        <seg>Наприклад, &lt;l0&gt;'рік?'&lt;/l0&gt; відповідає слову &lt;l1&gt;'ріка'&lt;/l1&gt; та &lt;l2&gt;'ріко'&lt;/l2&gt; у слові &lt;l3&gt;'рікота'&lt;/l3&gt;.</seg>
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200708T101940Z" creationid="lesia" creationdate="20200523T202825Z">
+        <seg>Наприклад, &lt;l0&gt;рік?&lt;/l0&gt; відповідає слову &lt;l1&gt;ріка&lt;/l1&gt; та &lt;l2&gt;ріко&lt;/l2&gt; у слові &lt;l3&gt;рікота&lt;/l3&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11987,8 +11987,8 @@ provided (omegat.kaptn).</seg>
       <tuv lang="en">
         <seg>For translation memories in folders with a name &lt;f0&gt;penalty-xxx&lt;/f0&gt; (with xxx between 0 and 100), matches will be degraded according to the name of the folder: a 100% match in any of TMs, residing in a folder called &lt;f1&gt;penalty-30&lt;/f1&gt; for instance, will be lowered to a 70% match.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="lesia" changedate="20200708T095823Z" creationid="fanja9" creationdate="20200510T164559Z">
-        <seg>Для файлів пам'яті перекладу в теках з назвами &lt;f0&gt;penalty-xxx&lt;/f0&gt; (де xxx — це цифри від 0 до 100), збіги будуть оцінюватися нижче, відповідно до назви теки: наприклад, 100%-й збіг у будь-якій пам'яті перекладу, якщо його розмістити у теці &lt;f1&gt;penalty-30&lt;/f1&gt;, буде мати оцінку 70%.</seg>
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200708T101833Z" creationid="fanja9" creationdate="20200510T164559Z">
+        <seg>Для файлів пам’яті перекладу в теках з назвами &lt;f0&gt;penalty-xxx&lt;/f0&gt; (де xxx — це цифри від 0 до 100), збіги будуть оцінюватися нижче, відповідно до назви теки: наприклад, 100%-й збіг у будь-якій пам’яті перекладу, якщо його розмістити у теці &lt;f1&gt;penalty-30&lt;/f1&gt;, буде мати оцінку 70%.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12195,8 +12195,8 @@ provided (omegat.kaptn).</seg>
       <tuv lang="en">
         <seg>GUI alignment tool for producing translation memory files from legacy texts and their translations.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="lesia" changedate="20200322T161146Z" creationid="lesia" creationdate="20200322T161146Z">
-        <seg>Вирівнювач текстів з графічним інтерфейсом. Дозволяє створювати з текстів та їх перекладів файли перекладацької пам'яті.</seg>
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200708T102017Z" creationid="lesia" creationdate="20200322T161146Z">
+        <seg>Вирівнювач текстів з графічним інтерфейсом. Дозволяє створювати з текстів та їх перекладів файли перекладацької пам’яті.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12937,16 +12937,16 @@ Its winter has come</seg>
       <tuv lang="en">
         <seg>However, some users may face restrictions (imposed by their operating systems or Java version) that may result in a preference for an older version.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="lesia" changedate="20200323T214437Z" creationid="maximo" creationdate="20200322T155520Z">
-        <seg>Але декому доводиться встановлювати старішу версію програми з технічних причин, наприклад, через обмеження, пов'язані з операційною системою чи середовищем Java.</seg>
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200708T102003Z" creationid="maximo" creationdate="20200322T155520Z">
+        <seg>Але декому доводиться встановлювати старішу версію програми з технічних причин, наприклад, через обмеження, пов’язані з операційною системою чи середовищем Java.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>However, submission of an RFE does not mean that the desired feature or improvement will automatically be implemented.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="lesia" changedate="20200322T145043Z" creationid="lesia" creationdate="20200322T145002Z">
-        <seg>Проте подання RFE не означає, що бажана функція або удосконалення обов'язково будуть реалізовані.</seg>
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200708T102014Z" creationid="lesia" creationdate="20200322T145002Z">
+        <seg>Проте подання RFE не означає, що бажана функція або удосконалення обов’язково будуть реалізовані.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13526,8 +13526,8 @@ need not be entered.)</seg>
       <tuv lang="en">
         <seg>If it is clear from the very start, that translations in a given TM (or TMs) are all correct, one can put them into the&lt;e0&gt; tm/auto&lt;/e0&gt; folder and avoid confirming a lot of&lt;e1&gt; [fuzzy]&lt;/e1&gt; cases.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="lesia" changedate="20200708T094255Z" creationid="fanja9" creationdate="20200510T133615Z">
-        <seg>Якщо одразу зрозуміло, що переклад, вказаний у файлі (або файлах) пам'яті перекладів, — правильний, його можна перемістити у теку &lt;e0&gt; tm/auto&lt;/e0&gt; і уникнути необхідності підтвердження значної кількості збігів з позначкою &lt;e1&gt;[нечіткий збіг]&lt;/e1&gt;.</seg>
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200708T101823Z" creationid="fanja9" creationdate="20200510T133615Z">
+        <seg>Якщо одразу зрозуміло, що переклад, вказаний у файлі (або файлах) пам’яті перекладів, — правильний, його можна перемістити у теку &lt;e0&gt; tm/auto&lt;/e0&gt; і уникнути необхідності підтвердження значної кількості збігів з позначкою &lt;e1&gt;[нечіткий збіг]&lt;/e1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13827,8 +13827,8 @@ their defaults as a result of the location change.</seg>
       <tuv lang="en">
         <seg>If the source segment in one of the ancillary TMs is identical to the text being translated, OmegaT acts as defined in the &lt;m0&gt; &lt;g1&gt;Options&lt;/g1&gt; &lt;g2&gt;Editing Behavior...&lt;/g2&gt; &lt;/m0&gt; dialog window.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="maximo" changedate="20200701T201956Z" creationid="fanja9" creationdate="20200510T185010Z">
-        <seg>Якщо сегмент оригіналу у вторинній пам'яті перекладів є ідентичним до тексту, який перекладається, OmegaT діє так, як вказано у діалоговому вікні &lt;m0&gt; &lt;g1&gt;Налаштування&lt;/g1&gt; &lt;g2&gt;Область редагування...&lt;/g2&gt; &lt;/m0&gt;.</seg>
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200708T101821Z" creationid="fanja9" creationdate="20200510T185010Z">
+        <seg>Якщо сегмент оригіналу у вторинній пам’яті перекладів є ідентичним до тексту, який перекладається, OmegaT діє так, як вказано у діалоговому вікні &lt;m0&gt; &lt;g1&gt;Налаштування&lt;/g1&gt; &lt;g2&gt;Область редагування...&lt;/g2&gt; &lt;/m0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13869,8 +13869,8 @@ their defaults as a result of the location change.</seg>
       <tuv lang="en">
         <seg>If there's no file name displayed, the source is the internal project translation memory.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="lesia" changedate="20200702T205110Z" creationid="maximo" creationdate="20200503T052721Z">
-        <seg>Якщо імені файлу\b нема, це означає, що збіг взято з внутрішньої памʼяті поточного проєкту.</seg>
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200708T101813Z" creationid="maximo" creationdate="20200503T052721Z">
+        <seg>Якщо імені файлу\b нема, це означає, що збіг взято з внутрішньої пам’яті поточного проєкту.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13885,16 +13885,16 @@ their defaults as a result of the location change.</seg>
       <tuv lang="en">
         <seg>If they &lt;e0&gt;don't need&lt;/e0&gt; to stay immune from further changes, then remove the TMX from /tm/enforce.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="fanja9" changedate="20200510T161251Z" creationid="fanja9" creationdate="20200510T161001Z">
-        <seg>Якщо для них &lt;e0&gt;необов'язково&lt;/e0&gt; залишатися стійкими до змін, видаліть TMX з /tm/enforce.</seg>
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200708T101824Z" creationid="fanja9" creationdate="20200510T161001Z">
+        <seg>Якщо для них &lt;e0&gt;необов’язково&lt;/e0&gt; залишатися стійкими до змін, видаліть TMX з /tm/enforce.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>If they &lt;e0&gt;need&lt;/e0&gt; to stay immune from further changes, then keep the TMX in /tm/enforce.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="fanja9" changedate="20200510T161050Z" creationid="fanja9" creationdate="20200510T161050Z">
-        <seg>Якщо для них &lt;e0&gt;обов'язково&lt;/e0&gt; залишатися стійкими до змін, залиште TMX у /tm/enforce.</seg>
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200708T101825Z" creationid="fanja9" creationdate="20200510T161050Z">
+        <seg>Якщо для них &lt;e0&gt;обов’язково&lt;/e0&gt; залишатися стійкими до змін, залиште TMX у /tm/enforce.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13965,8 +13965,8 @@ their defaults as a result of the location change.</seg>
       <tuv lang="en">
         <seg>If you add new scripts there, they will appear in the list of available scripts in the &lt;g0&gt;Scripting&lt;/g0&gt; window.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="maximo" changedate="20200701T150646Z" creationid="lesia" creationdate="20200503T060700Z">
-        <seg>Якщо ви додасте туди нові файли, вони з'являться у списку доступних у вікні &lt;g0&gt;Скрипти&lt;/g0&gt;.</seg>
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200708T101841Z" creationid="lesia" creationdate="20200503T060700Z">
+        <seg>Якщо ви додасте туди нові файли, вони з’являться у списку доступних у вікні &lt;g0&gt;Скрипти&lt;/g0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13997,8 +13997,8 @@ their defaults as a result of the location change.</seg>
       <tuv lang="en">
         <seg>If you are confident that a suitable version of the JRE is already installed on your computer, you can download a version of OmegaT without the JRE.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="lesia" changedate="20200322T214617Z" creationid="maximo" creationdate="20200322T155631Z">
-        <seg>Якщо ви впевнені, що на вашому комп'ютері вже є потрібна версія середовища Java, ви можете обрати варіант без JRE.</seg>
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200708T102004Z" creationid="maximo" creationdate="20200322T155631Z">
+        <seg>Якщо ви впевнені, що на вашому комп’ютері вже є потрібна версія середовища Java, ви можете обрати варіант без JRE.</seg>
       </tuv>
     </tu>
     <tu>
@@ -14045,8 +14045,8 @@ their defaults as a result of the location change.</seg>
       <tuv lang="en">
         <seg>If you are sure that a suitable Java Runtime Environment is already installed on your computer at system level, you can select the option without JRE included.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="lesia" changedate="20200323T160935Z" creationid="maximo" creationdate="20200322T145117Z">
-        <seg>Якщо ви впевнені, що на вашому комп'ютері вже є потрібна версія середовища Java, ви можете обрати варіант без JRE.</seg>
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200708T102002Z" creationid="maximo" creationdate="20200322T145117Z">
+        <seg>Якщо ви впевнені, що на вашому комп’ютері вже є потрібна версія середовища Java, ви можете обрати варіант без JRE.</seg>
       </tuv>
     </tu>
     <tu>
@@ -14835,8 +14835,8 @@ click on that shortcut.</seg>
       <tuv lang="en">
         <seg>In order to run, OmegaT requires the Java Runtime Environment (JRE) to be installed on your computer.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="lesia" changedate="20200708T093650Z" creationid="maximo" creationdate="20200322T155612Z">
-        <seg>Для роботи OmegaT необхідно, щоб у вас на комп'ютері було встановлене середовище Java — Java Runtime Environment (JRE).</seg>
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200708T102003Z" creationid="maximo" creationdate="20200322T155612Z">
+        <seg>Для роботи OmegaT необхідно, щоб у вас на комп’ютері було встановлене середовище Java — Java Runtime Environment (JRE).</seg>
       </tuv>
     </tu>
     <tu>
@@ -15829,8 +15829,8 @@ click on that shortcut.</seg>
       <tuv lang="en">
         <seg>It is a multi-paradigm language, supporting object-oriented, imperative, and functional programming styles.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="lesia" changedate="20200708T095823Z" creationid="lesia" creationdate="20200503T062356Z">
-        <seg>Це мультипарадигмова мова, яка підтримує обʼєктно-орієнтований, імперативний та функціональний стилі програмування.</seg>
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200708T101842Z" creationid="lesia" creationdate="20200503T062356Z">
+        <seg>Це мультипарадигмова мова, яка підтримує об’єктно-орієнтований, імперативний та функціональний стилі програмування.</seg>
       </tuv>
     </tu>
     <tu>
@@ -15974,8 +15974,8 @@ click on that shortcut.</seg>
       <tuv lang="en">
         <seg>It may happen, that translation memories, available in the &lt;f0&gt;tm&lt;/f0&gt; subfolder, contain segments with identical source text, but differing targets.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="maximo" changedate="20200708T054349Z" creationid="fanja9" creationdate="20200504T203402Z">
-        <seg>Буває так, що у пам'яті перекладів з підтеки &lt;f0&gt;tm&lt;/f0&gt;, знаходяться сегменти, у яких оригінал ідентичний, а переклади різні.</seg>
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200708T101822Z" creationid="fanja9" creationdate="20200504T203402Z">
+        <seg>Буває так, що у пам’яті перекладів з підтеки &lt;f0&gt;tm&lt;/f0&gt;, знаходяться сегменти, у яких оригінал ідентичний, а переклади різні.</seg>
       </tuv>
     </tu>
     <tu>
@@ -16121,8 +16121,8 @@ itself on the first run.</seg>
       <tuv lang="en">
         <seg>Its purpose is to develop, distribute and support the use of OmegaT, an open-source translation memory software application.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20200325T112029Z" creationid="maximo" creationdate="20200321T124527Z">
-        <seg>Наша мета — це розробка, поширення та підтримка користувачів OmegaT, перекладацької програми з відкритим кодом, в основі якої лежить пам'ять перекладів.</seg>
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200708T101959Z" creationid="maximo" creationdate="20200321T124527Z">
+        <seg>Наша мета — це розробка, поширення та підтримка користувачів OmegaT, перекладацької програми з відкритим кодом, в основі якої лежить пам’ять перекладів.</seg>
       </tuv>
     </tu>
     <tu>
@@ -16209,8 +16209,8 @@ itself on the first run.</seg>
       <tuv lang="en">
         <seg>Java command-line script for merging two or more TMX files.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="lesia" changedate="20200322T153311Z" creationid="lesia" creationdate="20200322T153311Z">
-        <seg>Скрипт на Java для об'єднання двох або більше файлів TMX.</seg>
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200708T102015Z" creationid="lesia" creationdate="20200322T153311Z">
+        <seg>Скрипт на Java для об’єднання двох або більше файлів TMX.</seg>
       </tuv>
     </tu>
     <tu>
@@ -17003,8 +17003,8 @@ itself on the first run.</seg>
       <tuv lang="en">
         <seg>Load a script into the editor by clicking its name in the list in the left-hand panel.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="lesia" changedate="20200503T055218Z" creationid="lesia" creationdate="20200503T055218Z">
-        <seg>Завантажити скрипт до редактора, обравши його ім'я на панелі ліворуч.</seg>
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200708T101840Z" creationid="lesia" creationdate="20200503T055218Z">
+        <seg>Завантажити скрипт до редактора, обравши його ім’я на панелі ліворуч.</seg>
       </tuv>
     </tu>
     <tu>
@@ -18931,8 +18931,8 @@ as the Applications folder.</seg>
       <tuv lang="en">
         <seg>Note that other CAT tools can export (and import as well) tmx files, usually in all three forms.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="lesia" changedate="20200708T095823Z" creationid="fanja9" creationdate="20200502T180844Z">
-        <seg>Зверніть увагу, що інші CAT-інструменти зазвичай можуть експортувати пам'ять перекладів у перших двох форматах.</seg>
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200708T101819Z" creationid="fanja9" creationdate="20200502T180844Z">
+        <seg>Зверніть увагу, що інші CAT-інструменти зазвичай можуть експортувати пам’ять перекладів у перших двох форматах.</seg>
       </tuv>
     </tu>
     <tu>
@@ -19275,8 +19275,8 @@ as the Applications folder.</seg>
       <tuv lang="en">
         <seg>ODFAuthors and LibreOffice's Italian translators are proud to use such a good tool for their hard work within the LibreOffice Community.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="lesia" changedate="20200323T070753Z" creationid="maximo" creationdate="20200322T173521Z">
-        <seg>Ми, ODFAuthors та італійські перекладачі LibreOffice, дуже раді, що можемо користуватися таким хорошим інструментом у своїй складній роботі в ком'юніті LibreOffice.</seg>
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200708T102010Z" creationid="maximo" creationdate="20200322T173521Z">
+        <seg>Ми, ODFAuthors та італійські перекладачі LibreOffice, дуже раді, що можемо користуватися таким хорошим інструментом у своїй складній роботі в ком’юніті LibreOffice.</seg>
       </tuv>
     </tu>
     <tu>
@@ -19685,8 +19685,8 @@ translation leveraging into updated projects.</seg>
       <tuv lang="en">
         <seg>OmegaT is a free open-source translation memory application for professional translators written in Java.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="maximo" changedate="20200322T165351Z" creationid="maximo" creationdate="20200322T165351Z">
-        <seg>OmegaT — це безкоштовна програма з перекладацькою пам'яттю, розрахована на професійних перекладачів. Написана на Java.</seg>
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200708T102020Z" creationid="maximo" creationdate="20200322T165351Z">
+        <seg>OmegaT — це безкоштовна програма з перекладацькою пам’яттю, розрахована на професійних перекладачів. Написана на Java.</seg>
       </tuv>
     </tu>
     <tu>
@@ -19761,9 +19761,9 @@ published by the Free Software Foundation, either version 3 of the License, or
 the name of your OS and/or the system property containing
 your home folder.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20190821T122633Z" creationid="Kos Ivantsov" creationdate="20190813T121833Z">
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200708T102105Z" creationid="Kos Ivantsov" creationdate="20190813T121833Z">
         <seg>OmegaT відмовлено у доступі до системних властивостей,
-що містять імʼя ОС та розташування домашньої теки.</seg>
+що містять ім’я ОС та розташування домашньої теки.</seg>
       </tuv>
     </tu>
     <tu>
@@ -20224,8 +20224,8 @@ installed on your system.</seg>
       <tuv lang="en">
         <seg>One reason for this is that the desired function may already have been implemented, or that there may be reasons why it cannot be implemented.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="lesia" changedate="20200323T102118Z" creationid="lesia" creationdate="20200322T131202Z">
-        <seg>Справа в тому, що функція, яка вас цікавить, може бути вже реалізована або, навпаки, є об'єктивні причини, з яких її не виходить реалізувати. </seg>
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200708T102013Z" creationid="lesia" creationdate="20200322T131202Z">
+        <seg>Справа в тому, що функція, яка вас цікавить, може бути вже реалізована або, навпаки, є об’єктивні причини, з яких її не виходить реалізувати. </seg>
       </tuv>
     </tu>
     <tu>
@@ -20288,8 +20288,8 @@ installed on your system.</seg>
       <tuv lang="en">
         <seg>Only rows with the &lt;g0&gt;Keep&lt;/g0&gt; box ticked in the first column will be included when the translation memory is created.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="lesia" changedate="20200502T052954Z" creationid="lesia" creationdate="20200502T052954Z">
-        <seg>Коли після завершення вирівнювання створюватиметься пам'ять перекладів, до неї ввійдуть лише ті пари сегментів, які відмічені галочками у першій колонці &lt;g0&gt;Вибрати&lt;/g0&gt;.</seg>
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200708T101837Z" creationid="lesia" creationdate="20200502T052954Z">
+        <seg>Коли після завершення вирівнювання створюватиметься пам’ять перекладів, до неї ввійдуть лише ті пари сегментів, які відмічені галочками у першій колонці &lt;g0&gt;Вибрати&lt;/g0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -20731,8 +20731,8 @@ installed on your system.</seg>
       <tuv lang="en">
         <seg>Orphan segments (match #2) describe segments in the default project translation memory that have no corresponding source segment.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="maximo" changedate="20200702T200914Z" creationid="maximo" creationdate="20200614T163732Z">
-        <seg>Покинуті сегменти (збіг 2), це сегменти із внутрішньої памʼяті поточного проєкту, які стосуються змінених або видалених файлів оригіналу, і таким чином втратили прив'язку до реальних оригінальних сегментів.</seg>
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200708T101815Z" creationid="maximo" creationdate="20200614T163732Z">
+        <seg>Покинуті сегменти (збіг 2), це сегменти із внутрішньої пам’яті поточного проєкту, які стосуються змінених або видалених файлів оригіналу, і таким чином втратили прив’язку до реальних оригінальних сегментів.</seg>
       </tuv>
     </tu>
     <tu>
@@ -21249,8 +21249,8 @@ to determine the source of the error and try again.</seg>
       <tuv lang="en">
         <seg>Please contact the &lt;a0&gt;OmegaT Localization Co-ordinator&lt;/a0&gt; for details of what is involved in localizing/translating OmegaT.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="lesia" changedate="20200323T222919Z" creationid="maximo" creationdate="20200322T180216Z">
-        <seg>Будь ласка, зв'яжіться із &lt;a0&gt;відповідальним за локалізацію OmegaT&lt;/a0&gt;, щоб дізнатися більше про те, як відбувається локалізація та переклад OmegaT.</seg>
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200708T102012Z" creationid="maximo" creationdate="20200322T180216Z">
+        <seg>Будь ласка, зв’яжіться із &lt;a0&gt;відповідальним за локалізацію OmegaT&lt;/a0&gt;, щоб дізнатися більше про те, як відбувається локалізація та переклад OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
@@ -21743,8 +21743,8 @@ project without team functionality.</seg>
       <tuv lang="en">
         <seg>Pressing the search button after entering a string in the search field displays all the segments in the project that include the entered string.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="fanja9" changedate="20200704T123739Z" creationid="lesia" creationdate="20200523T202915Z">
-        <seg>Коли ви вводите стрічку у поле пошуку та натискаєте кнопку пошуку, з'являються всі сегменти проєкту, які містять цю стрічку.</seg>
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200708T101949Z" creationid="lesia" creationdate="20200523T202915Z">
+        <seg>Коли ви вводите стрічку у поле пошуку та натискаєте кнопку пошуку, з’являються всі сегменти проєкту, які містять цю стрічку.</seg>
       </tuv>
     </tu>
     <tu>
@@ -22265,8 +22265,8 @@ project without team functionality.</seg>
       <tuv lang="en">
         <seg>Proxy User and Password</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20190820T192529Z" creationid="Kos Ivantsov" creationdate="20190820T192529Z">
-        <seg>Проксі: імʼя користувача та пароль</seg>
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200708T102103Z" creationid="Kos Ivantsov" creationdate="20190820T192529Z">
+        <seg>Проксі: ім’я користувача та пароль</seg>
       </tuv>
     </tu>
     <tu>
@@ -23490,8 +23490,8 @@ These words: 'Page not found'</seg>
       <tuv lang="en">
         <seg>Right-clicking on a filename opens a popup that allows to open the source file and (if it exists) the target file.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="lesia" changedate="20200502T055800Z" creationid="lesia" creationdate="20200429T202810Z">
-        <seg>Якщо натиснути правою кнопкою миші на назву файлу, з'являється контекстне меню, яке дозволяє відкрити файл для перекладу та перекладений файл (якщо такий існує).</seg>
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200708T101838Z" creationid="lesia" creationdate="20200429T202810Z">
+        <seg>Якщо натиснути правою кнопкою миші на назву файлу, з’являється контекстне меню, яке дозволяє відкрити файл для перекладу та перекладений файл (якщо такий існує).</seg>
       </tuv>
     </tu>
     <tu>
@@ -23691,8 +23691,8 @@ These words: 'Page not found'</seg>
       <tuv lang="en">
         <seg>SVN '{0}' execution start</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20190821T143920Z" creationid="Kos Ivantsov" creationdate="20190821T143920Z">
-        <seg>SVN '{0}': початок виконання</seg>
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200708T102116Z" creationid="Kos Ivantsov" creationdate="20190821T143920Z">
+        <seg>SVN «{0}»: початок виконання</seg>
       </tuv>
     </tu>
     <tu>
@@ -25336,8 +25336,8 @@ The scope of a search is by default the project and can be set to be any files l
       <tuv lang="en">
         <seg>Simultaneous use of multiple translation memories</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="maximo" changedate="20200323T220748Z" creationid="maximo" creationdate="20200322T171312Z">
-        <seg>Одночасне використання кількох файлів пам'яті перекладів</seg>
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200708T102009Z" creationid="maximo" creationdate="20200322T171312Z">
+        <seg>Одночасне використання кількох файлів пам’яті перекладів</seg>
       </tuv>
     </tu>
     <tu>
@@ -25562,8 +25562,8 @@ The scope of a search is by default the project and can be set to be any files l
       <tuv lang="en">
         <seg>Sometimes, it is useful to distinguish between high-quality translation memories and those that are, because of the subject matter, client, revision status, etc., less reliable.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="maximo" changedate="20200701T203404Z" creationid="fanja9" creationdate="20200510T145552Z">
-        <seg>Інколи корисно відокремити високоякісні файли пам'яті перекладу від тих, які менш надійні: через відмінність у тематиці, особливі умови, виставлені клієнтом чи просто за результатами перевірки.</seg>
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200708T101825Z" creationid="fanja9" creationdate="20200510T145552Z">
+        <seg>Інколи корисно відокремити високоякісні файли пам’яті перекладу від тих, які менш надійні: через відмінність у тематиці, особливі умови, виставлені клієнтом чи просто за результатами перевірки.</seg>
       </tuv>
     </tu>
     <tu>
@@ -26461,8 +26461,8 @@ The scope of a search is by default the project and can be set to be any files l
       <tuv lang="en">
         <seg>TM Matching Options</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20190808T114720Z" creationid="Kos Ivantsov" creationdate="20190807T164741Z">
-        <seg>Параметри збігів із памʼяті перекладів</seg>
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200708T102106Z" creationid="Kos Ivantsov" creationdate="20190807T164741Z">
+        <seg>Параметри збігів із пам’яті перекладів</seg>
       </tuv>
     </tu>
     <tu>
@@ -27032,8 +27032,8 @@ current folder will be used instead.</seg>
       <tuv lang="en">
         <seg>The /tm/ folder can contain any number of ancillary translation memories - i.e. tmx files.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="maximo" changedate="20200702T193857Z" creationid="fanja9" creationdate="20200502T180646Z">
-        <seg>У теці /tm/ може знаходитися скільки завгодно допоміжних файлів пам'яті перекладів, тобто файлів tmx.</seg>
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200708T101818Z" creationid="fanja9" creationdate="20200502T180646Z">
+        <seg>У теці /tm/ може знаходитися скільки завгодно допоміжних файлів пам’яті перекладів, тобто файлів tmx.</seg>
       </tuv>
     </tu>
     <tu>
@@ -27411,8 +27411,8 @@ Please try to correct the error and reload the project.</seg>
       <tuv lang="en">
         <seg>The application runs on your machine.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="maximo" changedate="20200322T163536Z" creationid="maximo" creationdate="20200322T163536Z">
-        <seg>Програма працює на вашому комп'ютері.</seg>
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200708T102006Z" creationid="maximo" creationdate="20200322T163536Z">
+        <seg>Програма працює на вашому комп’ютері.</seg>
       </tuv>
     </tu>
     <tu>
@@ -27645,16 +27645,16 @@ instead.</seg>
       <tuv lang="en">
         <seg>The contents of the target subfolder will reflect the current state of the translation, as present in the project translation memory, saved in the current &lt;e8&gt;/omegat/project_save.tmx&lt;/e8&gt;.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="maximo" changedate="20200702T192436Z" creationid="fanja9" creationdate="20200502T175810Z">
-        <seg>Вміст підтеки перекладу буде відповідати поточному стану проєктної пам'яті перекладів, яка зберігається в файлі &lt;e8&gt;/omegat/project_save.tmx&lt;/e8&gt;.</seg>
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200708T101817Z" creationid="fanja9" creationdate="20200502T175810Z">
+        <seg>Вміст підтеки перекладу буде відповідати поточному стану проєктної пам’яті перекладів, яка зберігається в файлі &lt;e8&gt;/omegat/project_save.tmx&lt;/e8&gt;.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>The contents of translation memories in the tm subfolder serve to generate suggestions for the text(s) to be translated.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="maximo" changedate="20200701T153033Z" creationid="fanja9" creationdate="20200504T201826Z">
-        <seg>Вміст пам'яті перекладів у підтеці tm необхідний для пошуку варіантів перекладу.</seg>
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200708T101819Z" creationid="fanja9" creationdate="20200504T201826Z">
+        <seg>Вміст пам’яті перекладів у підтеці tm необхідний для пошуку варіантів перекладу.</seg>
       </tuv>
     </tu>
     <tu>
@@ -28162,8 +28162,8 @@ in /lib/licenses/Licenses.txt.</seg>
       <tuv lang="en">
         <seg>The line with the matching percentage also includes the name of the translation memory containing the match.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="maximo" changedate="20200503T052638Z" creationid="maximo" creationdate="20200503T052638Z">
-        <seg>Рядок із відсотком збігу також показує ім'я файлу памʼяті перекладів, з якої взято цей збіг.</seg>
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200708T101812Z" creationid="maximo" creationdate="20200503T052638Z">
+        <seg>Рядок із відсотком збігу також показує ім’я файлу пам’яті перекладів, з якої взято цей збіг.</seg>
       </tuv>
     </tu>
     <tu>
@@ -28290,8 +28290,8 @@ in /lib/licenses/Licenses.txt.</seg>
       <tuv lang="en">
         <seg>The most important file here is the &lt;f1&gt;project_save.tmx, &lt;/f1&gt;that is the working translation memory for the project.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="lesia" changedate="20200708T094255Z" creationid="fanja9" creationdate="20200510T150409Z">
-        <seg>Найважливіший файл у підтеці — &lt;f1&gt;project_save.tmx, &lt;/f1&gt; робоча пам'ять перекладу для проєкту.</seg>
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200708T101834Z" creationid="fanja9" creationdate="20200510T150409Z">
+        <seg>Найважливіший файл у підтеці — &lt;f1&gt;project_save.tmx, &lt;/f1&gt; робоча пам’ять перекладу для проєкту.</seg>
       </tuv>
     </tu>
     <tu>
@@ -28426,8 +28426,8 @@ in /lib/licenses/Licenses.txt.</seg>
       <tuv lang="en">
         <seg>The permissions you give to this version (which may be described as "unrestricted access to the computer") are no different from the permissions you assign to the local version, i.e., an access to the hard drive of your computer.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="lesia" changedate="20200708T085356Z" creationid="maximo" creationdate="20200322T162447Z">
-        <seg>Для встановлення цієї версії ваша система може просити у вас «необмеженого доступу до комп'ютера». Але мається на увазі той самий дозвіл, що і для встановлення звичайної версії OmegaT, тобто доступ до жорстокого диску.</seg>
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200708T102005Z" creationid="maximo" creationdate="20200322T162447Z">
+        <seg>Для встановлення цієї версії ваша система може просити у вас «необмеженого доступу до комп’ютера». Але мається на увазі той самий дозвіл, що і для встановлення звичайної версії OmegaT, тобто доступ до жорстокого диску.</seg>
       </tuv>
     </tu>
     <tu>
@@ -28741,8 +28741,8 @@ in /lib/licenses/Licenses.txt.</seg>
       <tuv lang="en">
         <seg>The search term &lt;l0&gt;'run*'&lt;/l0&gt; for example would match words &lt;l1&gt;'run'&lt;/l1&gt;, &lt;l2&gt;'runs'&lt;/l2&gt; and &lt;l3&gt;'running'&lt;/l3&gt;.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="lesia" changedate="20200523T202650Z" creationid="lesia" creationdate="20200523T202650Z">
-        <seg>Наприклад, пошуковий запит &lt;l0&gt;'рік*'&lt;/l0&gt; відповідає словам &lt;l1&gt;'рік'&lt;/l1&gt;, &lt;l2&gt;'ріка'&lt;/l2&gt; та &lt;l3&gt;'рікота'&lt;/l3&gt;.</seg>
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200708T101919Z" creationid="lesia" creationdate="20200523T202650Z">
+        <seg>Наприклад, пошуковий запит &lt;l0&gt;рік*&lt;/l0&gt; відповідає словам &lt;l1&gt;рік&lt;/l1&gt;, &lt;l2&gt;ріка&lt;/l2&gt; та &lt;l3&gt;рікота&lt;/l3&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -28781,8 +28781,8 @@ in /lib/licenses/Licenses.txt.</seg>
       <tuv lang="en">
         <seg>The segments are displayed in order of appearance in the project.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="lesia" changedate="20200523T202917Z" creationid="lesia" creationdate="20200523T202917Z">
-        <seg>Сегменти з'являються в тому порядку, в якому вони знаходяться у проєкті.</seg>
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200708T101951Z" creationid="lesia" creationdate="20200523T202917Z">
+        <seg>Сегменти з’являються в тому порядку, в якому вони знаходяться у проєкті.</seg>
       </tuv>
     </tu>
     <tu>
@@ -29213,8 +29213,8 @@ in /lib/licenses/Licenses.txt.</seg>
       <tuv lang="en">
         <seg>The word or phrase is entered in the &lt;e3&gt;Search for&lt;/e3&gt; box automatically.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="lesia" changedate="20200523T201736Z" creationid="lesia" creationdate="20200523T201736Z">
-        <seg>Слово або фраза автоматично з'явиться в полі &lt;e3&gt;Шукати&lt;/e3&gt;.</seg>
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200708T101849Z" creationid="lesia" creationdate="20200523T201736Z">
+        <seg>Слово або фраза автоматично з’явиться в полі &lt;e3&gt;Шукати&lt;/e3&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -30404,8 +30404,8 @@ the server.</seg>
       <tuv lang="en">
         <seg>To add contents to it, select &lt;m0&gt; &lt;s1&gt; &lt;k2&gt; &lt;k3&gt;Ctrl&lt;/k3&gt; &lt;k4&gt;D&lt;/k4&gt; &lt;/k2&gt; &lt;/s1&gt; &lt;g5&gt;Project&lt;/g5&gt; &lt;g6&gt;Create Translated Documents&lt;/g6&gt; &lt;/m0&gt;.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="maximo" changedate="20200702T192058Z" creationid="fanja9" creationdate="20200418T094627Z">
-        <seg>Щоб у ній з'явилися перекладені файли, запустіть команду &lt;m0&gt; &lt;s1&gt; &lt;k2&gt; &lt;k3&gt;Ctrl&lt;/k3&gt; &lt;k4&gt;D&lt;/k4&gt; &lt;/k2&gt; &lt;/s1&gt; &lt;g5&gt;Проєкт&lt;/g5&gt; &lt;g6&gt;Створити перекладені документи&lt;/g6&gt; &lt;/m0&gt;.</seg>
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200708T101817Z" creationid="fanja9" creationdate="20200418T094627Z">
+        <seg>Щоб у ній з’явилися перекладені файли, запустіть команду &lt;m0&gt; &lt;s1&gt; &lt;k2&gt; &lt;k3&gt;Ctrl&lt;/k3&gt; &lt;k4&gt;D&lt;/k4&gt; &lt;/k2&gt; &lt;/s1&gt; &lt;g5&gt;Проєкт&lt;/g5&gt; &lt;g6&gt;Створити перекладені документи&lt;/g6&gt; &lt;/m0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -30689,8 +30689,8 @@ the server.</seg>
       <tuv lang="en">
         <seg>To make it possible (although Search and replace operates only on memory), OmegaT will copy the source segment to the target segment before the replace operation occurs.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="maximo" changedate="20200503T064016Z" creationid="maximo" creationdate="20200503T064016Z">
-        <seg>Щоб таке було можливим OmegaT тимчасово в памʼяті скопіює текст оригіналу в переклад перед операцією.</seg>
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200708T101845Z" creationid="maximo" creationdate="20200503T064016Z">
+        <seg>Щоб таке було можливим OmegaT тимчасово в пам’яті скопіює текст оригіналу в переклад перед операцією.</seg>
       </tuv>
     </tu>
     <tu>
@@ -31251,8 +31251,8 @@ linux-install.sh script, and execute the script with ./linux-install.sh.</seg>
       <tuv lang="en">
         <seg>Translated segments are displayed with the original text at the top and the translated text at the bottom, untranslated segments are displayed as the source only.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="lesia" changedate="20200523T202918Z" creationid="lesia" creationdate="20200523T202918Z">
-        <seg>Перекладені сегменти з'являються з оригінальним текстом вгорі та перекладеним текстом знизу, неперекладені сегменти з'являються лише у вигляді оригінального тексту.</seg>
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200708T101952Z" creationid="lesia" creationdate="20200523T202918Z">
+        <seg>Перекладені сегменти з’являються з оригінальним текстом вгорі та перекладеним текстом знизу, неперекладені сегменти з’являються лише у вигляді оригінального тексту.</seg>
       </tuv>
     </tu>
     <tu>
@@ -32479,8 +32479,8 @@ searchable without subscription:</seg>
       <tuv lang="en">
         <seg>User:</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20190822T095919Z" creationid="Kos Ivantsov" creationdate="20190807T182244Z">
-        <seg>Імʼя &amp;користувача:</seg>
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200708T102104Z" creationid="Kos Ivantsov" creationdate="20190807T182244Z">
+        <seg>Ім’я &amp;користувача:</seg>
       </tuv>
     </tu>
     <tu>
@@ -33088,8 +33088,8 @@ of selecting, obtaining and installing it.</seg>
       <tuv lang="en">
         <seg>When searching through files (as opposed to translation memories), OmegaT restricts the search to files in source file formats.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="fanja9" changedate="20200704T122903Z" creationid="lesia" creationdate="20200523T202910Z">
-        <seg>Якщо пошук відбувається у файлах (це не стосується файлів перекладацької пам'яті), OmegaT зводить пошук до файлів у форматах оригіналу.</seg>
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200708T101948Z" creationid="lesia" creationdate="20200523T202910Z">
+        <seg>Якщо пошук відбувається у файлах (це не стосується файлів перекладацької пам’яті), OmegaT зводить пошук до файлів у форматах оригіналу.</seg>
       </tuv>
     </tu>
     <tu>
@@ -33550,8 +33550,8 @@ Your page is not found</seg>
       <tuv lang="en">
         <seg>WordAr&amp;t</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20190822T134730Z" creationid="Kos Ivantsov" creationdate="20190807T103338Z">
-        <seg>Обʼєк&amp;ти WordArt</seg>
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200708T102102Z" creationid="Kos Ivantsov" creationdate="20190807T103338Z">
+        <seg>Об’єк&amp;ти WordArt</seg>
       </tuv>
     </tu>
     <tu>
@@ -34548,8 +34548,8 @@ window to be able to launch it from any location.</seg>
       <tuv lang="en">
         <seg>Your documents and translation memories remain on your computer, and the OmegaT project will have no access to your work or information.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="maximo" changedate="20200322T163755Z" creationid="maximo" creationdate="20200322T163755Z">
-        <seg>Ваші документи та ваша памʼять перекладів залишаються у вас на комп'ютері. Проєкт OmegaT не має доступу до вашої роботи чи ваших даних.</seg>
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200708T102007Z" creationid="maximo" creationdate="20200322T163755Z">
+        <seg>Ваші документи та ваша пам’ять перекладів залишаються у вас на комп’ютері. Проєкт OmegaT не має доступу до вашої роботи чи ваших даних.</seg>
       </tuv>
     </tu>
     <tu>
