@@ -2587,8 +2587,8 @@ The current setting is {0}MB;</seg>
       <tuv lang="en">
         <seg>&lt;e0&gt;Close:&lt;/e0&gt; close the window without any change.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="maximo" changedate="20200503T063706Z" creationid="maximo" creationdate="20200503T063706Z">
-        <seg>&lt;e0&gt;Закрити&lt;/e0&gt; - закриває вікно без змін.</seg>
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200708T093610Z" creationid="maximo" creationdate="20200503T063706Z">
+        <seg>&lt;e0&gt;Закрити&lt;/e0&gt; — закриває вікно без змін.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2790,16 +2790,16 @@ The current setting is {0}MB;</seg>
       <tuv lang="en">
         <seg>&lt;e0&gt;Replace All:&lt;/e0&gt; operates replacement of all occurrences (after displaying a confirmation window where the number of occurrences is shown).</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="fanja9" changedate="20200703T142558Z" creationid="maximo" creationdate="20200503T061609Z">
-        <seg>&lt;e0&gt;Замінити все&lt;/e0&gt; - проводить заміну для всіх місць (перед тим вказуючи їх кількість).</seg>
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200708T093516Z" creationid="maximo" creationdate="20200503T061609Z">
+        <seg>&lt;e0&gt;Замінити все&lt;/e0&gt; — проводить заміну для всіх місць (перед тим вказуючи їх кількість).</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>&lt;e0&gt;Replace:&lt;/e0&gt; operates a "one by one" replacement, by the mean of buttons in the &lt;e1&gt;header of the Editor pane&lt;/e1&gt;.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="maximo" changedate="20200503T063219Z" creationid="maximo" creationdate="20200503T063219Z">
-        <seg>&lt;e0&gt;Замінити&lt;/e0&gt; - заміняє кожне місце окремо, з використанням кнопок у &lt;e1&gt;заголовку вікна редагування&lt;/e1&gt;.</seg>
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200708T093523Z" creationid="maximo" creationdate="20200503T063219Z">
+        <seg>&lt;e0&gt;Замінити&lt;/e0&gt; — заміняє кожне місце окремо, з використанням кнопок у &lt;e1&gt;заголовку вікна редагування&lt;/e1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7492,8 +7492,8 @@ Buy another drink</seg>
       <tuv lang="en">
         <seg>Consequently, although OmegaT is quite able to handle&lt;f1&gt; tmx&lt;/f1&gt; files, it does not include them in the Search files search.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="fanja9" changedate="20200704T123159Z" creationid="lesia" creationdate="20200523T202911Z">
-        <seg>Тому, хоча OmegaT здатна обробляти файли&lt;f1&gt; tmx&lt;/f1&gt;, до цього типу пошуку - У файлах - вона їх не включає.</seg>
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200708T093621Z" creationid="lesia" creationdate="20200523T202911Z">
+        <seg>Тому, хоча OmegaT здатна обробляти файли&lt;f1&gt; tmx&lt;/f1&gt;, до цього типу пошуку — У файлах — вона їх не включає.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8945,8 +8945,8 @@ Buy another drink</seg>
       <tuv lang="en">
         <seg>Diego Merino - Translator EN &gt; ES</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="maximo" changedate="20200322T173226Z" creationid="maximo" creationdate="20200322T173226Z">
-        <seg>Diego Merino - Перекладач EN &gt; ES</seg>
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200708T093701Z" creationid="maximo" creationdate="20200322T173226Z">
+        <seg>Diego Merino — Перекладач EN &gt; ES</seg>
       </tuv>
     </tu>
     <tu>
@@ -12411,8 +12411,8 @@ provided (omegat.kaptn).</seg>
       <tuv lang="en">
         <seg>Glossary files are simple plain text files containing three-column, tab-delimited lists with the source and target terms in the first and second columns respectively.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="lesia" changedate="20200616T203841Z" creationid="lesia" creationdate="20200505T191944Z">
-        <seg>Файли глосарія - це прості текстові файли, у яких терміни мов оригіналу та перекладу сформовані у колонки, відділені одна від одної табуляцією. Перша колонка містить термін оригіналу, друга - перекладу.</seg>
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200708T093739Z" creationid="lesia" creationdate="20200505T191944Z">
+        <seg>Файли глосарія — це прості текстові файли, у яких терміни мов оригіналу та перекладу сформовані у колонки, відділені одна від одної табуляцією. Перша колонка містить термін оригіналу, друга — перекладу.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12975,10 +12975,114 @@ Its winter has come</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Howto - Adding a preview function to OmegaT</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200708T093718Z" creationid="lesia" creationdate="20200708T093718Z">
+        <seg>Howto - Adding a preview function to OmegaT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Howto - Compiling OmegaT from the source code</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200708T093715Z" creationid="lesia" creationdate="20200708T093715Z">
+        <seg>Howto - Compiling OmegaT from the source code</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Howto - Creating a new file filter</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200708T093717Z" creationid="lesia" creationdate="20200708T093717Z">
+        <seg>Howto - Creating a new file filter</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Howto - Exporting from OmegaT to 'Trados uncleaned RTF' format</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200708T093715Z" creationid="lesia" creationdate="20200708T093715Z">
+        <seg>Howto - Exporting from OmegaT to 'Trados uncleaned RTF' format</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Howto - OmegaT compatibility with Déjà Vu</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200708T093714Z" creationid="lesia" creationdate="20200708T093714Z">
+        <seg>Howto - OmegaT compatibility with Déjà Vu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Howto - Spellchecking</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200708T093719Z" creationid="lesia" creationdate="20200708T093719Z">
+        <seg>Howto - Spellchecking</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Howto - The "Priorview" preview utility</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="lesia" changedate="20200708T092758Z" creationid="lesia" creationdate="20200708T092758Z">
         <seg>Howto - The "Priorview" preview utility</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Howto - Translating OmegaT into your language</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200708T093716Z" creationid="lesia" creationdate="20200708T093716Z">
+        <seg>Howto - Translating OmegaT into your language</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Howto - Translating PDF files with Iceni Infix and OmegaT</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200708T093716Z" creationid="lesia" creationdate="20200708T093716Z">
+        <seg>Howto - Translating PDF files with Iceni Infix and OmegaT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Howto - Translating Word 2007 files in OmegaT</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200708T093715Z" creationid="lesia" creationdate="20200708T093715Z">
+        <seg>Howto - Translating Word 2007 files in OmegaT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Howto - Using Google Translate in OmegaT</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200708T093716Z" creationid="lesia" creationdate="20200708T093716Z">
+        <seg>Howto - Using Google Translate in OmegaT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Howto - Using Microsoft Translator in OmegaT</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200708T093717Z" creationid="lesia" creationdate="20200708T093717Z">
+        <seg>Howto - Using Microsoft Translator in OmegaT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Howto - Using the OmegaT text export function (scripting interface)</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200708T093719Z" creationid="lesia" creationdate="20200708T093719Z">
+        <seg>Howto - Using the OmegaT text export function (scripting interface)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Howto - Using the OmegaT tokenizer</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200708T093720Z" creationid="lesia" creationdate="20200708T093720Z">
+        <seg>Howto - Using the OmegaT tokenizer</seg>
       </tuv>
     </tu>
     <tu>
@@ -13414,8 +13518,8 @@ need not be entered.)</seg>
       <tuv lang="en">
         <seg>If it is &lt;e0&gt;tar.bz&lt;/e0&gt;, you have forgotten to unpack (untar) it.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="maximo" changedate="20200607T151425Z" creationid="maximo" creationdate="20200404T170737Z">
-        <seg>Якщо це &lt;e0&gt;tar.bz&lt;/e0&gt;, то це архів - ви забули його розпакувати.</seg>
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200708T093728Z" creationid="maximo" creationdate="20200404T170737Z">
+        <seg>Якщо це &lt;e0&gt;tar.bz&lt;/e0&gt;, то це архів — ви забули його розпакувати.</seg>
       </tuv>
     </tu>
     <tu>
@@ -14079,8 +14183,8 @@ Explorer), change the settings so that file extensions are displayed.</seg>
       <tuv lang="en">
         <seg>If you have a natural aversion to reading instructions, and your approach to new software is to click on every button you see until something resembling the desired effect occurs, then OmegaT is probably not suitable for you.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="lesia" changedate="20200708T092452Z" creationid="maximo" creationdate="20200322T151634Z">
-        <seg>Якщо думка про читання інструкції викликає у вас огиду, а ваш підхід до освоєння нового програмного забезпечення - це «клацай все, що бачиш», - OmegaT не для вас.</seg>
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200708T093645Z" creationid="maximo" creationdate="20200322T151634Z">
+        <seg>Якщо думка про читання інструкції викликає у вас огиду, а ваш підхід до освоєння нового програмного забезпечення — це «клацай все, що бачиш», — OmegaT не для вас.</seg>
       </tuv>
     </tu>
     <tu>
@@ -14731,8 +14835,8 @@ click on that shortcut.</seg>
       <tuv lang="en">
         <seg>In order to run, OmegaT requires the Java Runtime Environment (JRE) to be installed on your computer.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="lesia" changedate="20200323T214720Z" creationid="maximo" creationdate="20200322T155612Z">
-        <seg>Для роботи OmegaT необхідно, щоб у вас на комп'ютері було встановлене середовище Java - Java Runtime Environment (JRE).</seg>
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200708T093650Z" creationid="maximo" creationdate="20200322T155612Z">
+        <seg>Для роботи OmegaT необхідно, щоб у вас на комп'ютері було встановлене середовище Java — Java Runtime Environment (JRE).</seg>
       </tuv>
     </tu>
     <tu>
@@ -16569,8 +16673,8 @@ itself on the first run.</seg>
       <tuv lang="en">
         <seg>Latest Version - {{site.data.versions.latest.name}}</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="maximo" changedate="20200322T153155Z" creationid="maximo" creationdate="20200322T153155Z">
-        <seg>Остання версія - {{site.data.versions.latest.name}}</seg>
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200708T093648Z" creationid="maximo" creationdate="20200322T153155Z">
+        <seg>Остання версія — {{site.data.versions.latest.name}}</seg>
       </tuv>
     </tu>
     <tu>
@@ -17694,8 +17798,8 @@ itself on the first run.</seg>
       <tuv lang="en">
         <seg>Merriam Webster dictionary - use</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="fanja9" changedate="20200529T171411Z" creationid="maximo" creationdate="20200329T200617Z">
-        <seg>Словник Мерріама-Вебстера - використання</seg>
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200708T093726Z" creationid="maximo" creationdate="20200329T200617Z">
+        <seg>Словник Мерріама-Вебстера — використання</seg>
       </tuv>
     </tu>
     <tu>
@@ -26317,8 +26421,8 @@ The scope of a search is by default the project and can be set to be any files l
       <tuv lang="en">
         <seg>TBX - Term Base eXchange - is the open, XML-based standard for exchanging structured terminological data, TBX has been approved as an international standard by LISA and ISO.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="Asus" changedate="20200610T141435Z" creationid="lesia" creationdate="20200505T194034Z">
-        <seg>TBX - Term Base eXchange - вільний, стандарт для обміну структурованими термінологічними даними, що базується на XML. LISA та ISO визнали TBX міжнародним стандартом .</seg>
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200708T093819Z" creationid="lesia" creationdate="20200505T194034Z">
+        <seg>TBX (Term Base eXchange) вільний стандарт для обміну структурованими термінологічними даними, що базується на XML. LISA та ISO визнали TBX міжнародним стандартом .</seg>
       </tuv>
     </tu>
     <tu>
@@ -27251,8 +27355,8 @@ Please try to correct the error and reload the project.</seg>
       <tuv lang="en">
         <seg>The Web Start version is the "install and forget" version.&lt;br0/&gt;</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="lesia" changedate="20200708T092348Z" creationid="maximo" creationdate="20200322T140753Z">
-        <seg>Версія Web Start - тип встановлення «встановив і забув»&lt;br0/&gt;</seg>
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200708T093627Z" creationid="maximo" creationdate="20200322T140753Z">
+        <seg>Версія Web Start — тип встановлення «встановив і забув»&lt;br0/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -27921,8 +28025,8 @@ instead.</seg>
       <tuv lang="en">
         <seg>The glossary function only finds exact matches with the glossary entry (e.g. does not find inflected forms etc.).</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="lesia" changedate="20200616T203841Z" creationid="lesia" creationdate="20200504T155722Z">
-        <seg>Функція глосарія залежить від наявності токенізації для кожної конкретної мови. Якщо токенізації для вашої мови немає - флексії не розпізнаються, і будуть знаходитися лише точні збіги зі словами в сегменті оригіналу. Якщо ж токенізація для вашої мови є - знаходитимуться і флективні форми слів.</seg>
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200708T093732Z" creationid="lesia" creationdate="20200504T155722Z">
+        <seg>Функція глосарія залежить від наявності токенізації для кожної конкретної мови. Якщо токенізації для вашої мови немає — флексії не розпізнаються, і будуть знаходитися лише точні збіги зі словами в сегменті оригіналу. Якщо ж токенізація для вашої мови є — знаходитимуться і флективні форми слів.</seg>
       </tuv>
     </tu>
     <tu>
@@ -28298,8 +28402,8 @@ in /lib/licenses/Licenses.txt.</seg>
       <tuv lang="en">
         <seg>The perfect companion for those of us who don't need complexity but efficiency; glossaries, auto-complete and automatic translation makes my work in literary translation so much more efficient</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="lesia" changedate="20200324T160835Z" creationid="maximo" creationdate="20200322T173213Z">
-        <seg>OmegaT — чудовий помічник для тих, кому потрібна не складність, а ефективність. Словники, автодоповнення та автоматичний переклад - все це надзвичайно збільшує ефективність моєї роботи як літературного перекладача.</seg>
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200708T093654Z" creationid="maximo" creationdate="20200322T173213Z">
+        <seg>OmegaT — чудовий помічник для тих, кому потрібна не складність, а ефективність. Словники, автодоповнення та автоматичний переклад — все це надзвичайно збільшує ефективність моєї роботи як літературного перекладача.</seg>
       </tuv>
     </tu>
     <tu>
@@ -29037,8 +29141,8 @@ in /lib/licenses/Licenses.txt.</seg>
       <tuv lang="en">
         <seg>The underlined item "pop-up menu" can be found in the glossary pane as "pojavni menu".</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="lesia" changedate="20200708T084512Z" creationid="lesia" creationdate="20200504T165038Z">
-        <seg>В області глосарія відображується український відповідник підкресленого терміну «file filters» - «фільтри файлів».</seg>
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200708T093736Z" creationid="lesia" creationdate="20200504T165038Z">
+        <seg>В області глосарія відображується український відповідник підкресленого терміну «file filters» — «фільтри файлів».</seg>
       </tuv>
     </tu>
     <tu>
@@ -32588,8 +32692,8 @@ searchable without subscription:</seg>
       <tuv lang="en">
         <seg>Valter Mura - Translator EN &gt; IT</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="maximo" changedate="20200322T173611Z" creationid="maximo" creationdate="20200322T173611Z">
-        <seg>Valter Mura - Перекладач EN &gt; IT</seg>
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200708T093701Z" creationid="maximo" creationdate="20200322T173611Z">
+        <seg>Valter Mura — Перекладач EN &gt; IT</seg>
       </tuv>
     </tu>
     <tu>
