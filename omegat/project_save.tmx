@@ -15083,8 +15083,8 @@ click on that shortcut.</seg>
       <tuv lang="en">
         <seg>In this mode, OmegaT will align files found in the &lt;f0&gt;/source/&lt;/f0&gt; folder of the project with the contents found at the specified location.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="lesia" changedate="20200702T091810Z" creationid="lesia" creationdate="20200702T091810Z">
-        <seg>У цьому режимі OmegaT буде вирівнювати файли із теки &lt;f0&gt;/source/&lt;/f0&gt; та файли із вказаної теки.</seg>
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200708T104114Z" creationid="lesia" creationdate="20200702T091810Z">
+        <seg>У цьому режимі OmegaT буде вирівнювати файли із теки &lt;f0&gt;./source&lt;/f0&gt; та файли із вказаної теки.</seg>
       </tuv>
     </tu>
     <tu>
@@ -15099,8 +15099,8 @@ click on that shortcut.</seg>
       <tuv lang="en">
         <seg>In this mode, OmegaT will attempt to translate the files in &lt;f0&gt;/source/&lt;/f0&gt; with the available translation memories.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="lesia" changedate="20200708T101737Z" creationid="maximo" creationdate="20200423T154926Z">
-        <seg>У цьому режимі OmegaT намагається перекласти файли із теки &lt;f0&gt;/source/&lt;/f0&gt; з використанням доступної пам’яті перекладів.</seg>
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200708T104057Z" creationid="maximo" creationdate="20200423T154926Z">
+        <seg>У цьому режимі OmegaT намагається перекласти файли із теки &lt;f0&gt;./source&lt;/f0&gt; з використанням доступної пам’яті перекладів.</seg>
       </tuv>
     </tu>
     <tu>
@@ -28650,8 +28650,8 @@ in /lib/licenses/Licenses.txt.</seg>
       <tuv lang="en">
         <seg>The resulting TMX is stored in the &lt;f1&gt;/omegat/&lt;/f1&gt; folder under the name &lt;f2&gt;align.tmx&lt;/f2&gt;.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="maximo" changedate="20200423T155527Z" creationid="maximo" creationdate="20200423T155527Z">
-        <seg>Файл TMX, що буде отриманий в результаті вирівнювання, зберігається у теці &lt;f1&gt;/omegat/&lt;/f1&gt; з іменем &lt;f2&gt;align.tmx&lt;/f2&gt;.</seg>
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200708T104126Z" creationid="maximo" creationdate="20200423T155527Z">
+        <seg>Файл TMX, що буде отриманий в результаті вирівнювання, зберігається у теці &lt;f1&gt;./omegat&lt;/f1&gt; з іменем &lt;f2&gt;align.tmx&lt;/f2&gt;.</seg>
       </tuv>
     </tu>
     <tu>
