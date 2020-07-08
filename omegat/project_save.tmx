@@ -2902,8 +2902,8 @@ The current setting is {0}MB;</seg>
       <tuv lang="en">
         <seg>&lt;e0&gt;Yes: &lt;/e0&gt;download &lt;f1&gt;OmegaT_4.n.n_Without_JRE.zip&lt;/f1&gt;.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="maximo" changedate="20200419T072300Z" creationid="maximo" creationdate="20200419T072300Z">
-        <seg>&lt;e0&gt;Так:&lt;/e0&gt; завантажте &lt;e1&gt;OmegaT_4.n.n_Without_JRE.zip&lt;/e1&gt;.</seg>
+      <tuv lang="uk-UA" changeid="maximo" changedate="20200708T054112Z" creationid="maximo" creationdate="20200419T072300Z">
+        <seg>&lt;e0&gt;Так:&lt;/e0&gt; завантажте &lt;f1&gt;OmegaT_4.n.n_Without_JRE.zip&lt;/f1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
