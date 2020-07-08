@@ -7999,8 +7999,8 @@ Buy another drink</seg>
       <tuv lang="en">
         <seg>Create a folder (a "repository folder") in a convenient location on your hard drive for the translation memories for a particular customer or subject.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="lesia" changedate="20200705T054916Z" creationid="lesia" creationdate="20200705T054058Z">
-        <seg>Створіть теку ("тека репозиторію") у зручному місці вашого жорсткого диску. У ній ви можете розміщувати памʼяті перекладів певного замовника чи певної тематики.</seg>
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200708T091516Z" creationid="lesia" creationdate="20200705T054058Z">
+        <seg>Створіть теку («тека репозиторію») у зручному місці вашого жорсткого диску. У ній ви можете розміщувати памʼяті перекладів певного замовника чи певної тематики.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10289,8 +10289,8 @@ Your help page not found</seg>
       <tuv lang="en">
         <seg>Enter "&lt;a0&gt;OmegaT&lt;/a0&gt;" in the "Name" field; in the "Command" field, use the navigation button to find your &lt;a1&gt;OmegaT&lt;/a1&gt; launch script (the file named &lt;a2&gt;OmegaT&lt;/a2&gt; in the unpacked folder).</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="lesia" changedate="20200708T085234Z" creationid="maximo" creationdate="20200419T110702Z">
-        <seg>Вставте "&lt;a0&gt;OmegaT&lt;/a0&gt;" у поле "Ім'я"; у полі «Команда» використайте кнопку Огляд, щоб знайти свій скрипт запуску &lt;a1&gt;OmegaT&lt;/a1&gt; (файл &lt;a2&gt;OmegaT&lt;/a2&gt; у розпакованій теці).</seg>
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200708T091708Z" creationid="maximo" creationdate="20200419T110702Z">
+        <seg>Вставте «&lt;a0&gt;OmegaT&lt;/a0&gt;» у поле «Ім'я»; у полі «Команда» використайте кнопку Огляд, щоб знайти свій скрипт запуску &lt;a1&gt;OmegaT&lt;/a1&gt; (файл &lt;a2&gt;OmegaT&lt;/a2&gt; у розпакованій теці).</seg>
       </tuv>
     </tu>
     <tu>
@@ -14063,8 +14063,8 @@ Explorer), change the settings so that file extensions are displayed.</seg>
       <tuv lang="en">
         <seg>If you have a PDF file made of scanned pages (sometimes such files are referred to as ‘dead’ PDFs), you need to use an OCR (optical character recognition) program to recognize the text and convert it to a format that can be handled by OmegaT.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="maximo" changedate="20200704T204905Z" creationid="maximo" creationdate="20200704T204905Z">
-        <seg>Якщо ж у вас файл PDF, що складається зі сканованих сторінок (так звані "мертві PDF"), вам для початку треба використати програму для розпізнавання тексту (OCR, optical character recognition), щоб отримати текст та перетворити його на формат, з яким OmegaT зможе працювати.</seg>
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200708T091555Z" creationid="maximo" creationdate="20200704T204905Z">
+        <seg>Якщо ж у вас файл PDF, що складається зі сканованих сторінок (так звані «мертві PDF»), вам для початку треба використати програму для розпізнавання тексту (OCR, optical character recognition), щоб отримати текст та перетворити його на формат, з яким OmegaT зможе працювати.</seg>
       </tuv>
     </tu>
     <tu>
@@ -14337,8 +14337,8 @@ to use Java Web Start.</seg>
       <tuv lang="en">
         <seg>If your existing OmegaT installation is a "Windows with JRE" version, the new version must also be a "Windows with JRE" version.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="maximo" changedate="20200419T072217Z" creationid="maximo" creationdate="20200419T072217Z">
-        <seg>Якщо ваша версія OmegaT була "для Windows із JRE", нова версія також має бути "для Windows із JRE".</seg>
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200708T091643Z" creationid="maximo" creationdate="20200419T072217Z">
+        <seg>Якщо ваша версія OmegaT була «для Windows із JRE», нова версія також має бути "для Windows із JRE".</seg>
       </tuv>
     </tu>
     <tu>
@@ -19968,8 +19968,8 @@ installed on your system.</seg>
       <tuv lang="en">
         <seg>On Windows it is called an "MS-DOS window" and is available from the Start Menu, inside Programs, through the "MS-DOS" item.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="maximo" changedate="20200420T200723Z" creationid="maximo" creationdate="20200420T200723Z">
-        <seg>Під Windows його називають "вікно MS-DOS", і до нього можна доступитися через пункт MS-DOS меню Пуск.</seg>
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200708T091747Z" creationid="maximo" creationdate="20200420T200723Z">
+        <seg>Під Windows його називають «вікно MS-DOS», і до нього можна доступитися через пункт MS-DOS меню Пуск.</seg>
       </tuv>
     </tu>
     <tu>
@@ -25104,8 +25104,8 @@ The scope of a search is by default the project and can be set to be any files l
       <tuv lang="en">
         <seg>Should you wish to reuse a translation memory from a previous project (for example because the new project is similar to the previous project, or uses terminology which might have been used before), you can use these translation memories as "input translation memories", i.e. for import into your new project.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="lesia" changedate="20200705T050644Z" creationid="lesia" creationdate="20200705T050644Z">
-        <seg>Якщо ви захочете скористатися вашою памʼяттю перекладів з попереднього проєкту (наприклад, у випадку, якщо новий проєкт схожий за змістом до попереднього або ж використовує ту ж термінологію), ви можете використати ці файли як "імпортовану памʼять перекладів", тобто, додати їх до вашого нового проєкту.</seg>
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200708T091457Z" creationid="lesia" creationdate="20200705T050644Z">
+        <seg>Якщо ви захочете скористатися вашою памʼяттю перекладів з попереднього проєкту (наприклад, у випадку, якщо новий проєкт схожий за змістом до попереднього або ж використовує ту ж термінологію), ви можете використати ці файли як «імпортовану памʼять перекладів», тобто, додати їх до вашого нового проєкту.</seg>
       </tuv>
     </tu>
     <tu>
@@ -29740,8 +29740,8 @@ the server.</seg>
       <tuv lang="en">
         <seg>This information applies only to the "Traditional" Windows versions of OmegaT.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="maximo" changedate="20200419T070818Z" creationid="maximo" creationdate="20200419T070805Z">
-        <seg>Ця інформація стосується лише "традиційних" версій OmegaT для Windows.</seg>
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200708T091611Z" creationid="maximo" creationdate="20200419T070805Z">
+        <seg>Ця інформація стосується лише «традиційних» версій OmegaT для Windows.</seg>
       </tuv>
     </tu>
     <tu>
@@ -30252,8 +30252,8 @@ the server.</seg>
       <tuv lang="en">
         <seg>To access &lt;f0&gt;Configuration.properties&lt;/f0&gt;, right-click on &lt;f1&gt;OmegaT.app&lt;/f1&gt; and select "Show Package Contents", then open the file in &lt;f2&gt;Contents/Resources&lt;/f2&gt; by right-clicking on it and selecting your text editor of choice.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="maximo" changedate="20200420T163413Z" creationid="maximo" creationdate="20200420T163413Z">
-        <seg>Щоб отримати доступ до &lt;f0&gt;Configuration.properties&lt;/f0&gt;, натисніть правою клавішою миші на &lt;f1&gt;OmegaT.app&lt;/f1&gt; та виберіть "Показати вміст пакету", там знайдіть його у теці &lt;f2&gt;Contents/Resources&lt;/f2&gt;. Правою клавішою миші натисніть на файл та оберіть ваш улюблений текстовий редактор.</seg>
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200708T091728Z" creationid="maximo" creationdate="20200420T163413Z">
+        <seg>Щоб отримати доступ до &lt;f0&gt;Configuration.properties&lt;/f0&gt;, натисніть правою клавішою миші на &lt;f1&gt;OmegaT.app&lt;/f1&gt; та виберіть «Показати вміст пакету», там знайдіть його у теці &lt;f2&gt;Contents/Resources&lt;/f2&gt;. Правою клавішою миші натисніть на файл та оберіть ваш улюблений текстовий редактор.</seg>
       </tuv>
     </tu>
     <tu>
@@ -33398,8 +33398,8 @@ Your page is not found</seg>
       <tuv lang="en">
         <seg>With this method, you may also download the "Windows without JRE" version, since the new installation will use your existing JRE.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="maximo" changedate="20200419T071724Z" creationid="maximo" creationdate="20200419T071724Z">
-        <seg>До речі, цим способом ви можете обрати версію "для Windows без JRE", оскільки нова версія OmegaT буде використовувати вже існуюче JRE.</seg>
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200708T091626Z" creationid="maximo" creationdate="20200419T071724Z">
+        <seg>До речі, цим способом ви можете обрати версію «для Windows без JRE», оскільки нова версія OmegaT буде використовувати вже існуюче JRE.</seg>
       </tuv>
     </tu>
     <tu>
