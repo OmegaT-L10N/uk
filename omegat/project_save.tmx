@@ -21499,8 +21499,8 @@ additional steps need to be taken.</seg>
       <tuv lang="en">
         <seg>Plugins are installed in the &lt;f0&gt;/plugins&lt;/f0&gt; folder.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="maximo" changedate="20200412T201538Z" creationid="maximo" creationdate="20200412T201538Z">
-        <seg>Плагіни встановлюються в теку &lt;f0&gt;/plugins&lt;/f0&gt;.</seg>
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200708T103407Z" creationid="maximo" creationdate="20200412T201538Z">
+        <seg>Плагіни встановлюються в теку &lt;f0&gt;plugins&lt;/f0&gt; головної теки OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
