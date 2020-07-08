@@ -28853,8 +28853,8 @@ in /lib/licenses/Licenses.txt.</seg>
       <tuv lang="en">
         <seg>The solution in our example is to copy the existing translation memory into the tm/tmx2source/ subfolder and rename it to ZH_CN.tmx to indicate the target language of the tmx.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="lesia" changedate="20200708T102532Z" creationid="maximo" creationdate="20200705T052923Z">
-        <seg>Цього можна досягнути, якщо скопіювати існуючу пам’ять перекладів у підтеку tm/tmx2source/ та перейменувати її в ZH_CN.tmx, що визначає її мову перекладу.</seg>
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200708T103645Z" creationid="maximo" creationdate="20200705T052923Z">
+        <seg>Цього можна досягнути, якщо скопіювати існуючу пам’ять перекладів у підтеку ./tm/tmx2source/ та перейменувати її в ZH_CN.tmx, що визначає її мову перекладу.</seg>
       </tuv>
     </tu>
     <tu>
