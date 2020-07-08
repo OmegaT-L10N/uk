@@ -7059,8 +7059,8 @@ Buy another drink</seg>
       <tuv lang="EN">
         <seg>Click on the icon button, then hit &lt;g0&gt;Browse...&lt;/g0&gt; and navigate to the &lt;f1&gt;/images&lt;/f1&gt; subfolder in the &lt;a2&gt;OmegaT&lt;/a2&gt; application folder.</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="fanja9" changedate="20200708T153834Z" creationid="maximo" creationdate="20200420T161008Z">
-        <seg>Натисніть на кнопку іконки, потім на кнопку &lt;g0&gt;Огляд...&lt;/g0&gt; та перейдіть до підтеки &lt;f1&gt;images&lt;/f1&gt; головної теки програми &lt;a2&gt;OmegaT&lt;/a2&gt;</seg>
+      <tuv lang="UK-UA" changeid="fanja9" changedate="20200708T154040Z" creationid="maximo" creationdate="20200420T161008Z">
+        <seg>Натисніть на кнопку іконки, потім на кнопку &lt;g0&gt;Огляд...&lt;/g0&gt; та перейдіть до підтеки &lt;f1&gt;images&lt;/f1&gt; головної теки програми &lt;a2&gt;OmegaT&lt;/a2&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12187,8 +12187,8 @@ provided (omegat.kaptn).</seg>
       <tuv lang="EN">
         <seg>GNOME may fail to display the icon files in the available formats and initially appear to expect an SVG file, but if the folder is selected, the files should appear and &lt;f4&gt;OmegaT.png&lt;/f4&gt; can be selected.</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="fanja9" changedate="20200708T133219Z" creationid="maximo" creationdate="20200420T161236Z">
-        <seg> Спочатку GNOME може не відображати всі файли іконок коректно. Може виглядати так, ніби очікується саме файл SVG, але якщо перейти в теку, то можна буде побачити всі файли і таки обрати &lt;f4&gt;OmegaT.png&lt;/f4&gt;.</seg>
+      <tuv lang="UK-UA" changeid="fanja9" changedate="20200708T154151Z" creationid="maximo" creationdate="20200420T161236Z">
+        <seg>Спочатку GNOME може не відображати всі файли іконок коректно. Може виглядати так, ніби очікується саме файл SVG, але якщо перейти до теки, то можна буде побачити всі файли і таки обрати &lt;f4&gt;OmegaT.png&lt;/f4&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -20763,8 +20763,8 @@ installed on your system.</seg>
       <tuv lang="EN">
         <seg>Other Icons - Browse, and navigate to the &lt;f0&gt;/images&lt;/f0&gt; subfolder in the &lt;a1&gt;OmegaT&lt;/a1&gt; application folder.</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="lesia" changedate="20200708T104025Z" creationid="maximo" creationdate="20200419T105335Z">
-        <seg>Інші іконки — Огляд, та перейдіть у підтеку &lt;f0&gt;images&lt;/f0&gt; головної теки програми &lt;a1&gt;OmegaT&lt;/a1&gt;.</seg>
+      <tuv lang="UK-UA" changeid="fanja9" changedate="20200708T153857Z" creationid="maximo" creationdate="20200419T105335Z">
+        <seg>Інші іконки — Огляд, та перейдіть до підтеки &lt;f0&gt;images&lt;/f0&gt; головної теки програми &lt;a1&gt;OmegaT&lt;/a1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -24832,8 +24832,8 @@ The scope of a search is by default the project and can be set to be any files l
       <tuv lang="EN">
         <seg>Select the &lt;f3&gt;OmegaT.png&lt;/f3&gt; icon.</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="maximo" changedate="20200420T161022Z" creationid="maximo" creationdate="20200419T110705Z">
-        <seg>оберіть файл &lt;f3&gt;OmegaT.png&lt;/f3&gt;.</seg>
+      <tuv lang="UK-UA" changeid="fanja9" changedate="20200708T154048Z" creationid="maximo" creationdate="20200419T110705Z">
+        <seg>Оберіть файл &lt;f3&gt;OmegaT.png&lt;/f3&gt;.</seg>
       </tuv>
     </tu>
     <tu>
