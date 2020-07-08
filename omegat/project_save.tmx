@@ -1635,8 +1635,8 @@ To add files to the project, click on the Copy Files to Source Folder... button 
       <tuv lang="en">
         <seg>(Software that does this is called "machine translation", and you will have to look elsewhere for it.)</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="lesia" changedate="20200324T161418Z" creationid="maximo" creationdate="20200322T171120Z">
-        <seg>(це робить так званий "машинний переклад", шукайте його деінде).</seg>
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200708T085358Z" creationid="maximo" creationdate="20200322T171120Z">
+        <seg>(це робить так званий «машинний переклад», шукайте його деінде).</seg>
       </tuv>
     </tu>
     <tu>
@@ -10257,8 +10257,8 @@ Your help page not found</seg>
       <tuv lang="en">
         <seg>English: words, beginning with vowels, should generally be preceded by "an", not "a"</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="fanja9" changedate="20200701T150425Z" creationid="maximo" creationdate="20200412T053258Z">
-        <seg>В англійській мові слова, що починаються на голосні, як правило мають перед собою артикль "an", а не "a"</seg>
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200708T085651Z" creationid="maximo" creationdate="20200412T053258Z">
+        <seg>В англійській мові слова, що починаються на голосні, як правило мають перед собою артикль «an», а не «a»</seg>
       </tuv>
     </tu>
     <tu>
@@ -13451,8 +13451,8 @@ their defaults as a result of the location change.</seg>
       <tuv lang="en">
         <seg>If no replacement is done to a given segment, the target segment will be “emptied”, i.e., it will remain untranslated.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="maximo" changedate="20200503T064213Z" creationid="maximo" creationdate="20200503T064038Z">
-        <seg>Якщо до якогось із сегментів не буде застосовано заміну, він "очиститься", тобто залишиться неперекладеним після завершення сесії заміни.</seg>
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200708T085353Z" creationid="maximo" creationdate="20200503T064038Z">
+        <seg>Якщо до якогось із сегментів не буде застосовано заміну, він «очиститься», тобто залишиться неперекладеним після завершення сесії заміни.</seg>
       </tuv>
     </tu>
     <tu>
@@ -16105,8 +16105,8 @@ itself on the first run.</seg>
       <tuv lang="en">
         <seg>Java command-line script for removing "superfluous" translation units from a TMX file: deletes all TUs without target segment or in which the target segment is identical to the source segment.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="lesia" changedate="20200322T153420Z" creationid="lesia" creationdate="20200322T153420Z">
-        <seg>Скрипт на Java для видалення "зайвих" одиниць перекладу з файлу TMX: видаляє всі одиниці перекладу без цільового сегмента або ті, для яких цільовий сегмент ідентичний вихідному.</seg>
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200708T085406Z" creationid="lesia" creationdate="20200322T153420Z">
+        <seg>Скрипт на Java для видалення «зайвих» одиниць перекладу з файлу TMX: видаляє всі одиниці перекладу без цільового сегмента або ті, для яких цільовий сегмент ідентичний вихідному.</seg>
       </tuv>
     </tu>
     <tu>
@@ -18511,8 +18511,8 @@ as the Applications folder.</seg>
       <tuv lang="en">
         <seg>No glossary file found in the "glossary" folder.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="lesia" changedate="20200616T203841Z" creationid="lesia" creationdate="20200505T203006Z">
-        <seg>Не знайдено файлів глосарія у теці "glossary".</seg>
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200708T085632Z" creationid="lesia" creationdate="20200505T203006Z">
+        <seg>Не знайдено файлів глосарія у теці glossary.</seg>
       </tuv>
     </tu>
     <tu>
@@ -25386,8 +25386,8 @@ The scope of a search is by default the project and can be set to be any files l
       <tuv lang="en">
         <seg>Some of the dictionaries have no strings attached - i.e. are "Free to use", and others, like the selection above, are under the GPL license.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="Asus" changedate="20200609T115300Z" creationid="maximo" creationdate="20200329T200607Z">
-        <seg>Ці словники видані під ліцензією GPL, однак, є і такі, які не прив'язані до жодних ліцензій, тобто, вони "Вільні для використання".</seg>
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200708T085546Z" creationid="maximo" creationdate="20200329T200607Z">
+        <seg>Ці словники видані під ліцензією GPL, однак, є і такі, які не прив'язані до жодних ліцензій, тобто, вони «Вільні для використання».</seg>
       </tuv>
     </tu>
     <tu>
@@ -28306,8 +28306,8 @@ in /lib/licenses/Licenses.txt.</seg>
       <tuv lang="en">
         <seg>The permissions you give to this version (which may be described as "unrestricted access to the computer") are no different from the permissions you assign to the local version, i.e., an access to the hard drive of your computer.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="lesia" changedate="20200323T221452Z" creationid="maximo" creationdate="20200322T162447Z">
-        <seg>Для встановлення цієї версії ваша система може просити у вас "необмеженого доступу до комп'ютера". Але мається на увазі той самий дозвіл, що і для встановлення звичайної версії OmegaT, тобто доступ до жорстокого диску.</seg>
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200708T085356Z" creationid="maximo" creationdate="20200322T162447Z">
+        <seg>Для встановлення цієї версії ваша система може просити у вас «необмеженого доступу до комп'ютера». Але мається на увазі той самий дозвіл, що і для встановлення звичайної версії OmegaT, тобто доступ до жорстокого диску.</seg>
       </tuv>
     </tu>
     <tu>
@@ -28547,8 +28547,8 @@ in /lib/licenses/Licenses.txt.</seg>
       <tuv lang="en">
         <seg>The results from the priority glossary (by default, glossary/glossary.txt) appear in first places in the Glossary pane and in TransTips.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="lesia" changedate="20200614T162613Z" creationid="lesia" creationdate="20200505T202008Z">
-        <seg>Результати з пріоритетного словника (типово це glossary/glossary.txt) з'являються на першому місці в області "Глосарій".</seg>
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200708T085612Z" creationid="lesia" creationdate="20200505T202008Z">
+        <seg>Результати з пріоритетного словника (типово це glossary/glossary.txt) з'являються на першому місці в області «Глосарій».</seg>
       </tuv>
     </tu>
     <tu>
