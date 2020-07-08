@@ -96,7 +96,7 @@
       <tuv lang="en">
         <seg>"\s" means any white space character (space, tab, new page etc.)</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="lesia" changedate="20200708T090154Z" creationid="maximo" creationdate="20200416T090844Z">
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200708T095735Z" creationid="maximo" creationdate="20200416T090844Z">
         <seg>«\s» позначає будь-який пробільний символ (пробіл, табуляцію, символ нової сторінки і т.п.)</seg>
       </tuv>
     </tu>
@@ -111,7 +111,7 @@
 # Country
 -Duser.country=CA</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="maximo" changedate="20200510T172936Z" creationid="maximo" creationdate="20200510T172936Z">
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200708T095735Z" creationid="maximo" creationdate="20200510T172936Z">
         <seg># OmegaT.exe runtime configuration
 # To use a parameter, remove the '#' before the '-'
 # Memory
@@ -142,7 +142,7 @@
       <tuv lang="en">
         <seg>$ &lt;s0&gt;java -version&lt;/s0&gt;</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="maximo" changedate="20200614T164028Z" creationid="maximo" creationdate="20200614T164028Z">
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200708T095735Z" creationid="maximo" creationdate="20200614T164028Z">
         <seg>$ &lt;s0&gt;java -version&lt;/s0&gt;</seg>
       </tuv>
     </tu>
@@ -1768,7 +1768,7 @@ To add files to the project, click on the Copy Files to Source Folder... button 
 - Marc Prior (project co-ordinator, webmaster)
 - Vito Smolej (documentation manager)</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="maximo" changedate="20200404T165504Z" creationid="maximo" creationdate="20200404T165504Z">
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200708T095735Z" creationid="maximo" creationdate="20200404T165504Z">
         <seg>- Anthony Baldwin (менеджер з локалізації)
 - Didier Briel (проєктний менеджер)
 - Alex Buloichik (головний розробник)
@@ -1792,7 +1792,7 @@ To add files to the project, click on the Copy Files to Source Folder... button 
 - Briac Pilpré (webmaster)
 - Lucie Vecerova (Facebook community manager)</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="maximo" changedate="20200404T165218Z" creationid="maximo" creationdate="20200404T165218Z">
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200708T095735Z" creationid="maximo" creationdate="20200404T165218Z">
         <seg>- Vincent Bidaux (менеджер документації)
 - Marco Cevoli (менеджер спільноти Telegram)
 - Jean-Christophe Helary (менеджер спільноти Twitter)
@@ -1806,7 +1806,7 @@ To add files to the project, click on the Copy Files to Source Folder... button 
       <tuv lang="en">
         <seg>---- Localization Notes ----</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20190504T132428Z" creationid="Kos Ivantsov" creationdate="20190504T132428Z">
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200708T095735Z" creationid="Kos Ivantsov" creationdate="20190504T132428Z">
         <seg>---- Примітки з локалізації ----</seg>
       </tuv>
     </tu>
@@ -1814,7 +1814,7 @@ To add files to the project, click on the Copy Files to Source Folder... button 
       <tuv lang="en">
         <seg>--/--</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20190419T184103Z" creationid="Kos Ivantsov" creationdate="20190419T184103Z">
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200708T095735Z" creationid="Kos Ivantsov" creationdate="20190419T184103Z">
         <seg>--/--</seg>
       </tuv>
     </tu>
@@ -1822,7 +1822,7 @@ To add files to the project, click on the Copy Files to Source Folder... button 
       <tuv lang="en">
         <seg>--/-- (--/--, --)</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20190419T184138Z" creationid="Kos Ivantsov" creationdate="20190419T184138Z">
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200708T095735Z" creationid="Kos Ivantsov" creationdate="20190419T184138Z">
         <seg>--/-- (--/--, --)</seg>
       </tuv>
     </tu>
@@ -1833,7 +1833,7 @@ To add files to the project, click on the Copy Files to Source Folder... button 
 		Source- or target-language tokenizer to use (overrides project
 		settings).</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20190421T171338Z" creationid="Kos Ivantsov" creationdate="20190419T180509Z">
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200708T095735Z" creationid="Kos Ivantsov" creationdate="20190419T180509Z">
         <seg>--ITokenizer=&lt;ім’я класу&gt;
 --ITokenizerTarget=&lt;ім’я класу&gt;
 		Використати токенізатор мови оригіналу чи перекладу
@@ -1844,7 +1844,7 @@ To add files to the project, click on the Copy Files to Source Folder... button 
       <tuv lang="en">
         <seg>--alignDir=&lt;p0&gt;&lt;location of translated files&gt;&lt;/p0&gt;</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="maximo" changedate="20200423T155639Z" creationid="maximo" creationdate="20200423T155639Z">
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200708T095735Z" creationid="maximo" creationdate="20200423T155639Z">
         <seg>--alignDir=&lt;p0&gt;&lt;тека перекладених файлів&gt;&lt;/p0&gt;</seg>
       </tuv>
     </tu>
@@ -1852,7 +1852,7 @@ To add files to the project, click on the Copy Files to Source Folder... button 
       <tuv lang="en">
         <seg>--config-dir=&lt;p1&gt;/path/to/config-files/&lt;/p1&gt; \</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="lesia" changedate="20200702T190314Z" creationid="lesia" creationdate="20200702T190314Z">
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200708T095735Z" creationid="lesia" creationdate="20200702T190314Z">
         <seg>--config-dir=&lt;p1&gt;/path/to/config-files/&lt;/p1&gt; \</seg>
       </tuv>
     </tu>
@@ -1860,7 +1860,7 @@ To add files to the project, click on the Copy Files to Source Folder... button 
       <tuv lang="en">
         <seg>--config-file=&lt;p2&gt;/path/to/config-file/&lt;/p2&gt; \</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="lesia" changedate="20200702T190314Z" creationid="lesia" creationdate="20200702T190314Z">
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200708T095735Z" creationid="lesia" creationdate="20200702T190314Z">
         <seg>--config-file=&lt;p2&gt;/path/to/config-file/&lt;/p2&gt; \</seg>
       </tuv>
     </tu>
@@ -1869,7 +1869,7 @@ To add files to the project, click on the Copy Files to Source Folder... button 
         <seg>--config-file=&lt;path&gt;
 		A Java .properties file from which to load default settings.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20190419T175156Z" creationid="Kos Ivantsov" creationdate="20190419T175156Z">
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200708T095735Z" creationid="Kos Ivantsov" creationdate="20190419T175156Z">
         <seg>--config-file=&lt;шлях&gt;
 		Java-файл «.properties» з налаштуваннями, які будуть використані при запуску програми.</seg>
       </tuv>
@@ -1879,7 +1879,7 @@ To add files to the project, click on the Copy Files to Source Folder... button 
         <seg>--disable-location-save
 		Do not remember the last directory opened in the file picker.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20190419T180341Z" creationid="Kos Ivantsov" creationdate="20190419T180341Z">
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200708T095735Z" creationid="Kos Ivantsov" creationdate="20190419T180341Z">
         <seg>--disable-location-save
 		Не запам’ятовувати останню теку, яка була відкрита у діалозі вибору файлів.</seg>
       </tuv>
@@ -1889,7 +1889,7 @@ To add files to the project, click on the Copy Files to Source Folder... button 
         <seg>--disable-project-locking
 		Do not attempt to lock the project's omegat.project file.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20190419T175647Z" creationid="Kos Ivantsov" creationdate="20190419T175647Z">
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200708T095735Z" creationid="Kos Ivantsov" creationdate="20190419T175647Z">
         <seg>--disable-project-locking
 		Не намагатися блокувати файл проєкту «omegat.project».</seg>
       </tuv>
@@ -1898,7 +1898,7 @@ To add files to the project, click on the Copy Files to Source Folder... button 
       <tuv lang="en">
         <seg>--mode=&lt;p3&gt;console-translate|console-createpseudotranslatetmx|console-align&lt;/p3&gt; \</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="lesia" changedate="20200702T190315Z" creationid="lesia" creationdate="20200702T190315Z">
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200708T095735Z" creationid="lesia" creationdate="20200702T190315Z">
         <seg>--mode=&lt;p3&gt;console-translate|console-createpseudotranslatetmx|console-align&lt;/p3&gt; \</seg>
       </tuv>
     </tu>
@@ -1907,7 +1907,7 @@ To add files to the project, click on the Copy Files to Source Folder... button 
         <seg>--mode=[console-translate|console-pseudotranslatetmx|console-align]
 		Specify a mode other than default (GUI).</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20190419T173922Z" creationid="Kos Ivantsov" creationdate="20190419T173628Z">
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200708T095735Z" creationid="Kos Ivantsov" creationdate="20190419T173628Z">
         <seg>--mode=[console-translate|console-pseudotranslatetmx|console-align]
 		Вказати режим, відмінний від типового
 		(тобто, графічного інтерфейсу).</seg>
@@ -1917,7 +1917,7 @@ To add files to the project, click on the Copy Files to Source Folder... button 
       <tuv lang="en">
         <seg>--mode=console-align</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="lesia" changedate="20200702T091643Z" creationid="lesia" creationdate="20200702T091643Z">
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200708T095735Z" creationid="lesia" creationdate="20200702T091643Z">
         <seg>--mode=console-align</seg>
       </tuv>
     </tu>
@@ -1925,7 +1925,7 @@ To add files to the project, click on the Copy Files to Source Folder... button 
       <tuv lang="en">
         <seg>--mode=console-createpseudotranslatetmx</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="lesia" changedate="20200702T190319Z" creationid="lesia" creationdate="20200702T190319Z">
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200708T095735Z" creationid="lesia" creationdate="20200702T190319Z">
         <seg>--mode=console-createpseudotranslatetmx</seg>
       </tuv>
     </tu>
@@ -1933,7 +1933,7 @@ To add files to the project, click on the Copy Files to Source Folder... button 
       <tuv lang="en">
         <seg>--mode=console-translate</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="lesia" changedate="20200702T190318Z" creationid="lesia" creationdate="20200702T190318Z">
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200708T095735Z" creationid="lesia" creationdate="20200702T190318Z">
         <seg>--mode=console-translate</seg>
       </tuv>
     </tu>
@@ -1942,7 +1942,7 @@ To add files to the project, click on the Copy Files to Source Folder... button 
         <seg>--no-team
 		Disable team project functionality.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20190419T180417Z" creationid="Kos Ivantsov" creationdate="20190419T180417Z">
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200708T095735Z" creationid="Kos Ivantsov" creationdate="20190419T180417Z">
         <seg>--no-team
 		Вимкнути функціонал роботи з командними проєктами.</seg>
       </tuv>
@@ -1951,7 +1951,7 @@ To add files to the project, click on the Copy Files to Source Folder... button 
       <tuv lang="en">
         <seg>--pseudotranslatetmx=&lt;p0&gt;allsegments.tmx&lt;/p0&gt; --pseudotranslatetype=&lt;p1&gt;equal|empty&lt;/p1&gt;</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="lesia" changedate="20200702T091637Z" creationid="lesia" creationdate="20200702T091637Z">
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200708T095735Z" creationid="lesia" creationdate="20200702T091637Z">
         <seg>--pseudotranslatetmx=&lt;p0&gt;allsegments.tmx&lt;/p0&gt; --pseudotranslatetype=&lt;p1&gt;equal|empty&lt;/p1&gt;</seg>
       </tuv>
     </tu>
@@ -1960,7 +1960,7 @@ To add files to the project, click on the Copy Files to Source Folder... button 
         <seg>--pseudotranslatetype=[equal|empty]
 		What to fill the pseudotranslated TMX with.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20190421T171352Z" creationid="Kos Ivantsov" creationdate="20190419T183403Z">
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200708T095735Z" creationid="Kos Ivantsov" creationdate="20190419T183403Z">
         <seg>--pseudotranslatetype=[equal|empty]
 		Параметр, яким регулюється наповнення псевдоперекладеного файлу TMX.
 	equal (однаковий переклад): підставити текст оригіналу замість перекладу.
@@ -1973,7 +1973,7 @@ To add files to the project, click on the Copy Files to Source Folder... button 
 		Download an omegat.project file from the URL given as &lt;project
 		path&gt; and load the project.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20190419T173259Z" creationid="Kos Ivantsov" creationdate="20190419T173259Z">
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200708T095735Z" creationid="Kos Ivantsov" creationdate="20190419T173259Z">
         <seg>--remote-project
 		Стягнути файл omegat.project з URL-адреси, вказаної
 		у параметрі &lt;шлях до проєкту&gt;, та завантажити проєкт.</seg>
@@ -1986,7 +1986,7 @@ To add files to the project, click on the Copy Files to Source Folder... button 
 	--config-dir=&lt;path&gt;
 		The directory to read/write OmegaT configuration files from/to.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20190419T175629Z" creationid="Kos Ivantsov" creationdate="20190419T175629Z">
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200708T095735Z" creationid="Kos Ivantsov" creationdate="20190419T175629Z">
         <seg>--resource-bundle=&lt;шлях&gt;
 		Java-файл «.properties», який бути використаний для локалізації інтерфейсу
 --config-dir=&lt;шлях&gt;
@@ -1998,7 +1998,7 @@ To add files to the project, click on the Copy Files to Source Folder... button 
         <seg>--script=&lt;path&gt;
 		A script file to be executed on project events.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20190419T181943Z" creationid="Kos Ivantsov" creationdate="20190419T181943Z">
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200708T095735Z" creationid="Kos Ivantsov" creationdate="20190419T181943Z">
         <seg>--script=&lt;шлях&gt;
 		Файл скрипту, який має виконуватися при настанні подій проєкту.</seg>
       </tuv>
@@ -2007,7 +2007,7 @@ To add files to the project, click on the Copy Files to Source Folder... button 
       <tuv lang="en">
         <seg>--source-pattern=&lt;p0&gt;regexp&lt;/p0&gt;</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="lesia" changedate="20200702T135306Z" creationid="lesia" creationdate="20200702T135306Z">
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200708T095735Z" creationid="lesia" creationdate="20200702T135306Z">
         <seg>--source-pattern=&lt;p0&gt;regexp&lt;/p0&gt;</seg>
       </tuv>
     </tu>
@@ -2015,7 +2015,7 @@ To add files to the project, click on the Copy Files to Source Folder... button 
       <tuv lang="en">
         <seg>--source-pattern=&lt;p4&gt;regexp&lt;/p4&gt;</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="lesia" changedate="20200702T190315Z" creationid="lesia" creationdate="20200702T190315Z">
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200708T095735Z" creationid="lesia" creationdate="20200702T190315Z">
         <seg>--source-pattern=&lt;p4&gt;regexp&lt;/p4&gt;</seg>
       </tuv>
     </tu>
@@ -2024,7 +2024,7 @@ To add files to the project, click on the Copy Files to Source Folder... button 
         <seg>--tag-validation=[abort|warn]
 		Validate tags.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20190419T182048Z" creationid="Kos Ivantsov" creationdate="20190419T182035Z">
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200708T095735Z" creationid="Kos Ivantsov" creationdate="20190419T182035Z">
         <seg>--tag-validation=[abort|warn]
 		Перевірити теґи.</seg>
       </tuv>
@@ -2033,7 +2033,7 @@ To add files to the project, click on the Copy Files to Source Folder... button 
       <tuv lang="en">
         <seg>-Dmicrosoft.api.client_id=&lt;p0&gt;XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX&lt;/p0&gt;</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="lesia" changedate="20200702T190305Z" creationid="lesia" creationdate="20200702T190305Z">
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200708T095735Z" creationid="lesia" creationdate="20200702T190305Z">
         <seg>-Dmicrosoft.api.client_id=&lt;p0&gt;XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX&lt;/p0&gt;</seg>
       </tuv>
     </tu>
@@ -2041,7 +2041,7 @@ To add files to the project, click on the Copy Files to Source Folder... button 
       <tuv lang="en">
         <seg>-Dmicrosoft.api.client_secret=&lt;p0&gt;XXXX9xXxX9xXXxxXXX9xxX99xXXXX9xx9XXxXxXXXXX=&lt;/p0&gt;</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="lesia" changedate="20200702T190306Z" creationid="lesia" creationdate="20200702T190306Z">
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200708T095735Z" creationid="lesia" creationdate="20200702T190306Z">
         <seg>-Dmicrosoft.api.client_secret=&lt;p0&gt;XXXX9xXxX9xXXxxXXX9xxX99xXXXX9xx9XXxXxXXXXX=&lt;/p0&gt;</seg>
       </tuv>
     </tu>
@@ -2049,7 +2049,7 @@ To add files to the project, click on the Copy Files to Source Folder... button 
       <tuv lang="en">
         <seg>-Dsun.java2d.noddraw=false</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="maximo" changedate="20200510T172938Z" creationid="maximo" creationdate="20200510T172938Z">
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200708T095735Z" creationid="maximo" creationdate="20200510T172938Z">
         <seg>-Dsun.java2d.noddraw=false</seg>
       </tuv>
     </tu>
@@ -2057,7 +2057,7 @@ To add files to the project, click on the Copy Files to Source Folder... button 
       <tuv lang="en">
         <seg>-Dyandex.api.key=&lt;p0&gt;trnsl.1.1.XXXXXXXXXXXXXXXX.XXXXXXXXXXXXXXXX.XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX&lt;/p0&gt;</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="lesia" changedate="20200702T190308Z" creationid="lesia" creationdate="20200702T190308Z">
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200708T095735Z" creationid="lesia" creationdate="20200702T190308Z">
         <seg>-Dyandex.api.key=&lt;p0&gt;trnsl.1.1.XXXXXXXXXXXXXXXX.XXXXXXXXXXXXXXXX.XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX&lt;/p0&gt;</seg>
       </tuv>
     </tu>
@@ -2066,7 +2066,7 @@ To add files to the project, click on the Copy Files to Source Folder... button 
         <seg>-h, --help
 		Show usage information.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20190419T173124Z" creationid="Kos Ivantsov" creationdate="20190419T173124Z">
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200708T095735Z" creationid="Kos Ivantsov" creationdate="20190419T173124Z">
         <seg>-h, --help
 		Показати інформацію про використання параметрів.</seg>
       </tuv>
@@ -2174,7 +2174,7 @@ specifying "java -Xmx&lt;size-in-MB&gt;M -jar OmegaT.jar" on the
 command line or in the OmegaT start script;
 The current setting is {0}MB;</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20190420T180617Z" creationid="Kos Ivantsov" creationdate="20190420T180617Z">
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200708T095735Z" creationid="Kos Ivantsov" creationdate="20190420T180617Z">
         <seg>2) Збільшити обсяг пам’яті OmegaT, вказавши
 «java -Xmx&lt;обсяг-у-МБ&gt;M -jar OmegaT.jar» у командному рядку
 чи стартовому скрипті OmegaT.
@@ -2491,7 +2491,7 @@ The current setting is {0}MB;</seg>
       <tuv lang="en">
         <seg>&lt;e0&gt;-Duser.country=&lt;p1&gt;XX&lt;/p1&gt;&lt;/e0&gt; Besides the language, you can also specify the country, for example &lt;l2&gt;CN&lt;/l2&gt; or &lt;l3&gt;TW&lt;/l3&gt; in case of the Chinese language.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="lesia" changedate="20200701T204535Z" creationid="maximo" creationdate="20200420T203514Z">
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200708T095735Z" creationid="maximo" creationdate="20200420T203514Z">
         <seg>&lt;e0&gt;-Duser.country=&lt;p1&gt;XX&lt;/p1&gt;&lt;/e0&gt; Окрім мови ви також можете вказати і країну. Наприклад, &lt;l2&gt;CN&lt;/l2&gt; чи &lt;l3&gt;TW&lt;/l3&gt; для китайської мови.</seg>
       </tuv>
     </tu>
@@ -2499,7 +2499,7 @@ The current setting is {0}MB;</seg>
       <tuv lang="en">
         <seg>&lt;e0&gt;&lt;l1&gt;--mode=&lt;p2&gt;...&lt;/p2&gt;&lt;/l1&gt;&lt;/e0&gt; &lt;a3&gt;OmegaT&lt;/a3&gt; starts in console mode to perform one of the following services automatically</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="maximo" changedate="20200423T154835Z" creationid="maximo" creationdate="20200423T154835Z">
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200708T095735Z" creationid="maximo" creationdate="20200423T154835Z">
         <seg>&lt;e0&gt;&lt;l1&gt;--mode=&lt;p2&gt;...&lt;/p2&gt;&lt;/l1&gt;&lt;/e0&gt; &lt;a3&gt;OmegaT&lt;/a3&gt; запускається в консольному режимі, щоб виконати одну із вказаних задач автоматично.</seg>
       </tuv>
     </tu>
@@ -2507,7 +2507,7 @@ The current setting is {0}MB;</seg>
       <tuv lang="en">
         <seg>&lt;e0&gt;&lt;l1&gt;-Dgoogle.api.key=&lt;p2&gt;A123456789B123456789C123456789D12345678&lt;/p2&gt;&lt;/l1&gt;&lt;/e0&gt; If you have signed up for the Google Translate services, enter your private Google API key here.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="lesia" changedate="20200701T204702Z" creationid="maximo" creationdate="20200422T171518Z">
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200708T095735Z" creationid="maximo" creationdate="20200422T171518Z">
         <seg>&lt;e0&gt;&lt;l1&gt;-Dgoogle.api.key=&lt;p2&gt;A123456789B123456789C123456789D12345678&lt;/p2&gt;&lt;/l1&gt;&lt;/e0&gt; Якщо ви зареєстровані в сервісах Google Translate, тут ви можете вказати свій ключ Google API.</seg>
       </tuv>
     </tu>
@@ -2515,7 +2515,7 @@ The current setting is {0}MB;</seg>
       <tuv lang="en">
         <seg>&lt;e0&gt;&lt;l1&gt;-Dhttp.proxyHost=&lt;p2&gt;nnn.nnn.nnn.nnn&lt;/p2&gt;&lt;/l1&gt;&lt;/e0&gt; The IP address of your proxy server, if your system uses a proxy.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="maximo" changedate="20200422T171342Z" creationid="maximo" creationdate="20200422T171342Z">
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200708T095735Z" creationid="maximo" creationdate="20200422T171342Z">
         <seg>&lt;e0&gt;&lt;l1&gt;-Dhttp.proxyHost=&lt;p2&gt;nnn.nnn.nnn.nnn&lt;/p2&gt;&lt;/l1&gt;&lt;/e0&gt; Адреса проксі сервера, якщо доступ до інтернету у вашій системі відбувається через проксі.</seg>
       </tuv>
     </tu>
@@ -2523,7 +2523,7 @@ The current setting is {0}MB;</seg>
       <tuv lang="en">
         <seg>&lt;e0&gt;&lt;l1&gt;-Dhttp.proxyPort=&lt;p2&gt;NNNN&lt;/p2&gt;&lt;/l1&gt;&lt;/e0&gt; The port number your system uses to access the proxy server.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="maximo" changedate="20200422T171420Z" creationid="maximo" creationdate="20200422T171420Z">
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200708T095735Z" creationid="maximo" creationdate="20200422T171420Z">
         <seg>&lt;e0&gt;&lt;l1&gt;-Dhttp.proxyPort=&lt;p2&gt;NNNN&lt;/p2&gt;&lt;/l1&gt;&lt;/e0&gt; Порт сервера, якщо доступ до інтернету у вашій системі відбувається через проксі.</seg>
       </tuv>
     </tu>
@@ -2531,7 +2531,7 @@ The current setting is {0}MB;</seg>
       <tuv lang="en">
         <seg>&lt;e0&gt;&lt;l1&gt;-Duser.language=&lt;p2&gt;XX&lt;/p2&gt;&lt;/l1&gt;&lt;/e0&gt; Normally, i.e. when &lt;a3&gt;OmegaT&lt;/a3&gt; is launched without any arguments, the program first detects the language of the user's operating system.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="maximo" changedate="20200420T202705Z" creationid="maximo" creationdate="20200420T202705Z">
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200708T095735Z" creationid="maximo" creationdate="20200420T202705Z">
         <seg>&lt;e0&gt;&lt;l1&gt;-Duser.language=&lt;p2&gt;XX&lt;/p2&gt;&lt;/l1&gt;&lt;/e0&gt; Зазвичай, тобто коли &lt;a3&gt;OmegaT&lt;/a3&gt; запущена без аргументів, вона визначає мову користувача операційної системи.</seg>
       </tuv>
     </tu>
@@ -2539,7 +2539,7 @@ The current setting is {0}MB;</seg>
       <tuv lang="en">
         <seg>&lt;e0&gt;&lt;l1&gt;-Xmx&lt;p2&gt;??&lt;/p2&gt;M&lt;/l1&gt;&lt;/e0&gt;This command assigns more memory to &lt;a3&gt;OmegaT&lt;/a3&gt;.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="maximo" changedate="20200421T163427Z" creationid="maximo" creationdate="20200421T163427Z">
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200708T095735Z" creationid="maximo" creationdate="20200421T163427Z">
         <seg>&lt;e0&gt;&lt;l1&gt;-Xmx&lt;p2&gt;??&lt;/p2&gt;M&lt;/l1&gt;&lt;/e0&gt; цим параметром можна виділити більше оперативної памʼяті для &lt;a3&gt;OmegaT&lt;/a3&gt;.</seg>
       </tuv>
     </tu>
@@ -2619,7 +2619,7 @@ The current setting is {0}MB;</seg>
       <tuv lang="en">
         <seg>&lt;e0&gt;Do not translate the content attribute of meta-tags ...:&lt;/e0&gt; The meta-tags in the box will not be translated.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="Asus" changedate="20200622T035420Z" creationid="maximo" creationdate="20200413T112955Z">
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200708T095735Z" creationid="maximo" creationdate="20200413T112955Z">
         <seg>&lt;e0&gt;Не перекладати атрибут вмісту тих метатеґів, що мають наступні пари «ключ-значення» (окремо через коми):&lt;/e0&gt; Метатеґи, перераховані у текстовому полі, не перекладатимуться.</seg>
       </tuv>
     </tu>
@@ -2627,7 +2627,7 @@ The current setting is {0}MB;</seg>
       <tuv lang="en">
         <seg>&lt;e0&gt;Do not translate the content of tags with the following attribute key-value pairs (separate with commas)&lt;/e0&gt;: if a tag matches the list of key-value pairs, its content will be ignored.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="lesia" changedate="20200708T094002Z" creationid="maximo" creationdate="20200413T113107Z">
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200708T095735Z" creationid="maximo" creationdate="20200413T113107Z">
         <seg>&lt;e0&gt;Не перекладати вміст тих теґів, що мають наступні пари «ключ-значення» (окремо через коми)&lt;/e0&gt;: якщо серед атрибутів теґу зустрічаються якісь з перелічених пар — не перекладати його вміст.</seg>
       </tuv>
     </tu>
@@ -2678,7 +2678,7 @@ The current setting is {0}MB;</seg>
       <tuv lang="en">
         <seg>&lt;e0&gt;I don't know:&lt;/e0&gt; open a terminal and type &lt;c1&gt;java -version&lt;/c1&gt;.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="maximo" changedate="20200420T170149Z" creationid="maximo" creationdate="20200420T170149Z">
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200708T095735Z" creationid="maximo" creationdate="20200420T170149Z">
         <seg>&lt;e0&gt;Я не знаю:&lt;/e0&gt; відкрийте термінал та напишіть &lt;c1&gt;java -version&lt;/c1&gt;.</seg>
       </tuv>
     </tu>
@@ -2710,7 +2710,7 @@ The current setting is {0}MB;</seg>
       <tuv lang="en">
         <seg>&lt;e0&gt;JavaScript&lt;/e0&gt; (sometimes abbreviated JS, not to be confused with Java): a prototype-based scripting language that is dynamic, weakly typed and has first-class functions.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="lesia" changedate="20200503T062251Z" creationid="lesia" creationdate="20200503T062251Z">
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200708T095735Z" creationid="lesia" creationdate="20200503T062251Z">
         <seg>&lt;e0&gt;JavaScript&lt;/e0&gt; (іноді скорочують як JS, не плутати з Java): прототипно-орієнтована мова з динамічною, слабкою типізацією та функціями як обʼєктами першого класу.</seg>
       </tuv>
     </tu>
@@ -2782,7 +2782,7 @@ The current setting is {0}MB;</seg>
       <tuv lang="en">
         <seg>&lt;e0&gt;Remove HTML comments in translated document&lt;/e0&gt;: commented parts (between &lt;!-- and --&gt;) will not be copied into the translated document.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="Asus" changedate="20200622T041640Z" creationid="maximo" creationdate="20200413T164753Z">
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200708T095735Z" creationid="maximo" creationdate="20200413T164753Z">
         <seg>&lt;e0&gt;Вилучати коментарі HTML у перекладених документах&lt;/e0&gt;: частини документу з коментарями (між &lt;!-- та --&gt;) не будуть скопійовані до перекладеного документу.</seg>
       </tuv>
     </tu>
@@ -2822,7 +2822,7 @@ The current setting is {0}MB;</seg>
       <tuv lang="en">
         <seg>&lt;e0&gt;Skip text matching regular expression&lt;/e0&gt;: any text matching the regular expression is skipped.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="maximo" changedate="20200413T112518Z" creationid="maximo" creationdate="20200413T112518Z">
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200708T095735Z" creationid="maximo" creationdate="20200413T112518Z">
         <seg>&lt;e0&gt;Пропускати текст, який відповідає регулярному виразу&lt;/e0&gt;: не перекладати будь-який текст, що зловиться регулярним виразом.</seg>
       </tuv>
     </tu>
@@ -3006,7 +3006,7 @@ The current setting is {0}MB;</seg>
       <tuv lang="en">
         <seg>&lt;html&gt;&lt;center&gt;Loading...&lt;br&gt;&lt;br&gt;Tip: Enable/disable checks at any time from the Options menu.&lt;/center&gt;&lt;/html&gt;</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20200502T143502Z" creationid="Kos Ivantsov" creationdate="20190821T125439Z">
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200708T095735Z" creationid="Kos Ivantsov" creationdate="20190821T125439Z">
         <seg>&lt;html&gt;&lt;center&gt;Завантаження…&lt;br&gt;&lt;br&gt;Підказка: Увімкнути/вимкнути пошук різних типів проблем можна в будь-який час у меню «Налаштування».&lt;/center&gt;&lt;/html&gt;</seg>
       </tuv>
     </tu>
@@ -3054,7 +3054,7 @@ The current setting is {0}MB;</seg>
       <tuv lang="en">
         <seg>&lt;html&gt;Repository URL:&lt;/html&gt;</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20190821T152440Z" creationid="Kos Ivantsov" creationdate="20190821T152440Z">
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200708T095735Z" creationid="Kos Ivantsov" creationdate="20190821T152440Z">
         <seg>&lt;html&gt;URL-адреса сховища:&lt;/html&gt;</seg>
       </tuv>
     </tu>
@@ -3078,7 +3078,7 @@ The current setting is {0}MB;</seg>
       <tuv lang="en">
         <seg>&lt;i1&gt;OmegaT can be installed on any operating system capable of running version 1.6 of the Java runtime environment.&lt;/i1&gt;</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="maximo" changedate="20200322T141329Z" creationid="maximo" creationdate="20200322T141329Z">
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200708T095735Z" creationid="maximo" creationdate="20200322T141329Z">
         <seg>&lt;i1&gt;OmegaT можна встановити на будь-яку операційну систему, що може запустити Java версії 1.6.&lt;/i1&gt;</seg>
       </tuv>
     </tu>
@@ -3102,7 +3102,7 @@ The current setting is {0}MB;</seg>
       <tuv lang="en">
         <seg>&lt;l0&gt;${extension-0}&lt;/l0&gt; docx</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="maximo" changedate="20200608T105040Z" creationid="maximo" creationdate="20200608T105040Z">
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200708T095735Z" creationid="maximo" creationdate="20200608T105040Z">
         <seg>&lt;l0&gt;${extension-0}&lt;/l0&gt; docx</seg>
       </tuv>
     </tu>
@@ -3110,7 +3110,7 @@ The current setting is {0}MB;</seg>
       <tuv lang="en">
         <seg>&lt;l0&gt;${extension-1}&lt;/l0&gt; xx.docx</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="maximo" changedate="20200608T105040Z" creationid="maximo" creationdate="20200608T105040Z">
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200708T095735Z" creationid="maximo" creationdate="20200608T105040Z">
         <seg>&lt;l0&gt;${extension-1}&lt;/l0&gt; xx.docx</seg>
       </tuv>
     </tu>
@@ -3118,7 +3118,7 @@ The current setting is {0}MB;</seg>
       <tuv lang="en">
         <seg>&lt;l0&gt;${extension-2}&lt;/l0&gt; Document.xx.docx</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="maximo" changedate="20200608T105041Z" creationid="maximo" creationdate="20200608T105041Z">
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200708T095735Z" creationid="maximo" creationdate="20200608T105041Z">
         <seg>&lt;l0&gt;${extension-2}&lt;/l0&gt; Document.xx.docx</seg>
       </tuv>
     </tu>
@@ -3126,7 +3126,7 @@ The current setting is {0}MB;</seg>
       <tuv lang="en">
         <seg>&lt;l0&gt;${extension} &lt;/l0&gt;- the original file extension</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="maximo" changedate="20200413T191301Z" creationid="maximo" creationdate="20200413T191301Z">
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200708T095735Z" creationid="maximo" creationdate="20200413T191301Z">
         <seg>&lt;l0&gt;${extension} &lt;/l0&gt;- розширення файлу оригінала.</seg>
       </tuv>
     </tu>
@@ -3134,7 +3134,7 @@ The current setting is {0}MB;</seg>
       <tuv lang="en">
         <seg>&lt;l0&gt;${file-source-encoding}&lt;/l0&gt; - source file encoding</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="lesia" changedate="20200708T094014Z" creationid="maximo" creationdate="20200413T192011Z">
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200708T095735Z" creationid="maximo" creationdate="20200413T192011Z">
         <seg>&lt;l0&gt;${file-source-encoding}&lt;/l0&gt; — кодування файлу для перекладу</seg>
       </tuv>
     </tu>
@@ -3142,7 +3142,7 @@ The current setting is {0}MB;</seg>
       <tuv lang="en">
         <seg>&lt;l0&gt;${file-target-encoding}&lt;/l0&gt; - target file encoding</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="lesia" changedate="20200708T094015Z" creationid="maximo" creationdate="20200413T192030Z">
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200708T095735Z" creationid="maximo" creationdate="20200413T192030Z">
         <seg>&lt;l0&gt;${file-target-encoding}&lt;/l0&gt; — кодування перекладеного файлу</seg>
       </tuv>
     </tu>
@@ -3150,7 +3150,7 @@ The current setting is {0}MB;</seg>
       <tuv lang="en">
         <seg>&lt;l0&gt;${nameOnly-0}&lt;/l0&gt; Document</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="maximo" changedate="20200608T105038Z" creationid="maximo" creationdate="20200608T105038Z">
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200708T095735Z" creationid="maximo" creationdate="20200608T105038Z">
         <seg>&lt;l0&gt;${nameOnly-0}&lt;/l0&gt; Document</seg>
       </tuv>
     </tu>
@@ -3158,7 +3158,7 @@ The current setting is {0}MB;</seg>
       <tuv lang="en">
         <seg>&lt;l0&gt;${nameOnly-1}&lt;/l0&gt; Document.xx</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="maximo" changedate="20200608T105038Z" creationid="maximo" creationdate="20200608T105038Z">
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200708T095735Z" creationid="maximo" creationdate="20200608T105038Z">
         <seg>&lt;l0&gt;${nameOnly-1}&lt;/l0&gt; Document.xx</seg>
       </tuv>
     </tu>
@@ -3166,7 +3166,7 @@ The current setting is {0}MB;</seg>
       <tuv lang="en">
         <seg>&lt;l0&gt;${nameOnly-2}&lt;/l0&gt; Document.xx.docx</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="maximo" changedate="20200608T105039Z" creationid="maximo" creationdate="20200608T105039Z">
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200708T095735Z" creationid="maximo" creationdate="20200608T105039Z">
         <seg>&lt;l0&gt;${nameOnly-2}&lt;/l0&gt; Document.xx.docx</seg>
       </tuv>
     </tu>
@@ -3182,7 +3182,7 @@ The current setting is {0}MB;</seg>
       <tuv lang="en">
         <seg>&lt;l0&gt;${system-host-name}&lt;/l0&gt; - system host name</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="lesia" changedate="20200708T094013Z" creationid="maximo" creationdate="20200413T191955Z">
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200708T095735Z" creationid="maximo" creationdate="20200413T191955Z">
         <seg>&lt;l0&gt;${system-host-name}&lt;/l0&gt; — системне ім'я хоста</seg>
       </tuv>
     </tu>
@@ -3190,7 +3190,7 @@ The current setting is {0}MB;</seg>
       <tuv lang="en">
         <seg>&lt;l0&gt;${system-os-name}&lt;/l0&gt; - operating system of the computer used</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="lesia" changedate="20200708T094006Z" creationid="maximo" creationdate="20200413T191616Z">
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200708T095735Z" creationid="maximo" creationdate="20200413T191616Z">
         <seg>&lt;l0&gt;${system-os-name}&lt;/l0&gt; — операційна система використаного комп'ютера</seg>
       </tuv>
     </tu>
@@ -3198,7 +3198,7 @@ The current setting is {0}MB;</seg>
       <tuv lang="en">
         <seg>&lt;l0&gt;${system-user-name}&lt;/l0&gt; - system user name</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="lesia" changedate="20200708T094011Z" creationid="maximo" creationdate="20200413T191639Z">
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200708T095735Z" creationid="maximo" creationdate="20200413T191639Z">
         <seg>&lt;l0&gt;${system-user-name}&lt;/l0&gt; — ім'я користувача операційної системи</seg>
       </tuv>
     </tu>
@@ -3222,7 +3222,7 @@ The current setting is {0}MB;</seg>
       <tuv lang="en">
         <seg>&lt;l0&gt;${targetLanguage}&lt;/l0&gt;– the target language and country code together (of a form "XX-YY").</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="lesia" changedate="20200708T085931Z" creationid="maximo" creationdate="20200413T191323Z">
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200708T095735Z" creationid="maximo" creationdate="20200413T191323Z">
         <seg>&lt;l0&gt;${targetLanguage}&lt;/l0&gt;– код мови перекладу та країни перекладу (у формі «XX-YY»).</seg>
       </tuv>
     </tu>
@@ -3246,7 +3246,7 @@ The current setting is {0}MB;</seg>
       <tuv lang="en">
         <seg>&lt;l0&gt;${timestamp-????}&lt;/l0&gt; – system date time at generation time in various patterns</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="Asus" changedate="20200623T040841Z" creationid="maximo" creationdate="20200413T191412Z">
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200708T095735Z" creationid="maximo" creationdate="20200413T191412Z">
         <seg>&lt;l0&gt;${timestamp-????}&lt;/l0&gt; – системний час та дата в момент створення файлу у різних шаблонах</seg>
       </tuv>
     </tu>
@@ -3254,7 +3254,7 @@ The current setting is {0}MB;</seg>
       <tuv lang="en">
         <seg>&lt;l0&gt;--config-dir=&lt;p1&gt;/path/to/config-files/&lt;/p1&gt;&lt;/l0&gt; tells &lt;a2&gt;OmegaT&lt;/a2&gt; in which folder the configuration files are stored.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="maximo" changedate="20200423T154537Z" creationid="maximo" creationdate="20200423T154537Z">
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200708T095735Z" creationid="maximo" creationdate="20200423T154537Z">
         <seg>&lt;l0&gt;--config-dir=&lt;p1&gt;/path/to/config-files/&lt;/p1&gt;&lt;/l0&gt; вказує &lt;a2&gt;OmegaT&lt;/a2&gt; теку, де знаходяться файли налаштувань.</seg>
       </tuv>
     </tu>
@@ -3262,7 +3262,7 @@ The current setting is {0}MB;</seg>
       <tuv lang="en">
         <seg>&lt;l0&gt;--config-file=&lt;p1&gt;/path/to/config-file/&lt;/p1&gt;&lt;/l0&gt; tells &lt;a2&gt;OmegaT&lt;/a2&gt; what configuration file to use.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="maximo" changedate="20200423T154751Z" creationid="maximo" creationdate="20200423T154751Z">
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200708T095735Z" creationid="maximo" creationdate="20200423T154751Z">
         <seg>&lt;l0&gt;--config-file=&lt;p1&gt;/path/to/config-file/&lt;/p1&gt;&lt;/l0&gt; вказує &lt;a2&gt;OmegaT&lt;/a2&gt;, який файл налаштувань треба використовувати.</seg>
       </tuv>
     </tu>
@@ -3270,7 +3270,7 @@ The current setting is {0}MB;</seg>
       <tuv lang="en">
         <seg>&lt;l0&gt;--disable-project-locking&lt;/l0&gt; allows, under Windows, to open the same project with several instances of OmegaT.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="maximo" changedate="20200423T161008Z" creationid="maximo" creationdate="20200423T161008Z">
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200708T095735Z" creationid="maximo" creationdate="20200423T161008Z">
         <seg>&lt;l0&gt;--disable-project-locking&lt;/l0&gt; дозволяє під Windows відкрити проєкт у двох окремих вікнах OmegaT.</seg>
       </tuv>
     </tu>
@@ -3278,7 +3278,7 @@ The current setting is {0}MB;</seg>
       <tuv lang="en">
         <seg>&lt;l0&gt;--no-team&lt;/l0&gt; addresses projects set up for team work.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="maximo" changedate="20200423T160802Z" creationid="maximo" creationdate="20200423T160802Z">
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200708T095735Z" creationid="maximo" creationdate="20200423T160802Z">
         <seg>&lt;l0&gt;--no-team&lt;/l0&gt; стосується командних проєктів.</seg>
       </tuv>
     </tu>
@@ -3286,7 +3286,7 @@ The current setting is {0}MB;</seg>
       <tuv lang="en">
         <seg>&lt;l0&gt;--tag-validation=&lt;p1&gt;abort|warn&lt;/p1&gt;&lt;/l0&gt; &lt;p2&gt;outputFileName&lt;/p2&gt;</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="maximo" changedate="20200511T201034Z" creationid="maximo" creationdate="20200511T201034Z">
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200708T095735Z" creationid="maximo" creationdate="20200511T201034Z">
         <seg>&lt;l0&gt;--tag-validation=&lt;p1&gt;abort|warn&lt;/p1&gt;&lt;/l0&gt; &lt;p2&gt;outputFileName&lt;/p2&gt;</seg>
       </tuv>
     </tu>
@@ -3318,7 +3318,7 @@ The current setting is {0}MB;</seg>
       <tuv lang="en">
         <seg>&lt;mapping local="" repository="En-US_DE_project"/&gt;</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="lesia" changedate="20200704T204816Z" creationid="lesia" creationdate="20200704T204816Z">
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200708T095735Z" creationid="lesia" creationdate="20200704T204816Z">
         <seg>&lt;mapping local="" repository="En-US_DE_project"/&gt;</seg>
       </tuv>
     </tu>
@@ -3342,7 +3342,7 @@ The current setting is {0}MB;</seg>
       <tuv lang="en">
         <seg>&lt;name and path of the Java executable file&gt; -jar OmegaT.jar</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20190822T212959Z" creationid="Kos Ivantsov" creationdate="20190822T212959Z">
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200708T095735Z" creationid="Kos Ivantsov" creationdate="20190822T212959Z">
         <seg>&lt;повний шлях до виконуваного файлу Java&gt; -jar OmegaT.jar</seg>
       </tuv>
     </tu>
@@ -3425,7 +3425,7 @@ The current setting is {0}MB;</seg>
       <tuv lang="en">
         <seg>&lt;repository type="http" url="https://github.com/omegat-org/omegat/raw/master/"&gt;</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="lesia" changedate="20200704T205032Z" creationid="lesia" creationdate="20200704T205032Z">
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200708T095735Z" creationid="lesia" creationdate="20200704T205032Z">
         <seg>&lt;repository type="http" url="https://github.com/omegat-org/omegat/raw/master/"&gt;</seg>
       </tuv>
     </tu>
@@ -3513,7 +3513,7 @@ The current setting is {0}MB;</seg>
       <tuv lang="en">
         <seg>&lt;trans-unit&gt; &amp;resname attribute when available</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20190805T103922Z" creationid="Kos Ivantsov" creationdate="20190803T190507Z">
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200708T095735Z" creationid="Kos Ivantsov" creationdate="20190803T190507Z">
         <seg>Атриб&amp;ут resname до &lt;trans-unit&gt; (за наявності)</seg>
       </tuv>
     </tu>
@@ -3521,7 +3521,7 @@ The current setting is {0}MB;</seg>
       <tuv lang="en">
         <seg>&lt;trans-unit&gt; I&amp;D</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20190803T190241Z" creationid="Kos Ivantsov" creationdate="20190803T190241Z">
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200708T095735Z" creationid="Kos Ivantsov" creationdate="20190803T190241Z">
         <seg>Іденти&amp;фікатор &lt;trans-unit&gt;</seg>
       </tuv>
     </tu>
@@ -3569,7 +3569,7 @@ The current setting is {0}MB;</seg>
       <tuv lang="en">
         <seg>A comprehensive suite of utilities for preparing files for translation in a CAT tool.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="lesia" changedate="20200322T160803Z" creationid="lesia" creationdate="20200322T160803Z">
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200708T095735Z" creationid="lesia" creationdate="20200322T160803Z">
         <seg>Набір програм для підготовки файлів до перекладу в САТ-інструментах.</seg>
       </tuv>
     </tu>
@@ -3610,7 +3610,7 @@ The current setting is {0}MB;</seg>
       <tuv lang="en">
         <seg>A digit: [0-9]</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="Asus" changedate="20200614T050238Z" creationid="maximo" creationdate="20200412T050929Z">
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200708T095735Z" creationid="maximo" creationdate="20200412T050929Z">
         <seg>Цифру: [0-9]</seg>
       </tuv>
     </tu>
@@ -3674,7 +3674,7 @@ The current setting is {0}MB;</seg>
       <tuv lang="en">
         <seg>A non-digit: [^0-9]</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="Asus" changedate="20200614T050300Z" creationid="maximo" creationdate="20200412T050937Z">
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200708T095735Z" creationid="maximo" creationdate="20200412T050937Z">
         <seg>Не цифру: [^0-9]</seg>
       </tuv>
     </tu>
@@ -3803,7 +3803,7 @@ The current setting is {0}MB;</seg>
       <tuv lang="en">
         <seg>A word character: [a-zA-Z_0-9]</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="lesia" changedate="20200708T084641Z" creationid="maximo" creationdate="20200412T051127Z">
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200708T095735Z" creationid="maximo" creationdate="20200412T051127Z">
         <seg>Символ, який «може бути частиною слова»: [a-zA-Z_0-9]</seg>
       </tuv>
     </tu>
@@ -3875,7 +3875,7 @@ The current setting is {0}MB;</seg>
       <tuv lang="en">
         <seg>Aaron Madlon-Kay</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="maximo" changedate="20200614T163954Z" creationid="maximo" creationdate="20200614T163954Z">
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200708T095735Z" creationid="maximo" creationdate="20200614T163954Z">
         <seg>Aaron Madlon-Kay</seg>
       </tuv>
     </tu>
@@ -3883,7 +3883,7 @@ The current setting is {0}MB;</seg>
       <tuv lang="en">
         <seg>Aaron Madlon-Kay is the OmegaT project manager.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20190822T213839Z" creationid="Kos Ivantsov" creationdate="20190424T213203Z">
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200708T095735Z" creationid="Kos Ivantsov" creationdate="20190424T213203Z">
         <seg>Менеджером проєкту OmegaT нині є Аарон Медлон-Кей [Aaron Madlon-Kay].</seg>
       </tuv>
     </tu>
@@ -4571,7 +4571,7 @@ The current setting is {0}MB;</seg>
       <tuv lang="en">
         <seg>All the contents of &lt;f0&gt;https://repo_for_All_OmegaT_team_projects/En-US_DE_project&lt;/f0&gt; are mapped to the local OmegaT project.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="lesia" changedate="20200704T205031Z" creationid="lesia" creationdate="20200704T204849Z">
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200708T095735Z" creationid="lesia" creationdate="20200704T204849Z">
         <seg>Весь вміст &lt;f0&gt;https://repo_for_All_OmegaT_team_projects/En-US_DE_project&lt;/f0&gt; прив'язаний до локального проєкту OmegaT.</seg>
       </tuv>
     </tu>
@@ -4946,7 +4946,7 @@ The TMX file will not be loaded.</seg>
       <tuv lang="en">
         <seg>An extra command line parameter specific to console mode: &lt;l0&gt;--quiet&lt;/l0&gt;.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="lesia" changedate="20200702T185139Z" creationid="maximo" creationdate="20200423T161232Z">
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200708T095735Z" creationid="maximo" creationdate="20200423T161232Z">
         <seg>Ще один параметр, специфічний для консольного режиму: &lt;l0&gt;--quiet&lt;/l0&gt;.</seg>
       </tuv>
     </tu>
@@ -4970,7 +4970,7 @@ The TMX file will not be loaded.</seg>
       <tuv lang="en">
         <seg>An intelligent command-line alignment tool for producing translation memory files from legacy texts and their translations.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="lesia" changedate="20200322T161449Z" creationid="lesia" creationdate="20200322T161434Z">
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200708T095735Z" creationid="lesia" creationdate="20200322T161434Z">
         <seg>Зручна консольна програма-вирівнювач для створення файлів ТМ з текстів та їх перекладів.</seg>
       </tuv>
     </tu>
@@ -5042,7 +5042,7 @@ The TMX file will not be loaded.</seg>
       <tuv lang="en">
         <seg>Any character (except for line terminators)</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="Asus" changedate="20200614T050250Z" creationid="maximo" creationdate="20200412T050920Z">
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200708T095735Z" creationid="maximo" creationdate="20200412T050920Z">
         <seg>Будь-який символ, окрім символів кінця рядка.</seg>
       </tuv>
     </tu>
@@ -5050,7 +5050,7 @@ The TMX file will not be loaded.</seg>
       <tuv lang="en">
         <seg>Any character except a, b, or c (negation)</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="maximo" changedate="20200412T050755Z" creationid="maximo" creationdate="20200412T050755Z">
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200708T095735Z" creationid="maximo" creationdate="20200412T050755Z">
         <seg>Будь-який символ, окрім a, b, чи c (заперечення)</seg>
       </tuv>
     </tu>
@@ -5058,7 +5058,7 @@ The TMX file will not be loaded.</seg>
       <tuv lang="en">
         <seg>Any character except one in the Greek block (negation)</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="maximo" changedate="20200412T050610Z" creationid="maximo" creationdate="20200412T050610Z">
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200708T095735Z" creationid="maximo" creationdate="20200412T050610Z">
         <seg>Будь-який символ, окрім як із грецького блоку (заперечення)</seg>
       </tuv>
     </tu>
@@ -5066,7 +5066,7 @@ The TMX file will not be loaded.</seg>
       <tuv lang="en">
         <seg>Any letter except an uppercase letter (subtraction)</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="Asus" changedate="20200614T042548Z" creationid="maximo" creationdate="20200412T050651Z">
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200708T095735Z" creationid="maximo" creationdate="20200412T050651Z">
         <seg>Будь-яку літеру, окрім великих (виключення)</seg>
       </tuv>
     </tu>
@@ -5162,7 +5162,7 @@ The TMX file will not be loaded.</seg>
       <tuv lang="en">
         <seg>Arguments are added after the initial &lt;c0&gt;java&lt;/c0&gt;, and before the &lt;l1&gt;-jar OmegaT.jar&lt;/l1&gt;.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="maximo" changedate="20200420T202240Z" creationid="maximo" creationdate="20200420T202240Z">
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200708T095735Z" creationid="maximo" creationdate="20200420T202240Z">
         <seg>Аргументи можна додавати після &lt;c0&gt;java&lt;/c0&gt;, перед &lt;l1&gt;-jar OmegaT.jar&lt;/l1&gt;.</seg>
       </tuv>
     </tu>
@@ -5279,7 +5279,7 @@ may experience unexpected, but correct behaviour.</seg>
       <tuv lang="en">
         <seg>As with free developments, however, the principle still applies that any changes to OmegaT must be beneficial to the application and its users.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="maximo" changedate="20200323T082438Z" creationid="lesia" creationdate="20200322T145919Z">
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200708T095735Z" creationid="lesia" creationdate="20200322T145919Z">
         <seg>Однак, як і у випадку із розробками, що приходять зі спільноти, будь-які зміни в OmegaT повинні бути корисними для програми та її користувачів.</seg>
       </tuv>
     </tu>
@@ -5439,7 +5439,7 @@ may experience unexpected, but correct behaviour.</seg>
       <tuv lang="en">
         <seg>Auto-completion/Auto-text...</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="maximo" changedate="20200405T190316Z" creationid="maximo" creationdate="20200405T190316Z">
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200708T095735Z" creationid="maximo" creationdate="20200405T190316Z">
         <seg>Автодоповнення/Авто-текст...</seg>
       </tuv>
     </tu>
@@ -5747,7 +5747,7 @@ Buy another drink</seg>
       <tuv lang="en">
         <seg>Being the language behind popular software such as Firefox, it is a familiar and preferred programming tool in the open-source domain.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="maximo" changedate="20200701T150806Z" creationid="lesia" creationdate="20200503T063254Z">
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200708T095735Z" creationid="lesia" creationdate="20200503T063254Z">
         <seg>Це мова таких популярних продуктів як Firefox, нею часто та охоче користуються для open-source проєктів.</seg>
       </tuv>
     </tu>
@@ -6483,7 +6483,7 @@ Buy another drink</seg>
       <tuv lang="en">
         <seg>Check &amp;all printf-variables (e.g., %s, %-s)</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20190813T111501Z" creationid="Kos Ivantsov" creationdate="20190813T111439Z">
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200708T095735Z" creationid="Kos Ivantsov" creationdate="20190813T111439Z">
         <seg>Перевіряти &amp;всі змінні printf (наприклад, «%s», «%-s»)</seg>
       </tuv>
     </tu>
@@ -6683,7 +6683,7 @@ Buy another drink</seg>
       <tuv lang="en">
         <seg>Check however that the language codes are exactly the same: an FR-FR dictionary will not work with an FR target setting, for example.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="Asus" changedate="20200616T045405Z" creationid="maximo" creationdate="20200411T133911Z">
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200708T095735Z" creationid="maximo" creationdate="20200411T133911Z">
         <seg>Але обов'язково перевірте, щоб коди були однакові. Наприклад, словник FR-FR не буде працювати для цільової мови FR.</seg>
       </tuv>
     </tu>
@@ -7011,7 +7011,7 @@ Buy another drink</seg>
       <tuv lang="en">
         <seg>Click on &lt;g0&gt;Auto-text...&lt;/g0&gt; to configure Auto-text options and to add or remove entries.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="maximo" changedate="20200416T095752Z" creationid="maximo" creationdate="20200416T095528Z">
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200708T095735Z" creationid="maximo" creationdate="20200416T095528Z">
         <seg>Натисніть &lt;g0&gt;Авто-текст&lt;/g0&gt;, щоб налаштувати параметри авто-тексту та щоб додати чи видалити елементи.</seg>
       </tuv>
     </tu>
@@ -7099,7 +7099,7 @@ Buy another drink</seg>
       <tuv lang="en">
         <seg>Clicking on any file will open it for translation.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="lesia" changedate="20200502T055153Z" creationid="lesia" creationdate="20200429T202803Z">
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200708T095735Z" creationid="lesia" creationdate="20200429T202803Z">
         <seg>Якщо натиснути на будь-який з файлів, він відкриється для перекладу.</seg>
       </tuv>
     </tu>
@@ -7249,7 +7249,7 @@ Buy another drink</seg>
 	-h, --help
 		Show usage information.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20190419T183920Z" creationid="Kos Ivantsov" creationdate="20190419T183920Z">
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200708T095735Z" creationid="Kos Ivantsov" creationdate="20190419T183920Z">
         <seg>Команди:
 
 -h, --help
@@ -7518,7 +7518,7 @@ Buy another drink</seg>
 	--alignDir=&lt;path&gt;
 		A directory containing the translated files.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20190419T183944Z" creationid="Kos Ivantsov" creationdate="20190419T183719Z">
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200708T095735Z" creationid="Kos Ivantsov" creationdate="20190419T183719Z">
         <seg>Режим вирівнювання у консолі:
 
 --alignDir=&lt;шлях&gt;
@@ -7531,7 +7531,7 @@ Buy another drink</seg>
 	--pseudotranslatetmx=&lt;path&gt;
 		The output pseudotranslated TMX file.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20190419T183317Z" creationid="Kos Ivantsov" creationdate="20190419T183317Z">
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200708T095735Z" creationid="Kos Ivantsov" creationdate="20190419T183317Z">
         <seg>Режим псевдоперекладу у консолі:
 
 --pseudotranslatetmx=&lt;шлях&gt;
@@ -7544,7 +7544,7 @@ Buy another drink</seg>
 	--source-pattern=&lt;pattern&gt;
 		A regex whitelist of source files to process.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20190421T150422Z" creationid="Kos Ivantsov" creationdate="20190419T182156Z">
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200708T095735Z" creationid="Kos Ivantsov" creationdate="20190419T182156Z">
         <seg>Режим перекладу у консолі:
 
 --source-pattern=&lt;шаблон&gt;
@@ -8561,7 +8561,7 @@ Buy another drink</seg>
       <tuv lang="en">
         <seg>Custom server URL</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20191016T084942Z" creationid="Kos Ivantsov" creationdate="20191016T084942Z">
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200708T095735Z" creationid="Kos Ivantsov" creationdate="20191016T084942Z">
         <seg>URL-адреса іншого сервера:</seg>
       </tuv>
     </tu>
@@ -9738,7 +9738,7 @@ Buy another drink</seg>
       <tuv lang="en">
         <seg>Duplicate Fallbac&amp;k Text</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20190822T132705Z" creationid="Kos Ivantsov" creationdate="20190805T115757Z">
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200708T095735Z" creationid="Kos Ivantsov" creationdate="20190805T115757Z">
         <seg>Ре&amp;зервний текст-дублікат</seg>
       </tuv>
     </tu>
@@ -9933,7 +9933,7 @@ project_save.tmx не був переданий на віддалений сер
       <tuv lang="en">
         <seg>Edit External Search URL</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20190808T130110Z" creationid="Kos Ivantsov" creationdate="20190808T130013Z">
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200708T095735Z" creationid="Kos Ivantsov" creationdate="20190808T130013Z">
         <seg>Редагування URL-адреси для зовнішнього пошуку</seg>
       </tuv>
     </tu>
@@ -10097,7 +10097,7 @@ Your help page not found</seg>
       <tuv lang="en">
         <seg>Empty repository URL in the mapping</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20190516T180417Z" creationid="Kos Ivantsov" creationdate="20190516T180417Z">
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200708T095735Z" creationid="Kos Ivantsov" creationdate="20190516T180417Z">
         <seg>Порожня URL-адреса сховища в прив’язці</seg>
       </tuv>
     </tu>
@@ -10265,7 +10265,7 @@ Your help page not found</seg>
       <tuv lang="en">
         <seg>Ensure the URL is correct.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20191016T085252Z" creationid="Kos Ivantsov" creationdate="20191016T085252Z">
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200708T095735Z" creationid="Kos Ivantsov" creationdate="20191016T085252Z">
         <seg>Перевірте правильність зазначеної URL-адреси.</seg>
       </tuv>
     </tu>
@@ -10273,7 +10273,7 @@ Your help page not found</seg>
       <tuv lang="en">
         <seg>Ensure the server URL is correct.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20191016T085120Z" creationid="Kos Ivantsov" creationdate="20191016T085120Z">
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200708T095735Z" creationid="Kos Ivantsov" creationdate="20191016T085120Z">
         <seg>Перевірте правильність зазначеної URL-адреси.</seg>
       </tuv>
     </tu>
@@ -10281,7 +10281,7 @@ Your help page not found</seg>
       <tuv lang="en">
         <seg>Ensure you are specifying the right API version (the URL should include "/v2/").</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20190821T134944Z" creationid="Kos Ivantsov" creationdate="20190821T134944Z">
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200708T095735Z" creationid="Kos Ivantsov" creationdate="20190821T134944Z">
         <seg>Перевірте, щоб у вас була вказана правильна версія API (URL-адреса повинна містити «/v2/»).</seg>
       </tuv>
     </tu>
@@ -11609,7 +11609,7 @@ Gossamer threads hold you back
       <tuv lang="en">
         <seg>For a more comprehensive introduction see &lt;u0&gt;OmegaT for beginners&lt;/u0&gt; on the OmegaT web site.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="maximo" changedate="20200614T155623Z" creationid="Kos Ivantsov" creationdate="20190822T205031Z">
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200708T095735Z" creationid="Kos Ivantsov" creationdate="20190822T205031Z">
         <seg>Для більш докладного ознайомлення з програмою можна переглянути посібник &lt;u0&gt;OmegaT для CAT-початківців&lt;/u0&gt; на сайті OmegaT.</seg>
       </tuv>
     </tu>
@@ -11715,7 +11715,7 @@ provided (omegat.kaptn).</seg>
       <tuv lang="en">
         <seg>For example, anyone is free to make changes to OmegaT's program code and to submit these changes to the development team.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="lesia" changedate="20200324T171857Z" creationid="lesia" creationdate="20200321T154329Z">
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200708T095735Z" creationid="lesia" creationdate="20200321T154329Z">
         <seg>Наприклад, внести зміни в програмний код OmegaT і представити ці зміни команді розробників може будь-хто.</seg>
       </tuv>
     </tu>
@@ -11755,7 +11755,7 @@ provided (omegat.kaptn).</seg>
       <tuv lang="en">
         <seg>For example, if you have selected ES-MX (Mexican Spanish) as the target language, the dictionary files must be named es_MX.dic and es_MX.aff.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="Asus" changedate="20200616T045339Z" creationid="maximo" creationdate="20200411T111248Z">
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200708T095735Z" creationid="maximo" creationdate="20200411T111248Z">
         <seg>Наприклад, якщо ви обрали ES-MX (мексиканська іспанська) як цільову мову, то файли словників повинні називатися es_MX.dic та es_MX.aff.</seg>
       </tuv>
     </tu>
@@ -11787,7 +11787,7 @@ provided (omegat.kaptn).</seg>
       <tuv lang="en">
         <seg>For example, rules for Canadian French (FR-CA) should be set higher than rules for French (FR.*), and higher than Default (.*) ones.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="maximo" changedate="20200415T105921Z" creationid="maximo" creationdate="20200415T105921Z">
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200708T095735Z" creationid="maximo" creationdate="20200415T105921Z">
         <seg>Наприклад, правила для канадської французької (FR-CA) мають передувати правилам для французької (FR.*) та типовим правилам (.*).</seg>
       </tuv>
     </tu>
@@ -11811,7 +11811,7 @@ provided (omegat.kaptn).</seg>
       <tuv lang="en">
         <seg>For example, the pattern &lt;l0&gt;*.xhtml &lt;/l0&gt;matches any file with the &lt;l1&gt;.xhtml&lt;/l1&gt; extension.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="maximo" changedate="20200413T183620Z" creationid="maximo" creationdate="20200413T183620Z">
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200708T095735Z" creationid="maximo" creationdate="20200413T183620Z">
         <seg>Наприклад, шаблон &lt;l0&gt;*.xhtml &lt;/l0&gt; відповідає будь-якому файлу із розширенням &lt;l1&gt;.xhtml&lt;/l1&gt;.</seg>
       </tuv>
     </tu>
@@ -11883,7 +11883,7 @@ provided (omegat.kaptn).</seg>
       <tuv lang="en">
         <seg>For instance, if the file filter specifies UTF8 as the encoding scheme for the target files, selecting Always will ensure that this information is included in the translated files.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="lesia" changedate="20200708T085200Z" creationid="maximo" creationdate="20200413T164427Z">
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200708T095735Z" creationid="maximo" creationdate="20200413T164427Z">
         <seg>Наприклад, якщо фільтр файлів вказує UTF-8 як систему кодування для перекладених файлів, то вибраний варіант «Завжди» гарантує те, що ця інформація буде відображена у перекладених файлах.</seg>
       </tuv>
     </tu>
@@ -11987,7 +11987,7 @@ provided (omegat.kaptn).</seg>
       <tuv lang="en">
         <seg>For translation memories in folders with a name &lt;f0&gt;penalty-xxx&lt;/f0&gt; (with xxx between 0 and 100), matches will be degraded according to the name of the folder: a 100% match in any of TMs, residing in a folder called &lt;f1&gt;penalty-30&lt;/f1&gt; for instance, will be lowered to a 70% match.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="lesia" changedate="20200708T094255Z" creationid="fanja9" creationdate="20200510T164559Z">
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200708T095735Z" creationid="fanja9" creationdate="20200510T164559Z">
         <seg>Для файлів пам'яті перекладу в теках з назвами &lt;f0&gt;penalty-xxx&lt;/f0&gt; (де xxx — це цифри від 0 до 100), збіги будуть оцінюватися нижче, відповідно до назви теки: наприклад, 100%-й збіг у будь-якій пам'яті перекладу, якщо його розмістити у теці &lt;f1&gt;penalty-30&lt;/f1&gt;, буде мати оцінку 70%.</seg>
       </tuv>
     </tu>
@@ -12011,7 +12011,7 @@ provided (omegat.kaptn).</seg>
       <tuv lang="en">
         <seg>Forward-Backward</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20190821T213416Z" creationid="Kos Ivantsov" creationdate="20190821T213416Z">
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200708T095735Z" creationid="Kos Ivantsov" creationdate="20190821T213416Z">
         <seg>Уперед-назад</seg>
       </tuv>
     </tu>
@@ -12059,7 +12059,7 @@ provided (omegat.kaptn).</seg>
       <tuv lang="en">
         <seg>From 100% memory</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20190807T170804Z" creationid="Kos Ivantsov" creationdate="20190807T170804Z">
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200708T095735Z" creationid="Kos Ivantsov" creationdate="20190807T170804Z">
         <seg>Взято зі 100-відсоткової пам’яті</seg>
       </tuv>
     </tu>
@@ -12921,7 +12921,7 @@ Its winter has come</seg>
       <tuv lang="en">
         <seg>However, OmegaT does not fully support imported level 2 tmx files (these store not only the translation, but also the formatting).</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="lesia" changedate="20200705T062012Z" creationid="lesia" creationdate="20200705T061700Z">
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200708T095735Z" creationid="lesia" creationdate="20200705T061700Z">
         <seg>Однак, OmegaT не має повної підтримки tmx файлів 2-го рівня (які зберігають не лише переклад, а й форматування).</seg>
       </tuv>
     </tu>
@@ -12969,7 +12969,7 @@ Its winter has come</seg>
       <tuv lang="en">
         <seg>However, you should take precautions against data loss when using &lt;a1&gt;OmegaT&lt;/a1&gt;, just as with any other application.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="maximo" changedate="20200704T192458Z" creationid="maximo" creationdate="20200704T192458Z">
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200708T095735Z" creationid="maximo" creationdate="20200704T192458Z">
         <seg>Але все ж і при роботі з &lt;a1&gt;OmegaT&lt;/a1&gt;, як із будь-якою іншою програмою, варто перестрахуватися.</seg>
       </tuv>
     </tu>
@@ -12977,7 +12977,7 @@ Its winter has come</seg>
       <tuv lang="en">
         <seg>Howto - Adding a preview function to OmegaT</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="lesia" changedate="20200708T093718Z" creationid="lesia" creationdate="20200708T093718Z">
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200708T095735Z" creationid="lesia" creationdate="20200708T093718Z">
         <seg>Howto - Adding a preview function to OmegaT</seg>
       </tuv>
     </tu>
@@ -12985,7 +12985,7 @@ Its winter has come</seg>
       <tuv lang="en">
         <seg>Howto - Compiling OmegaT from the source code</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="lesia" changedate="20200708T093715Z" creationid="lesia" creationdate="20200708T093715Z">
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200708T095735Z" creationid="lesia" creationdate="20200708T093715Z">
         <seg>Howto - Compiling OmegaT from the source code</seg>
       </tuv>
     </tu>
@@ -12993,7 +12993,7 @@ Its winter has come</seg>
       <tuv lang="en">
         <seg>Howto - Creating a new file filter</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="lesia" changedate="20200708T093717Z" creationid="lesia" creationdate="20200708T093717Z">
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200708T095735Z" creationid="lesia" creationdate="20200708T093717Z">
         <seg>Howto - Creating a new file filter</seg>
       </tuv>
     </tu>
@@ -13001,7 +13001,7 @@ Its winter has come</seg>
       <tuv lang="en">
         <seg>Howto - Exporting from OmegaT to 'Trados uncleaned RTF' format</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="lesia" changedate="20200708T093715Z" creationid="lesia" creationdate="20200708T093715Z">
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200708T095735Z" creationid="lesia" creationdate="20200708T093715Z">
         <seg>Howto - Exporting from OmegaT to 'Trados uncleaned RTF' format</seg>
       </tuv>
     </tu>
@@ -13009,7 +13009,7 @@ Its winter has come</seg>
       <tuv lang="en">
         <seg>Howto - OmegaT compatibility with Déjà Vu</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="lesia" changedate="20200708T093714Z" creationid="lesia" creationdate="20200708T093714Z">
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200708T095735Z" creationid="lesia" creationdate="20200708T093714Z">
         <seg>Howto - OmegaT compatibility with Déjà Vu</seg>
       </tuv>
     </tu>
@@ -13017,7 +13017,7 @@ Its winter has come</seg>
       <tuv lang="en">
         <seg>Howto - Spellchecking</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="lesia" changedate="20200708T093719Z" creationid="lesia" creationdate="20200708T093719Z">
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200708T095735Z" creationid="lesia" creationdate="20200708T093719Z">
         <seg>Howto - Spellchecking</seg>
       </tuv>
     </tu>
@@ -13025,7 +13025,7 @@ Its winter has come</seg>
       <tuv lang="en">
         <seg>Howto - The "Priorview" preview utility</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="lesia" changedate="20200708T092758Z" creationid="lesia" creationdate="20200708T092758Z">
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200708T095735Z" creationid="lesia" creationdate="20200708T092758Z">
         <seg>Howto - The "Priorview" preview utility</seg>
       </tuv>
     </tu>
@@ -13033,7 +13033,7 @@ Its winter has come</seg>
       <tuv lang="en">
         <seg>Howto - Translating OmegaT into your language</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="lesia" changedate="20200708T093716Z" creationid="lesia" creationdate="20200708T093716Z">
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200708T095735Z" creationid="lesia" creationdate="20200708T093716Z">
         <seg>Howto - Translating OmegaT into your language</seg>
       </tuv>
     </tu>
@@ -13041,7 +13041,7 @@ Its winter has come</seg>
       <tuv lang="en">
         <seg>Howto - Translating PDF files with Iceni Infix and OmegaT</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="lesia" changedate="20200708T093716Z" creationid="lesia" creationdate="20200708T093716Z">
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200708T095735Z" creationid="lesia" creationdate="20200708T093716Z">
         <seg>Howto - Translating PDF files with Iceni Infix and OmegaT</seg>
       </tuv>
     </tu>
@@ -13049,7 +13049,7 @@ Its winter has come</seg>
       <tuv lang="en">
         <seg>Howto - Translating Word 2007 files in OmegaT</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="lesia" changedate="20200708T093715Z" creationid="lesia" creationdate="20200708T093715Z">
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200708T095735Z" creationid="lesia" creationdate="20200708T093715Z">
         <seg>Howto - Translating Word 2007 files in OmegaT</seg>
       </tuv>
     </tu>
@@ -13057,7 +13057,7 @@ Its winter has come</seg>
       <tuv lang="en">
         <seg>Howto - Using Google Translate in OmegaT</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="lesia" changedate="20200708T093716Z" creationid="lesia" creationdate="20200708T093716Z">
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200708T095735Z" creationid="lesia" creationdate="20200708T093716Z">
         <seg>Howto - Using Google Translate in OmegaT</seg>
       </tuv>
     </tu>
@@ -13065,7 +13065,7 @@ Its winter has come</seg>
       <tuv lang="en">
         <seg>Howto - Using Microsoft Translator in OmegaT</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="lesia" changedate="20200708T093717Z" creationid="lesia" creationdate="20200708T093717Z">
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200708T095735Z" creationid="lesia" creationdate="20200708T093717Z">
         <seg>Howto - Using Microsoft Translator in OmegaT</seg>
       </tuv>
     </tu>
@@ -13073,7 +13073,7 @@ Its winter has come</seg>
       <tuv lang="en">
         <seg>Howto - Using the OmegaT text export function (scripting interface)</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="lesia" changedate="20200708T093719Z" creationid="lesia" creationdate="20200708T093719Z">
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200708T095735Z" creationid="lesia" creationdate="20200708T093719Z">
         <seg>Howto - Using the OmegaT text export function (scripting interface)</seg>
       </tuv>
     </tu>
@@ -13081,7 +13081,7 @@ Its winter has come</seg>
       <tuv lang="en">
         <seg>Howto - Using the OmegaT tokenizer</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="lesia" changedate="20200708T093720Z" creationid="lesia" creationdate="20200708T093720Z">
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200708T095735Z" creationid="lesia" creationdate="20200708T093720Z">
         <seg>Howto - Using the OmegaT tokenizer</seg>
       </tuv>
     </tu>
@@ -13121,7 +13121,7 @@ Its winter has come</seg>
       <tuv lang="en">
         <seg>I've been using OmegaT as a professional translator for over 10 years, benefiting in the early days from its ease of use and extremely helpful forum.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="lesia" changedate="20200323T222545Z" creationid="maximo" creationdate="20200322T174005Z">
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200708T095735Z" creationid="maximo" creationdate="20200322T174005Z">
         <seg>Вже 10 років я використовую OmegaT як професійний перекладач. З перших днів роботи з нею я насолоджуюсь її зручністю та можливістю вирішити будь-які питання на дуже помічному форумі.</seg>
       </tuv>
     </tu>
@@ -13739,7 +13739,7 @@ their defaults as a result of the location change.</seg>
       <tuv lang="en">
         <seg>If the file already exists, no attempt is done to verify the format or the character set of the file: the new entries will always be in tab-separated format and UTF-8.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="Asus" changedate="20200610T084705Z" creationid="maximo" creationdate="20200404T171504Z">
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200708T095735Z" creationid="maximo" creationdate="20200404T171504Z">
         <seg>Якщо файл вже існує, то він не перевіряється на валідність формату чи кодування. Нові записи завжди додаються у табульованому форматі та кодуванні UTF-8.</seg>
       </tuv>
     </tu>
@@ -13771,7 +13771,7 @@ their defaults as a result of the location change.</seg>
       <tuv lang="en">
         <seg>If the option is checked, the source file name will not be used, and alternative translations will take effect in any file as long as the other context (previous/next segments or some sort of segment identifier, depending on the file format) matches.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="lesia" changedate="20200701T115924Z" creationid="maximo" creationdate="20200412T201425Z">
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200708T095735Z" creationid="maximo" creationdate="20200412T201425Z">
         <seg>Якщо поставити цей прапорець, назва файлу для перекладу не буде братися до уваги, і варіанти перекладу будуть використовуватися у будь-якому файлі, якщо інший контекст збігається (наприклад, попередній, наступний сегмент, чи якийсь ідентифікатор, залежно від формату файлу).</seg>
       </tuv>
     </tu>
@@ -14289,7 +14289,7 @@ to use Java Web Start.</seg>
       <tuv lang="en">
         <seg>If you need assistance with any aspect of OmegaT, feel free to join the &lt;u1&gt;OmegaT users group.&lt;/u1&gt;</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20190822T205334Z" creationid="Kos Ivantsov" creationdate="20190822T205334Z">
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200708T095735Z" creationid="Kos Ivantsov" creationdate="20190822T205334Z">
         <seg>Якщо вам знадобиться допомога щодо будь-якого аспекту роботи OmegaT, приєднуйтесь до &lt;u1&gt;групи користувачів OmegaT&lt;/u1&gt;.</seg>
       </tuv>
     </tu>
@@ -14313,7 +14313,7 @@ to use Java Web Start.</seg>
       <tuv lang="en">
         <seg>If you only need textual information (and not formatting information), use the level 1 file that OmegaT has created.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="lesia" changedate="20200705T075126Z" creationid="lesia" creationdate="20200705T075126Z">
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200708T095735Z" creationid="lesia" creationdate="20200705T075126Z">
         <seg>Якщо вам потрібна лише текстова інформація (а не форматування), використовуйте файл 1-го рівня, який був створений в OmegaT.</seg>
       </tuv>
     </tu>
@@ -14393,7 +14393,7 @@ to use Java Web Start.</seg>
       <tuv lang="en">
         <seg>If you used linux-install.sh script, you should be able to launch OmegaT with:</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20190822T212540Z" creationid="Kos Ivantsov" creationdate="20190822T212518Z">
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200708T095735Z" creationid="Kos Ivantsov" creationdate="20190822T212518Z">
         <seg>Якщо програма OmegaT була встановлена скриптом linux-install.sh, то запускати її можна, натиснувши</seg>
       </tuv>
     </tu>
@@ -14457,7 +14457,7 @@ to use Java Web Start.</seg>
       <tuv lang="en">
         <seg>If your set of rules handles a language-country pair, we advise you to move it to the top using the &lt;e1&gt;Move Up&lt;/e1&gt; button.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="maximo" changedate="20200416T090314Z" creationid="maximo" creationdate="20200416T090253Z">
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200708T095735Z" creationid="maximo" creationdate="20200416T090253Z">
         <seg>Якщо ваш набір правил працює для пари мова-країна, її варто посунути вверх за допомогою кнопки &lt;e1&gt;Посунути вверх&lt;/e1&gt;.</seg>
       </tuv>
     </tu>
@@ -14699,7 +14699,7 @@ click on that shortcut.</seg>
       <tuv lang="en">
         <seg>In case the file name has ambivalent name, one can apply variables of the form &lt;l0&gt;${name only&lt;/l0&gt;&lt;e1&gt;-extension number&lt;/e1&gt;} and &lt;l2&gt;${extension&lt;/l2&gt;-&lt;e3&gt;extension number} &lt;/e3&gt;.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="Asus" changedate="20200623T041640Z" creationid="maximo" creationdate="20200413T192354Z">
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200708T095735Z" creationid="maximo" creationdate="20200413T192354Z">
         <seg>Якщо ім'я файлу неоднозначне, то можна використати ці змінні у такому форматі: &lt;l0&gt;${nameOnly&lt;/l0&gt;&lt;e1&gt;-кількість розширень&lt;/e1&gt;} та &lt;l2&gt;${extension&lt;/l2&gt;-&lt;e3&gt;кількість розширень} &lt;/e3&gt;.</seg>
       </tuv>
     </tu>
@@ -14715,7 +14715,7 @@ click on that shortcut.</seg>
       <tuv lang="en">
         <seg>In case translators need to share their TMX bases while excluding some of their parts or including just translations of certain files, sharing the complete &lt;f0&gt;ProjectName-omegat.tmx&lt;/f0&gt; is out of question.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="maximo" changedate="20200705T055937Z" creationid="lesia" creationdate="20200705T054504Z">
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200708T095735Z" creationid="lesia" creationdate="20200705T054504Z">
         <seg>Якщо перекладачам треба обмінюватися TMX, але тільки для певних файлів, то звичний шлях через &lt;f0&gt;Ім'яПроєкту-omegat.tmx&lt;/f0&gt; не спрацює.</seg>
       </tuv>
     </tu>
@@ -15051,7 +15051,7 @@ click on that shortcut.</seg>
       <tuv lang="en">
         <seg>In this case, the NL-EN translation memory can serve as a go-between to help generate NL to ZH translation.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="maximo" changedate="20200705T052722Z" creationid="maximo" creationdate="20200705T052722Z">
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200708T095735Z" creationid="maximo" creationdate="20200705T052722Z">
         <seg>У цьому випадку перекладацька пам'ять NL-EN може послужити проміжним засобом для створення перекладу NL-ZH.</seg>
       </tuv>
     </tu>
@@ -15211,7 +15211,7 @@ click on that shortcut.</seg>
       <tuv lang="en">
         <seg>Initialized {0}-{1} team project.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20190420T151149Z" creationid="Kos Ivantsov" creationdate="20190420T151149Z">
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200708T095735Z" creationid="Kos Ivantsov" creationdate="20190420T151149Z">
         <seg>Ініціалізовано командний проєкт {0}-{1}.</seg>
       </tuv>
     </tu>
@@ -15474,7 +15474,7 @@ click on that shortcut.</seg>
         <seg>Installing OmegaT (Solaris, FreeBSD, etc.)
 =========================================</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="maximo" changedate="20200404T164714Z" creationid="maximo" creationdate="20200404T164714Z">
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200708T095735Z" creationid="maximo" creationdate="20200404T164714Z">
         <seg>Встановлення OmegaT (Solaris, FreeBSD та інші Unix-подібні системи)
 ===================================================================</seg>
       </tuv>
@@ -15533,7 +15533,7 @@ click on that shortcut.</seg>
       <tuv lang="en">
         <seg>Institut Laue-Langevin</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="maximo" changedate="20200614T164244Z" creationid="maximo" creationdate="20200614T164244Z">
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200708T095735Z" creationid="maximo" creationdate="20200614T164244Z">
         <seg>Institut Laue-Langevin</seg>
       </tuv>
     </tu>
@@ -15637,7 +15637,7 @@ click on that shortcut.</seg>
       <tuv lang="en">
         <seg>Invoke `team -h` for details.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20190419T173044Z" creationid="Kos Ivantsov" creationdate="20190419T173044Z">
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200708T095735Z" creationid="Kos Ivantsov" creationdate="20190419T173044Z">
         <seg>Детальнішу інформацію можна отримати, запустивши програму з параметром «team -h».</seg>
       </tuv>
     </tu>
@@ -15829,7 +15829,7 @@ click on that shortcut.</seg>
       <tuv lang="en">
         <seg>It is a multi-paradigm language, supporting object-oriented, imperative, and functional programming styles.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="maximo" changedate="20200624T203916Z" creationid="lesia" creationdate="20200503T062356Z">
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200708T095735Z" creationid="lesia" creationdate="20200503T062356Z">
         <seg>Це мультипарадигмова мова, яка підтримує обʼєктно-орієнтований, імперативний та функціональний стилі програмування.</seg>
       </tuv>
     </tu>
@@ -15853,7 +15853,7 @@ click on that shortcut.</seg>
       <tuv lang="en">
         <seg>It is often useful to search for words and phrases in the source text and in your translation, so press &lt;k0&gt;Ctrl+F&lt;/k0&gt; for the &lt;g1&gt;Text Search&lt;/g1&gt; dialog at any time.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="maximo" changedate="20200614T155609Z" creationid="Kos Ivantsov" creationdate="20190822T204421Z">
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200708T095735Z" creationid="Kos Ivantsov" creationdate="20190822T204421Z">
         <seg>Доволі часто виникає потреба шукати слова та словосполучення в оригіналі та в перекладі. Для цього у будь-який момент можна натиснути &lt;k0&gt;Ctrl+F&lt;/k0&gt; і викликати вікно &lt;g1&gt;Пошук тексту&lt;/g1&gt;.</seg>
       </tuv>
     </tu>
@@ -15877,7 +15877,7 @@ click on that shortcut.</seg>
       <tuv lang="en">
         <seg>It is possible to drag text from anywhere in the main window and to drop it within the segment.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="maximo" changedate="20200702T200049Z" creationid="maximo" creationdate="20200501T201832Z">
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200708T095735Z" creationid="maximo" creationdate="20200501T201832Z">
         <seg>В поточний сегмент можна перетягнути текст з будь-якого місця головного вікна.</seg>
       </tuv>
     </tu>
@@ -15918,7 +15918,7 @@ click on that shortcut.</seg>
       <tuv lang="en">
         <seg>It is simpler, however, to look for dictionaries online, using the &lt;e0&gt;URL of online dictionaries&lt;/e0&gt; field:</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="Asus" changedate="20200616T043307Z" creationid="maximo" creationdate="20200411T110113Z">
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200708T095735Z" creationid="maximo" creationdate="20200411T110113Z">
         <seg>Утім насправді простіше шукати словники онлайн, використовуючи поле &lt;e0&gt;URL-адреса словників в інтернеті&lt;/e0&gt;:</seg>
       </tuv>
     </tu>
@@ -16073,7 +16073,7 @@ itself on the first run.</seg>
       <tuv lang="en">
         <seg>Item has neither URLs nor commands.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20190820T150402Z" creationid="Kos Ivantsov" creationdate="20190820T150402Z">
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200708T095735Z" creationid="Kos Ivantsov" creationdate="20190820T150402Z">
         <seg>Елемент не містить ні URL-адреси, ні команди.</seg>
       </tuv>
     </tu>
@@ -16169,7 +16169,7 @@ itself on the first run.</seg>
       <tuv lang="en">
         <seg>Jar used for plugins: {0}</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20190517T151741Z" creationid="Kos Ivantsov" creationdate="20190517T151741Z">
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200708T095735Z" creationid="Kos Ivantsov" creationdate="20190517T151741Z">
         <seg>JAR-файл, з якого завантажено плагіни: {0}</seg>
       </tuv>
     </tu>
@@ -16569,7 +16569,7 @@ itself on the first run.</seg>
       <tuv lang="en">
         <seg>LanguageTool: Bad URL</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20190821T134953Z" creationid="Kos Ivantsov" creationdate="20190821T134953Z">
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200708T095735Z" creationid="Kos Ivantsov" creationdate="20190821T134953Z">
         <seg>LanguageTool: хибна URL-адреса</seg>
       </tuv>
     </tu>
@@ -16825,7 +16825,7 @@ itself on the first run.</seg>
       <tuv lang="en">
         <seg>Level 2 tmx files will still be imported and their textual content can be seen in OmegaT, but the quality of fuzzy matches will be somewhat lower.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="maximo" changedate="20200705T094510Z" creationid="lesia" creationdate="20200705T062208Z">
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200708T095735Z" creationid="lesia" creationdate="20200705T062208Z">
         <seg>Файли tmx 2-го рівня будуть імпортуватися, і їх текстове наповлення буде відображуватись в OmegaT, однак, якість нечітких збігів буде дещо нижчою.</seg>
       </tuv>
     </tu>
@@ -17267,7 +17267,7 @@ itself on the first run.</seg>
       <tuv lang="en">
         <seg>Make a slight change anywhere in the project.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="fanja9" changedate="20200510T192050Z" creationid="fanja9" creationdate="20200510T132357Z">
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200708T095735Z" creationid="fanja9" creationdate="20200510T132357Z">
         <seg>Внесіть незначні зміни у будь-якій частині проєкту.</seg>
       </tuv>
     </tu>
@@ -17798,7 +17798,7 @@ itself on the first run.</seg>
       <tuv lang="en">
         <seg>Merriam Webster dictionary - use</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="lesia" changedate="20200708T093726Z" creationid="maximo" creationdate="20200329T200617Z">
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200708T095735Z" creationid="maximo" creationdate="20200329T200617Z">
         <seg>Словник Мерріама-Вебстера — використання</seg>
       </tuv>
     </tu>
@@ -18078,7 +18078,7 @@ itself on the first run.</seg>
       <tuv lang="en">
         <seg>Moses Server URL:</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20190807T184724Z" creationid="Kos Ivantsov" creationdate="20190807T184724Z">
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200708T095735Z" creationid="Kos Ivantsov" creationdate="20190807T184724Z">
         <seg>URL-адреса сервера Moses:</seg>
       </tuv>
     </tu>
@@ -18713,7 +18713,7 @@ as the Applications folder.</seg>
 	--quiet
 		Reduce output to command line stdout.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20190822T171447Z" creationid="Kos Ivantsov" creationdate="20190419T181436Z">
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200708T095735Z" creationid="Kos Ivantsov" creationdate="20190419T181436Z">
         <seg>Параметри режиму без графічного інтерфейсу:
 	--quiet
 		Зменшити вивід у stdout командного рядка.</seg>
@@ -18859,7 +18859,7 @@ as the Applications folder.</seg>
       <tuv lang="en">
         <seg>Note that all parameters start with a double &lt;l0&gt;-&lt;/l0&gt; character.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="maximo" changedate="20200423T154239Z" creationid="maximo" creationdate="20200423T154239Z">
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200708T095735Z" creationid="maximo" creationdate="20200423T154239Z">
         <seg>Зверніть увагу, що всі параметри починаються з подвійного символа &lt;l0&gt;-&lt;/l0&gt;.</seg>
       </tuv>
     </tu>
@@ -18875,7 +18875,7 @@ as the Applications folder.</seg>
       <tuv lang="en">
         <seg>Note that if you need or wish to use any of the launch command arguments (see above), you must use the normal installation.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="maximo" changedate="20200420T195925Z" creationid="maximo" creationdate="20200420T195925Z">
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200708T095735Z" creationid="maximo" creationdate="20200420T195925Z">
         <seg>Зверніть увагу, що якщо ви хочете використовувати будь-які аргументи запуску програми (див. вище), версія Java Web Start вам не підійде.</seg>
       </tuv>
     </tu>
@@ -18931,7 +18931,7 @@ as the Applications folder.</seg>
       <tuv lang="en">
         <seg>Note that other CAT tools can export (and import as well) tmx files, usually in all three forms.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="maximo" changedate="20200702T194222Z" creationid="fanja9" creationdate="20200502T180844Z">
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200708T095735Z" creationid="fanja9" creationdate="20200502T180844Z">
         <seg>Зверніть увагу, що інші CAT-інструменти зазвичай можуть експортувати пам'ять перекладів у перших двох форматах.</seg>
       </tuv>
     </tu>
@@ -18987,7 +18987,7 @@ as the Applications folder.</seg>
       <tuv lang="en">
         <seg>Note the double &lt;l5&gt;-&lt;/l5&gt; character.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="maximo" changedate="20200423T154723Z" creationid="maximo" creationdate="20200423T154723Z">
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200708T095735Z" creationid="maximo" creationdate="20200423T154723Z">
         <seg>Зверніть увагу на подвійний символ &lt;l5&gt;-&lt;/l5&gt;.</seg>
       </tuv>
     </tu>
@@ -19019,7 +19019,7 @@ as the Applications folder.</seg>
       <tuv lang="en">
         <seg>Note: DocBook files are recognized not only by file extension, but they also must have a DOCTYPE declaration: &lt;!DOCTYPE book PUBLIC \"-//OASIS//DTD DocBook XML... for DocBook 4, or a Namespace: xmlns="http://docbook.org/ns/docbook" for DocBook 5</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20190805T103007Z" creationid="Kos Ivantsov" creationdate="20190805T102934Z">
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200708T095735Z" creationid="Kos Ivantsov" creationdate="20190805T102934Z">
         <seg>Примітка: файли DocBook розпізнаються не лише за розширенням файлу; в них повинно також міститися оголошення типу документа (DOCTYPE) для DocBook 4: &lt;!DOCTYPE book PUBLIC \"-//OASIS//DTD DocBook XML... або простір імен (Namespace) для DocBook 5: xmlns="http://docbook.org/ns/docbook"</seg>
       </tuv>
     </tu>
@@ -19123,7 +19123,7 @@ as the Applications folder.</seg>
       <tuv lang="en">
         <seg>Nothing speaks against using Notepad++ on Windows, GEdit on Linux for instance or some spreadsheet program for this purpose: any application, that can handle UTF-8 (or UTF-16 LE) and that can show white space (so that you do not miss the required &lt;k1&gt;TAB&lt;/k1&gt; characters) can be used.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="maximo" changedate="20200607T164623Z" creationid="lesia" creationdate="20200505T201802Z">
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200708T095735Z" creationid="lesia" creationdate="20200505T201802Z">
         <seg>Наприклад, можна використати Notepad++ на Windows, GEdit на Linux або ж ту чи іншу програму для роботи з таблицями. Підійде будь-яка програма, яка працює з UTF-8 (або UTF-16 LE) і може відображати пробільні символи (щоб ви не пропустили потрібних символів &lt;k1&gt;TAB&lt;/k1&gt;).</seg>
       </tuv>
     </tu>
@@ -19291,7 +19291,7 @@ as the Applications folder.</seg>
       <tuv lang="en">
         <seg>ONline DIctionary LOokup TOol.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="lesia" changedate="20200322T155145Z" creationid="lesia" creationdate="20200322T155145Z">
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200708T095735Z" creationid="lesia" creationdate="20200322T155145Z">
         <seg>Утиліта ONline DIctionary LOokup TOol для використання онлайн-словників.</seg>
       </tuv>
     </tu>
@@ -19371,7 +19371,7 @@ as the Applications folder.</seg>
       <tuv lang="en">
         <seg>OmT-l10n</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="maximo" changedate="20200614T164003Z" creationid="maximo" creationdate="20200614T164003Z">
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200708T095735Z" creationid="maximo" creationdate="20200614T164003Z">
         <seg>OmT-l10n</seg>
       </tuv>
     </tu>
@@ -19539,7 +19539,7 @@ as the Applications folder.</seg>
       <tuv lang="en">
         <seg>OmegaT exports version 1.4 TMX files (both level 1 and level 2).</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="lesia" changedate="20200705T074250Z" creationid="lesia" creationdate="20200705T074242Z">
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200708T095735Z" creationid="lesia" creationdate="20200705T074242Z">
         <seg>OmegaT експортує файли 1.4 TMX (як 1-го, так і 2-го рівня).</seg>
       </tuv>
     </tu>
@@ -19719,7 +19719,7 @@ translation leveraging into updated projects.</seg>
 published by the Free Software Foundation, either version 3 of the License, or
 (at your option) any later version.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20190822T144900Z" creationid="Kos Ivantsov" creationdate="20190822T144900Z">
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200708T095735Z" creationid="Kos Ivantsov" creationdate="20190822T144900Z">
         <seg>Програма OmegaT розповсюджується на умовах ліцензії GNU General Public License, виданої Free Software Foundation, версії 3 або (за потребою) будь-якої пізнішої версії.</seg>
       </tuv>
     </tu>
@@ -19869,7 +19869,7 @@ installed on your system.</seg>
       <tuv lang="en">
         <seg>OmegaT supports imported tmx versions 1.1-1.4b (both level 1 and level 2).</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="lesia" changedate="20200705T061918Z" creationid="lesia" creationdate="20200705T060847Z">
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200708T095735Z" creationid="lesia" creationdate="20200705T060847Z">
         <seg>OmegaT підтримує імпортовані версії tmx 1.1-1.4b (як 1-го, так і 2-го рівня).</seg>
       </tuv>
     </tu>
@@ -19975,7 +19975,7 @@ installed on your system.</seg>
       <tuv lang="en">
         <seg>OmegaT will run on any system on which the appropriate JRE (Java Runtime Environment) has been or can be installed.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="lesia" changedate="20200324T173240Z" creationid="maximo" creationdate="20200322T150253Z">
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200708T095735Z" creationid="maximo" creationdate="20200322T150253Z">
         <seg>Як правило, OmegaT працює на будь-якій системі, де встановлена або може бути встановлена потрібна версія середовища Java (JRE).</seg>
       </tuv>
     </tu>
@@ -20023,7 +20023,7 @@ installed on your system.</seg>
       <tuv lang="en">
         <seg>OmegaT will usually run on any Linux system on which a suitable version of the Java Runtime Environment (JRE) can be be installed.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="lesia" changedate="20200323T160831Z" creationid="maximo" creationdate="20200322T141900Z">
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200708T095735Z" creationid="maximo" creationdate="20200322T141900Z">
         <seg>Як правило, OmegaT працює на будь-якій версії Linux, де встановлена потрібна версія середовища Java (JRE).</seg>
       </tuv>
     </tu>
@@ -20080,7 +20080,7 @@ installed on your system.</seg>
       <tuv lang="en">
         <seg>On Windows it is called an "MS-DOS window" and is available from the Start Menu, inside Programs, through the "MS-DOS" item.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="lesia" changedate="20200708T091747Z" creationid="maximo" creationdate="20200420T200723Z">
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200708T095735Z" creationid="maximo" creationdate="20200420T200723Z">
         <seg>Під Windows його називають «вікно MS-DOS», і до нього можна доступитися через пункт MS-DOS меню Пуск.</seg>
       </tuv>
     </tu>
@@ -20232,7 +20232,7 @@ installed on your system.</seg>
       <tuv lang="en">
         <seg>Online repositories of spelling dictionaries for use within OmegaT.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="lesia" changedate="20200322T160537Z" creationid="lesia" creationdate="20200322T160537Z">
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200708T095735Z" creationid="lesia" creationdate="20200322T160537Z">
         <seg>Онлайн-репозиторії орфографічних словників для використання в OmegaT.</seg>
       </tuv>
     </tu>
@@ -20280,7 +20280,7 @@ installed on your system.</seg>
       <tuv lang="en">
         <seg>Only integers and simple floats (using the period as a decimal character, e.g. 5.4, but not 5,4 or 54E-01) are considered.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="maximo" changedate="20200505T203452Z" creationid="maximo" creationdate="20200416T213644Z">
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200708T095735Z" creationid="maximo" creationdate="20200416T213644Z">
         <seg>Перетворення відбуваються тільки для цілих чисел та простих десяткових дробів (тих, що використовують крапку як розділювальний елемент, таким чином 5.4, але не 5,4 чи 54E-01).</seg>
       </tuv>
     </tu>
@@ -20296,7 +20296,7 @@ installed on your system.</seg>
       <tuv lang="en">
         <seg>Only the file &lt;f0&gt;test.html&lt;/f0&gt; in the folder &lt;f1&gt;dir-10&lt;/f1&gt; will be processed.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="maximo" changedate="20200423T160414Z" creationid="maximo" creationdate="20200423T160414Z">
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200708T095735Z" creationid="maximo" creationdate="20200423T160414Z">
         <seg>Лише файл &lt;f0&gt;test.html&lt;/f0&gt; у теці &lt;f1&gt;dir-10&lt;/f1&gt; буде оброблено.</seg>
       </tuv>
     </tu>
@@ -21111,7 +21111,7 @@ Vanishing like mist</seg>
       <tuv lang="en">
         <seg>Perform SVN cleanup on current project or any local SVN repository</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20190823T143557Z" creationid="Kos Ivantsov" creationdate="20190823T143410Z">
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200708T095735Z" creationid="Kos Ivantsov" creationdate="20190823T143410Z">
         <seg>Виконання очищення SVN у поточному проєкті або будь-якій локальній робочій копії SVN</seg>
       </tuv>
     </tu>
@@ -21171,7 +21171,7 @@ everything.</seg>
       <tuv lang="en">
         <seg>Place the archive in any suitable folder and unpack it.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20200502T143544Z" creationid="Kos Ivantsov" creationdate="20190822T150632Z">
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200708T095735Z" creationid="Kos Ivantsov" creationdate="20190822T150632Z">
         <seg>Помістіть архів у будь-яку теку та розпакуйте його —</seg>
       </tuv>
     </tu>
@@ -21467,7 +21467,7 @@ additional steps need to be taken.</seg>
       <tuv lang="en">
         <seg>Please type or paste the URL of the mediawiki page</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20190420T141842Z" creationid="Kos Ivantsov" creationdate="20190420T141842Z">
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200708T095735Z" creationid="Kos Ivantsov" creationdate="20190420T141842Z">
         <seg>Уведіть або вставте URL-адресу сторінки mediawiki</seg>
       </tuv>
     </tu>
@@ -21475,7 +21475,7 @@ additional steps need to be taken.</seg>
       <tuv lang="en">
         <seg>Plug-ins</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="maximo" changedate="20200614T164045Z" creationid="maximo" creationdate="20200614T164045Z">
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200708T095735Z" creationid="maximo" creationdate="20200614T164045Z">
         <seg>Plug-ins</seg>
       </tuv>
     </tu>
@@ -21611,7 +21611,7 @@ additional steps need to be taken.</seg>
       <tuv lang="en">
         <seg>Premium Edition</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20190807T184028Z" creationid="Kos Ivantsov" creationdate="20190807T184028Z">
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200708T095735Z" creationid="Kos Ivantsov" creationdate="20190807T184028Z">
         <seg>Преміум-варіант</seg>
       </tuv>
     </tu>
@@ -21735,7 +21735,7 @@ project without team functionality.</seg>
       <tuv lang="en">
         <seg>Pressing &lt;k0&gt;F2&lt;/k0&gt; key allows to move the cursor into the source segment (or anywhere in the editor) with the keyboard arrows.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="lesia" changedate="20200708T094215Z" creationid="maximo" creationdate="20200501T202648Z">
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200708T095735Z" creationid="maximo" creationdate="20200501T202648Z">
         <seg>Якщо натиснути &lt;k0&gt;F2&lt;/k0&gt;, то це стає можливим. Курсор зможе вийти за межі поля редагування — в оригінальний сегмент і взагалі в будь-яке місце вікна редагування.</seg>
       </tuv>
     </tu>
@@ -22207,6 +22207,14 @@ project without team functionality.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Propagation and one-to-many matching HowTo</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200708T095735Z" creationid="lesia" creationdate="20200708T095625Z">
+        <seg>Propagation and one-to-many matching HowTo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Properties...</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="maximo" changedate="20200405T184551Z" creationid="maximo" creationdate="20200405T184551Z">
@@ -22241,7 +22249,7 @@ project without team functionality.</seg>
       <tuv lang="en">
         <seg>Proxy Login</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20190821T150048Z" creationid="Kos Ivantsov" creationdate="20190821T150048Z">
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200708T095735Z" creationid="Kos Ivantsov" creationdate="20190821T150048Z">
         <seg>Авторизація на проксі-сервері</seg>
       </tuv>
     </tu>
@@ -22249,7 +22257,7 @@ project without team functionality.</seg>
       <tuv lang="en">
         <seg>Proxy Login...</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="maximo" changedate="20200405T190459Z" creationid="maximo" creationdate="20200405T190459Z">
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200708T095735Z" creationid="maximo" creationdate="20200405T190459Z">
         <seg>Авторизація на проксі-сервері...</seg>
       </tuv>
     </tu>
@@ -22265,7 +22273,7 @@ project without team functionality.</seg>
       <tuv lang="en">
         <seg>Proxy host IP address</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="maximo" changedate="20200422T141517Z" creationid="maximo" creationdate="20200422T141517Z">
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200708T095735Z" creationid="maximo" creationdate="20200422T141517Z">
         <seg>IP адреса проксі-сервера</seg>
       </tuv>
     </tu>
@@ -22273,7 +22281,7 @@ project without team functionality.</seg>
       <tuv lang="en">
         <seg>Proxy host port number</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="maximo" changedate="20200422T171351Z" creationid="maximo" creationdate="20200422T171351Z">
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200708T095735Z" creationid="maximo" creationdate="20200422T171351Z">
         <seg>Порт проксі-сервера</seg>
       </tuv>
     </tu>
@@ -23515,7 +23523,7 @@ These words: 'Page not found'</seg>
       <tuv lang="en">
         <seg>Robert Corner, Institut Laue-Langevin, France</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="maximo" changedate="20200322T174217Z" creationid="maximo" creationdate="20200322T174150Z">
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200708T095735Z" creationid="maximo" creationdate="20200322T174150Z">
         <seg>Robert Corner, інститут Laue-Langevin, Франція</seg>
       </tuv>
     </tu>
@@ -23603,7 +23611,7 @@ These words: 'Page not found'</seg>
       <tuv lang="en">
         <seg>Running on Java {0} ({1}-bit)</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20190420T180859Z" creationid="Kos Ivantsov" creationdate="20190420T180859Z">
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200708T095735Z" creationid="Kos Ivantsov" creationdate="20190420T180859Z">
         <seg>Виконується на {1}-бітній версії Java {0}</seg>
       </tuv>
     </tu>
@@ -23908,7 +23916,7 @@ These words: 'Page not found'</seg>
         <seg>Scope:
 The scope of a search is by default the project and can be set to be any files located in a specified folder hierarchy.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20200502T143120Z" creationid="Kos Ivantsov" creationdate="20190517T093814Z">
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200708T095735Z" creationid="Kos Ivantsov" creationdate="20190517T093814Z">
         <seg>Область пошуку:
 Стандартним значенням є пошук у проєкті. Пошук може також здійснюватися у будь-яких файлах, розташованих у зазначеній теці.</seg>
       </tuv>
@@ -24117,7 +24125,7 @@ The scope of a search is by default the project and can be set to be any files l
       <tuv lang="en">
         <seg>Search for segments containing all keywords you specified, in any order.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="lesia" changedate="20200523T202841Z" creationid="lesia" creationdate="20200523T202841Z">
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200708T095735Z" creationid="lesia" creationdate="20200523T202841Z">
         <seg>Пошук сегментів, які містять всі введені вами ключові слова у будь-якому порядку.</seg>
       </tuv>
     </tu>
@@ -24374,7 +24382,7 @@ The scope of a search is by default the project and can be set to be any files l
       <tuv lang="en">
         <seg>See OmegaT.jar/META-INF/MANIFEST.MF for valid values.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20190419T180643Z" creationid="Kos Ivantsov" creationdate="20190419T180643Z">
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200708T095735Z" creationid="Kos Ivantsov" creationdate="20190419T180643Z">
         <seg>Припустимі значення наведено у файлі «OmegaT.jar/META-INF/MANIFEST.MF».</seg>
       </tuv>
     </tu>
@@ -24800,7 +24808,7 @@ The scope of a search is by default the project and can be set to be any files l
       <tuv lang="en">
         <seg>Select keyword search to search for any number of individual full words, in any order.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="lesia" changedate="20200523T202842Z" creationid="lesia" creationdate="20200523T202842Z">
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200708T095735Z" creationid="lesia" creationdate="20200523T202842Z">
         <seg>Оберіть пошук за ключовими словами, щоб знайти будь-яку кількість цілих окремих слів у будь-якому порядку.</seg>
       </tuv>
     </tu>
@@ -24808,7 +24816,7 @@ The scope of a search is by default the project and can be set to be any files l
       <tuv lang="en">
         <seg>Select languagetool-server.jar</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20190821T135256Z" creationid="Kos Ivantsov" creationdate="20190821T135256Z">
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200708T095735Z" creationid="Kos Ivantsov" creationdate="20190821T135256Z">
         <seg>Виберіть файл languagetool-server.jar</seg>
       </tuv>
     </tu>
@@ -25530,7 +25538,7 @@ The scope of a search is by default the project and can be set to be any files l
       <tuv lang="en">
         <seg>Some tools are known to produce invalid tmx files under certain conditions.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="lesia" changedate="20200705T073349Z" creationid="lesia" creationdate="20200705T073349Z">
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200708T095735Z" creationid="lesia" creationdate="20200705T073349Z">
         <seg>Відомо, що деякі САТ-інструменти за певних умов створюють несправні файли tmx.</seg>
       </tuv>
     </tu>
@@ -26669,7 +26677,7 @@ The scope of a search is by default the project and can be set to be any files l
       <tuv lang="en">
         <seg>Target files can also be written in any encoding.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="Asus" changedate="20200623T034536Z" creationid="maximo" creationdate="20200413T185123Z">
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200708T095735Z" creationid="maximo" creationdate="20200413T185123Z">
         <seg>Перекладені файли також можуть записуватися з використанням будь-якого кодування.</seg>
       </tuv>
     </tu>
@@ -26992,7 +27000,7 @@ current folder will be used instead.</seg>
       <tuv lang="en">
         <seg>The "master" (alpha) version reflects the very latest state of development.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="lesia" changedate="20200708T092506Z" creationid="maximo" creationdate="20200322T163855Z">
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200708T095735Z" creationid="maximo" creationdate="20200322T163855Z">
         <seg>Версія з гілки «master» (альфа-версія) відображує останній стан розвитку програми.</seg>
       </tuv>
     </tu>
@@ -27000,7 +27008,7 @@ current folder will be used instead.</seg>
       <tuv lang="en">
         <seg>The "master" version is a cutting-edge, "alpha" version, still in development.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="maximo" changedate="20200322T154242Z" creationid="maximo" creationdate="20200322T154242Z">
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200708T095735Z" creationid="maximo" creationdate="20200322T154242Z">
         <seg>Це версія з гілки "master", альфа-версія, ще у процесі розробки.</seg>
       </tuv>
     </tu>
@@ -27064,7 +27072,7 @@ current folder will be used instead.</seg>
       <tuv lang="en">
         <seg>The &lt;g0&gt;Viterbi&lt;/g0&gt; and &lt;g1&gt;Forward-Backward&lt;/g1&gt; algorithms are two different calculation methods.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="lesia" changedate="20200708T094309Z" creationid="lesia" creationdate="20200501T203521Z">
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200708T095735Z" creationid="lesia" creationdate="20200501T203521Z">
         <seg>Алгоритм &lt;g0&gt;Вітербі&lt;/g0&gt; та &lt;g1&gt;Уперед-назад&lt;/g1&gt; — це два різних методи підрахунку.</seg>
       </tuv>
     </tu>
@@ -27097,7 +27105,7 @@ current folder will be used instead.</seg>
       <tuv lang="en">
         <seg>The &lt;l0&gt;-Duser.language=&lt;p1&gt;XX&lt;/p1&gt;&lt;/l0&gt; argument causes &lt;a2&gt;OmegaT&lt;/a2&gt; to use the language specified rather than the language of the user's operating system.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="maximo" changedate="20200420T203140Z" creationid="maximo" creationdate="20200420T203140Z">
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200708T095735Z" creationid="maximo" creationdate="20200420T203140Z">
         <seg>Аргумент &lt;l0&gt;-Duser.language=&lt;p1&gt;XX&lt;/p1&gt;&lt;/l0&gt; змушує &lt;a2&gt;OmegaT&lt;/a2&gt; використовувати саме вказану мову, незалежно від мови операційної системи.</seg>
       </tuv>
     </tu>
@@ -27193,7 +27201,7 @@ current folder will be used instead.</seg>
       <tuv lang="en">
         <seg>The Moses server URL is not set</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20190807T184756Z" creationid="Kos Ivantsov" creationdate="20190807T184756Z">
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200708T095735Z" creationid="Kos Ivantsov" creationdate="20190807T184756Z">
         <seg>URL-адреса сервера Moses не вказано.</seg>
       </tuv>
     </tu>
@@ -27347,7 +27355,7 @@ Please try to correct the error and reload the project.</seg>
       <tuv lang="en">
         <seg>The URL must include "{target}", which will be replaced with the search text.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20190819T104614Z" creationid="Kos Ivantsov" creationdate="20190819T104614Z">
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200708T095735Z" creationid="Kos Ivantsov" creationdate="20190819T104614Z">
         <seg>URL-адреса має містити «{target}» (без лапок). Коли відкриватиметься вказана адреса, «{target}» буде замінено вибраним текстом.</seg>
       </tuv>
     </tu>
@@ -27760,7 +27768,7 @@ instead.</seg>
       <tuv lang="en">
         <seg>The displayed text is split into segments and you may scroll through the document and double-click on any segment to open and edit it.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="maximo" changedate="20200501T160930Z" creationid="maximo" creationdate="20200501T160930Z">
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200708T095735Z" creationid="maximo" creationdate="20200501T160930Z">
         <seg>Текст показується розділеним на сегменти. Ви можете прогортати документ та двічі клацнути на будь-якому сегменті, щоб відкрити його та відредагувати переклад.</seg>
       </tuv>
     </tu>
@@ -27928,7 +27936,7 @@ instead.</seg>
       <tuv lang="en">
         <seg>The following example shows Merriam Webster 10th dictionary "in action":</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="Asus" changedate="20200609T115421Z" creationid="maximo" creationdate="20200329T200613Z">
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200708T095735Z" creationid="maximo" creationdate="20200329T200613Z">
         <seg>Нижче зображено, як працює словник Мерріама-Вебстера (10-видання):</seg>
       </tuv>
     </tu>
@@ -28053,7 +28061,7 @@ But others await</seg>
       <tuv lang="en">
         <seg>The included JRE is the 64-bit version.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="maximo" changedate="20200322T144955Z" creationid="maximo" creationdate="20200322T144955Z">
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200708T095735Z" creationid="maximo" creationdate="20200322T144955Z">
         <seg>JRE в пакеті 64-бітної версії.</seg>
       </tuv>
     </tu>
@@ -28104,7 +28112,7 @@ in the quick launch area.</seg>
         <seg>The language code should be in the form xx-YY, xxx-YY, xx_YY or xxx_YY, where 
 xx or xxx is the language code and YY is the region or country code (optional).</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20190516T180637Z" creationid="Kos Ivantsov" creationdate="20190516T180637Z">
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200708T095735Z" creationid="Kos Ivantsov" creationdate="20190516T180637Z">
         <seg>Код мови має відповідати шаблонові xx-YY, xxx-YY, xxx_YY або xx_YY, де xx — код мови, а YY — код країни або області (може не вказуватися).</seg>
       </tuv>
     </tu>
@@ -28128,7 +28136,7 @@ xx or xxx is the language code and YY is the region or country code (optional).<
       <tuv lang="en">
         <seg>The level 2 export is not fully compliant with the level 2 standard, but is sufficiently close and will generate correct matches in other translation memory tools supporting TMX Level 2.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="maximo" changedate="20200705T094722Z" creationid="lesia" creationdate="20200705T054459Z">
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200708T095735Z" creationid="lesia" creationdate="20200705T054459Z">
         <seg>Експорт рівня 2 не повністю співпадає зі стандартним експортом такого рівня, але достатньо близький, щоб згенерувати правильні збіги в інших САТ-інструментах, котрі підтримують TMX 2-го рівня.</seg>
       </tuv>
     </tu>
@@ -28274,7 +28282,7 @@ in /lib/licenses/Licenses.txt.</seg>
       <tuv lang="en">
         <seg>The most current info about OmegaT can be found at:</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20190822T215401Z" creationid="Kos Ivantsov" creationdate="20190822T215401Z">
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200708T095735Z" creationid="Kos Ivantsov" creationdate="20190822T215401Z">
         <seg>Найсвіжішу інформацію про OmegaT можна знайти на веб-сайті програми:</seg>
       </tuv>
     </tu>
@@ -28290,7 +28298,7 @@ in /lib/licenses/Licenses.txt.</seg>
       <tuv lang="en">
         <seg>The most important is &lt;l1&gt;/path/to/project&lt;/l1&gt;, and optionally &lt;l2&gt;--config-dir=&lt;p3&gt;/path/to/config-files/&lt;/p3&gt;&lt;/l2&gt;.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="lesia" changedate="20200708T094146Z" creationid="maximo" creationdate="20200423T154005Z">
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200708T095735Z" creationid="maximo" creationdate="20200423T154005Z">
         <seg>Найважливіший — це шлях до проєкту &lt;l1&gt;/path/to/project&lt;/l1&gt;. Можна також вказати шлях до теки з файлами налаштувань &lt;l2&gt;--config-dir=&lt;p3&gt;/path/to/config-files/&lt;/p3&gt;&lt;/l2&gt;.</seg>
       </tuv>
     </tu>
@@ -28346,7 +28354,7 @@ in /lib/licenses/Licenses.txt.</seg>
       <tuv lang="en">
         <seg>The one and the same segment may, depending on the context, require different translations.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="lesia" changedate="20200702T200816Z" creationid="lesia" creationdate="20200425T154157Z">
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200708T095735Z" creationid="lesia" creationdate="20200425T154157Z">
         <seg>Один і той же сегмент може залежно від контексту перекладатися по-різному.</seg>
       </tuv>
     </tu>
@@ -28626,7 +28634,7 @@ in /lib/licenses/Licenses.txt.</seg>
       <tuv lang="en">
         <seg>The remote file &lt;f0&gt;https://github.com/omegat-org/omegat/raw/master/release/readme.txt&lt;/f0&gt; is mapped to the local file &lt;f1&gt;source/readme_tr.txt&lt;/f1&gt;.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="lesia" changedate="20200704T205225Z" creationid="lesia" creationdate="20200704T205225Z">
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200708T095735Z" creationid="lesia" creationdate="20200704T205225Z">
         <seg>Віддалений файл &lt;f0&gt;https://github.com/omegat-org/omegat/raw/master/release/readme.txt&lt;/f0&gt; прив'язаний до локального &lt;f1&gt;source/readme_tr.txt&lt;/f1&gt;.</seg>
       </tuv>
     </tu>
@@ -28634,7 +28642,7 @@ in /lib/licenses/Licenses.txt.</seg>
       <tuv lang="en">
         <seg>The remote file &lt;f0&gt;https://github.com/omegat-org/omegat/raw/master/src/org/omegat/Bundle.properties&lt;/f0&gt; is mapped to the local file &lt;f1&gt;source/Bundle.properties&lt;/f1&gt;.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="lesia" changedate="20200704T205117Z" creationid="lesia" creationdate="20200704T205117Z">
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200708T095735Z" creationid="lesia" creationdate="20200704T205117Z">
         <seg>Віддалений файл &lt;f0&gt;https://github.com/omegat-org/omegat/raw/master/src/org/omegat/Bundle.properties&lt;/f0&gt; прив'язаний до локального файлу &lt;f1&gt;source/Bundle.properties&lt;/f1&gt;.</seg>
       </tuv>
     </tu>
@@ -28715,7 +28723,7 @@ in /lib/licenses/Licenses.txt.</seg>
       <tuv lang="en">
         <seg>The search string - [a-zA-Z]+[öäüqwß] - in the example above for instance looks for words in the target segment, containing questionable characters from German keyboard.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="fanja9" changedate="20200704T145933Z" creationid="lesia" creationdate="20200523T202850Z">
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200708T095735Z" creationid="lesia" creationdate="20200523T202850Z">
         <seg>Якщо ввести таку стрічку [a-zA-Z]+[öäüqwß] у пошук, то вона шукатиме слова у сегменті перекладу, які містять перераховані символи з німецької розкладки.</seg>
       </tuv>
     </tu>
@@ -29125,7 +29133,7 @@ in /lib/licenses/Licenses.txt.</seg>
       <tuv lang="en">
         <seg>The two entries required are available in your &lt;u1&gt;account page&lt;/u1&gt; under Primary account key and Customer-ID:</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="maximo" changedate="20200422T171938Z" creationid="maximo" creationdate="20200422T171938Z">
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200708T095735Z" creationid="maximo" creationdate="20200422T171938Z">
         <seg>Два елемента, які потрібно ввести, ви можете знайти на &lt;u1&gt;сторінці вашого акаунту&lt;/u1&gt;: Primary account key та Customer-ID:</seg>
       </tuv>
     </tu>
@@ -29570,7 +29578,7 @@ the server.</seg>
       <tuv lang="en">
         <seg>This URL appears to be invalid.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20190821T154315Z" creationid="Kos Ivantsov" creationdate="20190821T154315Z">
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200708T095735Z" creationid="Kos Ivantsov" creationdate="20190821T154315Z">
         <seg>Ця URL-адреса здається хибною.</seg>
       </tuv>
     </tu>
@@ -29786,7 +29794,7 @@ the server.</seg>
       <tuv lang="en">
         <seg>This enables the translation memories produced by other tools to be read by OmegaT.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="lesia" changedate="20200705T061726Z" creationid="lesia" creationdate="20200705T061657Z">
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200708T095735Z" creationid="lesia" creationdate="20200705T061657Z">
         <seg>Це дозволяє OmegaT читати памʼяті перекладів, створені за допомогою інших САТ-інструментів.</seg>
       </tuv>
     </tu>
@@ -30164,7 +30172,7 @@ the server.</seg>
       <tuv lang="en">
         <seg>This package can be used on any platform where a Java 8 compatible JRE is installed.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="maximo" changedate="20200420T170119Z" creationid="maximo" creationdate="20200420T170119Z">
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200708T095735Z" creationid="maximo" creationdate="20200420T170119Z">
         <seg>Цей пакет можна використовувати на будь-якій платформі з інстальованим середовищем Java, сумістним із Java 8.</seg>
       </tuv>
     </tu>
@@ -30196,7 +30204,7 @@ the server.</seg>
       <tuv lang="en">
         <seg>This program is free software; you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation; either version 3 of the License, or (at your option) any later version.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20190504T115810Z" creationid="Kos Ivantsov" creationdate="20190424T213421Z">
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200708T095735Z" creationid="Kos Ivantsov" creationdate="20190424T213421Z">
         <seg>Ця програма є вільним програмним забезпеченням; ви можете розповсюджувати та/або змінювати відповідно до умов ліцензії GNU General Public License, що опублікована організацією Free Software Foundation, версії 3 або (за бажанням) будь-якої пізнішої версії.</seg>
       </tuv>
     </tu>
@@ -30260,7 +30268,7 @@ the server.</seg>
       <tuv lang="en">
         <seg>This will create a full distribution of OmegaT in the &lt;f0&gt;./build/distributions&lt;/f0&gt; folder, where you will find a zip containing everything needed to run &lt;a1&gt;OmegaT&lt;/a1&gt;.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="maximo" changedate="20200423T161714Z" creationid="maximo" creationdate="20200423T161714Z">
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200708T095735Z" creationid="maximo" creationdate="20200423T161714Z">
         <seg>Це створить пакет OmegaT у теці &lt;f0&gt;./build/distributions&lt;/f0&gt;. Там ви знайдете zip-файл з усім необхідним для запуску &lt;a1&gt;OmegaT&lt;/a1&gt;.</seg>
       </tuv>
     </tu>
@@ -30340,7 +30348,7 @@ the server.</seg>
       <tuv lang="en">
         <seg>Thus, for example, rules for Canadian French (FR-CA) should be higher than rules for French (FR.*), and higher than Default (.*) ones.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20190820T122408Z" creationid="Kos Ivantsov" creationdate="20190820T122408Z">
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200708T095735Z" creationid="Kos Ivantsov" creationdate="20190820T122408Z">
         <seg>Тому, наприклад, правила для канадської французької (FR-CA) потрібно розмістити раніше за правила для французької (FR.*) і раніше за типовий набір (.*).</seg>
       </tuv>
     </tu>
@@ -30471,7 +30479,7 @@ the server.</seg>
       <tuv lang="en">
         <seg>To change the amount of memory available, edit &lt;e0&gt;OmegaT.app/Contents/Info.plist&lt;/e0&gt; file and un-comment the line &lt;l1&gt;&lt;!-- &lt;string&gt;-Xmx6g&lt;/string&gt; --&gt;&lt;/l1&gt; by removing the &lt;l2&gt;&lt;!--&lt;/l2&gt; and &lt;l3&gt;--&gt;&lt;/l3&gt;.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="lesia" changedate="20200708T094131Z" creationid="maximo" creationdate="20200420T164604Z">
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200708T095735Z" creationid="maximo" creationdate="20200420T164604Z">
         <seg>Щоб змінити кількість доступної памʼяті, відредагуйте файл &lt;e0&gt;OmegaT.app/Contents/Info.plist&lt;/e0&gt; та розкоментуйте рядок &lt;l1&gt;&lt;!-- &lt;string&gt;-Xmx6g&lt;/string&gt; --&gt;&lt;/l1&gt; — заберіть &lt;l2&gt;&lt;!--&lt;/l2&gt; та &lt;l3&gt;--&gt;&lt;/l3&gt;.</seg>
       </tuv>
     </tu>
@@ -30898,7 +30906,7 @@ su -c ./linux-install.sh</seg>
 window (console), change folder to the folder containing OmegaT.jar and the
 linux-install.sh script, and execute the script with ./linux-install.sh.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="maximo" changedate="20200404T164708Z" creationid="maximo" creationdate="20200404T164708Z">
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200708T095735Z" creationid="maximo" creationdate="20200404T164708Z">
         <seg>Для цього запустіть емулятор термінала (консоль), перейдіть у теку, де розміщуються файли OmegaT.jar і linux-install.sh, і запустіть скрипт командою ./linux-install.sh</seg>
       </tuv>
     </tu>
@@ -31462,7 +31470,7 @@ Exact searches match the whole search string.</seg>
       <tuv lang="en">
         <seg>Typing any text will open a &lt;g0&gt;Filter&lt;/g0&gt; field where parts of filenames can be entered.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="maximo" changedate="20200624T201210Z" creationid="lesia" creationdate="20200429T202805Z">
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200708T095735Z" creationid="lesia" creationdate="20200429T202805Z">
         <seg>Якщо почати друкувати будь-який текст, відкриється поле &lt;g0&gt;Фільтр&lt;/g0&gt;, куди можна вводити назви файлів.</seg>
       </tuv>
     </tu>
@@ -31502,7 +31510,7 @@ Exact searches match the whole search string.</seg>
       <tuv lang="en">
         <seg>URL</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20190504T135648Z" creationid="Kos Ivantsov" creationdate="20190504T135648Z">
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200708T095735Z" creationid="Kos Ivantsov" creationdate="20190504T135648Z">
         <seg>URL-адреса</seg>
       </tuv>
     </tu>
@@ -31510,7 +31518,7 @@ Exact searches match the whole search string.</seg>
       <tuv lang="en">
         <seg>URL does not contain "{0}"</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20190820T152838Z" creationid="Kos Ivantsov" creationdate="20190820T152302Z">
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200708T095735Z" creationid="Kos Ivantsov" creationdate="20190820T152302Z">
         <seg>URL-адреса не містить «{0}»</seg>
       </tuv>
     </tu>
@@ -31518,7 +31526,7 @@ Exact searches match the whole search string.</seg>
       <tuv lang="en">
         <seg>URL is missing URL string</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20190820T152246Z" creationid="Kos Ivantsov" creationdate="20190820T152246Z">
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200708T095735Z" creationid="Kos Ivantsov" creationdate="20190820T152246Z">
         <seg>Не вказана URL-адреса</seg>
       </tuv>
     </tu>
@@ -31526,7 +31534,7 @@ Exact searches match the whole search string.</seg>
       <tuv lang="en">
         <seg>URL is missing encoding</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20190820T152756Z" creationid="Kos Ivantsov" creationdate="20190820T152732Z">
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200708T095735Z" creationid="Kos Ivantsov" creationdate="20190820T152732Z">
         <seg>Для URL-адреси не зазначено кодування</seg>
       </tuv>
     </tu>
@@ -31534,7 +31542,7 @@ Exact searches match the whole search string.</seg>
       <tuv lang="en">
         <seg>URL is missing target</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20190820T152745Z" creationid="Kos Ivantsov" creationdate="20190820T152721Z">
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200708T095735Z" creationid="Kos Ivantsov" creationdate="20190820T152721Z">
         <seg>Для URL-адреси не вказана ціль</seg>
       </tuv>
     </tu>
@@ -31542,7 +31550,7 @@ Exact searches match the whole search string.</seg>
       <tuv lang="en">
         <seg>URL of online dictionaries:</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20190820T191951Z" creationid="Kos Ivantsov" creationdate="20190820T191951Z">
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200708T095735Z" creationid="Kos Ivantsov" creationdate="20190820T191951Z">
         <seg>URL-адреса словників в інтернеті:</seg>
       </tuv>
     </tu>
@@ -31550,7 +31558,7 @@ Exact searches match the whole search string.</seg>
       <tuv lang="en">
         <seg>URL:</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20190422T205318Z" creationid="Kos Ivantsov" creationdate="20190422T205318Z">
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200708T095735Z" creationid="Kos Ivantsov" creationdate="20190422T205318Z">
         <seg>URL-адреса:</seg>
       </tuv>
     </tu>
@@ -31558,7 +31566,7 @@ Exact searches match the whole search string.</seg>
       <tuv lang="en">
         <seg>URLs</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20190808T130100Z" creationid="Kos Ivantsov" creationdate="20190808T125802Z">
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200708T095735Z" creationid="Kos Ivantsov" creationdate="20190808T125802Z">
         <seg>URL-адреси</seg>
       </tuv>
     </tu>
@@ -31718,7 +31726,7 @@ Exact searches match the whole search string.</seg>
       <tuv lang="en">
         <seg>Unicode (UTF-8) support: can be used with non-Latin alphabets</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="maximo" changedate="20200322T171735Z" creationid="maximo" creationdate="20200322T171735Z">
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200708T095735Z" creationid="maximo" creationdate="20200322T171735Z">
         <seg>Unicode (UTF-8): підтримка мов з нелатинськими алфавітами</seg>
       </tuv>
     </tu>
@@ -31840,7 +31848,7 @@ documentation file and the OmegaT application.</seg>
         <seg>Unpack the OmegaT .zip archive to obtain a folder that contains a documentation
 file and the OmegaT application.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="maximo" changedate="20200404T164555Z" creationid="maximo" creationdate="20200404T164555Z">
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200708T095735Z" creationid="maximo" creationdate="20200404T164555Z">
         <seg>Розпакуйте zip-архів OmegaT, який містить теку із файлом документації та застосунком OmegaT.</seg>
       </tuv>
     </tu>
@@ -32036,7 +32044,7 @@ on line {1}, column {2}.</seg>
       <tuv lang="en">
         <seg>Usage: &lt;l0&gt;java -jar OmegaT.jar /path/to/project --mode=console-translate --quiet&lt;/l0&gt;</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="maximo" changedate="20200423T161402Z" creationid="maximo" creationdate="20200423T161402Z">
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200708T095735Z" creationid="maximo" creationdate="20200423T161402Z">
         <seg>Спосіб використання: &lt;l0&gt;java -jar OmegaT.jar /path/to/project --mode=console-translate --quiet&lt;/l0&gt;</seg>
       </tuv>
     </tu>
@@ -32044,7 +32052,7 @@ on line {1}, column {2}.</seg>
       <tuv lang="en">
         <seg>Usage: java -jar OmegaT.jar [&lt;options&gt;] [&lt;project path&gt;]</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20190419T171628Z" creationid="Kos Ivantsov" creationdate="20190419T171628Z">
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200708T095735Z" creationid="Kos Ivantsov" creationdate="20190419T171628Z">
         <seg>Використання: java -jar OmegaT.jar [&lt;параметри&gt;] [&lt;шлях до проєкту&gt;]</seg>
       </tuv>
     </tu>
@@ -32052,7 +32060,7 @@ on line {1}, column {2}.</seg>
       <tuv lang="en">
         <seg>Usage: java -jar OmegaT.jar team &lt;command&gt; [&lt;options&gt;]]</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20190419T183858Z" creationid="Kos Ivantsov" creationdate="20190419T183858Z">
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200708T095735Z" creationid="Kos Ivantsov" creationdate="20190419T183858Z">
         <seg>Використання: java -jar OmegaT.jar team &lt;команда&gt; [&lt;параметри&gt;]</seg>
       </tuv>
     </tu>
@@ -33470,7 +33478,7 @@ Your page is not found</seg>
       <tuv lang="en">
         <seg>With 64-bit JRE</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="maximo" changedate="20200322T144913Z" creationid="maximo" creationdate="20200322T144913Z">
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200708T095735Z" creationid="maximo" creationdate="20200322T144913Z">
         <seg>Із 64-бітною версією JRE</seg>
       </tuv>
     </tu>
@@ -33847,7 +33855,7 @@ Your page is not found</seg>
         <seg>You
 can then launch the Kaptain launch script with:</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="maximo" changedate="20200404T164942Z" creationid="maximo" creationdate="20200404T164942Z">
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200708T095735Z" creationid="maximo" creationdate="20200404T164942Z">
         <seg>Потім цей Kaptain-скрипт можна запустити, натиснувши</seg>
       </tuv>
     </tu>
@@ -33951,7 +33959,7 @@ can then launch the Kaptain launch script with:</seg>
       <tuv lang="en">
         <seg>You can also add source files from Internet pages, written in MediaWiki, by clicking on&lt;g3&gt; "Import from MediaWiki"&lt;/g3&gt; button and providing the corresponding URL.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="maximo" changedate="20200614T165218Z" creationid="lesia" creationdate="20200429T202829Z">
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200708T095735Z" creationid="lesia" creationdate="20200429T202829Z">
         <seg>Ви також можете додати файли для перекладу з інтернет-сторінок, створених у MediaWiki, натиснувши кнопку &lt;g3&gt;Стягнути сторінку MediaWiki...&lt;/g3&gt; та ввівши відповідну URL-адресу.</seg>
       </tuv>
     </tu>
@@ -34084,7 +34092,7 @@ start menu, the desktop or the quick launch area to link it from there.</seg>
       <tuv lang="en">
         <seg>You can change the position of any pane or even undock it to a separate window by clicking and dragging the pane by its name.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="maximo" changedate="20200702T195212Z" creationid="maximo" creationdate="20200412T175144Z">
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200708T095735Z" creationid="maximo" creationdate="20200412T175144Z">
         <seg>Ви можете змінити положення будь-якої області чи навіть відокремити її у окреме вікно, якщо перетягнете її, взявшись на заголовок.</seg>
       </tuv>
     </tu>
@@ -34140,7 +34148,7 @@ start menu, the desktop or the quick launch area to link it from there.</seg>
       <tuv lang="en">
         <seg>You can either copy files manually, i.e. from elsewhere on your system, using your file manager; or you can use OmegaT's &lt;e0&gt;"Install new dictionary"&lt;/e0&gt; function to provide a list of available dictionaries to select from.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="lesia" changedate="20200708T085156Z" creationid="maximo" creationdate="20200411T105401Z">
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200708T095735Z" creationid="maximo" creationdate="20200411T105401Z">
         <seg>Ви можете або вручну скопіювати їх з будь-якого місця вашої системи за допомогою файлового менеджера, або ж скористатися функцією OmegaT &lt;e0&gt;«Установити новий словник»&lt;/e0&gt;, яка запропонує вам вибірку словників.</seg>
       </tuv>
     </tu>
@@ -34167,7 +34175,7 @@ start menu, the desktop or the quick launch area to link it from there.</seg>
         <seg>You can find the text of the license in
 /docs/OmegaT-license.txt.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20190822T145235Z" creationid="Kos Ivantsov" creationdate="20190822T145235Z">
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200708T095735Z" creationid="Kos Ivantsov" creationdate="20190822T145235Z">
         <seg>Текст ліцензії подано у файлі
 /docs/OmegaT-license.txt.</seg>
       </tuv>
@@ -34218,7 +34226,7 @@ the installation script (linux-install.sh).</seg>
         <seg>You can however obtain a neater and more user-friendly installation by using the
 installation script (linux-install.sh).</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="maximo" changedate="20200404T164629Z" creationid="maximo" creationdate="20200404T164629Z">
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200708T095735Z" creationid="maximo" creationdate="20200404T164629Z">
         <seg>Крім того, для більшої зручності та легкості у користуванні ви може встановити програму скриптом встановлення (linux-install.sh).</seg>
       </tuv>
     </tu>
@@ -34266,7 +34274,7 @@ installation script (linux-install.sh).</seg>
       <tuv lang="en">
         <seg>You can regard these three tmx files (&lt;f2&gt;-omegat.tmx&lt;/f2&gt;, &lt;f3&gt;-level1.tmx&lt;/f3&gt; and &lt;f4&gt;-level2.tmx&lt;/f4&gt;) as an "export translation memory", i.e. as an export of your current project's content in bilingual form.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="lesia" changedate="20200708T084906Z" creationid="lesia" creationdate="20200705T050144Z">
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200708T095735Z" creationid="lesia" creationdate="20200705T050144Z">
         <seg>Ці три файли tmx (&lt;f2&gt;-omegat.tmx&lt;/f2&gt;, &lt;f3&gt;-level1.tmx&lt;/f3&gt; та &lt;f4&gt;-level2.tmx&lt;/f4&gt;) можуть слугувати «експортом памʼяті перекладів», тобто експортом вашого поточного проєкту у двомовній формі.</seg>
       </tuv>
     </tu>
@@ -34330,7 +34338,7 @@ installation script (linux-install.sh).</seg>
       <tuv lang="en">
         <seg>You can thus select a word anywhere in &lt;a1&gt;OmegaT&lt;/a1&gt; and use Services to check this word, for instance in Spotlight or in Google.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="maximo" changedate="20200420T165218Z" creationid="maximo" creationdate="20200420T165218Z">
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200708T095735Z" creationid="maximo" creationdate="20200420T165218Z">
         <seg>Таким чином, ви можете виділити слово будь-де у &lt;a1&gt;OmegaT&lt;/a1&gt; та використати Services, щоб перевірити це слово, наприклад у Spotlight чи Google.</seg>
       </tuv>
     </tu>
@@ -34420,7 +34428,7 @@ window to be able to launch it from any location.</seg>
       <tuv lang="en">
         <seg>You may even consider removing those that are not required any more, once you have used their contents to fill up the &lt;f0&gt;project-save.tmx&lt;/f0&gt; file.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="maximo" changedate="20200705T074121Z" creationid="lesia" creationdate="20200705T060459Z">
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200708T095735Z" creationid="lesia" creationdate="20200705T060459Z">
         <seg>Можна навіть видалити ті з них, зміст яких ви вже використали для наповнення файлу &lt;f0&gt;project-save.tmx&lt;/f0&gt;, і вони більше не потрібні.</seg>
       </tuv>
     </tu>
@@ -34468,7 +34476,7 @@ window to be able to launch it from any location.</seg>
       <tuv lang="en">
         <seg>You need to update your JDK 1.6 to the latest version, or just remove the jaxb-*.jar files from the OmegaT /lib dir</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20190807T183435Z" creationid="Kos Ivantsov" creationdate="20190807T183435Z">
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200708T095735Z" creationid="Kos Ivantsov" creationdate="20190807T183435Z">
         <seg>Потрібно оновити JDK 1.6 до останньої версії або просто видалити файли jaxb-*.jar з теки OmegaT/lib</seg>
       </tuv>
     </tu>
@@ -34630,7 +34638,7 @@ create its configuration folder.</seg>
       <tuv lang="en">
         <seg>[a-zA-Z]</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="lesia" changedate="20200511T201836Z" creationid="lesia" creationdate="20200511T201836Z">
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200708T095735Z" creationid="lesia" creationdate="20200511T201836Z">
         <seg>[a-zA-Z]</seg>
       </tuv>
     </tu>
@@ -34686,7 +34694,7 @@ create its configuration folder.</seg>
       <tuv lang="en">
         <seg>\.[A-Z]</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="lesia" changedate="20200511T202134Z" creationid="lesia" creationdate="20200511T202134Z">
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200708T095735Z" creationid="lesia" creationdate="20200511T202134Z">
         <seg>\.[A-Z]</seg>
       </tuv>
     </tu>
@@ -34982,7 +34990,7 @@ create its configuration folder.</seg>
       <tuv lang="en">
         <seg>and &lt;c0&gt;&lt;key&gt;&lt;/c0&gt; can be any key available on your keyboard</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="lesia" changedate="20200614T170653Z" creationid="maximo" creationdate="20200405T043649Z">
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200708T095735Z" creationid="maximo" creationdate="20200405T043649Z">
         <seg>та &lt;c0&gt;&lt;клавіша&gt;&lt;/c0&gt; приймає значення будь-якої клавіші на вашій клавіатурі</seg>
       </tuv>
     </tu>
@@ -35182,7 +35190,7 @@ create its configuration folder.</seg>
       <tuv lang="en">
         <seg>dir-10\\test\.html</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="lesia" changedate="20200702T135405Z" creationid="lesia" creationdate="20200702T135405Z">
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200708T095735Z" creationid="lesia" creationdate="20200702T135405Z">
         <seg>dir-10\\test\.html</seg>
       </tuv>
     </tu>
@@ -35214,7 +35222,7 @@ create its configuration folder.</seg>
       <tuv lang="en">
         <seg>e-lexica</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="maximo" changedate="20200614T164243Z" creationid="maximo" creationdate="20200614T164243Z">
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200708T095735Z" creationid="maximo" creationdate="20200614T164243Z">
         <seg>e-lexica</seg>
       </tuv>
     </tu>
@@ -35526,7 +35534,7 @@ create its configuration folder.</seg>
       <tuv lang="en">
         <seg>git clone https://git.code.sf.net/p/omegat/code omegat-code</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="maximo" changedate="20200614T164037Z" creationid="maximo" creationdate="20200614T164037Z">
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200708T095735Z" creationid="maximo" creationdate="20200614T164037Z">
         <seg>git clone https://git.code.sf.net/p/omegat/code omegat-code</seg>
       </tuv>
     </tu>
@@ -35702,7 +35710,7 @@ create its configuration folder.</seg>
       <tuv lang="en">
         <seg>href (URL of &amp;links)</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20190815T133305Z" creationid="Kos Ivantsov" creationdate="20190815T133305Z">
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200708T095735Z" creationid="Kos Ivantsov" creationdate="20190815T133305Z">
         <seg>href (URL-адреси &amp;посилань)</seg>
       </tuv>
     </tu>
@@ -35782,7 +35790,7 @@ create its configuration folder.</seg>
       <tuv lang="en">
         <seg>http://sourceforge.net/p/omegat/feature-requests/963/</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="maximo" changedate="20200702T172236Z" creationid="maximo" creationdate="20200702T172236Z">
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200708T095735Z" creationid="maximo" creationdate="20200702T172236Z">
         <seg>http://sourceforge.net/p/omegat/feature-requests/963/</seg>
       </tuv>
     </tu>
@@ -35790,7 +35798,7 @@ create its configuration folder.</seg>
       <tuv lang="en">
         <seg>http://weitz.de/regex-coach/</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="lesia" changedate="20200511T202046Z" creationid="lesia" creationdate="20200511T202046Z">
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200708T095735Z" creationid="lesia" creationdate="20200511T202046Z">
         <seg>http://weitz.de/regex-coach/</seg>
       </tuv>
     </tu>
@@ -35806,7 +35814,7 @@ create its configuration folder.</seg>
       <tuv lang="en">
         <seg>http://www.microsoft.com/Language/en-US/Terminology.aspx</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="lesia" changedate="20200505T193700Z" creationid="lesia" creationdate="20200505T193700Z">
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200708T095735Z" creationid="lesia" creationdate="20200505T193700Z">
         <seg>http://www.microsoft.com/Language/en-US/Terminology.aspx</seg>
       </tuv>
     </tu>
@@ -35838,7 +35846,7 @@ create its configuration folder.</seg>
       <tuv lang="en">
         <seg>http://www.oracle.com/technetwork/java/archive-139210.html</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="lesia" changedate="20200702T190135Z" creationid="lesia" creationdate="20200702T190135Z">
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200708T095735Z" creationid="lesia" creationdate="20200702T190135Z">
         <seg>http://www.oracle.com/technetwork/java/archive-139210.html</seg>
       </tuv>
     </tu>
@@ -35846,7 +35854,7 @@ create its configuration folder.</seg>
       <tuv lang="en">
         <seg>http://www.w3.org/International/questions/qa-bidi-controls</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="maximo" changedate="20200702T172228Z" creationid="maximo" creationdate="20200702T172228Z">
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200708T095735Z" creationid="maximo" creationdate="20200702T172228Z">
         <seg>http://www.w3.org/International/questions/qa-bidi-controls</seg>
       </tuv>
     </tu>
@@ -35942,7 +35950,7 @@ create its configuration folder.</seg>
       <tuv lang="en">
         <seg>https://sourceforge.net/p/omegat/feature-requests/</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20190822T210421Z" creationid="Kos Ivantsov" creationdate="20190808T091330Z">
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200708T095735Z" creationid="Kos Ivantsov" creationdate="20190808T091330Z">
         <seg>https://sourceforge.net/p/omegat/feature-requests/</seg>
       </tuv>
     </tu>
@@ -36168,7 +36176,7 @@ create its configuration folder.</seg>
       <tuv lang="en">
         <seg>java -Dswing.aatext=true -Duser.language=pt -Duser.country=BR -Xmx2048M -Dhttp.proxyHost=192.168.1.1 -Dhttp.proxyport=3128 -jar -OmegaT.jar</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="lesia" changedate="20200702T190308Z" creationid="lesia" creationdate="20200702T190308Z">
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200708T095735Z" creationid="lesia" creationdate="20200702T190308Z">
         <seg>java -Dswing.aatext=true -Duser.language=pt -Duser.country=BR -Xmx2048M -Dhttp.proxyHost=192.168.1.1 -Dhttp.proxyport=3128 -jar -OmegaT.jar</seg>
       </tuv>
     </tu>
@@ -36176,7 +36184,7 @@ create its configuration folder.</seg>
       <tuv lang="en">
         <seg>java -Duser.language=fr -jar OmegaT.jar</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="lesia" changedate="20200702T190254Z" creationid="lesia" creationdate="20200702T190254Z">
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200708T095735Z" creationid="lesia" creationdate="20200702T190254Z">
         <seg>java -Duser.language=fr -jar OmegaT.jar</seg>
       </tuv>
     </tu>
@@ -36184,7 +36192,7 @@ create its configuration folder.</seg>
       <tuv lang="en">
         <seg>java -Xmx2048M -jar OmegaT.jar</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="lesia" changedate="20200702T190259Z" creationid="lesia" creationdate="20200702T190259Z">
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200708T095735Z" creationid="lesia" creationdate="20200702T190259Z">
         <seg>java -Xmx2048M -jar OmegaT.jar</seg>
       </tuv>
     </tu>
@@ -36192,7 +36200,7 @@ create its configuration folder.</seg>
       <tuv lang="en">
         <seg>java -jar OmegaT.jar</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="lesia" changedate="20200702T190154Z" creationid="lesia" creationdate="20200702T190154Z">
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200708T095735Z" creationid="lesia" creationdate="20200702T190154Z">
         <seg>java -jar OmegaT.jar</seg>
       </tuv>
     </tu>
@@ -36200,7 +36208,7 @@ create its configuration folder.</seg>
       <tuv lang="en">
         <seg>java -jar OmegaT.jar &lt;p0&gt;/path/to/project&lt;/p0&gt; \</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="lesia" changedate="20200702T190314Z" creationid="lesia" creationdate="20200702T190314Z">
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200708T095735Z" creationid="lesia" creationdate="20200702T190314Z">
         <seg>java -jar OmegaT.jar &lt;p0&gt;/path/to/project&lt;/p0&gt; \</seg>
       </tuv>
     </tu>
@@ -36208,7 +36216,7 @@ create its configuration folder.</seg>
       <tuv lang="en">
         <seg>jsch-agent-proxy (jsch-agent-proxy License)</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20190424T212214Z" creationid="Kos Ivantsov" creationdate="20190424T212214Z">
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200708T095735Z" creationid="Kos Ivantsov" creationdate="20190424T212214Z">
         <seg>jsch-agent-proxy (ліцензія jsch-agent-proxy)</seg>
       </tuv>
     </tu>
@@ -36441,7 +36449,7 @@ create its configuration folder.</seg>
       <tuv lang="en">
         <seg>on the command line: &lt;c0&gt;java -jar OmegaT.jar team init [lang1] [lang2]&lt;/c0&gt;</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="lesia" changedate="20200704T184429Z" creationid="lesia" creationdate="20200704T184429Z">
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200708T095735Z" creationid="lesia" creationdate="20200704T184429Z">
         <seg>в командному рядку: &lt;c0&gt;java -jar OmegaT.jar team init [lang1] [lang2]&lt;/c0&gt;</seg>
       </tuv>
     </tu>
@@ -36657,7 +36665,7 @@ create its configuration folder.</seg>
       <tuv lang="en">
         <seg>or open the project with the command line using the &lt;c0&gt;--no-team&lt;/c0&gt; option.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="maximo" changedate="20200704T203548Z" creationid="maximo" creationdate="20200704T203548Z">
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200708T095735Z" creationid="maximo" creationdate="20200704T203548Z">
         <seg>або ж відкрийте проєкт з командного рядка, використовуючи опцію &lt;c0&gt;--no-team&lt;/c0&gt;.</seg>
       </tuv>
     </tu>
@@ -37049,7 +37057,7 @@ create its configuration folder.</seg>
       <tuv lang="en">
         <seg>src (URL of &amp;images)</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20190822T134812Z" creationid="Kos Ivantsov" creationdate="20190422T210744Z">
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200708T095735Z" creationid="Kos Ivantsov" creationdate="20190422T210744Z">
         <seg>src (URL-адреси зобра&amp;жень)</seg>
       </tuv>
     </tu>
@@ -37194,7 +37202,7 @@ create its configuration folder.</seg>
       <tuv lang="en">
         <seg>tm/penalty-xxx</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="maximo" changedate="20200614T163913Z" creationid="maximo" creationdate="20200614T163913Z">
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200708T095735Z" creationid="maximo" creationdate="20200614T163913Z">
         <seg>tm/penalty-xxx</seg>
       </tuv>
     </tu>
@@ -37282,7 +37290,7 @@ create its configuration folder.</seg>
       <tuv lang="en">
         <seg>trilead-ssh2 (Trilead SSH license)</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20190424T212218Z" creationid="Kos Ivantsov" creationdate="20190424T212218Z">
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200708T095735Z" creationid="Kos Ivantsov" creationdate="20190424T212218Z">
         <seg>trilead-ssh2 (ліцензія Trilead SSH)</seg>
       </tuv>
     </tu>
@@ -37586,7 +37594,7 @@ create its configuration folder.</seg>
       <tuv lang="en">
         <seg>{0}-{1}_{2}_{3}</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20190419T171316Z" creationid="Kos Ivantsov" creationdate="20190419T171316Z">
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200708T095735Z" creationid="Kos Ivantsov" creationdate="20190419T171316Z">
         <seg>{0}-{1}_{2}_{3}</seg>
       </tuv>
     </tu>
