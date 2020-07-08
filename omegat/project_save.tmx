@@ -1652,8 +1652,8 @@ To add files to the project, click on the Copy Files to Source Folder... button 
       <tuv lang="en">
         <seg>(The definition of “unique” is case-sensitive: "Run" and "run" are treated as being different)</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="lesia" changedate="20200708T085343Z" creationid="lesia" creationdate="20200429T202818Z">
-        <seg>“Унікальність” враховує регістр символів: «запуск» та «Запуск» не є повтором.</seg>
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200708T093159Z" creationid="lesia" creationdate="20200429T202818Z">
+        <seg>«Унікальність» враховує регістр символів: «запуск» та «Запуск» не є повтором.</seg>
       </tuv>
     </tu>
     <tu>
@@ -28781,8 +28781,8 @@ in /lib/licenses/Licenses.txt.</seg>
       <tuv lang="en">
         <seg>The source segment in the example below was “&lt;e0&gt;Context menu command&lt;/e0&gt;”, as in the Fuzzy Matches example above, and the terms shown were found in the glossaries, available (Microsoft's Term collection and Slovenian Linux User group Glossary).</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="maximo" changedate="20200503T053853Z" creationid="maximo" creationdate="20200503T053853Z">
-        <seg>Сегмент для перекладу у прикладі був “&lt;e0&gt;Context menu command&lt;/e0&gt;”, так само, як і в прикладі для функції нечітких збігів, а терміни були знайдені у двох доступних глосаріях (колекція термінології Microsoft та глосарій словацької групи користувачів Linux).</seg>
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200708T093149Z" creationid="maximo" creationdate="20200503T053853Z">
+        <seg>Сегмент для перекладу у прикладі був «&lt;e0&gt;Context menu command&lt;/e0&gt;», так само, як і в прикладі для функції нечітких збігів, а терміни були знайдені у двох доступних глосаріях (колекція термінології Microsoft та глосарій словацької групи користувачів Linux).</seg>
       </tuv>
     </tu>
     <tu>
@@ -30180,8 +30180,8 @@ the server.</seg>
       <tuv lang="en">
         <seg>This will effectively return them to the "untranslated" status, as they will no longer match segments recorded in the project memory, even though their original translation is still there.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="lesia" changedate="20200412T201448Z" creationid="lesia" creationdate="20200412T201448Z">
-        <seg>Це поверне їм статус „неперекладені“, тому що вони більше не відповідають сегментам у памʼяті перекладу, хоча їхній старий і вже „невідповідний“ переклад усе ще там зберігається.</seg>
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200708T093139Z" creationid="lesia" creationdate="20200412T201448Z">
+        <seg>Це поверне їм статус «неперекладені», тому що вони більше не відповідають сегментам у памʼяті перекладу, хоча їхній старий і вже «невідповідний» переклад усе ще там зберігається.</seg>
       </tuv>
     </tu>
     <tu>
