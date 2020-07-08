@@ -88,16 +88,16 @@
       <tuv lang="en">
         <seg>"\." stands for the period character.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="maximo" changedate="20200416T090745Z" creationid="maximo" creationdate="20200416T090745Z">
-        <seg>"\." позначає символ крапки.</seg>
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200708T090125Z" creationid="maximo" creationdate="20200416T090745Z">
+        <seg>«\.» позначає символ крапки.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>"\s" means any white space character (space, tab, new page etc.)</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="maximo" changedate="20200416T090844Z" creationid="maximo" creationdate="20200416T090844Z">
-        <seg>"\s" позначає будь-який пробільний символ (пробіл, табуляцію, символ нової сторінки і т.п.)</seg>
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200708T090154Z" creationid="maximo" creationdate="20200416T090844Z">
+        <seg>«\s» позначає будь-який пробільний символ (пробіл, табуляцію, символ нової сторінки і т.п.)</seg>
       </tuv>
     </tu>
     <tu>
@@ -3206,8 +3206,8 @@ The current setting is {0}MB;</seg>
       <tuv lang="en">
         <seg>&lt;l0&gt;${targetCountryCode}&lt;/l0&gt;– the target country - only "YY"</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="Asus" changedate="20200623T040817Z" creationid="maximo" creationdate="20200413T191335Z">
-        <seg>&lt;l0&gt;${targetCountryCode}&lt;/l0&gt;– код країни перекладу (лише "YY").</seg>
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200708T085948Z" creationid="maximo" creationdate="20200413T191335Z">
+        <seg>&lt;l0&gt;${targetCountryCode}&lt;/l0&gt;– код країни перекладу (лише «YY»).</seg>
       </tuv>
     </tu>
     <tu>
@@ -11675,8 +11675,8 @@ provided (omegat.kaptn).</seg>
       <tuv lang="en">
         <seg>For example, "&lt;e0&gt;Did it make sense?</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="maximo" changedate="20200414T190624Z" creationid="maximo" creationdate="20200414T190518Z">
-        <seg>Наприклад, "&lt;e0&gt;Що це таке?</seg>
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200708T090025Z" creationid="maximo" creationdate="20200414T190518Z">
+        <seg>Наприклад, «&lt;e0&gt;Що це таке?</seg>
       </tuv>
     </tu>
     <tu>
@@ -11979,8 +11979,8 @@ provided (omegat.kaptn).</seg>
       <tuv lang="en">
         <seg>For this to happen, there should be a break rule for "?", when followed by spaces and a capitalized word.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="maximo" changedate="20200414T190803Z" creationid="maximo" creationdate="20200414T190609Z">
-        <seg>Щоб це відбулося, серед правил сегментації має бути правило для "?", після якого через пробіл іде слово з великої букви.</seg>
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200708T090052Z" creationid="maximo" creationdate="20200414T190609Z">
+        <seg>Щоб це відбулося, серед правил сегментації має бути правило для «?», після якого через пробіл іде слово з великої букви.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12993,8 +12993,8 @@ Its winter has come</seg>
       <tuv lang="en">
         <seg>I was not sure&lt;/e0&gt;." should be split into two segments.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="maximo" changedate="20200414T190646Z" creationid="maximo" creationdate="20200414T190543Z">
-        <seg>Я не знаю напевне.&lt;/e0&gt;" має розділятися на два сегмента.</seg>
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200708T090031Z" creationid="maximo" creationdate="20200414T190543Z">
+        <seg>Я не знаю напевне.&lt;/e0&gt;» має розділятися на два сегмента.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13107,8 +13107,8 @@ not be entered.)</seg>
       <tuv lang="en">
         <seg>If &lt;e0&gt;Show Relevant Suggestions Automatically&lt;/e0&gt; option is checked, Auto-completer is launched automatically by typing the first letter of a translated glossary entry, or by typing "&lt;" in case of tags.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="maximo" changedate="20200416T100027Z" creationid="maximo" creationdate="20200416T100027Z">
-        <seg>Якщо поставити прапорець &lt;e0&gt;Автоматично показувати відповідні пропозиції&lt;/e0&gt;, то автодоповнення буде показуватися автоматично з першої літери збігу чи "&lt;" у випадку теґів.</seg>
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200708T091334Z" creationid="maximo" creationdate="20200416T100027Z">
+        <seg>Якщо поставити прапорець &lt;e0&gt;Автоматично показувати відповідні пропозиції&lt;/e0&gt;, то автодоповнення буде показуватися автоматично з першої літери збігу чи «&lt;» у випадку теґів.</seg>
       </tuv>
     </tu>
     <tu>
@@ -24213,8 +24213,8 @@ The scope of a search is by default the project and can be set to be any files l
       <tuv lang="en">
         <seg>See &lt;u0&gt;Oracle documentation&lt;/u0&gt; for examples of the "SimpleDateFormat" patterns</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="maximo" changedate="20200413T191540Z" creationid="maximo" creationdate="20200413T191540Z">
-        <seg>Дивись &lt;u0&gt;документацію від Oracle&lt;/u0&gt; для прикладів шаблонів "SimpleDateFormat"</seg>
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200708T090016Z" creationid="maximo" creationdate="20200413T191540Z">
+        <seg>Дивись &lt;u0&gt;документацію від Oracle&lt;/u0&gt; для прикладів шаблонів «SimpleDateFormat»</seg>
       </tuv>
     </tu>
     <tu>
@@ -24944,8 +24944,8 @@ The scope of a search is by default the project and can be set to be any files l
       <tuv lang="en">
         <seg>Set a segment after "。" (Japanese period)</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="maximo" changedate="20200416T091046Z" creationid="maximo" creationdate="20200416T091046Z">
-        <seg>Сегментувати текст після "。" (японська крапка)</seg>
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200708T090212Z" creationid="maximo" creationdate="20200416T091046Z">
+        <seg>Сегментувати текст після «。» (японська крапка)</seg>
       </tuv>
     </tu>
     <tu>
