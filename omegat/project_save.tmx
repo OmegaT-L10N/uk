@@ -18444,8 +18444,8 @@ as the Applications folder.</seg>
       <tuv lang="en">
         <seg>New translation memories placed in the &lt;f0&gt;/tm&lt;/f0&gt; folder while translating are loaded automatically as soon as the cursor moves from one segment to another.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="lesia" changedate="20200708T101750Z" creationid="maximo" creationdate="20200425T143659Z">
-        <seg>Нові файли пам’яті перекладів, що були додані до теки &lt;f0&gt;/tm&lt;/f0&gt;, стають доступні відразу, без перезавантаження. Достатньо перейти від одного сегмента до іншого.</seg>
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200708T104254Z" creationid="maximo" creationdate="20200425T143659Z">
+        <seg>Нові файли пам’яті перекладів, що були додані до теки &lt;f0&gt;./tm&lt;/f0&gt;, стають доступні відразу, без перезавантаження. Достатньо перейти від одного сегмента до іншого.</seg>
       </tuv>
     </tu>
     <tu>
@@ -20424,8 +20424,8 @@ installed on your system.</seg>
       <tuv lang="en">
         <seg>Open the &lt;f0&gt;.UTF8&lt;/f0&gt; file generated in the &lt;f1&gt;/target&lt;/f1&gt; folder.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="maximo" changedate="20200425T142708Z" creationid="maximo" creationdate="20200425T142708Z">
-        <seg>Відкрийте файл &lt;f0&gt;.UTF8&lt;/f0&gt;, що буде згенеровано у теці &lt;f1&gt;/target&lt;/f1&gt;.</seg>
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200708T104247Z" creationid="maximo" creationdate="20200425T142708Z">
+        <seg>Відкрийте файл &lt;f0&gt;.UTF8&lt;/f0&gt;, що буде згенеровано у теці &lt;f1&gt;./target&lt;/f1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
