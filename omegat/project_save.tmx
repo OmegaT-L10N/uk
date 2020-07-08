@@ -2289,8 +2289,8 @@ The current setting is {0}MB;</seg>
       <tuv lang="en">
         <seg>&lt;/e2&gt;The '*' character matches zero or more characters.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="Asus" changedate="20200623T033545Z" creationid="maximo" creationdate="20200413T184226Z">
-        <seg>&lt;/e2&gt;. Символ '*' відповідає нулю чи більшим символам.</seg>
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200708T101406Z" creationid="maximo" creationdate="20200413T184226Z">
+        <seg>&lt;/e2&gt;. Символ «*» відповідає нулю чи більшим символам.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7276,8 +7276,8 @@ Buy another drink</seg>
       <tuv lang="en">
         <seg>Comment fields are separated by a comma ','.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="Asus" changedate="20200610T140758Z" creationid="lesia" creationdate="20200505T192737Z">
-        <seg>Поля коментарів відділяються комою ','.</seg>
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200708T101427Z" creationid="lesia" creationdate="20200505T192737Z">
+        <seg>Поля коментарів відділяються комою «,».</seg>
       </tuv>
     </tu>
     <tu>
@@ -25080,8 +25080,8 @@ The scope of a search is by default the project and can be set to be any files l
       <tuv lang="en">
         <seg>Set the segment start after a period ('.') followed by a space, tab ...</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="maximo" changedate="20200416T090728Z" creationid="maximo" creationdate="20200416T090728Z">
-        <seg>Додати початок речення після крапки ('.'), за якою йде пробіл, табуляція ...</seg>
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200708T101408Z" creationid="maximo" creationdate="20200416T090728Z">
+        <seg>Додати початок речення після крапки («.»), за якою йде пробіл, табуляція ...</seg>
       </tuv>
     </tu>
     <tu>
@@ -27024,8 +27024,8 @@ current folder will be used instead.</seg>
       <tuv lang="en">
         <seg>The '?' character matches exactly one character.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="maximo" changedate="20200413T184252Z" creationid="maximo" creationdate="20200413T184252Z">
-        <seg>Символ '?' відповідає рівно одному символу.</seg>
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200708T101407Z" creationid="maximo" creationdate="20200413T184252Z">
+        <seg>Символ «?» відповідає рівно одному символу.</seg>
       </tuv>
     </tu>
     <tu>
@@ -28370,8 +28370,8 @@ in /lib/licenses/Licenses.txt.</seg>
       <tuv lang="en">
         <seg>The options for the program start-up in this case will be read from the &lt;f1&gt;OmegaT.l4J.ini&lt;/f1&gt; file, which resides in the same folder as the exe file and which you can edit to reflect your setup.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="lesia" changedate="20200702T205110Z" creationid="maximo" creationdate="20200418T130649Z">
-        <seg>У цьому випадку параметри для запуску програми зчитуються із файлу\b &lt;f1&gt;OmegaT.l4J.ini&lt;/f1&gt;, який розташований у тій самій теці, що і файл .exe. Його можна редагувати, щоб змінити налаштування.</seg>
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200708T101501Z" creationid="maximo" creationdate="20200418T130649Z">
+        <seg>У цьому випадку параметри для запуску програми зчитуються із файлу &lt;f1&gt;OmegaT.l4J.ini&lt;/f1&gt;, який розташований у тій самій теці, що і файл .exe. Його можна редагувати, щоб змінити налаштування.</seg>
       </tuv>
     </tu>
     <tu>
