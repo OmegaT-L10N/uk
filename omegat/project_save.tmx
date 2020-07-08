@@ -2371,8 +2371,8 @@ The current setting is {0}MB;</seg>
       <tuv lang="en">
         <seg>&lt;a0&gt;OmegaT&lt;/a0&gt; is a robust application.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="lesia" changedate="20200705T094304Z" creationid="maximo" creationdate="20200704T192328Z">
-        <seg>&lt;a0&gt;OmegaT&lt;/a0&gt; - надійна програма.</seg>
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200708T094058Z" creationid="maximo" creationdate="20200704T192328Z">
+        <seg>&lt;a0&gt;OmegaT&lt;/a0&gt; — надійна програма.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2467,8 +2467,8 @@ The current setting is {0}MB;</seg>
       <tuv lang="en">
         <seg>&lt;c0&gt;&lt;event&gt;&lt;/c0&gt; can be: &lt;e1&gt;typed&lt;/e1&gt;, &lt;e2&gt;pressed&lt;/e2&gt;, &lt;e3&gt;released&lt;/e3&gt;</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="maximo" changedate="20200405T043640Z" creationid="maximo" creationdate="20200405T043640Z">
-        <seg>&lt;c0&gt;&lt;подія&gt;&lt;/c0&gt; має значення: &lt;e1&gt;typed&lt;/e1&gt; (введений символ - натиснута і відпущена клавіша), &lt;e2&gt;pressed&lt;/e2&gt; (натиснута клавіша), &lt;e3&gt;released&lt;/e3&gt; (відпущена клавіша)</seg>
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200708T093950Z" creationid="maximo" creationdate="20200405T043640Z">
+        <seg>&lt;c0&gt;&lt;подія&gt;&lt;/c0&gt; має значення: &lt;e1&gt;typed&lt;/e1&gt; (введений символ — натиснута і відпущена клавіша), &lt;e2&gt;pressed&lt;/e2&gt; (натиснута клавіша), &lt;e3&gt;released&lt;/e3&gt; (відпущена клавіша)</seg>
       </tuv>
     </tu>
     <tu>
@@ -2627,8 +2627,8 @@ The current setting is {0}MB;</seg>
       <tuv lang="en">
         <seg>&lt;e0&gt;Do not translate the content of tags with the following attribute key-value pairs (separate with commas)&lt;/e0&gt;: if a tag matches the list of key-value pairs, its content will be ignored.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="Asus" changedate="20200622T035547Z" creationid="maximo" creationdate="20200413T113107Z">
-        <seg>&lt;e0&gt;Не перекладати вміст тих теґів, що мають наступні пари «ключ-значення» (окремо через коми)&lt;/e0&gt;: якщо серед атрибутів теґу зустрічаються якісь з перелічених пар - не перекладати його вміст.</seg>
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200708T094002Z" creationid="maximo" creationdate="20200413T113107Z">
+        <seg>&lt;e0&gt;Не перекладати вміст тих теґів, що мають наступні пари «ключ-значення» (окремо через коми)&lt;/e0&gt;: якщо серед атрибутів теґу зустрічаються якісь з перелічених пар — не перекладати його вміст.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2686,8 +2686,8 @@ The current setting is {0}MB;</seg>
       <tuv lang="en">
         <seg>&lt;e0&gt;Important: &lt;/e0&gt;the supporting TMX must be renamed XX_YY.tmx, where XX_YY is the target language of the tmx, for instance to ZH_CN.tmx in the example above.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="lesia" changedate="20200705T083124Z" creationid="maximo" creationdate="20200705T053245Z">
-        <seg>&lt;e0&gt;Зверніть увагу:&lt;/e0&gt; перекладацьку пам'ять треба перейменувати в XX_YY.tmx, де XX_YY - це код мови перекладу. У попередньому прикладі ZH_CN.tmx.</seg>
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200708T094112Z" creationid="maximo" creationdate="20200705T053245Z">
+        <seg>&lt;e0&gt;Зверніть увагу:&lt;/e0&gt; перекладацьку пам'ять треба перейменувати в XX_YY.tmx, де XX_YY — це код мови перекладу. У попередньому прикладі ZH_CN.tmx.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3134,16 +3134,16 @@ The current setting is {0}MB;</seg>
       <tuv lang="en">
         <seg>&lt;l0&gt;${file-source-encoding}&lt;/l0&gt; - source file encoding</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="maximo" changedate="20200413T192011Z" creationid="maximo" creationdate="20200413T192011Z">
-        <seg>&lt;l0&gt;${file-source-encoding}&lt;/l0&gt; - кодування файлу для перекладу</seg>
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200708T094014Z" creationid="maximo" creationdate="20200413T192011Z">
+        <seg>&lt;l0&gt;${file-source-encoding}&lt;/l0&gt; — кодування файлу для перекладу</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>&lt;l0&gt;${file-target-encoding}&lt;/l0&gt; - target file encoding</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="maximo" changedate="20200413T192030Z" creationid="maximo" creationdate="20200413T192030Z">
-        <seg>&lt;l0&gt;${file-target-encoding}&lt;/l0&gt; - кодування перекладеного файлу</seg>
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200708T094015Z" creationid="maximo" creationdate="20200413T192030Z">
+        <seg>&lt;l0&gt;${file-target-encoding}&lt;/l0&gt; — кодування перекладеного файлу</seg>
       </tuv>
     </tu>
     <tu>
@@ -3182,24 +3182,24 @@ The current setting is {0}MB;</seg>
       <tuv lang="en">
         <seg>&lt;l0&gt;${system-host-name}&lt;/l0&gt; - system host name</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="maximo" changedate="20200413T191955Z" creationid="maximo" creationdate="20200413T191955Z">
-        <seg>&lt;l0&gt;${system-host-name}&lt;/l0&gt; - системне ім'я хоста</seg>
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200708T094013Z" creationid="maximo" creationdate="20200413T191955Z">
+        <seg>&lt;l0&gt;${system-host-name}&lt;/l0&gt; — системне ім'я хоста</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>&lt;l0&gt;${system-os-name}&lt;/l0&gt; - operating system of the computer used</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="Asus" changedate="20200623T041438Z" creationid="maximo" creationdate="20200413T191616Z">
-        <seg>&lt;l0&gt;${system-os-name}&lt;/l0&gt; - операційна система використаного комп'ютера</seg>
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200708T094006Z" creationid="maximo" creationdate="20200413T191616Z">
+        <seg>&lt;l0&gt;${system-os-name}&lt;/l0&gt; — операційна система використаного комп'ютера</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>&lt;l0&gt;${system-user-name}&lt;/l0&gt; - system user name</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="maximo" changedate="20200413T191639Z" creationid="maximo" creationdate="20200413T191639Z">
-        <seg>&lt;l0&gt;${system-user-name}&lt;/l0&gt; - ім'я користувача операційної системи</seg>
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200708T094011Z" creationid="maximo" creationdate="20200413T191639Z">
+        <seg>&lt;l0&gt;${system-user-name}&lt;/l0&gt; — ім'я користувача операційної системи</seg>
       </tuv>
     </tu>
     <tu>
@@ -3230,8 +3230,8 @@ The current setting is {0}MB;</seg>
       <tuv lang="en">
         <seg>&lt;l0&gt;${targetLocaleLCID}&lt;/l0&gt; - Microsoft target locale</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="maximo" changedate="20200413T192112Z" creationid="maximo" creationdate="20200413T192112Z">
-        <seg>&lt;l0&gt;${targetLocaleLCID}&lt;/l0&gt; - локаль Microsoft для мови перекладу</seg>
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200708T094015Z" creationid="maximo" creationdate="20200413T192112Z">
+        <seg>&lt;l0&gt;${targetLocaleLCID}&lt;/l0&gt; — локаль Microsoft для мови перекладу</seg>
       </tuv>
     </tu>
     <tu>
@@ -5255,8 +5255,8 @@ may experience unexpected, but correct behaviour.</seg>
       <tuv lang="en">
         <seg>As stated above, OmegaT tags are LTR strings.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="fanja9" changedate="20200705T102514Z" creationid="maximo" creationdate="20200704T185818Z">
-        <seg>Як вже згадувалось раніше, теґи OmegaT - це стрічки, написані зліва направо.</seg>
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200708T094055Z" creationid="maximo" creationdate="20200704T185818Z">
+        <seg>Як вже згадувалось раніше, теґи OmegaT — це стрічки, написані зліва направо.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6091,8 +6091,8 @@ Buy another drink</seg>
       <tuv lang="en">
         <seg>By default, left justification is used for Left-To-Right (LTR) languages and right justification for Right-To-Left (RTL) languages.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="fanja9" changedate="20200705T104251Z" creationid="maximo" creationdate="20200704T093539Z">
-        <seg>Без спеціальних налаштувань для мов з письмом зліва направо використовується ліве вирівнювання, а для мов з письмом справа наліво - праве вирівнювання.</seg>
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200708T094052Z" creationid="maximo" creationdate="20200704T093539Z">
+        <seg>Без спеціальних налаштувань для мов з письмом зліва направо використовується ліве вирівнювання, а для мов з письмом справа наліво — праве вирівнювання.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10805,8 +10805,8 @@ No one hears your screams</seg>
       <tuv lang="en">
         <seg>Exception rule - see the use of ?</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="maximo" changedate="20200416T091203Z" creationid="maximo" creationdate="20200416T091203Z">
-        <seg>Виключення - зверніть увагу на використання ?</seg>
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200708T094019Z" creationid="maximo" creationdate="20200416T091203Z">
+        <seg>Виключення — зверніть увагу на використання ?</seg>
       </tuv>
     </tu>
     <tu>
@@ -11489,8 +11489,8 @@ Gossamer threads hold you back
       <tuv lang="en">
         <seg>Fixes are trivial operations and OmegaT assists troubleshooting with the related error message.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="maximo" changedate="20200705T094702Z" creationid="lesia" creationdate="20200705T074052Z">
-        <seg>Зазвичай виправлення таких помилок - це нескладні операції, і в повідомленні про помилку OmegaT буде вся необхідна інформація.</seg>
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200708T094110Z" creationid="lesia" creationdate="20200705T074052Z">
+        <seg>Зазвичай виправлення таких помилок — це нескладні операції, і в повідомленні про помилку OmegaT буде вся необхідна інформація.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13787,8 +13787,8 @@ their defaults as a result of the location change.</seg>
       <tuv lang="en">
         <seg>If the original document was LTR, the display direction of the target document must be changed manually to RTL in its viewing application.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="fanja9" changedate="20200705T120219Z" creationid="maximo" creationdate="20200704T191056Z">
-        <seg>Якщо напрямок письма в оригінальному документі - зліва направо, його треба вручну змінити на справа наліво у програмі для перегляду документів.</seg>
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200708T094056Z" creationid="maximo" creationdate="20200704T191056Z">
+        <seg>Якщо напрямок письма в оригінальному документі — зліва направо, його треба вручну змінити на справа наліво у програмі для перегляду документів.</seg>
       </tuv>
     </tu>
     <tu>
@@ -15043,8 +15043,8 @@ click on that shortcut.</seg>
       <tuv lang="en">
         <seg>In this case, place the translation memories you wish to use in the &lt;e0&gt;/tm&lt;/e0&gt; or &lt;e1&gt;/tm&lt;/e1&gt;/auto folder of your new project: in the former case you will get hits from these translation memories in the fuzzy matches viewer, and in the latter case these TMs will be used to pre-translate your source text.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="maximo" changedate="20200705T094108Z" creationid="lesia" creationdate="20200705T053046Z">
-        <seg>У цьому випадку розмістіть памʼяті перекладів, яку ви хочете використати, у теці &lt;e0&gt;/tm&lt;/e0&gt; або &lt;e1&gt;/tm/auto&lt;/e1&gt; вашого нового проєкту: у першому випадку ви отримуватимете підказки з ваших памʼятей перекладів у вікні Нечіткі збіги, у другому - збіги будуть автоматично вставлятися із памʼятей перекладів у відповідні сегменти в області редагування.</seg>
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200708T094107Z" creationid="lesia" creationdate="20200705T053046Z">
+        <seg>У цьому випадку розмістіть памʼяті перекладів, яку ви хочете використати, у теці &lt;e0&gt;/tm&lt;/e0&gt; або &lt;e1&gt;/tm/auto&lt;/e1&gt; вашого нового проєкту: у першому випадку ви отримуватимете підказки з ваших памʼятей перекладів у вікні Нечіткі збіги, у другому — збіги будуть автоматично вставлятися із памʼятей перекладів у відповідні сегменти в області редагування.</seg>
       </tuv>
     </tu>
     <tu>
@@ -18867,8 +18867,8 @@ as the Applications folder.</seg>
       <tuv lang="en">
         <seg>Note that all the tmx files in the /tm repository are parsed when the project is opened, so putting all different TMs you may have on hand into this folder may unnecessarily slow OmegaT down.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="lesia" changedate="20200705T060350Z" creationid="lesia" creationdate="20200705T060350Z">
-        <seg>Зауважте, що всі файли tmx у теці /tm зчитуються програмою кожен раз, коли ви відкриваєте проєкт, тож не варто додавати до проєкту всі пам'яті перекладів, що у вас є - це уповільнить роботу OmegaT. Доцільно використовувати лише ті пам'яті, які справді допоможуть вам при перекладі.</seg>
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200708T094108Z" creationid="lesia" creationdate="20200705T060350Z">
+        <seg>Зауважте, що всі файли tmx у теці /tm зчитуються програмою кожен раз, коли ви відкриваєте проєкт, тож не варто додавати до проєкту всі пам'яті перекладів, що у вас є — це уповільнить роботу OmegaT. Доцільно використовувати лише ті пам'яті, які справді допоможуть вам при перекладі.</seg>
       </tuv>
     </tu>
     <tu>
@@ -21127,8 +21127,8 @@ Vanishing like mist</seg>
       <tuv lang="en">
         <seg>Period, followed by an upper-case letter - possibly a space is missing between the period and the start of a new sentence?</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="Asus" changedate="20200614T042309Z" creationid="maximo" creationdate="20200412T053428Z">
-        <seg>Крапку, після якої іде велика літера - можливо, пропущений пробіл між крапкою та новим реченням</seg>
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200708T093943Z" creationid="maximo" creationdate="20200412T053428Z">
+        <seg>Крапку, після якої іде велика літера — можливо, пропущений пробіл між крапкою та новим реченням</seg>
       </tuv>
     </tu>
     <tu>
@@ -21563,8 +21563,8 @@ additional steps need to be taken.</seg>
       <tuv lang="en">
         <seg>Pre-defined themes can be set using scripts.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="maximo" changedate="20200412T175649Z" creationid="maximo" creationdate="20200412T175542Z">
-        <seg>За допомогою скриптів ви можете встановити підготовлені комплекти кольорів - теми.</seg>
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200708T094000Z" creationid="maximo" creationdate="20200412T175542Z">
+        <seg>За допомогою скриптів ви можете встановити підготовлені комплекти кольорів — теми.</seg>
       </tuv>
     </tu>
     <tu>
@@ -22517,88 +22517,88 @@ These words: 'Page not found'</seg>
       <tuv lang="en">
         <seg>Regex - Boundary matchers</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="maximo" changedate="20200412T051248Z" creationid="maximo" creationdate="20200412T051248Z">
-        <seg>Регулярні вирази - межі</seg>
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200708T093941Z" creationid="maximo" creationdate="20200412T051248Z">
+        <seg>Регулярні вирази — межі</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>Regex - Character</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="maximo" changedate="20200412T050307Z" creationid="maximo" creationdate="20200412T045132Z">
-        <seg>Регулярні вирази - символи</seg>
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200708T093936Z" creationid="maximo" creationdate="20200412T045132Z">
+        <seg>Регулярні вирази — символи</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>Regex - Character classes</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="maximo" changedate="20200412T050714Z" creationid="maximo" creationdate="20200412T050714Z">
-        <seg>Регулярні вирази - класи символів</seg>
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200708T093941Z" creationid="maximo" creationdate="20200412T050714Z">
+        <seg>Регулярні вирази — класи символів</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>Regex - Classes for Unicode blocks and categories</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="Asus" changedate="20200614T050115Z" creationid="maximo" creationdate="20200412T050252Z">
-        <seg>Регулярні вирази - Класи символів для блоків та категорій Юнікоду</seg>
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200708T093940Z" creationid="maximo" creationdate="20200412T050252Z">
+        <seg>Регулярні вирази — Класи символів для блоків та категорій Юнікоду</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>Regex - Examples of regular expressions in translations</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="Asus" changedate="20200614T042003Z" creationid="maximo" creationdate="20200412T052926Z">
-        <seg>Регулярні вирази - приклади регулярних виразів у перекладах</seg>
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200708T093943Z" creationid="maximo" creationdate="20200412T052926Z">
+        <seg>Регулярні вирази — приклади регулярних виразів у перекладах</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>Regex - Flags</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="maximo" changedate="20200412T050259Z" creationid="maximo" creationdate="20200412T044916Z">
-        <seg>Регулярні вирази - прапорці</seg>
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200708T093936Z" creationid="maximo" creationdate="20200412T044916Z">
+        <seg>Регулярні вирази — прапорці</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>Regex - Greedy quantifiers</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="maximo" changedate="20200412T051458Z" creationid="maximo" creationdate="20200412T051458Z">
-        <seg>Регулярні вирази - жадібні квантифікатори</seg>
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200708T093942Z" creationid="maximo" creationdate="20200412T051458Z">
+        <seg>Регулярні вирази — жадібні квантифікатори</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>Regex - Logical operators</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="maximo" changedate="20200412T051935Z" creationid="maximo" creationdate="20200412T051935Z">
-        <seg>Регулярні вирази - логічні оператори</seg>
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200708T093942Z" creationid="maximo" creationdate="20200412T051935Z">
+        <seg>Регулярні вирази — логічні оператори</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>Regex - Predefined character classes</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="fanja9" changedate="20200701T145740Z" creationid="maximo" creationdate="20200412T050855Z">
-        <seg>Регулярні вирази - попередньо визначені класи символів</seg>
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200708T093941Z" creationid="maximo" creationdate="20200412T050855Z">
+        <seg>Регулярні вирази — попередньо визначені класи символів</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>Regex - Quotation</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="maximo" changedate="20200412T050327Z" creationid="maximo" creationdate="20200412T045748Z">
-        <seg>Регулярні вирази - екранування</seg>
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200708T093937Z" creationid="maximo" creationdate="20200412T045748Z">
+        <seg>Регулярні вирази — екранування</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>Regex - Reluctant (non-greedy) quantifiers</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="maximo" changedate="20200412T051806Z" creationid="maximo" creationdate="20200412T051806Z">
-        <seg>Регулярні вирази - ліниві (нежадібні) квантифікатори</seg>
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200708T093942Z" creationid="maximo" creationdate="20200412T051806Z">
+        <seg>Регулярні вирази — ліниві (нежадібні) квантифікатори</seg>
       </tuv>
     </tu>
     <tu>
@@ -27387,8 +27387,8 @@ Please try to correct the error and reload the project.</seg>
       <tuv lang="en">
         <seg>The alternative is to enter a translation that is identical to the source text.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="lesia" changedate="20200701T125227Z" creationid="maximo" creationdate="20200416T214139Z">
-        <seg>Альтернатива - вводити переклад, ідентичний оригіналу.</seg>
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200708T094046Z" creationid="maximo" creationdate="20200416T214139Z">
+        <seg>Альтернатива — вводити переклад, ідентичний оригіналу.</seg>
       </tuv>
     </tu>
     <tu>
@@ -27864,8 +27864,8 @@ instead.</seg>
       <tuv lang="en">
         <seg>The files are unformatted plain text files.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="maximo" changedate="20200417T073608Z" creationid="maximo" creationdate="20200417T073608Z">
-        <seg>Ці файли - неформатовані текстові файли.</seg>
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200708T094048Z" creationid="maximo" creationdate="20200417T073608Z">
+        <seg>Ці файли — неформатовані текстові файли.</seg>
       </tuv>
     </tu>
     <tu>
@@ -27888,8 +27888,8 @@ instead.</seg>
       <tuv lang="en">
         <seg>The first is the shortcut for &lt;g0&gt;Open Project&lt;/g0&gt;, the second for &lt;g1&gt;Create Glossary Entry&lt;/g1&gt;.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="Asus" changedate="20200615T040525Z" creationid="maximo" creationdate="20200405T184303Z">
-        <seg>Перша комбінація використовується для &lt;g0&gt;відкриття проєкту&lt;/g0&gt;, друга - для &lt;g1&gt;створення запису до глосарія&lt;/g1&gt;.</seg>
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200708T093951Z" creationid="maximo" creationdate="20200405T184303Z">
+        <seg>Перша комбінація використовується для &lt;g0&gt;відкриття проєкту&lt;/g0&gt;, друга — для &lt;g1&gt;створення запису до глосарія&lt;/g1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -28008,8 +28008,8 @@ instead.</seg>
       <tuv lang="en">
         <seg>The glossary file does not have the correct extension (.tab, .utf8 or .txt).</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="lesia" changedate="20200616T203841Z" creationid="lesia" creationdate="20200505T203139Z">
-        <seg>Файл глосарія має неправильне розширення (необхідні розширення - .tab, .utf8 чи .txt).</seg>
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200708T093926Z" creationid="lesia" creationdate="20200505T203139Z">
+        <seg>Файл глосарія має неправильне розширення (має бути .tab, .utf8 чи .txt).</seg>
       </tuv>
     </tu>
     <tu>
@@ -28522,8 +28522,8 @@ in /lib/licenses/Licenses.txt.</seg>
       <tuv lang="en">
         <seg>The project and TMX source languages should of course be identical - NL in our example.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="maximo" changedate="20200705T053348Z" creationid="maximo" creationdate="20200705T053348Z">
-        <seg>Мова оригіналу в проєкті та в TMX має бути однаковою. У прикладі - NL.</seg>
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200708T094114Z" creationid="maximo" creationdate="20200705T053348Z">
+        <seg>Мова оригіналу в проєкті та в TMX має бути однаковою. У прикладі — NL.</seg>
       </tuv>
     </tu>
     <tu>
@@ -28594,8 +28594,8 @@ in /lib/licenses/Licenses.txt.</seg>
       <tuv lang="en">
         <seg>The recognized extensions are &lt;f1&gt;TXT&lt;/f1&gt; and &lt;f2&gt;UTF8&lt;/f2&gt;</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="lesia" changedate="20200505T201128Z" creationid="lesia" creationdate="20200505T201128Z">
-        <seg>Підтримуються два розширення - &lt;f1&gt;TXT&lt;/f1&gt; та &lt;f2&gt;UTF8&lt;/f2&gt;</seg>
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200708T093842Z" creationid="lesia" creationdate="20200505T201128Z">
+        <seg>Підтримуються два розширення: &lt;f1&gt;TXT&lt;/f1&gt; та &lt;f2&gt;UTF8&lt;/f2&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -28829,8 +28829,8 @@ in /lib/licenses/Licenses.txt.</seg>
       <tuv lang="en">
         <seg>The shortcut definition syntax is the following: &lt;c0&gt;&lt;menu item code&gt;=&lt;shortcut&gt;&lt;/c0&gt;, where &lt;e1&gt;&lt;menu item code&gt;&lt;/e1&gt; is a code taken from the tables below and &lt;e2&gt;&lt;shortcut&gt;&lt;/e2&gt; is a combination of pressed keys specified by the user</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="Asus" changedate="20200615T041525Z" creationid="maximo" creationdate="20200405T043312Z">
-        <seg>Синтаксис комбінацій клавіш виглядає так: &lt;c0&gt;&lt;код пункту меню&gt;=&lt;комбінація клавіш&gt;&lt;/c0&gt;, де &lt;e1&gt;&lt;код пункту меню&gt;&lt;/e1&gt; - це код із таблиці, вказаної нижче, а &lt;e2&gt;&lt;комбінація клавіш&gt;&lt;/e2&gt; - це комбінація клавіш, встановлена користувачем</seg>
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200708T093948Z" creationid="maximo" creationdate="20200405T043312Z">
+        <seg>Синтаксис комбінацій клавіш виглядає так: &lt;c0&gt;&lt;код пункту меню&gt;=&lt;комбінація клавіш&gt;&lt;/c0&gt;, де &lt;e1&gt;&lt;код пункту меню&gt;&lt;/e1&gt; — це код із таблиці, вказаної нижче, а &lt;e2&gt;&lt;комбінація клавіш&gt;&lt;/e2&gt; — це комбінація клавіш, встановлена користувачем</seg>
       </tuv>
     </tu>
     <tu>
@@ -28853,8 +28853,8 @@ in /lib/licenses/Licenses.txt.</seg>
       <tuv lang="en">
         <seg>The source and target encoding fields use drop-down menus containing all the supported encodings.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="maximo" changedate="20200413T185408Z" creationid="maximo" creationdate="20200413T185408Z">
-        <seg>Поля кодування файлів для перекладу та кодування перекладених файлів - це випадні меню, які містять всі доступні системи кодування.</seg>
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200708T094004Z" creationid="maximo" creationdate="20200413T185408Z">
+        <seg>Поля кодування файлів для перекладу та кодування перекладених файлів — це випадні меню, які містять всі доступні системи кодування.</seg>
       </tuv>
     </tu>
     <tu>
@@ -28957,8 +28957,8 @@ in /lib/licenses/Licenses.txt.</seg>
       <tuv lang="en">
         <seg>The spell checker uses the target language code to determine the language to be used : if the target language is Brazilian Portuguese (PT_BR), the subfolder with vocabularies must contain the two vocabulary files, called &lt;e0&gt;pt_br.aff&lt;/e0&gt; and &lt;e1&gt;pt_br.dic&lt;/e1&gt;.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="Asus" changedate="20200617T033235Z" creationid="maximo" creationdate="20200411T135400Z">
-        <seg>Перевірка правопису використовує код цільової мови, щоб визначити, який словник використовувати. Якщо цільова мова - бразильська португальська (PT_BR), тека зі словниками повинна мати два файли словників: &lt;e0&gt;pt_br.aff&lt;/e0&gt; та &lt;e1&gt;pt_br.dic&lt;/e1&gt;.</seg>
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200708T093954Z" creationid="maximo" creationdate="20200411T135400Z">
+        <seg>Перевірка правопису використовує код цільової мови, щоб визначити, який словник використовувати. Якщо цільова мова — бразильська португальська (PT_BR), тека зі словниками повинна мати два файли словників: &lt;e0&gt;pt_br.aff&lt;/e0&gt; та &lt;e1&gt;pt_br.dic&lt;/e1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -29329,8 +29329,8 @@ in /lib/licenses/Licenses.txt.</seg>
       <tuv lang="en">
         <seg>There is no EXACT match between the glossary entry and the source text in your document - for instance plurals.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="Asus" changedate="20200610T150408Z" creationid="lesia" creationdate="20200505T203457Z">
-        <seg>Між термінами сегменту чи тексту, який ви наразі перекладаєте, та записом у глосарії немає ТОЧНОЇ відповідності. Наприклад, в глосарії стоїть однина, а у вашому тексті - множина. Як зазначено вище, для деяких мов глосарій не підтримує флексій.</seg>
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200708T093931Z" creationid="lesia" creationdate="20200505T203457Z">
+        <seg>Між термінами сегменту чи тексту, який ви наразі перекладаєте, та записом у глосарії немає ТОЧНОЇ відповідності. Наприклад, в глосарії стоїть однина, а у вашому тексті — множина. Як зазначено вище, для деяких мов глосарій не підтримує флексій.</seg>
       </tuv>
     </tu>
     <tu>
@@ -29932,8 +29932,8 @@ the server.</seg>
       <tuv lang="en">
         <seg>This is required if you would like to enter any of the meta characters !$()*+.&lt;&gt;?[\]^{|} to match as themselves.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="Asus" changedate="20200614T035638Z" creationid="maximo" creationdate="20200412T045955Z">
-        <seg>Це потрібно, якщо вам треба ввести якийсь метасимвол - !$()*+.&lt;&gt;?[\]^{|} - уникаючи його інтерпретації як спеціального.</seg>
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200708T093940Z" creationid="maximo" creationdate="20200412T045955Z">
+        <seg>Це потрібно, якщо вам треба ввести якийсь метасимвол — !$()*+.&lt;&gt;?[\]^{|} — уникаючи його інтерпретації як спеціального.</seg>
       </tuv>
     </tu>
     <tu>
@@ -30052,8 +30052,8 @@ the server.</seg>
       <tuv lang="en">
         <seg>This means that if the source language is LTR and the target language is RTL, or vice versa, it may be necessary to toggle back and forth between RTL and LTR modes to view the source and enter the target easily in their respective modes.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="fanja9" changedate="20200705T102308Z" creationid="maximo" creationdate="20200704T185715Z">
-        <seg>Тобто якщо мова оригіналу має систему письма зліва направо, а мова перекладу - справа наліво, чи навпаки, вам доведеться постійно перемикатися між режимами справа наліво та зліва направо, щоб було зручно як переглядати оригінал, так і вводити переклад.</seg>
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200708T094054Z" creationid="maximo" creationdate="20200704T185715Z">
+        <seg>Тобто якщо мова оригіналу має систему письма зліва направо, а мова перекладу — справа наліво, чи навпаки, вам доведеться постійно перемикатися між режимами справа наліво та зліва направо, щоб було зручно як переглядати оригінал, так і вводити переклад.</seg>
       </tuv>
     </tu>
     <tu>
@@ -30348,8 +30348,8 @@ the server.</seg>
       <tuv lang="en">
         <seg>Thus, when translating from Canadian French the rules for Canadian French - if any - will be applied first, followed by the rules for French and lastly, by the Default rules.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="maximo" changedate="20200415T110105Z" creationid="maximo" creationdate="20200415T110105Z">
-        <seg>Таким чином, при перекладі з канадської французької спочатку перевіряться специфічні правила, далі - правила для французької, і в самому кінці - типові правила.</seg>
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200708T094018Z" creationid="maximo" creationdate="20200415T110105Z">
+        <seg>Таким чином, при перекладі з канадської французької спочатку перевіряться специфічні правила, далі — правила для французької, і в самому кінці — типові правила.</seg>
       </tuv>
     </tu>
     <tu>
@@ -32708,8 +32708,8 @@ searchable without subscription:</seg>
       <tuv lang="en">
         <seg>Values around 100 display commands at the top, and values around 900 display them at the bottom.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="maximo" changedate="20200416T211432Z" creationid="maximo" creationdate="20200416T211432Z">
-        <seg>Значення в районі 100 означають показувати команди згори списку, а в районі 900 - внизу списку.</seg>
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200708T094041Z" creationid="maximo" creationdate="20200416T211432Z">
+        <seg>Значення в районі 100 означають показувати команди згори списку, а в районі 900 — внизу списку.</seg>
       </tuv>
     </tu>
     <tu>
@@ -33822,8 +33822,8 @@ Your page is not found</seg>
       <tuv lang="en">
         <seg>YEAR is the 4-digit year, MM is the month, DD the day of the month, and HH and NN are the hours and minutes when the previous translation memory was saved.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="lesia" changedate="20200705T094445Z" creationid="maximo" creationdate="20200704T193438Z">
-        <seg>YYYY - це рік, MM - це місяць, DD - день, а HH та NN - години та хвилини, коли ця копія памʼяті перекладів була востаннє збережена.</seg>
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200708T094105Z" creationid="maximo" creationdate="20200704T193438Z">
+        <seg>YYYY — це рік, MM — це місяць, DD — день, а HH та NN — години та хвилини, коли ця копія памʼяті перекладів була востаннє збережена.</seg>
       </tuv>
     </tu>
     <tu>
