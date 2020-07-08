@@ -3214,16 +3214,16 @@ The current setting is {0}MB;</seg>
       <tuv lang="en">
         <seg>&lt;l0&gt;${targetLanguageCode}&lt;/l0&gt; – the target language - only "XX"</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="Asus" changedate="20200623T040802Z" creationid="maximo" creationdate="20200413T191330Z">
-        <seg>&lt;l0&gt;${targetLanguageCode}&lt;/l0&gt; – код мови перекладу (лише "XX").</seg>
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200708T085938Z" creationid="maximo" creationdate="20200413T191330Z">
+        <seg>&lt;l0&gt;${targetLanguageCode}&lt;/l0&gt; – код мови перекладу (лише «XX»).</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>&lt;l0&gt;${targetLanguage}&lt;/l0&gt;– the target language and country code together (of a form "XX-YY").</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="maximo" changedate="20200413T191323Z" creationid="maximo" creationdate="20200413T191323Z">
-        <seg>&lt;l0&gt;${targetLanguage}&lt;/l0&gt;– код мови перекладу та країни перекладу (у формі "XX-YY").</seg>
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200708T085931Z" creationid="maximo" creationdate="20200413T191323Z">
+        <seg>&lt;l0&gt;${targetLanguage}&lt;/l0&gt;– код мови перекладу та країни перекладу (у формі «XX-YY»).</seg>
       </tuv>
     </tu>
     <tu>
@@ -3238,8 +3238,8 @@ The current setting is {0}MB;</seg>
       <tuv lang="en">
         <seg>&lt;l0&gt;${targetLocale}&lt;/l0&gt;– target locale code (of a form "xx_YY").</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="maximo" changedate="20200413T191312Z" creationid="maximo" creationdate="20200413T191312Z">
-        <seg>&lt;l0&gt;${targetLocale}&lt;/l0&gt;– код локалі перекладу (у формі "xx_YY").</seg>
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200708T085917Z" creationid="maximo" creationdate="20200413T191312Z">
+        <seg>&lt;l0&gt;${targetLocale}&lt;/l0&gt;– код локалі перекладу (у формі «xx_YY»).</seg>
       </tuv>
     </tu>
     <tu>
@@ -3730,8 +3730,8 @@ The current setting is {0}MB;</seg>
       <tuv lang="en">
         <seg>A script bundled with OmegaT called Switch Colour Themes provides a default "Dark" theme.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="Asus" changedate="20200618T042155Z" creationid="maximo" creationdate="20200412T175641Z">
-        <seg>Скрипт Switch Colour Themes, вбудований у OmegaT, надає стандартну темну тему "Dark".</seg>
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200708T085849Z" creationid="maximo" creationdate="20200412T175641Z">
+        <seg>Скрипт Switch Colour Themes, вбудований у OmegaT, надає стандартну темну тему «Dark».</seg>
       </tuv>
     </tu>
     <tu>
@@ -10249,8 +10249,8 @@ Your help page not found</seg>
       <tuv lang="en">
         <seg>English: the same check as above, but concerning consonants ("a", not "an")</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="fanja9" changedate="20200701T150506Z" creationid="maximo" creationdate="20200412T053328Z">
-        <seg>В англійській мові: те саме, але для приголосних ("a", а не "an")</seg>
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200708T085710Z" creationid="maximo" creationdate="20200412T053328Z">
+        <seg>В англійській мові: те саме, але для приголосних («a», а не «an»)</seg>
       </tuv>
     </tu>
     <tu>
@@ -13725,8 +13725,8 @@ their defaults as a result of the location change.</seg>
       <tuv lang="en">
         <seg>If the spell checker is not working, then make sure first that the check box &lt;g0&gt;"Automatically check the spelling of text"&lt;/g0&gt; in the spell checker dialog (&lt;g1&gt;Options &gt; Spell checking...)&lt;/g1&gt; is checked.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="Asus" changedate="20200617T032914Z" creationid="maximo" creationdate="20200411T135030Z">
-        <seg>Якщо перевірка правопису не працює, то перш за все перевірте, чи у вас відмічений прапорець &lt;g0&gt;"Автоматично перевіряти правопис у тексті"&lt;/g0&gt; у діалоговому вікні перевірки правопису (&lt;g1&gt;Налаштування &gt; Параметри &gt; Перевірка правопису...)&lt;/g1&gt;.</seg>
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200708T085823Z" creationid="maximo" creationdate="20200411T135030Z">
+        <seg>Якщо перевірка правопису не працює, то перш за все перевірте, чи у вас відмічений прапорець &lt;g0&gt;«Автоматично перевіряти правопис у тексті»&lt;/g0&gt; у діалоговому вікні перевірки правопису (&lt;g1&gt;Налаштування &gt; Параметри &gt; Перевірка правопису...)&lt;/g1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -36817,8 +36817,8 @@ create its configuration folder.</seg>
       <tuv lang="en">
         <seg>search for “is”, not “this” or “isn't” etc.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="Asus" changedate="20200614T042338Z" creationid="maximo" creationdate="20200412T053455Z">
-        <seg>пошук цілого слова “is”, але не “this” чи “isn't” тощо.</seg>
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200708T085747Z" creationid="maximo" creationdate="20200412T053455Z">
+        <seg>пошук цілого слова «is», але не «this» чи «isn't» тощо.</seg>
       </tuv>
     </tu>
     <tu>
