@@ -15669,8 +15669,8 @@ click on that shortcut.</seg>
       <tuv lang="en">
         <seg>It can be found in the "docs" folder in your OmegaT program folder.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="maximo" changedate="20200323T220110Z" creationid="maximo" creationdate="20200322T112839Z">
-        <seg>Він розташований у директорії програми OmegaT "docs".</seg>
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200708T092322Z" creationid="maximo" creationdate="20200322T112839Z">
+        <seg>Він розташований у директорії програми OmegaT «docs».</seg>
       </tuv>
     </tu>
     <tu>
@@ -16249,8 +16249,8 @@ itself on the first run.</seg>
       <tuv lang="en">
         <seg>Keyword searches are similar to a search "with all of the words" in an Internet search engine such as Google (AND logic).</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="fanja9" changedate="20200704T054602Z" creationid="lesia" creationdate="20200523T202845Z">
-        <seg>Пошук за ключовими словами схожий на пошук "за усіма словами" в пошуковій системі, такій як Google (за принципом логічного оператора AND).</seg>
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200708T092139Z" creationid="lesia" creationdate="20200523T202845Z">
+        <seg>Пошук за ключовими словами схожий на пошук «за усіма словами» в пошуковій системі, такій як Google (за принципом логічного оператора AND).</seg>
       </tuv>
     </tu>
     <tu>
@@ -27243,8 +27243,8 @@ Please try to correct the error and reload the project.</seg>
       <tuv lang="en">
         <seg>The Web Start version is the "install and forget" version.&lt;br0/&gt;</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="maximo" changedate="20200322T140753Z" creationid="maximo" creationdate="20200322T140753Z">
-        <seg>Версія Web Start - тип встановлення "встановив і забув"&lt;br0/&gt;</seg>
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200708T092348Z" creationid="maximo" creationdate="20200322T140753Z">
+        <seg>Версія Web Start - тип встановлення «встановив і забув»&lt;br0/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -27624,8 +27624,8 @@ instead.</seg>
       <tuv lang="en">
         <seg>The difference between "Number of segments" and "Number of unique segments" provides an approximate idea of the number of repetitions in the text.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="maximo" changedate="20200624T201639Z" creationid="lesia" creationdate="20200429T202819Z">
-        <seg>Різниця між числами "Кількість сегментів" та "Кількість унікальних сегментів" дає приблизну оцінку кількості повторів у тексті.</seg>
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200708T092117Z" creationid="lesia" creationdate="20200429T202819Z">
+        <seg>Різниця між числами «Кількість сегментів» та «Кількість унікальних сегментів» дає приблизну оцінку кількості повторів у тексті.</seg>
       </tuv>
     </tu>
     <tu>
@@ -30351,8 +30351,8 @@ the server.</seg>
       <tuv lang="en">
         <seg>To call up the manual from within OmegaT, simply select Help &gt; Users manual, or press F1.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="lesia" changedate="20200322T211754Z" creationid="maximo" creationdate="20200322T112751Z">
-        <seg>Щоб запустити посібник в OmegaT, натисніть "Довідка" &gt; "Посібник користувача" або клавішу F1.</seg>
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200708T092309Z" creationid="maximo" creationdate="20200322T112751Z">
+        <seg>Щоб запустити посібник в OmegaT, натисніть «Довідка» &gt; «Посібник користувача» або клавішу F1.</seg>
       </tuv>
     </tu>
     <tu>
