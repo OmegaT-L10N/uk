@@ -2686,8 +2686,8 @@ The current setting is {0}MB;</seg>
       <tuv lang="en">
         <seg>&lt;e0&gt;Important: &lt;/e0&gt;the supporting TMX must be renamed XX_YY.tmx, where XX_YY is the target language of the tmx, for instance to ZH_CN.tmx in the example above.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="lesia" changedate="20200708T094112Z" creationid="maximo" creationdate="20200705T053245Z">
-        <seg>&lt;e0&gt;Зверніть увагу:&lt;/e0&gt; перекладацьку пам'ять треба перейменувати в XX_YY.tmx, де XX_YY — це код мови перекладу. У попередньому прикладі ZH_CN.tmx.</seg>
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200708T102533Z" creationid="maximo" creationdate="20200705T053245Z">
+        <seg>&lt;e0&gt;Зверніть увагу:&lt;/e0&gt; перекладацьку пам’ять треба перейменувати в XX_YY.tmx, де XX_YY — це код мови перекладу. У попередньому прикладі ZH_CN.tmx.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4563,24 +4563,24 @@ The current setting is {0}MB;</seg>
       <tuv lang="en">
         <seg>All the changes will be synchronised the next time a connection is available.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="lesia" changedate="20200705T093755Z" creationid="maximo" creationdate="20200704T203416Z">
-        <seg>Всі зміни будуть синхронізовані, як тільки з'єднання відновиться.</seg>
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200708T102547Z" creationid="maximo" creationdate="20200704T203416Z">
+        <seg>Всі зміни будуть синхронізовані, як тільки з’єднання відновиться.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>All the contents of &lt;f0&gt;https://repo_for_All_OmegaT_team_projects/En-US_DE_project&lt;/f0&gt; are mapped to the local OmegaT project.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="lesia" changedate="20200708T095823Z" creationid="lesia" creationdate="20200704T204849Z">
-        <seg>Весь вміст &lt;f0&gt;https://repo_for_All_OmegaT_team_projects/En-US_DE_project&lt;/f0&gt; прив'язаний до локального проєкту OmegaT.</seg>
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200708T102545Z" creationid="lesia" creationdate="20200704T204849Z">
+        <seg>Весь вміст &lt;f0&gt;https://repo_for_All_OmegaT_team_projects/En-US_DE_project&lt;/f0&gt; прив’язаний до локального проєкту OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>All the contents of &lt;f0&gt;https://repo_for_OmegaT_team_project&lt;/f0&gt; are mapped to the local OmegaT project</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="lesia" changedate="20200704T204855Z" creationid="lesia" creationdate="20200704T204812Z">
-        <seg>Весь вміст &lt;f0&gt;https://repo_for_OmegaT_team_project&lt;/f0&gt; прив'язаний до локального проєкту OmegaT </seg>
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200708T102544Z" creationid="lesia" creationdate="20200704T204812Z">
+        <seg>Весь вміст &lt;f0&gt;https://repo_for_OmegaT_team_project&lt;/f0&gt; прив’язаний до локального проєкту OmegaT </seg>
       </tuv>
     </tu>
     <tu>
@@ -4771,8 +4771,8 @@ The current setting is {0}MB;</seg>
       <tuv lang="en">
         <seg>An empty line will appear at the bottom of the upper table (you may have to scroll down to see it).</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="maximo" changedate="20200415T110820Z" creationid="maximo" creationdate="20200415T110820Z">
-        <seg>Внизу верхньої таблички з'явиться пустий рядок. Щоб побачити його, вам може бути треба промотати її вниз.</seg>
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200708T102417Z" creationid="maximo" creationdate="20200415T110820Z">
+        <seg>Внизу верхньої таблички з’явиться пустий рядок. Щоб побачити його, вам може бути треба промотати її вниз.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5327,8 +5327,8 @@ may experience unexpected, but correct behaviour.</seg>
       <tuv lang="en">
         <seg>At the same time the previous valid segments in the project translation memory will turn into orphan segments.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="maximo" changedate="20200510T170755Z" creationid="maximo" creationdate="20200414T143959Z">
-        <seg>а перекладені сегменти у памʼяті перекладів втратять зв'язок з оригіналом.</seg>
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200708T102417Z" creationid="maximo" creationdate="20200414T143959Z">
+        <seg>а перекладені сегменти у пам’яті перекладів втратять зв’язок з оригіналом.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5691,8 +5691,8 @@ Buy another drink</seg>
       <tuv lang="en">
         <seg>Bear in mind that changing the languages may render the currently used translation memories useless since their language pair may not longer match the new languages.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="lesia" changedate="20200701T200700Z" creationid="lesia" creationdate="20200412T195411Z">
-        <seg>Зверніть увагу: якщо ви змінюєте мовну пару проєкту, то вже напрацьована пам'ять перекладів припиняє функціонувати.</seg>
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200708T102430Z" creationid="lesia" creationdate="20200412T195411Z">
+        <seg>Зверніть увагу: якщо ви змінюєте мовну пару проєкту, то вже напрацьована пам’ять перекладів припиняє функціонувати.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6059,16 +6059,16 @@ Buy another drink</seg>
       <tuv lang="en">
         <seg>By default, OmegaT does not execute the commands specified in the project-specific settings (the &lt;f0&gt;finder.xml&lt;/f0&gt; file in the &lt;f1&gt;omegat&lt;/f1&gt; folder), because they may have a critical impact on the machine's security.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="maximo" changedate="20200416T211055Z" creationid="maximo" creationdate="20200416T211055Z">
-        <seg>Зазвичай OmegaT не виконує команд, які вказані у налаштуваннях проєкту (файл &lt;f0&gt;finder.xml&lt;/f0&gt; у теці &lt;f1&gt;omegat&lt;/f1&gt;), оскільки вони можуть скомпроментувати безпеку комп'ютера.</seg>
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200708T102419Z" creationid="maximo" creationdate="20200416T211055Z">
+        <seg>Зазвичай OmegaT не виконує команд, які вказані у налаштуваннях проєкту (файл &lt;f0&gt;finder.xml&lt;/f0&gt; у теці &lt;f1&gt;omegat&lt;/f1&gt;), оскільки вони можуть скомпроментувати безпеку комп’ютера.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>By default, OmegaT does not execute the commands specified in the project-specific settings (the &lt;f0&gt;omegat.project&lt;/f0&gt; file), because they may have a critical impact on the machine's security.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="maximo" changedate="20200417T083530Z" creationid="maximo" creationdate="20200417T083530Z">
-        <seg>Зазвичай OmegaT не виконує команд, які вказані у налаштуваннях проєкту (файл &lt;f0&gt;omegat.project&lt;/f0&gt;), оскільки вони можуть скомпроментувати безпеку комп'ютера.</seg>
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200708T102426Z" creationid="maximo" creationdate="20200417T083530Z">
+        <seg>Зазвичай OmegaT не виконує команд, які вказані у налаштуваннях проєкту (файл &lt;f0&gt;omegat.project&lt;/f0&gt;), оскільки вони можуть скомпроментувати безпеку комп’ютера.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6403,16 +6403,16 @@ Buy another drink</seg>
       <tuv lang="en">
         <seg>Changing segmentation settings may cause some already translated segments to be split or merged.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="lesia" changedate="20200412T201348Z" creationid="lesia" creationdate="20200412T201348Z">
-        <seg>Зміна налаштувань сегментації може призвести до того, що вже перекладені сегменти розіб'ються на кілька або ж, навпаки, з'єднаються.</seg>
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200708T102435Z" creationid="lesia" creationdate="20200412T201348Z">
+        <seg>Зміна налаштувань сегментації може призвести до того, що вже перекладені сегменти розіб’ються на кілька або ж, навпаки, з’єднаються.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>Changing this flag does not modify the segmentation of already existing translation memories.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="lesia" changedate="20200412T200442Z" creationid="lesia" creationdate="20200412T200442Z">
-        <seg>Зміна цього прапорця не впливає на сегментацію вже наявної памʼяті перекладів.</seg>
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200708T102431Z" creationid="lesia" creationdate="20200412T200442Z">
+        <seg>Зміна цього прапорця не впливає на сегментацію вже наявної пам’яті перекладів.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7815,8 +7815,8 @@ Buy another drink</seg>
       <tuv lang="en">
         <seg>Copy the translation memories, containing the translations of the documents above, into &lt;f0&gt;tm/auto&lt;/f0&gt; subfolder of the new project.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="lesia" changedate="20200705T081402Z" creationid="lesia" creationdate="20200705T054424Z">
-        <seg>Скопіюйте памʼять перекладів, що містить потрібні переклади, у підтеку &lt;f0&gt;tm/auto&lt;/f0&gt; нового проєкту.</seg>
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200708T102525Z" creationid="lesia" creationdate="20200705T054424Z">
+        <seg>Скопіюйте пам’ять перекладів, що містить потрібні переклади, у підтеку &lt;f0&gt;tm/auto&lt;/f0&gt; нового проєкту.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7999,8 +7999,8 @@ Buy another drink</seg>
       <tuv lang="en">
         <seg>Create a folder (a "repository folder") in a convenient location on your hard drive for the translation memories for a particular customer or subject.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="lesia" changedate="20200708T091516Z" creationid="lesia" creationdate="20200705T054058Z">
-        <seg>Створіть теку («тека репозиторію») у зручному місці вашого жорсткого диску. У ній ви можете розміщувати памʼяті перекладів певного замовника чи певної тематики.</seg>
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200708T102513Z" creationid="lesia" creationdate="20200705T054058Z">
+        <seg>Створіть теку («тека репозиторію») у зручному місці вашого жорсткого диску. У ній ви можете розміщувати пам’яті перекладів певного замовника чи певної тематики.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8023,8 +8023,8 @@ Buy another drink</seg>
       <tuv lang="en">
         <seg>Create a project, separate for other projects, in the desired language pair, with an appropriate name - note that the TMXs created will include this name.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="maximo" changedate="20200705T094954Z" creationid="maximo" creationdate="20200705T055917Z">
-        <seg>Створіть новий проєкт для потрібної пари мов. Назвіть його відповідно до мети (майте на увазі, що кінцева TMX буде містити ім'я проєкту).</seg>
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200708T102524Z" creationid="maximo" creationdate="20200705T055917Z">
+        <seg>Створіть новий проєкт для потрібної пари мов. Назвіть його відповідно до мети (майте на увазі, що кінцева TMX буде містити ім’я проєкту).</seg>
       </tuv>
     </tu>
     <tu>
@@ -8127,8 +8127,8 @@ Buy another drink</seg>
       <tuv lang="en">
         <seg>Creating a translation memory for selected documents</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="maximo" changedate="20200705T055359Z" creationid="maximo" creationdate="20200705T055359Z">
-        <seg>Створення памʼяті перекладів для окремих документів</seg>
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200708T102521Z" creationid="maximo" creationdate="20200705T055359Z">
+        <seg>Створення пам’яті перекладів для окремих документів</seg>
       </tuv>
     </tu>
     <tu>
@@ -9001,8 +9001,8 @@ Buy another drink</seg>
       <tuv lang="en">
         <seg>Disconnect from the network before opening the project,</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="lesia" changedate="20200705T093809Z" creationid="maximo" creationdate="20200704T203502Z">
-        <seg>Від'єднайтесь від мережі перед відкриттям проєкту</seg>
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200708T102548Z" creationid="maximo" creationdate="20200704T203502Z">
+        <seg>Від’єднайтесь від мережі перед відкриттям проєкту</seg>
       </tuv>
     </tu>
     <tu>
@@ -10337,8 +10337,8 @@ Your help page not found</seg>
       <tuv lang="en">
         <seg>Enter your name here and it will be attached to all segments translated by you.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="maximo" changedate="20200417T081205Z" creationid="maximo" creationdate="20200417T081205Z">
-        <seg>Введіть своє ім'я, яким будуть підписані всі сегменти, які ви перекладете.</seg>
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200708T102425Z" creationid="maximo" creationdate="20200417T081205Z">
+        <seg>Введіть своє ім’я, яким будуть підписані всі сегменти, які ви перекладете.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10725,8 +10725,8 @@ No one hears your screams</seg>
       <tuv lang="en">
         <seg>Example mappings</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="lesia" changedate="20200704T204702Z" creationid="lesia" creationdate="20200704T204702Z">
-        <seg>Приклади прив'язки</seg>
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200708T102543Z" creationid="lesia" creationdate="20200704T204702Z">
+        <seg>Приклади прив’язки</seg>
       </tuv>
     </tu>
     <tu>
@@ -14151,8 +14151,8 @@ Explorer), change the settings so that file extensions are displayed.</seg>
       <tuv lang="en">
         <seg>If you decide mid-translation to switch from sentence to paragraph translation, the internal translation memory of the project will not be changed (OmegaT may upgrade old translation memories that did not use sentence segmentation, but not vice versa), but OmegaT will attempt to create paragraph fuzzy matches by gluing together existing sentence translations.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="lesia" changedate="20200708T084845Z" creationid="lesia" creationdate="20200412T201144Z">
-        <seg>Якщо під час перекладу ви вирішите змінити правила сегментації і працювати не за реченнями, а за абзацами, це не змінить памʼять перекладів, що створилася у проєкті (OmegaT може оновити старі файли памʼяті перекладів, які працювали з більшими за речення сегментами, але не навпаки). Однак, OmegaT буде намагатися створити нечіткі збіги на рівні абзаців, «склеюючи» наявні переклади речень. </seg>
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200708T102433Z" creationid="lesia" creationdate="20200412T201144Z">
+        <seg>Якщо під час перекладу ви вирішите змінити правила сегментації і працювати не за реченнями, а за абзацами, це не змінить пам’ять перекладів, що створилася у проєкті (OmegaT може оновити старі файли пам’яті перекладів, які працювали з більшими за речення сегментами, але не навпаки). Однак, OmegaT буде намагатися створити нечіткі збіги на рівні абзаців, «склеюючи» наявні переклади речень. </seg>
       </tuv>
     </tu>
     <tu>
@@ -14191,8 +14191,8 @@ Explorer), change the settings so that file extensions are displayed.</seg>
       <tuv lang="en">
         <seg>If you have a powerful machine, and/or if you don't like how the scrollbar behaves during progressive loading, you can increase this number.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="maximo" changedate="20200510T172011Z" creationid="maximo" creationdate="20200417T080352Z">
-        <seg>Якщо у вас потужний комп'ютер та/або вам не подобається як себе поводить полоса прокручування під час динамічного підвантажування, ви можете збільшити це число.</seg>
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200708T102420Z" creationid="maximo" creationdate="20200417T080352Z">
+        <seg>Якщо у вас потужний комп’ютер та/або вам не подобається як себе поводить полоса прокручування під час динамічного підвантажування, ви можете збільшити це число.</seg>
       </tuv>
     </tu>
     <tu>
@@ -14579,8 +14579,8 @@ click on that shortcut.</seg>
       <tuv lang="en">
         <seg>Importing and exporting translation memories</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="maximo" changedate="20200704T210305Z" creationid="maximo" creationdate="20200704T210305Z">
-        <seg>Імпортування та експортування памʼяті перекладів</seg>
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200708T102518Z" creationid="maximo" creationdate="20200704T210305Z">
+        <seg>Імпортування та експортування пам’яті перекладів</seg>
       </tuv>
     </tu>
     <tu>
@@ -14691,8 +14691,8 @@ click on that shortcut.</seg>
       <tuv lang="en">
         <seg>In case of OmegaT complete project folders - in other words the translation memories involved as well as source folders, project settings etc - are managed by the selected RCS.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="maximo" changedate="20200705T054137Z" creationid="maximo" creationdate="20200705T054137Z">
-        <seg>OmegaT використовує їх для контролю всіх файлів у теці проєкту: як файлів памʼяті перекладів, так і файлів оригіналу чи налаштувань проєкту.</seg>
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200708T102529Z" creationid="maximo" creationdate="20200705T054137Z">
+        <seg>OmegaT використовує їх для контролю всіх файлів у теці проєкту: як файлів пам’яті перекладів, так і файлів оригіналу чи налаштувань проєкту.</seg>
       </tuv>
     </tu>
     <tu>
@@ -14715,8 +14715,8 @@ click on that shortcut.</seg>
       <tuv lang="en">
         <seg>In case translators need to share their TMX bases while excluding some of their parts or including just translations of certain files, sharing the complete &lt;f0&gt;ProjectName-omegat.tmx&lt;/f0&gt; is out of question.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="lesia" changedate="20200708T095823Z" creationid="lesia" creationdate="20200705T054504Z">
-        <seg>Якщо перекладачам треба обмінюватися TMX, але тільки для певних файлів, то звичний шлях через &lt;f0&gt;Ім'яПроєкту-omegat.tmx&lt;/f0&gt; не спрацює.</seg>
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200708T102523Z" creationid="lesia" creationdate="20200705T054504Z">
+        <seg>Якщо перекладачам треба обмінюватися TMX, але тільки для певних файлів, то звичний шлях через &lt;f0&gt;Ім’яПроєкту-omegat.tmx&lt;/f0&gt; не спрацює.</seg>
       </tuv>
     </tu>
     <tu>
@@ -14739,8 +14739,8 @@ click on that shortcut.</seg>
       <tuv lang="en">
         <seg>In cases where a team of translators is involved, translators will prefer to share common translation memories rather than distribute their local versions.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="maximo" changedate="20200705T053810Z" creationid="maximo" creationdate="20200705T053639Z">
-        <seg>Для команди перекладачів може бути зручніше користуватися спільною памʼяттю перекладів, а не пересилати постійно локальні копії.</seg>
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200708T102528Z" creationid="maximo" creationdate="20200705T053639Z">
+        <seg>Для команди перекладачів може бути зручніше користуватися спільною пам’яттю перекладів, а не пересилати постійно локальні копії.</seg>
       </tuv>
     </tu>
     <tu>
@@ -15043,16 +15043,16 @@ click on that shortcut.</seg>
       <tuv lang="en">
         <seg>In this case, place the translation memories you wish to use in the &lt;e0&gt;/tm&lt;/e0&gt; or &lt;e1&gt;/tm&lt;/e1&gt;/auto folder of your new project: in the former case you will get hits from these translation memories in the fuzzy matches viewer, and in the latter case these TMs will be used to pre-translate your source text.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="lesia" changedate="20200708T094107Z" creationid="lesia" creationdate="20200705T053046Z">
-        <seg>У цьому випадку розмістіть памʼяті перекладів, яку ви хочете використати, у теці &lt;e0&gt;/tm&lt;/e0&gt; або &lt;e1&gt;/tm/auto&lt;/e1&gt; вашого нового проєкту: у першому випадку ви отримуватимете підказки з ваших памʼятей перекладів у вікні Нечіткі збіги, у другому — збіги будуть автоматично вставлятися із памʼятей перекладів у відповідні сегменти в області редагування.</seg>
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200708T102511Z" creationid="lesia" creationdate="20200705T053046Z">
+        <seg>У цьому випадку розмістіть пам’яті перекладів, яку ви хочете використати, у теці &lt;e0&gt;/tm&lt;/e0&gt; або &lt;e1&gt;/tm/auto&lt;/e1&gt; вашого нового проєкту: у першому випадку ви отримуватимете підказки з ваших пам’ятей перекладів у вікні Нечіткі збіги, у другому — збіги будуть автоматично вставлятися із пам’ятей перекладів у відповідні сегменти в області редагування.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>In this case, the NL-EN translation memory can serve as a go-between to help generate NL to ZH translation.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="lesia" changedate="20200708T095823Z" creationid="maximo" creationdate="20200705T052722Z">
-        <seg>У цьому випадку перекладацька пам'ять NL-EN може послужити проміжним засобом для створення перекладу NL-ZH.</seg>
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200708T102530Z" creationid="maximo" creationdate="20200705T052722Z">
+        <seg>У цьому випадку перекладацька пам’ять NL-EN може послужити проміжним засобом для створення перекладу NL-ZH.</seg>
       </tuv>
     </tu>
     <tu>
@@ -15251,8 +15251,8 @@ click on that shortcut.</seg>
       <tuv lang="en">
         <seg>Initially, that is when the project is created, the main TM of the project, &lt;f0&gt;project_save.tmx&lt;/f0&gt; is empty.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="maximo" changedate="20200704T194806Z" creationid="maximo" creationdate="20200704T194806Z">
-        <seg>При створенні проєкту його пам'ять перекладів (&lt;f0&gt;project_save.tmx&lt;/f0&gt;) пуста.</seg>
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200708T102501Z" creationid="maximo" creationdate="20200704T194806Z">
+        <seg>При створенні проєкту його пам’ять перекладів (&lt;f0&gt;project_save.tmx&lt;/f0&gt;) пуста.</seg>
       </tuv>
     </tu>
     <tu>
@@ -17365,8 +17365,8 @@ itself on the first run.</seg>
       <tuv lang="en">
         <seg>Mapping parameters</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="lesia" changedate="20200704T201644Z" creationid="lesia" creationdate="20200704T194013Z">
-        <seg>Параметри прив'язки</seg>
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200708T102540Z" creationid="lesia" creationdate="20200704T194013Z">
+        <seg>Параметри прив’язки</seg>
       </tuv>
     </tu>
     <tu>
@@ -18348,16 +18348,16 @@ as the Applications folder.</seg>
       <tuv lang="en">
         <seg>Name of the local folder or file, relative to the root of the OmegaT project.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="lesia" changedate="20200704T202420Z" creationid="lesia" creationdate="20200704T202420Z">
-        <seg>Ім'я локальної теки або файлу, що співвідноситься з коренем проєкту OmegaT.</seg>
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200708T102541Z" creationid="lesia" creationdate="20200704T202420Z">
+        <seg>Ім’я локальної теки або файлу, що співвідноситься з коренем проєкту OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>Name of the remote folder or file, relative to the repository url.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="lesia" changedate="20200704T202830Z" creationid="lesia" creationdate="20200704T202830Z">
-        <seg>Ім'я віддаленої теки чи файлу, що співвідноситься з url репозиторію.</seg>
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200708T102543Z" creationid="lesia" creationdate="20200704T202830Z">
+        <seg>Ім’я віддаленої теки чи файлу, що співвідноситься з url репозиторію.</seg>
       </tuv>
     </tu>
     <tu>
@@ -18867,8 +18867,8 @@ as the Applications folder.</seg>
       <tuv lang="en">
         <seg>Note that all the tmx files in the /tm repository are parsed when the project is opened, so putting all different TMs you may have on hand into this folder may unnecessarily slow OmegaT down.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="lesia" changedate="20200708T094108Z" creationid="lesia" creationdate="20200705T060350Z">
-        <seg>Зауважте, що всі файли tmx у теці /tm зчитуються програмою кожен раз, коли ви відкриваєте проєкт, тож не варто додавати до проєкту всі пам'яті перекладів, що у вас є — це уповільнить роботу OmegaT. Доцільно використовувати лише ті пам'яті, які справді допоможуть вам при перекладі.</seg>
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200708T102517Z" creationid="lesia" creationdate="20200705T060350Z">
+        <seg>Зауважте, що всі файли tmx у теці /tm зчитуються програмою кожен раз, коли ви відкриваєте проєкт, тож не варто додавати до проєкту всі пам’яті перекладів, що у вас є — це уповільнить роботу OmegaT. Доцільно використовувати лише ті пам’яті, які справді допоможуть вам при перекладі.</seg>
       </tuv>
     </tu>
     <tu>
@@ -18915,8 +18915,8 @@ as the Applications folder.</seg>
       <tuv lang="en">
         <seg>Note that only one TMX for a given language pair is possible, so if several translation memories should be involved, you will need to merge them all into the XX_YY.tmx.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="maximo" changedate="20200705T053456Z" creationid="maximo" creationdate="20200705T053456Z">
-        <seg>Зверніть увагу, що для кожної пари мов можна створити тільки одну таку памʼять перекладів, тому якщо у вас їх кілька, їх треба буде об'єднати в один файл XX_YY.tmx.</seg>
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200708T102535Z" creationid="maximo" creationdate="20200705T053456Z">
+        <seg>Зверніть увагу, що для кожної пари мов можна створити тільки одну таку пам’ять перекладів, тому якщо у вас їх кілька, їх треба буде об’єднати в один файл XX_YY.tmx.</seg>
       </tuv>
     </tu>
     <tu>
@@ -19107,8 +19107,8 @@ as the Applications folder.</seg>
       <tuv lang="en">
         <seg>Note: these two instructions can be combined by writing &lt;u0&gt;(&lt;.*?&gt;)|(\d+)&lt;/u0&gt;.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="maximo" changedate="20200510T172131Z" creationid="maximo" creationdate="20200417T081110Z">
-        <seg>Зверніть увагу, що ці два вирази можна об'єднати: &lt;u0&gt;(&lt;.*?&gt;)|(\d+)&lt;/u0&gt;.</seg>
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200708T102421Z" creationid="maximo" creationdate="20200417T081110Z">
+        <seg>Зверніть увагу, що ці два вирази можна об’єднати: &lt;u0&gt;(&lt;.*?&gt;)|(\d+)&lt;/u0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -19547,8 +19547,8 @@ as the Applications folder.</seg>
       <tuv lang="en">
         <seg>OmegaT follows very strict procedures when loading translation memory (tmx) files.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="lesia" changedate="20200705T073153Z" creationid="lesia" creationdate="20200705T073153Z">
-        <seg>Завантажуючи файли памʼяті перекладів (tmx), OmegaT слідує дуже чіткій процедурі.</seg>
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200708T102520Z" creationid="lesia" creationdate="20200705T073153Z">
+        <seg>Завантажуючи файли пам’яті перекладів (tmx), OmegaT слідує дуже чіткій процедурі.</seg>
       </tuv>
     </tu>
     <tu>
@@ -19885,8 +19885,8 @@ installed on your system.</seg>
       <tuv lang="en">
         <seg>OmegaT team projects can also be set up in a different way, where several translators share the project_save.tmx file but not the source files.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="lesia" changedate="20200704T193835Z" creationid="lesia" creationdate="20200704T193835Z">
-        <seg>Командні проєкти OmegaT можна також налаштовувати іншим способом, так, щоб перекладачі користувалися спільною пам'яттю перекладів (файлом project_save.tmx), але не мали доступу до файлів оригіналу, які перекладають інші учасники проєкту.</seg>
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200708T102539Z" creationid="lesia" creationdate="20200704T193835Z">
+        <seg>Командні проєкти OmegaT можна також налаштовувати іншим способом, так, щоб перекладачі користувалися спільною пам’яттю перекладів (файлом project_save.tmx), але не мали доступу до файлів оригіналу, які перекладають інші учасники проєкту.</seg>
       </tuv>
     </tu>
     <tu>
@@ -23391,8 +23391,8 @@ These words: 'Page not found'</seg>
       <tuv lang="en">
         <seg>Reuse Translation Memories</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="lesia" changedate="20200705T075252Z" creationid="maximo" creationdate="20200704T194702Z">
-        <seg>Використання вже наявної памʼяті перекладів</seg>
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200708T102501Z" creationid="maximo" creationdate="20200704T194702Z">
+        <seg>Використання вже наявної пам’яті перекладів</seg>
       </tuv>
     </tu>
     <tu>
@@ -25160,8 +25160,8 @@ The scope of a search is by default the project and can be set to be any files l
       <tuv lang="en">
         <seg>Sharing translation memories</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="maximo" changedate="20200705T053650Z" creationid="maximo" creationdate="20200705T053627Z">
-        <seg>Спільна памʼять перекладів</seg>
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200708T102527Z" creationid="maximo" creationdate="20200705T053627Z">
+        <seg>Спільна пам’ять перекладів</seg>
       </tuv>
     </tu>
     <tu>
@@ -25216,16 +25216,16 @@ The scope of a search is by default the project and can be set to be any files l
       <tuv lang="en">
         <seg>Should you run into problems, post a message in the &lt;u0&gt;&lt;a1&gt;OmegaT&lt;/a1&gt; user group&lt;/u0&gt;.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="maximo" changedate="20200704T194611Z" creationid="maximo" creationdate="20200704T194611Z">
-        <seg>Якщо у вас виникли проблеми, обов'язково звертайтеся в &lt;u0&gt;групу користувачів &lt;a1&gt;OmegaT&lt;/a1&gt;&lt;/u0&gt;.</seg>
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200708T102459Z" creationid="maximo" creationdate="20200704T194611Z">
+        <seg>Якщо у вас виникли проблеми, обов’язково звертайтеся в &lt;u0&gt;групу користувачів &lt;a1&gt;OmegaT&lt;/a1&gt;&lt;/u0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>Should you wish to reuse a translation memory from a previous project (for example because the new project is similar to the previous project, or uses terminology which might have been used before), you can use these translation memories as "input translation memories", i.e. for import into your new project.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="lesia" changedate="20200708T091457Z" creationid="lesia" creationdate="20200705T050644Z">
-        <seg>Якщо ви захочете скористатися вашою памʼяттю перекладів з попереднього проєкту (наприклад, у випадку, якщо новий проєкт схожий за змістом до попереднього або ж використовує ту ж термінологію), ви можете використати ці файли як «імпортовану памʼять перекладів», тобто, додати їх до вашого нового проєкту.</seg>
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200708T102507Z" creationid="lesia" creationdate="20200705T050644Z">
+        <seg>Якщо ви захочете скористатися вашою пам’яттю перекладів з попереднього проєкту (наприклад, у випадку, якщо новий проєкт схожий за змістом до попереднього або ж використовує ту ж термінологію), ви можете використати ці файли як «імпортовану пам’ять перекладів», тобто, додати їх до вашого нового проєкту.</seg>
       </tuv>
     </tu>
     <tu>
@@ -27864,8 +27864,8 @@ instead.</seg>
       <tuv lang="en">
         <seg>The files appear in the /script subfolder in the OmegaT user files folder, and include:</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="maximo" changedate="20200417T070452Z" creationid="maximo" creationdate="20200417T070452Z">
-        <seg>Файли з'являються у директорії /script у теці з користувацькими файлами OmegaT:</seg>
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200708T102419Z" creationid="maximo" creationdate="20200417T070452Z">
+        <seg>Файли з’являються у директорії /script у теці з користувацькими файлами OmegaT:</seg>
       </tuv>
     </tu>
     <tu>
@@ -28634,16 +28634,16 @@ in /lib/licenses/Licenses.txt.</seg>
       <tuv lang="en">
         <seg>The remote file &lt;f0&gt;https://github.com/omegat-org/omegat/raw/master/release/readme.txt&lt;/f0&gt; is mapped to the local file &lt;f1&gt;source/readme_tr.txt&lt;/f1&gt;.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="lesia" changedate="20200708T095823Z" creationid="lesia" creationdate="20200704T205225Z">
-        <seg>Віддалений файл &lt;f0&gt;https://github.com/omegat-org/omegat/raw/master/release/readme.txt&lt;/f0&gt; прив'язаний до локального &lt;f1&gt;source/readme_tr.txt&lt;/f1&gt;.</seg>
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200708T102546Z" creationid="lesia" creationdate="20200704T205225Z">
+        <seg>Віддалений файл &lt;f0&gt;https://github.com/omegat-org/omegat/raw/master/release/readme.txt&lt;/f0&gt; прив’язаний до локального &lt;f1&gt;source/readme_tr.txt&lt;/f1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>The remote file &lt;f0&gt;https://github.com/omegat-org/omegat/raw/master/src/org/omegat/Bundle.properties&lt;/f0&gt; is mapped to the local file &lt;f1&gt;source/Bundle.properties&lt;/f1&gt;.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="lesia" changedate="20200708T095823Z" creationid="lesia" creationdate="20200704T205117Z">
-        <seg>Віддалений файл &lt;f0&gt;https://github.com/omegat-org/omegat/raw/master/src/org/omegat/Bundle.properties&lt;/f0&gt; прив'язаний до локального файлу &lt;f1&gt;source/Bundle.properties&lt;/f1&gt;.</seg>
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200708T102546Z" creationid="lesia" creationdate="20200704T205117Z">
+        <seg>Віддалений файл &lt;f0&gt;https://github.com/omegat-org/omegat/raw/master/src/org/omegat/Bundle.properties&lt;/f0&gt; прив’язаний до локального файлу &lt;f1&gt;source/Bundle.properties&lt;/f1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -28853,8 +28853,8 @@ in /lib/licenses/Licenses.txt.</seg>
       <tuv lang="en">
         <seg>The solution in our example is to copy the existing translation memory into the tm/tmx2source/ subfolder and rename it to ZH_CN.tmx to indicate the target language of the tmx.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="maximo" changedate="20200705T052923Z" creationid="maximo" creationdate="20200705T052923Z">
-        <seg>Цього можна досягнути, якщо скопіювати існуючу памʼять перекладів у підтеку tm/tmx2source/ та перейменувати її в ZH_CN.tmx, що визначає її мову перекладу.</seg>
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200708T102532Z" creationid="maximo" creationdate="20200705T052923Z">
+        <seg>Цього можна досягнути, якщо скопіювати існуючу пам’ять перекладів у підтеку tm/tmx2source/ та перейменувати її в ZH_CN.tmx, що визначає її мову перекладу.</seg>
       </tuv>
     </tu>
     <tu>
@@ -29794,8 +29794,8 @@ the server.</seg>
       <tuv lang="en">
         <seg>This enables the translation memories produced by other tools to be read by OmegaT.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="lesia" changedate="20200708T095823Z" creationid="lesia" creationdate="20200705T061657Z">
-        <seg>Це дозволяє OmegaT читати памʼяті перекладів, створені за допомогою інших САТ-інструментів.</seg>
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200708T102519Z" creationid="lesia" creationdate="20200705T061657Z">
+        <seg>Це дозволяє OmegaT читати пам’яті перекладів, створені за допомогою інших САТ-інструментів.</seg>
       </tuv>
     </tu>
     <tu>
@@ -30004,8 +30004,8 @@ the server.</seg>
       <tuv lang="en">
         <seg>This is useful if you frequently use translation memories produced in the past, for example because they are on the same subject or for the same customer.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="lesia" changedate="20200705T054334Z" creationid="lesia" creationdate="20200705T054034Z">
-        <seg>Це зручно, якщо ви часто використовуєте памʼяті перекладів з попередніх проєктів, наприклад, тому що вони мають ту ж тему або того ж замовника, з яким ви працювали раніше.</seg>
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200708T102512Z" creationid="lesia" creationdate="20200705T054034Z">
+        <seg>Це зручно, якщо ви часто використовуєте пам’яті перекладів з попередніх проєктів, наприклад, тому що вони мають ту ж тему або того ж замовника, з яким ви працювали раніше.</seg>
       </tuv>
     </tu>
     <tu>
@@ -30292,8 +30292,8 @@ the server.</seg>
       <tuv lang="en">
         <seg>This will effectively return them to the "untranslated" status, as they will no longer match segments recorded in the project memory, even though their original translation is still there.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="lesia" changedate="20200708T093139Z" creationid="lesia" creationdate="20200412T201448Z">
-        <seg>Це поверне їм статус «неперекладені», тому що вони більше не відповідають сегментам у памʼяті перекладу, хоча їхній старий і вже «невідповідний» переклад усе ще там зберігається.</seg>
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200708T102436Z" creationid="lesia" creationdate="20200412T201448Z">
+        <seg>Це поверне їм статус «неперекладені», тому що вони більше не відповідають сегментам у пам’яті перекладу, хоча їхній старий і вже «невідповідний» переклад усе ще там зберігається.</seg>
       </tuv>
     </tu>
     <tu>
@@ -30412,8 +30412,8 @@ the server.</seg>
       <tuv lang="en">
         <seg>To add other resources (dictionaries, TMXs or glossaries), use an SVN or Git client.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="lesia" changedate="20200704T190004Z" creationid="lesia" creationdate="20200704T190004Z">
-        <seg>Щоб додати інші ресурси (словники, пам'яті TMX чи глосарії), використайте SVN або клієнт Git.</seg>
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200708T102539Z" creationid="lesia" creationdate="20200704T190004Z">
+        <seg>Щоб додати інші ресурси (словники, пам’яті TMX чи глосарії), використайте SVN або клієнт Git.</seg>
       </tuv>
     </tu>
     <tu>
@@ -31339,8 +31339,8 @@ linux-install.sh script, and execute the script with ./linux-install.sh.</seg>
       <tuv lang="en">
         <seg>Translation memories may also contain reference translations: multinational legislation, such as that of the European Community, is a typical example.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="lesia" changedate="20200705T061544Z" creationid="maximo" creationdate="20200704T195144Z">
-        <seg>Памʼять перекладів також може містити допоміжні переклади, наприклад, багатомовні версії законодавчої документації Європейського Союзу.</seg>
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200708T102502Z" creationid="maximo" creationdate="20200704T195144Z">
+        <seg>Пам’ять перекладів також може містити допоміжні переклади, наприклад, багатомовні версії законодавчої документації Європейського Союзу.</seg>
       </tuv>
     </tu>
     <tu>
@@ -31363,8 +31363,8 @@ linux-install.sh script, and execute the script with ./linux-install.sh.</seg>
       <tuv lang="en">
         <seg>Translation memory tools work with textual units called segments.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="maximo" changedate="20200413T192530Z" creationid="maximo" creationdate="20200413T192530Z">
-        <seg>Інструменти на базі памʼяті перекладів працюють із текстовими одиницями, які називаються сегментами.</seg>
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200708T102415Z" creationid="maximo" creationdate="20200413T192530Z">
+        <seg>Інструменти на базі пам’яті перекладів працюють із текстовими одиницями, які називаються сегментами.</seg>
       </tuv>
     </tu>
     <tu>
@@ -33168,8 +33168,8 @@ of selecting, obtaining and installing it.</seg>
       <tuv lang="en">
         <seg>When translating software-related files, you can configure the Tag Validator options to also check programming (%...) variables.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="maximo" changedate="20200417T080528Z" creationid="maximo" creationdate="20200417T080528Z">
-        <seg>Якщо ви перекладаєте файли, пов'язані з програмуванням, ви також можете налаштувати перевірку теґів, щоб вона перевіряла змінні (%...).</seg>
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200708T102421Z" creationid="maximo" creationdate="20200417T080528Z">
+        <seg>Якщо ви перекладаєте файли, пов’язані з програмуванням, ви також можете налаштувати перевірку теґів, щоб вона перевіряла змінні (%...).</seg>
       </tuv>
     </tu>
     <tu>
@@ -33208,16 +33208,16 @@ of selecting, obtaining and installing it.</seg>
       <tuv lang="en">
         <seg>When you begin a new project on the same subject or for the same customer, navigate to the repository folder in the &lt;g0&gt;Project &gt; Properties &gt; Edit Project dialog&lt;/g0&gt; and select it as the translation memory folder.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="maximo" changedate="20200705T094259Z" creationid="lesia" creationdate="20200705T055242Z">
-        <seg>Починаючи новий проєкт для того ж замовника або з тієї ж тематики, зайдіть у &lt;g0&gt;Проєкт &gt; Властивості&lt;/g0&gt; та оберіть у діалозі редагування властивостей проєкту цю теку репозиторію як теку для файлів памʼяті перекладів.</seg>
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200708T102515Z" creationid="lesia" creationdate="20200705T055242Z">
+        <seg>Починаючи новий проєкт для того ж замовника або з тієї ж тематики, зайдіть у &lt;g0&gt;Проєкт &gt; Властивості&lt;/g0&gt; та оберіть у діалозі редагування властивостей проєкту цю теку репозиторію як теку для файлів пам’яті перекладів.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>When you create the target documents in an &lt;a0&gt;OmegaT&lt;/a0&gt; project, the translation memory of the project is output in the form of three files in the root folder of your &lt;a1&gt;OmegaT&lt;/a1&gt; project (see the above description).</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="lesia" changedate="20200705T075512Z" creationid="maximo" creationdate="20200704T195407Z">
-        <seg>Коли ви створюєте перекладені документи у проєкті &lt;a0&gt;OmegaT&lt;/a0&gt;, у головній теці проєкту &lt;a1&gt;OmegaT&lt;/a1&gt; також буде створено три файли памʼяті перекладів.</seg>
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200708T102503Z" creationid="maximo" creationdate="20200704T195407Z">
+        <seg>Коли ви створюєте перекладені документи у проєкті &lt;a0&gt;OmegaT&lt;/a0&gt;, у головній теці проєкту &lt;a1&gt;OmegaT&lt;/a1&gt; також буде створено три файли пам’яті перекладів.</seg>
       </tuv>
     </tu>
     <tu>
@@ -33264,8 +33264,8 @@ of selecting, obtaining and installing it.</seg>
       <tuv lang="en">
         <seg>When you translate your files, &lt;a2&gt;OmegaT&lt;/a2&gt; stores all your progress in the translation memory &lt;l3&gt;project_save.tmx&lt;/l3&gt; that resides in the project's &lt;l4&gt;/omegat&lt;/l4&gt; subfolder.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="maximo" changedate="20200704T192930Z" creationid="maximo" creationdate="20200704T192524Z">
-        <seg>Під час перекладу &lt;a2&gt;OmegaT&lt;/a2&gt; зберігає результати роботи у памʼять перекладів &lt;l3&gt;project_save.tmx&lt;/l3&gt;, що розташована у підтеці проєкту &lt;l4&gt;/omegat&lt;/l4&gt;.</seg>
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200708T102455Z" creationid="maximo" creationdate="20200704T192524Z">
+        <seg>Під час перекладу &lt;a2&gt;OmegaT&lt;/a2&gt; зберігає результати роботи у пам’ять перекладів &lt;l3&gt;project_save.tmx&lt;/l3&gt;, що розташована у підтеці проєкту &lt;l4&gt;omegat&lt;/l4&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -33288,8 +33288,8 @@ of selecting, obtaining and installing it.</seg>
       <tuv lang="en">
         <seg>Whenever you finish a project, copy one of the three "export" translation memory files from the root folder of the project to the repository folder.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="lesia" changedate="20200708T085208Z" creationid="lesia" creationdate="20200705T054621Z">
-        <seg>Коли ви закінчили проєкт, скопіюйте один із трьох файлів для «експорту» памʼяті перекладів з кореневої теки проєкту до цієї теки репозиторію.</seg>
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200708T102514Z" creationid="lesia" creationdate="20200705T054621Z">
+        <seg>Коли ви закінчили проєкт, скопіюйте один із трьох файлів для «експорту» пам’яті перекладів з кореневої теки проєкту до цієї теки репозиторію.</seg>
       </tuv>
     </tu>
     <tu>
@@ -33830,8 +33830,8 @@ Your page is not found</seg>
       <tuv lang="en">
         <seg>YEAR is the 4-digit year, MM is the month, DD the day of the month, and HH and NN are the hours and minutes when the previous translation memory was saved.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="lesia" changedate="20200708T094105Z" creationid="maximo" creationdate="20200704T193438Z">
-        <seg>YYYY — це рік, MM — це місяць, DD — день, а HH та NN — години та хвилини, коли ця копія памʼяті перекладів була востаннє збережена.</seg>
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200708T102440Z" creationid="maximo" creationdate="20200704T193438Z">
+        <seg>YYYY — це рік, MM — це місяць, DD — день, а HH та NN — години та хвилини, коли ця копія пам’яті перекладів була востаннє збережена.</seg>
       </tuv>
     </tu>
     <tu>
@@ -34274,8 +34274,8 @@ installation script (linux-install.sh).</seg>
       <tuv lang="en">
         <seg>You can regard these three tmx files (&lt;f2&gt;-omegat.tmx&lt;/f2&gt;, &lt;f3&gt;-level1.tmx&lt;/f3&gt; and &lt;f4&gt;-level2.tmx&lt;/f4&gt;) as an "export translation memory", i.e. as an export of your current project's content in bilingual form.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="lesia" changedate="20200708T095823Z" creationid="lesia" creationdate="20200705T050144Z">
-        <seg>Ці три файли tmx (&lt;f2&gt;-omegat.tmx&lt;/f2&gt;, &lt;f3&gt;-level1.tmx&lt;/f3&gt; та &lt;f4&gt;-level2.tmx&lt;/f4&gt;) можуть слугувати «експортом памʼяті перекладів», тобто експортом вашого поточного проєкту у двомовній формі.</seg>
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200708T102504Z" creationid="lesia" creationdate="20200705T050144Z">
+        <seg>Ці три файли tmx (&lt;f2&gt;-omegat.tmx&lt;/f2&gt;, &lt;f3&gt;-level1.tmx&lt;/f3&gt; та &lt;f4&gt;-level2.tmx&lt;/f4&gt;) можуть слугувати «експортом пам’яті перекладів», тобто експортом вашого поточного проєкту у двомовній формі.</seg>
       </tuv>
     </tu>
     <tu>
@@ -36320,16 +36320,16 @@ create its configuration folder.</seg>
       <tuv lang="en">
         <seg>mapping local</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="lesia" changedate="20200704T202711Z" creationid="lesia" creationdate="20200704T202216Z">
-        <seg>локальна прив'язка</seg>
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200708T102541Z" creationid="lesia" creationdate="20200704T202216Z">
+        <seg>локальна прив’язка</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>mapping repository</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="lesia" changedate="20200704T202509Z" creationid="lesia" creationdate="20200704T202509Z">
-        <seg>репозиторій прив'язки</seg>
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200708T102542Z" creationid="lesia" creationdate="20200704T202509Z">
+        <seg>репозиторій прив’язки</seg>
       </tuv>
     </tu>
     <tu>
@@ -36969,8 +36969,8 @@ create its configuration folder.</seg>
       <tuv lang="en">
         <seg>select the backup translation memory that is the most likely to contain the data you are looking for</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="maximo" changedate="20200704T193658Z" creationid="maximo" creationdate="20200704T193658Z">
-        <seg>оберіть резервну копію памʼяті перекладів, яка найбільш вірогідно містить потрібні дані</seg>
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200708T102459Z" creationid="maximo" creationdate="20200704T193658Z">
+        <seg>оберіть резервну копію пам’яті перекладів, яка найбільш вірогідно містить потрібні дані</seg>
       </tuv>
     </tu>
     <tu>
