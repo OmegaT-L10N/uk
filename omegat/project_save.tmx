@@ -2670,8 +2670,8 @@ The current setting is {0}MB;</seg>
       <tuv lang="en">
         <seg>&lt;e0&gt;Hint:&lt;/e0&gt; the set of segmentation rules for a given project is stored as &lt;f1&gt;project/omegat/segmentation.conf.&lt;/f1&gt;</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="maximo" changedate="20200614T151123Z" creationid="lesia" creationdate="20200420T155328Z">
-        <seg>&lt;e0&gt;До уваги:&lt;/e0&gt;  правила сегментації для поточного проєкту зберігаються у файлі &lt;f1&gt;project/omegat/segmentation.conf.&lt;/f1&gt;</seg>
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200708T103527Z" creationid="lesia" creationdate="20200420T155328Z">
+        <seg>&lt;e0&gt;До уваги:&lt;/e0&gt;  правила сегментації для поточного проєкту зберігаються в проєкті у файлі &lt;f1&gt;./omegat/segmentation.conf.&lt;/f1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -36152,8 +36152,8 @@ create its configuration folder.</seg>
       <tuv lang="en">
         <seg>is not copied in /target folder during the translated files creation process.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="lesia" changedate="20200420T194643Z" creationid="lesia" creationdate="20200420T194643Z">
-        <seg>не копіюються у теку /target під час створення перекладених файлів.</seg>
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200708T103603Z" creationid="lesia" creationdate="20200420T194643Z">
+        <seg>не копіюються у теку ./target під час створення перекладених файлів.</seg>
       </tuv>
     </tu>
     <tu>
