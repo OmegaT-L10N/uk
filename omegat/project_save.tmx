@@ -8,16 +8,16 @@
       <tuv lang="en">
         <seg>"Aligner" aligner utility</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="lesia" changedate="20200322T152905Z" creationid="lesia" creationdate="20200322T152905Z">
-        <seg>Вирівнювач "Aligner"</seg>
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200708T092551Z" creationid="lesia" creationdate="20200322T152905Z">
+        <seg>Вирівнювач «Aligner»</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>"Bligner" aligner utility</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="lesia" changedate="20200322T153043Z" creationid="lesia" creationdate="20200322T153043Z">
-        <seg>Вирівнювач "Bligner"</seg>
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200708T092606Z" creationid="lesia" creationdate="20200322T153043Z">
+        <seg>Вирівнювач «Bligner»</seg>
       </tuv>
     </tu>
     <tu>
@@ -4131,8 +4131,8 @@ The current setting is {0}MB;</seg>
       <tuv lang="en">
         <seg>Add numbers to all segments, making them all "unique"</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="lesia" changedate="20200322T162140Z" creationid="lesia" creationdate="20200322T162140Z">
-        <seg>Додавати числа до всіх сегментів, роблячи їх "унікальними"</seg>
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200708T092622Z" creationid="lesia" creationdate="20200322T162140Z">
+        <seg>Додавати числа до всіх сегментів, роблячи їх «унікальними»</seg>
       </tuv>
     </tu>
     <tu>
@@ -12975,6 +12975,14 @@ Its winter has come</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Howto - The "Priorview" preview utility</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200708T092758Z" creationid="lesia" creationdate="20200708T092758Z">
+        <seg>Howto - The "Priorview" preview utility</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Hyperlinks</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20190807T171248Z" creationid="Kos Ivantsov" creationdate="20190807T171248Z">
@@ -13220,8 +13228,8 @@ need not be entered.)</seg>
       <tuv lang="en">
         <seg>If a suitable JRE is already installed on your Windows system, select "Without JRE".</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="lesia" changedate="20200322T213117Z" creationid="maximo" creationdate="20200322T141635Z">
-        <seg>Якщо потрібна версія JRE вже встановлена у вас на Windows, оберіть "Без JRE".</seg>
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200708T092356Z" creationid="maximo" creationdate="20200322T141635Z">
+        <seg>Якщо потрібна версія JRE вже встановлена у вас на Windows, оберіть «Без JRE».</seg>
       </tuv>
     </tu>
     <tu>
@@ -13491,8 +13499,8 @@ their defaults as a result of the location change.</seg>
       <tuv lang="en">
         <seg>If not, or if you are not sure, select "with JRE".</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="lesia" changedate="20200322T213138Z" creationid="maximo" creationdate="20200322T141709Z">
-        <seg>Якщо ні, або ви не впевнені, оберіть "з JRE".</seg>
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200708T092409Z" creationid="maximo" creationdate="20200322T141709Z">
+        <seg>Якщо ні, або ви не впевнені, оберіть «з JRE».</seg>
       </tuv>
     </tu>
     <tu>
@@ -14071,8 +14079,8 @@ Explorer), change the settings so that file extensions are displayed.</seg>
       <tuv lang="en">
         <seg>If you have a natural aversion to reading instructions, and your approach to new software is to click on every button you see until something resembling the desired effect occurs, then OmegaT is probably not suitable for you.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="maximo" changedate="20200322T151634Z" creationid="maximo" creationdate="20200322T151634Z">
-        <seg>Якщо думка про читання інструкції викликає у вас огиду, а ваш підхід до освоєння нового програмного забезпечення - це "клацай все, що бачиш", - OmegaT не для вас.</seg>
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200708T092452Z" creationid="maximo" creationdate="20200322T151634Z">
+        <seg>Якщо думка про читання інструкції викликає у вас огиду, а ваш підхід до освоєння нового програмного забезпечення - це «клацай все, що бачиш», - OmegaT не для вас.</seg>
       </tuv>
     </tu>
     <tu>
@@ -18284,8 +18292,8 @@ as the Applications folder.</seg>
       <tuv lang="en">
         <seg>Nevertheless, the "Latest" versions of OmegaT are usually very stable and are recommended for any users who already have some experience with OmegaT.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="lesia" changedate="20200323T161104Z" creationid="maximo" creationdate="20200322T145951Z">
-        <seg>Незважаючи на це, "останні" версії OmegaT, як правило, дуже надійні, і їх рекомендується використовувати всім, хто вже має досвід використання OmegaT.</seg>
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200708T092421Z" creationid="maximo" creationdate="20200322T145951Z">
+        <seg>Незважаючи на це, «останні» версії OmegaT, як правило, дуже надійні, і їх рекомендується використовувати всім, хто вже має досвід використання OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
@@ -26880,8 +26888,8 @@ current folder will be used instead.</seg>
       <tuv lang="en">
         <seg>The "master" (alpha) version reflects the very latest state of development.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="lesia" changedate="20200323T221742Z" creationid="maximo" creationdate="20200322T163855Z">
-        <seg>Версія з гілки "master" (альфа-версія) відображує останній стан розвитку програми.</seg>
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200708T092506Z" creationid="maximo" creationdate="20200322T163855Z">
+        <seg>Версія з гілки «master» (альфа-версія) відображує останній стан розвитку програми.</seg>
       </tuv>
     </tu>
     <tu>
@@ -28370,8 +28378,8 @@ in /lib/licenses/Licenses.txt.</seg>
       <tuv lang="en">
         <seg>The procedure is termed an &lt;a0&gt;"RFE" (Request for Feature Enhancement) and is managed here&lt;/a0&gt;.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="lesia" changedate="20200322T144757Z" creationid="lesia" creationdate="20200322T144757Z">
-        <seg>Процедура називається &lt;a0&gt;"RFE" (Request for Feature Enhancement) і здійснюється тут&lt;/a0&gt;.</seg>
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200708T092543Z" creationid="lesia" creationdate="20200322T144757Z">
+        <seg>Процедура називається &lt;a0&gt;«RFE» (Request for Feature Enhancement) і здійснюється тут&lt;/a0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -30609,8 +30617,8 @@ the server.</seg>
       <tuv lang="en">
         <seg>To obtain OpenOffice.org or LibreOffice, follow the link from "Third-party software" button on the left.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="maximo" changedate="20200322T151135Z" creationid="maximo" creationdate="20200322T151135Z">
-        <seg>Посилання на OpenOffice.org та LibreOffice можна знайти на сторінці "Додаткові ресурси для OmegaT".</seg>
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200708T092433Z" creationid="maximo" creationdate="20200322T151135Z">
+        <seg>Посилання на OpenOffice.org та LibreOffice можна знайти на сторінці «Додаткові ресурси для OmegaT».</seg>
       </tuv>
     </tu>
     <tu>
