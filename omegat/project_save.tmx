@@ -2363,8 +2363,8 @@ The current setting is {0}MB;</seg>
       <tuv lang="en">
         <seg>&lt;a0&gt;OmegaT&lt;/a0&gt; has two ways to segment a text: by paragraph or by sentence segmentation (also referred to as “rule-based segmentation”).</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="Asus" changedate="20200624T033936Z" creationid="maximo" creationdate="20200413T192714Z">
-        <seg>&lt;a0&gt;OmegaT&lt;/a0&gt; має два способи сегментації: розбиття на абзаци та розбиття на речення, яке ще називають "сегментація за правилами".</seg>
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200708T084759Z" creationid="maximo" creationdate="20200413T192714Z">
+        <seg>&lt;a0&gt;OmegaT&lt;/a0&gt; має два способи сегментації: розбиття на абзаци та розбиття на речення, яке ще називають «сегментація за правилами».</seg>
       </tuv>
     </tu>
     <tu>
@@ -14039,8 +14039,8 @@ Explorer), change the settings so that file extensions are displayed.</seg>
       <tuv lang="en">
         <seg>If you decide mid-translation to switch from sentence to paragraph translation, the internal translation memory of the project will not be changed (OmegaT may upgrade old translation memories that did not use sentence segmentation, but not vice versa), but OmegaT will attempt to create paragraph fuzzy matches by gluing together existing sentence translations.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="maximo" changedate="20200609T124431Z" creationid="lesia" creationdate="20200412T201144Z">
-        <seg>Якщо під час перекладу ви вирішите змінити правила сегментації і працювати не за реченнями, а за абзацами, це не змінить памʼять перекладів, що створилася у проєкті (OmegaT може оновити старі файли памʼяті перекладів, які працювали з більшими за речення сегментами, але не навпаки). Однак, OmegaT буде намагатися створити нечіткі збіги на рівні абзаців, "склеюючи" наявні переклади речень. </seg>
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200708T084845Z" creationid="lesia" creationdate="20200412T201144Z">
+        <seg>Якщо під час перекладу ви вирішите змінити правила сегментації і працювати не за реченнями, а за абзацами, це не змінить памʼять перекладів, що створилася у проєкті (OmegaT може оновити старі файли памʼяті перекладів, які працювали з більшими за речення сегментами, але не навпаки). Однак, OmegaT буде намагатися створити нечіткі збіги на рівні абзаців, «склеюючи» наявні переклади речень. </seg>
       </tuv>
     </tu>
     <tu>
@@ -14787,8 +14787,8 @@ click on that shortcut.</seg>
       <tuv lang="en">
         <seg>In spite of the period, &lt;e0&gt;"Mrs. Dalloway "&lt;/e0&gt; should not be split in two segments, so an exception rule should be established for Mrs (and for Mr, for Dr, for prof etc), followed by a period.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="maximo" changedate="20200414T200320Z" creationid="maximo" creationdate="20200414T200320Z">
-        <seg>Наприклад, не зважаючи на крапку, &lt;e0&gt;"вул. Сонячна"&lt;/e0&gt; має лишатися в одному сегменті. Тому треба, щоб для випадку, коли після вул (а також пров, просп, пл, наб і т.п.) йде крапка, був зроблений вийняток.</seg>
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200708T084817Z" creationid="maximo" creationdate="20200414T200320Z">
+        <seg>Наприклад, не зважаючи на крапку, &lt;e0&gt;«вул. Сонячна»&lt;/e0&gt; має лишатися в одному сегменті. Тому треба, щоб для випадку, коли після вул (а також пров, просп, пл, наб і т.п.) йде крапка, був зроблений вийняток.</seg>
       </tuv>
     </tu>
     <tu>
@@ -34154,8 +34154,8 @@ installation script (linux-install.sh).</seg>
       <tuv lang="en">
         <seg>You can regard these three tmx files (&lt;f2&gt;-omegat.tmx&lt;/f2&gt;, &lt;f3&gt;-level1.tmx&lt;/f3&gt; and &lt;f4&gt;-level2.tmx&lt;/f4&gt;) as an "export translation memory", i.e. as an export of your current project's content in bilingual form.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="lesia" changedate="20200705T050144Z" creationid="lesia" creationdate="20200705T050144Z">
-        <seg>Ці три файли tmx (&lt;f2&gt;-omegat.tmx&lt;/f2&gt;, &lt;f3&gt;-level1.tmx&lt;/f3&gt; та &lt;f4&gt;-level2.tmx&lt;/f4&gt;) можуть слугувати "експортом памʼяті перекладів", тобто експортом вашого поточного проєкту у двомовній формі.</seg>
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200708T084906Z" creationid="lesia" creationdate="20200705T050144Z">
+        <seg>Ці три файли tmx (&lt;f2&gt;-omegat.tmx&lt;/f2&gt;, &lt;f3&gt;-level1.tmx&lt;/f3&gt; та &lt;f4&gt;-level2.tmx&lt;/f4&gt;) можуть слугувати «експортом памʼяті перекладів», тобто експортом вашого поточного проєкту у двомовній формі.</seg>
       </tuv>
     </tu>
     <tu>
