@@ -11401,8 +11401,8 @@ Gossamer threads hold you back
       <tuv lang="en">
         <seg>Files within the &lt;f7&gt;source&lt;/f7&gt; folder, whether translated or not, are then generated here, with the same hierarchy as present in the source subfolder.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="maximo" changedate="20200701T152349Z" creationid="fanja9" creationdate="20200418T100321Z">
-        <seg>Відповідники файлів з теки &lt;f7&gt;source&lt;/f7&gt;, як перекладені так і неперекладені, будуть створені тут, упорядковані як в підтеці оригіналу.</seg>
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200708T104600Z" creationid="fanja9" creationdate="20200418T100321Z">
+        <seg>Відповідники файлів з теки &lt;f7&gt;./source&lt;/f7&gt;, як перекладені так і неперекладені, будуть створені тут, упорядковані як в підтеці оригіналу.</seg>
       </tuv>
     </tu>
     <tu>
@@ -26477,8 +26477,8 @@ The scope of a search is by default the project and can be set to be any files l
       <tuv lang="en">
         <seg>TMX files are read sorted by their names and segments within a given TMX file line by line.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="lesia" changedate="20200702T205110Z" creationid="fanja9" creationdate="20200510T185943Z">
-        <seg>Файли TMX читаються відповідно до того, як вони посортовані: за назвою файлу\b і за порядком сегментів у TMX.</seg>
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200708T104636Z" creationid="fanja9" creationdate="20200510T185943Z">
+        <seg>Файли TMX читаються відповідно до того, як вони посортовані: за назвою файлу і за порядком сегментів у TMX.</seg>
       </tuv>
     </tu>
     <tu>
@@ -37033,8 +37033,8 @@ create its configuration folder.</seg>
       <tuv lang="en">
         <seg>source</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="maximo" changedate="20200614T163804Z" creationid="maximo" creationdate="20200614T163804Z">
-        <seg>source</seg>
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200708T104548Z" creationid="maximo" creationdate="20200614T163804Z">
+        <seg>./source</seg>
       </tuv>
     </tu>
     <tu>
@@ -37081,8 +37081,8 @@ create its configuration folder.</seg>
       <tuv lang="en">
         <seg>target</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="maximo" changedate="20200614T163809Z" creationid="maximo" creationdate="20200614T163809Z">
-        <seg>target</seg>
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200708T104551Z" creationid="maximo" creationdate="20200614T163809Z">
+        <seg>./target</seg>
       </tuv>
     </tu>
     <tu>
@@ -37170,8 +37170,8 @@ create its configuration folder.</seg>
       <tuv lang="en">
         <seg>tm</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="maximo" changedate="20200614T163812Z" creationid="maximo" creationdate="20200614T163812Z">
-        <seg>tm</seg>
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200708T104614Z" creationid="maximo" creationdate="20200614T163812Z">
+        <seg>./tm</seg>
       </tuv>
     </tu>
     <tu>
