@@ -27864,8 +27864,8 @@ instead.</seg>
       <tuv lang="en">
         <seg>The files appear in the /script subfolder in the OmegaT user files folder, and include:</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="lesia" changedate="20200708T102419Z" creationid="maximo" creationdate="20200417T070452Z">
-        <seg>Файли з’являються у директорії /script у теці з користувацькими файлами OmegaT:</seg>
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200708T103318Z" creationid="maximo" creationdate="20200417T070452Z">
+        <seg>Файли з’являються у директорії ./script у теці з користувацькими файлами OmegaT:</seg>
       </tuv>
     </tu>
     <tu>
