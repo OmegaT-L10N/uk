@@ -7059,8 +7059,8 @@ Buy another drink</seg>
       <tuv lang="en">
         <seg>Click on the icon button, then hit &lt;g0&gt;Browse...&lt;/g0&gt; and navigate to the &lt;f1&gt;/images&lt;/f1&gt; subfolder in the &lt;a2&gt;OmegaT&lt;/a2&gt; application folder.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="maximo" changedate="20200420T161008Z" creationid="maximo" creationdate="20200420T161008Z">
-        <seg>Натисніть на кнопку іконки, потім на кнопку &lt;g0&gt;Огляд...&lt;/g0&gt; та у підтеці &lt;f1&gt;/images&lt;/f1&gt; головної теки програми &lt;a2&gt;OmegaT&lt;/a2&gt;</seg>
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200708T104030Z" creationid="maximo" creationdate="20200420T161008Z">
+        <seg>Натисніть на кнопку іконки, потім на кнопку &lt;g0&gt;Огляд...&lt;/g0&gt; та у підтеці &lt;f1&gt;images&lt;/f1&gt; головної теки програми &lt;a2&gt;OmegaT&lt;/a2&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -20763,8 +20763,8 @@ installed on your system.</seg>
       <tuv lang="en">
         <seg>Other Icons - Browse, and navigate to the &lt;f0&gt;/images&lt;/f0&gt; subfolder in the &lt;a1&gt;OmegaT&lt;/a1&gt; application folder.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="lesia" changedate="20200708T094126Z" creationid="maximo" creationdate="20200419T105335Z">
-        <seg>Інші іконки — Огляд, та перейдіть у підтеку &lt;f0&gt;/images&lt;/f0&gt; головної теки програми &lt;a1&gt;OmegaT&lt;/a1&gt;.</seg>
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200708T104025Z" creationid="maximo" creationdate="20200419T105335Z">
+        <seg>Інші іконки — Огляд, та перейдіть у підтеку &lt;f0&gt;images&lt;/f0&gt; головної теки програми &lt;a1&gt;OmegaT&lt;/a1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -30276,8 +30276,8 @@ the server.</seg>
       <tuv lang="en">
         <seg>This will create an &lt;f0&gt;omegat/&lt;/f0&gt; folder in the working folder in which you will find all the files needed to run &lt;a1&gt;OmegaT&lt;/a1&gt;.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="lesia" changedate="20200701T203325Z" creationid="maximo" creationdate="20200419T072504Z">
-        <seg>В результаті ви отримаєте теку &lt;f0&gt;omegat/&lt;/f0&gt;, у якій побачите файли, що необхідні для запуску &lt;a1&gt;OmegaT&lt;/a1&gt;.</seg>
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200708T104012Z" creationid="maximo" creationdate="20200419T072504Z">
+        <seg>В результаті ви отримаєте теку &lt;f0&gt;omegat&lt;/f0&gt;, у якій побачите файли, що необхідні для запуску &lt;a1&gt;OmegaT&lt;/a1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
