@@ -2702,8 +2702,8 @@ The current setting is {0}MB;</seg>
       <tuv lang="EN">
         <seg>&lt;e0&gt;Install to a new folder.&lt;/e0&gt; This will enable you to keep both versions side-by-side, which you may wish to do until you feel comfortable with the new version.</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="maximo" changedate="20200419T071856Z" creationid="maximo" creationdate="20200419T071856Z">
-        <seg>&lt;e0&gt;Встановити у нову теку.&lt;/e0&gt; Це дозволить зберегти дві версії поряд незалежно, що може бути корисно до того часу, як ви звикнете до нової.</seg>
+      <tuv lang="UK-UA" changeid="fanja9" changedate="20200708T111011Z" creationid="maximo" creationdate="20200419T071856Z">
+        <seg>&lt;e0&gt;Встановити у нову теку.&lt;/e0&gt; Це дозволить зберегти дві версії поряд незалежно, що може бути корисно, доки ви звикатимете до нової.</seg>
       </tuv>
     </tu>
     <tu>
