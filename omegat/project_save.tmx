@@ -10289,16 +10289,16 @@ Your help page not found</seg>
       <tuv lang="EN">
         <seg>Enter "&lt;a0&gt;OmegaT&lt;/a0&gt;" in the "Name" field; in the "Command" field, use the navigation button to find your &lt;a1&gt;OmegaT&lt;/a1&gt; launch script (the file named &lt;a2&gt;OmegaT&lt;/a2&gt; in the unpacked folder).</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="lesia" changedate="20200708T101717Z" creationid="maximo" creationdate="20200419T110702Z">
-        <seg>Вставте «&lt;a0&gt;OmegaT&lt;/a0&gt;» у поле «Ім’я»; у полі «Команда» використайте кнопку Огляд, щоб знайти свій скрипт запуску &lt;a1&gt;OmegaT&lt;/a1&gt; (файл &lt;a2&gt;OmegaT&lt;/a2&gt; у розпакованій теці).</seg>
+      <tuv lang="UK-UA" changeid="fanja9" changedate="20200708T133307Z" creationid="maximo" creationdate="20200419T110702Z">
+        <seg>Вставте «&lt;a0&gt;OmegaT&lt;/a0&gt;» у поле «Назва»; у полі «Команда» використайте кнопку «Огляд...», щоб знайти свій скрипт запуску &lt;a1&gt;OmegaT&lt;/a1&gt; (файл &lt;a2&gt;OmegaT&lt;/a2&gt; у розпакованій теці).</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Enter &lt;a2&gt;OmegaT&lt;/a2&gt; as the name of the new item.</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="lesia" changedate="20200708T101654Z" creationid="maximo" creationdate="20200419T102312Z">
-        <seg>Вставте &lt;a2&gt;OmegaT&lt;/a2&gt; як ім’я нового елемента.</seg>
+      <tuv lang="UK-UA" changeid="fanja9" changedate="20200708T133518Z" creationid="maximo" creationdate="20200419T102312Z">
+        <seg>Вставте &lt;a2&gt;OmegaT&lt;/a2&gt; як назву нового елемента.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12187,8 +12187,8 @@ provided (omegat.kaptn).</seg>
       <tuv lang="EN">
         <seg>GNOME may fail to display the icon files in the available formats and initially appear to expect an SVG file, but if the folder is selected, the files should appear and &lt;f4&gt;OmegaT.png&lt;/f4&gt; can be selected.</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="maximo" changedate="20200420T161236Z" creationid="maximo" creationdate="20200420T161236Z">
-        <seg>Спочатку GNOME може не відображати всі файли іконок коректно. Може виглядати так, ніби очікується саме файл SVG, але якщо перейти в теку, то можна буде побачити всі файли і таки обрати &lt;f4&gt;OmegaT.png&lt;/f4&gt;.</seg>
+      <tuv lang="UK-UA" changeid="fanja9" changedate="20200708T133219Z" creationid="maximo" creationdate="20200420T161236Z">
+        <seg> Спочатку GNOME може не відображати всі файли іконок коректно. Може виглядати так, ніби очікується саме файл SVG, але якщо перейти в теку, то можна буде побачити всі файли і таки обрати &lt;f4&gt;OmegaT.png&lt;/f4&gt;.</seg>
       </tuv>
     </tu>
     <tu>
