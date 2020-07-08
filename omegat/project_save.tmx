@@ -1652,8 +1652,8 @@ To add files to the project, click on the Copy Files to Source Folder... button 
       <tuv lang="en">
         <seg>(The definition of “unique” is case-sensitive: "Run" and "run" are treated as being different)</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="maximo" changedate="20200624T201427Z" creationid="lesia" creationdate="20200429T202818Z">
-        <seg>“Унікальність” враховує регістр символів: "запуск" та "Запуск" не є повтором.</seg>
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200708T085343Z" creationid="lesia" creationdate="20200429T202818Z">
+        <seg>“Унікальність” враховує регістр символів: «запуск» та «Запуск» не є повтором.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6387,8 +6387,8 @@ Buy another drink</seg>
       <tuv lang="en">
         <seg>Changes to this command involve the addition of "arguments" to it.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="lesia" changedate="20200701T204527Z" creationid="maximo" creationdate="20200420T202209Z">
-        <seg>Її можна змінити, додаючи до неї "аргументи".</seg>
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200708T085308Z" creationid="maximo" creationdate="20200420T202209Z">
+        <seg>Її можна змінити, додаючи до неї «аргументи».</seg>
       </tuv>
     </tu>
     <tu>
@@ -6467,8 +6467,8 @@ Buy another drink</seg>
       <tuv lang="en">
         <seg>Check "Command line launching" below for more information.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="maximo" changedate="20200420T162501Z" creationid="maximo" creationdate="20200420T162501Z">
-        <seg>Див. нижче "Запуск з командного рядка" для більш детальних інструкцій.</seg>
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200708T085237Z" creationid="maximo" creationdate="20200420T162501Z">
+        <seg>Див. нижче «Запуск з командного рядка» для більш детальних інструкцій.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10289,8 +10289,8 @@ Your help page not found</seg>
       <tuv lang="en">
         <seg>Enter "&lt;a0&gt;OmegaT&lt;/a0&gt;" in the "Name" field; in the "Command" field, use the navigation button to find your &lt;a1&gt;OmegaT&lt;/a1&gt; launch script (the file named &lt;a2&gt;OmegaT&lt;/a2&gt; in the unpacked folder).</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="maximo" changedate="20200708T053721Z" creationid="maximo" creationdate="20200419T110702Z">
-        <seg>Вставте "&lt;a0&gt;OmegaT&lt;/a0&gt;" у поле "Ім'я"; у полі "Команда" використайте кнопку Огляд, щоб знайти свій скрипт запуску &lt;a1&gt;OmegaT&lt;/a1&gt; (файл &lt;a2&gt;OmegaT&lt;/a2&gt; у розпакованій теці).</seg>
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200708T085234Z" creationid="maximo" creationdate="20200419T110702Z">
+        <seg>Вставте "&lt;a0&gt;OmegaT&lt;/a0&gt;" у поле "Ім'я"; у полі «Команда» використайте кнопку Огляд, щоб знайти свій скрипт запуску &lt;a1&gt;OmegaT&lt;/a1&gt; (файл &lt;a2&gt;OmegaT&lt;/a2&gt; у розпакованій теці).</seg>
       </tuv>
     </tu>
     <tu>
@@ -11883,8 +11883,8 @@ provided (omegat.kaptn).</seg>
       <tuv lang="en">
         <seg>For instance, if the file filter specifies UTF8 as the encoding scheme for the target files, selecting Always will ensure that this information is included in the translated files.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="Asus" changedate="20200622T041256Z" creationid="maximo" creationdate="20200413T164427Z">
-        <seg>Наприклад, якщо фільтр файлів вказує UTF-8 як систему кодування для перекладених файлів, то вибраний варіант "Завжди" гарантує те, що ця інформація буде відображена у перекладених файлах.</seg>
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200708T085200Z" creationid="maximo" creationdate="20200413T164427Z">
+        <seg>Наприклад, якщо фільтр файлів вказує UTF-8 як систему кодування для перекладених файлів, то вибраний варіант «Завжди» гарантує те, що ця інформація буде відображена у перекладених файлах.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11971,8 +11971,8 @@ provided (omegat.kaptn).</seg>
       <tuv lang="en">
         <seg>For this reason, the two commands described above are contained in a file (a "script", also called a "&lt;f0&gt;.bat&lt;/f0&gt; file" on Windows systems).</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="lesia" changedate="20200701T204333Z" creationid="maximo" creationdate="20200420T201931Z">
-        <seg>Тому ці дві команди запаковані у спеціальний файл ("скрипт", на Windows його ще називають "&lt;f0&gt;.bat&lt;/f0&gt; файлом").</seg>
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200708T085258Z" creationid="maximo" creationdate="20200420T201931Z">
+        <seg>Тому ці дві команди запаковані у спеціальний файл («скрипт», на Windows його ще називають "&lt;f0&gt;.bat&lt;/f0&gt; файлом").</seg>
       </tuv>
     </tu>
     <tu>
@@ -13172,8 +13172,8 @@ need not be entered.)</seg>
       <tuv lang="en">
         <seg>If a "command not found" or similar message is returned, it is likely that Java is not installed on your system.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="lesia" changedate="20200701T203628Z" creationid="maximo" creationdate="20200420T170251Z">
-        <seg>Якщо в результаті ви отримали "команду не знайдено" чи щось таке, - скоріш за все, у вас на комп'ютері нема Java.</seg>
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200708T085251Z" creationid="maximo" creationdate="20200420T170251Z">
+        <seg>Якщо в результаті ви отримали «команду не знайдено» чи щось таке, - скоріш за все, у вас на комп'ютері нема Java.</seg>
       </tuv>
     </tu>
     <tu>
@@ -14595,8 +14595,8 @@ click on that shortcut.</seg>
       <tuv lang="en">
         <seg>In case there are non-unique segments in source documents, the Auto-propagation check box offers the user the following two possibilities as regards automatic translation: if checked, the first translated segment will be assumed as the default translation and its target text will be automatically used for later hits during the translation process.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="lesia" changedate="20200412T202228Z" creationid="lesia" creationdate="20200412T202228Z">
-        <seg>Якщо у файлах оригіналу є сегменти, котрі повторюються, перекладач може вирішити, як йому зручніше працювати з ними. Перший варіант: якщо прапорець на функції "Автоматичне заповнення" виставлено, перший переклад сегменту, який у подільшому повторюється, буде вважатися правильним для всіх подальших ідентичних цьому сегментів і автоматично буде підставлений всюди в поле цільового тексту. </seg>
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200708T085203Z" creationid="lesia" creationdate="20200412T202228Z">
+        <seg>Якщо у файлах оригіналу є сегменти, котрі повторюються, перекладач може вирішити, як йому зручніше працювати з ними. Перший варіант: якщо прапорець на функції «Автоматичне заповнення» виставлено, перший переклад сегменту, який у подільшому повторюється, буде вважатися правильним для всіх подальших ідентичних цьому сегментів і автоматично буде підставлений всюди в поле цільового тексту. </seg>
       </tuv>
     </tu>
     <tu>
@@ -14803,8 +14803,8 @@ click on that shortcut.</seg>
       <tuv lang="en">
         <seg>In the "Command" field, use the navigation button to find your &lt;a0&gt;OmegaT&lt;/a0&gt; launch script (the file named &lt;a1&gt;OmegaT&lt;/a1&gt; in the unpacked folder), and select it.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="maximo" changedate="20200419T102543Z" creationid="maximo" creationdate="20200419T102543Z">
-        <seg>У полі "Команда" використайте кнопку Огляд, щоб знайти свій скрипт запуску &lt;a0&gt;OmegaT&lt;/a0&gt; (файл &lt;a1&gt;OmegaT&lt;/a1&gt; у розпакованій теці).</seg>
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200708T085222Z" creationid="maximo" creationdate="20200419T102543Z">
+        <seg>У полі «Команда» використайте кнопку Огляд, щоб знайти свій скрипт запуску &lt;a0&gt;OmegaT&lt;/a0&gt; (файл &lt;a1&gt;OmegaT&lt;/a1&gt; у розпакованій теці).</seg>
       </tuv>
     </tu>
     <tu>
@@ -14835,8 +14835,8 @@ click on that shortcut.</seg>
       <tuv lang="en">
         <seg>In the Exclusion patterns dialog, it is possible to Add or Remove a pattern, or edit one by selecting a line and pressing F2.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="maximo" changedate="20200511T194701Z" creationid="lesia" creationdate="20200420T194925Z">
-        <seg>У діалозі "Шаблони для виключення" можна додавати чи видаляти шаблони або змінювати їх (для цього треба вибрати рядок та натиснути F2).</seg>
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200708T085205Z" creationid="lesia" creationdate="20200420T194925Z">
+        <seg>У діалозі «Шаблони для виключення» можна додавати чи видаляти шаблони або змінювати їх (для цього треба вибрати рядок та натиснути F2).</seg>
       </tuv>
     </tu>
     <tu>
@@ -28298,8 +28298,8 @@ in /lib/licenses/Licenses.txt.</seg>
       <tuv lang="en">
         <seg>The permissions you give to this version (which may appear as "unrestricted access to the computer") are identical to the permissions you give to the local version, i.e., they allow access to the hard drive of the computer.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="maximo" changedate="20200420T195001Z" creationid="maximo" creationdate="20200420T195001Z">
-        <seg>Для встановлення цієї версії ваша система може просити у вас "необмеженого доступу до комп'ютера". Але мається на увазі той самий дозвіл, що і для встановлення звичайної версії OmegaT, тобто доступ до жорстокого диску.</seg>
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200708T085256Z" creationid="maximo" creationdate="20200420T195001Z">
+        <seg>Для встановлення цієї версії ваша система може просити у вас «необмеженого доступу до комп'ютера». Але мається на увазі той самий дозвіл, що і для встановлення звичайної версії OmegaT, тобто доступ до жорстокого диску.</seg>
       </tuv>
     </tu>
     <tu>
@@ -33168,8 +33168,8 @@ of selecting, obtaining and installing it.</seg>
       <tuv lang="en">
         <seg>Whenever you finish a project, copy one of the three "export" translation memory files from the root folder of the project to the repository folder.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="lesia" changedate="20200705T055050Z" creationid="lesia" creationdate="20200705T054621Z">
-        <seg>Коли ви закінчили проєкт, скопіюйте один із трьох файлів для "експорту" памʼяті перекладів з кореневої теки проєкту до цієї теки репозиторію.</seg>
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200708T085208Z" creationid="lesia" creationdate="20200705T054621Z">
+        <seg>Коли ви закінчили проєкт, скопіюйте один із трьох файлів для «експорту» памʼяті перекладів з кореневої теки проєкту до цієї теки репозиторію.</seg>
       </tuv>
     </tu>
     <tu>
@@ -34028,8 +34028,8 @@ start menu, the desktop or the quick launch area to link it from there.</seg>
       <tuv lang="en">
         <seg>You can either copy files manually, i.e. from elsewhere on your system, using your file manager; or you can use OmegaT's &lt;e0&gt;"Install new dictionary"&lt;/e0&gt; function to provide a list of available dictionaries to select from.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="lesia" changedate="20200628T140655Z" creationid="maximo" creationdate="20200411T105401Z">
-        <seg>Ви можете або вручну скопіювати їх з будь-якого місця вашої системи за допомогою файлового менеджера, або ж скористатися функцією OmegaT &lt;e0&gt;"Установити новий словник"&lt;/e0&gt;, яка запропонує вам вибірку словників.</seg>
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200708T085156Z" creationid="maximo" creationdate="20200411T105401Z">
+        <seg>Ви можете або вручну скопіювати їх з будь-якого місця вашої системи за допомогою файлового менеджера, або ж скористатися функцією OmegaT &lt;e0&gt;«Установити новий словник»&lt;/e0&gt;, яка запропонує вам вибірку словників.</seg>
       </tuv>
     </tu>
     <tu>
