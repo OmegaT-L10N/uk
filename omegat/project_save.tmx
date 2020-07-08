@@ -2387,8 +2387,8 @@ The current setting is {0}MB;</seg>
       <tuv lang="en">
         <seg>&lt;a0&gt;OmegaT&lt;/a0&gt; remembers the segments executed.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="maximo" changedate="20200425T134613Z" creationid="maximo" creationdate="20200425T134613Z">
-        <seg>&lt;a0&gt;OmegaT&lt;/a0&gt; запам'ятовує порядок відвідування сегментів.</seg>
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200708T101747Z" creationid="maximo" creationdate="20200425T134613Z">
+        <seg>&lt;a0&gt;OmegaT&lt;/a0&gt; запам’ятовує порядок відвідування сегментів.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2539,8 +2539,8 @@ The current setting is {0}MB;</seg>
       <tuv lang="en">
         <seg>&lt;e0&gt;&lt;l1&gt;-Xmx&lt;p2&gt;??&lt;/p2&gt;M&lt;/l1&gt;&lt;/e0&gt;This command assigns more memory to &lt;a3&gt;OmegaT&lt;/a3&gt;.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="lesia" changedate="20200708T095823Z" creationid="maximo" creationdate="20200421T163427Z">
-        <seg>&lt;e0&gt;&lt;l1&gt;-Xmx&lt;p2&gt;??&lt;/p2&gt;M&lt;/l1&gt;&lt;/e0&gt; цим параметром можна виділити більше оперативної памʼяті для &lt;a3&gt;OmegaT&lt;/a3&gt;.</seg>
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200708T101733Z" creationid="maximo" creationdate="20200421T163427Z">
+        <seg>&lt;e0&gt;&lt;l1&gt;-Xmx&lt;p2&gt;??&lt;/p2&gt;M&lt;/l1&gt;&lt;/e0&gt; цим параметром можна виділити більше оперативної пам’яті для &lt;a3&gt;OmegaT&lt;/a3&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2974,8 +2974,8 @@ The current setting is {0}MB;</seg>
       <tuv lang="en">
         <seg>&lt;g0&gt;LanguageTool Issues&lt;/g0&gt; (optional).</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="maximo" changedate="20200425T150340Z" creationid="maximo" creationdate="20200425T150340Z">
-        <seg>&lt;g0&gt;Проблеми, знайдені LanguageTool&lt;/g0&gt; (необов'язковий).</seg>
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200708T101755Z" creationid="maximo" creationdate="20200425T150340Z">
+        <seg>&lt;g0&gt;Проблеми, знайдені LanguageTool&lt;/g0&gt; (необов’язковий).</seg>
       </tuv>
     </tu>
     <tu>
@@ -2990,16 +2990,16 @@ The current setting is {0}MB;</seg>
       <tuv lang="en">
         <seg>&lt;g0&gt;Spelling Issues&lt;/g0&gt; (optional).</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="maximo" changedate="20200425T150207Z" creationid="maximo" creationdate="20200425T150207Z">
-        <seg>&lt;g0&gt;Проблеми з правописом&lt;/g0&gt; (необов'язковий).</seg>
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200708T101752Z" creationid="maximo" creationdate="20200425T150207Z">
+        <seg>&lt;g0&gt;Проблеми з правописом&lt;/g0&gt; (необов’язковий).</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>&lt;g0&gt;Terminology Issues&lt;/g0&gt; (optional).</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="maximo" changedate="20200425T150319Z" creationid="maximo" creationdate="20200425T150319Z">
-        <seg>&lt;g0&gt;Проблеми термінології&lt;/g0&gt; (необов'язковий).</seg>
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200708T101753Z" creationid="maximo" creationdate="20200425T150319Z">
+        <seg>&lt;g0&gt;Проблеми термінології&lt;/g0&gt; (необов’язковий).</seg>
       </tuv>
     </tu>
     <tu>
@@ -3383,8 +3383,8 @@ The current setting is {0}MB;</seg>
       <tuv lang="en">
         <seg>&lt;p4&gt;??&lt;/p4&gt; stands for the amount of memory assigned, in megabytes.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="maximo" changedate="20200421T163801Z" creationid="maximo" creationdate="20200421T163801Z">
-        <seg>&lt;p4&gt;??&lt;/p4&gt; відповідає кількості виділеної памʼяті у мегабайтах.</seg>
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200708T101734Z" creationid="maximo" creationdate="20200421T163801Z">
+        <seg>&lt;p4&gt;??&lt;/p4&gt; відповідає кількості виділеної пам’яті у мегабайтах.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6051,8 +6051,8 @@ Buy another drink</seg>
       <tuv lang="en">
         <seg>By default, 1024 MB are assigned, so there is no advantage in assigning less than this figure.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="maximo" changedate="20200421T163728Z" creationid="maximo" creationdate="20200421T163728Z">
-        <seg>За замовчуванням виділяється 1024 MB, тому виділення меншої кількості пам'яті ніяк не збільшить можливості програми.</seg>
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200708T101733Z" creationid="maximo" creationdate="20200421T163728Z">
+        <seg>За замовчуванням виділяється 1024 MB, тому виділення меншої кількості пам’яті ніяк не збільшить можливості програми.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6795,8 +6795,8 @@ Buy another drink</seg>
       <tuv lang="en">
         <seg>Check this option in case &lt;a0&gt;OmegaT&lt;/a0&gt; does not display some glyphs properly (even if the fonts containing the relevant glyphs are installed on your machine).</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="Asus" changedate="20200704T100840Z" creationid="maximo" creationdate="20200425T154048Z">
-        <seg>Виберіть цей параметр, якщо &lt;a0&gt;OmegaT&lt;/a0&gt; не відображає правильно певні символи (навіть якщо ці символи є у шрифтах, що встановлені на комп'ютері).</seg>
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200708T101802Z" creationid="maximo" creationdate="20200425T154048Z">
+        <seg>Виберіть цей параметр, якщо &lt;a0&gt;OmegaT&lt;/a0&gt; не відображає правильно певні символи (навіть якщо ці символи є у шрифтах, що встановлені на комп’ютері).</seg>
       </tuv>
     </tu>
     <tu>
@@ -7051,8 +7051,8 @@ Buy another drink</seg>
       <tuv lang="en">
         <seg>Click on the icon button (to the right of the Name/Description/Comment fields)</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="maximo" changedate="20200419T105151Z" creationid="maximo" creationdate="20200419T105151Z">
-        <seg>Натисніть на кнопку додавання іконки (справа від полів Ім'я/Опис/Коментар)</seg>
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200708T101711Z" creationid="maximo" creationdate="20200419T105151Z">
+        <seg>Натисніть на кнопку додавання іконки (справа від полів «Ім’я/Опис/Коментар»)</seg>
       </tuv>
     </tu>
     <tu>
@@ -10289,16 +10289,16 @@ Your help page not found</seg>
       <tuv lang="en">
         <seg>Enter "&lt;a0&gt;OmegaT&lt;/a0&gt;" in the "Name" field; in the "Command" field, use the navigation button to find your &lt;a1&gt;OmegaT&lt;/a1&gt; launch script (the file named &lt;a2&gt;OmegaT&lt;/a2&gt; in the unpacked folder).</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="lesia" changedate="20200708T091708Z" creationid="maximo" creationdate="20200419T110702Z">
-        <seg>Вставте «&lt;a0&gt;OmegaT&lt;/a0&gt;» у поле «Ім'я»; у полі «Команда» використайте кнопку Огляд, щоб знайти свій скрипт запуску &lt;a1&gt;OmegaT&lt;/a1&gt; (файл &lt;a2&gt;OmegaT&lt;/a2&gt; у розпакованій теці).</seg>
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200708T101717Z" creationid="maximo" creationdate="20200419T110702Z">
+        <seg>Вставте «&lt;a0&gt;OmegaT&lt;/a0&gt;» у поле «Ім’я»; у полі «Команда» використайте кнопку Огляд, щоб знайти свій скрипт запуску &lt;a1&gt;OmegaT&lt;/a1&gt; (файл &lt;a2&gt;OmegaT&lt;/a2&gt; у розпакованій теці).</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>Enter &lt;a2&gt;OmegaT&lt;/a2&gt; as the name of the new item.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="maximo" changedate="20200419T102352Z" creationid="maximo" creationdate="20200419T102312Z">
-        <seg>Вставте &lt;a2&gt;OmegaT&lt;/a2&gt; як ім'я нового елемента.</seg>
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200708T101654Z" creationid="maximo" creationdate="20200419T102312Z">
+        <seg>Вставте &lt;a2&gt;OmegaT&lt;/a2&gt; як ім’я нового елемента.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13284,8 +13284,8 @@ need not be entered.)</seg>
       <tuv lang="en">
         <seg>If a "command not found" or similar message is returned, it is likely that Java is not installed on your system.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="lesia" changedate="20200708T094133Z" creationid="maximo" creationdate="20200420T170251Z">
-        <seg>Якщо в результаті ви отримали «команду не знайдено» чи щось таке, — скоріш за все, у вас на комп'ютері нема Java.</seg>
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200708T101725Z" creationid="maximo" creationdate="20200420T170251Z">
+        <seg>Якщо в результаті ви отримали «команду не знайдено» чи щось таке, — скоріш за все, у вас на комп’ютері нема Java.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13667,8 +13667,8 @@ their defaults as a result of the location change.</seg>
       <tuv lang="en">
         <seg>If some texts are selected within the fuzzy match, only this selection will replace the whole target segment.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="lesia" changedate="20200702T194638Z" creationid="lesia" creationdate="20200425T134451Z">
-        <seg>Якщо виділити частину нечіткого збігу і вибрати відповідний пункт контекстного меню, яке з'явиться при натисканні правою клавішою миші, це виділення замінить увесь сегмент перекладу.</seg>
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200708T101744Z" creationid="lesia" creationdate="20200425T134451Z">
+        <seg>Якщо виділити частину нечіткого збігу і вибрати відповідний пункт контекстного меню, яке з’явиться при натисканні правою клавішою миші, це виділення замінить увесь сегмент перекладу.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13973,8 +13973,8 @@ their defaults as a result of the location change.</seg>
       <tuv lang="en">
         <seg>If you already have a version of OmegaT installed on your PC and wish to upgrade to a more recent version, you have two options:</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="maximo" changedate="20200419T071134Z" creationid="maximo" creationdate="20200419T071134Z">
-        <seg>Якщо у вас на комп'ютері вже встановлена версія OmegaT, і ви хочете оновити її до новішої, у вас є два варіанта:</seg>
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200708T101647Z" creationid="maximo" creationdate="20200419T071134Z">
+        <seg>Якщо у вас на комп’ютері вже встановлена версія OmegaT, і ви хочете оновити її до новішої, у вас є два варіанта:</seg>
       </tuv>
     </tu>
     <tu>
@@ -14119,8 +14119,8 @@ Explorer), change the settings so that file extensions are displayed.</seg>
       <tuv lang="en">
         <seg>If you can't run &lt;a0&gt;OmegaT&lt;/a0&gt; normally (no graphical environment available): copy the settings files from some other &lt;a1&gt;OmegaT&lt;/a1&gt; installation on another machine to a specific folder.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="lesia" changedate="20200708T094145Z" creationid="maximo" creationdate="20200423T153624Z">
-        <seg>Якщо ж ви не можете запустити &lt;a0&gt;OmegaT&lt;/a0&gt; нормальним чином (нема графічного середовища) — скопіюйте налаштування &lt;a1&gt;OmegaT&lt;/a1&gt; з іншого комп'ютера у певну теку.</seg>
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200708T101736Z" creationid="maximo" creationdate="20200423T153624Z">
+        <seg>Якщо ж ви не можете запустити &lt;a0&gt;OmegaT&lt;/a0&gt; нормальним чином (нема графічного середовища) — скопіюйте налаштування &lt;a1&gt;OmegaT&lt;/a1&gt; з іншого комп’ютера у певну теку.</seg>
       </tuv>
     </tu>
     <tu>
@@ -14329,8 +14329,8 @@ to use Java Web Start.</seg>
       <tuv lang="en">
         <seg>If you place such translation memory files in the &lt;f6&gt;/tm/&lt;/f6&gt; subfolder of a project, OmegaT will automatically search them for similar segments, called "fuzzy matches".</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="maximo" changedate="20200614T155552Z" creationid="Kos Ivantsov" creationdate="20190822T203728Z">
-        <seg>Якщо покласти файл памʼяті до підтеки для файлів пам’яті перекладів (підтека &lt;f6&gt;tm&lt;/f6&gt; у типовій конфігурації), OmegaT автоматично шукатиме схожі сегменти (так звані «нечіткі збіги»).</seg>
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200708T101743Z" creationid="Kos Ivantsov" creationdate="20190822T203728Z">
+        <seg>Якщо покласти файл пам’яті до підтеки для файлів пам’яті перекладів (підтека &lt;f6&gt;tm&lt;/f6&gt; у типовій конфігурації), OmegaT автоматично шукатиме схожі сегменти (так звані «нечіткі збіги»).</seg>
       </tuv>
     </tu>
     <tu>
@@ -14667,8 +14667,8 @@ click on that shortcut.</seg>
       <tuv lang="en">
         <seg>In addition, when the right click occurs on an opened segment, other options concerning &lt;e12&gt;Alternative translations&lt;/e12&gt; are proposed, for example to to jump to another instance of non-unique segments.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="maximo" changedate="20200702T195930Z" creationid="maximo" creationdate="20200501T201751Z">
-        <seg>Для активного сегмента будуть доступні додаткові команди, пов'язані з &lt;e12&gt;Варіантами перекладу&lt;/e12&gt;. Наприклад, перехід до іншого повтору цього сегмента.</seg>
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200708T101804Z" creationid="maximo" creationdate="20200501T201751Z">
+        <seg>Для активного сегмента будуть доступні додаткові команди, пов’язані з &lt;e12&gt;Варіантами перекладу&lt;/e12&gt;. Наприклад, перехід до іншого повтору цього сегмента.</seg>
       </tuv>
     </tu>
     <tu>
@@ -15075,8 +15075,8 @@ click on that shortcut.</seg>
       <tuv lang="en">
         <seg>In this mode, "&lt;g1&gt;Cursor lock off&lt;/g1&gt;" is displayed at the bottom of the pane.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="maximo" changedate="20200614T162446Z" creationid="maximo" creationdate="20200501T203001Z">
-        <seg>В цьому режимі внизу панелі з'явиться повідомлення &lt;g1&gt;Курсор розблоковано&lt;/g1&gt;.</seg>
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200708T101805Z" creationid="maximo" creationdate="20200501T203001Z">
+        <seg>В цьому режимі внизу панелі з’явиться повідомлення &lt;g1&gt;Курсор розблоковано&lt;/g1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -15099,8 +15099,8 @@ click on that shortcut.</seg>
       <tuv lang="en">
         <seg>In this mode, OmegaT will attempt to translate the files in &lt;f0&gt;/source/&lt;/f0&gt; with the available translation memories.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="maximo" changedate="20200423T154926Z" creationid="maximo" creationdate="20200423T154926Z">
-        <seg>У цьому режимі OmegaT намагається перекласти файли із теки &lt;f0&gt;/source/&lt;/f0&gt; з використанням доступної памʼяті перекладів.</seg>
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200708T101737Z" creationid="maximo" creationdate="20200423T154926Z">
+        <seg>У цьому режимі OmegaT намагається перекласти файли із теки &lt;f0&gt;/source/&lt;/f0&gt; з використанням доступної пам’яті перекладів.</seg>
       </tuv>
     </tu>
     <tu>
@@ -16697,8 +16697,8 @@ itself on the first run.</seg>
       <tuv lang="en">
         <seg>Launches scripts that have been associated with a number.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="maximo" changedate="20200425T152044Z" creationid="maximo" creationdate="20200425T152044Z">
-        <seg>Запускає скрипти, що були прив'язані до числа.</seg>
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200708T101800Z" creationid="maximo" creationdate="20200425T152044Z">
+        <seg>Запускає скрипти, що були прив’язані до числа.</seg>
       </tuv>
     </tu>
     <tu>
@@ -17309,16 +17309,16 @@ itself on the first run.</seg>
       <tuv lang="en">
         <seg>Make sure that your &lt;v1&gt;PATH&lt;/v1&gt; settings are correct and that &lt;f2&gt;.jar&lt;/f2&gt; files are properly associated with a Java launcher.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="maximo" changedate="20200420T162403Z" creationid="maximo" creationdate="20200420T162403Z">
-        <seg>Перевірте, щоб налаштування &lt;v1&gt;PATH&lt;/v1&gt; були правильні, та щоб файли &lt;f2&gt;.jar&lt;/f2&gt; були правильно прив'язані до запуску через середовище Java.</seg>
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200708T101719Z" creationid="maximo" creationdate="20200420T162403Z">
+        <seg>Перевірте, щоб налаштування &lt;v1&gt;PATH&lt;/v1&gt; були правильні, та щоб файли &lt;f2&gt;.jar&lt;/f2&gt; були правильно прив’язані до запуску через середовище Java.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>Make sure that your &lt;v2&gt;PATH&lt;/v2&gt; settings are correct and that &lt;f3&gt;.jar&lt;/f3&gt; files are properly associated with a Java launcher.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="maximo" changedate="20200420T171106Z" creationid="maximo" creationdate="20200420T171106Z">
-        <seg>Перевірте, щоб налаштування &lt;v2&gt;PATH&lt;/v2&gt; були правильні, та щоб файли &lt;f3&gt;.jar&lt;/f3&gt; були правильно прив'язані до запуску через середовище Java.</seg>
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200708T101727Z" creationid="maximo" creationdate="20200420T171106Z">
+        <seg>Перевірте, щоб налаштування &lt;v2&gt;PATH&lt;/v2&gt; були правильні, та щоб файли &lt;f3&gt;.jar&lt;/f3&gt; були правильно прив’язані до запуску через середовище Java.</seg>
       </tuv>
     </tu>
     <tu>
@@ -17757,8 +17757,8 @@ itself on the first run.</seg>
       <tuv lang="en">
         <seg>Memory assignment</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="maximo" changedate="20200421T163351Z" creationid="maximo" creationdate="20200421T163351Z">
-        <seg>Виділення памʼяті</seg>
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200708T101732Z" creationid="maximo" creationdate="20200421T163351Z">
+        <seg>Виділення пам’яті</seg>
       </tuv>
     </tu>
     <tu>
@@ -18204,8 +18204,8 @@ as the Applications folder.</seg>
       <tuv lang="en">
         <seg>Moves to the next segment that has no equivalent in the translation memory.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="lesia" changedate="20200702T202922Z" creationid="maximo" creationdate="20200425T133424Z">
-        <seg>Перейти до наступного сегмента, якому немає відповідника у памʼяті перекладів.</seg>
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200708T101745Z" creationid="maximo" creationdate="20200425T133424Z">
+        <seg>Перейти до наступного сегмента, якому немає відповідника у пам’яті перекладів.</seg>
       </tuv>
     </tu>
     <tu>
@@ -18444,8 +18444,8 @@ as the Applications folder.</seg>
       <tuv lang="en">
         <seg>New translation memories placed in the &lt;f0&gt;/tm&lt;/f0&gt; folder while translating are loaded automatically as soon as the cursor moves from one segment to another.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="Asus" changedate="20200703T092858Z" creationid="maximo" creationdate="20200425T143659Z">
-        <seg>Нові файли памʼяті перекладів, що були додані до теки &lt;f0&gt;/tm&lt;/f0&gt;, стають доступні відразу, без перезавантаження. Достатньо перейти від одного сегмента до іншого.</seg>
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200708T101750Z" creationid="maximo" creationdate="20200425T143659Z">
+        <seg>Нові файли пам’яті перекладів, що були додані до теки &lt;f0&gt;/tm&lt;/f0&gt;, стають доступні відразу, без перезавантаження. Достатньо перейти від одного сегмента до іншого.</seg>
       </tuv>
     </tu>
     <tu>
@@ -20584,8 +20584,8 @@ installed on your system.</seg>
       <tuv lang="en">
         <seg>Opens the &lt;l0&gt;&lt;g1&gt;Scripting&lt;/g1&gt; window&lt;/l0&gt;, where the location of scripts can be set, and where scripts can be written, run and associated with a shortcut.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="maximo" changedate="20200702T175447Z" creationid="maximo" creationdate="20200425T151947Z">
-        <seg>Відкриває &lt;l0&gt;вікно &lt;g1&gt;Скрипти&lt;/g1&gt;&lt;/l0&gt;, де можна вказати теку для скриптів, писати власні скрипти, запускати їх чи прив'язувати до комбінації клавіш.</seg>
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200708T101759Z" creationid="maximo" creationdate="20200425T151947Z">
+        <seg>Відкриває &lt;l0&gt;вікно &lt;g1&gt;Скрипти&lt;/g1&gt;&lt;/l0&gt;, де можна вказати теку для скриптів, писати власні скрипти, запускати їх чи прив’язувати до комбінації клавіш.</seg>
       </tuv>
     </tu>
     <tu>
@@ -23851,8 +23851,8 @@ These words: 'Page not found'</seg>
       <tuv lang="en">
         <seg>Saves the internal translation memory to the hard disk.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="maximo" changedate="20200425T143741Z" creationid="maximo" creationdate="20200425T143741Z">
-        <seg>Зберегти внутрішню памʼять перекладів на жорсткий диск.</seg>
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200708T101751Z" creationid="maximo" creationdate="20200425T143741Z">
+        <seg>Зберегти внутрішню пам’ять перекладів на жорсткий диск.</seg>
       </tuv>
     </tu>
     <tu>
@@ -27169,8 +27169,8 @@ current folder will be used instead.</seg>
       <tuv lang="en">
         <seg>The KMenuEditor appears.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="maximo" changedate="20200419T094405Z" creationid="maximo" creationdate="20200419T094405Z">
-        <seg>З'явиться KMenuEditor.</seg>
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200708T101649Z" creationid="maximo" creationdate="20200419T094405Z">
+        <seg>З’явиться KMenuEditor.</seg>
       </tuv>
     </tu>
     <tu>
@@ -27403,8 +27403,8 @@ Please try to correct the error and reload the project.</seg>
       <tuv lang="en">
         <seg>The application runs on your machine only.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="maximo" changedate="20200420T195720Z" creationid="maximo" creationdate="20200420T195720Z">
-        <seg>Програма працює лише на вашому комп'ютері.</seg>
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200708T101729Z" creationid="maximo" creationdate="20200420T195720Z">
+        <seg>Програма працює лише на вашому комп’ютері.</seg>
       </tuv>
     </tu>
     <tu>
@@ -27571,8 +27571,8 @@ Please try to correct the error and reload the project.</seg>
       <tuv lang="en">
         <seg>The command to launch &lt;a5&gt;OmegaT&lt;/a5&gt; with assignment of 2048 MB (2 GB) of memory is therefore:</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="maximo" changedate="20200421T163851Z" creationid="maximo" creationdate="20200421T163851Z">
-        <seg>Таким чином, команда для запуску &lt;a5&gt;OmegaT&lt;/a5&gt; із 2048 MB (2 GB) памʼяті буде виглядати так:</seg>
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200708T101735Z" creationid="maximo" creationdate="20200421T163851Z">
+        <seg>Таким чином, команда для запуску &lt;a5&gt;OmegaT&lt;/a5&gt; із 2048 MB (2 GB) пам’яті буде виглядати так:</seg>
       </tuv>
     </tu>
     <tu>
@@ -27928,8 +27928,8 @@ instead.</seg>
       <tuv lang="en">
         <seg>The following example for the INI file reserves 1 GB of memory, requests French as the user language and Canada as the country:</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="lesia" changedate="20200708T094122Z" creationid="maximo" creationdate="20200418T130825Z">
-        <seg>Ось цей INI файл, наприклад, резервує 1 GB памʼяті, виставляє як мову інтерфейсу французьку, а як країну — Канаду:</seg>
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200708T101641Z" creationid="maximo" creationdate="20200418T130825Z">
+        <seg>Ось цей INI файл, наприклад, резервує 1 GB пам’яті, виставляє як мову інтерфейсу французьку, а як країну — Канаду:</seg>
       </tuv>
     </tu>
     <tu>
@@ -28234,8 +28234,8 @@ in /lib/licenses/Licenses.txt.</seg>
       <tuv lang="en">
         <seg>The match viewer shows the most similar segments from translation memories, both from internal project translation memory created in real time as you translate your project and from ancillary translation memories you have imported from your earlier jobs, or received from your client or translation agency.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="maximo" changedate="20200702T200249Z" creationid="maximo" creationdate="20200501T203818Z">
-        <seg>Область нечітких збігів показує найбільш схожі сегменти з памʼяті перекладів. Це може бути як внутрішня памʼять перекладів проєкту, що наповнюється в режимі реального часу, коли ви перекладаєте, так і вторинна памʼять перекладів, імпортована з ваших попередніх проєктів, отримана від клієнта чи бюро перекладів.</seg>
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200708T101810Z" creationid="maximo" creationdate="20200501T203818Z">
+        <seg>Область нечітких збігів показує найбільш схожі сегменти з пам’яті перекладів. Це може бути як внутрішня пам’ять перекладів проєкту, що наповнюється в режимі реального часу, коли ви перекладаєте, так і вторинна пам’ять перекладів, імпортована з ваших попередніх проєктів, отримана від клієнта чи бюро перекладів.</seg>
       </tuv>
     </tu>
     <tu>
@@ -28266,8 +28266,8 @@ in /lib/licenses/Licenses.txt.</seg>
       <tuv lang="en">
         <seg>The memory named &lt;f5&gt;omegat&lt;/f5&gt; can be used by OmegaT itself, in future projects that you create.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20190822T203506Z" creationid="Kos Ivantsov" creationdate="20190822T203506Z">
-        <seg>Файл памʼяті, що містить в імені &lt;f5&gt;omegat&lt;/f5&gt;, можна використовувати в OmegaT у майбутніх проєктах.</seg>
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200708T101742Z" creationid="Kos Ivantsov" creationdate="20190822T203506Z">
+        <seg>Файл пам’яті, що містить в імені &lt;f5&gt;omegat&lt;/f5&gt;, можна використовувати в OmegaT у майбутніх проєктах.</seg>
       </tuv>
     </tu>
     <tu>
@@ -28418,8 +28418,8 @@ in /lib/licenses/Licenses.txt.</seg>
       <tuv lang="en">
         <seg>The permissions you give to this version (which may appear as "unrestricted access to the computer") are identical to the permissions you give to the local version, i.e., they allow access to the hard drive of the computer.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="lesia" changedate="20200708T085256Z" creationid="maximo" creationdate="20200420T195001Z">
-        <seg>Для встановлення цієї версії ваша система може просити у вас «необмеженого доступу до комп'ютера». Але мається на увазі той самий дозвіл, що і для встановлення звичайної версії OmegaT, тобто доступ до жорстокого диску.</seg>
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200708T101728Z" creationid="maximo" creationdate="20200420T195001Z">
+        <seg>Для встановлення цієї версії ваша система може просити у вас «необмеженого доступу до комп’ютера». Але мається на увазі той самий дозвіл, що і для встановлення звичайної версії OmegaT, тобто доступ до жорстокого диску.</seg>
       </tuv>
     </tu>
     <tu>
@@ -29077,8 +29077,8 @@ in /lib/licenses/Licenses.txt.</seg>
       <tuv lang="en">
         <seg>The title of the dialog reflects the file actually used (which depends on how many instances of OmegaT are running concurrently).</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="lesia" changedate="20200702T204258Z" creationid="maximo" creationdate="20200423T183310Z">
-        <seg>У заголовку цього діалогу можна побачити ім'я файлу, в який ведеться запис. Це може бути корисно, якщо ви запускаєте кілька OmegaT паралельно.</seg>
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200708T101748Z" creationid="maximo" creationdate="20200423T183310Z">
+        <seg>У заголовку цього діалогу можна побачити ім’я файлу, в який ведеться запис. Це може бути корисно, якщо ви запускаєте кілька OmegaT паралельно.</seg>
       </tuv>
     </tu>
     <tu>
@@ -30300,8 +30300,8 @@ the server.</seg>
       <tuv lang="en">
         <seg>This will launch OmegaT with 6 GB of memory; change the &lt;l4&gt;6g&lt;/l4&gt; to the desired amount.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="maximo" changedate="20200420T164711Z" creationid="maximo" creationdate="20200420T164711Z">
-        <seg>Це вказує OmegaT запускатися із 6 GB оперативної памʼяті. Ви можете змінити &lt;l4&gt;6g&lt;/l4&gt; на потрібне вам значення.</seg>
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200708T101723Z" creationid="maximo" creationdate="20200420T164711Z">
+        <seg>Це вказує OmegaT запускатися із 6 GB оперативної пам’яті. Ви можете змінити &lt;l4&gt;6g&lt;/l4&gt; на потрібне вам значення.</seg>
       </tuv>
     </tu>
     <tu>
@@ -30428,8 +30428,8 @@ the server.</seg>
       <tuv lang="en">
         <seg>To associate a script with a number:</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="Asus" changedate="20200703T120113Z" creationid="maximo" creationdate="20200425T152103Z">
-        <seg>Щоб прив'язати скрипт до числа, необхідно:</seg>
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200708T101801Z" creationid="maximo" creationdate="20200425T152103Z">
+        <seg>Щоб прив’язати скрипт до числа, необхідно:</seg>
       </tuv>
     </tu>
     <tu>
@@ -30479,8 +30479,8 @@ the server.</seg>
       <tuv lang="en">
         <seg>To change the amount of memory available, edit &lt;e0&gt;OmegaT.app/Contents/Info.plist&lt;/e0&gt; file and un-comment the line &lt;l1&gt;&lt;!-- &lt;string&gt;-Xmx6g&lt;/string&gt; --&gt;&lt;/l1&gt; by removing the &lt;l2&gt;&lt;!--&lt;/l2&gt; and &lt;l3&gt;--&gt;&lt;/l3&gt;.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="lesia" changedate="20200708T095823Z" creationid="maximo" creationdate="20200420T164604Z">
-        <seg>Щоб змінити кількість доступної памʼяті, відредагуйте файл &lt;e0&gt;OmegaT.app/Contents/Info.plist&lt;/e0&gt; та розкоментуйте рядок &lt;l1&gt;&lt;!-- &lt;string&gt;-Xmx6g&lt;/string&gt; --&gt;&lt;/l1&gt; — заберіть &lt;l2&gt;&lt;!--&lt;/l2&gt; та &lt;l3&gt;--&gt;&lt;/l3&gt;.</seg>
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200708T101722Z" creationid="maximo" creationdate="20200420T164604Z">
+        <seg>Щоб змінити кількість доступної пам’яті, відредагуйте файл &lt;e0&gt;OmegaT.app/Contents/Info.plist&lt;/e0&gt; та розкоментуйте рядок &lt;l1&gt;&lt;!-- &lt;string&gt;-Xmx6g&lt;/string&gt; --&gt;&lt;/l1&gt; — заберіть &lt;l2&gt;&lt;!--&lt;/l2&gt; та &lt;l3&gt;--&gt;&lt;/l3&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -34540,8 +34540,8 @@ window to be able to launch it from any location.</seg>
       <tuv lang="en">
         <seg>Your documents and translation memories remain on your computer, and the &lt;a2&gt;OmegaT&lt;/a2&gt; project will have no access to your work or information.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="maximo" changedate="20200511T200214Z" creationid="maximo" creationdate="20200420T195736Z">
-        <seg>Ваші документи та ваша памʼять перекладів залишаються у вас на комп'ютері. Проєкт &lt;a2&gt;OmegaT&lt;/a2&gt; не має доступу до результатів вашої роботи чи ваших даних.</seg>
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200708T101731Z" creationid="maximo" creationdate="20200420T195736Z">
+        <seg>Ваші документи та ваша пам’ять перекладів залишаються у вас на комп’ютері. Проєкт &lt;a2&gt;OmegaT&lt;/a2&gt; не має доступу до результатів вашої роботи чи ваших даних.</seg>
       </tuv>
     </tu>
     <tu>
@@ -36377,8 +36377,8 @@ create its configuration folder.</seg>
       <tuv lang="en">
         <seg>n - (script name)</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="lesia" changedate="20200708T094151Z" creationid="maximo" creationdate="20200425T152001Z">
-        <seg>n — (ім'я скрипта)</seg>
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200708T101759Z" creationid="maximo" creationdate="20200425T152001Z">
+        <seg>n — (ім’я скрипта)</seg>
       </tuv>
     </tu>
     <tu>
@@ -36977,8 +36977,8 @@ create its configuration folder.</seg>
       <tuv lang="en">
         <seg>selecting or moving the mouse over a row displays a pop-up menu icon in the last column containing actions for correcting or ignoring the error.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="maximo" changedate="20200425T150802Z" creationid="maximo" creationdate="20200425T150802Z">
-        <seg>виберіть, чи наведіть мишку на рядок, щоб у останній колонці з'явилася іконка із контекстним меню, що дозволяє виправити чи ігнорувати помилку.</seg>
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200708T101755Z" creationid="maximo" creationdate="20200425T150802Z">
+        <seg>виберіть, чи наведіть мишку на рядок, щоб у останній колонці з’явилася іконка із контекстним меню, що дозволяє виправити чи ігнорувати помилку.</seg>
       </tuv>
     </tu>
     <tu>
