@@ -7815,8 +7815,8 @@ Buy another drink</seg>
       <tuv lang="en">
         <seg>Copy the translation memories, containing the translations of the documents above, into &lt;f0&gt;tm/auto&lt;/f0&gt; subfolder of the new project.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="lesia" changedate="20200708T102525Z" creationid="lesia" creationdate="20200705T054424Z">
-        <seg>Скопіюйте пам’ять перекладів, що містить потрібні переклади, у підтеку &lt;f0&gt;tm/auto&lt;/f0&gt; нового проєкту.</seg>
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200708T103106Z" creationid="lesia" creationdate="20200705T054424Z">
+        <seg>Скопіюйте пам’ять перекладів, що містить потрібні переклади, у підтеку &lt;f0&gt;./tm/auto&lt;/f0&gt; нового проєкту.</seg>
       </tuv>
     </tu>
     <tu>
