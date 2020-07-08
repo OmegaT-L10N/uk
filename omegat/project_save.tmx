@@ -18623,8 +18623,8 @@ as the Applications folder.</seg>
       <tuv lang="en">
         <seg>No glossary file found in the "glossary" folder.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="lesia" changedate="20200708T085632Z" creationid="lesia" creationdate="20200505T203006Z">
-        <seg>Не знайдено файлів глосарія у теці glossary.</seg>
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200708T103153Z" creationid="lesia" creationdate="20200505T203006Z">
+        <seg>Не знайдено файлів глосарія у теці ./glossary.</seg>
       </tuv>
     </tu>
     <tu>
@@ -28202,8 +28202,8 @@ in /lib/licenses/Licenses.txt.</seg>
       <tuv lang="en">
         <seg>The location of the writable glossary file can be set in the &lt;g0&gt;Project &gt; Properties ... &lt;/g0&gt;dialog.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="lesia" changedate="20200616T203841Z" creationid="lesia" creationdate="20200505T200959Z">
-        <seg>Місце розташування файлу глосарія, в який будуть додаватися записи, можна вибрати, зайшовши у &lt;g0&gt;Проєкт &gt; Властивості ... &lt;/g0&gt;.</seg>
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200708T103219Z" creationid="lesia" creationdate="20200505T200959Z">
+        <seg>Місце розташування файлу глосарія, в який будуть додаватися записи, можна вибрати, зайшовши у &lt;g0&gt;Проєкт &gt; Властивості... &lt;/g0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -28667,8 +28667,8 @@ in /lib/licenses/Licenses.txt.</seg>
       <tuv lang="en">
         <seg>The results from the priority glossary (by default, glossary/glossary.txt) appear in first places in the Glossary pane and in TransTips.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="lesia" changedate="20200708T102217Z" creationid="lesia" creationdate="20200505T202008Z">
-        <seg>Результати з пріоритетного словника (типово це glossary/glossary.txt) з’являються на першому місці в області «Глосарій».</seg>
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200708T103123Z" creationid="lesia" creationdate="20200505T202008Z">
+        <seg>Результати з пріоритетного словника (типово це ./glossary/glossary.txt) з’являються на першому місці в області «Глосарій».</seg>
       </tuv>
     </tu>
     <tu>
