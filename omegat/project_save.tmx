@@ -15862,8 +15862,8 @@ click on that shortcut.</seg>
       <tuv lang="en">
         <seg>It may happen, that translation memories, available in the &lt;f0&gt;tm&lt;/f0&gt; subfolder, contain segments with identical source text, but differing targets.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="maximo" changedate="20200701T202421Z" creationid="fanja9" creationdate="20200504T203402Z">
-        <seg>Буває так, що у пам'яті перекладів з підтеки tm, знаходяться сегменти, у яких оригінал ідентичний, а переклади різні.</seg>
+      <tuv lang="uk-UA" changeid="maximo" changedate="20200708T054349Z" creationid="fanja9" creationdate="20200504T203402Z">
+        <seg>Буває так, що у пам'яті перекладів з підтеки &lt;f0&gt;tm&lt;/f0&gt;, знаходяться сегменти, у яких оригінал ідентичний, а переклади різні.</seg>
       </tuv>
     </tu>
     <tu>
@@ -24189,8 +24189,8 @@ The scope of a search is by default the project and can be set to be any files l
       <tuv lang="en">
         <seg>See &lt;m1&gt;&lt;g2&gt;Options&lt;/g2&gt;&lt;g3&gt;Preferences...&lt;/g3&gt;&lt;g4&gt;File Filters&lt;/g4&gt;&lt;/m1&gt; for a list of file formats that OmegaT can handle.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="maximo" changedate="20200614T155522Z" creationid="Kos Ivantsov" creationdate="20190822T155451Z">
-        <seg>Перелік файлів, які підтримуються в OmegaT, можна переглянути у розділі &lt;m1&gt;&lt;g4&gt;Фільтр файлів&lt;/g4&gt;&lt;/m1&gt; (меню &lt;m1&gt;&lt;g2&gt;Налаштування&lt;/g2&gt;&lt;g3&gt;Параметри...&lt;/g3&gt;&lt;/m1&gt;).</seg>
+      <tuv lang="uk-UA" changeid="maximo" changedate="20200708T054334Z" creationid="Kos Ivantsov" creationdate="20190822T155451Z">
+        <seg>Перелік файлів, які підтримуються в OmegaT, можна переглянути у &lt;m1&gt;&lt;g2&gt;Налаштування&lt;/g2&gt;&lt;g3&gt;Параметри...&lt;/g3&gt;&lt;g4&gt;Фільтри файлів&lt;/g4&gt;&lt;/m1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
