@@ -20200,8 +20200,8 @@ installed on your system.</seg>
       <tuv lang="en">
         <seg>One of the above segments is the current segment.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="Asus" changedate="20200709T100724Z" creationid="maximo" creationdate="20200501T161044Z">
-        <seg>Один із сегментів - це поточний сегмент.</seg>
+      <tuv lang="uk-UA" changeid="Asus" changedate="20200709T110042Z" creationid="maximo" creationdate="20200501T161044Z">
+        <seg>Один із сегментів — це поточний сегмент.</seg>
       </tuv>
     </tu>
     <tu>
@@ -29157,8 +29157,8 @@ in /lib/licenses/Licenses.txt.</seg>
       <tuv lang="en">
         <seg>The upper part is in the source language, in bold characters with a green background color, the lower part is the editing field, ended by a marker: the marker is &lt;l0&gt;&lt;segment nnnn&gt;&lt;/l0&gt; where nnnn is a number of the segment in the project.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="Asus" changedate="20200709T100951Z" creationid="maximo" creationdate="20200501T161413Z">
-        <seg>Верхня частина відображена мовою оригіналу, напівжирним шрифтом на зеленому фоні. Нижня частина - це поле введення. Вона закінчується спеціальним маркером - &lt;l0&gt;&lt;сегмент ####&gt;&lt;/l0&gt;, де #### -  це номер поточного сегмента у проєкті.</seg>
+      <tuv lang="uk-UA" changeid="Asus" changedate="20200709T110107Z" creationid="maximo" creationdate="20200501T161413Z">
+        <seg>Верхня частина відображена мовою оригіналу, напівжирним шрифтом на зеленому фоні. Нижня частина — це поле введення. Вона закінчується спеціальним маркером — &lt;l0&gt;&lt;сегмент ####&gt;&lt;/l0&gt;, де #### —  це номер поточного сегмента у проєкті.</seg>
       </tuv>
     </tu>
     <tu>
@@ -30865,8 +30865,8 @@ the server.</seg>
       <tuv lang="en">
         <seg>To use the selected match in your translation, use &lt;g4&gt;Ctrl+R&lt;/g4&gt; to replace the target field with the match or use &lt;g5&gt;Ctrl+I &lt;/g5&gt; to insert it at the cursor position.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="Asus" changedate="20200709T104217Z" creationid="maximo" creationdate="20200501T204239Z">
-        <seg>Ви можете використати обраний збіг за допомогою &lt;g4&gt;Ctrl+R&lt;/g4&gt; - заміни тексту перекладу на нього, чи &lt;g5&gt;Ctrl+I&lt;/g5&gt; - вставки його в місці знаходження курсора.</seg>
+      <tuv lang="uk-UA" changeid="Asus" changedate="20200709T110140Z" creationid="maximo" creationdate="20200501T204239Z">
+        <seg>Ви можете використати обраний збіг за допомогою &lt;g4&gt;Ctrl+R&lt;/g4&gt; - заміни тексту перекладу на нього, чи &lt;g5&gt;Ctrl+I&lt;/g5&gt; — вставки його в місці знаходження курсора.</seg>
       </tuv>
     </tu>
     <tu>
