@@ -13763,8 +13763,8 @@ their defaults as a result of the location change.</seg>
       <tuv lang="EN">
         <seg>If the language of the user's system is not available, &lt;a7&gt;OmegaT&lt;/a7&gt; defaults to English.</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="maximo" changedate="20200420T203029Z" creationid="maximo" creationdate="20200420T203029Z">
-        <seg>Якщо відповідна локалізація не доступна, &lt;a7&gt;OmegaT&lt;/a7&gt; візьме англійську.</seg>
+      <tuv lang="UK-UA" changeid="fanja9" changedate="20200710T154012Z" creationid="maximo" creationdate="20200420T203029Z">
+        <seg>Якщо відповідна локалізація недоступна, &lt;a7&gt;OmegaT&lt;/a7&gt; обере англійську.</seg>
       </tuv>
     </tu>
     <tu>
@@ -25474,8 +25474,8 @@ The scope of a search is by default the project and can be set to be any files l
       <tuv lang="EN">
         <seg>So, if the user's operating system is Russian and &lt;a5&gt;OmegaT&lt;/a5&gt; has been localized in Russian, &lt;a6&gt;OmegaT&lt;/a6&gt; is displayed with a Russian user interface, Russian menus, etc.</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="lesia" changedate="20200708T094142Z" creationid="maximo" creationdate="20200420T202942Z">
-        <seg>Таким чином, якщо мова операційної системи — російська, а &lt;a5&gt;OmegaT&lt;/a5&gt; була локалізована для російської мови, &lt;a6&gt;OmegaT&lt;/a6&gt; буде запущена з російським інтерфейсом користувача, російськими меню і т.п.</seg>
+      <tuv lang="UK-UA" changeid="fanja9" changedate="20200710T153947Z" creationid="maximo" creationdate="20200420T202942Z">
+        <seg>Таким чином, якщо мова операційної системи — російська, а &lt;a5&gt;OmegaT&lt;/a5&gt; локалізована російською мовою, &lt;a6&gt;OmegaT&lt;/a6&gt; запуститься з російським інтерфейсом користувача, російськими меню і т. ін.</seg>
       </tuv>
     </tu>
     <tu>
