@@ -11971,8 +11971,8 @@ provided (omegat.kaptn).</seg>
       <tuv lang="EN">
         <seg>For this reason, the two commands described above are contained in a file (a "script", also called a "&lt;f0&gt;.bat&lt;/f0&gt; file" on Windows systems).</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="lesia" changedate="20200708T091805Z" creationid="maximo" creationdate="20200420T201931Z">
-        <seg>Тому ці дві команди запаковані у спеціальний файл («скрипт», на Windows його ще називають «&lt;f0&gt;.bat&lt;/f0&gt; файлом»).</seg>
+      <tuv lang="UK-UA" changeid="fanja9" changedate="20200710T194550Z" creationid="maximo" creationdate="20200420T201931Z">
+        <seg>Тому ці дві команди запаковані у спеціальний файл («скрипт», у Windows його ще називають «&lt;f0&gt;.bat&lt;/f0&gt; файлом»).</seg>
       </tuv>
     </tu>
     <tu>
@@ -14851,8 +14851,8 @@ click on that shortcut.</seg>
       <tuv lang="EN">
         <seg>In other platforms, you can modify &lt;f3&gt;Configuration.properties&lt;/f3&gt; file on the Mac, or &lt;f4&gt;OmegaT&lt;/f4&gt; launcher under Linux to do the same.</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="lesia" changedate="20200708T094140Z" creationid="maximo" creationdate="20200420T202427Z">
-        <seg>Для Mac ви можете змінити &lt;f3&gt;Configuration.properties&lt;/f3&gt;, а для Linux — скрипт &lt;f4&gt;OmegaT&lt;/f4&gt;.</seg>
+      <tuv lang="UK-UA" changeid="fanja9" changedate="20200710T194614Z" creationid="maximo" creationdate="20200420T202427Z">
+        <seg>У Mac ви можете змінити &lt;f3&gt;Configuration.properties&lt;/f3&gt;, а в Linux — скрипт &lt;f4&gt;OmegaT&lt;/f4&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -18883,8 +18883,8 @@ as the Applications folder.</seg>
       <tuv lang="EN">
         <seg>Note that in Windows you can change the &lt;f2&gt;OmegaT.l4J.ini&lt;/f2&gt; file to reflect your preferences.</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="maximo" changedate="20200420T202322Z" creationid="maximo" creationdate="20200420T202322Z">
-        <seg>Зверніть увагу, що під Windows ви можете змінювати файл &lt;f2&gt;OmegaT.l4J.ini&lt;/f2&gt; для зміни налаштувань.</seg>
+      <tuv lang="UK-UA" changeid="fanja9" changedate="20200710T194604Z" creationid="maximo" creationdate="20200420T202322Z">
+        <seg>Зверніть увагу, що у Windows ви можете змінювати файл &lt;f2&gt;OmegaT.l4J.ini&lt;/f2&gt; для зміни налаштувань.</seg>
       </tuv>
     </tu>
     <tu>
@@ -20064,16 +20064,16 @@ installed on your system.</seg>
       <tuv lang="EN">
         <seg>On Linux</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="maximo" changedate="20200420T201201Z" creationid="maximo" creationdate="20200420T201201Z">
-        <seg>На Linux</seg>
+      <tuv lang="UK-UA" changeid="fanja9" changedate="20200710T194530Z" creationid="maximo" creationdate="20200420T201201Z">
+        <seg>У Linux</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>On Windows</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="maximo" changedate="20200420T201146Z" creationid="maximo" creationdate="20200420T201146Z">
-        <seg>На Windows</seg>
+      <tuv lang="UK-UA" changeid="fanja9" changedate="20200710T194521Z" creationid="maximo" creationdate="20200420T201146Z">
+        <seg>У Windows</seg>
       </tuv>
     </tu>
     <tu>
@@ -30673,8 +30673,8 @@ the server.</seg>
       <tuv lang="EN">
         <seg>To launch &lt;a4&gt;OmegaT&lt;/a4&gt; with a French interface (for example on a Russian operating system), the command would therefore be:</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="maximo" changedate="20200420T203406Z" creationid="maximo" creationdate="20200420T203227Z">
-        <seg>Щоб запустити &lt;a4&gt;OmegaT&lt;/a4&gt; з французьким інтерфейсом (наприклад, на російськомовній ОС), команда буде виглядати так:</seg>
+      <tuv lang="UK-UA" changeid="fanja9" changedate="20200710T194645Z" creationid="maximo" creationdate="20200420T203227Z">
+        <seg>Щоб запустити &lt;a4&gt;OmegaT&lt;/a4&gt; з французьким інтерфейсом (наприклад, у російськомовній ОС), команда буде виглядати так:</seg>
       </tuv>
     </tu>
     <tu>
