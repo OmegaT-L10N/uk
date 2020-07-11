@@ -14433,8 +14433,8 @@ to use Java Web Start.</seg>
       <tuv lang="en">
         <seg>If you wish to use such files as reference translations in OmegaT, they must be repaired, or OmegaT will report an error and fail to load them.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="lesia" changedate="20200705T073615Z" creationid="lesia" creationdate="20200705T054457Z">
-        <seg>Якщо ви хочете використовувати такі файли як допоміжні в OmegaT, помилки у таких файлах потрібно усунути, інкаше OmegaT буде видавати повідомлення про помилку і не зможе завантажити їх.</seg>
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200711T034959Z" creationid="lesia" creationdate="20200705T054457Z">
+        <seg>Якщо ви хочете використовувати такі файли як допоміжні в OmegaT, помилки у них потрібно усунути, інкаше OmegaT буде видавати повідомлення про помилку і не зможе завантажити їх.</seg>
       </tuv>
     </tu>
     <tu>
@@ -27960,8 +27960,8 @@ instead.</seg>
       <tuv lang="en">
         <seg>The following recipe is just one of the possibilities, but simple enough to follow and without any dangers for the assets.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="maximo" changedate="20200705T094739Z" creationid="maximo" creationdate="20200705T055739Z">
-        <seg>Можна зробити це різними способами, але ось цей достатньо простий і не несе загрози втрати даних.</seg>
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200711T035459Z" creationid="maximo" creationdate="20200705T055739Z">
+        <seg>Можна зробити це різними способами, але ось цей достатньо простий і не несе загрози втрати даних:</seg>
       </tuv>
     </tu>
     <tu>
