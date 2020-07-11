@@ -18923,8 +18923,8 @@ as the Applications folder.</seg>
       <tuv lang="en">
         <seg>Note that only two files are modified by OmegaT during translation:</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="maximo" changedate="20200705T093249Z" creationid="lesia" creationdate="20200704T190403Z">
-        <seg>Зауважте, що під час перекладу на стороні перекладачів змін зазнають лише два файли OmegaT:</seg>
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200711T032953Z" creationid="lesia" creationdate="20200704T190403Z">
+        <seg>Зауважте, що під час перекладу на боці перекладачів змін зазнають лише два файли OmegaT:</seg>
       </tuv>
     </tu>
     <tu>
@@ -37330,8 +37330,8 @@ create its configuration folder.</seg>
       <tuv lang="en">
         <seg>use &lt;m0&gt; &lt;g1&gt;Project&lt;/g1&gt; &lt;g2&gt;Commit Source Files&lt;/g2&gt; &lt;/m0&gt;</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="lesia" changedate="20200704T185856Z" creationid="lesia" creationdate="20200704T185856Z">
-        <seg>використайте &lt;m0&gt; &lt;g1&gt;Проєкт&lt;/g1&gt; &lt;g2&gt;Зафіксувати файли для перекладу&lt;/g2&gt; &lt;/m0&gt;</seg>
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200711T032946Z" creationid="lesia" creationdate="20200704T185856Z">
+        <seg>натисніть &lt;m0&gt; &lt;g1&gt;Проєкт&lt;/g1&gt; &lt;g2&gt;Зафіксувати файли для перекладу&lt;/g2&gt; &lt;/m0&gt;</seg>
       </tuv>
     </tu>
     <tu>
