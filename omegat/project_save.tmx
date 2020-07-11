@@ -6107,8 +6107,8 @@ Buy another drink</seg>
       <tuv lang="en">
         <seg>By default, the /tm folder is below the project's root folder (e.g. ...&lt;e0&gt;/MyProject/tm&lt;/e0&gt;), but you can choose a different folder in the project properties dialog if you wish.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="lesia" changedate="20200708T102942Z" creationid="lesia" creationdate="20200705T053824Z">
-        <seg>Типово тека ./tm розміщена в кореневій теці проєкту (наприклад, &lt;e0&gt;/MyProject/tm&lt;/e0&gt;), однак за бажанням її можна розмістити в іншій теці у діалозі Властивості проєкту.</seg>
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200711T034738Z" creationid="lesia" creationdate="20200705T053824Z">
+        <seg>Типово тека ./tm розміщена в кореневій теці проєкту (наприклад, &lt;e0&gt;/MyProject/tm&lt;/e0&gt;), однак, за бажанням її можна розмістити в іншій теці у діалозі Властивості проєкту.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13316,8 +13316,8 @@ need not be entered.)</seg>
       <tuv lang="en">
         <seg>If a given sentence has already been translated once, and translated correctly, there is no need for it to be retranslated.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="lesia" changedate="20200705T045701Z" creationid="maximo" creationdate="20200704T194957Z">
-        <seg>Якщо певне речення вже було перекладене, причому правильно, нема необхідності перекладати його ще раз.</seg>
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200711T034448Z" creationid="maximo" creationdate="20200704T194957Z">
+        <seg>Якщо певне речення вже було перекладене, причому правильно, немає необхідності перекладати його ще раз.</seg>
       </tuv>
     </tu>
     <tu>
