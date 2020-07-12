@@ -9789,8 +9789,8 @@ project_save.tmx не був переданий на віддалений сер
       <tuv lang="en">
         <seg>During translation additional files may get created in this subfolder as follows</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="fanja9" changedate="20200510T172810Z" creationid="fanja9" creationdate="20200510T152725Z">
-        <seg>Під час перекладу можуть бути створені наступні додаткові файли у цій підтеці</seg>
+      <tuv lang="uk-UA" changeid="Asus" changedate="20200712T111809Z" creationid="fanja9" creationdate="20200510T152725Z">
+        <seg>Під час перекладу можуть бути створені наступні додаткові файли у цій підтеці:</seg>
       </tuv>
     </tu>
     <tu>
@@ -15227,8 +15227,8 @@ click on that shortcut.</seg>
       <tuv lang="en">
         <seg>Initially empty, this folder will contain dictionaries you have added to the project.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="maximo" changedate="20200702T194916Z" creationid="fanja9" creationdate="20200510T145806Z">
-        <seg>Сюди треба класти словники.</seg>
+      <tuv lang="uk-UA" changeid="Asus" changedate="20200712T111436Z" creationid="fanja9" creationdate="20200510T145806Z">
+        <seg>Сюди треба додавати словники.</seg>
       </tuv>
     </tu>
     <tu>
@@ -15974,8 +15974,8 @@ click on that shortcut.</seg>
       <tuv lang="en">
         <seg>It may happen, that translation memories, available in the &lt;f0&gt;tm&lt;/f0&gt; subfolder, contain segments with identical source text, but differing targets.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="lesia" changedate="20200708T104348Z" creationid="fanja9" creationdate="20200504T203402Z">
-        <seg>Буває так, що у пам’яті перекладів з підтеки &lt;f0&gt;./tm&lt;/f0&gt;, знаходяться сегменти, у яких оригінал ідентичний, а переклади різні.</seg>
+      <tuv lang="uk-UA" changeid="Asus" changedate="20200712T110610Z" creationid="fanja9" creationdate="20200504T203402Z">
+        <seg>Буває так, що у пам’яті перекладів з підтеки &lt;f0&gt;./tm&lt;/f0&gt; знаходяться сегменти, у яких оригінал ідентичний, а переклади різні.</seg>
       </tuv>
     </tu>
     <tu>
@@ -16040,8 +16040,8 @@ inside the configuration folder.</seg>
       <tuv lang="en">
         <seg>It will contain glossaries you will be using in the project.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="lesia" changedate="20200708T091904Z" creationid="fanja9" creationdate="20200510T132042Z">
-        <seg>Сюди треба класти глосарії. Також тут автоматично створиться файл основного глосарію, якщо ви будете використовувати функцію «додати до глосарію».</seg>
+      <tuv lang="uk-UA" changeid="Asus" changedate="20200712T111619Z" creationid="fanja9" creationdate="20200510T132042Z">
+        <seg>Сюди треба додавати глосарії. Також тут автоматично створиться файл основного глосарія, якщо ви будете використовувати функцію «додати до глосарія».</seg>
       </tuv>
     </tu>
     <tu>
@@ -19059,8 +19059,8 @@ as the Applications folder.</seg>
       <tuv lang="en">
         <seg>Note: if TMX is removed from /tm/auto before step 3, no extra Translation Unit is added.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="lesia" changedate="20200708T104414Z" creationid="fanja9" creationdate="20200506T211330Z">
-        <seg>Примітка: якщо файл TMX прибрати з ./tm/auto до виконання кроку 3, не буде створено ніяких додаткових одиниць перекладу.</seg>
+      <tuv lang="uk-UA" changeid="Asus" changedate="20200712T111029Z" creationid="fanja9" creationdate="20200506T211330Z">
+        <seg>Примітка: якщо файл TMX прибрати з ./tm/auto до виконання кроку 3, не буде створено жодних додаткових одиниць перекладу.</seg>
       </tuv>
     </tu>
     <tu>
@@ -25562,8 +25562,8 @@ The scope of a search is by default the project and can be set to be any files l
       <tuv lang="en">
         <seg>Sometimes, it is useful to distinguish between high-quality translation memories and those that are, because of the subject matter, client, revision status, etc., less reliable.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="lesia" changedate="20200708T101825Z" creationid="fanja9" creationdate="20200510T145552Z">
-        <seg>Інколи корисно відокремити високоякісні файли пам’яті перекладу від тих, які менш надійні: через відмінність у тематиці, особливі умови, виставлені клієнтом чи просто за результатами перевірки.</seg>
+      <tuv lang="uk-UA" changeid="Asus" changedate="20200712T111402Z" creationid="fanja9" creationdate="20200510T145552Z">
+        <seg>Інколи корисно відокремити високоякісні файли пам’яті перекладу від менш надійних: через відмінність у тематиці, особливі умови, виставлені клієнтом, чи просто за результатами перевірки.</seg>
       </tuv>
     </tu>
     <tu>
@@ -26261,8 +26261,8 @@ The scope of a search is by default the project and can be set to be any files l
       <tuv lang="en">
         <seg>Such files can be created in any of the three varieties indicated above.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="lesia" changedate="20200708T094226Z" creationid="fanja9" creationdate="20200502T180742Z">
-        <seg>Ці файли можуть бути у одному з трьох форматів: перший рівень — лише текст, другий рівень — зі збереженою інформацією про форматування, внутрішній формат OmegaT.</seg>
+      <tuv lang="uk-UA" changeid="Asus" changedate="20200712T104440Z" creationid="fanja9" creationdate="20200502T180742Z">
+        <seg>Ці файли можуть бути в одному з трьох форматів: перший рівень — лише текст, другий рівень — зі збереженою інформацією про форматування, внутрішній формат OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
@@ -28290,8 +28290,8 @@ in /lib/licenses/Licenses.txt.</seg>
       <tuv lang="en">
         <seg>The most important file here is the &lt;f1&gt;project_save.tmx, &lt;/f1&gt;that is the working translation memory for the project.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="lesia" changedate="20200708T101834Z" creationid="fanja9" creationdate="20200510T150409Z">
-        <seg>Найважливіший файл у підтеці — &lt;f1&gt;project_save.tmx, &lt;/f1&gt; робоча пам’ять перекладу для проєкту.</seg>
+      <tuv lang="uk-UA" changeid="Asus" changedate="20200712T111736Z" creationid="fanja9" creationdate="20200510T150409Z">
+        <seg>Найважливіший файл у підтеці — &lt;f1&gt;project_save.tmx &lt;/f1&gt;. Це робоча пам’ять перекладу для проєкту.</seg>
       </tuv>
     </tu>
     <tu>
@@ -34242,8 +34242,8 @@ installation script (linux-install.sh).</seg>
       <tuv lang="en">
         <seg>You can make changes to remote files (e.g. deleting a file) using this folder and a Git or SVN client.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="maximo" changedate="20200701T204756Z" creationid="fanja9" creationdate="20200510T183033Z">
-        <seg>Якщо ви хочете змінити віддалені файли, міняйте їх тут, та синхронізуйте зміни за допомогою відповідного клієнта (Git чи SVN).</seg>
+      <tuv lang="uk-UA" changeid="Asus" changedate="20200712T112125Z" creationid="fanja9" creationdate="20200510T183033Z">
+        <seg>Якщо ви хочете змінити віддалені файли, міняйте їх тут та синхронізуйте зміни за допомогою відповідного клієнта (Git чи SVN).</seg>
       </tuv>
     </tu>
     <tu>
@@ -35142,8 +35142,8 @@ create its configuration folder.</seg>
       <tuv lang="en">
         <seg>contains the latest project match statistics, generated by &lt;g0&gt;Tools &gt; Match Statistics&lt;/g0&gt;</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="fanja9" changedate="20200510T180527Z" creationid="fanja9" creationdate="20200510T180527Z">
-        <seg>тут знаходиться остання статистика збігів у проєкті, згенерована у &lt;g0&gt;Інструменти &gt; Статистика збігів&lt;/g0&gt;</seg>
+      <tuv lang="uk-UA" changeid="Asus" changedate="20200712T112041Z" creationid="fanja9" creationdate="20200510T180527Z">
+        <seg>тут знаходиться остання статистика збігів у проєкті, згенерована в &lt;g0&gt;Інструменти &gt; Статистика збігів&lt;/g0&gt;</seg>
       </tuv>
     </tu>
     <tu>
