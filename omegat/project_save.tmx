@@ -28178,8 +28178,8 @@ in /lib/licenses/Licenses.txt.</seg>
       <tuv lang="EN">
         <seg>The location does not matter, since you have to add it to the command line at the start-up anyway.</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="maximo" changedate="20200423T141058Z" creationid="maximo" creationdate="20200423T141058Z">
-        <seg>Місце, в якому він розташований, ролі не грає, оскільки вам все одно треба буде вказати повний шлях до нього при виклику з командного рядка.</seg>
+      <tuv lang="UK-UA" changeid="fanja9" changedate="20200713T132740Z" creationid="maximo" creationdate="20200423T141058Z">
+        <seg>Немає значення, в якому місці він розташований, оскільки вам все одно треба буде вказати повний шлях до нього при виклику з командного рядка.</seg>
       </tuv>
     </tu>
     <tu>
