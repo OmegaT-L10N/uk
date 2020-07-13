@@ -3270,8 +3270,8 @@ The current setting is {0}MB;</seg>
       <tuv lang="EN">
         <seg>&lt;l0&gt;--disable-project-locking&lt;/l0&gt; allows, under Windows, to open the same project with several instances of OmegaT.</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="lesia" changedate="20200708T095823Z" creationid="maximo" creationdate="20200423T161008Z">
-        <seg>&lt;l0&gt;--disable-project-locking&lt;/l0&gt; дозволяє під Windows відкрити проєкт у двох окремих вікнах OmegaT.</seg>
+      <tuv lang="UK-UA" changeid="fanja9" changedate="20200713T143734Z" creationid="maximo" creationdate="20200423T161008Z">
+        <seg>&lt;l0&gt;--disable-project-locking&lt;/l0&gt; дозволяє відкрити проєкт у Windows у двох окремих вікнах OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6131,8 +6131,8 @@ Buy another drink</seg>
       <tuv lang="EN">
         <seg>By default, under Windows, &lt;f1&gt;omegat.project&lt;/f1&gt; is locked, and an error message is received when trying to open a project already opened in another instance of OmegaT.</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="maximo" changedate="20200423T161121Z" creationid="maximo" creationdate="20200423T161121Z">
-        <seg>Зазвичай під Windows &lt;f1&gt;omegat.project&lt;/f1&gt; блокується, і за спроби відкрити вже відкритий проєкт виводиться помилка.</seg>
+      <tuv lang="UK-UA" changeid="fanja9" changedate="20200713T144050Z" creationid="maximo" creationdate="20200423T161121Z">
+        <seg>Типово &lt;f1&gt;omegat.project&lt;/f1&gt; блокується у Windows, і за спроби відкрити вже відкритий проєкт виводиться помилка.</seg>
       </tuv>
     </tu>
     <tu>
@@ -20296,16 +20296,16 @@ installed on your system.</seg>
       <tuv lang="EN">
         <seg>Only the file &lt;f0&gt;test.html&lt;/f0&gt; in the folder &lt;f1&gt;dir-10&lt;/f1&gt; will be processed.</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="lesia" changedate="20200708T095823Z" creationid="maximo" creationdate="20200423T160414Z">
-        <seg>Лише файл &lt;f0&gt;test.html&lt;/f0&gt; у теці &lt;f1&gt;dir-10&lt;/f1&gt; буде оброблено.</seg>
+      <tuv lang="UK-UA" changeid="fanja9" changedate="20200713T143557Z" creationid="maximo" creationdate="20200423T160414Z">
+        <seg>Буде оброблено лише файл &lt;f0&gt;test.html&lt;/f0&gt; у теці &lt;f1&gt;dir-10&lt;/f1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Only the file test.html at the root of the source folder will be translated.</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="fanja9" changedate="20200713T142412Z" creationid="maximo" creationdate="20200423T160301Z">
-        <seg>Перекладеться лише файл test.html в корені проєкту.</seg>
+      <tuv lang="UK-UA" changeid="fanja9" changedate="20200713T143530Z" creationid="maximo" creationdate="20200423T160301Z">
+        <seg>Буде перекладено лише файл test.html в корені проєкту.</seg>
       </tuv>
     </tu>
     <tu>
