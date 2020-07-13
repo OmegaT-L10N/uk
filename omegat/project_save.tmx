@@ -3473,8 +3473,8 @@ The current setting is {0}MB;</seg>
       <tuv lang="EN">
         <seg>&lt;s0&gt;OmegaT&lt;/s0&gt; is a free translation memory application that works on Windows, macOS, Linux...</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="lesia" changedate="20200708T102009Z" creationid="maximo" creationdate="20200322T170902Z">
-        <seg>&lt;s0&gt;OmegaT&lt;/s0&gt; — це безкоштовна програма з пам’яттю перекладів, яка працює на Windows, macOS, Linux...</seg>
+      <tuv lang="UK-UA" changeid="fanja9" changedate="20200713T145336Z" creationid="maximo" creationdate="20200322T170902Z">
+        <seg>&lt;s0&gt;OmegaT&lt;/s0&gt; — це безкоштовна програма з пам’яттю перекладів, яка працює у Windows, macOS, Linux...</seg>
       </tuv>
     </tu>
     <tu>
@@ -16947,7 +16947,7 @@ itself on the first run.</seg>
       <tuv lang="EN">
         <seg>Linux binary version of Toxic.</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="maximo" changedate="20200323T221116Z" creationid="lesia" creationdate="20200322T154454Z">
+      <tuv lang="UK-UA" changeid="fanja9" changedate="20200713T145600Z" creationid="lesia" creationdate="20200322T154454Z">
         <seg>Toxic скомпільований для Linux.</seg>
       </tuv>
     </tu>
