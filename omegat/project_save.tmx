@@ -13595,8 +13595,8 @@ their defaults as a result of the location change.</seg>
       <tuv lang="EN">
         <seg>If not given, &lt;a3&gt;OmegaT&lt;/a3&gt; reverts to default values (&lt;a4&gt;OmegaT&lt;/a4&gt; folder under user home or, if unavailable, the current working folder).</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="maximo" changedate="20200423T154700Z" creationid="maximo" creationdate="20200423T154700Z">
-        <seg>Якщо його не передати, &lt;a3&gt;OmegaT&lt;/a3&gt; буде використовувати стандартні налаштування (тека &lt;a4&gt;OmegaT&lt;/a4&gt; всередині домашньої директорії користувача, чи поточна тека).</seg>
+      <tuv lang="UK-UA" changeid="fanja9" changedate="20200713T135951Z" creationid="maximo" creationdate="20200423T154700Z">
+        <seg>Якщо його не передати, &lt;a3&gt;OmegaT&lt;/a3&gt; буде використовувати стандартні налаштування (тека &lt;a4&gt;OmegaT&lt;/a4&gt; у домашній директорії користувача, чи поточна тека).</seg>
       </tuv>
     </tu>
     <tu>
