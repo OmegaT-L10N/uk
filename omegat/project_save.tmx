@@ -19083,8 +19083,8 @@ as the Applications folder.</seg>
       <tuv lang="EN">
         <seg>Note: on Windows it seems that this manual font fallback mechanism can interfere with standard font fallback, causing undesirable font substitution.</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="Asus" changedate="20200704T100943Z" creationid="maximo" creationdate="20200425T154210Z">
-        <seg>Зверніть увагу: під Windows ця функція OmegaT може конфліктувати з системним механізмом використання резервних шрифтів, що може призводити до небажаних замін.</seg>
+      <tuv lang="UK-UA" changeid="fanja9" changedate="20200713T145029Z" creationid="maximo" creationdate="20200425T154210Z">
+        <seg>Зверніть увагу: у Windows ця функція OmegaT може конфліктувати з системним механізмом використання резервних шрифтів, що може призводити до небажаних замін.</seg>
       </tuv>
     </tu>
     <tu>
@@ -20080,8 +20080,8 @@ installed on your system.</seg>
       <tuv lang="EN">
         <seg>On Windows it is called an "MS-DOS window" and is available from the Start Menu, inside Programs, through the "MS-DOS" item.</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="lesia" changedate="20200708T095823Z" creationid="maximo" creationdate="20200420T200723Z">
-        <seg>Під Windows його називають «вікно MS-DOS», і до нього можна доступитися через пункт MS-DOS меню Пуск.</seg>
+      <tuv lang="UK-UA" changeid="fanja9" changedate="20200713T144749Z" creationid="maximo" creationdate="20200420T200723Z">
+        <seg>У Windows його називають «вікно MS-DOS», і до нього можна доступитися через пункт MS-DOS меню Пуск.</seg>
       </tuv>
     </tu>
     <tu>
@@ -34590,8 +34590,8 @@ create its configuration folder.</seg>
       <tuv lang="EN">
         <seg>You’ll need this to sign-in to &lt;u0&gt;Windows Azure Marketplace&lt;/u0&gt; and use the Translator service.</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="maximo" changedate="20200422T171729Z" creationid="maximo" creationdate="20200422T171729Z">
-        <seg>Він потрібен, щоб залогінитись в &lt;u0&gt;Windows Azure Marketplace&lt;/u0&gt; та щоб використовувати сервіс Translator.</seg>
+      <tuv lang="UK-UA" changeid="fanja9" changedate="20200713T144829Z" creationid="maximo" creationdate="20200422T171729Z">
+        <seg>Він потрібен, щоб залогінитись у &lt;u0&gt;Windows Azure Marketplace&lt;/u0&gt; і щоб використовувати сервіс Translator.</seg>
       </tuv>
     </tu>
     <tu>
