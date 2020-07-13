@@ -32348,8 +32348,8 @@ on line {1}, column {2}.</seg>
       <tuv lang="EN">
         <seg>Use untar utility (or its equivalent, for instance&lt;f0&gt; winrar&lt;/f0&gt; in Windows) to extract its contents into the project folder "Dictionary".</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="fanja9" changedate="20200529T150407Z" creationid="maximo" creationdate="20200329T200416Z">
-        <seg>Розпакувати вміст файлу до теки проєкту «Dictionary», використовуючи утиліту untar (чи її еквівалент, на кшталт &lt;f0&gt;winrar&lt;/f0&gt; для Windows) .</seg>
+      <tuv lang="UK-UA" changeid="fanja9" changedate="20200713T144423Z" creationid="maximo" creationdate="20200329T200416Z">
+        <seg>Розпакувати вміст файлу до теки проєкту «Dictionary», використовуючи утиліту untar (чи її еквівалент, на кшталт &lt;f0&gt;winrar&lt;/f0&gt; у Windows) .</seg>
       </tuv>
     </tu>
     <tu>
