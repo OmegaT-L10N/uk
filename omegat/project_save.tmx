@@ -7783,8 +7783,8 @@ Buy another drink</seg>
       <tuv lang="EN">
         <seg>Copy the URL of the page (ending with &lt;g0&gt;action=edit&lt;/g0&gt;) and paste it into &lt;a1&gt;OmegaT&lt;/a1&gt;.</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="maximo" changedate="20200425T142537Z" creationid="maximo" creationdate="20200425T142537Z">
-        <seg>Скопіюйте URL цієї сторінки (він має закінчуватися на &lt;g0&gt;action=edit&lt;/g0&gt;) та вставте його у &lt;a1&gt;OmegaT&lt;/a1&gt;.</seg>
+      <tuv lang="UK-UA" changeid="fanja9" changedate="20200713T151206Z" creationid="maximo" creationdate="20200425T142537Z">
+        <seg>Скопіюйте URL цієї сторінки (він має закінчуватися на &lt;g0&gt;action=edit&lt;/g0&gt;) та вставте його в &lt;a1&gt;OmegaT&lt;/a1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -32020,8 +32020,8 @@ on line {1}, column {2}.</seg>
       <tuv lang="EN">
         <seg>Uploads to the repository the files that have been added or modified locally in the &lt;f0&gt;source&lt;/f0&gt; directory.</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="Asus" changedate="20200703T093634Z" creationid="maximo" creationdate="20200425T143955Z">
-        <seg>Завантажити на сховище файли із теки &lt;f0&gt;source&lt;/f0&gt;, що локально додавали або змінювали.</seg>
+      <tuv lang="UK-UA" changeid="fanja9" changedate="20200713T151712Z" creationid="maximo" creationdate="20200425T143955Z">
+        <seg>Завантажити у сховище файли із теки &lt;f0&gt;source&lt;/f0&gt;, які додавали або змінювали локально у цій теці.</seg>
       </tuv>
     </tu>
     <tu>
@@ -33232,8 +33232,8 @@ of selecting, obtaining and installing it.</seg>
       <tuv lang="EN">
         <seg>When you have finished your translation, to import it into Wikipedia:</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="maximo" changedate="20200425T142614Z" creationid="maximo" creationdate="20200425T142614Z">
-        <seg>Коли ви завершите переклад, то щоб імпортувати його назад у Вікіпедію:</seg>
+      <tuv lang="UK-UA" changeid="fanja9" changedate="20200713T151237Z" creationid="maximo" creationdate="20200425T142614Z">
+        <seg>Коли завершите переклад, то щоб імпортувати його назад у Вікіпедію:</seg>
       </tuv>
     </tu>
     <tu>
