@@ -6795,8 +6795,8 @@ Buy another drink</seg>
       <tuv lang="EN">
         <seg>Check this option in case &lt;a0&gt;OmegaT&lt;/a0&gt; does not display some glyphs properly (even if the fonts containing the relevant glyphs are installed on your machine).</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="lesia" changedate="20200708T101802Z" creationid="maximo" creationdate="20200425T154048Z">
-        <seg>Виберіть цей параметр, якщо &lt;a0&gt;OmegaT&lt;/a0&gt; не відображає правильно певні символи (навіть якщо ці символи є у шрифтах, що встановлені на комп’ютері).</seg>
+      <tuv lang="UK-UA" changeid="fanja9" changedate="20200713T204051Z" creationid="maximo" creationdate="20200425T154048Z">
+        <seg>Виберіть цей параметр, якщо &lt;a0&gt;OmegaT&lt;/a0&gt; некоректно відображає певні символи (навіть якщо ці символи є у шрифтах, що встановлені на комп’ютері).</seg>
       </tuv>
     </tu>
     <tu>
@@ -11939,8 +11939,8 @@ provided (omegat.kaptn).</seg>
       <tuv lang="EN">
         <seg>For that reason, it is OFF by default.</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="maximo" changedate="20200702T173401Z" creationid="maximo" creationdate="20200425T154247Z">
-        <seg>Саме тому вона відключена у стандартних налаштуваннях.</seg>
+      <tuv lang="UK-UA" changeid="fanja9" changedate="20200713T204504Z" creationid="maximo" creationdate="20200425T154247Z">
+        <seg>Саме тому вона відключена, якщо немає специфічних налаштувань.</seg>
       </tuv>
     </tu>
     <tu>
@@ -19083,8 +19083,8 @@ as the Applications folder.</seg>
       <tuv lang="EN">
         <seg>Note: on Windows it seems that this manual font fallback mechanism can interfere with standard font fallback, causing undesirable font substitution.</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="fanja9" changedate="20200713T145029Z" creationid="maximo" creationdate="20200425T154210Z">
-        <seg>Зверніть увагу: у Windows ця функція OmegaT може конфліктувати з системним механізмом використання резервних шрифтів, що може призводити до небажаних замін.</seg>
+      <tuv lang="UK-UA" changeid="fanja9" changedate="20200713T204140Z" creationid="maximo" creationdate="20200425T154210Z">
+        <seg>Примітка: у Windows ця функція OmegaT може конфліктувати з системним механізмом використання резервних шрифтів, що може призводити до небажаних замін.</seg>
       </tuv>
     </tu>
     <tu>
@@ -20827,8 +20827,8 @@ installed on your system.</seg>
       <tuv lang="EN">
         <seg>Other translations, identified specifically in the TMX, can be displayed using different colours.</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="maximo" changedate="20200702T173810Z" creationid="maximo" creationdate="20200425T153840Z">
-        <seg>Інші переклади, що мають додаткові характеристики, прописані у TMX, можуть відображатися у інших кольорах.</seg>
+      <tuv lang="UK-UA" changeid="fanja9" changedate="20200713T203942Z" creationid="maximo" creationdate="20200425T153840Z">
+        <seg>Інші переклади, що мають додаткові характеристики, прописані у TMX, можуть відображатися іншими кольорами.</seg>
       </tuv>
     </tu>
     <tu>
