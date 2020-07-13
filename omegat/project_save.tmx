@@ -3254,16 +3254,16 @@ The current setting is {0}MB;</seg>
       <tuv lang="EN">
         <seg>&lt;l0&gt;--config-dir=&lt;p1&gt;/path/to/config-files/&lt;/p1&gt;&lt;/l0&gt; tells &lt;a2&gt;OmegaT&lt;/a2&gt; in which folder the configuration files are stored.</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="lesia" changedate="20200708T095823Z" creationid="maximo" creationdate="20200423T154537Z">
-        <seg>&lt;l0&gt;--config-dir=&lt;p1&gt;/path/to/config-files/&lt;/p1&gt;&lt;/l0&gt; вказує &lt;a2&gt;OmegaT&lt;/a2&gt; теку, де знаходяться файли налаштувань.</seg>
+      <tuv lang="UK-UA" changeid="fanja9" changedate="20200713T140442Z" creationid="maximo" creationdate="20200423T154537Z">
+        <seg>&lt;l0&gt;--config-dir=&lt;p1&gt;/path/to/config-files/&lt;/p1&gt;&lt;/l0&gt; вказує &lt;a2&gt;OmegaT&lt;/a2&gt; теку, де знаходяться файли з налаштуваннями.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>&lt;l0&gt;--config-file=&lt;p1&gt;/path/to/config-file/&lt;/p1&gt;&lt;/l0&gt; tells &lt;a2&gt;OmegaT&lt;/a2&gt; what configuration file to use.</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="lesia" changedate="20200708T095823Z" creationid="maximo" creationdate="20200423T154751Z">
-        <seg>&lt;l0&gt;--config-file=&lt;p1&gt;/path/to/config-file/&lt;/p1&gt;&lt;/l0&gt; вказує &lt;a2&gt;OmegaT&lt;/a2&gt;, який файл налаштувань треба використовувати.</seg>
+      <tuv lang="UK-UA" changeid="fanja9" changedate="20200713T140456Z" creationid="maximo" creationdate="20200423T154751Z">
+        <seg>&lt;l0&gt;--config-file=&lt;p1&gt;/path/to/config-file/&lt;/p1&gt;&lt;/l0&gt; вказує &lt;a2&gt;OmegaT&lt;/a2&gt;, який файл з налаштуваннями треба використовувати.</seg>
       </tuv>
     </tu>
     <tu>
@@ -14273,8 +14273,8 @@ to use Java Web Start.</seg>
       <tuv lang="EN">
         <seg>If you need altered settings, the configuration files must be available.</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="fanja9" changedate="20200713T133857Z" creationid="maximo" creationdate="20200423T141138Z">
-        <seg>Якщо вам потрібні якісь особливі налаштування, ви повинні отримати доступ до відповідних конфігураційних файлів.</seg>
+      <tuv lang="UK-UA" changeid="fanja9" changedate="20200713T140345Z" creationid="maximo" creationdate="20200423T141138Z">
+        <seg>Якщо вам потрібні якісь особливі налаштування, ви повинні отримати доступ до відповідних файлів з налаштуваннями.</seg>
       </tuv>
     </tu>
     <tu>
