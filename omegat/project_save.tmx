@@ -12643,8 +12643,8 @@ provided (omegat.kaptn).</seg>
       <tuv lang="EN">
         <seg>Has been tested on Linux.</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="lesia" changedate="20200322T155109Z" creationid="lesia" creationdate="20200322T155109Z">
-        <seg>Протестована на Linux.</seg>
+      <tuv lang="UK-UA" changeid="fanja9" changedate="20200713T150453Z" creationid="lesia" creationdate="20200322T155109Z">
+        <seg>Протестована у Linux.</seg>
       </tuv>
     </tu>
     <tu>
@@ -23231,8 +23231,8 @@ These words: 'Page not found'</seg>
       <tuv lang="EN">
         <seg>Requires Linux, w3m and tcl/tk (both generally supplied with Linux).</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="maximo" changedate="20200323T222922Z" creationid="lesia" creationdate="20200322T155229Z">
-        <seg>Для Linux. Вимагає w3m та Tcl/Tk (обидві програми, як правило, вже є на Linux).</seg>
+      <tuv lang="UK-UA" changeid="fanja9" changedate="20200713T150603Z" creationid="lesia" creationdate="20200322T155229Z">
+        <seg>Для Linux. Вимагає w3m та Tcl/Tk (обидві програми, як правило, вже є в Linux).</seg>
       </tuv>
     </tu>
     <tu>
