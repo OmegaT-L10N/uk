@@ -17469,8 +17469,8 @@ itself on the first run.</seg>
       <tuv lang="EN">
         <seg>Mark Bidirectional Algorithm Control Characters</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="maximo" changedate="20200405T185839Z" creationid="maximo" creationdate="20200405T185839Z">
-        <seg>Позначати керівні символи керування напрямком письма</seg>
+      <tuv lang="UK-UA" changeid="fanja9" changedate="20200713T203226Z" creationid="maximo" creationdate="20200405T185839Z">
+        <seg>Позначати символи керування напрямком письма</seg>
       </tuv>
     </tu>
     <tu>
@@ -30148,8 +30148,8 @@ the server.</seg>
       <tuv lang="EN">
         <seg>This option displays &lt;u0&gt;bidirectional control characters&lt;/u0&gt;</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="maximo" changedate="20200425T153326Z" creationid="maximo" creationdate="20200425T153326Z">
-        <seg>Цей параметр показує &lt;u0&gt;символи керування напрямком тексту&lt;/u0&gt;</seg>
+      <tuv lang="UK-UA" changeid="fanja9" changedate="20200713T203233Z" creationid="maximo" creationdate="20200425T153326Z">
+        <seg>Цей параметр показує &lt;u0&gt;символи керування напрямком письма&lt;/u0&gt;</seg>
       </tuv>
     </tu>
     <tu>
