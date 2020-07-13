@@ -13227,8 +13227,8 @@ not be entered.)</seg>
       <tuv lang="EN">
         <seg>If &lt;g0&gt;Show Relevant Suggestions Automatically&lt;/g0&gt; option is checked, Auto-completer is launched automatically by typing the first letters of a translated glossary entry, or by typing "&lt;" in case of tags.</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="lesia" changedate="20200708T091840Z" creationid="maximo" creationdate="20200425T135706Z">
-        <seg>Якщо поставити прапорець &lt;g0&gt;Автоматично показувати відповідні пропозиції&lt;/g0&gt;, то автодоповнення буде показуватися автоматично з першої літери збігу чи «&lt;» у випадку теґів.</seg>
+      <tuv lang="UK-UA" changeid="fanja9" changedate="20200713T205122Z" creationid="maximo" creationdate="20200425T135706Z">
+        <seg>Якщо поставити прапорець &lt;g0&gt;Автоматично показувати відповідні пропозиції&lt;/g0&gt;, то автодоповнення буде показуватися автоматично, починаючи з першої ж літери збігу чи з «&lt;» у випадку теґів.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13651,8 +13651,8 @@ their defaults as a result of the location change.</seg>
       <tuv lang="EN">
         <seg>If several translation engines are selected, then &lt;k0&gt; &lt;k1&gt;Ctrl&lt;/k1&gt; &lt;k2&gt;M&lt;/k2&gt; &lt;/k0&gt; is also used to switch between them and insert the last one selected.</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="maximo" changedate="20200425T135405Z" creationid="maximo" creationdate="20200425T135405Z">
-        <seg>Якщо обрано кілька рушіїв машинного перекладу, то за допомогою &lt;k0&gt; &lt;k1&gt;Ctrl&lt;/k1&gt; &lt;k2&gt;M&lt;/k2&gt; &lt;/k0&gt; можна перемикатися між ними та вставляти останнє з обраних.</seg>
+      <tuv lang="UK-UA" changeid="fanja9" changedate="20200713T204922Z" creationid="maximo" creationdate="20200425T135405Z">
+        <seg>Якщо обрано кілька рушіїв машинного перекладу, то за допомогою &lt;k0&gt; &lt;k1&gt;Ctrl&lt;/k1&gt; &lt;k2&gt;M&lt;/k2&gt; &lt;/k0&gt; можна перемикатися між ними та вставляти останній серед обраних.</seg>
       </tuv>
     </tu>
     <tu>
