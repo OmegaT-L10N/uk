@@ -28626,8 +28626,8 @@ in /lib/licenses/Licenses.txt.</seg>
       <tuv lang="EN">
         <seg>The relevant files are &lt;f2&gt;filters.conf&lt;/f2&gt; and &lt;f3&gt;segmentation.conf&lt;/f3&gt; and can be found in the user home folder (e.g. &lt;f4&gt;C:\Documents and Settings\&lt;p5&gt;user&lt;/p5&gt;\OmegaT&lt;/f4&gt; under Windows, &lt;f6&gt;~/.omegat/&lt;/f6&gt; under Linux).</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="maximo" changedate="20200423T153752Z" creationid="maximo" creationdate="20200423T153752Z">
-        <seg>Необхідні файли, це &lt;f2&gt;filters.conf&lt;/f2&gt; та &lt;f3&gt;segmentation.conf&lt;/f3&gt;. Їх можна знайти в домашній директорії користувача (наприклад &lt;f4&gt;C:\Documents and Settings\&lt;p5&gt;user&lt;/p5&gt;\OmegaT&lt;/f4&gt; під Windows, &lt;f6&gt;~/.omegat/&lt;/f6&gt; під Linux).</seg>
+      <tuv lang="UK-UA" changeid="fanja9" changedate="20200713T135628Z" creationid="maximo" creationdate="20200423T153752Z">
+        <seg>Необхідні файли — це &lt;f2&gt;filters.conf&lt;/f2&gt; і &lt;f3&gt;segmentation.conf&lt;/f3&gt;. Їх можна знайти в домашній директорії користувача (наприклад &lt;f4&gt;C:\Documents and Settings\&lt;p5&gt;user&lt;/p5&gt;\OmegaT&lt;/f4&gt; у Windows, &lt;f6&gt;~/.omegat/&lt;/f6&gt; у Linux).</seg>
       </tuv>
     </tu>
     <tu>
