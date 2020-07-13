@@ -2966,8 +2966,8 @@ The current setting is {0}MB;</seg>
       <tuv lang="EN">
         <seg>&lt;f0&gt;alignDir&lt;/f0&gt; must contain a translation in the target language of the project.</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="maximo" changedate="20200423T155719Z" creationid="maximo" creationdate="20200423T155719Z">
-        <seg>&lt;f0&gt;alignDir&lt;/f0&gt; мусить містити переклад на цільову мову проєкту.</seg>
+      <tuv lang="UK-UA" changeid="fanja9" changedate="20200713T142249Z" creationid="maximo" creationdate="20200423T155719Z">
+        <seg>&lt;f0&gt;alignDir&lt;/f0&gt; має містити переклад на цільову мову проєкту.</seg>
       </tuv>
     </tu>
     <tu>
