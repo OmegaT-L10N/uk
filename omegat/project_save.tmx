@@ -14305,8 +14305,8 @@ to use Java Web Start.</seg>
       <tuv lang="EN">
         <seg>If you only have a standard Spanish dictionary available, with file names es_es.dic and es_es.aff for instance, you can copy these files to es_MX.dic and es_MX.aff, and the spelling dictionary will work.</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="Asus" changedate="20200616T044222Z" creationid="maximo" creationdate="20200411T111444Z">
-        <seg>Якщо у вас є тільки стандартний словник іспанської з назвами файлів es_es.dic та es_es.aff, ви можете просто зробити копії цих файлів, змінивши їх назви на es_MX.dic та es_MX.aff, і словник орфографії запрацює.</seg>
+      <tuv lang="UK-UA" changeid="fanja9" changedate="20200713T201431Z" creationid="maximo" creationdate="20200411T111444Z">
+        <seg>Якщо у вас є тільки стандартний словник іспанської з назвами файлів es_es.dic та es_es.aff, ви можете просто зробити копії цих файлів, змінивши їх назви на es_MX.dic та es_MX.aff, і орфографічний словник запрацює.</seg>
       </tuv>
     </tu>
     <tu>
@@ -20312,8 +20312,8 @@ installed on your system.</seg>
       <tuv lang="EN">
         <seg>Only works if a spelling dictionary is installed.</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="maximo" changedate="20200425T150249Z" creationid="maximo" creationdate="20200425T150249Z">
-        <seg>Працює лише коли встановлені словники перевірки правопису.</seg>
+      <tuv lang="UK-UA" changeid="fanja9" changedate="20200713T201359Z" creationid="maximo" creationdate="20200425T150249Z">
+        <seg>Працює лише зі встановленим орфографічним словником.</seg>
       </tuv>
     </tu>
     <tu>
