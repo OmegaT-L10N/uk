@@ -3666,8 +3666,8 @@ The current setting is {0}MB;</seg>
       <tuv lang="EN">
         <seg>A nice collection of useful regex cases can be found in &lt;a0&gt;OmegaT&lt;/a0&gt; itself (see Options &gt; Segmentation).</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="maximo" changedate="20200412T052739Z" creationid="maximo" creationdate="20200412T052739Z">
-        <seg>Непогана підбірка прикладів використання регулярних виразів є у самій &lt;a0&gt;OmegaT&lt;/a0&gt; (дивись Налаштування &gt; Сегментація).</seg>
+      <tuv lang="UK-UA" changeid="fanja9" changedate="20200713T144543Z" creationid="maximo" creationdate="20200412T052739Z">
+        <seg>Непогана підбірка прикладів використання регулярних виразів є у самій &lt;a0&gt;OmegaT&lt;/a0&gt; (див. Налаштування &gt; Сегментація).</seg>
       </tuv>
     </tu>
     <tu>
@@ -19123,8 +19123,8 @@ as the Applications folder.</seg>
       <tuv lang="EN">
         <seg>Nothing speaks against using Notepad++ on Windows, GEdit on Linux for instance or some spreadsheet program for this purpose: any application, that can handle UTF-8 (or UTF-16 LE) and that can show white space (so that you do not miss the required &lt;k1&gt;TAB&lt;/k1&gt; characters) can be used.</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="lesia" changedate="20200708T095823Z" creationid="lesia" creationdate="20200505T201802Z">
-        <seg>Наприклад, можна використати Notepad++ на Windows, GEdit на Linux або ж ту чи іншу програму для роботи з таблицями. Підійде будь-яка програма, яка працює з UTF-8 (або UTF-16 LE) і може відображати пробільні символи (щоб ви не пропустили потрібних символів &lt;k1&gt;TAB&lt;/k1&gt;).</seg>
+      <tuv lang="UK-UA" changeid="fanja9" changedate="20200713T144446Z" creationid="lesia" creationdate="20200505T201802Z">
+        <seg>Наприклад, можна використати Notepad++ у Windows, GEdit у Linux або ж ту чи іншу програму для роботи з таблицями. Підійде будь-яка програма, яка працює з UTF-8 (або UTF-16 LE) і може відображати пробільні символи (щоб ви не пропустили потрібних символів &lt;k1&gt;TAB&lt;/k1&gt;).</seg>
       </tuv>
     </tu>
     <tu>
@@ -24341,8 +24341,8 @@ The scope of a search is by default the project and can be set to be any files l
       <tuv lang="EN">
         <seg>See &lt;u0&gt;The Regex Coach&lt;/u0&gt; for Windows,Linux, FreeBSD versions of a stand-alone tool.</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="maximo" changedate="20200412T052524Z" creationid="maximo" creationdate="20200412T052524Z">
-        <seg>&lt;u0&gt;The Regex Coach&lt;/u0&gt; доступний для Windows, Linux, FreeBSD як окрема програма.</seg>
+      <tuv lang="UK-UA" changeid="fanja9" changedate="20200713T144529Z" creationid="maximo" creationdate="20200412T052524Z">
+        <seg>&lt;u0&gt;The Regex Coach&lt;/u0&gt; доступний у Windows, Linux, FreeBSD як окрема програма.</seg>
       </tuv>
     </tu>
     <tu>
@@ -29860,8 +29860,8 @@ the server.</seg>
       <tuv lang="EN">
         <seg>This information applies only to the "Traditional" Windows versions of OmegaT.</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="lesia" changedate="20200708T091611Z" creationid="maximo" creationdate="20200419T070805Z">
-        <seg>Ця інформація стосується лише «традиційних» версій OmegaT для Windows.</seg>
+      <tuv lang="UK-UA" changeid="fanja9" changedate="20200713T144607Z" creationid="maximo" creationdate="20200419T070805Z">
+        <seg>Ця інформація стосується лише «традиційних» версій OmegaT у Windows.</seg>
       </tuv>
     </tu>
     <tu>
