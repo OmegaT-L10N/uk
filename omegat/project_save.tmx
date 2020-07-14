@@ -13243,8 +13243,8 @@ not be entered.)</seg>
       <tuv lang="EN">
         <seg>If &lt;l0&gt;automatic searching in dictionaries&lt;/l0&gt; is disabled, this function allows you to search for the selected word in the dictionaries.</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="maximo" changedate="20200523T163008Z" creationid="lesia" creationdate="20200425T150148Z">
-        <seg>Якщо не вмикати &lt;l0&gt;автоматичний пошук по словниках&lt;/l0&gt;, то шукати виділене слово по словниках можна цією функцією.</seg>
+      <tuv lang="UK-UA" changeid="fanja9" changedate="20200714T133829Z" creationid="lesia" creationdate="20200425T150148Z">
+        <seg>Якщо не вмикати &lt;l0&gt;автоматичний пошук у словниках&lt;/l0&gt;, то шукати виділене слово в словниках можна цією функцією.</seg>
       </tuv>
     </tu>
     <tu>
@@ -28354,8 +28354,8 @@ in /lib/licenses/Licenses.txt.</seg>
       <tuv lang="EN">
         <seg>The one and the same segment may, depending on the context, require different translations.</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="lesia" changedate="20200708T095823Z" creationid="lesia" creationdate="20200425T154157Z">
-        <seg>Один і той же сегмент може залежно від контексту перекладатися по-різному.</seg>
+      <tuv lang="UK-UA" changeid="fanja9" changedate="20200714T134003Z" creationid="lesia" creationdate="20200425T154157Z">
+        <seg>Один і той же сегмент залежно від контексту можна перекладати по-різному.</seg>
       </tuv>
     </tu>
     <tu>
