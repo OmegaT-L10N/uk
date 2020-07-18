@@ -13771,8 +13771,8 @@ their defaults as a result of the location change.</seg>
       <tuv lang="EN">
         <seg>If the option is checked, the source file name will not be used, and alternative translations will take effect in any file as long as the other context (previous/next segments or some sort of segment identifier, depending on the file format) matches.</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="lesia" changedate="20200708T095823Z" creationid="maximo" creationdate="20200412T201425Z">
-        <seg>Якщо поставити цей прапорець, назва файлу для перекладу не буде братися до уваги, і варіанти перекладу будуть використовуватися у будь-якому файлі, якщо інший контекст збігається (наприклад, попередній, наступний сегмент, чи якийсь ідентифікатор, залежно від формату файлу).</seg>
+      <tuv lang="UK-UA" changeid="fanja9" changedate="20200718T162142Z" creationid="maximo" creationdate="20200412T201425Z">
+        <seg>Якщо поставити цей прапорець, назва файлу для перекладу не буде братися до уваги, і варіанти перекладу будуть використовуватися у будь-якому файлі, якщо інший контекст збігається (наприклад, попередній/наступний сегмент, чи якийсь ідентифікатор, залежно від формату файлу).</seg>
       </tuv>
     </tu>
     <tu>
@@ -14787,8 +14787,8 @@ click on that shortcut.</seg>
       <tuv lang="EN">
         <seg>In non-segmented projects, it is possible to keep it by unchecking this option.</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="lesia" changedate="20200701T115410Z" creationid="maximo" creationdate="20200412T200440Z">
-        <seg>У несегментованих проєктах їх можна залишити, якщо забрати прапорець з цього параметра.</seg>
+      <tuv lang="UK-UA" changeid="fanja9" changedate="20200718T162036Z" creationid="maximo" creationdate="20200412T200440Z">
+        <seg>У несегментованих проєктах їх можна залишити, якщо прибрати прапорець з цього параметра.</seg>
       </tuv>
     </tu>
     <tu>
@@ -25152,8 +25152,8 @@ The scope of a search is by default the project and can be set to be any files l
       <tuv lang="EN">
         <seg>Several filters (text files, XHTML files, HTML and XHTML files, OpenDocument files and Microsoft Open XML files) have one or more specific options.</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="Asus" changedate="20200622T032811Z" creationid="maximo" creationdate="20200412T202404Z">
-        <seg>Деякі фільтри файлів (для текстових файлів, XHTML, HTML, OpenDocument та Microsoft Open XML) мають свої окремі параметри.</seg>
+      <tuv lang="UK-UA" changeid="fanja9" changedate="20200718T162220Z" creationid="maximo" creationdate="20200412T202404Z">
+        <seg>Деякі фільтри файлів (для текстових файлів, XHTML, HTML, OpenDocument та Microsoft Open XML) мають свої особливі параметри.</seg>
       </tuv>
     </tu>
     <tu>
