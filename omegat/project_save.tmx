@@ -2289,8 +2289,8 @@ The current setting is {0}MB;</seg>
       <tuv lang="EN">
         <seg>&lt;/e2&gt;The '*' character matches zero or more characters.</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="fanja9" changedate="20200718T210030Z" creationid="maximo" creationdate="20200413T184226Z">
-        <seg>&lt;/e2&gt;Символ «*» відповідає нулю чи більшим символам.</seg>
+      <tuv lang="UK-UA" changeid="fanja9" changedate="20200718T210123Z" creationid="maximo" creationdate="20200413T184226Z">
+        <seg>&lt;/e2&gt;Символ «*» відповідає нулю чи більшій кількості символів.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4523,8 +4523,8 @@ The current setting is {0}MB;</seg>
       <tuv lang="EN">
         <seg>All other characters represent themselves.</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="maximo" changedate="20200413T184310Z" creationid="maximo" creationdate="20200413T184310Z">
-        <seg>Всі інші символи позначають самих себе.</seg>
+      <tuv lang="UK-UA" changeid="fanja9" changedate="20200718T210158Z" creationid="maximo" creationdate="20200413T184310Z">
+        <seg>Всі інші символи позначають самі себе.</seg>
       </tuv>
     </tu>
     <tu>
@@ -27024,8 +27024,8 @@ current folder will be used instead.</seg>
       <tuv lang="EN">
         <seg>The '?' character matches exactly one character.</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="lesia" changedate="20200708T101407Z" creationid="maximo" creationdate="20200413T184252Z">
-        <seg>Символ «?» відповідає рівно одному символу.</seg>
+      <tuv lang="UK-UA" changeid="fanja9" changedate="20200718T210131Z" creationid="maximo" creationdate="20200413T184252Z">
+        <seg>Символ «?» відповідає саме одному символу.</seg>
       </tuv>
     </tu>
     <tu>
