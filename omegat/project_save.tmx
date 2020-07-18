@@ -33048,8 +33048,8 @@ of selecting, obtaining and installing it.</seg>
       <tuv lang="EN">
         <seg>When OmegaT encounters a file in its source folder, it attempts to select the filter based upon the file's extension.</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="Asus" changedate="20200623T032632Z" creationid="maximo" creationdate="20200413T183406Z">
-        <seg>Для кожного з файлів оригіналу у відповідній теці OmegaT намагається підібрати фільтр відповідно до його розширення.</seg>
+      <tuv lang="UK-UA" changeid="fanja9" changedate="20200718T205621Z" creationid="maximo" creationdate="20200413T183406Z">
+        <seg>OmegaT намагається підібрати фільтр для кожного з файлів для перекладу у відповідній теці відповідно до його розширення.</seg>
       </tuv>
     </tu>
     <tu>
