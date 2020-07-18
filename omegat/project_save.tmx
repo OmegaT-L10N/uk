@@ -2451,8 +2451,8 @@ The current setting is {0}MB;</seg>
       <tuv lang="EN">
         <seg>&lt;auto&gt; leaves the choice of encoding to &lt;a1&gt;OmegaT&lt;/a1&gt;.</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="fanja9" changedate="20200718T210703Z" creationid="maximo" creationdate="20200413T185515Z">
-        <seg>Якщо ви вибираєте &lt;auto&gt;, то &lt;a1&gt;OmegaT&lt;/a1&gt; вибирає систему кодування самостійно.</seg>
+      <tuv lang="UK-UA" changeid="fanja9" changedate="20200718T210717Z" creationid="maximo" creationdate="20200413T185515Z">
+        <seg>Якщо ви вибираєте &lt;auto&gt;, то &lt;a1&gt;OmegaT&lt;/a1&gt; самостійно вибирає систему кодування.</seg>
       </tuv>
     </tu>
     <tu>
