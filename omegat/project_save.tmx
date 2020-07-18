@@ -3126,8 +3126,8 @@ The current setting is {0}MB;</seg>
       <tuv lang="EN">
         <seg>&lt;l0&gt;${extension} &lt;/l0&gt;- the original file extension</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="lesia" changedate="20200708T100250Z" creationid="maximo" creationdate="20200413T191301Z">
-        <seg>&lt;l0&gt;${extension} &lt;/l0&gt; — розширення файлу оригінала.</seg>
+      <tuv lang="UK-UA" changeid="fanja9" changedate="20200718T212238Z" creationid="maximo" creationdate="20200413T191301Z">
+        <seg>&lt;l0&gt;${extension} &lt;/l0&gt; — розширення файлу для перекладу.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3174,8 +3174,8 @@ The current setting is {0}MB;</seg>
       <tuv lang="EN">
         <seg>&lt;l0&gt;${nameOnly}&lt;/l0&gt;– allows you to insert only the name of the source file without the extension.</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="lesia" changedate="20200708T100244Z" creationid="maximo" creationdate="20200413T191258Z">
-        <seg>&lt;l0&gt;${nameOnly}&lt;/l0&gt; — дозволяє вказати лише назву файлу оригінала без розширення.</seg>
+      <tuv lang="UK-UA" changeid="fanja9" changedate="20200718T212229Z" creationid="maximo" creationdate="20200413T191258Z">
+        <seg>&lt;l0&gt;${nameOnly}&lt;/l0&gt; — дозволяє вказати лише назву файлу для перекладу без розширення.</seg>
       </tuv>
     </tu>
     <tu>
