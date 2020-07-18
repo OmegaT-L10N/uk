@@ -6971,8 +6971,8 @@ Buy another drink</seg>
       <tuv lang="EN">
         <seg>Click &lt;e0&gt;Defaults&lt;/e0&gt; to reset the file filters to the default settings.</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="maximo" changedate="20200412T195353Z" creationid="maximo" creationdate="20200412T195353Z">
-        <seg>Натисність &lt;e0&gt;Відновити типові значення&lt;/e0&gt;, щоб скинути налаштування.</seg>
+      <tuv lang="UK-UA" changeid="fanja9" changedate="20200718T154805Z" creationid="maximo" creationdate="20200412T195353Z">
+        <seg>Натисніть &lt;e0&gt;Відновити типові значення&lt;/e0&gt;, щоб скинути налаштування.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9042,8 +9042,8 @@ Buy another drink</seg>
       <tuv lang="EN">
         <seg>Display &amp;active source segment in bold</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20190805T190247Z" creationid="Kos Ivantsov" creationdate="20190805T190126Z">
-        <seg>Жирний шрифт для тексту оригіналу в &amp;поточному сегменті</seg>
+      <tuv lang="UK-UA" changeid="fanja9" changedate="20200718T154654Z" creationid="Kos Ivantsov" creationdate="20190805T190126Z">
+        <seg>Напівжирний шрифт для тексту оригіналу в &amp;поточному сегменті</seg>
       </tuv>
     </tu>
     <tu>
