@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.2.0_0_747fc65a9" segtype="sentence" srclang="en"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.2.0_0_747fc65a" segtype="sentence" srclang="en"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -24141,8 +24141,8 @@ The scope of a search is by default the project and can be set to be any files l
       <tuv lang="en">
         <seg>Search for the required language combination - for instance on the &lt;u0&gt;dictionary links given by the OmegaT Wiki&lt;/u0&gt;.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="Asus" changedate="20200610T080744Z" creationid="maximo" creationdate="20200329T200308Z">
-        <seg>Знайти необхідну мовну пару, наприклад, за &lt;u0&gt;посиланнями на словники&lt;/u0&gt; від OmegaT Wiki.</seg>
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200711T083844Z" creationid="maximo" creationdate="20200329T200308Z">
+        <seg>Знайти відповідну мовну пару, наприклад, за &lt;u0&gt;посиланнями на словники&lt;/u0&gt; від OmegaT Wiki.</seg>
       </tuv>
     </tu>
     <tu>
@@ -28016,8 +28016,8 @@ instead.</seg>
       <tuv lang="en">
         <seg>The glossary file does not have the correct extension (.tab, .utf8 or .txt).</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="lesia" changedate="20200708T093926Z" creationid="lesia" creationdate="20200505T203139Z">
-        <seg>Файл глосарія має неправильне розширення (має бути .tab, .utf8 чи .txt).</seg>
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200718T113759Z" creationid="lesia" creationdate="20200505T203139Z">
+        <seg>Файл глосарія має неправильне розширення (має бути .utf8 чи .txt).</seg>
       </tuv>
     </tu>
     <tu>
@@ -28602,8 +28602,8 @@ in /lib/licenses/Licenses.txt.</seg>
       <tuv lang="en">
         <seg>The recognized extensions are &lt;f1&gt;TXT&lt;/f1&gt; and &lt;f2&gt;UTF8&lt;/f2&gt;</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="lesia" changedate="20200708T093842Z" creationid="lesia" creationdate="20200505T201128Z">
-        <seg>Підтримуються два розширення: &lt;f1&gt;TXT&lt;/f1&gt; та &lt;f2&gt;UTF8&lt;/f2&gt;</seg>
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200718T113751Z" creationid="lesia" creationdate="20200505T201128Z">
+        <seg>Підтримуються два розширення: &lt;f1&gt;TXT&lt;/f1&gt; та &lt;f2&gt;UTF8&lt;/f2&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -29061,8 +29061,8 @@ in /lib/licenses/Licenses.txt.</seg>
       <tuv lang="en">
         <seg>The third column can be used for additional information.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="lesia" changedate="20200505T192034Z" creationid="lesia" creationdate="20200505T192026Z">
-        <seg>У третій колонці можна зазначати додаткову інформацію.</seg>
+      <tuv lang="uk-UA" changeid="lesia" changedate="20200712T092951Z" creationid="lesia" creationdate="20200505T192026Z">
+        <seg>У третій колонці можна зазначати додаткову інформацію (коментар).</seg>
       </tuv>
     </tu>
     <tu>
