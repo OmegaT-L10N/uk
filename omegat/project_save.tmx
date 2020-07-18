@@ -32934,8 +32934,8 @@ searchable without subscription:</seg>
       <tuv lang="EN">
         <seg>Warning: in Microsoft Open XML formats (docx, xlsx, etc.), if all tags are displayed, DO NOT place any text before the first tag – it is a technical tag that must always begin the segment.</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="lesia" changedate="20200708T102343Z" creationid="maximo" creationdate="20200412T200249Z">
-        <seg>Обережно! У форматах Microsoft Open XML (docx, xlsx, etc.) якщо відображуються всі теґи, в жодному разі НЕ вставляйте текст перед першим теґом. Це технічний теґ, він обов’язково має починати сегмент.</seg>
+      <tuv lang="UK-UA" changeid="fanja9" changedate="20200718T161938Z" creationid="maximo" creationdate="20200412T200249Z">
+        <seg>Обережно! Якщо відображуються всі теґи, в жодному разі НЕ вставляйте текст перед першим теґом у форматах Microsoft Open XML (docx, xlsx, etc.). Перший теґ тут технічний, він обов’язково має починати сегмент.</seg>
       </tuv>
     </tu>
     <tu>
