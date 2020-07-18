@@ -9074,8 +9074,8 @@ Buy another drink</seg>
       <tuv lang="EN">
         <seg>Display all &amp;source segments in bold</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20190805T190239Z" creationid="Kos Ivantsov" creationdate="20190805T185630Z">
-        <seg>Жирний шрифт для тексту оригіналу в &amp;усіх сегментах</seg>
+      <tuv lang="UK-UA" changeid="fanja9" changedate="20200718T154647Z" creationid="Kos Ivantsov" creationdate="20190805T185630Z">
+        <seg>Напівжирний шрифт для тексту оригіналу в &amp;усіх сегментах</seg>
       </tuv>
     </tu>
     <tu>
@@ -10353,8 +10353,8 @@ Your help page not found</seg>
       <tuv lang="EN">
         <seg>Entries from the writeable glossary are in bold.</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="lesia" changedate="20200616T203841Z" creationid="Kos Ivantsov" creationdate="20190807T182136Z">
-        <seg>Жирним шрифтом позначаються елементи з глосарія для запису.</seg>
+      <tuv lang="UK-UA" changeid="fanja9" changedate="20200718T154620Z" creationid="Kos Ivantsov" creationdate="20190807T182136Z">
+        <seg>Напівжирним шрифтом позначаються елементи з глосарія для запису.</seg>
       </tuv>
     </tu>
     <tu>
@@ -27888,8 +27888,8 @@ instead.</seg>
       <tuv lang="EN">
         <seg>The filters used by the current project are displayed in bold.</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="maximo" changedate="20200412T194854Z" creationid="maximo" creationdate="20200412T194854Z">
-        <seg>Жирним шрифтом позначені фільтри, що використовуються в проєкті.</seg>
+      <tuv lang="UK-UA" changeid="fanja9" changedate="20200718T154524Z" creationid="maximo" creationdate="20200412T194854Z">
+        <seg>Напівжирним шрифтом позначені фільтри, що використовуються в проєкті.</seg>
       </tuv>
     </tu>
     <tu>
