@@ -29746,8 +29746,8 @@ the server.</seg>
       <tuv lang="EN">
         <seg>This dialog enables you to specify the source filename patterns for files to be processed by the filter, customize the filenames of translated files and select which encodings should be used for loading the source file and saving the translation.</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="Asus" changedate="20200623T032424Z" creationid="maximo" creationdate="20200413T165350Z">
-        <seg>У діалоговому вікні можна налаштувати шаблони імені файлу оригіналу, який оброблятиметься фільтром, та імені перекладеного файлу, а також встановити, які кодування будуть використовуватися для завантаження оригіналу та збереження його перекладу.</seg>
+      <tuv lang="UK-UA" changeid="fanja9" changedate="20200718T193515Z" creationid="maximo" creationdate="20200413T165350Z">
+        <seg>У діалоговому вікні можна налаштувати шаблони імені того файлу для перекладу, який оброблятиметься фільтром, та імені перекладеного файлу, а також встановити, які кодування будуть використані для завантаження файлу для перекладу та збереження його перекладу.</seg>
       </tuv>
     </tu>
     <tu>
