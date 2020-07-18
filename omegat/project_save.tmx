@@ -8641,8 +8641,8 @@ Buy another drink</seg>
       <tuv lang="EN">
         <seg>Default is &lt;l0&gt;${filename}&lt;/l0&gt;– full filename of the source file with extension: in this case the name of the translated file is the same as that of the source file.</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="lesia" changedate="20200708T100239Z" creationid="maximo" creationdate="20200413T191254Z">
-        <seg>Типово встановлено &lt;l0&gt;${filename}&lt;/l0&gt; — повна назва файлу оригінала з розширенням, тобто назва перекладеного файлу збігається з назвою файлу оригінала.</seg>
+      <tuv lang="UK-UA" changeid="fanja9" changedate="20200718T212220Z" creationid="maximo" creationdate="20200413T191254Z">
+        <seg>Типово встановлено &lt;l0&gt;${filename}&lt;/l0&gt; — повна назва файлу для перекладу з розширенням, тобто назва перекладеного файлу збігається з назвою файлу для перекладу.</seg>
       </tuv>
     </tu>
     <tu>
@@ -25554,8 +25554,8 @@ The scope of a search is by default the project and can be set to be any files l
       <tuv lang="EN">
         <seg>Sometimes you may wish to rename the files you translate automatically, for example adding a language code after the file name.</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="Asus" changedate="20200623T035835Z" creationid="maximo" creationdate="20200413T190112Z">
-        <seg>Іноді може бути зручно, щоб перекладені файли автоматично змінювали назву. Наприклад, щоб після імені додавався код мови перекладу.</seg>
+      <tuv lang="UK-UA" changeid="fanja9" changedate="20200718T212012Z" creationid="maximo" creationdate="20200413T190112Z">
+        <seg>Іноді може бути зручно, щоб перекладені файли автоматично змінювали назву. Наприклад, щоб після назви додавався код мови перекладу.</seg>
       </tuv>
     </tu>
     <tu>
