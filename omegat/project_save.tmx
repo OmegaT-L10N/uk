@@ -2451,8 +2451,8 @@ The current setting is {0}MB;</seg>
       <tuv lang="EN">
         <seg>&lt;auto&gt; leaves the choice of encoding to &lt;a1&gt;OmegaT&lt;/a1&gt;.</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="Asus" changedate="20200623T034826Z" creationid="maximo" creationdate="20200413T185515Z">
-        <seg>Якщо ви вибираєте &lt;auto&gt;, то залишаєте &lt;a1&gt;OmegaT&lt;/a1&gt; вибір кодування.</seg>
+      <tuv lang="UK-UA" changeid="fanja9" changedate="20200718T210703Z" creationid="maximo" creationdate="20200413T185515Z">
+        <seg>Якщо ви вибираєте &lt;auto&gt;, то &lt;a1&gt;OmegaT&lt;/a1&gt; вибирає систему кодування самостійно.</seg>
       </tuv>
     </tu>
     <tu>
@@ -34076,8 +34076,8 @@ start menu, the desktop or the quick launch area to link it from there.</seg>
       <tuv lang="EN">
         <seg>You can change or add filename patterns for files to be handled by each file filter.</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="Asus" changedate="20200623T033026Z" creationid="maximo" creationdate="20200413T184038Z">
-        <seg>Ви можете змінити або додати шаблони імені файлів для кожного фільтра файлів.</seg>
+      <tuv lang="UK-UA" changeid="fanja9" changedate="20200718T210403Z" creationid="maximo" creationdate="20200413T184038Z">
+        <seg>Ви можете змінити або додати шаблони імен файлів для кожного фільтра файлів.</seg>
       </tuv>
     </tu>
     <tu>
