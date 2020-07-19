@@ -4771,8 +4771,8 @@ The current setting is {0}MB;</seg>
       <tuv lang="EN">
         <seg>An empty line will appear at the bottom of the upper table (you may have to scroll down to see it).</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="lesia" changedate="20200708T102417Z" creationid="maximo" creationdate="20200415T110820Z">
-        <seg>Внизу верхньої таблички з’явиться пустий рядок. Щоб побачити його, вам може бути треба промотати її вниз.</seg>
+      <tuv lang="UK-UA" changeid="fanja9" changedate="20200719T161349Z" creationid="maximo" creationdate="20200415T110820Z">
+        <seg>Внизу верхньої таблички з’явиться пустий рядок. Можливо, вам доведеться промотати табличку вниз, щоб побачити його.</seg>
       </tuv>
     </tu>
     <tu>
@@ -14811,8 +14811,8 @@ click on that shortcut.</seg>
       <tuv lang="EN">
         <seg>In order to create an empty set of rules for a new language pattern click &lt;e0&gt;Add &lt;/e0&gt;in the upper half of the dialog.</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="maximo" changedate="20200415T110642Z" creationid="maximo" creationdate="20200415T110642Z">
-        <seg>Щоб створити новий набір правил для нового шаблону мови, натисніть &lt;e0&gt;Додати&lt;/e0&gt; у верхній половині діалогового вікна.</seg>
+      <tuv lang="UK-UA" changeid="fanja9" changedate="20200719T160723Z" creationid="maximo" creationdate="20200415T110642Z">
+        <seg>Щоб створити новий набір правил для нового шаблону назви мови, натисніть &lt;e0&gt;Додати&lt;/e0&gt; у верхній половині діалогового вікна.</seg>
       </tuv>
     </tu>
     <tu>
