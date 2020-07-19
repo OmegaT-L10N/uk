@@ -5319,8 +5319,8 @@ may experience unexpected, but correct behaviour.</seg>
       <tuv lang="EN">
         <seg>At the end of your translation, OmegaT exports three translation memories called &lt;f0&gt;level1&lt;/f0&gt;, &lt;f1&gt;level2&lt;/f1&gt; and &lt;f2&gt;omegat&lt;/f2&gt; to your project folder.</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20190823T145923Z" creationid="Kos Ivantsov" creationdate="20190822T203231Z">
-        <seg>Щоразу під час створення перекладених файлів програма OmegaT експортує перекладене у проєкті до трьох файлів пам’яті перекладів. Ці файли розміщені в теці проєкту та містять в імені файлу такі частини: &lt;f0&gt;level1&lt;/f0&gt;, &lt;f1&gt;level2&lt;/f1&gt; та &lt;f2&gt;omegat&lt;/f2&gt;.</seg>
+      <tuv lang="UK-UA" changeid="fanja9" changedate="20200719T151907Z" creationid="Kos Ivantsov" creationdate="20190822T203231Z">
+        <seg>Щоразу під час створення перекладених файлів програма OmegaT експортує перекладене у проєкті до трьох файлів пам’яті перекладів. Ці файли розміщені в теці проєкту та містять в назві файлу такі частини: &lt;f0&gt;level1&lt;/f0&gt;, &lt;f1&gt;level2&lt;/f1&gt; та &lt;f2&gt;omegat&lt;/f2&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13869,8 +13869,8 @@ their defaults as a result of the location change.</seg>
       <tuv lang="EN">
         <seg>If there's no file name displayed, the source is the internal project translation memory.</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="Asus" changedate="20200709T105415Z" creationid="maximo" creationdate="20200503T052721Z">
-        <seg>Якщо імені файлу немає, це означає, що збіг взято з внутрішньої памʼяті поточного проєкту.</seg>
+      <tuv lang="UK-UA" changeid="fanja9" changedate="20200719T151937Z" creationid="maximo" creationdate="20200503T052721Z">
+        <seg>Якщо назви файлу немає, це означає, що збіг взято з внутрішньої памʼяті поточного проєкту.</seg>
       </tuv>
     </tu>
     <tu>
@@ -27064,8 +27064,8 @@ current folder will be used instead.</seg>
       <tuv lang="EN">
         <seg>The &lt;f3&gt;level1&lt;/f3&gt; and &lt;f4&gt;level2&lt;/f4&gt; memories can be shared with users of other translation programs.</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="lesia" changedate="20200702T191951Z" creationid="Kos Ivantsov" creationdate="20190822T203419Z">
-        <seg>Файли пам’яті, що мають в імені &lt;f3&gt;level1&lt;/f3&gt; або &lt;f4&gt;level2&lt;/f4&gt;, можна використовувати для обміну з іншими програмами автоматизації перекладу.</seg>
+      <tuv lang="UK-UA" changeid="fanja9" changedate="20200719T151913Z" creationid="Kos Ivantsov" creationdate="20190822T203419Z">
+        <seg>Файли пам’яті, що мають в назві &lt;f3&gt;level1&lt;/f3&gt; або &lt;f4&gt;level2&lt;/f4&gt;, можна використовувати для обміну з іншими програмами автоматизації перекладу.</seg>
       </tuv>
     </tu>
     <tu>
@@ -28266,8 +28266,8 @@ in /lib/licenses/Licenses.txt.</seg>
       <tuv lang="EN">
         <seg>The memory named &lt;f5&gt;omegat&lt;/f5&gt; can be used by OmegaT itself, in future projects that you create.</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="lesia" changedate="20200708T101742Z" creationid="Kos Ivantsov" creationdate="20190822T203506Z">
-        <seg>Файл пам’яті, що містить в імені &lt;f5&gt;omegat&lt;/f5&gt;, можна використовувати в OmegaT у майбутніх проєктах.</seg>
+      <tuv lang="UK-UA" changeid="fanja9" changedate="20200719T151919Z" creationid="Kos Ivantsov" creationdate="20190822T203506Z">
+        <seg>Файл пам’яті, що містить в назві &lt;f5&gt;omegat&lt;/f5&gt;, можна використовувати в OmegaT у майбутніх проєктах.</seg>
       </tuv>
     </tu>
     <tu>
