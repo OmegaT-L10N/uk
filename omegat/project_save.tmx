@@ -18062,8 +18062,8 @@ itself on the first run.</seg>
       <tuv lang="EN">
         <seg>More precisely, OmegaT attempts to match each filter's source filename patterns against the filename.</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="maximo" changedate="20200413T183539Z" creationid="maximo" creationdate="20200413T183539Z">
-        <seg>Точніше, OmegaT намагається перевірити, чи збігається якийсь із шаблонів кожного фільтра з іменем файлу.</seg>
+      <tuv lang="UK-UA" changeid="fanja9" changedate="20200719T150343Z" creationid="maximo" creationdate="20200413T183539Z">
+        <seg>Точніше, OmegaT намагається перевірити, чи збігається якийсь із шаблонів кожного фільтра з назвою файлу.</seg>
       </tuv>
     </tu>
     <tu>
@@ -25714,16 +25714,16 @@ The scope of a search is by default the project and can be set to be any files l
       <tuv lang="EN">
         <seg>Source file type, filename pattern</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="maximo" changedate="20200413T165650Z" creationid="maximo" creationdate="20200413T165650Z">
-        <seg>Тип файлу для перекладу, шаблон імені файлу</seg>
+      <tuv lang="UK-UA" changeid="fanja9" changedate="20200719T150331Z" creationid="maximo" creationdate="20200413T165650Z">
+        <seg>Тип файлу для перекладу, шаблон для назви файлу</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Source filename patterns use wild card characters similar to those used in &lt;e2&gt;Searches.</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="Asus" changedate="20200623T033501Z" creationid="maximo" creationdate="20200413T184153Z">
-        <seg>Шаблони імен файлів для перекладу використовують той самий набір символів узагальнення, що і у вікні &lt;e2&gt;Пошук.</seg>
+      <tuv lang="UK-UA" changeid="fanja9" changedate="20200719T150359Z" creationid="maximo" creationdate="20200413T184153Z">
+        <seg>Шаблони для назв файлів для перекладу використовують той самий набір символів узагальнення, що і у вікні &lt;e2&gt;Пошук.</seg>
       </tuv>
     </tu>
     <tu>
@@ -27734,8 +27734,8 @@ instead.</seg>
       <tuv lang="EN">
         <seg>The dialog includes a special target filename pattern editor, which you can use to customize the names of output files.</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="Asus" changedate="20200623T032444Z" creationid="maximo" creationdate="20200413T165605Z">
-        <seg>Діалогове вікно містить спеціальний редактор шаблонів імен перекладених файлів.</seg>
+      <tuv lang="UK-UA" changeid="fanja9" changedate="20200719T150315Z" creationid="maximo" creationdate="20200413T165605Z">
+        <seg>Діалогове вікно містить спеціальний редактор шаблонів для назв перекладених файлів.</seg>
       </tuv>
     </tu>
     <tu>
@@ -28658,8 +28658,8 @@ in /lib/licenses/Licenses.txt.</seg>
       <tuv lang="EN">
         <seg>The resulting TMX is stored in the &lt;f3&gt;omegat&lt;/f3&gt; folder under the name &lt;f4&gt;align.tmx&lt;/f4&gt;.</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="lesia" changedate="20200708T104147Z" creationid="maximo" creationdate="20200423T155839Z">
-        <seg>Файл TMX, що буде отриманий в результаті вирівнювання, зберігається у теці &lt;f3&gt;./omegat&lt;/f3&gt; з іменем &lt;f4&gt;align.tmx&lt;/f4&gt;.</seg>
+      <tuv lang="UK-UA" changeid="fanja9" changedate="20200719T151856Z" creationid="maximo" creationdate="20200423T155839Z">
+        <seg>Файл TMX, що буде отриманий в результаті вирівнювання, зберігається у теці &lt;f3&gt;./omegat&lt;/f3&gt; під назвою &lt;f4&gt;align.tmx&lt;/f4&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -29013,8 +29013,8 @@ in /lib/licenses/Licenses.txt.</seg>
       <tuv lang="EN">
         <seg>The target filename pattern uses a special syntax, so if you want to edit this field, you must click &lt;e0&gt;Edit...&lt;/e0&gt;and use the Edit Pattern Dialog.</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="Asus" changedate="20200623T040037Z" creationid="maximo" creationdate="20200413T190343Z">
-        <seg>Шаблон імені перекладеного файлу використовує спеціальний синтаксис, тому якщо ви хочете змінити це поле, вам треба натиснути &lt;e0&gt;Редагувати...&lt;/e0&gt; та використати діалогове вікно Редагувати шаблон.</seg>
+      <tuv lang="UK-UA" changeid="fanja9" changedate="20200719T150424Z" creationid="maximo" creationdate="20200413T190343Z">
+        <seg>Шаблон для назви перекладеного файлу використовує спеціальний синтаксис, тому якщо ви хочете змінити це поле, вам треба натиснути &lt;e0&gt;Редагувати...&lt;/e0&gt; та використати діалогове вікно Редагувати шаблон.</seg>
       </tuv>
     </tu>
     <tu>
@@ -29746,8 +29746,8 @@ the server.</seg>
       <tuv lang="EN">
         <seg>This dialog enables you to specify the source filename patterns for files to be processed by the filter, customize the filenames of translated files and select which encodings should be used for loading the source file and saving the translation.</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="fanja9" changedate="20200719T150246Z" creationid="maximo" creationdate="20200413T165350Z">
-        <seg>У діалоговому вікні можна налаштувати шаблони для назви того файлу для перекладу, який оброблятиметься фільтром, та для назви перекладеного файлу, а також встановити, які кодування будуть використані для завантаження файлу для перекладу та збереження його перекладу.</seg>
+      <tuv lang="UK-UA" changeid="fanja9" changedate="20200719T150259Z" creationid="maximo" creationdate="20200413T165350Z">
+        <seg>У діалоговому вікні можна налаштувати шаблони для назви того файлу для перекладу, який оброблятиметься фільтром, та для назви перекладеного файлу, а також встановити, які кодування будуть використані для завантаження файлу для перекладу та збереження перекладу.</seg>
       </tuv>
     </tu>
     <tu>
@@ -34076,8 +34076,8 @@ start menu, the desktop or the quick launch area to link it from there.</seg>
       <tuv lang="EN">
         <seg>You can change or add filename patterns for files to be handled by each file filter.</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="fanja9" changedate="20200718T210403Z" creationid="maximo" creationdate="20200413T184038Z">
-        <seg>Ви можете змінити або додати шаблони імен файлів для кожного фільтра файлів.</seg>
+      <tuv lang="UK-UA" changeid="fanja9" changedate="20200719T150352Z" creationid="maximo" creationdate="20200413T184038Z">
+        <seg>Ви можете змінити або додати шаблони для назв файлів для кожного фільтра файлів.</seg>
       </tuv>
     </tu>
     <tu>
@@ -34100,8 +34100,8 @@ start menu, the desktop or the quick launch area to link it from there.</seg>
       <tuv lang="EN">
         <seg>You can change the source encoding for each different source filename pattern.</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="Asus" changedate="20200623T034457Z" creationid="maximo" creationdate="20200413T185052Z">
-        <seg>Ви можете змінити кодування для кожного шаблону імен файлів.</seg>
+      <tuv lang="UK-UA" changeid="fanja9" changedate="20200719T150407Z" creationid="maximo" creationdate="20200413T185052Z">
+        <seg>Ви можете змінити кодування для кожного шаблону для назв файлів.</seg>
       </tuv>
     </tu>
     <tu>
