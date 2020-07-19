@@ -11361,8 +11361,8 @@ Gossamer threads hold you back
       <tuv lang="EN">
         <seg>Filename Variables:</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20190814T100957Z" creationid="Kos Ivantsov" creationdate="20190814T100957Z">
-        <seg>Змінні імені файлу:</seg>
+      <tuv lang="UK-UA" changeid="fanja9" changedate="20200719T150157Z" creationid="Kos Ivantsov" creationdate="20190814T100957Z">
+        <seg>Змінні назви файлу:</seg>
       </tuv>
     </tu>
     <tu>
@@ -12767,8 +12767,8 @@ Its winter has come</seg>
       <tuv lang="EN">
         <seg>Here you may setup the source filename patterns of files the filter will process, customize the filenames of translated files, and select what encodings it will use for loading the file and saving its translated counterpart.</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20190813T123622Z" creationid="Kos Ivantsov" creationdate="20190805T183138Z">
-        <seg>Тут можна встановити шаблони імен файлів для перекладу, які будуть оброблятися фільтром, налаштувати імена перекладених файлів і вибрати кодування, з яким будуть завантажуватися оригінали та зберігатися перекладені відповідники.</seg>
+      <tuv lang="UK-UA" changeid="fanja9" changedate="20200719T150143Z" creationid="Kos Ivantsov" creationdate="20190805T183138Z">
+        <seg>Тут можна встановити шаблони для назв файлів для перекладу, які будуть оброблятися фільтром, налаштувати назви перекладених файлів і вибрати кодування, з яким будуть завантажуватися оригінали та зберігатися перекладені відповідники.</seg>
       </tuv>
     </tu>
     <tu>
@@ -19019,8 +19019,8 @@ as the Applications folder.</seg>
       <tuv lang="EN">
         <seg>Note: DocBook files are recognized not only by file extension, but they also must have a DOCTYPE declaration: &lt;!DOCTYPE book PUBLIC \"-//OASIS//DTD DocBook XML... for DocBook 4, or a Namespace: xmlns="http://docbook.org/ns/docbook" for DocBook 5</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="lesia" changedate="20200708T095823Z" creationid="Kos Ivantsov" creationdate="20190805T102934Z">
-        <seg>Примітка: файли DocBook розпізнаються не лише за розширенням файлу; в них повинно також міститися оголошення типу документа (DOCTYPE) для DocBook 4: &lt;!DOCTYPE book PUBLIC \"-//OASIS//DTD DocBook XML... або простір імен (Namespace) для DocBook 5: xmlns="http://docbook.org/ns/docbook"</seg>
+      <tuv lang="UK-UA" changeid="fanja9" changedate="20200719T150125Z" creationid="Kos Ivantsov" creationdate="20190805T102934Z">
+        <seg>Примітка: файли DocBook розпізнаються не лише за розширенням файлу; в них повинно також міститися оголошення типу документа (DOCTYPE) для DocBook 4: &lt;!DOCTYPE book PUBLIC \"-//OASIS//DTD DocBook XML... або простір для назви (Namespace) для DocBook 5: xmlns="http://docbook.org/ns/docbook"</seg>
       </tuv>
     </tu>
     <tu>
@@ -25272,8 +25272,8 @@ The scope of a search is by default the project and can be set to be any files l
       <tuv lang="EN">
         <seg>Show Raw Key Names</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20190807T164953Z" creationid="Kos Ivantsov" creationdate="20190807T164953Z">
-        <seg>Показувати необроблені імена ключів</seg>
+      <tuv lang="UK-UA" changeid="fanja9" changedate="20200719T150211Z" creationid="Kos Ivantsov" creationdate="20190807T164953Z">
+        <seg>Показувати необроблені назви ключів</seg>
       </tuv>
     </tu>
     <tu>
@@ -25642,16 +25642,16 @@ The scope of a search is by default the project and can be set to be any files l
       <tuv lang="EN">
         <seg>Source Filename Pattern</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20190820T121107Z" creationid="Kos Ivantsov" creationdate="20190517T104935Z">
-        <seg>Шаблон для імен файлів для перекладу</seg>
+      <tuv lang="UK-UA" changeid="fanja9" changedate="20200719T150041Z" creationid="Kos Ivantsov" creationdate="20190517T104935Z">
+        <seg>Шаблон для назв файлів для перекладу</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Source Filename Pattern:</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20190820T121124Z" creationid="Kos Ivantsov" creationdate="20190814T100900Z">
-        <seg>Шаблон для імен файлів для перекладу:</seg>
+      <tuv lang="UK-UA" changeid="fanja9" changedate="20200719T150149Z" creationid="Kos Ivantsov" creationdate="20190814T100900Z">
+        <seg>Шаблон для назв файлів для перекладу:</seg>
       </tuv>
     </tu>
     <tu>
@@ -29746,8 +29746,8 @@ the server.</seg>
       <tuv lang="EN">
         <seg>This dialog enables you to specify the source filename patterns for files to be processed by the filter, customize the filenames of translated files and select which encodings should be used for loading the source file and saving the translation.</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="fanja9" changedate="20200718T193515Z" creationid="maximo" creationdate="20200413T165350Z">
-        <seg>У діалоговому вікні можна налаштувати шаблони імені того файлу для перекладу, який оброблятиметься фільтром, та імені перекладеного файлу, а також встановити, які кодування будуть використані для завантаження файлу для перекладу та збереження його перекладу.</seg>
+      <tuv lang="UK-UA" changeid="fanja9" changedate="20200719T150246Z" creationid="maximo" creationdate="20200413T165350Z">
+        <seg>У діалоговому вікні можна налаштувати шаблони для назви того файлу для перекладу, який оброблятиметься фільтром, та для назви перекладеного файлу, а також встановити, які кодування будуть використані для завантаження файлу для перекладу та збереження його перекладу.</seg>
       </tuv>
     </tu>
     <tu>
@@ -31170,8 +31170,8 @@ linux-install.sh script, and execute the script with ./linux-install.sh.</seg>
       <tuv lang="EN">
         <seg>Translated Filename Pattern</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20190820T121113Z" creationid="Kos Ivantsov" creationdate="20190701T141018Z">
-        <seg>Шаблон для імен перекладених файлів</seg>
+      <tuv lang="UK-UA" changeid="fanja9" changedate="20200719T150046Z" creationid="Kos Ivantsov" creationdate="20190701T141018Z">
+        <seg>Шаблон для назв перекладених файлів</seg>
       </tuv>
     </tu>
     <tu>
@@ -35486,8 +35486,8 @@ create its configuration folder.</seg>
       <tuv lang="EN">
         <seg>file names</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20190516T182914Z" creationid="Kos Ivantsov" creationdate="20190516T182914Z">
-        <seg>імена файлів</seg>
+      <tuv lang="UK-UA" changeid="fanja9" changedate="20200719T150000Z" creationid="Kos Ivantsov" creationdate="20190516T182914Z">
+        <seg>назви файлів</seg>
       </tuv>
     </tu>
     <tu>
