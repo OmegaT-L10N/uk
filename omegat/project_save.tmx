@@ -10805,8 +10805,8 @@ No one hears your screams</seg>
       <tuv lang="EN">
         <seg>Exception rule - see the use of ?</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="lesia" changedate="20200708T094019Z" creationid="maximo" creationdate="20200416T091203Z">
-        <seg>Виключення — зверніть увагу на використання ?</seg>
+      <tuv lang="UK-UA" changeid="fanja9" changedate="20200719T193247Z" creationid="maximo" creationdate="20200416T091203Z">
+        <seg>Виняток — зверніть увагу на використання ?</seg>
       </tuv>
     </tu>
     <tu>
@@ -29586,8 +29586,8 @@ the server.</seg>
       <tuv lang="EN">
         <seg>This an exception rule, so the rule check box must not be ticked</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="maximo" changedate="20200416T091004Z" creationid="maximo" creationdate="20200416T091004Z">
-        <seg>Оскільки це виключення, прапорець правило/виключення не має стояти</seg>
+      <tuv lang="UK-UA" changeid="fanja9" changedate="20200719T193217Z" creationid="maximo" creationdate="20200416T091004Z">
+        <seg>Оскільки це виняток, тут потрібно прибрати прапорець правило/виключення</seg>
       </tuv>
     </tu>
     <tu>
