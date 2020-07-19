@@ -32,8 +32,8 @@
       <tuv lang="EN">
         <seg>"Main class name is required.";</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="lesia" changedate="20200708T101958Z" creationid="maximo" creationdate="20200404T170122Z">
-        <seg>"Треба вказати ім’я головного класу.";</seg>
+      <tuv lang="UK-UA" changeid="fanja9" changedate="20200719T145736Z" creationid="maximo" creationdate="20200404T170122Z">
+        <seg>"Треба вказати назву головного класу.";</seg>
       </tuv>
     </tu>
     <tu>
@@ -2611,8 +2611,8 @@ The current setting is {0}MB;</seg>
       <tuv lang="EN">
         <seg>&lt;e0&gt;Display: file names: &lt;/e0&gt;if checked, the name of the file where each segment is found is displayed above each result.</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="lesia" changedate="20200708T101944Z" creationid="lesia" creationdate="20200523T202904Z">
-        <seg>&lt;e0&gt;Показувати: імена файлів&lt;/e0&gt;: якщо відмічено, тоді над кожним результатом пошуку буде зображене ім’я відповідного файлу.</seg>
+      <tuv lang="UK-UA" changeid="fanja9" changedate="20200719T145726Z" creationid="lesia" creationdate="20200523T202904Z">
+        <seg>&lt;e0&gt;Показувати: назви файлів&lt;/e0&gt;: якщо відмічено, тоді над кожним результатом пошуку буде відображена назва відповідного файлу.</seg>
       </tuv>
     </tu>
     <tu>
@@ -16089,8 +16089,8 @@ itself on the first run.</seg>
       <tuv lang="EN">
         <seg>Item name is empty or missing</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20190820T150334Z" creationid="Kos Ivantsov" creationdate="20190820T150334Z">
-        <seg>Порожнє або не зазначене ім’я елемента.</seg>
+      <tuv lang="UK-UA" changeid="fanja9" changedate="20200719T145855Z" creationid="Kos Ivantsov" creationdate="20190820T150334Z">
+        <seg>Порожня або не зазначена назва елемента.</seg>
       </tuv>
     </tu>
     <tu>
@@ -17003,8 +17003,8 @@ itself on the first run.</seg>
       <tuv lang="EN">
         <seg>Load a script into the editor by clicking its name in the list in the left-hand panel.</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="lesia" changedate="20200708T101840Z" creationid="lesia" creationdate="20200503T055218Z">
-        <seg>Завантажити скрипт до редактора, обравши його ім’я на панелі ліворуч.</seg>
+      <tuv lang="UK-UA" changeid="fanja9" changedate="20200719T145659Z" creationid="lesia" creationdate="20200503T055218Z">
+        <seg>Завантажити скрипт до редактора, обравши його назву на панелі ліворуч.</seg>
       </tuv>
     </tu>
     <tu>
