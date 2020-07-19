@@ -18348,16 +18348,16 @@ as the Applications folder.</seg>
       <tuv lang="EN">
         <seg>Name of the local folder or file, relative to the root of the OmegaT project.</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="lesia" changedate="20200708T102541Z" creationid="lesia" creationdate="20200704T202420Z">
-        <seg>Ім’я локальної теки або файлу, що співвідноситься з коренем проєкту OmegaT.</seg>
+      <tuv lang="UK-UA" changeid="fanja9" changedate="20200719T144351Z" creationid="lesia" creationdate="20200704T202420Z">
+        <seg>Назва локальної теки або файлу, що співвідноситься з коренем проєкту OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Name of the remote folder or file, relative to the repository url.</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="lesia" changedate="20200708T102543Z" creationid="lesia" creationdate="20200704T202830Z">
-        <seg>Ім’я віддаленої теки чи файлу, що співвідноситься з url репозиторію.</seg>
+      <tuv lang="UK-UA" changeid="fanja9" changedate="20200719T144357Z" creationid="lesia" creationdate="20200704T202830Z">
+        <seg>Назва віддаленої теки чи файлу, що співвідноситься з url репозиторію.</seg>
       </tuv>
     </tu>
     <tu>
