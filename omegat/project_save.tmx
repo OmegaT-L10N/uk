@@ -14409,8 +14409,8 @@ to use Java Web Start.</seg>
       <tuv lang="EN">
         <seg>If you want to revert to the filter's default configuration, click &lt;e1&gt;Defaults.&lt;/e1&gt; You can also modify the name directly in the target filename pattern field of the file filters dialog.</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="lesia" changedate="20200708T102403Z" creationid="maximo" creationdate="20200413T191027Z">
-        <seg>Якщо ви хочете повернутися до стандартних налаштувань фільтру, натисніть &lt;e1&gt;Відновити типові значення&lt;/e1&gt;. Також ви можете змінити ім’я безпосередньо у полі шаблону для імен перекладених файлів у діалоговому вікні налаштувань фільтру файлів.</seg>
+      <tuv lang="UK-UA" changeid="fanja9" changedate="20200719T144607Z" creationid="maximo" creationdate="20200413T191027Z">
+        <seg>Якщо ви хочете повернутися до стандартних налаштувань фільтру, натисніть &lt;e1&gt;Відновити типові значення&lt;/e1&gt;. Також ви можете змінити назву безпосередньо у полі шаблону для назв перекладених файлів у діалоговому вікні налаштувань фільтру файлів.</seg>
       </tuv>
     </tu>
     <tu>
@@ -19761,9 +19761,9 @@ published by the Free Software Foundation, either version 3 of the License, or
 the name of your OS and/or the system property containing
 your home folder.</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="lesia" changedate="20200708T102105Z" creationid="Kos Ivantsov" creationdate="20190813T121833Z">
+      <tuv lang="UK-UA" changeid="fanja9" changedate="20200719T144529Z" creationid="Kos Ivantsov" creationdate="20190813T121833Z">
         <seg>OmegaT відмовлено у доступі до системних властивостей,
-що містять ім’я ОС та розташування домашньої теки.</seg>
+що містять назву ОС та розташування домашньої теки.</seg>
       </tuv>
     </tu>
     <tu>
