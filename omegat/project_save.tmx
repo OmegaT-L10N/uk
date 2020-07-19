@@ -19643,8 +19643,8 @@ as the Applications folder.</seg>
       <tuv lang="EN">
         <seg>OmegaT inserts the translation of the string most similar to the current source, if it is above the similarity threshold that you have selected in this dialog.</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="maximo" changedate="20200416T212805Z" creationid="maximo" creationdate="20200416T212805Z">
-        <seg>OmegaT буде вставляти переклад найбільш схожого сегмента, якщо рівень його схожості до поточного більший за певну межу.</seg>
+      <tuv lang="UK-UA" changeid="fanja9" changedate="20200719T224721Z" creationid="maximo" creationdate="20200416T212805Z">
+        <seg>OmegaT буде вставляти переклад найбільш схожого сегмента, якщо рівень його схожості з поточним більший за певну межу.</seg>
       </tuv>
     </tu>
     <tu>
@@ -33863,8 +33863,8 @@ can then launch the Kaptain launch script with:</seg>
       <tuv lang="EN">
         <seg>You achieve the same by clearing the target segment and pressing &lt;g4&gt;Enter.&lt;/g4&gt;</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="lesia" changedate="20200701T124441Z" creationid="maximo" creationdate="20200416T212535Z">
-        <seg>Цього ж ефекту можна досягнути, очистивши перекладений сегмент та натисгувши &lt;g4&gt;Enter&lt;/g4&gt;.</seg>
+      <tuv lang="UK-UA" changeid="fanja9" changedate="20200719T224600Z" creationid="maximo" creationdate="20200416T212535Z">
+        <seg>Цього ж ефекту можна досягнути, очистивши перекладений сегмент та натиснувши &lt;g4&gt;Enter&lt;/g4&gt;.</seg>
       </tuv>
     </tu>
     <tu>
