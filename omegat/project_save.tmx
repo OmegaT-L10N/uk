@@ -8023,8 +8023,8 @@ Buy another drink</seg>
       <tuv lang="EN">
         <seg>Create a project, separate for other projects, in the desired language pair, with an appropriate name - note that the TMXs created will include this name.</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="lesia" changedate="20200708T102524Z" creationid="maximo" creationdate="20200705T055917Z">
-        <seg>Створіть новий проєкт для потрібної пари мов. Назвіть його відповідно до мети (майте на увазі, що кінцева TMX буде містити ім’я проєкту).</seg>
+      <tuv lang="UK-UA" changeid="fanja9" changedate="20200719T145457Z" creationid="maximo" creationdate="20200705T055917Z">
+        <seg>Створіть новий проєкт для потрібної пари мов. Назвіть його відповідно до мети (майте на увазі, що кінцева TMX буде містити назву проєкту).</seg>
       </tuv>
     </tu>
     <tu>
@@ -14699,8 +14699,8 @@ click on that shortcut.</seg>
       <tuv lang="EN">
         <seg>In case the file name has ambivalent name, one can apply variables of the form &lt;l0&gt;${name only&lt;/l0&gt;&lt;e1&gt;-extension number&lt;/e1&gt;} and &lt;l2&gt;${extension&lt;/l2&gt;-&lt;e3&gt;extension number} &lt;/e3&gt;.</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="lesia" changedate="20200708T102414Z" creationid="maximo" creationdate="20200413T192354Z">
-        <seg>Якщо ім’я файлу неоднозначне, то можна використати ці змінні у такому форматі: &lt;l0&gt;${nameOnly&lt;/l0&gt;&lt;e1&gt;-кількість розширень&lt;/e1&gt;} та &lt;l2&gt;${extension&lt;/l2&gt;-&lt;e3&gt;кількість розширень} &lt;/e3&gt;.</seg>
+      <tuv lang="UK-UA" changeid="fanja9" changedate="20200719T145430Z" creationid="maximo" creationdate="20200413T192354Z">
+        <seg>Якщо назва файлу неоднозначна, то можна використати ці змінні у такому форматі: &lt;l0&gt;${nameOnly&lt;/l0&gt;&lt;e1&gt;-кількість розширень&lt;/e1&gt;} та &lt;l2&gt;${extension&lt;/l2&gt;-&lt;e3&gt;кількість розширень} &lt;/e3&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -28162,8 +28162,8 @@ in /lib/licenses/Licenses.txt.</seg>
       <tuv lang="EN">
         <seg>The line with the matching percentage also includes the name of the translation memory containing the match.</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="lesia" changedate="20200708T101812Z" creationid="maximo" creationdate="20200503T052638Z">
-        <seg>Рядок із відсотком збігу також показує ім’я файлу пам’яті перекладів, з якої взято цей збіг.</seg>
+      <tuv lang="UK-UA" changeid="fanja9" changedate="20200719T145651Z" creationid="maximo" creationdate="20200503T052638Z">
+        <seg>Рядок із відсотком збігу також показує назву файлу тої пам’яті перекладів, з якої взято цей збіг.</seg>
       </tuv>
     </tu>
     <tu>
@@ -29077,8 +29077,8 @@ in /lib/licenses/Licenses.txt.</seg>
       <tuv lang="EN">
         <seg>The title of the dialog reflects the file actually used (which depends on how many instances of OmegaT are running concurrently).</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="lesia" changedate="20200708T101748Z" creationid="maximo" creationdate="20200423T183310Z">
-        <seg>У заголовку цього діалогу можна побачити ім’я файлу, в який ведеться запис. Це може бути корисно, якщо ви запускаєте кілька OmegaT паралельно.</seg>
+      <tuv lang="UK-UA" changeid="fanja9" changedate="20200719T145549Z" creationid="maximo" creationdate="20200423T183310Z">
+        <seg>У заголовку цього діалогу можна побачити назву файлу, в який ведеться запис. Це може бути корисно, якщо ви запускаєте кілька OmegaT паралельно.</seg>
       </tuv>
     </tu>
     <tu>
@@ -36377,8 +36377,8 @@ create its configuration folder.</seg>
       <tuv lang="EN">
         <seg>n - (script name)</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="lesia" changedate="20200708T101759Z" creationid="maximo" creationdate="20200425T152001Z">
-        <seg>n — (ім’я скрипта)</seg>
+      <tuv lang="UK-UA" changeid="fanja9" changedate="20200719T145622Z" creationid="maximo" creationdate="20200425T152001Z">
+        <seg>n — (назва скрипта)</seg>
       </tuv>
     </tu>
     <tu>
