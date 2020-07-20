@@ -6803,8 +6803,8 @@ Buy another drink</seg>
       <tuv lang="EN">
         <seg>Check this option to be warned about differences between source and target segments tags each time you leave a segment.</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="maximo" changedate="20200417T075751Z" creationid="maximo" creationdate="20200417T075751Z">
-        <seg>Поставте цей прапорець, щоб OmegaT попереджала вас про відмінності між оригінальними теґами та теґами у перекладі щоразу як ви покидаєте сегмент.</seg>
+      <tuv lang="UK-UA" changeid="fanja9" changedate="20200720T072354Z" creationid="maximo" creationdate="20200417T075751Z">
+        <seg>Поставте цей прапорець, щоб OmegaT попереджала вас про відмінності між оригінальними теґами та теґами у перекладі щоразу, як ви покидаєте сегмент.</seg>
       </tuv>
     </tu>
     <tu>
