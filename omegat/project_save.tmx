@@ -1619,8 +1619,8 @@ To add files to the project, click on the Copy Files to Source Folder... button 
       <tuv lang="EN">
         <seg>(Leave the Password empty if you are using an API Key.)</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20190807T184214Z" creationid="Kos Ivantsov" creationdate="20190807T184214Z">
-        <seg>(Якщо використовується ключ API, поле пароля має залишатися пустим.)</seg>
+      <tuv lang="UK-UA" changeid="fanja9" changedate="20200720T153623Z" creationid="Kos Ivantsov" creationdate="20190807T184214Z">
+        <seg>(Якщо використовується ключ API, поле пароля має залишатися порожнім.)</seg>
       </tuv>
     </tu>
     <tu>
@@ -3626,8 +3626,8 @@ The current setting is {0}MB;</seg>
       <tuv lang="EN">
         <seg>A file might have no matching entries, so it will show empty.</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="lesia" changedate="20200523T202932Z" creationid="lesia" creationdate="20200523T202932Z">
-        <seg>Якщо файл не має відповідних результатів, вікно буде пустим.</seg>
+      <tuv lang="UK-UA" changeid="fanja9" changedate="20200720T153522Z" creationid="lesia" creationdate="20200523T202932Z">
+        <seg>Якщо файл не має відповідних результатів, вікно буде порожнім.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4771,8 +4771,8 @@ The current setting is {0}MB;</seg>
       <tuv lang="EN">
         <seg>An empty line will appear at the bottom of the upper table (you may have to scroll down to see it).</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="fanja9" changedate="20200719T161349Z" creationid="maximo" creationdate="20200415T110820Z">
-        <seg>Внизу верхньої таблички з’явиться пустий рядок. Можливо, вам доведеться промотати табличку вниз, щоб побачити його.</seg>
+      <tuv lang="UK-UA" changeid="fanja9" changedate="20200720T153722Z" creationid="maximo" creationdate="20200415T110820Z">
+        <seg>Внизу верхньої таблички з’явиться порожній рядок. Можливо, вам доведеться промотати табличку вниз, щоб побачити його.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11795,8 +11795,8 @@ provided (omegat.kaptn).</seg>
       <tuv lang="EN">
         <seg>For example, text files may be segmented on line breaks, empty lines, or not be segmented at all.</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="Asus" changedate="20200624T035621Z" creationid="maximo" creationdate="20200414T150333Z">
-        <seg>Наприклад, текстові файли можуть бути розбиті по символах нового рядка, по пустих рядках або не розбиватися на сегменти взагалі.</seg>
+      <tuv lang="UK-UA" changeid="fanja9" changedate="20200720T153702Z" creationid="maximo" creationdate="20200414T150333Z">
+        <seg>Наприклад, текстові файли можуть бути розбиті по символах нового рядка, по порожніх рядках або не розбиватися на сегменти взагалі.</seg>
       </tuv>
     </tu>
     <tu>
@@ -18851,8 +18851,8 @@ as the Applications folder.</seg>
       <tuv lang="EN">
         <seg>Note that &lt;l0&gt;after&lt;/l0&gt; is empty</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="maximo" changedate="20200416T091115Z" creationid="maximo" creationdate="20200416T091115Z">
-        <seg>Зверніть увагу, що &lt;l0&gt;Шаблон після&lt;/l0&gt; пустий</seg>
+      <tuv lang="UK-UA" changeid="fanja9" changedate="20200720T153738Z" creationid="maximo" creationdate="20200416T091115Z">
+        <seg>Зверніть увагу, що &lt;l0&gt;Шаблон після&lt;/l0&gt; порожній</seg>
       </tuv>
     </tu>
     <tu>
