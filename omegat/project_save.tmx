@@ -14787,8 +14787,8 @@ click on that shortcut.</seg>
       <tuv lang="EN">
         <seg>In non-segmented projects, it is possible to keep it by unchecking this option.</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="fanja9" changedate="20200720T071014Z" creationid="maximo" creationdate="20200412T200440Z">
-        <seg>У несегментованих проєктах їх можна залишити, якщо забрати прапорець з цього параметра.</seg>
+      <tuv lang="UK-UA" changeid="fanja9" changedate="20200720T180949Z" creationid="maximo" creationdate="20200412T200440Z">
+        <seg>У несегментованих проєктах їх можна залишити, якщо забрати прапорець із цього параметра.</seg>
       </tuv>
     </tu>
     <tu>
@@ -28684,8 +28684,8 @@ in /lib/licenses/Licenses.txt.</seg>
       <tuv lang="EN">
         <seg>The rules for that set will appear in the bottom half of the window.</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="fanja9" changedate="20200719T184707Z" creationid="maximo" creationdate="20200415T110541Z">
-        <seg>У нижній половині вікна ви побачите правила з цього набору.</seg>
+      <tuv lang="UK-UA" changeid="fanja9" changedate="20200720T180957Z" creationid="maximo" creationdate="20200415T110541Z">
+        <seg>У нижній половині вікна ви побачите правила із цього набору.</seg>
       </tuv>
     </tu>
     <tu>
@@ -30584,8 +30584,8 @@ the server.</seg>
       <tuv lang="EN">
         <seg>To delete project specific segmentation rules, uncheck the check box.</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="fanja9" changedate="20200720T070939Z" creationid="lesia" creationdate="20200420T151010Z">
-        <seg>Щоб видалити специфічні для проєкту правила сегментації, просто заберіть прапорець з цієї опції.</seg>
+      <tuv lang="UK-UA" changeid="fanja9" changedate="20200720T181025Z" creationid="lesia" creationdate="20200420T151010Z">
+        <seg>Щоб видалити специфічні для проєкту правила сегментації, просто заберіть прапорець із цієї опції.</seg>
       </tuv>
     </tu>
     <tu>
@@ -31679,16 +31679,16 @@ Exact searches match the whole search string.</seg>
       <tuv lang="EN">
         <seg>Uncheck this option if the context description shown for each glossary entry is unnecessary or too long.</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="Asus" changedate="20200618T033744Z" creationid="maximo" creationdate="20200412T140644Z">
-        <seg>Заберіть прапорець з цього параметра, якщо опис контексту для кожного запису глосарія непотрібний чи просто задовгий.</seg>
+      <tuv lang="UK-UA" changeid="fanja9" changedate="20200720T180932Z" creationid="maximo" creationdate="20200412T140644Z">
+        <seg>Заберіть прапорець із цього параметра, якщо опис контексту для кожного запису глосарія непотрібний чи просто задовгий.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Uncheck this option if the glossary displays too many false positives.</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="Asus" changedate="20200618T033643Z" creationid="maximo" creationdate="20200412T140921Z">
-        <seg>Заберіть прапорець з цього параметра, якщо глосарій показує багато зайвого.</seg>
+      <tuv lang="UK-UA" changeid="fanja9" changedate="20200720T180942Z" creationid="maximo" creationdate="20200412T140921Z">
+        <seg>Заберіть прапорець із цього параметра, якщо глосарій показує багато зайвого.</seg>
       </tuv>
     </tu>
     <tu>
@@ -33073,8 +33073,8 @@ of selecting, obtaining and installing it.</seg>
       <tuv lang="EN">
         <seg>When enabled, all the formatting tags are removed from source segments.</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="lesia" changedate="20200413T201046Z" creationid="lesia" creationdate="20200413T200823Z">
-        <seg>Якщо ця функція активна, усі теґи форматування вилучаються з сегментів оригіналу.</seg>
+      <tuv lang="UK-UA" changeid="fanja9" changedate="20200720T181008Z" creationid="lesia" creationdate="20200413T200823Z">
+        <seg>Якщо ця функція активна, усі теґи форматування вилучаються із сегментів оригіналу.</seg>
       </tuv>
     </tu>
     <tu>
@@ -33097,8 +33097,8 @@ of selecting, obtaining and installing it.</seg>
       <tuv lang="EN">
         <seg>When started in console mode, no GUI is loaded (so it will work on any console) and the given project is automatically processed as requested.</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="fanja9" changedate="20200713T125914Z" creationid="maximo" creationdate="20200423T134003Z">
-        <seg>Коли програма запущена в консольному режимі, графічний інтерфейс користувача не завантажується і проєкт обробляється автоматично згідно з запитом.</seg>
+      <tuv lang="UK-UA" changeid="fanja9" changedate="20200720T181040Z" creationid="maximo" creationdate="20200423T134003Z">
+        <seg>Коли програма запущена в консольному режимі, графічний інтерфейс користувача не завантажується і проєкт обробляється автоматично згідно із запитом.</seg>
       </tuv>
     </tu>
     <tu>
@@ -34533,8 +34533,8 @@ window to be able to launch it from any location.</seg>
       <tuv lang="EN">
         <seg>Your current project uses sentence segmentation, but TMX file was created using paragraph segmentation.</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20190701T140625Z" creationid="Kos Ivantsov" creationdate="20190701T140625Z">
-        <seg>У поточному проєкті використовується сегментація за реченнями, але файл TMX був створений з сегментацією за абзацами.</seg>
+      <tuv lang="UK-UA" changeid="fanja9" changedate="20200720T180844Z" creationid="Kos Ivantsov" creationdate="20190701T140625Z">
+        <seg>У поточному проєкті використовується сегментація за реченнями, але файл TMX був створений із сегментацією за абзацами.</seg>
       </tuv>
     </tu>
     <tu>
@@ -34663,8 +34663,8 @@ create its configuration folder.</seg>
       <tuv lang="EN">
         <seg>[{0}] “{1}” in source; expected one of {2} in target</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20190821T124328Z" creationid="Kos Ivantsov" creationdate="20190821T123632Z">
-        <seg>{0}: в оригіналі — «{1}»; у перекладі очікується один з цих варіантів: {2}</seg>
+      <tuv lang="UK-UA" changeid="fanja9" changedate="20200720T180917Z" creationid="Kos Ivantsov" creationdate="20190821T123632Z">
+        <seg>{0}: в оригіналі — «{1}»; у перекладі очікується один із цих варіантів: {2}</seg>
       </tuv>
     </tu>
     <tu>
