@@ -3401,8 +3401,8 @@ The current setting is {0}MB;</seg>
       <tuv lang="EN">
         <seg>&lt;r0&gt;Note:&lt;/r0&gt; it is possible to inhibit the window displaying at opening, by setting &lt;e1&gt;project_files_show_on_load&lt;/e1&gt; to &lt;e2&gt;false&lt;/e2&gt; in &lt;f3&gt;omegat.prefs&lt;/f3&gt; file (accessible by &lt;m4&gt; &lt;g5&gt;Options&lt;/g5&gt; &lt;g6&gt;Access Configuration Folder&lt;/g6&gt; &lt;/m4&gt; menu).</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="fanja9" changedate="20200704T053655Z" creationid="lesia" creationdate="20200429T202754Z">
-        <seg>&lt;r0&gt;Примітка:&lt;/r0&gt; автоматичне відображення вікна можна вимкнути, якщо виставити значення &lt;e1&gt;false&lt;/e1&gt; для параметру &lt;e2&gt;project_files_show_on_load&lt;/e2&gt; у файлі &lt;f3&gt;omegat.prefs&lt;/f3&gt; (щоб перейти до файлу, оберіть в головному меню &lt;m4&gt; &lt;g5&gt;Налаштування&lt;/g5&gt; &lt;g6&gt;Відкрити теку з налаштуваннями&lt;/g6&gt;&lt;/m4&gt;).</seg>
+      <tuv lang="UK-UA" changeid="fanja9" changedate="20200720T180608Z" creationid="lesia" creationdate="20200429T202754Z">
+        <seg>&lt;r0&gt;Примітка:&lt;/r0&gt; автоматичне відображення вікна можна вимкнути, якщо виставити значення &lt;e1&gt;false&lt;/e1&gt; для параметру &lt;e2&gt;project_files_show_on_load&lt;/e2&gt; у файлі &lt;f3&gt;omegat.prefs&lt;/f3&gt; (щоб перейти до файлу, оберіть у головному меню &lt;m4&gt; &lt;g5&gt;Налаштування&lt;/g5&gt; &lt;g6&gt;Відкрити теку з налаштуваннями&lt;/g6&gt;&lt;/m4&gt;).</seg>
       </tuv>
     </tu>
     <tu>
@@ -11401,8 +11401,8 @@ Gossamer threads hold you back
       <tuv lang="EN">
         <seg>Files within the &lt;f7&gt;source&lt;/f7&gt; folder, whether translated or not, are then generated here, with the same hierarchy as present in the source subfolder.</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="lesia" changedate="20200708T104600Z" creationid="fanja9" creationdate="20200418T100321Z">
-        <seg>Відповідники файлів з теки &lt;f7&gt;./source&lt;/f7&gt;, як перекладені так і неперекладені, будуть створені тут, упорядковані як в підтеці оригіналу.</seg>
+      <tuv lang="UK-UA" changeid="fanja9" changedate="20200720T180550Z" creationid="fanja9" creationdate="20200418T100321Z">
+        <seg>Відповідники файлів з теки &lt;f7&gt;./source&lt;/f7&gt;, як перекладені так і неперекладені, будуть створені тут, упорядковані як у підтеці оригіналу.</seg>
       </tuv>
     </tu>
     <tu>
@@ -28267,8 +28267,8 @@ in /lib/licenses/Licenses.txt.</seg>
       <tuv lang="EN">
         <seg>The memory named &lt;f5&gt;omegat&lt;/f5&gt; can be used by OmegaT itself, in future projects that you create.</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="fanja9" changedate="20200719T151919Z" creationid="Kos Ivantsov" creationdate="20190822T203506Z">
-        <seg>Файл пам’яті, що містить в назві &lt;f5&gt;omegat&lt;/f5&gt;, можна використовувати в OmegaT у майбутніх проєктах.</seg>
+      <tuv lang="UK-UA" changeid="fanja9" changedate="20200720T180515Z" creationid="Kos Ivantsov" creationdate="20190822T203506Z">
+        <seg>Файл пам’яті, що містить у назві &lt;f5&gt;omegat&lt;/f5&gt;, можна використовувати в OmegaT у майбутніх проєктах.</seg>
       </tuv>
     </tu>
     <tu>
@@ -30381,8 +30381,8 @@ the server.</seg>
       <tuv lang="EN">
         <seg>To access this window, select &lt;m0&gt; &lt;g1&gt;Tools&lt;/g1&gt; &lt;g2&gt;Align Files...&lt;/g2&gt; &lt;/m0&gt;.</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="lesia" changedate="20200501T200709Z" creationid="lesia" creationdate="20200501T200709Z">
-        <seg>Щоб скористатися цією функцією, оберіть в меню &lt;m0&gt; &lt;g1&gt;Інструменти&lt;/g1&gt; &lt;g2&gt;Вирівнювання файлів...&lt;/g2&gt; &lt;/m0&gt;.</seg>
+      <tuv lang="UK-UA" changeid="fanja9" changedate="20200720T180558Z" creationid="lesia" creationdate="20200501T200709Z">
+        <seg>Щоб скористатися цією функцією, оберіть у меню &lt;m0&gt; &lt;g1&gt;Інструменти&lt;/g1&gt; &lt;g2&gt;Вирівнювання файлів...&lt;/g2&gt; &lt;/m0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -33984,8 +33984,8 @@ can then launch the Kaptain launch script with:</seg>
       <tuv lang="EN">
         <seg>You can also highlight your preferred alternative in the glossary pane and insert it into the target by right clicking on the selection.</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="maximo" changedate="20200702T160150Z" creationid="maximo" creationdate="20200503T054749Z">
-        <seg>Також ви можете виділити потрібний варіант в панелі глосарія та вставити його обравши відповідний пункт у контекстному меню.</seg>
+      <tuv lang="UK-UA" changeid="fanja9" changedate="20200720T180532Z" creationid="maximo" creationdate="20200503T054749Z">
+        <seg>Також ви можете виділити потрібний варіант у панелі глосарія та вставити його обравши відповідний пункт у контекстному меню.</seg>
       </tuv>
     </tu>
     <tu>
