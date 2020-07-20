@@ -2790,8 +2790,8 @@ The current setting is {0}MB;</seg>
       <tuv lang="EN">
         <seg>&lt;e0&gt;Replace All:&lt;/e0&gt; operates replacement of all occurrences (after displaying a confirmation window where the number of occurrences is shown).</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="lesia" changedate="20200708T093516Z" creationid="maximo" creationdate="20200503T061609Z">
-        <seg>&lt;e0&gt;Замінити все&lt;/e0&gt; — проводить заміну для всіх місць (перед тим вказуючи їх кількість).</seg>
+      <tuv lang="UK-UA" changeid="fanja9" changedate="20200720T155957Z" creationid="maximo" creationdate="20200503T061609Z">
+        <seg>&lt;e0&gt;Замінити все&lt;/e0&gt; — проводить заміну для всіх місць (перед тим вказуючи їхню кількість).</seg>
       </tuv>
     </tu>
     <tu>
