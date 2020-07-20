@@ -8729,8 +8729,8 @@ Buy another drink</seg>
       <tuv lang="EN">
         <seg>Depending upon the preferred editing behavior, the editing field for the untranslated segment may be empty, contain the source text, or contain the translation of the string most similar to the one to be translated.</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="fanja9" changedate="20200720T155328Z" creationid="maximo" creationdate="20200501T200613Z">
-        <seg>Залежно від ваших налаштувань поле редагування для неперекладених сегментів може бути порожнім, містити текст оригіналу або переклад найближчого нечіткого збігу.</seg>
+      <tuv lang="UK-UA" changeid="fanja9" changedate="20200720T191543Z" creationid="maximo" creationdate="20200501T200613Z">
+        <seg>Залежно від ваших налаштувань поле введення тексту у неперекладених сегментів може бути порожнім, містити текст оригіналу або переклад найближчого нечіткого збігу.</seg>
       </tuv>
     </tu>
     <tu>
@@ -19820,8 +19820,8 @@ be launched.</seg>
       <tuv lang="EN">
         <seg>OmegaT leaves the editing field blank.</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="maximo" changedate="20200416T211815Z" creationid="maximo" creationdate="20200416T211815Z">
-        <seg>OmegaT залишить поле вводу порожнім.</seg>
+      <tuv lang="UK-UA" changeid="fanja9" changedate="20200720T191259Z" creationid="maximo" creationdate="20200416T211815Z">
+        <seg>OmegaT залишить поле введення тексту порожнім.</seg>
       </tuv>
     </tu>
     <tu>
@@ -29158,8 +29158,8 @@ in /lib/licenses/Licenses.txt.</seg>
       <tuv lang="EN">
         <seg>The upper part is in the source language, in bold characters with a green background color, the lower part is the editing field, ended by a marker: the marker is &lt;l0&gt;&lt;segment nnnn&gt;&lt;/l0&gt; where nnnn is a number of the segment in the project.</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="Asus" changedate="20200709T110107Z" creationid="maximo" creationdate="20200501T161413Z">
-        <seg>Верхня частина відображена мовою оригіналу, напівжирним шрифтом на зеленому фоні. Нижня частина — це поле введення. Вона закінчується спеціальним маркером — &lt;l0&gt;&lt;сегмент ####&gt;&lt;/l0&gt;, де #### —  це номер поточного сегмента у проєкті.</seg>
+      <tuv lang="UK-UA" changeid="fanja9" changedate="20200720T191345Z" creationid="maximo" creationdate="20200501T161413Z">
+        <seg>Верхня частина відображена мовою оригіналу, напівжирним шрифтом на зеленому фоні. Нижня частина — це поле введення тексту. Вона закінчується спеціальним маркером — &lt;l0&gt;&lt;сегмент ####&gt;&lt;/l0&gt;, де #### —  це номер поточного сегмента у проєкті.</seg>
       </tuv>
     </tu>
     <tu>
@@ -32309,8 +32309,8 @@ on line {1}, column {2}.</seg>
       <tuv lang="EN">
         <seg>Use the upper part as a reference and replace or modify the contents of the editing field with your translation.</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="maximo" changedate="20200701T210113Z" creationid="maximo" creationdate="20200501T195109Z">
-        <seg>Маючи перед очима оригінал, змінюйте переклад у полі введення.</seg>
+      <tuv lang="UK-UA" changeid="fanja9" changedate="20200720T191351Z" creationid="maximo" creationdate="20200501T195109Z">
+        <seg>Маючи перед очима оригінал, змінюйте переклад у полі введення тексту.</seg>
       </tuv>
     </tu>
     <tu>
@@ -34209,8 +34209,8 @@ start menu, the desktop or the quick launch area to link it from there.</seg>
       <tuv lang="EN">
         <seg>You can have the source text inserted automatically into the editing field.</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="fanja9" changedate="20200719T194648Z" creationid="maximo" creationdate="20200416T211645Z">
-        <seg>Можна налаштувати так, щоб текст для перекладу автоматично вставлявся у поле вводу.</seg>
+      <tuv lang="UK-UA" changeid="fanja9" changedate="20200720T191223Z" creationid="maximo" creationdate="20200416T211645Z">
+        <seg>Можна налаштувати так, щоб текст для перекладу автоматично вставлявся у поле введення тексту.</seg>
       </tuv>
     </tu>
     <tu>
