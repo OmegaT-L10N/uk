@@ -318,8 +318,8 @@
       <tuv lang="EN">
         <seg>&amp;Apply this font to tabular data (project files, statistics, etc.)</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20190420T125714Z" creationid="Kos Ivantsov" creationdate="20190420T125714Z">
-        <seg>&amp;Застосувати цей шрифт до табличних даних (у діалогових вікнах з файлами проєкту, статистикою тощо)</seg>
+      <tuv lang="UK-UA" changeid="fanja9" changedate="20200720T181426Z" creationid="Kos Ivantsov" creationdate="20190420T125714Z">
+        <seg>&amp;Застосувати цей шрифт до табличних даних (у діалогових вікнах із файлами проєкту, статистикою тощо)</seg>
       </tuv>
     </tu>
     <tu>
@@ -758,8 +758,8 @@
       <tuv lang="EN">
         <seg>&amp;Ignore file context when identifying segments with alternate translations</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20190822T090413Z" creationid="Kos Ivantsov" creationdate="20190808T132113Z">
-        <seg>Не брати до уваги &amp;файловий контекст при визначенні сегментів з варіантами перекладу</seg>
+      <tuv lang="UK-UA" changeid="fanja9" changedate="20200720T181533Z" creationid="Kos Ivantsov" creationdate="20190808T132113Z">
+        <seg>Не брати до уваги &amp;файловий контекст при визначенні сегментів із варіантами перекладу</seg>
       </tuv>
     </tu>
     <tu>
@@ -1610,9 +1610,9 @@
         <seg>(In the user's manual, see 'Files to translate' &gt; 'File formats' for a list of supported file formats.)
 To add files to the project, click on the Copy Files to Source Folder... button in the Project Files window or call this action from the Project menu and select the source files you want to copy.</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20190421T150647Z" creationid="Kos Ivantsov" creationdate="20190420T181626Z">
+      <tuv lang="UK-UA" changeid="fanja9" changedate="20200720T181418Z" creationid="Kos Ivantsov" creationdate="20190420T181626Z">
         <seg>(Список форматів, що підтримуються, можна знайти в посібнику користувача в розділі «Файли для перекладу» &gt; «Формати файлів»).
-Щоб додати файли до проєкту, натисніть кнопку «Скопіювати документи до теки з файлами для перекладу…» у вікні «Файли проєкту» або виберіть пункт з такою самою назвою в меню «Проєкт» і виберіть файли, які потрібно скопіювати.</seg>
+Щоб додати файли до проєкту, натисніть кнопку «Скопіювати документи до теки з файлами для перекладу…» у вікні «Файли проєкту» або виберіть пункт із такою самою назвою в меню «Проєкт» і виберіть файли, які потрібно скопіювати.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4635,8 +4635,8 @@ The current setting is {0}MB;</seg>
       <tuv lang="EN">
         <seg>Allow translating &amp;blank source segments</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20190517T111518Z" creationid="Kos Ivantsov" creationdate="20190517T111518Z">
-        <seg>Дозволити переклад сегментів з поро&amp;жнім текстом оригіналу</seg>
+      <tuv lang="UK-UA" changeid="fanja9" changedate="20200720T181527Z" creationid="Kos Ivantsov" creationdate="20190517T111518Z">
+        <seg>Дозволити переклад сегментів із поро&amp;жнім текстом оригіналу</seg>
       </tuv>
     </tu>
     <tu>
@@ -6899,16 +6899,16 @@ Buy another drink</seg>
       <tuv lang="EN">
         <seg>Choose Source File</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20190821T204546Z" creationid="Kos Ivantsov" creationdate="20190821T204546Z">
-        <seg>Виберіть файл з текстом оригіналу</seg>
+      <tuv lang="UK-UA" changeid="fanja9" changedate="20200720T181648Z" creationid="Kos Ivantsov" creationdate="20190821T204546Z">
+        <seg>Виберіть файл із текстом оригіналу</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Choose Target File</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20190821T204604Z" creationid="Kos Ivantsov" creationdate="20190821T204604Z">
-        <seg>Виберіть файл з текстом перекладу</seg>
+      <tuv lang="UK-UA" changeid="fanja9" changedate="20200720T181651Z" creationid="Kos Ivantsov" creationdate="20190821T204604Z">
+        <seg>Виберіть файл із текстом перекладу</seg>
       </tuv>
     </tu>
     <tu>
@@ -19203,8 +19203,8 @@ as the Applications folder.</seg>
       <tuv lang="EN">
         <seg>Notify Me When a Segment Has Glossary Hits</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20190807T152746Z" creationid="Kos Ivantsov" creationdate="20190807T140559Z">
-        <seg>Повідомляти про наявність збігів з глосарієм у сегменті</seg>
+      <tuv lang="UK-UA" changeid="fanja9" changedate="20200720T181538Z" creationid="Kos Ivantsov" creationdate="20190807T140559Z">
+        <seg>Повідомляти про наявність збігів із глосарієм у сегменті</seg>
       </tuv>
     </tu>
     <tu>
@@ -24560,7 +24560,7 @@ The scope of a search is by default the project and can be set to be any files l
       <tuv lang="EN">
         <seg>Segments with notes</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20190807T170158Z" creationid="Kos Ivantsov" creationdate="20190807T170145Z">
+      <tuv lang="UK-UA" changeid="fanja9" changedate="20200720T181633Z" creationid="Kos Ivantsov" creationdate="20190807T170145Z">
         <seg>Тло сегментів з примітками</seg>
       </tuv>
     </tu>
@@ -24568,7 +24568,7 @@ The scope of a search is by default the project and can be set to be any files l
       <tuv lang="EN">
         <seg>Segments with notes text</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20190807T170215Z" creationid="Kos Ivantsov" creationdate="20190807T170215Z">
+      <tuv lang="UK-UA" changeid="fanja9" changedate="20200720T181636Z" creationid="Kos Ivantsov" creationdate="20190807T170215Z">
         <seg>Текст сегментів з примітками</seg>
       </tuv>
     </tu>
@@ -25778,8 +25778,8 @@ The scope of a search is by default the project and can be set to be any files l
       <tuv lang="EN">
         <seg>Source segment could not be located for certain translation units.</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20190701T133722Z" creationid="Kos Ivantsov" creationdate="20190701T133701Z">
-        <seg>Для певних одиниць перекладу не вдалося виявити сегмент з текстом оригіналу.</seg>
+      <tuv lang="UK-UA" changeid="fanja9" changedate="20200720T181513Z" creationid="Kos Ivantsov" creationdate="20190701T133701Z">
+        <seg>Для певних одиниць перекладу не вдалося виявити сегмент із текстом оригіналу.</seg>
       </tuv>
     </tu>
     <tu>
@@ -34453,8 +34453,8 @@ window to be able to launch it from any location.</seg>
       <tuv lang="EN">
         <seg>You may try to solve this problem in one of the following ways:</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20190420T180318Z" creationid="Kos Ivantsov" creationdate="20190420T180318Z">
-        <seg>Для усунення цієї проблеми можна спробувати один з таких способів:</seg>
+      <tuv lang="UK-UA" changeid="fanja9" changedate="20200720T181408Z" creationid="Kos Ivantsov" creationdate="20190420T180318Z">
+        <seg>Для усунення цієї проблеми можна спробувати один із таких способів:</seg>
       </tuv>
     </tu>
     <tu>
