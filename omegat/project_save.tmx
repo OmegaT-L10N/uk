@@ -4919,8 +4919,8 @@ The current setting is {0}MB;</seg>
       <tuv lang="EN">
         <seg>An example of the use of this feature would be to send translated documents automatically to the client's FTP server.</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="maximo" changedate="20200510T172432Z" creationid="maximo" creationdate="20200417T083426Z">
-        <seg>Наприклад, можна використати цей інструмент для того, щоб автоматично завантажувати переклад на FTP сервер клієнта.</seg>
+      <tuv lang="UK-UA" changeid="fanja9" changedate="20200720T115916Z" creationid="maximo" creationdate="20200417T083426Z">
+        <seg>Наприклад, можна використати цей інструмент для того, щоб автоматично завантажувати переклад на FTP-сервер клієнта.</seg>
       </tuv>
     </tu>
     <tu>
