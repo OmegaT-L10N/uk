@@ -3730,8 +3730,8 @@ The current setting is {0}MB;</seg>
       <tuv lang="EN">
         <seg>A script bundled with OmegaT called Switch Colour Themes provides a default "Dark" theme.</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="lesia" changedate="20200708T085849Z" creationid="maximo" creationdate="20200412T175641Z">
-        <seg>Скрипт Switch Colour Themes, вбудований у OmegaT, надає стандартну темну тему «Dark».</seg>
+      <tuv lang="UK-UA" changeid="fanja9" changedate="20200720T174724Z" creationid="maximo" creationdate="20200412T175641Z">
+        <seg>Скрипт Switch Colour Themes, вбудований в OmegaT, надає стандартну темну тему «Dark».</seg>
       </tuv>
     </tu>
     <tu>
@@ -13949,8 +13949,8 @@ their defaults as a result of the location change.</seg>
       <tuv lang="EN">
         <seg>If we want to avoid any mis-translations in case of segments with several possible target contents, checking this check box will cause &lt;e0&gt;Go To Next Untranslated Segment&lt;/e0&gt; to stop on the next such segment, irrespective of whether it has already been translated or not.</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="fanja9" changedate="20200720T070644Z" creationid="maximo" creationdate="20200417T075342Z">
-        <seg>Якщо ви хочете уникнути випадків неправильного перекладу, коли для сегментів є кілька варіантів перекладу, цей прапорець змусить перехід &lt;e0&gt;До наступного неперекладеного сегмента&lt;/e0&gt; зупинятися на них, незважаючи на те, чи були вони вже перекладені, чи ще ні.</seg>
+      <tuv lang="UK-UA" changeid="fanja9" changedate="20200720T174811Z" creationid="maximo" creationdate="20200417T075342Z">
+        <seg>Якщо ви хочете уникнути випадків неправильного перекладу, коли для сегментів є кілька варіантів перекладу, цей прапорець змусить перехід &lt;e0&gt;До наступного неперекладеного сегмента&lt;/e0&gt; зупинятися на них, не зважаючи на те, чи були вони вже перекладені, чи ще ні.</seg>
       </tuv>
     </tu>
     <tu>
@@ -24896,8 +24896,8 @@ The scope of a search is by default the project and can be set to be any files l
       <tuv lang="EN">
         <seg>Select this option if you want the glossary to display words that have the same root.</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="Asus" changedate="20200618T040351Z" creationid="maximo" creationdate="20200412T141055Z">
-        <seg>Оберіть цей параметр, якщо ви хочете, щоб глосарій відображав спільнокореневі слова.</seg>
+      <tuv lang="UK-UA" changeid="fanja9" changedate="20200720T174550Z" creationid="maximo" creationdate="20200412T141055Z">
+        <seg>Оберіть цей параметр, якщо ви хочете, щоб глосарій показував спільнокореневі слова.</seg>
       </tuv>
     </tu>
     <tu>
