@@ -3642,8 +3642,8 @@ The current setting is {0}MB;</seg>
       <tuv lang="EN">
         <seg>A good starting point will always be the existing rules.</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="maximo" changedate="20200416T090552Z" creationid="maximo" creationdate="20200416T090552Z">
-        <seg>Хорошим початком буде редагування існуючих правил.</seg>
+      <tuv lang="UK-UA" changeid="fanja9" changedate="20200720T175848Z" creationid="maximo" creationdate="20200416T090552Z">
+        <seg>Хорошим початком буде редагування чинних правил.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6819,8 +6819,8 @@ Buy another drink</seg>
       <tuv lang="EN">
         <seg>Check this option to record in the &lt;f0&gt;project_save.tmx&lt;/f0&gt; file the information that a segment has been auto-populated, so it can be displayed with a specific color in the Editor (if the "Mark Auto-Populated Segments" option, in the View menu, is checked).</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="maximo" changedate="20200417T080041Z" creationid="maximo" creationdate="20200417T080041Z">
-        <seg>Поставте цей прапорець, щоб у &lt;f0&gt;project_save.tmx&lt;/f0&gt; записувалась інформація про те, що сегмент був заповнений автоматично. Тоді їх можна буде відображати певним кольором у вікні редагування (якщо увімкнути опцію Вигляд &gt; Позначати автоматично заповнені сегменти).</seg>
+      <tuv lang="UK-UA" changeid="fanja9" changedate="20200720T180103Z" creationid="maximo" creationdate="20200417T080041Z">
+        <seg>Поставте цей прапорець, щоб у &lt;f0&gt;project_save.tmx&lt;/f0&gt; записувалась інформація про те, що сегмент був заповнений автоматично. Тоді їх можна буде відмітити певним кольором у вікні редагування (якщо увімкнути опцію Вигляд &gt; Позначати автоматично заповнені сегменти).</seg>
       </tuv>
     </tu>
     <tu>
@@ -14819,8 +14819,8 @@ click on that shortcut.</seg>
       <tuv lang="EN">
         <seg>In order to edit or expand an existing set of rules, simply click on it in the top table.</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="maximo" changedate="20200415T110458Z" creationid="maximo" creationdate="20200415T110458Z">
-        <seg>Щоб змінити чи розширити існуючий набір правил, просто натисніть на нього у верхній табличці.</seg>
+      <tuv lang="UK-UA" changeid="fanja9" changedate="20200720T175828Z" creationid="maximo" creationdate="20200415T110458Z">
+        <seg>Щоб змінити чи розширити чинний набір правил, просто натисніть на нього у верхній табличці.</seg>
       </tuv>
     </tu>
     <tu>
@@ -19571,8 +19571,8 @@ as the Applications folder.</seg>
       <tuv lang="EN">
         <seg>OmegaT has a built-in spell checker based on the &lt;l0&gt;spelling checker&lt;/l0&gt; used in Apache OpenOffice, LibreOffice, Firefox and Thunderbird.</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="maximo" changedate="20200510T171125Z" creationid="maximo" creationdate="20200416T100121Z">
-        <seg>В OmegaT вбудована &lt;l0&gt;перевірка правопису&lt;/l0&gt; на базі тої, що використовується у Apache OpenOffice, LibreOffice, Firefox та Thunderbird.</seg>
+      <tuv lang="UK-UA" changeid="fanja9" changedate="20200720T175912Z" creationid="maximo" creationdate="20200416T100121Z">
+        <seg>В OmegaT вбудована &lt;l0&gt;перевірка правопису&lt;/l0&gt; на базі тої, що використовується в Apache OpenOffice, LibreOffice, Firefox та Thunderbird.</seg>
       </tuv>
     </tu>
     <tu>
@@ -32717,8 +32717,8 @@ searchable without subscription:</seg>
       <tuv lang="EN">
         <seg>Values around 100 display commands at the top, and values around 900 display them at the bottom.</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="fanja9" changedate="20200719T194255Z" creationid="maximo" creationdate="20200416T211432Z">
-        <seg>Значення в районі 100 відображають команди згори списку, а в районі 900 — внизу списку.</seg>
+      <tuv lang="UK-UA" changeid="fanja9" changedate="20200720T175939Z" creationid="maximo" creationdate="20200416T211432Z">
+        <seg>Значення в районі 100 показують команди згори списку, а в районі 900 — внизу списку.</seg>
       </tuv>
     </tu>
     <tu>
