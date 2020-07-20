@@ -30930,8 +30930,8 @@ linux-install.sh script, and execute the script with ./linux-install.sh.</seg>
       <tuv lang="EN">
         <seg>Tokenizers corresponding to the selected languages are displayed.</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="lesia" changedate="20200412T195503Z" creationid="lesia" creationdate="20200412T195503Z">
-        <seg>Показані токенізатори, котрі відповідають обраній мовній парі.</seg>
+      <tuv lang="UK-UA" changeid="fanja9" changedate="20200720T123329Z" creationid="lesia" creationdate="20200412T195503Z">
+        <seg>Тут показані токенізатори, котрі відповідають обраній мовній парі.</seg>
       </tuv>
     </tu>
     <tu>
