@@ -2555,8 +2555,8 @@ The current setting is {0}MB;</seg>
       <tuv lang="EN">
         <seg>&lt;e0&gt;Add or rewrite encoding declaration in HTML and XHTML files&lt;/e0&gt;: the target files often need to have a different character set encoding from the one in the source file (whether it is explicitly defined or implied).</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="fanja9" changedate="20200718T192230Z" creationid="maximo" creationdate="20200413T164124Z">
-        <seg>&lt;e0&gt;Додавати чи перезаписувати оголошення про кодування у файлах HTML і XHTML&lt;/e0&gt;: перекладені файли часто потребують іншої системи кодування порівняно з оригінальним файлом (незалежно від того, чи вона чітко визначена, чи прихована).</seg>
+      <tuv lang="UK-UA" changeid="fanja9" changedate="20200720T175256Z" creationid="maximo" creationdate="20200413T164124Z">
+        <seg>&lt;e0&gt;Додавати чи перезаписувати оголошення про кодування у файлах HTML і XHTML&lt;/e0&gt;: перекладені файли часто потребують іншої системи кодування, відмінної від тої, яка використовується для оригінального файлу (незалежно від того, чи вона чітко визначена, чи прихована).</seg>
       </tuv>
     </tu>
     <tu>
@@ -22893,8 +22893,8 @@ These words: 'Page not found'</seg>
       <tuv lang="EN">
         <seg>Remove leading and trailing tags: uncheck this option to display all the tags, including tags at the beginning and end of the segment.</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="Asus" changedate="20200622T031706Z" creationid="maximo" creationdate="20200412T200005Z">
-        <seg>Видалити початкові та кінцеві теґи: заберіть прапорець, якщо ви хочете, щоб відображалися всі теґи, в тому числі ті, що починають та закінчують сегмент.</seg>
+      <tuv lang="UK-UA" changeid="fanja9" changedate="20200720T174927Z" creationid="maximo" creationdate="20200412T200005Z">
+        <seg>Видалити початкові та кінцеві теґи: заберіть прапорець, якщо ви хочете, щоб показувалися всі теґи, в тому числі ті, що починають та закінчують сегмент.</seg>
       </tuv>
     </tu>
     <tu>
@@ -29512,8 +29512,8 @@ You, victim of one</seg>
       <tuv lang="EN">
         <seg>They will appear as separate segments in the translation.</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="maximo" changedate="20200413T113836Z" creationid="maximo" creationdate="20200413T113836Z">
-        <seg>Вони будуть відображатися у тексті перекладу як окремі сегменти.</seg>
+      <tuv lang="UK-UA" changeid="fanja9" changedate="20200720T175025Z" creationid="maximo" creationdate="20200413T113836Z">
+        <seg>Вони будуть показуватися у тексті перекладу як окремі сегменти.</seg>
       </tuv>
     </tu>
     <tu>
