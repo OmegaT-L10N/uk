@@ -2662,7 +2662,7 @@ The current setting is {0}MB;</seg>
       <tuv lang="EN">
         <seg>&lt;e0&gt;Hint:&lt;/e0&gt; the set of file filters for a given project is stored as &lt;f1&gt;project/omegat/filters.xml.&lt;/f1&gt;</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="maximo" changedate="20200614T151149Z" creationid="lesia" creationdate="20200420T163735Z">
+      <tuv lang="UK-UA" changeid="fanja9" changedate="20200720T143415Z" creationid="lesia" creationdate="20200420T163735Z">
         <seg>&lt;e0&gt;До уваги:&lt;/e0&gt; набір фільтрів файлів для конкретного проєкту зберігається у файлі &lt;f1&gt;project/omegat/filters.xml.&lt;/f1&gt;</seg>
       </tuv>
     </tu>
@@ -26157,8 +26157,8 @@ The scope of a search is by default the project and can be set to be any files l
       <tuv lang="EN">
         <seg>String showing the differences between the source and the match.&lt;e0&gt; Hint:&lt;/e0&gt; use this if the text you are translating has been updated.</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="fanja9" changedate="20200704T145524Z" creationid="maximo" creationdate="20200417T082252Z">
-        <seg>Стрічка, що показує різницю між оригінальним текстом і текстом збігу. &lt;e0&gt; До уваги:&lt;/e0&gt; це особливо корисно, коли змінився текст, який ви перекладаєте.</seg>
+      <tuv lang="UK-UA" changeid="fanja9" changedate="20200720T143309Z" creationid="maximo" creationdate="20200417T082252Z">
+        <seg>Стрічка, що показує різницю між оригінальним текстом і текстом збігу. &lt;e0&gt; Підказка:&lt;/e0&gt; це особливо корисно, коли змінився текст, який ви перекладаєте.</seg>
       </tuv>
     </tu>
     <tu>
@@ -30527,8 +30527,8 @@ the server.</seg>
       <tuv lang="EN">
         <seg>To create a project-specific set of file filters, click on the &lt;g0&gt;File filter ... &lt;/g0&gt;button, then activate &lt;g1&gt;Enable project specific filters&lt;/g1&gt; check box in the window that opens.</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="maximo" changedate="20200511T194547Z" creationid="lesia" creationdate="20200420T160454Z">
-        <seg>Щоб створити специфічний для проєкту набір файлових фільтрів, натисніть на поле &lt;g0&gt;Фільтри файлів... &lt;/g0&gt; та поставте прапорець &lt;g1&gt;Налаштування файлових фільтрів будуть ужиті лише у поточному проєкті&lt;/g1&gt;.</seg>
+      <tuv lang="UK-UA" changeid="fanja9" changedate="20200720T143144Z" creationid="lesia" creationdate="20200420T160454Z">
+        <seg>Щоб створити специфічний для проєкту набір фільтрів файлів, натисніть на поле &lt;g0&gt;Фільтри файлів... &lt;/g0&gt; та поставте прапорець &lt;g1&gt;Налаштування файлових фільтрів будуть ужиті лише у поточному проєкті&lt;/g1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
