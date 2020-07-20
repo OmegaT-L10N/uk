@@ -6323,8 +6323,8 @@ Buy another drink</seg>
       <tuv lang="EN">
         <seg>Change the default interval (3 minutes) depending on the characteristics of the project:</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="maximo" changedate="20200417T083046Z" creationid="maximo" creationdate="20200417T083046Z">
-        <seg>Змінюйте дефолтний інтервал (3 хвилини) залежно від того, що у вас за проєкт:</seg>
+      <tuv lang="UK-UA" changeid="fanja9" changedate="20200720T115622Z" creationid="maximo" creationdate="20200417T083046Z">
+        <seg>Змінюйте типовий інтервал (3 хвилини) залежно від особливостей вашого проєкту:</seg>
       </tuv>
     </tu>
     <tu>
@@ -37009,8 +37009,8 @@ create its configuration folder.</seg>
       <tuv lang="EN">
         <seg>short intervals (minimum: 10 seconds) for synchronised projects on an internal server.</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="maximo" changedate="20200417T083134Z" creationid="maximo" creationdate="20200417T083134Z">
-        <seg>Короткі інтервали (мінімум 10 секунд) для синхронізованих проєктів на внутрішньому сервері.</seg>
+      <tuv lang="UK-UA" changeid="fanja9" changedate="20200720T115638Z" creationid="maximo" creationdate="20200417T083134Z">
+        <seg>короткі інтервали (мінімум 10 секунд) для синхронізованих проєктів на внутрішньому сервері.</seg>
       </tuv>
     </tu>
     <tu>
