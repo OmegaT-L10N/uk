@@ -29813,8 +29813,8 @@ the server.</seg>
       <tuv lang="EN">
         <seg>This external command cannot include "pipes", etc., which is why calling a script is recommended.</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="maximo" changedate="20200614T144322Z" creationid="lesia" creationdate="20200420T090139Z">
-        <seg>Ця зовнішня команда не підтримує синтаксис шеллу (наприклад, пайпи) , саме тому для складніших випадків рекомендується створити скрипт.</seg>
+      <tuv lang="UK-UA" changeid="fanja9" changedate="20200720T191921Z" creationid="lesia" creationdate="20200420T090139Z">
+        <seg>Ця зовнішня команда не підтримує синтаксиси командних оболонок (наприклад, конвеєри). Саме тому для складніших випадків рекомендується створити скрипт.</seg>
       </tuv>
     </tu>
     <tu>
