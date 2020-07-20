@@ -96,8 +96,8 @@
       <tuv lang="EN">
         <seg>"\s" means any white space character (space, tab, new page etc.)</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="fanja9" changedate="20200719T193118Z" creationid="maximo" creationdate="20200416T090844Z">
-        <seg>«\s» позначає будь-який пробільний символ (пробіл, табуляцію, символ нової сторінки і тощо)</seg>
+      <tuv lang="UK-UA" changeid="fanja9" changedate="20200720T203119Z" creationid="maximo" creationdate="20200416T090844Z">
+        <seg>«\s» позначає будь-який пробільний символ (пробіл, табуляцію, символ нової сторінки тощо)</seg>
       </tuv>
     </tu>
     <tu>
@@ -4555,8 +4555,8 @@ The current setting is {0}MB;</seg>
       <tuv lang="EN">
         <seg>All segmentation rule sets for a matching language pattern are active and are applied in the given order of priority, so rules for specific language should be higher than default ones.</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="maximo" changedate="20200415T111053Z" creationid="maximo" creationdate="20200415T105758Z">
-        <seg>Всі правила, для яких спрацьовує шаблон назви мови, активні і будуть перевірятися у порядку, в якому вони перелічені. Тому правила для конкретної мови чи діалекту варто розташовувати вище за стандартні правила.</seg>
+      <tuv lang="UK-UA" changeid="fanja9" changedate="20200720T202928Z" creationid="maximo" creationdate="20200415T105758Z">
+        <seg>Всі правила, для яких спрацьовує шаблон назви мови, активні та будуть перевірятися у порядку, в якому вони перелічені. Тому правила для конкретної мови чи діалекту варто розташовувати вище за стандартні правила.</seg>
       </tuv>
     </tu>
     <tu>
@@ -14191,8 +14191,8 @@ Explorer), change the settings so that file extensions are displayed.</seg>
       <tuv lang="EN">
         <seg>If you have a powerful machine, and/or if you don't like how the scrollbar behaves during progressive loading, you can increase this number.</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="lesia" changedate="20200708T102420Z" creationid="maximo" creationdate="20200417T080352Z">
-        <seg>Якщо у вас потужний комп’ютер та/або вам не подобається як себе поводить полоса прокручування під час динамічного підвантажування, ви можете збільшити це число.</seg>
+      <tuv lang="UK-UA" changeid="fanja9" changedate="20200720T203034Z" creationid="maximo" creationdate="20200417T080352Z">
+        <seg>Якщо у вас потужний комп’ютер та/або вам не подобається як себе поводить смуга прокручування під час динамічного підвантажування, ви можете збільшити це число.</seg>
       </tuv>
     </tu>
     <tu>
@@ -16979,8 +16979,8 @@ itself on the first run.</seg>
       <tuv lang="EN">
         <seg>List of projects for which login details are stored in OmegaT.</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="maximo" changedate="20200417T081238Z" creationid="maximo" creationdate="20200417T081238Z">
-        <seg>Список проєктів, ідентифікаційні дані для яких збережені у OmegaT.</seg>
+      <tuv lang="UK-UA" changeid="fanja9" changedate="20200720T203055Z" creationid="maximo" creationdate="20200417T081238Z">
+        <seg>Список проєктів, ідентифікаційні дані для яких збережені в OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
