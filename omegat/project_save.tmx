@@ -29158,8 +29158,8 @@ in /lib/licenses/Licenses.txt.</seg>
       <tuv lang="EN">
         <seg>The upper part is in the source language, in bold characters with a green background color, the lower part is the editing field, ended by a marker: the marker is &lt;l0&gt;&lt;segment nnnn&gt;&lt;/l0&gt; where nnnn is a number of the segment in the project.</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="fanja9" changedate="20200720T191345Z" creationid="maximo" creationdate="20200501T161413Z">
-        <seg>Верхня частина відображена мовою оригіналу, напівжирним шрифтом на зеленому фоні. Нижня частина — це поле введення тексту. Вона закінчується спеціальним маркером — &lt;l0&gt;&lt;сегмент ####&gt;&lt;/l0&gt;, де #### —  це номер поточного сегмента у проєкті.</seg>
+      <tuv lang="UK-UA" changeid="fanja9" changedate="20200720T195436Z" creationid="maximo" creationdate="20200501T161413Z">
+        <seg>Верхня частина відображена мовою оригіналу, напівжирним шрифтом на зеленому фоні. Нижня частина — це поле введення тексту. Вона закінчується спеціальним маркером — &lt;l0&gt;&lt;сегмент ####&gt;&lt;/l0&gt;, де #### — це номер поточного сегмента у проєкті.</seg>
       </tuv>
     </tu>
     <tu>
