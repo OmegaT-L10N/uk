@@ -2379,8 +2379,8 @@ The current setting is {0}MB;</seg>
       <tuv lang="EN">
         <seg>&lt;a0&gt;OmegaT&lt;/a0&gt; is available bundled with a Oracle Java JRE for Linux (Intel x86) and Windows platforms.</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="maximo" changedate="20200420T165635Z" creationid="maximo" creationdate="20200420T165635Z">
-        <seg>&lt;a0&gt;OmegaT&lt;/a0&gt; доступна у пакетах із Oracle Java JRE для платформ Linux (Intel x86) та Windows.</seg>
+      <tuv lang="UK-UA" changeid="fanja9" changedate="20200720T201700Z" creationid="maximo" creationdate="20200420T165635Z">
+        <seg>&lt;a0&gt;OmegaT&lt;/a0&gt; доступна у пакетах з Oracle Java JRE для платформ Linux (Intel x86) та Windows.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11747,8 +11747,8 @@ provided (omegat.kaptn).</seg>
       <tuv lang="EN">
         <seg>For example, if you have an outdated Microsoft Word version, that does not handle the ODT format, here's a round trip for Word files with the DOC extension:</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="maximo" changedate="20200704T205350Z" creationid="maximo" creationdate="20200704T205350Z">
-        <seg>Наприклад, якщо у вас застаріла версія Microsoft Word, що не працює із ODT, можна провести таку послідовність операцій, щоб отримати перекладений DOC:</seg>
+      <tuv lang="UK-UA" changeid="fanja9" changedate="20200720T201854Z" creationid="maximo" creationdate="20200704T205350Z">
+        <seg>Наприклад, якщо у вас застаріла версія Microsoft Word, що не працює з ODT, можна провести таку послідовність операцій, щоб отримати перекладений DOC:</seg>
       </tuv>
     </tu>
     <tu>
