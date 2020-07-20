@@ -20983,8 +20983,8 @@ Vanishing like mist</seg>
       <tuv lang="EN">
         <seg>Paragraphs, sections and tables are set to bidi</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="fanja9" changedate="20200705T120512Z" creationid="maximo" creationdate="20200704T191453Z">
-        <seg>Абзаци, розділи і таблички мають змішаний напрямок письма</seg>
+      <tuv lang="UK-UA" changeid="fanja9" changedate="20200720T202746Z" creationid="maximo" creationdate="20200704T191453Z">
+        <seg>Абзаци, розділи та таблички мають змішаний напрямок письма</seg>
       </tuv>
     </tu>
     <tu>
@@ -33161,8 +33161,8 @@ of selecting, obtaining and installing it.</seg>
       <tuv lang="EN">
         <seg>When translating between RTL and LTR languages, correctly reading the tags from the source and entering them properly in the target may require the translator to toggle between LTR and RTL modes numerous times.</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="fanja9" changedate="20200720T180324Z" creationid="maximo" creationdate="20200704T190048Z">
-        <seg>Під час перекладу між мовами з різними напрямками письма, щоб правильно прочитати теґи в оригінальних сегментах та щоб правильно вставити їх у переклад, можливо, треба буде безліч разів переключатися між режимами.</seg>
+      <tuv lang="UK-UA" changeid="fanja9" changedate="20200720T202710Z" creationid="maximo" creationdate="20200704T190048Z">
+        <seg>Під час перекладу між мовами з різними напрямками письма, щоб правильно прочитати теґи в оригінальних сегментах та щоб правильно вставити їх у переклад, можливо, треба буде безліч разів перемикатися між режимами.</seg>
       </tuv>
     </tu>
     <tu>
