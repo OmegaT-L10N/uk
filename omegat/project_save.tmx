@@ -2281,8 +2281,8 @@ The current setting is {0}MB;</seg>
       <tuv lang="EN">
         <seg>&lt;/e1&gt; Empty translations are now allowed.</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="lesia" changedate="20200701T124313Z" creationid="maximo" creationdate="20200416T212034Z">
-        <seg>&lt;/e1&gt;. Зверніть увагу, що це також дозволяє порожній переклад для сегментів.</seg>
+      <tuv lang="UK-UA" changeid="fanja9" changedate="20200720T171150Z" creationid="maximo" creationdate="20200416T212034Z">
+        <seg>Зверніть увагу, що це також дозволяє порожній переклад для сегментів.</seg>
       </tuv>
     </tu>
     <tu>
@@ -30141,8 +30141,8 @@ the server.</seg>
       <tuv lang="EN">
         <seg>This option allows you to enter the translation without the need to remove the source text, thus saving you two keystrokes (&lt;e0&gt;Ctrl+A &lt;/e0&gt;and &lt;e1&gt;Del).</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="maximo" changedate="20200416T211954Z" creationid="maximo" creationdate="20200416T211954Z">
-        <seg>Цей варіант дозволить зекономити дві комбінації клавіш, які ви б витратили на видалення тексту для перекладу: &lt;e0&gt;Ctrl+A&lt;/e0&gt; та &lt;e1&gt;Del</seg>
+      <tuv lang="UK-UA" changeid="fanja9" changedate="20200720T171157Z" creationid="maximo" creationdate="20200416T211954Z">
+        <seg>Цей варіант дозволить зекономити дві комбінації клавіш, які ви б витратили на видалення тексту для перекладу: &lt;e0&gt;Ctrl+A&lt;/e0&gt; та &lt;e1&gt;Del&lt;/e1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
