@@ -8729,8 +8729,8 @@ Buy another drink</seg>
       <tuv lang="EN">
         <seg>Depending upon the preferred editing behavior, the editing field for the untranslated segment may be empty, contain the source text, or contain the translation of the string most similar to the one to be translated.</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="maximo" changedate="20200501T200613Z" creationid="maximo" creationdate="20200501T200613Z">
-        <seg>Залежно від ваших налаштувань поле редагування для неперекладених сегментів може бути пустим, містити текст оригіналу або переклад найближчого нечіткого збігу.</seg>
+      <tuv lang="UK-UA" changeid="fanja9" changedate="20200720T155328Z" creationid="maximo" creationdate="20200501T200613Z">
+        <seg>Залежно від ваших налаштувань поле редагування для неперекладених сегментів може бути порожнім, містити текст оригіналу або переклад найближчого нечіткого збігу.</seg>
       </tuv>
     </tu>
     <tu>
@@ -27419,8 +27419,8 @@ Please try to correct the error and reload the project.</seg>
       <tuv lang="EN">
         <seg>The argument &lt;e0&gt;pseudotranslatetype&lt;/e0&gt; specifies, whether the target segments are to be equal to the source, or left empty.</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="maximo" changedate="20200423T155242Z" creationid="maximo" creationdate="20200423T155242Z">
-        <seg>Аргумент &lt;e0&gt;pseudotranslatetype&lt;/e0&gt; вказує, чи перекладені сегменти мають бути пустими чи дорівнювати оригіналу.</seg>
+      <tuv lang="UK-UA" changeid="fanja9" changedate="20200720T155309Z" creationid="maximo" creationdate="20200423T155242Z">
+        <seg>Аргумент &lt;e0&gt;pseudotranslatetype&lt;/e0&gt; вказує, чи перекладені сегменти мають бути порожніми чи дорівнювати оригіналу.</seg>
       </tuv>
     </tu>
     <tu>
