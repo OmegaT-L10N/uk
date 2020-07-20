@@ -2579,8 +2579,8 @@ The current setting is {0}MB;</seg>
       <tuv lang="EN">
         <seg>&lt;e0&gt;Allow blank translations in the target file&lt;/e0&gt;:</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="maximo" changedate="20200413T104802Z" creationid="maximo" creationdate="20200413T104802Z">
-        <seg>&lt;e0&gt;Дозволити порожній текст в перекладених файлах&lt;/e0&gt;:</seg>
+      <tuv lang="UK-UA" changeid="fanja9" changedate="20200720T180311Z" creationid="maximo" creationdate="20200413T104802Z">
+        <seg>&lt;e0&gt;Дозволити порожній текст у перекладених файлах&lt;/e0&gt;:</seg>
       </tuv>
     </tu>
     <tu>
@@ -5082,8 +5082,8 @@ The TMX file will not be loaded.</seg>
       <tuv lang="EN">
         <seg>Anything after the "//" will be ignored.</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="maximo" changedate="20200607T165307Z" creationid="maximo" creationdate="20200405T043025Z">
-        <seg>Текст в рядку після «//» ігнорується.</seg>
+      <tuv lang="UK-UA" changeid="fanja9" changedate="20200720T180303Z" creationid="maximo" creationdate="20200405T043025Z">
+        <seg>Текст у рядку після «//» ігнорується.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5319,8 +5319,8 @@ may experience unexpected, but correct behaviour.</seg>
       <tuv lang="EN">
         <seg>At the end of your translation, OmegaT exports three translation memories called &lt;f0&gt;level1&lt;/f0&gt;, &lt;f1&gt;level2&lt;/f1&gt; and &lt;f2&gt;omegat&lt;/f2&gt; to your project folder.</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="fanja9" changedate="20200719T151907Z" creationid="Kos Ivantsov" creationdate="20190822T203231Z">
-        <seg>Щоразу під час створення перекладених файлів програма OmegaT експортує перекладене у проєкті до трьох файлів пам’яті перекладів. Ці файли розміщені в теці проєкту та містять в назві файлу такі частини: &lt;f0&gt;level1&lt;/f0&gt;, &lt;f1&gt;level2&lt;/f1&gt; та &lt;f2&gt;omegat&lt;/f2&gt;.</seg>
+      <tuv lang="UK-UA" changeid="fanja9" changedate="20200720T180452Z" creationid="Kos Ivantsov" creationdate="20190822T203231Z">
+        <seg>Щоразу під час створення перекладених файлів програма OmegaT експортує перекладене у проєкті до трьох файлів пам’яті перекладів. Ці файли розміщені в теці проєкту та містять у назві файлу такі частини: &lt;f0&gt;level1&lt;/f0&gt;, &lt;f1&gt;level2&lt;/f1&gt; та &lt;f2&gt;omegat&lt;/f2&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6763,8 +6763,8 @@ Buy another drink</seg>
       <tuv lang="EN">
         <seg>Check that your dict files are in the correct folder (or in a subfolder below it).</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="fanja9" changedate="20200529T171748Z" creationid="maximo" creationdate="20200329T200640Z">
-        <seg>Перевірте, чи розташовані файли словників в правильній теці (чи підтеці).</seg>
+      <tuv lang="UK-UA" changeid="fanja9" changedate="20200720T180252Z" creationid="maximo" creationdate="20200329T200640Z">
+        <seg>Перевірте, чи розташовані файли словників у правильній теці (чи підтеці).</seg>
       </tuv>
     </tu>
     <tu>
@@ -7823,8 +7823,8 @@ Buy another drink</seg>
       <tuv lang="EN">
         <seg>Copy them to a safe place for future referrals.</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="maximo" changedate="20200705T060533Z" creationid="maximo" creationdate="20200705T060533Z">
-        <seg>Скопіюйте їх в надійне місце.</seg>
+      <tuv lang="UK-UA" changeid="fanja9" changedate="20200720T180351Z" creationid="maximo" creationdate="20200705T060533Z">
+        <seg>Скопіюйте їх у надійне місце.</seg>
       </tuv>
     </tu>
     <tu>
@@ -26069,8 +26069,8 @@ The scope of a search is by default the project and can be set to be any files l
       <tuv lang="EN">
         <seg>Starting in console mode</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="maximo" changedate="20200423T153808Z" creationid="maximo" creationdate="20200423T153808Z">
-        <seg>Запуск в консольному режимі</seg>
+      <tuv lang="UK-UA" changeid="fanja9" changedate="20200720T180416Z" creationid="maximo" creationdate="20200423T153808Z">
+        <seg>Запуск у консольному режимі</seg>
       </tuv>
     </tu>
     <tu>
@@ -27064,8 +27064,8 @@ current folder will be used instead.</seg>
       <tuv lang="EN">
         <seg>The &lt;f3&gt;level1&lt;/f3&gt; and &lt;f4&gt;level2&lt;/f4&gt; memories can be shared with users of other translation programs.</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="fanja9" changedate="20200719T151913Z" creationid="Kos Ivantsov" creationdate="20190822T203419Z">
-        <seg>Файли пам’яті, що мають в назві &lt;f3&gt;level1&lt;/f3&gt; або &lt;f4&gt;level2&lt;/f4&gt;, можна використовувати для обміну з іншими програмами автоматизації перекладу.</seg>
+      <tuv lang="UK-UA" changeid="fanja9" changedate="20200720T180501Z" creationid="Kos Ivantsov" creationdate="20190822T203419Z">
+        <seg>Файли пам’яті, що мають у назві &lt;f3&gt;level1&lt;/f3&gt; або &lt;f4&gt;level2&lt;/f4&gt;, можна використовувати для обміну з іншими програмами автоматизації перекладу.</seg>
       </tuv>
     </tu>
     <tu>
@@ -28651,16 +28651,16 @@ in /lib/licenses/Licenses.txt.</seg>
       <tuv lang="EN">
         <seg>The resulting TMX is stored in the &lt;f1&gt;/omegat/&lt;/f1&gt; folder under the name &lt;f2&gt;align.tmx&lt;/f2&gt;.</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="fanja9" changedate="20200713T140838Z" creationid="maximo" creationdate="20200423T155527Z">
-        <seg>Файл TMX, що буде отриманий в результаті вирівнювання, збережеться у теці &lt;f1&gt;./omegat&lt;/f1&gt; з назвою &lt;f2&gt;align.tmx&lt;/f2&gt;.</seg>
+      <tuv lang="UK-UA" changeid="fanja9" changedate="20200720T180424Z" creationid="maximo" creationdate="20200423T155527Z">
+        <seg>Файл TMX, що буде отриманий у результаті вирівнювання, збережеться у теці &lt;f1&gt;./omegat&lt;/f1&gt; з назвою &lt;f2&gt;align.tmx&lt;/f2&gt;.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>The resulting TMX is stored in the &lt;f3&gt;omegat&lt;/f3&gt; folder under the name &lt;f4&gt;align.tmx&lt;/f4&gt;.</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="fanja9" changedate="20200719T151856Z" creationid="maximo" creationdate="20200423T155839Z">
-        <seg>Файл TMX, що буде отриманий в результаті вирівнювання, зберігається у теці &lt;f3&gt;./omegat&lt;/f3&gt; під назвою &lt;f4&gt;align.tmx&lt;/f4&gt;.</seg>
+      <tuv lang="UK-UA" changeid="fanja9" changedate="20200720T180445Z" creationid="maximo" creationdate="20200423T155839Z">
+        <seg>Файл TMX, що буде отриманий у результаті вирівнювання, збережеться у теці &lt;f3&gt;./omegat&lt;/f3&gt; під назвою &lt;f4&gt;align.tmx&lt;/f4&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -33161,8 +33161,8 @@ of selecting, obtaining and installing it.</seg>
       <tuv lang="EN">
         <seg>When translating between RTL and LTR languages, correctly reading the tags from the source and entering them properly in the target may require the translator to toggle between LTR and RTL modes numerous times.</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="fanja9" changedate="20200705T103105Z" creationid="maximo" creationdate="20200704T190048Z">
-        <seg>Під час перекладу між мовами з різними напрямками письма, щоб правильно прочитати теґи в оригінальних сегментах та щоб правильно вставити їх в переклад, можливо, треба буде безліч разів переключатися між режимами.</seg>
+      <tuv lang="UK-UA" changeid="fanja9" changedate="20200720T180324Z" creationid="maximo" creationdate="20200704T190048Z">
+        <seg>Під час перекладу між мовами з різними напрямками письма, щоб правильно прочитати теґи в оригінальних сегментах та щоб правильно вставити їх у переклад, можливо, треба буде безліч разів переключатися між режимами.</seg>
       </tuv>
     </tu>
     <tu>
@@ -36103,8 +36103,8 @@ create its configuration folder.</seg>
       <tuv lang="EN">
         <seg>import the file into ODF writer</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="maximo" changedate="20200704T205429Z" creationid="maximo" creationdate="20200704T205429Z">
-        <seg>імпортуйте файл в програму для роботи з ODF</seg>
+      <tuv lang="UK-UA" changeid="fanja9" changedate="20200720T180407Z" creationid="maximo" creationdate="20200704T205429Z">
+        <seg>імпортуйте файл у програму для роботи з ODF</seg>
       </tuv>
     </tu>
     <tu>
