@@ -13563,8 +13563,8 @@ their defaults as a result of the location change.</seg>
       <tuv lang="EN">
         <seg>If no replacement is done to a given segment, the target segment will be “emptied”, i.e., it will remain untranslated.</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="lesia" changedate="20200708T085353Z" creationid="maximo" creationdate="20200503T064038Z">
-        <seg>Якщо до якогось із сегментів не буде застосовано заміну, він «очиститься», тобто залишиться неперекладеним після завершення сесії заміни.</seg>
+      <tuv lang="UK-UA" changeid="fanja9" changedate="20200720T160758Z" creationid="maximo" creationdate="20200503T064038Z">
+        <seg>Якщо до сегменту не буде застосовано заміну, він «очиститься», тобто залишиться неперекладеним після завершення сесії заміни.</seg>
       </tuv>
     </tu>
     <tu>
