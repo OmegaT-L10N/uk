@@ -10741,8 +10741,8 @@ No one hears your screams</seg>
       <tuv lang="EN">
         <seg>Example: &lt;u0&gt;**/*.docx&lt;/u0&gt; to add all .docx files, wherever they are located in the project, even in excluded folders</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="lesia" changedate="20200704T204308Z" creationid="lesia" creationdate="20200704T204308Z">
-        <seg>Приклад: &lt;u0&gt;**/*.docx&lt;/u0&gt; додає всі файли .docx, де б вони не були розміщені у проєкті, навіть у папках, котрі підпадають під виключення.</seg>
+      <tuv lang="UK-UA" changeid="fanja9" changedate="20200720T202153Z" creationid="lesia" creationdate="20200704T204308Z">
+        <seg>Приклад: &lt;u0&gt;**/*.docx&lt;/u0&gt; додає всі файли .docx, де б вони не були розміщені у проєкті, навіть у теках, котрі підпадають під виключення.</seg>
       </tuv>
     </tu>
     <tu>
@@ -22297,8 +22297,8 @@ project without team functionality.</seg>
       <tuv lang="EN">
         <seg>Publish the new OmegaT project on the server (&lt;c0&gt;commit&lt;/c0&gt; with SVN, &lt;c1&gt;commit&lt;/c1&gt; followed by &lt;c2&gt;push&lt;/c2&gt; with Git).</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="maximo" changedate="20200705T093043Z" creationid="lesia" creationdate="20200704T184933Z">
-        <seg>Опублікуйте новий проєкт OmegaT на сервері (&lt;c0&gt;commit&lt;/c0&gt; для SVN, і &lt;c1&gt;commit&lt;/c1&gt; , а потім &lt;c2&gt;push&lt;/c2&gt; для Git).</seg>
+      <tuv lang="UK-UA" changeid="fanja9" changedate="20200720T202033Z" creationid="lesia" creationdate="20200704T184933Z">
+        <seg>Опублікуйте новий проєкт OmegaT на сервері (&lt;c0&gt;commit&lt;/c0&gt; для SVN, і &lt;c1&gt;commit&lt;/c1&gt;, а потім &lt;c2&gt;push&lt;/c2&gt; для Git).</seg>
       </tuv>
     </tu>
     <tu>
@@ -27297,8 +27297,8 @@ current folder will be used instead.</seg>
       <tuv lang="EN">
         <seg>The Project Manager should check with the translator that the statistics are identical on both sides (server side and translator side).</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="maximo" changedate="20200705T093525Z" creationid="lesia" creationdate="20200704T192741Z">
-        <seg>Менеджер проєкту має перевірити, що статистика на боці сервера та перекладача співпадає.</seg>
+      <tuv lang="UK-UA" changeid="fanja9" changedate="20200720T202131Z" creationid="lesia" creationdate="20200704T192741Z">
+        <seg>Менеджер проєкту має перевірити, що статистика на боці сервера та перекладача збігається.</seg>
       </tuv>
     </tu>
     <tu>
