@@ -14899,8 +14899,8 @@ click on that shortcut.</seg>
       <tuv lang="EN">
         <seg>In spite of the period, &lt;e0&gt;"Mrs. Dalloway "&lt;/e0&gt; should not be split in two segments, so an exception rule should be established for Mrs (and for Mr, for Dr, for prof etc), followed by a period.</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="fanja9" changedate="20200720T172311Z" creationid="maximo" creationdate="20200414T200320Z">
-        <seg>Наприклад, незважаючи на крапку, &lt;e0&gt;«вул. Сонячна»&lt;/e0&gt; має лишатися в одному сегменті. Тому треба, щоб для випадку, коли після вул (а також пров, просп, пл, наб і т.ін.) йде крапка, було створене виключення.</seg>
+      <tuv lang="UK-UA" changeid="fanja9" changedate="20200720T172617Z" creationid="maximo" creationdate="20200414T200320Z">
+        <seg>Наприклад, незважаючи на крапку, &lt;e0&gt;«вул. Сонячна»&lt;/e0&gt; має лишатися в одному сегменті. Тому треба, щоб було налаштоване виключення таких випадків, коли після вул (а також пров, просп, пл, наб і т.ін.) йде крапка.</seg>
       </tuv>
     </tu>
     <tu>
