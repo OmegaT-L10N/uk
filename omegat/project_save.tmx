@@ -2694,8 +2694,8 @@ The current setting is {0}MB;</seg>
       <tuv lang="EN">
         <seg>&lt;e0&gt;Install over the existing installation.&lt;/e0&gt; To do this, simply select the same installation folder as the existing installation when installing the new version.</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="maximo" changedate="20200419T071311Z" creationid="maximo" creationdate="20200419T071311Z">
-        <seg>&lt;e0&gt;Встановити поверх існуючої версії.&lt;/e0&gt; Щоб зробити це, під час встановлення новішої версії просто вкажіть ту саму теку.</seg>
+      <tuv lang="UK-UA" changeid="fanja9" changedate="20200720T200938Z" creationid="maximo" creationdate="20200419T071311Z">
+        <seg>&lt;e0&gt;Встановити поверх наявної версії.&lt;/e0&gt; Щоб зробити це, під час встановлення новішої версії просто вкажіть ту саму теку.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13973,8 +13973,8 @@ their defaults as a result of the location change.</seg>
       <tuv lang="EN">
         <seg>If you already have a version of OmegaT installed on your PC and wish to upgrade to a more recent version, you have two options:</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="lesia" changedate="20200708T101647Z" creationid="maximo" creationdate="20200419T071134Z">
-        <seg>Якщо у вас на комп’ютері вже встановлена версія OmegaT, і ви хочете оновити її до новішої, у вас є два варіанта:</seg>
+      <tuv lang="UK-UA" changeid="fanja9" changedate="20200720T200922Z" creationid="maximo" creationdate="20200419T071134Z">
+        <seg>Якщо у вас на комп’ютері вже встановлена версія OmegaT, і ви хочете оновити її до новішої, у вас є два варіанти:</seg>
       </tuv>
     </tu>
     <tu>
@@ -28121,8 +28121,8 @@ xx or xxx is the language code and YY is the region or country code (optional).<
       <tuv lang="EN">
         <seg>The last frame offers you to have a look at the readme and changes files for the version you have installed.</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="fanja9" changedate="20200708T104821Z" creationid="maximo" creationdate="20200418T130136Z">
-        <seg>У останньому вікні ви можете переглянути README та файли змін до вашій версії програми.</seg>
+      <tuv lang="UK-UA" changeid="fanja9" changedate="20200720T200732Z" creationid="maximo" creationdate="20200418T130136Z">
+        <seg>У останньому вікні ви можете переглянути README та файли змін до вашої версії програми.</seg>
       </tuv>
     </tu>
     <tu>
@@ -29853,8 +29853,8 @@ the server.</seg>
       <tuv lang="EN">
         <seg>This includes preferences set from within OmegaT, any changes you have made to your &lt;f1&gt;OmegaT.l4J.ini&lt;/f1&gt; file, and also your launch script (&lt;f2&gt;.bat&lt;/f2&gt; file), if you are using one.</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="lesia" changedate="20200701T202839Z" creationid="maximo" creationdate="20200419T071542Z">
-        <seg>Тобто йдеться про всі налаштування, які ви зробили безпосередньо із OmegaT, всі зміни до файлу &lt;f1&gt;OmegaT.l4J.ini&lt;/f1&gt;, а також скрипт запуску (файл &lt;f2&gt;.bat&lt;/f2&gt;), якщо ви його використовували.</seg>
+      <tuv lang="UK-UA" changeid="fanja9" changedate="20200720T201017Z" creationid="maximo" creationdate="20200419T071542Z">
+        <seg>Тобто йдеться про всі налаштування, які ви зробили безпосередньо в OmegaT, всі зміни до файлу &lt;f1&gt;OmegaT.l4J.ini&lt;/f1&gt;, а також скрипт запуску (файл &lt;f2&gt;.bat&lt;/f2&gt;), якщо ви його використовували.</seg>
       </tuv>
     </tu>
     <tu>
@@ -33495,8 +33495,8 @@ Your page is not found</seg>
       <tuv lang="EN">
         <seg>With that option, no locking occurs.</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="lesia" changedate="20200702T185127Z" creationid="maximo" creationdate="20200423T161153Z">
-        <seg>Із цією опцією блокування не відбувається.</seg>
+      <tuv lang="UK-UA" changeid="fanja9" changedate="20200720T200803Z" creationid="maximo" creationdate="20200423T161153Z">
+        <seg>З цією опцією блокування не відбувається.</seg>
       </tuv>
     </tu>
     <tu>
@@ -34583,8 +34583,8 @@ create its configuration folder.</seg>
       <tuv lang="EN">
         <seg>You’ll need this to be able to obtain and use Yandex Translate API key.</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="maximo" changedate="20200422T172044Z" creationid="maximo" creationdate="20200422T172044Z">
-        <seg>Він необхідний для того, щоб отримати і використовувати ключ Yandex Translate API.</seg>
+      <tuv lang="UK-UA" changeid="fanja9" changedate="20200720T200905Z" creationid="maximo" creationdate="20200422T172044Z">
+        <seg>Він необхідний для того, щоб отримати та використовувати ключ Yandex Translate API.</seg>
       </tuv>
     </tu>
     <tu>
