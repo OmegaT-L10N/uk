@@ -5691,8 +5691,8 @@ Buy another drink</seg>
       <tuv lang="EN">
         <seg>Bear in mind that changing the languages may render the currently used translation memories useless since their language pair may not longer match the new languages.</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="lesia" changedate="20200708T102430Z" creationid="lesia" creationdate="20200412T195411Z">
-        <seg>Зверніть увагу: якщо ви змінюєте мовну пару проєкту, то вже напрацьована пам’ять перекладів припиняє функціонувати.</seg>
+      <tuv lang="UK-UA" changeid="fanja9" changedate="20200720T122824Z" creationid="lesia" creationdate="20200412T195411Z">
+        <seg>Запам'ятайте: якщо ви змінюєте мовну пару проєкту, то вже напрацьована пам’ять перекладів не діятиме для новоствореної мовної пари.</seg>
       </tuv>
     </tu>
     <tu>
@@ -34156,8 +34156,8 @@ start menu, the desktop or the quick launch area to link it from there.</seg>
       <tuv lang="EN">
         <seg>You can either enter the source and target languages by hand or use the drop down menus.</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="maximo" changedate="20200609T114019Z" creationid="lesia" creationdate="20200412T145125Z">
-        <seg>Мови оригіналу та перекладу можна ввести вручну або ж вибрати з меню.</seg>
+      <tuv lang="UK-UA" changeid="fanja9" changedate="20200720T121728Z" creationid="lesia" creationdate="20200412T145125Z">
+        <seg>Мови оригіналу та перекладу можна ввести вручну або ж вибрати у випадному меню.</seg>
       </tuv>
     </tu>
     <tu>
