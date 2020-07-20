@@ -7011,8 +7011,8 @@ Buy another drink</seg>
       <tuv lang="EN">
         <seg>Click on &lt;g0&gt;Auto-text...&lt;/g0&gt; to configure Auto-text options and to add or remove entries.</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="lesia" changedate="20200708T095823Z" creationid="maximo" creationdate="20200416T095528Z">
-        <seg>Натисніть &lt;g0&gt;Авто-текст&lt;/g0&gt;, щоб налаштувати параметри авто-тексту та щоб додати чи видалити елементи.</seg>
+      <tuv lang="UK-UA" changeid="fanja9" changedate="20200720T175648Z" creationid="maximo" creationdate="20200416T095528Z">
+        <seg>Натисніть &lt;g0&gt;Автотекст&lt;/g0&gt;, щоб налаштувати параметри автотексту та щоб додати чи видалити елементи.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13105,8 +13105,8 @@ Its winter has come</seg>
       <tuv lang="EN">
         <seg>I was not sure&lt;/e0&gt;." should be split into two segments.</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="lesia" changedate="20200708T090031Z" creationid="maximo" creationdate="20200414T190543Z">
-        <seg>Я не знаю напевне.&lt;/e0&gt;» має розділятися на два сегмента.</seg>
+      <tuv lang="UK-UA" changeid="fanja9" changedate="20200720T175504Z" creationid="maximo" creationdate="20200414T190543Z">
+        <seg>Я не знаю напевне.&lt;/e0&gt;» має розділятися на два сегменти.</seg>
       </tuv>
     </tu>
     <tu>
@@ -14899,8 +14899,8 @@ click on that shortcut.</seg>
       <tuv lang="EN">
         <seg>In spite of the period, &lt;e0&gt;"Mrs. Dalloway "&lt;/e0&gt; should not be split in two segments, so an exception rule should be established for Mrs (and for Mr, for Dr, for prof etc), followed by a period.</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="fanja9" changedate="20200720T172617Z" creationid="maximo" creationdate="20200414T200320Z">
-        <seg>Наприклад, незважаючи на крапку, &lt;e0&gt;«вул. Сонячна»&lt;/e0&gt; має лишатися в одному сегменті. Тому треба, щоб було налаштоване виключення таких випадків, коли після вул (а також пров, просп, пл, наб і т.ін.) йде крапка.</seg>
+      <tuv lang="UK-UA" changeid="fanja9" changedate="20200720T175542Z" creationid="maximo" creationdate="20200414T200320Z">
+        <seg>Наприклад, не зважаючи на крапку, &lt;e0&gt;«вул. Сонячна»&lt;/e0&gt; має лишатися в одному сегменті. Тому треба, щоб було налаштоване виключення таких випадків, коли після вул (а також пров, просп, пл, наб і т.ін.) йде крапка.</seg>
       </tuv>
     </tu>
     <tu>
@@ -21087,24 +21087,24 @@ Vanishing like mist</seg>
       <tuv lang="EN">
         <seg>Percentage calculated with &lt;g0&gt;Full text, including tags and numbers&lt;/g0&gt; option.</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="maximo" changedate="20200417T082454Z" creationid="maximo" creationdate="20200417T082454Z">
-        <seg>Відсоток, що вирахувано згідно параметру &lt;g0&gt;Повний текст, включно з теґами та числами&lt;/g0&gt;.</seg>
+      <tuv lang="UK-UA" changeid="fanja9" changedate="20200720T175752Z" creationid="maximo" creationdate="20200417T082454Z">
+        <seg>Відсоток, що вирахувано згідно з параметром &lt;g0&gt;Повний текст, включно з теґами та числами&lt;/g0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Percentage calculated with &lt;g0&gt;No tags and no numbers&lt;/g0&gt; option.</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="maximo" changedate="20200417T082438Z" creationid="maximo" creationdate="20200417T082438Z">
-        <seg>Відсоток, що вирахувано згідно параметру &lt;g0&gt;Без теґів і без чисел&lt;/g0&gt;.</seg>
+      <tuv lang="UK-UA" changeid="fanja9" changedate="20200720T175746Z" creationid="maximo" creationdate="20200417T082438Z">
+        <seg>Відсоток, що вирахувано згідно з параметром &lt;g0&gt;Без теґів і без чисел&lt;/g0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Percentage calculated with &lt;g0&gt;Stemming, no tags and no numbers&lt;/g0&gt; option.</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="maximo" changedate="20200417T082421Z" creationid="maximo" creationdate="20200417T082421Z">
-        <seg>Відсоток, що вирахувано згідно параметру &lt;g0&gt;Основи слів, без теґів і без чисел&lt;/g0&gt;.</seg>
+      <tuv lang="UK-UA" changeid="fanja9" changedate="20200720T175740Z" creationid="maximo" creationdate="20200417T082421Z">
+        <seg>Відсоток, що вирахувано згідно з параметром &lt;g0&gt;Основи слів, без теґів і без чисел&lt;/g0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
