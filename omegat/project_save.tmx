@@ -5623,8 +5623,8 @@ may experience unexpected, but correct behaviour.</seg>
       <tuv lang="EN">
         <seg>Backups of this file (with extension bak) are added progressively to this subfolder, first at the beginning of the translation session, at its end, and while the translation progresses.</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="fanja9" changedate="20200510T151230Z" creationid="fanja9" creationdate="20200510T151230Z">
-        <seg>Резервна копія цього файлу (у форматі bak) поступово додається до підтеки: на початку сеансу, наприкінці і в ході перекладу.</seg>
+      <tuv lang="UK-UA" changeid="fanja9" changedate="20200720T195200Z" creationid="fanja9" creationdate="20200510T151230Z">
+        <seg>Резервна копія цього файлу (у форматі bak) поступово додається до підтеки: на початку сеансу, наприкінці та в ході перекладу.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13563,8 +13563,8 @@ their defaults as a result of the location change.</seg>
       <tuv lang="EN">
         <seg>If no replacement is done to a given segment, the target segment will be “emptied”, i.e., it will remain untranslated.</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="fanja9" changedate="20200720T160758Z" creationid="maximo" creationdate="20200503T064038Z">
-        <seg>Якщо до сегменту не буде застосовано заміну, він «очиститься», тобто залишиться неперекладеним після завершення сесії заміни.</seg>
+      <tuv lang="UK-UA" changeid="fanja9" changedate="20200720T194920Z" creationid="maximo" creationdate="20200503T064038Z">
+        <seg>Якщо до сегмента не буде застосовано заміну, він «очиститься», тобто залишиться неперекладеним після завершення сесії заміни.</seg>
       </tuv>
     </tu>
     <tu>
@@ -14249,8 +14249,8 @@ to use Java Web Start.</seg>
       <tuv lang="EN">
         <seg>If you have no doubt that a TMX is more accurate than the &lt;f0&gt;project_save.tmx&lt;/f0&gt; of OmegaT, put this TMX in /tm/enforce to overwrite existing default translations unconditionally.</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="lesia" changedate="20200708T104419Z" creationid="fanja9" creationdate="20200510T153015Z">
-        <seg>Якщо ви впевнені, що файл TMX більш точний ніж &lt;f0&gt;project_save.tmx&lt;/f0&gt; від OmegaT, помістіть цей TMX у ./tm/enforce, щоб вже існуючі переклади були автоматично переписані.</seg>
+      <tuv lang="UK-UA" changeid="fanja9" changedate="20200720T195120Z" creationid="fanja9" creationdate="20200510T153015Z">
+        <seg>Якщо ви впевнені, що файл TMX більш точний ніж &lt;f0&gt;project_save.tmx&lt;/f0&gt; від OmegaT, помістіть цей TMX у ./tm/enforce, щоб вже наявні переклади були автоматично переписані.</seg>
       </tuv>
     </tu>
     <tu>
