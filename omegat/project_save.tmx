@@ -14449,8 +14449,8 @@ to use Java Web Start.</seg>
       <tuv lang="EN">
         <seg>If your existing OmegaT installation is a "Windows with JRE" version, the new version must also be a "Windows with JRE" version.</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="lesia" changedate="20200708T091643Z" creationid="maximo" creationdate="20200419T072217Z">
-        <seg>Якщо ваша версія OmegaT була «для Windows із JRE», нова версія також має бути "для Windows із JRE".</seg>
+      <tuv lang="UK-UA" changeid="fanja9" changedate="20200720T201618Z" creationid="maximo" creationdate="20200419T072217Z">
+        <seg>Якщо ваша версія OmegaT була «для Windows із JRE», нова версія також має бути «для Windows із JRE».</seg>
       </tuv>
     </tu>
     <tu>
@@ -15035,8 +15035,8 @@ click on that shortcut.</seg>
       <tuv lang="EN">
         <seg>In this case, however:</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="maximo" changedate="20200419T072019Z" creationid="maximo" creationdate="20200419T072019Z">
-        <seg>Але в той же час:</seg>
+      <tuv lang="UK-UA" changeid="fanja9" changedate="20200720T201533Z" creationid="maximo" creationdate="20200419T072019Z">
+        <seg>Але водночас:</seg>
       </tuv>
     </tu>
     <tu>
