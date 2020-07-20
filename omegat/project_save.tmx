@@ -14899,8 +14899,8 @@ click on that shortcut.</seg>
       <tuv lang="EN">
         <seg>In spite of the period, &lt;e0&gt;"Mrs. Dalloway "&lt;/e0&gt; should not be split in two segments, so an exception rule should be established for Mrs (and for Mr, for Dr, for prof etc), followed by a period.</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="fanja9" changedate="20200719T160250Z" creationid="maximo" creationdate="20200414T200320Z">
-        <seg>Наприклад, не зважаючи на крапку, &lt;e0&gt;«вул. Сонячна»&lt;/e0&gt; має лишатися в одному сегменті. Тому треба, щоб для випадку, коли після вул (а також пров, просп, пл, наб і т.ін.) йде крапка, був зроблений виняток.</seg>
+      <tuv lang="UK-UA" changeid="fanja9" changedate="20200720T172311Z" creationid="maximo" creationdate="20200414T200320Z">
+        <seg>Наприклад, незважаючи на крапку, &lt;e0&gt;«вул. Сонячна»&lt;/e0&gt; має лишатися в одному сегменті. Тому треба, щоб для випадку, коли після вул (а також пров, просп, пл, наб і т.ін.) йде крапка, було створене виключення.</seg>
       </tuv>
     </tu>
     <tu>
@@ -32512,8 +32512,8 @@ searchable without subscription:</seg>
       <tuv lang="EN">
         <seg>Users of old computers who feel window resizing is very slow can try changing the font.</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="lesia" changedate="20200708T102342Z" creationid="maximo" creationdate="20200412T143151Z">
-        <seg>Якщо ви працюєте на старому комп’ютері і відчуваєте, що програма уповільнюється під час зміни розміру вікна, спробуйте змінити шрифт.</seg>
+      <tuv lang="UK-UA" changeid="fanja9" changedate="20200720T171846Z" creationid="maximo" creationdate="20200412T143151Z">
+        <seg>Якщо ви працюєте на старому комп’ютері й відчуваєте, що програма уповільнюється під час зміни розміру вікна, спробуйте змінити шрифт.</seg>
       </tuv>
     </tu>
     <tu>
