@@ -14385,8 +14385,8 @@ to use Java Web Start.</seg>
       <tuv lang="EN">
         <seg>If you uncheck this option, machine translations will be fetched only when you press &lt;k0&gt; &lt;k1&gt;Ctrl&lt;/k1&gt; &lt;k2&gt;M&lt;/k2&gt; &lt;/k0&gt; (&lt;k3&gt; &lt;k4&gt;Cmd&lt;/k4&gt; &lt;k5&gt;M&lt;/k5&gt; &lt;/k3&gt; on OS X) in the current segment.</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="Asus" changedate="20200618T032821Z" creationid="maximo" creationdate="20200412T071954Z">
-        <seg>Якщо ви відключите цей параметр, варіанти машинного перекладу сегмента будуть отримані лише після натискання клавіш &lt;k0&gt; &lt;k1&gt;Ctrl&lt;/k1&gt; &lt;k2&gt;M&lt;/k2&gt; &lt;/k0&gt; (&lt;k3&gt; &lt;k4&gt;Cmd&lt;/k4&gt; &lt;k5&gt;M&lt;/k5&gt; &lt;/k3&gt; для OS X).</seg>
+      <tuv lang="UK-UA" changeid="fanja9" changedate="20200720T071222Z" creationid="maximo" creationdate="20200412T071954Z">
+        <seg>Якщо ви заберете цей прапорець, варіанти машинного перекладу сегмента будуть отримані лише після натискання клавіш &lt;k0&gt; &lt;k1&gt;Ctrl&lt;/k1&gt; &lt;k2&gt;M&lt;/k2&gt; &lt;/k0&gt; (&lt;k3&gt; &lt;k4&gt;Cmd&lt;/k4&gt; &lt;k5&gt;M&lt;/k5&gt; &lt;/k3&gt; для OS X).</seg>
       </tuv>
     </tu>
     <tu>
@@ -14787,8 +14787,8 @@ click on that shortcut.</seg>
       <tuv lang="EN">
         <seg>In non-segmented projects, it is possible to keep it by unchecking this option.</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="fanja9" changedate="20200718T162036Z" creationid="maximo" creationdate="20200412T200440Z">
-        <seg>У несегментованих проєктах їх можна залишити, якщо прибрати прапорець з цього параметра.</seg>
+      <tuv lang="UK-UA" changeid="fanja9" changedate="20200720T071014Z" creationid="maximo" creationdate="20200412T200440Z">
+        <seg>У несегментованих проєктах їх можна залишити, якщо забрати прапорець з цього параметра.</seg>
       </tuv>
     </tu>
     <tu>
@@ -30575,16 +30575,16 @@ the server.</seg>
       <tuv lang="EN">
         <seg>To delete project specific file filters, uncheck the check box.</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="lesia" changedate="20200420T161049Z" creationid="lesia" creationdate="20200420T161049Z">
-        <seg>Щоб видалити специфічні для проєкту файлові фільтри, зніміть прапорець.</seg>
+      <tuv lang="UK-UA" changeid="fanja9" changedate="20200720T071109Z" creationid="lesia" creationdate="20200420T161049Z">
+        <seg>Щоб видалити специфічні для проєкту файлові фільтри, просто заберіть прапорець.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>To delete project specific segmentation rules, uncheck the check box.</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="maximo" changedate="20200511T194417Z" creationid="lesia" creationdate="20200420T151010Z">
-        <seg>Щоб видалити специфічні для проєкту правила сегментації, просто зніміть прапорець з цієї опції.</seg>
+      <tuv lang="UK-UA" changeid="fanja9" changedate="20200720T070939Z" creationid="lesia" creationdate="20200420T151010Z">
+        <seg>Щоб видалити специфічні для проєкту правила сегментації, просто заберіть прапорець з цієї опції.</seg>
       </tuv>
     </tu>
     <tu>
@@ -31694,8 +31694,8 @@ Exact searches match the whole search string.</seg>
       <tuv lang="EN">
         <seg>Uncheck this option to prevent any damage on the tags (i.e., partial deletion) during editing.</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="fanja9" changedate="20200720T070829Z" creationid="maximo" creationdate="20200417T075449Z">
-        <seg>Приберіть прапорець, щоб уникнути пошкодження теґів (а саме їх часткового видалення) під час редагування.</seg>
+      <tuv lang="UK-UA" changeid="fanja9" changedate="20200720T071030Z" creationid="maximo" creationdate="20200417T075449Z">
+        <seg>Заберіть прапорець, щоб уникнути пошкодження теґів (а саме їх часткового видалення) під час редагування.</seg>
       </tuv>
     </tu>
     <tu>
