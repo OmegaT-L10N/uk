@@ -13316,8 +13316,8 @@ need not be entered.)</seg>
       <tuv lang="EN">
         <seg>If a given sentence has already been translated once, and translated correctly, there is no need for it to be retranslated.</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="lesia" changedate="20200711T034448Z" creationid="maximo" creationdate="20200704T194957Z">
-        <seg>Якщо певне речення вже було перекладене, причому правильно, немає необхідності перекладати його ще раз.</seg>
+      <tuv lang="UK-UA" changeid="fanja9" changedate="20200720T202259Z" creationid="maximo" creationdate="20200704T194957Z">
+        <seg>Якщо певне речення вже було перекладене, причому правильно, нема потреби перекладати його ще раз.</seg>
       </tuv>
     </tu>
     <tu>
@@ -28137,8 +28137,8 @@ xx or xxx is the language code and YY is the region or country code (optional).<
       <tuv lang="EN">
         <seg>The level 2 export is not fully compliant with the level 2 standard, but is sufficiently close and will generate correct matches in other translation memory tools supporting TMX Level 2.</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="lesia" changedate="20200708T095823Z" creationid="lesia" creationdate="20200705T054459Z">
-        <seg>Експорт рівня 2 не повністю співпадає зі стандартним експортом такого рівня, але достатньо близький, щоб згенерувати правильні збіги в інших САТ-інструментах, котрі підтримують TMX 2-го рівня.</seg>
+      <tuv lang="UK-UA" changeid="fanja9" changedate="20200720T202405Z" creationid="lesia" creationdate="20200705T054459Z">
+        <seg>Експорт рівня 2 не повністю збігається зі стандартним експортом такого рівня, але достатньо близький, щоб згенерувати правильні збіги в інших САТ-інструментах, котрі підтримують TMX 2-го рівня.</seg>
       </tuv>
     </tu>
     <tu>
@@ -28854,8 +28854,8 @@ in /lib/licenses/Licenses.txt.</seg>
       <tuv lang="EN">
         <seg>The solution in our example is to copy the existing translation memory into the tm/tmx2source/ subfolder and rename it to ZH_CN.tmx to indicate the target language of the tmx.</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="lesia" changedate="20200708T103645Z" creationid="maximo" creationdate="20200705T052923Z">
-        <seg>Цього можна досягнути, якщо скопіювати існуючу пам’ять перекладів у підтеку ./tm/tmx2source/ та перейменувати її в ZH_CN.tmx, що визначає її мову перекладу.</seg>
+      <tuv lang="UK-UA" changeid="fanja9" changedate="20200720T202330Z" creationid="maximo" creationdate="20200705T052923Z">
+        <seg>Цього можна досягнути, якщо скопіювати наявну пам’ять перекладів у підтеку ./tm/tmx2source/ та перейменувати її в ZH_CN.tmx, що визначає її мову перекладу.</seg>
       </tuv>
     </tu>
     <tu>
@@ -36970,8 +36970,8 @@ create its configuration folder.</seg>
       <tuv lang="EN">
         <seg>select the backup translation memory that is the most likely to contain the data you are looking for</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="lesia" changedate="20200708T102459Z" creationid="maximo" creationdate="20200704T193658Z">
-        <seg>оберіть резервну копію пам’яті перекладів, яка найбільш вірогідно містить потрібні дані</seg>
+      <tuv lang="UK-UA" changeid="fanja9" changedate="20200720T202554Z" creationid="maximo" creationdate="20200704T193658Z">
+        <seg>оберіть резервну копію пам’яті перекладів, яка найбільш імовірно містить потрібні дані</seg>
       </tuv>
     </tu>
     <tu>
