@@ -24976,8 +24976,8 @@ The scope of a search is by default the project and can be set to be any files l
       <tuv lang="EN">
         <seg>Separates the source text into segments.</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="maximo" changedate="20200414T190415Z" creationid="maximo" creationdate="20200414T190415Z">
-        <seg>Розбиває текст оригіналу на сегменти.</seg>
+      <tuv lang="UK-UA" changeid="fanja9" changedate="20200720T100315Z" creationid="maximo" creationdate="20200414T190415Z">
+        <seg>Розбиває текст для перекладу на сегменти.</seg>
       </tuv>
     </tu>
     <tu>
