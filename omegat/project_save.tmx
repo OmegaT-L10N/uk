@@ -1986,11 +1986,11 @@ To add files to the project, click on the Copy Files to Source Folder... button 
 	--config-dir=&lt;path&gt;
 		The directory to read/write OmegaT configuration files from/to.</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="lesia" changedate="20200708T095823Z" creationid="Kos Ivantsov" creationdate="20190419T175629Z">
+      <tuv lang="UK-UA" changeid="fanja9" changedate="20200720T181356Z" creationid="Kos Ivantsov" creationdate="20190419T175629Z">
         <seg>--resource-bundle=&lt;шлях&gt;
 		Java-файл «.properties», який бути використаний для локалізації інтерфейсу
 --config-dir=&lt;шлях&gt;
-		Тека для читання та запису файлів з налаштуваннями OmegaT.</seg>
+		Тека для читання та запису файлів із налаштуваннями OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3891,8 +3891,8 @@ The current setting is {0}MB;</seg>
       <tuv lang="EN">
         <seg>Abort: Exit with an error if tags invalid.</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="Kos Ivantsov" changedate="20190419T183456Z" creationid="Kos Ivantsov" creationdate="20190419T182105Z">
-        <seg>	abort (припинення роботи): вихід з помилкою, якщо є помилки у теґах.</seg>
+      <tuv lang="UK-UA" changeid="fanja9" changedate="20200720T181402Z" creationid="Kos Ivantsov" creationdate="20190419T182105Z">
+        <seg>	abort (припинення роботи): вихід із помилкою, якщо є помилки у теґах.</seg>
       </tuv>
     </tu>
     <tu>
@@ -19083,8 +19083,8 @@ as the Applications folder.</seg>
       <tuv lang="EN">
         <seg>Note: on Windows it seems that this manual font fallback mechanism can interfere with standard font fallback, causing undesirable font substitution.</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="fanja9" changedate="20200713T204140Z" creationid="maximo" creationdate="20200425T154210Z">
-        <seg>Примітка: у Windows ця функція OmegaT може конфліктувати з системним механізмом використання резервних шрифтів, що може призводити до небажаних замін.</seg>
+      <tuv lang="UK-UA" changeid="fanja9" changedate="20200720T181309Z" creationid="maximo" creationdate="20200425T154210Z">
+        <seg>Примітка: у Windows ця функція OmegaT може конфліктувати із системним механізмом використання резервних шрифтів, що може призводити до небажаних замін.</seg>
       </tuv>
     </tu>
     <tu>
@@ -33097,8 +33097,8 @@ of selecting, obtaining and installing it.</seg>
       <tuv lang="EN">
         <seg>When started in console mode, no GUI is loaded (so it will work on any console) and the given project is automatically processed as requested.</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="fanja9" changedate="20200720T181040Z" creationid="maximo" creationdate="20200423T134003Z">
-        <seg>Коли програма запущена в консольному режимі, графічний інтерфейс користувача не завантажується і проєкт обробляється автоматично згідно із запитом.</seg>
+      <tuv lang="UK-UA" changeid="fanja9" changedate="20200720T181259Z" creationid="maximo" creationdate="20200423T134003Z">
+        <seg>Коли програма запущена в консольному режимі, графічний інтерфейс користувача не завантажується і проєкт обробляється автоматично згідно з запитом.</seg>
       </tuv>
     </tu>
     <tu>
