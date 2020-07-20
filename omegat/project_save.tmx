@@ -10781,8 +10781,8 @@ No one hears your screams</seg>
       <tuv lang="EN">
         <seg>Except one: check &lt;e0&gt;Untranslated&lt;/e0&gt; in order to operate Search and replace also on segments that have not been translated yet.</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="maximo" changedate="20200503T063840Z" creationid="maximo" creationdate="20200503T063840Z">
-        <seg>Окрім одного, прапорець &lt;e0&gt;Неперекладене&lt;/e0&gt; дає можливість шукати та заміняти також і в неперекладених сегментах.</seg>
+      <tuv lang="UK-UA" changeid="fanja9" changedate="20200720T160213Z" creationid="maximo" creationdate="20200503T063840Z">
+        <seg>Окрім одного: прапорець &lt;e0&gt;Неперекладене&lt;/e0&gt; дає можливість шукати та заміняти також і в неперекладених сегментах.</seg>
       </tuv>
     </tu>
     <tu>
@@ -30690,8 +30690,8 @@ the server.</seg>
       <tuv lang="EN">
         <seg>To make it possible (although Search and replace operates only on memory), OmegaT will copy the source segment to the target segment before the replace operation occurs.</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="lesia" changedate="20200708T101845Z" creationid="maximo" creationdate="20200503T064016Z">
-        <seg>Щоб таке було можливим OmegaT тимчасово в пам’яті скопіює текст оригіналу в переклад перед операцією.</seg>
+      <tuv lang="UK-UA" changeid="fanja9" changedate="20200720T160733Z" creationid="maximo" creationdate="20200503T064016Z">
+        <seg>Щоб виконати цю операцію OmegaT перед цим тимчасово скопіює в пам’яті сегмент оригіналу в сегмент перекладу.</seg>
       </tuv>
     </tu>
     <tu>
