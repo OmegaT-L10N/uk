@@ -22965,8 +22965,8 @@ These words: 'Page not found'</seg>
       <tuv lang="EN">
         <seg>Removing an entire tag remains possible in that case, by using Ctrl+Backspace/Delete or by selecting it completely (Ctrl+Shift+Left/Right) then deleting it (Delete or Ctrl+X).</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="maximo" changedate="20200417T075631Z" creationid="maximo" creationdate="20200417T075505Z">
-        <seg>Видалення цілого теґа все ж можливе, натисканням Ctrl+Backspace/Delete чи виділенням його повністю (Ctrl+Shift+Left/Right) і потім видалення (Delete чи Ctrl+X).</seg>
+      <tuv lang="UK-UA" changeid="fanja9" changedate="20200720T071532Z" creationid="maximo" creationdate="20200417T075505Z">
+        <seg>Видалення цілого теґа все ж доступне, якщо натиснути Ctrl+Backspace/Delete чи виділити його повністю (Ctrl+Shift+Left/Right) і врешті видалити (Delete чи Ctrl+X).</seg>
       </tuv>
     </tu>
     <tu>
@@ -33152,8 +33152,8 @@ of selecting, obtaining and installing it.</seg>
       <tuv lang="EN">
         <seg>When this option is checked, the glossary will display pairs or groups of words (expressions) even if the words within them appear separately in the source text.</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="fanja9" changedate="20200718T121715Z" creationid="maximo" creationdate="20200412T140826Z">
-        <seg>Якщо цей параметр відмічений, глосарій буде показувати солвосполучення або групи слів, навіть якщо слова з них не були сусідніми у тексті.</seg>
+      <tuv lang="UK-UA" changeid="fanja9" changedate="20200720T071237Z" creationid="maximo" creationdate="20200412T140826Z">
+        <seg>Якщо цей параметр відмічений, глосарій буде показувати словосполучення або групи слів, навіть якщо слова з них не були сусідніми у тексті.</seg>
       </tuv>
     </tu>
     <tu>
