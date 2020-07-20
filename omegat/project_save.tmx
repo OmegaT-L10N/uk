@@ -6403,8 +6403,8 @@ Buy another drink</seg>
       <tuv lang="EN">
         <seg>Changing segmentation settings may cause some already translated segments to be split or merged.</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="lesia" changedate="20200708T102435Z" creationid="lesia" creationdate="20200412T201348Z">
-        <seg>Зміна налаштувань сегментації може призвести до того, що вже перекладені сегменти розіб’ються на кілька або ж, навпаки, з’єднаються.</seg>
+      <tuv lang="UK-UA" changeid="fanja9" changedate="20200720T124229Z" creationid="lesia" creationdate="20200412T201348Z">
+        <seg>Зміна налаштувань сегментації може призвести до того, що вже перекладені сегменти розіб’ються на кілька або ж навпаки, з’єднаються.</seg>
       </tuv>
     </tu>
     <tu>
@@ -14151,8 +14151,8 @@ Explorer), change the settings so that file extensions are displayed.</seg>
       <tuv lang="EN">
         <seg>If you decide mid-translation to switch from sentence to paragraph translation, the internal translation memory of the project will not be changed (OmegaT may upgrade old translation memories that did not use sentence segmentation, but not vice versa), but OmegaT will attempt to create paragraph fuzzy matches by gluing together existing sentence translations.</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="lesia" changedate="20200708T102433Z" creationid="lesia" creationdate="20200412T201144Z">
-        <seg>Якщо під час перекладу ви вирішите змінити правила сегментації і працювати не за реченнями, а за абзацами, це не змінить пам’ять перекладів, що створилася у проєкті (OmegaT може оновити старі файли пам’яті перекладів, які працювали з більшими за речення сегментами, але не навпаки). Однак, OmegaT буде намагатися створити нечіткі збіги на рівні абзаців, «склеюючи» наявні переклади речень. </seg>
+      <tuv lang="UK-UA" changeid="fanja9" changedate="20200720T124200Z" creationid="lesia" creationdate="20200412T201144Z">
+        <seg>Якщо під час перекладу ви вирішите змінити правила сегментації і працювати не за реченнями, а за абзацами, це не змінить пам’ять перекладів, що створилася у проєкті (OmegaT може оновити старі файли пам’яті перекладів, які працювали з більшими за речення сегментами, але не навпаки). Однак OmegaT буде намагатися створити нечіткі збіги на рівні абзаців, «склеюючи» наявні переклади речень. </seg>
       </tuv>
     </tu>
     <tu>
