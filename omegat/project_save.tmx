@@ -22853,8 +22853,8 @@ These words: 'Page not found'</seg>
       <tuv lang="EN">
         <seg>Remove a project from this list if you want OmegaT to ask you for a login and a password every time you access the project.</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="maximo" changedate="20200417T081313Z" creationid="maximo" creationdate="20200417T081313Z">
-        <seg>Видаліть проєкт зі списку, щоб OmegaT щоразу питала вас логін та пароль.</seg>
+      <tuv lang="UK-UA" changeid="fanja9" changedate="20200720T100106Z" creationid="maximo" creationdate="20200417T081313Z">
+        <seg>Видаліть проєкт зі списку, щоб OmegaT щоразу питала вас логін і пароль.</seg>
       </tuv>
     </tu>
     <tu>
