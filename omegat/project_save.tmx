@@ -2627,8 +2627,8 @@ The current setting is {0}MB;</seg>
       <tuv lang="EN">
         <seg>&lt;e0&gt;Do not translate the content of tags with the following attribute key-value pairs (separate with commas)&lt;/e0&gt;: if a tag matches the list of key-value pairs, its content will be ignored.</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="fanja9" changedate="20200718T205308Z" creationid="maximo" creationdate="20200413T113107Z">
-        <seg>&lt;e0&gt;Не перекладати вміст тих теґів, що мають наступні пари «ключ-значення» (розділені комами)&lt;/e0&gt;: якщо серед атрибутів теґу зустрічаються якісь з перелічених пар — не перекладати його вміст.</seg>
+      <tuv lang="UK-UA" changeid="fanja9" changedate="20200720T181800Z" creationid="maximo" creationdate="20200413T113107Z">
+        <seg>&lt;e0&gt;Не перекладати вміст тих теґів, що мають наступні пари «ключ-значення» (розділені комами)&lt;/e0&gt;: якщо серед атрибутів теґу зустрічаються якісь із перелічених пар — не перекладати його вміст.</seg>
       </tuv>
     </tu>
     <tu>
@@ -14507,8 +14507,8 @@ click on that shortcut.</seg>
       <tuv lang="EN">
         <seg>Ignore file context when identifying segments with alternate translations: by default, OmegaT uses the source file name as part of the identification of an alternative translation.</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="Asus" changedate="20200622T032406Z" creationid="maximo" creationdate="20200412T201129Z">
-        <seg>Не брати до уваги файловий контекст при визначенні сегментів з варіантами перекладу: типово OmegaT використовує назву файлу для перекладу, щоб визначити варіант перекладу.</seg>
+      <tuv lang="UK-UA" changeid="fanja9" changedate="20200720T181751Z" creationid="maximo" creationdate="20200412T201129Z">
+        <seg>Не брати до уваги файловий контекст при визначенні сегментів із варіантами перекладу: типово OmegaT використовує назву файлу для перекладу, щоб визначити варіант перекладу.</seg>
       </tuv>
     </tu>
     <tu>
@@ -20967,8 +20967,8 @@ Vanishing like mist</seg>
       <tuv lang="EN">
         <seg>Paragraph segmentation is advantageous in certain cases, such as highly creative or stylistic translations in which the translator may wish to change the order of entire sentences; for the majority of projects, however, sentence segmentation is a choice to be preferred, since it delivers better matches from previous translations.</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="fanja9" changedate="20200719T154944Z" creationid="maximo" creationdate="20200414T101401Z">
-        <seg>Сегментація на абзаци в деяких випадках має переваги. Наприклад, для художнього перекладу, де, можливо, перекладач захоче змінити порядок речень. Однак для більшості проєктів краще обирати сегментацію на речення, бо вона дає більше збігів з попередніми перекладами.</seg>
+      <tuv lang="UK-UA" changeid="fanja9" changedate="20200720T181811Z" creationid="maximo" creationdate="20200414T101401Z">
+        <seg>Сегментація на абзаци в деяких випадках має переваги. Наприклад, для художнього перекладу, де, можливо, перекладач захоче змінити порядок речень. Однак для більшості проєктів краще обирати сегментацію на речення, бо вона дає більше збігів із попередніми перекладами.</seg>
       </tuv>
     </tu>
     <tu>
@@ -34149,8 +34149,8 @@ start menu, the desktop or the quick launch area to link it from there.</seg>
       <tuv lang="EN">
         <seg>You can either copy files manually, i.e. from elsewhere on your system, using your file manager; or you can use OmegaT's &lt;e0&gt;"Install new dictionary"&lt;/e0&gt; function to provide a list of available dictionaries to select from.</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="lesia" changedate="20200708T095823Z" creationid="maximo" creationdate="20200411T105401Z">
-        <seg>Ви можете або вручну скопіювати їх з будь-якого місця вашої системи за допомогою файлового менеджера, або ж скористатися функцією OmegaT &lt;e0&gt;«Установити новий словник»&lt;/e0&gt;, яка запропонує вам вибірку словників.</seg>
+      <tuv lang="UK-UA" changeid="fanja9" changedate="20200720T181737Z" creationid="maximo" creationdate="20200411T105401Z">
+        <seg>Ви можете або вручну скопіювати їх із будь-якого місця вашої системи за допомогою файлового менеджера, або ж скористатися функцією OmegaT &lt;e0&gt;«Установити новий словник»&lt;/e0&gt;, яка запропонує вам вибірку словників.</seg>
       </tuv>
     </tu>
     <tu>
