@@ -30325,8 +30325,8 @@ the server.</seg>
       <tuv lang="EN">
         <seg>This works even if the keys are not in the same order in the two files, and/or if the two files do not contain the same amount of information.</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="maximo" changedate="20200607T171116Z" creationid="lesia" creationdate="20200501T202355Z">
-        <seg>Такий режим порівняння працюватиме навіть якщо порядок ключів у файлах не однаковий або якщо файли містять не однакову кількість інформації.</seg>
+      <tuv lang="UK-UA" changeid="fanja9" changedate="20200720T162908Z" creationid="lesia" creationdate="20200501T202355Z">
+        <seg>Такий режим вирівнювання працюватиме, навіть якщо порядок ключів у файлах не однаковий або якщо файли містять не однакову кількість інформації.</seg>
       </tuv>
     </tu>
     <tu>
