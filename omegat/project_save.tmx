@@ -11907,8 +11907,8 @@ provided (omegat.kaptn).</seg>
       <tuv lang="EN">
         <seg>For pre-defined options, remove the &lt;l1&gt;#&lt;/l1&gt; before a parameter to enable it.</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="maximo" changedate="20200420T164338Z" creationid="maximo" creationdate="20200420T164338Z">
-        <seg>Для того щоб задіяти якийсь з попередньо визначених параметрів, заберіть &lt;l1&gt;#&lt;/l1&gt; на початку відповідного рядка.</seg>
+      <tuv lang="UK-UA" changeid="fanja9" changedate="20200720T201430Z" creationid="maximo" creationdate="20200420T164338Z">
+        <seg>Для того щоб залучити якийсь з попередньо визначених параметрів, заберіть &lt;l1&gt;#&lt;/l1&gt; на початку відповідного рядка.</seg>
       </tuv>
     </tu>
     <tu>
@@ -29134,8 +29134,8 @@ in /lib/licenses/Licenses.txt.</seg>
       <tuv lang="EN">
         <seg>The two entries required are available in your &lt;u1&gt;account page&lt;/u1&gt; under Primary account key and Customer-ID:</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="lesia" changedate="20200708T095823Z" creationid="maximo" creationdate="20200422T171938Z">
-        <seg>Два елемента, які потрібно ввести, ви можете знайти на &lt;u1&gt;сторінці вашого акаунту&lt;/u1&gt;: Primary account key та Customer-ID:</seg>
+      <tuv lang="UK-UA" changeid="fanja9" changedate="20200720T201105Z" creationid="maximo" creationdate="20200422T171938Z">
+        <seg>Два елементи, які потрібно ввести, ви можете знайти на &lt;u1&gt;сторінці вашого акаунту&lt;/u1&gt;: Primary account key та Customer-ID:</seg>
       </tuv>
     </tu>
     <tu>
@@ -33519,8 +33519,8 @@ Your page is not found</seg>
       <tuv lang="EN">
         <seg>With this method, you may also download the "Windows without JRE" version, since the new installation will use your existing JRE.</seg>
       </tuv>
-      <tuv lang="UK-UA" changeid="lesia" changedate="20200708T091626Z" creationid="maximo" creationdate="20200419T071724Z">
-        <seg>До речі, цим способом ви можете обрати версію «для Windows без JRE», оскільки нова версія OmegaT буде використовувати вже існуюче JRE.</seg>
+      <tuv lang="UK-UA" changeid="fanja9" changedate="20200720T201034Z" creationid="maximo" creationdate="20200419T071724Z">
+        <seg>До речі, цим способом ви можете обрати версію «для Windows без JRE», оскільки нова версія OmegaT буде використовувати вже наявне JRE.</seg>
       </tuv>
     </tu>
     <tu>
