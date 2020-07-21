@@ -11867,8 +11867,8 @@ provided (omegat.kaptn).</seg>
       <tuv lang="en">
         <seg>For instance (if the default is accepted), the translation from the ancillary TM is accepted and prefixed with&lt;e3&gt; [fuzzy]&lt;/e3&gt;, so that the translator can review the translations at a later stage and check whether the segments tagged this way, have been translated correctly&lt;m4&gt; &lt;g5&gt;.&lt;/g5&gt; &lt;/m4&gt;</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="lesia" changedate="20200708T101822Z" creationid="fanja9" creationdate="20200510T185605Z">
-        <seg>Наприклад, переклад з вторинної пам’яті перекладів може вставлятися з позначкою &lt;e3&gt;[нечіткий збіг]&lt;/e3&gt;. Завдяки цьому перекладач зможе легко виявити такі сегменти і перевірити їх&lt;m4&gt; &lt;g5&gt;.&lt;/g5&gt; &lt;/m4&gt;</seg>
+      <tuv lang="uk-UA" changeid="Asus" changedate="20200721T073914Z" creationid="fanja9" creationdate="20200510T185605Z">
+        <seg>Наприклад, переклад з допоміжної пам’яті перекладів може вставлятися з позначкою &lt;e3&gt;[нечіткий збіг]&lt;/e3&gt;. Завдяки цьому перекладач зможе легко виявити такі сегменти і перевірити їх&lt;m4&gt; &lt;g5&gt;.&lt;/g5&gt; &lt;/m4&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -15974,8 +15974,8 @@ click on that shortcut.</seg>
       <tuv lang="en">
         <seg>It may happen, that translation memories, available in the &lt;f0&gt;tm&lt;/f0&gt; subfolder, contain segments with identical source text, but differing targets.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="Asus" changedate="20200712T110610Z" creationid="fanja9" creationdate="20200504T203402Z">
-        <seg>Буває так, що у пам’яті перекладів з підтеки &lt;f0&gt;./tm&lt;/f0&gt; знаходяться сегменти, у яких оригінал ідентичний, а переклади різні.</seg>
+      <tuv lang="uk-UA" changeid="Asus" changedate="20200721T071415Z" creationid="fanja9" creationdate="20200504T203402Z">
+        <seg>Буває так, що в пам’яті перекладів з підтеки &lt;f0&gt;./tm&lt;/f0&gt; знаходяться сегменти, у яких оригінал ідентичний, а переклади різні.</seg>
       </tuv>
     </tu>
     <tu>
