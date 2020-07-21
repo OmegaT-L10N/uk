@@ -13526,8 +13526,8 @@ need not be entered.)</seg>
       <tuv lang="en">
         <seg>If it is clear from the very start, that translations in a given TM (or TMs) are all correct, one can put them into the&lt;e0&gt; tm/auto&lt;/e0&gt; folder and avoid confirming a lot of&lt;e1&gt; [fuzzy]&lt;/e1&gt; cases.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="lesia" changedate="20200708T104404Z" creationid="fanja9" creationdate="20200510T133615Z">
-        <seg>Якщо одразу зрозуміло, що переклад, вказаний у файлі (або файлах) пам’яті перекладів, — правильний, його можна перемістити у теку &lt;e0&gt; ./tm/auto&lt;/e0&gt; і уникнути необхідності підтвердження значної кількості збігів з позначкою &lt;e1&gt;[нечіткий збіг]&lt;/e1&gt;.</seg>
+      <tuv lang="uk-UA" changeid="Asus" changedate="20200721T074825Z" creationid="fanja9" creationdate="20200510T133615Z">
+        <seg>Якщо одразу зрозуміло, що переклад, вказаний у файлі (або файлах) пам’яті перекладів, — правильний, його можна перемістити у теку&lt;e0&gt; ./tm/auto&lt;/e0&gt; і уникнути необхідності підтвердження значної кількості збігів з позначкою &lt;e1&gt;[нечіткий збіг]&lt;/e1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
