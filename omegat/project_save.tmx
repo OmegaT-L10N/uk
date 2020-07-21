@@ -22313,8 +22313,8 @@ project without team functionality.</seg>
       <tuv lang="en">
         <seg>Put the TMX in /tm/auto.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="lesia" changedate="20200708T104409Z" creationid="fanja9" creationdate="20200504T203532Z">
-        <seg>Помістіть файл TMX у ./tm/auto.</seg>
+      <tuv lang="uk-UA" changeid="Asus" changedate="20200721T074844Z" creationid="fanja9" creationdate="20200504T203532Z">
+        <seg>Помістіть файл TMX у теку ./tm/auto.</seg>
       </tuv>
     </tu>
     <tu>
@@ -30101,8 +30101,8 @@ the server.</seg>
       <tuv lang="en">
         <seg>This modifies &lt;f0&gt;project_save.tmx&lt;/f0&gt; (by adding proper Translation Units from "auto" TMX)</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="fanja9" changedate="20200510T152910Z" creationid="fanja9" creationdate="20200510T152910Z">
-        <seg>Таким чином зміниться файл &lt;f0&gt;project_save.tmx&lt;/f0&gt; (через додавання одиниць перекладу з автоматично створеного TMX)</seg>
+      <tuv lang="uk-UA" changeid="Asus" changedate="20200721T074951Z" creationid="fanja9" creationdate="20200510T152910Z">
+        <seg>Таким чином зміниться файл &lt;f0&gt;project_save.tmx&lt;/f0&gt; (через додавання одиниць перекладу з автоматично створеного файлу TMX)</seg>
       </tuv>
     </tu>
     <tu>
