@@ -21735,8 +21735,8 @@ project without team functionality.</seg>
       <tuv lang="en">
         <seg>Pressing &lt;k0&gt;F2&lt;/k0&gt; key allows to move the cursor into the source segment (or anywhere in the editor) with the keyboard arrows.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="Asus" changedate="20200709T102746Z" creationid="maximo" creationdate="20200501T202648Z">
-        <seg>Якщо натиснути &lt;k0&gt;F2&lt;/k0&gt;, курсор зможе вийти за межі поля редагування - в оригінальний сегмент і взагалі в будь-яке місце вікна редагування.</seg>
+      <tuv lang="uk-UA" changeid="Asus" changedate="20200722T125810Z" creationid="maximo" creationdate="20200501T202648Z">
+        <seg>Якщо натиснути &lt;k0&gt;F2&lt;/k0&gt;, курсор зможе вийти за межі поля введення тексту - в оригінальний сегмент і взагалі в будь-яке місце області редагування, керуючи стрілками на клавіатурі.</seg>
       </tuv>
     </tu>
     <tu>
