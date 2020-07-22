@@ -28235,8 +28235,8 @@ in /lib/licenses/Licenses.txt.</seg>
       <tuv lang="en">
         <seg>The match viewer shows the most similar segments from translation memories, both from internal project translation memory created in real time as you translate your project and from ancillary translation memories you have imported from your earlier jobs, or received from your client or translation agency.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="Asus" changedate="20200709T104422Z" creationid="maximo" creationdate="20200501T203818Z">
-        <seg>Область нечітких збігів показує найбільш схожі сегменти з пам’яті перекладів. Це може бути як внутрішня памʼять перекладів проєкту, що наповнюється в режимі реального часу, коли ви перекладаєте, так і вторинна памʼять перекладів, імпортована з ваших попередніх проєктів, отримана від клієнта чи бюро перекладів.</seg>
+      <tuv lang="uk-UA" changeid="Asus" changedate="20200722T131731Z" creationid="maximo" creationdate="20200501T203818Z">
+        <seg>Область нечітких збігів показує найбільш схожі сегменти з пам’яті перекладів. Це може бути як внутрішня памʼять перекладів проєкту, що наповнюється в режимі реального часу, коли ви перекладаєте, так і допоміжна памʼять перекладів, імпортована з ваших попередніх проєктів, отримана від клієнта чи бюро перекладів.</seg>
       </tuv>
     </tu>
     <tu>
@@ -30866,8 +30866,8 @@ the server.</seg>
       <tuv lang="en">
         <seg>To use the selected match in your translation, use &lt;g4&gt;Ctrl+R&lt;/g4&gt; to replace the target field with the match or use &lt;g5&gt;Ctrl+I &lt;/g5&gt; to insert it at the cursor position.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="Asus" changedate="20200709T121201Z" creationid="maximo" creationdate="20200501T204239Z">
-        <seg>Ви можете використати обраний збіг за допомогою &lt;g4&gt;Ctrl+R&lt;/g4&gt; — заміни тексту перекладу на нього, чи &lt;g5&gt;Ctrl+I&lt;/g5&gt; — вставки його в місці знаходження курсора.</seg>
+      <tuv lang="uk-UA" changeid="Asus" changedate="20200722T131953Z" creationid="maximo" creationdate="20200501T204239Z">
+        <seg>Ви можете використати обраний збіг за допомогою &lt;g4&gt;Ctrl+R&lt;/g4&gt; — заміни тексту перекладу на текст збігу, чи &lt;g5&gt;Ctrl+I&lt;/g5&gt; — вставки тексту збігу в місці знаходження курсора.</seg>
       </tuv>
     </tu>
     <tu>
