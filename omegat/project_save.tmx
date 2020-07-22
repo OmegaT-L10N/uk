@@ -3634,8 +3634,8 @@ The current setting is {0}MB;</seg>
       <tuv lang="en">
         <seg>A given source segment may require several different translations, depending on the context.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="maximo" changedate="20200503T055238Z" creationid="maximo" creationdate="20200503T055238Z">
-        <seg>Кожен сегмент може мати кілька варіантів перекладу, залежно від контексту.</seg>
+      <tuv lang="uk-UA" changeid="Asus" changedate="20200722T140025Z" creationid="maximo" creationdate="20200503T055238Z">
+        <seg>Кожен сегмент може мати кілька різних варіантів перекладу, в залежності від контексту.</seg>
       </tuv>
     </tu>
     <tu>
@@ -29022,8 +29022,8 @@ in /lib/licenses/Licenses.txt.</seg>
       <tuv lang="en">
         <seg>The target text entered after that will be treated as an alternative translation of the source segment.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="maximo" changedate="20200503T055441Z" creationid="maximo" creationdate="20200503T055441Z">
-        <seg>Те, що ви введете після цього у поле введення буде вважатися альтернативним перекладом поточного оригінального сегмента.</seg>
+      <tuv lang="uk-UA" changeid="Asus" changedate="20200722T140111Z" creationid="maximo" creationdate="20200503T055441Z">
+        <seg>Те, що ви введете після цього у поле введення, буде вважатися альтернативним перекладом поточного оригінального сегмента.</seg>
       </tuv>
     </tu>
     <tu>
