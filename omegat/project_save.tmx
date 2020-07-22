@@ -24928,8 +24928,8 @@ The scope of a search is by default the project and can be set to be any files l
       <tuv lang="en">
         <seg>Selecting one of them will insert it at the current cursor position into the target segment.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="maximo" changedate="20200503T054629Z" creationid="maximo" creationdate="20200503T054548Z">
-        <seg>Якщо ви виберете один з них, то він вставиться у поточну позицію в перекладеному сегменті.</seg>
+      <tuv lang="uk-UA" changeid="Asus" changedate="20200722T135620Z" creationid="maximo" creationdate="20200503T054548Z">
+        <seg>Якщо ви виберете один з них, то він вставиться у поточну позицію курсора в перекладеному сегменті.</seg>
       </tuv>
     </tu>
     <tu>
@@ -28894,8 +28894,8 @@ in /lib/licenses/Licenses.txt.</seg>
       <tuv lang="en">
         <seg>The source segment in the example below was “&lt;e0&gt;Context menu command&lt;/e0&gt;”, as in the Fuzzy Matches example above, and the terms shown were found in the glossaries, available (Microsoft's Term collection and Slovenian Linux User group Glossary).</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="lesia" changedate="20200708T093149Z" creationid="maximo" creationdate="20200503T053853Z">
-        <seg>Сегмент для перекладу у прикладі був «&lt;e0&gt;Context menu command&lt;/e0&gt;», так само, як і в прикладі для функції нечітких збігів, а терміни були знайдені у двох доступних глосаріях (колекція термінології Microsoft та глосарій словацької групи користувачів Linux).</seg>
+      <tuv lang="uk-UA" changeid="Asus" changedate="20200722T135452Z" creationid="maximo" creationdate="20200503T053853Z">
+        <seg>Сегмент для перекладу у прикладі був «&lt;e0&gt;Context menu command&lt;/e0&gt;», так само, як і в прикладі для функції нечітких збігів, а терміни були знайдені у двох доступних глосаріях (колекція термінології Microsoft та глосарій словенської групи користувачів Linux).</seg>
       </tuv>
     </tu>
     <tu>
