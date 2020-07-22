@@ -27129,8 +27129,8 @@ current folder will be used instead.</seg>
       <tuv lang="en">
         <seg>The Editor pane displays the text of the partially translated document: the text already translated is displayed in translation while the untranslated text is displayed in the original language.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="Asus" changedate="20200722T123954Z" creationid="maximo" creationdate="20200430T210534Z">
-        <seg>Область редагування відображає текст документа, що перекладається. Ті частини тексту, що вже мають переклад, відображаються у перекладеному вигляді, а ті, що ще ні — мовою оригіналу.</seg>
+      <tuv lang="uk-UA" changeid="Asus" changedate="20200722T124035Z" creationid="maximo" creationdate="20200430T210534Z">
+        <seg>Область редагування відображає текст документа, що перекладається. Ті частини тексту, що вже мають переклад, відображаються у перекладеному вигляді, а неперекладені частини тексту відображаються мовою оригіналу.</seg>
       </tuv>
     </tu>
     <tu>
@@ -27768,8 +27768,8 @@ instead.</seg>
       <tuv lang="en">
         <seg>The displayed text is split into segments and you may scroll through the document and double-click on any segment to open and edit it.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="lesia" changedate="20200708T095823Z" creationid="maximo" creationdate="20200501T160930Z">
-        <seg>Текст показується розділеним на сегменти. Ви можете прогортати документ та двічі клацнути на будь-якому сегменті, щоб відкрити його та відредагувати переклад.</seg>
+      <tuv lang="uk-UA" changeid="Asus" changedate="20200722T124117Z" creationid="maximo" creationdate="20200501T160930Z">
+        <seg>Текст розділений на сегменти. Ви можете прогортати документ та двічі клацнути на будь-якому сегменті, щоб відкрити його та відредагувати переклад.</seg>
       </tuv>
     </tu>
     <tu>
