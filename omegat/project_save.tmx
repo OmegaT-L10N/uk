@@ -19099,8 +19099,8 @@ as the Applications folder.</seg>
       <tuv lang="en">
         <seg>Note: the segment marker displays &lt;l0&gt;&lt;segment nnnn +yy more&gt; when the segment is non-unique.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="maximo" changedate="20200702T150533Z" creationid="maximo" creationdate="20200501T195217Z">
-        <seg>Зверніть увагу: якщо сегмент неунікальний, то маркер сегменту виглядає так &lt;l0&gt;&lt;сегмент #### (+ ще XX)&gt;.</seg>
+      <tuv lang="uk-UA" changeid="Asus" changedate="20200722T124601Z" creationid="maximo" creationdate="20200501T195217Z">
+        <seg>Зверніть увагу: якщо сегмент неунікальний, то маркер сегмента виглядає так &lt;l0&gt;&lt;сегмент #### (+ ще XX)&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -32309,8 +32309,8 @@ on line {1}, column {2}.</seg>
       <tuv lang="en">
         <seg>Use the upper part as a reference and replace or modify the contents of the editing field with your translation.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="fanja9" changedate="20200720T191351Z" creationid="maximo" creationdate="20200501T195109Z">
-        <seg>Маючи перед очима оригінал, змінюйте переклад у полі введення тексту.</seg>
+      <tuv lang="uk-UA" changeid="Asus" changedate="20200722T124533Z" creationid="maximo" creationdate="20200501T195109Z">
+        <seg>Маючи перед очима оригінал, змінюйте вміст поля введення текстом перекладу.</seg>
       </tuv>
     </tu>
     <tu>
