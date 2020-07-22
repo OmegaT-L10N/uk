@@ -10045,8 +10045,8 @@ project_save.tmx не був переданий на віддалений сер
       <tuv lang="en">
         <seg>Editor pane: If an OmegaT project file (&lt;f0&gt;omegat.project&lt;/f0&gt;) is dropped on this pane, the corresponding project will be opened, closing first any opened project.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="maximo" changedate="20200429T210159Z" creationid="maximo" creationdate="20200429T210159Z">
-        <seg>Для основної області редагування: Якщо туди перетягнути файл проєкту OmegaT (&lt;f0&gt;omegat.project&lt;/f0&gt;), то відкриється відповідний проєкт. При цьому, якщо якийсь проєкт був відкритий, він закриється.</seg>
+      <tuv lang="uk-UA" changeid="Asus" changedate="20200722T121756Z" creationid="maximo" creationdate="20200429T210159Z">
+        <seg>Для основної області редагування: Якщо туди перетягнути файл проєкту OmegaT (&lt;f0&gt;omegat.project&lt;/f0&gt;), то відкриється відповідний проєкт. При цьому, якщо до цього якийсь проєкт був відкритий, він закриється.</seg>
       </tuv>
     </tu>
     <tu>
