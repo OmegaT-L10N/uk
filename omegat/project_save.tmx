@@ -8729,8 +8729,8 @@ Buy another drink</seg>
       <tuv lang="en">
         <seg>Depending upon the preferred editing behavior, the editing field for the untranslated segment may be empty, contain the source text, or contain the translation of the string most similar to the one to be translated.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="fanja9" changedate="20200720T191543Z" creationid="maximo" creationdate="20200501T200613Z">
-        <seg>Залежно від ваших налаштувань поле введення тексту у неперекладених сегментів може бути порожнім, містити текст оригіналу або переклад найближчого нечіткого збігу.</seg>
+      <tuv lang="uk-UA" changeid="Asus" changedate="20200722T124735Z" creationid="maximo" creationdate="20200501T200613Z">
+        <seg>Залежно від ваших налаштувань поле введення тексту у неперекладених сегментах може бути порожнім, містити текст оригіналу або переклад найближчого нечіткого збігу.</seg>
       </tuv>
     </tu>
     <tu>
@@ -32309,8 +32309,8 @@ on line {1}, column {2}.</seg>
       <tuv lang="en">
         <seg>Use the upper part as a reference and replace or modify the contents of the editing field with your translation.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="Asus" changedate="20200722T124533Z" creationid="maximo" creationdate="20200501T195109Z">
-        <seg>Маючи перед очима оригінал, змінюйте вміст поля введення текстом перекладу.</seg>
+      <tuv lang="uk-UA" changeid="Asus" changedate="20200722T124940Z" creationid="maximo" creationdate="20200501T195109Z">
+        <seg>Маючи перед очима оригінал, змінюйте вміст поля введення тексту перекладом.</seg>
       </tuv>
     </tu>
     <tu>
