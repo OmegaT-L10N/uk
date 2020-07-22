@@ -14971,8 +14971,8 @@ click on that shortcut.</seg>
       <tuv lang="en">
         <seg>In the above example the source segment is &lt;e0&gt;Context menu command&lt;/e0&gt;.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="Asus" changedate="20200709T105248Z" creationid="maximo" creationdate="20200503T052428Z">
-        <seg>У попередньому прикладі сегмент для перекладу - це &lt;e0&gt;Context menu command&lt;/e0&gt;.</seg>
+      <tuv lang="uk-UA" changeid="Asus" changedate="20200722T132946Z" creationid="maximo" creationdate="20200503T052428Z">
+        <seg>У попередньому прикладі сегмент для перекладу — це &lt;e0&gt;Context menu command&lt;/e0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -28790,8 +28790,8 @@ in /lib/licenses/Licenses.txt.</seg>
       <tuv lang="en">
         <seg>The selected fuzzy match is highlighted in bold, words that are missing in the segment you are translating are colored blue and words adjacent to the missing parts green.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="lesia" changedate="20200708T094219Z" creationid="maximo" creationdate="20200503T052349Z">
-        <seg>Обраний нечіткий збіг виділяється напівжирним шрифтом. Ті слова, яких нема у поточному сегменті підсвічуються синім, а сусідні до них — зеленим кольором.</seg>
+      <tuv lang="uk-UA" changeid="Asus" changedate="20200722T132308Z" creationid="maximo" creationdate="20200503T052349Z">
+        <seg>Обраний нечіткий збіг виділяється напівжирним шрифтом. Ті слова, яких нема у поточному сегменті, підсвічуються синім, а сусідні до них — зеленим кольором.</seg>
       </tuv>
     </tu>
     <tu>
