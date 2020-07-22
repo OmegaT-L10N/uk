@@ -5623,8 +5623,8 @@ may experience unexpected, but correct behaviour.</seg>
       <tuv lang="en">
         <seg>Backups of this file (with extension bak) are added progressively to this subfolder, first at the beginning of the translation session, at its end, and while the translation progresses.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="fanja9" changedate="20200720T195200Z" creationid="fanja9" creationdate="20200510T151230Z">
-        <seg>Резервна копія цього файлу (у форматі bak) поступово додається до підтеки: на початку сеансу, наприкінці та в ході перекладу.</seg>
+      <tuv lang="uk-UA" changeid="Asus" changedate="20200722T114419Z" creationid="fanja9" creationdate="20200510T151230Z">
+        <seg>Резервна копія цього файлу (у форматі bak) поступово додається до підтеки: на початку роботи над перекладом, наприкінці та в ході перекладу.</seg>
       </tuv>
     </tu>
     <tu>
