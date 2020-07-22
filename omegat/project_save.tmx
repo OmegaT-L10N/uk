@@ -14345,8 +14345,8 @@ to use Java Web Start.</seg>
       <tuv lang="en">
         <seg>If you right click on the Editor pane, a pop-up menu opens, offering&lt;e0&gt; Cut, Copy, Paste&lt;/e0&gt; (i.e. same functions as &lt;k1&gt; &lt;k2&gt;Ctrl&lt;/k2&gt; &lt;k3&gt;X&lt;/k3&gt; &lt;/k1&gt;, &lt;k4&gt; &lt;k5&gt;Ctrl&lt;/k5&gt; &lt;k6&gt;C&lt;/k6&gt; &lt;/k4&gt; and &lt;k7&gt; &lt;k8&gt;Ctrl&lt;/k8&gt; &lt;k9&gt;V&lt;/k9&gt; &lt;/k7&gt;), &lt;e10&gt;GoTo segment&lt;/e10&gt; and &lt;e11&gt;Add glossary entry&lt;/e11&gt; functions.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="maximo" changedate="20200702T150823Z" creationid="maximo" creationdate="20200501T201536Z">
-        <seg>Якщо ви натиснете правою кнопкою на вікно редагування, відкриється меню з командами &lt;e0&gt;Вирізати, Копіювати, Вставити&lt;/e0&gt; (те саме, що &lt;k1&gt; &lt;k2&gt;Ctrl&lt;/k2&gt; &lt;k3&gt;X&lt;/k3&gt; &lt;/k1&gt;, &lt;k4&gt; &lt;k5&gt;Ctrl&lt;/k5&gt; &lt;k6&gt;C&lt;/k6&gt; &lt;/k4&gt; та &lt;k7&gt; &lt;k8&gt;Ctrl&lt;/k8&gt; &lt;k9&gt;V&lt;/k9&gt; &lt;/k7&gt;), а також &lt;e10&gt;Перейти до сегмента&lt;/e10&gt; та &lt;e11&gt;Створити запис глосарія&lt;/e11&gt;.</seg>
+      <tuv lang="uk-UA" changeid="Asus" changedate="20200722T125200Z" creationid="maximo" creationdate="20200501T201536Z">
+        <seg>Якщо ви натиснете правою кнопкою на область редагування, відкриється меню з командами &lt;e0&gt;Вирізати, Копіювати, Вставити&lt;/e0&gt; (те саме, що &lt;k1&gt; &lt;k2&gt;Ctrl&lt;/k2&gt; &lt;k3&gt;X&lt;/k3&gt; &lt;/k1&gt;, &lt;k4&gt; &lt;k5&gt;Ctrl&lt;/k5&gt; &lt;k6&gt;C&lt;/k6&gt; &lt;/k4&gt; та &lt;k7&gt; &lt;k8&gt;Ctrl&lt;/k8&gt; &lt;k9&gt;V&lt;/k9&gt; &lt;/k7&gt;), а також &lt;e10&gt;Перейти до сегмента&lt;/e10&gt; та &lt;e11&gt;Створити запис глосарія&lt;/e11&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -14667,8 +14667,8 @@ click on that shortcut.</seg>
       <tuv lang="en">
         <seg>In addition, when the right click occurs on an opened segment, other options concerning &lt;e12&gt;Alternative translations&lt;/e12&gt; are proposed, for example to to jump to another instance of non-unique segments.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="lesia" changedate="20200708T101804Z" creationid="maximo" creationdate="20200501T201751Z">
-        <seg>Для активного сегмента будуть доступні додаткові команди, пов’язані з &lt;e12&gt;Варіантами перекладу&lt;/e12&gt;. Наприклад, перехід до іншого повтору цього сегмента.</seg>
+      <tuv lang="uk-UA" changeid="Asus" changedate="20200722T125349Z" creationid="maximo" creationdate="20200501T201751Z">
+        <seg>Крім цього, якщо натиснути правою кнопкою на активний сегмент, будуть доступні додаткові команди, пов’язані з &lt;e12&gt;Варіантами перекладу&lt;/e12&gt;. Наприклад, перехід до іншого повтору цього сегмента.</seg>
       </tuv>
     </tu>
     <tu>
