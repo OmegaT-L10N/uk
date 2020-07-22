@@ -37122,16 +37122,16 @@ create its configuration folder.</seg>
       <tuv lang="en">
         <seg>the percentage calculated with stemming</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="Asus" changedate="20200709T104443Z" creationid="maximo" creationdate="20200614T162706Z">
-        <seg>відсоток з урахуванням стемінгу,</seg>
+      <tuv lang="uk-UA" changeid="Asus" changedate="20200722T132158Z" creationid="maximo" creationdate="20200614T162706Z">
+        <seg>відсоток з урахуванням стемінгу</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>the percentage calculated with the full text, including tags and numbers (generally the lowest)</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="Asus" changedate="20200709T104606Z" creationid="maximo" creationdate="20200614T163028Z">
-        <seg>відсоток повних збігів, з урахуванням теґів та чисел (як правило, найнижчий)</seg>
+      <tuv lang="uk-UA" changeid="Asus" changedate="20200722T132229Z" creationid="maximo" creationdate="20200614T163028Z">
+        <seg>відсоток повних збігів з урахуванням теґів та чисел (як правило, найнижчий)</seg>
       </tuv>
     </tu>
     <tu>
