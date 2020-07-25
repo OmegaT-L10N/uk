@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.2.0_0_747fc65a" segtype="sentence" srclang="en"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.3.0_0_3cc97d83a" segtype="sentence" srclang="en"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -11511,6 +11511,14 @@ Gossamer threads hold you back
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Folder ID</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20200725T091305Z" creationid="Kos Ivantsov" creationdate="20200725T090904Z">
+        <seg>ID теки:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Folder already exists and is not empty.</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20190516T181238Z" creationid="Kos Ivantsov" creationdate="20190516T181238Z">
@@ -18597,6 +18605,14 @@ as the Applications folder.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>No OAuth token specified</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20200725T091035Z" creationid="Kos Ivantsov" creationdate="20200725T091035Z">
+        <seg>Токен OAuth не вказано</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>No Suggestions</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20190820T184743Z" creationid="Kos Ivantsov" creationdate="20190820T184743Z">
@@ -18617,6 +18633,14 @@ as the Applications folder.</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20190812T071400Z" creationid="Kos Ivantsov" creationdate="20190812T070429Z">
         <seg>Підключення відсутнє. Робота в автономному режимі.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>No folder ID specified</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20200725T091044Z" creationid="Kos Ivantsov" creationdate="20200725T091044Z">
+        <seg>ID теки не вказано</seg>
       </tuv>
     </tu>
     <tu>
@@ -19273,6 +19297,14 @@ as the Applications folder.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>OAuth token</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20200725T091310Z" creationid="Kos Ivantsov" creationdate="20200725T090933Z">
+        <seg>Токен OAuth:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>ODFAuthors and LibreOffice's Italian translators are proud to use such a good tool for their hard work within the LibreOffice Community.</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="lesia" changedate="20200708T102010Z" creationid="maximo" creationdate="20200322T173521Z">
@@ -19830,6 +19862,14 @@ be launched.</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20190424T213354Z" creationid="Kos Ivantsov" creationdate="20190424T213354Z">
         <seg>Ліцензія OmegaT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>OmegaT on Linux HowTo</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20200725T091420Z" creationid="Kos Ivantsov" creationdate="20200725T091420Z">
+        <seg>OmegaT on Linux HowTo</seg>
       </tuv>
     </tu>
     <tu>
@@ -31621,10 +31661,34 @@ Exact searches match the whole search string.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Unable to parse IAM service response</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20200725T091131Z" creationid="Kos Ivantsov" creationdate="20200725T091131Z">
+        <seg>Не вдалося проаналізувати відповідь сервісу IAM</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Unable to parse filters configuration file</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20190517T151958Z" creationid="Kos Ivantsov" creationdate="20190517T151958Z">
         <seg>Не вдалося проаналізувати файл налаштувань для фільтрів</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Unable to parse service error report</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20200725T091227Z" creationid="Kos Ivantsov" creationdate="20200725T091227Z">
+        <seg>Не вдалося проаналізувати звіт сервісу про помилку</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Unable to parse translate service response</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20200725T091148Z" creationid="Kos Ivantsov" creationdate="20200725T091148Z">
+        <seg>Не вдалося проаналізувати відповідь сервісу перекладу</seg>
       </tuv>
     </tu>
     <tu>
@@ -32247,6 +32311,14 @@ on line {1}, column {2}.</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20190823T142709Z" creationid="Kos Ivantsov" creationdate="20190823T142709Z">
         <seg>Використовувати глосарій</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Use glossary terms</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20200725T091009Z" creationid="Kos Ivantsov" creationdate="20200725T091009Z">
+        <seg>Використовувати терміни з глосарія</seg>
       </tuv>
     </tu>
     <tu>
@@ -33849,6 +33921,14 @@ Your page is not found</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20190807T184414Z" creationid="Kos Ivantsov" creationdate="20190807T184414Z">
         <seg>Яндекс.Перекладач — не вказано ключ API</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Yandex.Cloud</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20200725T090849Z" creationid="Kos Ivantsov" creationdate="20200725T090849Z">
+        <seg>Yandex.Cloud</seg>
       </tuv>
     </tu>
     <tu>
