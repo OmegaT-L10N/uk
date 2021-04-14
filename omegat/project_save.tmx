@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.4.0_0_f214222fc" segtype="sentence" srclang="en"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.5.0_0_1ee7c8ead" segtype="sentence" srclang="en"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -17603,6 +17603,14 @@ itself on the first run.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Mark unknown words</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20210414T143916Z" creationid="Kos Ivantsov" creationdate="20210414T143916Z">
+        <seg>Позначати невідомі слова</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Mask</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20190808T115924Z" creationid="Kos Ivantsov" creationdate="20190808T115924Z">
@@ -17831,6 +17839,14 @@ itself on the first run.</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="lesia" changedate="20200708T102207Z" creationid="Kos Ivantsov" creationdate="20190807T150504Z">
         <seg>Об’єднати</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Merge alternate definitions for the same term</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20210414T143903Z" creationid="Kos Ivantsov" creationdate="20210414T143903Z">
+        <seg>Якщо термін має кілька визначень, об’єднувати їх в одну групу</seg>
       </tuv>
     </tu>
     <tu>
