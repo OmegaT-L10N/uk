@@ -12473,6 +12473,14 @@ provided (omegat.kaptn).</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Glossary note</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20210414T144218Z" creationid="Kos Ivantsov" creationdate="20210414T144218Z">
+        <seg>Текст примітки у глосарії</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Glossary pane</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="lesia" changedate="20200614T150941Z" creationid="maximo" creationdate="20200404T172107Z">
@@ -12485,6 +12493,22 @@ provided (omegat.kaptn).</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="lesia" changedate="20200616T203841Z" creationid="maximo" creationdate="20200429T210659Z">
         <seg>Для області глосарія: Якщо скопіювати туди файл з відомим розширенням файлів глосаріїв (&lt;f0&gt;.txt&lt;/f0&gt;, &lt;f1&gt;.tab&lt;/f1&gt;, і т.п.), то його буде скопійовано у теку &lt;f2&gt;glossary&lt;/f2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Glossary source</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20210414T144206Z" creationid="Kos Ivantsov" creationdate="20210414T144052Z">
+        <seg>Текст оригіналу в глосарії</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Glossary translation</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20210414T144203Z" creationid="Kos Ivantsov" creationdate="20210414T144203Z">
+        <seg>Текст перекладу в глосарії</seg>
       </tuv>
     </tu>
     <tu>
@@ -16363,6 +16387,14 @@ itself on the first run.</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20190807T183038Z" creationid="Kos Ivantsov" creationdate="20190807T183038Z">
         <seg>Зберегти іншу</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Keep tags in translated text</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20210414T143952Z" creationid="Kos Ivantsov" creationdate="20210414T143952Z">
+        <seg>Зберігати теґи в перекладеному тексті</seg>
       </tuv>
     </tu>
     <tu>
@@ -21437,6 +21469,14 @@ additional steps need to be taken.</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20190821T151800Z" creationid="Kos Ivantsov" creationdate="20190821T151800Z">
         <seg>Уведіть ім’я користувача та пароль</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Please enter username/password for {0}</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20210414T144002Z" creationid="Kos Ivantsov" creationdate="20210414T144002Z">
+        <seg>Уведіть ім’я користувача та пароль для {0}</seg>
       </tuv>
     </tu>
     <tu>
@@ -33809,6 +33849,14 @@ Your page is not found</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20190821T151703Z" creationid="Kos Ivantsov" creationdate="20190821T151703Z">
         <seg>Ім’я користувача або пароль уведено неправильно</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Wrong username/password for {0}</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20210414T144017Z" creationid="Kos Ivantsov" creationdate="20210414T144017Z">
+        <seg>Ім’я користувача або пароль для {0} уведено неправильно</seg>
       </tuv>
     </tu>
     <tu>
