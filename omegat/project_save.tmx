@@ -11431,6 +11431,14 @@ Gossamer threads hold you back
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Files must be deleted by the project manager.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20210508T204909Z" creationid="Kos Ivantsov" creationdate="20210508T204909Z">
+        <seg>Файли має видалити проєктний менеджер.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Files must be deleted first by the project manager, and then locally.</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="maximo" changedate="20200704T203207Z" creationid="maximo" creationdate="20200704T203207Z">
