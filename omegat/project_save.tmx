@@ -12032,6 +12032,14 @@ provided (omegat.kaptn).</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>For instance (if the default is accepted), the translation from the ancillary TM is accepted and prefixed with&lt;e3&gt; [fuzzy]&lt;/e3&gt;, so that the translator can review the translations at a later stage and check whether the segments tagged this way, have been translated correctly.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20210511T130251Z" creationid="Kos Ivantsov" creationdate="20210511T130251Z">
+        <seg>Наприклад, переклад з допоміжної пам’яті перекладів може вставлятися з позначкою &lt;e3&gt;[нечіткий збіг]&lt;/e3&gt;. Завдяки цьому перекладач зможе легко виявити такі сегменти і перевірити їх. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>For instance (if the default is accepted), the translation from the ancillary TM is accepted and prefixed with&lt;e3&gt; [fuzzy]&lt;/e3&gt;, so that the translator can review the translations at a later stage and check whether the segments tagged this way, have been translated correctly&lt;m4&gt; &lt;g5&gt;.&lt;/g5&gt; &lt;/m4&gt;</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="Asus" changedate="20200721T073914Z" creationid="fanja9" creationdate="20200510T185605Z">
@@ -14816,10 +14824,26 @@ click on that shortcut.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>In &lt;g0&gt;Heapwise&lt;/g0&gt; comparison mode, the texts are evaluated globally.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20210511T130328Z" creationid="Kos Ivantsov" creationdate="20210511T130328Z">
+        <seg>У режимі порівняння &lt;g0&gt;Текст цілком&lt;/g0&gt; тексти вирівнюються загалом, без розділу на сегменти.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>In &lt;g0&gt;Heapwise&lt;/g0&gt; mode, the texts are evaluated globally.</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="lesia" changedate="20200501T201941Z" creationid="lesia" creationdate="20200501T201733Z">
         <seg>У режимі &lt;g0&gt;Текст цілком&lt;/g0&gt; тексти вирівнюються загалом, без розділу на сегменти.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>In &lt;g1&gt;Parsewise&lt;/g1&gt; comparison mode, they are evaluated segment by segment.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20210511T130343Z" creationid="Kos Ivantsov" creationdate="20210511T130343Z">
+        <seg>У режимі &lt;g1&gt;Окремими сегментами&lt;/g1&gt; вирівнювання відбувається посегментно.</seg>
       </tuv>
     </tu>
     <tu>
@@ -20944,6 +20968,14 @@ installed on your system.</seg>
         <seg>Opens the &lt;l0&gt;Project files window&lt;/l0&gt;.</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="maximo" changedate="20200425T145022Z" creationid="maximo" creationdate="20200425T145022Z">
+        <seg>Відкрити вікно &lt;l0&gt;Файли проєкту&lt;/l0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Opens the &lt;l0&gt;Project files&lt;/l0&gt; window.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20210511T130229Z" creationid="Kos Ivantsov" creationdate="20210511T130229Z">
         <seg>Відкрити вікно &lt;l0&gt;Файли проєкту&lt;/l0&gt;.</seg>
       </tuv>
     </tu>
@@ -28784,6 +28816,14 @@ in /lib/licenses/Licenses.txt.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The option only appears when such a selection is possible.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20210511T130432Z" creationid="Kos Ivantsov" creationdate="20210511T130432Z">
+        <seg>Цей параметр буде показано лише тоді, коли такий вибір можливий.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The options for the program start-up in this case will be read from the &lt;f1&gt;OmegaT.l4J.ini&lt;/f1&gt; file, which resides in the same folder as the exe file and which you can edit to reflect your setup.</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="lesia" changedate="20200708T101501Z" creationid="maximo" creationdate="20200418T130649Z">
@@ -32762,6 +32802,14 @@ on line {1}, column {2}.</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="maximo" changedate="20200420T165026Z" creationid="maximo" creationdate="20200420T165026Z">
         <seg>Щоб запустити &lt;a2&gt;OmegaT&lt;/a2&gt; з командного рядка використовуйте файл &lt;f0&gt;OmegaT.jar&lt;/f0&gt;, що розташований у теці &lt;f1&gt;OmegaT.app/Contents/MacOS/Java/&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Use the &lt;g0&gt;ID&lt;/g0&gt; comparison mode to align Key=Value texts.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20210511T130456Z" creationid="Kos Ivantsov" creationdate="20210511T130456Z">
+        <seg>Щоб вирівнювати текстові файли типу «ключ=значення», використовуйте режим порівняння &lt;g0&gt;За ідентифікатором&lt;/g0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
