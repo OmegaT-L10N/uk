@@ -10011,6 +10011,14 @@ project_save.tmx не був переданий на віддалений сер
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>EPWING plugin</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20210511T130918Z" creationid="Kos Ivantsov" creationdate="20210511T130918Z">
+        <seg>Плагін EPWING.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>ERROR: (declaring bean)</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20190807T213304Z" creationid="Kos Ivantsov" creationdate="20190807T213304Z">
@@ -15831,6 +15839,14 @@ click on that shortcut.</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="lesia" changedate="20200322T151907Z" creationid="lesia" creationdate="20200322T151544Z">
         <seg>Інтегрує в OmegaT можливість використання машинного перекладу з Apertium.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Integrates the TexTra neural machine translation engine into OmegaT.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20210511T130709Z" creationid="Kos Ivantsov" creationdate="20210511T130709Z">
+        <seg>Інтегрує в OmegaT можливість використання рушія нейронного машинного перекладу TexTra.</seg>
       </tuv>
     </tu>
     <tu>
@@ -22631,6 +22647,14 @@ project without team functionality.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Provides functionality to read EPWING dictionary format.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20210511T130959Z" creationid="Kos Ivantsov" creationdate="20210511T130959Z">
+        <seg>Забезпечує читання словників у форматі EPWING.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Provides recognition of inflected forms in fuzzy matches and glossary hits.</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="maximo" changedate="20200322T202522Z" creationid="lesia" creationdate="20200322T150510Z">
@@ -27789,6 +27813,14 @@ Please try to correct the error and reload the project.</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20190701T133849Z" creationid="Kos Ivantsov" creationdate="20190701T133849Z">
         <seg>Мова оригіналу у файлі TMX ({0}) відрізняється від мови оригіналу, зазначеній у властивостях проєкту ({1}).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The TexTra API is freely provided by NICT, Japan government research agency.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20210511T130905Z" creationid="Kos Ivantsov" creationdate="20210511T130905Z">
+        <seg>Доступ до API рушія TexTra вільно надається державним дослідницьким агентством Японія NICT.</seg>
       </tuv>
     </tu>
     <tu>
@@ -36895,6 +36927,22 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20190424T212311Z" creationid="Kos Ivantsov" creationdate="20190424T212311Z">
         <seg>mALIGNa (ліцензія MIT)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>macOS Notarized</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20210511T131049Z" creationid="Kos Ivantsov" creationdate="20210511T131049Z">
+        <seg>Завірена версія для macOS</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>macOS Unsigned</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20210511T131105Z" creationid="Kos Ivantsov" creationdate="20210511T131105Z">
+        <seg>Непідписана версія для macOS</seg>
       </tuv>
     </tu>
     <tu>
