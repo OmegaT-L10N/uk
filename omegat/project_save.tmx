@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.5.0_0_6a16391ac" segtype="sentence" srclang="en"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.5.0_0_b2daf3459" segtype="sentence" srclang="en"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -3636,6 +3636,14 @@ The current setting is {0}MB;</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="fanja9" changedate="20200720T153522Z" creationid="lesia" creationdate="20200523T202932Z">
         <seg>Якщо файл не має відповідних результатів, вікно буде порожнім.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>A given project can have any number of reference glossaries, but only one glossary, the project default glossary, will be directly writable from the OmegaT user interface.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20210511T122620Z" creationid="Kos Ivantsov" creationdate="20210511T122110Z">
+        <seg>Проєкт OmegaT може містити будь-яку кількість довідкових глосаріїв, в яких буде здійснюватися пошук термінології, але додавання нових термінів через інтерфейс користувача OmegaT здійснюватиметься лише в один файл — типовий глосарій проєкту.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8679,6 +8687,14 @@ Buy another drink</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Default glossary</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20210511T122837Z" creationid="Kos Ivantsov" creationdate="20210511T122837Z">
+        <seg>Типовий глосарій</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Default is &lt;l0&gt;${filename}&lt;/l0&gt;– full filename of the source file with extension: in this case the name of the translated file is the same as that of the source file.</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="fanja9" changedate="20200718T212220Z" creationid="maximo" creationdate="20200413T191254Z">
@@ -12413,6 +12429,14 @@ provided (omegat.kaptn).</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="maximo" changedate="20200404T170759Z" creationid="maximo" creationdate="20200404T170759Z">
         <seg>Глосарії — це файли, які створюються та оновлюються вручну для використання в &lt;a0&gt;OmegaT&lt;/a0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Glossaries are terminology files.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20210511T122013Z" creationid="Kos Ivantsov" creationdate="20210511T122013Z">
+        <seg>Глосарії — це файли, що містять терміни.</seg>
       </tuv>
     </tu>
     <tu>
@@ -22731,6 +22755,14 @@ These words: 'Page not found'</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Regardless of the number of glossaries in a project, any term in a segment that has a match in a glossary will be displayed in the Glossary pane.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20210511T122830Z" creationid="Kos Ivantsov" creationdate="20210511T122830Z">
+        <seg>Незалежно від кількості глосаріїв у проєкті будь-який термін у поточному сегменті, до якого знайдено відповідник у будь-якому з наявних файлів, буде показано області «Глосарій».</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Regex - Boundary matchers</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="lesia" changedate="20200708T093941Z" creationid="maximo" creationdate="20200412T051248Z">
@@ -27964,6 +27996,14 @@ instead.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The default writable glossary is located in the the &lt;f0&gt;/glossary&lt;/f0&gt; project folder and is called &lt;f1&gt;glossary.txt&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20210511T123249Z" creationid="Kos Ivantsov" creationdate="20210511T123249Z">
+        <seg>Типово глосарій, до якого записуватимуться нові терміни, має назву &lt;f1&gt;glossary.txt&lt;/f1&gt; та міститься у підтеці &lt;f0&gt;/glossary&lt;/f0&gt; теки проєкту.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The dialog allows you to enable or disable the following options:</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="Asus" changedate="20200622T031607Z" creationid="maximo" creationdate="20200412T195630Z">
@@ -29714,6 +29754,14 @@ You, victim of one</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20190822T153540Z" creationid="Kos Ivantsov" creationdate="20190822T153540Z">
         <seg>Текст теґів захищений, тому його неможливо змінити, проте у перекладі їх можна видаляти, вводити вручну або переставляти місцями.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>They can be created and updated manually or imported from other projects.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20210511T122123Z" creationid="Kos Ivantsov" creationdate="20210511T122055Z">
+        <seg>Їх можна створювати та оновлювати вручну або імпортувати з інших проєктів.</seg>
       </tuv>
     </tu>
     <tu>
