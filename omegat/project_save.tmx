@@ -2107,8 +2107,8 @@ To add files to the project, click on the Copy Files to Source Folder... button 
       <tuv lang="en">
         <seg>...but the same characters are displayed properly in the Editing pane: the extension and the file encoding do not match.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="Asus" changedate="20200610T151444Z" creationid="lesia" creationdate="20200505T203721Z">
-        <seg>...хоча ті ж символи правильно відображуються у вікні редагування. Проблема полягає в тому, що розширення файлу та його кодування несумісні.</seg>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20210511T124341Z" creationid="lesia" creationdate="20200505T203721Z">
+        <seg>...хоча ті ж символи правильно відображуються в області редагування. Проблема полягає в тому, що розширення файлу та його кодування несумісні.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3515,6 +3515,14 @@ The current setting is {0}MB;</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="lesia" changedate="20200614T170619Z" creationid="maximo" creationdate="20200405T043358Z">
         <seg>&lt;комбінація клавіш&gt; складається з таких елементів: 0 чи більше елементів &lt;c0&gt;&lt;модифікатор&gt;&lt;/c0&gt; потім 0 чи 1 &lt;c1&gt;&lt;подія&gt;&lt;/c1&gt; за ним 1 &lt;c2&gt;&lt;клавіша&gt;&lt;/c2&gt;, де:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;t0&gt; &lt;t1&gt;TSV&lt;/t1&gt; &lt;t2&gt; &lt;f3&gt;.txt&lt;/f3&gt; &lt;/t2&gt; &lt;t4&gt;UTF-8&lt;/t4&gt; &lt;/t0&gt; &lt;t5&gt; &lt;t6&gt;TSV&lt;/t6&gt; &lt;t7&gt; &lt;f8&gt;.utf8&lt;/f8&gt; &lt;/t7&gt; &lt;t9&gt;UTF-8&lt;/t9&gt; &lt;/t5&gt; &lt;t10&gt; &lt;t11&gt;TSV&lt;/t11&gt; &lt;t12&gt; &lt;f13&gt;.tab&lt;/f13&gt; &lt;/t12&gt; &lt;t14&gt;OS default encoding&lt;/t14&gt; &lt;/t10&gt; &lt;t15&gt; &lt;t16&gt;TSV&lt;/t16&gt; &lt;t17&gt; &lt;f18&gt;.tsv&lt;/f18&gt; &lt;/t17&gt; &lt;t19&gt;OS default encoding&lt;/t19&gt; &lt;/t15&gt; &lt;t20&gt; &lt;t21&gt;CSV&lt;/t21&gt; &lt;t22&gt; &lt;f23&gt;.csv&lt;/f23&gt; &lt;/t22&gt; &lt;t24&gt;UTF-8&lt;/t24&gt; &lt;/t20&gt; &lt;t25&gt; &lt;t26&gt;TBX&lt;/t26&gt; &lt;t27&gt; &lt;f28&gt;.tbx&lt;/f28&gt; &lt;/t27&gt; &lt;t29&gt;UTF-8&lt;/t29&gt; &lt;/t25&gt;</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20210511T124423Z" creationid="Kos Ivantsov" creationdate="20210511T124423Z">
+        <seg>&lt;t0&gt; &lt;t1&gt;TSV&lt;/t1&gt; &lt;t2&gt; &lt;f3&gt;.txt&lt;/f3&gt; &lt;/t2&gt; &lt;t4&gt;UTF-8&lt;/t4&gt; &lt;/t0&gt; &lt;t5&gt; &lt;t6&gt;TSV&lt;/t6&gt; &lt;t7&gt; &lt;f8&gt;.utf8&lt;/f8&gt; &lt;/t7&gt; &lt;t9&gt;UTF-8&lt;/t9&gt; &lt;/t5&gt; &lt;t10&gt; &lt;t11&gt;TSV&lt;/t11&gt; &lt;t12&gt; &lt;f13&gt;.tab&lt;/f13&gt; &lt;/t12&gt; &lt;t14&gt;Типове кодування ОС&lt;/t14&gt; &lt;/t10&gt; &lt;t15&gt; &lt;t16&gt;TSV&lt;/t16&gt; &lt;t17&gt; &lt;f18&gt;.tsv&lt;/f18&gt; &lt;/t17&gt; &lt;t19&gt;Типове кодування ОС&lt;/t19&gt; &lt;/t15&gt; &lt;t20&gt; &lt;t21&gt;CSV&lt;/t21&gt; &lt;t22&gt; &lt;f23&gt;.csv&lt;/f23&gt; &lt;/t22&gt; &lt;t24&gt;UTF-8&lt;/t24&gt; &lt;/t20&gt; &lt;t25&gt; &lt;t26&gt;TBX&lt;/t26&gt; &lt;t27&gt; &lt;f28&gt;.tbx&lt;/f28&gt; &lt;/t27&gt; &lt;t29&gt;UTF-8&lt;/t29&gt; &lt;/t25&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -22089,16 +22097,16 @@ project without team functionality.</seg>
       <tuv lang="en">
         <seg>Problem: In the glossary pane, some characters are not displayed properly</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="lesia" changedate="20200616T203841Z" creationid="lesia" creationdate="20200505T203712Z">
-        <seg>Проблема: у вікні глосарія деякі символи відображуються некоректно</seg>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20210511T124321Z" creationid="lesia" creationdate="20200505T203712Z">
+        <seg>Проблема: в області глосарія деякі символи відображуються некоректно</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>Problem: No glossary terms are displayed - possible causes:</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="lesia" changedate="20200616T203841Z" creationid="lesia" creationdate="20200505T202933Z">
-        <seg>Проблема: записи глосарія не відображаються. Можливі причини:</seg>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20210511T124105Z" creationid="lesia" creationdate="20200505T202933Z">
+        <seg>Проблема: не відображаються терміни. Можливі причини:</seg>
       </tuv>
     </tu>
     <tu>
@@ -28329,8 +28337,8 @@ instead.</seg>
       <tuv lang="en">
         <seg>The glossary file does not have the correct extension (.tab, .utf8 or .txt).</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="lesia" changedate="20200718T113759Z" creationid="lesia" creationdate="20200505T203139Z">
-        <seg>Файл глосарія має неправильне розширення (має бути .utf8 чи .txt).</seg>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20210511T124147Z" creationid="lesia" creationdate="20200505T203139Z">
+        <seg>Файл глосарія має неправильне розширення (має бути .tab, .utf8 чи .txt).</seg>
       </tuv>
     </tu>
     <tu>
@@ -29643,15 +29651,11 @@ in /lib/licenses/Licenses.txt.</seg>
       </tuv>
     </tu>
     <tu>
-      <note>
-
-
-</note>
       <tuv lang="en">
         <seg>There is no EXACT match between the glossary entry and the source text in your document - for instance plurals.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="lesia" changedate="20200708T093931Z" creationid="lesia" creationdate="20200505T203457Z">
-        <seg>Між термінами сегменту чи тексту, який ви наразі перекладаєте, та записом у глосарії немає ТОЧНОЇ відповідності. Наприклад, в глосарії стоїть однина, а у вашому тексті — множина. Як зазначено вище, для деяких мов глосарій не підтримує флексій.</seg>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20210511T124306Z" creationid="lesia" creationdate="20200505T203457Z">
+        <seg>Між термінами сегменту чи тексту, який ви наразі перекладаєте, та записом у глосарії немає ТОЧНОЇ відповідності. Наприклад, в глосарії стоїть однина, а у вашому тексті — множина. Як зазначено вище, для деяких мов глосарій не підтримує пошук в інших граматичних формах.</seg>
       </tuv>
     </tu>
     <tu>
