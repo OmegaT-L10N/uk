@@ -2295,6 +2295,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;/mapping&gt;</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20210511T125221Z" creationid="Kos Ivantsov" creationdate="20210511T125221Z">
+        <seg>&lt;/mapping&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;/repository&gt;</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="lesia" changedate="20200704T205034Z" creationid="lesia" creationdate="20200704T205034Z">
@@ -2956,6 +2964,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;excludes&gt;**/*.bak&lt;/excludes&gt;</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20210511T125219Z" creationid="Kos Ivantsov" creationdate="20210511T125219Z">
+        <seg>&lt;excludes&gt;**/*.bak&lt;/excludes&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;f0&gt;OmegaT.app&lt;/f0&gt; can make use of macOS Services.</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="maximo" changedate="20200420T165101Z" creationid="maximo" creationdate="20200420T165101Z">
@@ -3088,6 +3104,14 @@ The current setting is {0}MB;</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20210415T120359Z" creationid="Kos Ivantsov" creationdate="20210415T120359Z">
         <seg>&lt;i1&gt;OmegaT можна встановити на будь-яку операційну систему, що може запустити Java версії 1.8.&lt;/i1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;includes&gt;readme.bak&lt;/includes&gt;</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20210511T125220Z" creationid="Kos Ivantsov" creationdate="20210511T125220Z">
+        <seg>&lt;includes&gt;readme.bak&lt;/includes&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -3340,10 +3364,56 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;mapping local="source/Bundle.properties" repository="src/org/omegat/Bundle.properties"/&gt;
+&lt;/repository&gt;</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20210511T125637Z" creationid="Kos Ivantsov" creationdate="20210511T125232Z">
+        <seg>&lt;mapping local="source/Bundle.properties" repository="src/org/omegat/Bundle.properties"/&gt;
+&lt;/repository&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;mapping local="source/file.txt" repository="my/file.txt"/&gt;</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20210511T125742Z" creationid="Kos Ivantsov" creationdate="20210511T125742Z">
+        <seg>&lt;mapping local="source/file.txt" repository="my/file.txt"/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;mapping local="source/file2.txt" repository="some/file.txt"/&gt;
+&lt;/repository&gt;</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20210511T125745Z" creationid="Kos Ivantsov" creationdate="20210511T125745Z">
+        <seg>&lt;mapping local="source/file2.txt" repository="some/file.txt"/&gt;
+&lt;/repository&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;mapping local="source/readme_tr.txt" repository="release/readme.txt"/&gt;</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="lesia" changedate="20200708T103850Z" creationid="lesia" creationdate="20200704T205125Z">
         <seg>&lt;mapping local="source/readme_tr.txt" repository="release/readme.txt"/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;mapping local="source/readme_tr.txt" repository="release/readme.txt"/&gt;
+&lt;/repository&gt;</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20210511T125716Z" creationid="Kos Ivantsov" creationdate="20210511T125240Z">
+        <seg>&lt;mapping local="source/readme_tr.txt" repository="release/readme.txt"/&gt;
+&lt;/repository&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;mapping local="source/subdir" repository=""&gt;</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20210511T125628Z" creationid="Kos Ivantsov" creationdate="20210511T125218Z">
+        <seg>&lt;mapping local="source/subdir" repository=""&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -3423,6 +3493,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;repository type="file" url="/home/me/myfiles"&gt;</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20210511T125736Z" creationid="Kos Ivantsov" creationdate="20210511T125256Z">
+        <seg>&lt;repository type="file" url="/home/me/myfiles"&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;repository type="git" url="https://repo_for_OmegaT_team_project.git"&gt;</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="lesia" changedate="20200704T191909Z" creationid="lesia" creationdate="20200704T191909Z">
@@ -3435,6 +3513,15 @@ The current setting is {0}MB;</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="lesia" changedate="20200708T095823Z" creationid="lesia" creationdate="20200704T205032Z">
         <seg>&lt;repository type="http" url="https://github.com/omegat-org/omegat/raw/master/"&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;repository type="svn" url="https://repo_for_All_OmegaT_team_project_sources"&gt;</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20210511T125619Z" creationid="Kos Ivantsov" creationdate="20210511T125217Z">
+        <seg>&lt;repository type="svn" url="https://repo_for_All_OmegaT_team_project_sources"&gt;
+</seg>
       </tuv>
     </tu>
     <tu>
