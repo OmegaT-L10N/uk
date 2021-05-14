@@ -18809,6 +18809,14 @@ as the Applications folder.</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>Newly added terms will be immediately recognized.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20210514T081831Z" creationid="Kos Ivantsov" creationdate="20210514T081831Z">
+        <seg>Терміни розпізнаються відразу.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>не розумію, про що тут
 переписано на щось плюс мінус логічне
 Насправді, зміни видно одразу.</note>
@@ -30951,6 +30959,14 @@ the server.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>To add a new term to the writable glossary use &lt;g0&gt;Edit&lt;/g0&gt; &gt; &lt;g1&gt;Create Glossary Entry&lt;/g1&gt; (&lt;k2&gt;Ctrl+Shift+G&lt;/k2&gt;).</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20210514T081808Z" creationid="Kos Ivantsov" creationdate="20210514T081808Z">
+        <seg>Щоб додати новий термін до глосарія, який призначений для запису, скористайтеся пунктом меню &lt;g0&gt;Редагування&lt;/g0&gt; → &lt;g1&gt;Створити запис у глосарії&lt;/g1&gt; (&lt;k2&gt;Ctrl+Shift+G&lt;/k2&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>To add contents to it, select &lt;m0&gt; &lt;s1&gt; &lt;k2&gt; &lt;k3&gt;Ctrl&lt;/k3&gt; &lt;k4&gt;D&lt;/k4&gt; &lt;/k2&gt; &lt;/s1&gt; &lt;g5&gt;Project&lt;/g5&gt; &lt;g6&gt;Create Translated Documents&lt;/g6&gt; &lt;/m0&gt;.</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="lesia" changedate="20200708T101817Z" creationid="fanja9" creationdate="20200418T094627Z">
@@ -30971,6 +30987,14 @@ the server.</seg>
 - виберіть пункт меню Проєкт → Скопіювати документи до теки з файлами для перекладу...;
 - натисніть кнопку «Скопіювати документи до теки з файлами для перекладу...» у вікні «Файли проєкту»;
 - за допомогою файлового менеджера скопіюйте потрібні файли до теки для файлів для перекладу у цьому проєкті та перезавантажте проєкт (меню Проєкт → Перезавантажити проєкт).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To add new terms to reference glossaries, edit them in an external text editor.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20210514T081958Z" creationid="Kos Ivantsov" creationdate="20210514T081958Z">
+        <seg>Щоб запасати термін до одного з підключених довідкових глосаріїв, відповідний файл потрібно відредагувати у зовнішньому текстовому редакторі. </seg>
       </tuv>
     </tu>
     <tu>
