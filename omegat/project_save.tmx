@@ -6609,6 +6609,14 @@ Buy another drink</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Check "&lt;l4/&gt;" below for more information.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20210514T081239Z" creationid="Kos Ivantsov" creationdate="20210514T081239Z">
+        <seg>Див. розділ «&lt;l4/&gt;» нижче для більш детальних інструкцій.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Check "Command line launching" below for more information.</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="lesia" changedate="20200708T085237Z" creationid="maximo" creationdate="20200420T162501Z">
