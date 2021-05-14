@@ -7458,6 +7458,14 @@ Buy another drink</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Comments are displayed after a number and each on a separate line.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20210514T082727Z" creationid="Kos Ivantsov" creationdate="20210514T082727Z">
+        <seg>Коментарі до термінів показуються після номеру, кожен на окремому рядку.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Commit Source Files</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20190421T150652Z" creationid="Kos Ivantsov" creationdate="20190420T142640Z">
@@ -8771,6 +8779,14 @@ Buy another drink</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20190807T103356Z" creationid="Kos Ivantsov" creationdate="20190807T103356Z">
         <seg>&amp;Діаграми</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Deactivate &lt;g0&gt;Use stemming for glossary entries&lt;/g0&gt; in the OmegaT global preferences to only find exact matches for a term.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20210514T082504Z" creationid="Kos Ivantsov" creationdate="20210514T082504Z">
+        <seg>Вимкніть опцію &lt;g0&gt;Шукати терміни у глосарії за основами слів&lt;/g0&gt; у загальних налаштуваннях, якщо потрібно, щоб знаходилися лише точні збіри термінів.</seg>
       </tuv>
     </tu>
     <tu>
@@ -18817,6 +18833,14 @@ as the Applications folder.</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>Newly added terms will be recognized as soon as the changes have been saved.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20210514T082018Z" creationid="Kos Ivantsov" creationdate="20210514T082018Z">
+        <seg>Зміни у файлах розпізнаються відразу після збереження.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>не розумію, про що тут
 переписано на щось плюс мінус логічне
 Насправді, зміни видно одразу.</note>
@@ -27315,6 +27339,22 @@ The scope of a search is by default the project and can be set to be any files l
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Terms from the project writable glossary are displayed in bold face.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20210514T082822Z" creationid="Kos Ivantsov" creationdate="20210514T082822Z">
+        <seg>Терміни з глосарія для запису позначаються напівжирним шрифтом.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Terms from the reference glossaries are displayed in normal face.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20210514T082852Z" creationid="Kos Ivantsov" creationdate="20210514T082852Z">
+        <seg>Терміни з інших глосаріїв позначаються звичайним шрифтом.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Terms in the current segment which &lt;a2&gt;OmegaT&lt;/a2&gt; finds in the glossary file(s) are displayed in the Glossary pane:</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="lesia" changedate="20200614T161031Z" creationid="maximo" creationdate="20200404T172052Z">
@@ -28576,6 +28616,14 @@ instead.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The glossary function uses stemming to find matches.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20210514T082204Z" creationid="Kos Ivantsov" creationdate="20210514T082204Z">
+        <seg>Пошук збігів у глосаріях здійснюється за основами слів.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The great majority of work on the OmegaT project has been completed on a voluntary basis.</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="maximo" changedate="20200322T164406Z" creationid="maximo" creationdate="20200322T164406Z">
@@ -29452,10 +29500,26 @@ in /lib/licenses/Licenses.txt.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The source term can be a multi-word term.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20210514T082118Z" creationid="Kos Ivantsov" creationdate="20210514T082118Z">
+        <seg>Термін мовою оригіналу може складатися може складатися з кількох слів.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The source term does not have to be a single-word item, as the next example shows:</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="lesia" changedate="20200708T102214Z" creationid="lesia" creationdate="20200504T164745Z">
         <seg>Термін оригіналу не обов’язково має бути однослівним. Він може виглядати так:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The source term is displayed before the " = " sign and the target terms after.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20210514T082644Z" creationid="Kos Ivantsov" creationdate="20210514T082644Z">
+        <seg>Оригінал терміна показується перед знаком «=», а його переклад — після знаку.</seg>
       </tuv>
     </tu>
     <tu>
