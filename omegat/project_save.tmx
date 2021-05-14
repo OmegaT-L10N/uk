@@ -3623,6 +3623,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;t0&gt;Format&lt;/t0&gt; &lt;t1&gt;Extension&lt;/t1&gt; &lt;t2&gt;Encoding&lt;/t2&gt;</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20210514T191806Z" creationid="Kos Ivantsov" creationdate="20210514T191806Z">
+        <seg>&lt;t0&gt;Формат&lt;/t0&gt; &lt;t1&gt;Розширення&lt;/t1&gt; &lt;t2&gt;Кодування&lt;/t2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;trans-unit&gt; &amp;resname attribute when available</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="lesia" changedate="20200708T095823Z" creationid="Kos Ivantsov" creationdate="20190803T190507Z">
@@ -6379,8 +6387,8 @@ Buy another drink</seg>
       <tuv lang="en">
         <seg>Cannot access glossary folder!</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20190504T124347Z" creationid="Kos Ivantsov" creationdate="20190504T124347Z">
-        <seg>Немає доступу до теки глосаріїв!</seg>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20210514T191947Z" creationid="Kos Ivantsov" creationdate="20190504T124347Z">
+        <seg>Немає доступу до теки для глосаріїв!</seg>
       </tuv>
     </tu>
     <tu>
@@ -12225,6 +12233,14 @@ provided (omegat.kaptn).</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Format, extensions and expected encoding</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20210514T191741Z" creationid="Kos Ivantsov" creationdate="20210514T191741Z">
+        <seg>Формат, розширення та очікуване кодування</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Format:</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20190701T155253Z" creationid="Kos Ivantsov" creationdate="20190701T155253Z">
@@ -12593,6 +12609,14 @@ provided (omegat.kaptn).</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Glossaries are read in an encoding that depends on the file extension:</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20210514T191732Z" creationid="Kos Ivantsov" creationdate="20210514T191732Z">
+        <seg>Кодування, в якому читаються файли глосаріїв, залежить від їхнього розширення.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Glossaries are terminology files.</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20210511T122013Z" creationid="Kos Ivantsov" creationdate="20210511T122013Z">
@@ -12605,6 +12629,14 @@ provided (omegat.kaptn).</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20210511T123922Z" creationid="Kos Ivantsov" creationdate="20210511T123922Z">
         <seg>Глосарії, що містяться у підтеках цієї теки, також будуть розпізнані.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Glossaries must be located in the &lt;f0&gt;/glossary&lt;/f0&gt; project folder.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20210514T192030Z" creationid="Kos Ivantsov" creationdate="20210514T191848Z">
+        <seg>Глосарії мають міститися у теці для глосаріїв (типово підтека &lt;f0&gt;/glossary&lt;/f0&gt; у теці проєкту).</seg>
       </tuv>
     </tu>
     <tu>
@@ -19023,8 +19055,8 @@ as the Applications folder.</seg>
       <tuv lang="en">
         <seg>No glossary file found in the "glossary" folder.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="lesia" changedate="20200708T103153Z" creationid="lesia" creationdate="20200505T203006Z">
-        <seg>Не знайдено файлів глосарія у теці ./glossary.</seg>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20210514T191939Z" creationid="lesia" creationdate="20200505T203006Z">
+        <seg>Не знайдено файл глосарія у теці для глосаріїв.</seg>
       </tuv>
     </tu>
     <tu>
