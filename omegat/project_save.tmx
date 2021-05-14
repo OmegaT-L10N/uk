@@ -19473,6 +19473,14 @@ as the Applications folder.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Note that the omegat.project file in the repository is not changed automatically and still doesn't contain the mappings.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20210514T204358Z" creationid="Kos Ivantsov" creationdate="20210514T204358Z">
+        <seg>Зверніть увагу, що зафіксований у сховищі файл omegat.project автоматично не змінюється і прив’язки у нього не додаються.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Note that the structure of the source subfolder may take any form you like.</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="maximo" changedate="20200701T151439Z" creationid="fanja9" creationdate="20200418T093150Z">
