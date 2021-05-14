@@ -3897,6 +3897,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>A third possible format is the "TBX" (TermBase eXchange) ISO standard.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20210514T191541Z" creationid="Kos Ivantsov" creationdate="20210514T191541Z">
+        <seg>Третій можливий формат — це формат «TBX» (TermBase eXchange), описаний стандартом ISO.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>A vast range of functions, an uncluttered interface, and, most importantly, constant, regular open-source development!</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="lesia" changedate="20200323T071212Z" creationid="maximo" creationdate="20200322T174137Z">
@@ -29157,6 +29165,14 @@ in /lib/licenses/Licenses.txt.</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20190820T195710Z" creationid="Kos Ivantsov" creationdate="20190820T195710Z">
         <seg>Не вдалося перевірити проєкт</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The project default writable glossary is always a TSV file saved in UTF-8 encoding.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20210514T191700Z" creationid="Kos Ivantsov" creationdate="20210514T191700Z">
+        <seg>Глосарій для запису в кожному проєкті завжди є файлом типу TSV у кодуванні UTF-8.</seg>
       </tuv>
     </tu>
     <tu>
