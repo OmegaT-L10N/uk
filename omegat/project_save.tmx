@@ -15409,6 +15409,14 @@ click on that shortcut.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>In this case, the procedure is the same, but the project manager does not add (all) files to version-controlled project.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20210514T192416Z" creationid="Kos Ivantsov" creationdate="20210514T192416Z">
+        <seg>У такому випадку процедура створення проєкту буде така ж, лише з тією відмінністю, що менеджеру проєкту не потрібно додавати (усі) файли для перекладу.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>In this case, the procedure is the same, but the project manager does not add files to the /source folder.</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="lesia" changedate="20200711T033543Z" creationid="lesia" creationdate="20200704T194005Z">
