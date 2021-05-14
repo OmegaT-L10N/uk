@@ -34147,6 +34147,14 @@ of selecting, obtaining and installing it.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>When you create a new project and commit that to a repository, the &lt;f0&gt;omegat.project&lt;/f0&gt; file doesn't contain any mapping.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20210514T204148Z" creationid="Kos Ivantsov" creationdate="20210514T204148Z">
+        <seg>Коли ви створюєте проєкт та фіксуєте його у сховищі, файл &lt;f0&gt;omegat.project&lt;/f0&gt; не містить жодних прив’язок.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>When you create the target documents in an &lt;a0&gt;OmegaT&lt;/a0&gt; project, the translation memory of the project is output in the form of three files in the root folder of your &lt;a1&gt;OmegaT&lt;/a1&gt; project (see the above description).</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="lesia" changedate="20200708T102503Z" creationid="maximo" creationdate="20200704T195407Z">
