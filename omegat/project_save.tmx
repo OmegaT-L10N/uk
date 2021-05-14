@@ -28913,6 +28913,14 @@ in /lib/licenses/Licenses.txt.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The local file &lt;f0&gt;/home/me/myfiles/my/file.txt&lt;/f0&gt; is mapped to the local file &lt;f1&gt;source/file.txt&lt;/f1&gt; and &lt;f2&gt;/home/me/myfiles/some/file.txt&lt;/f2&gt; is mapped to the local file &lt;f3&gt;source/file2.txt&lt;/f3&gt;.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20210514T203734Z" creationid="Kos Ivantsov" creationdate="20210514T203734Z">
+        <seg>Локальний файл &lt;f0&gt;/home/me/myfiles/my/file.txt&lt;/f0&gt; прив’язаний до локального файлу у проєкті &lt;f1&gt;source/file.txt&lt;/f1&gt;, а файл &lt;f2&gt;/home/me/myfiles/some/file.txt&lt;/f2&gt; — до локального файлу у проєкті &lt;f3&gt;source/file2.txt&lt;/f3&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The location does not matter, since you can add it to the command line at startup.</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="fanja9" changedate="20200713T133336Z" creationid="maximo" creationdate="20200423T153645Z">
