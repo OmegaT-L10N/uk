@@ -19329,6 +19329,14 @@ as the Applications folder.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Note about omegat.project and mappings</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20210514T204103Z" creationid="Kos Ivantsov" creationdate="20210514T204103Z">
+        <seg>Примітка щодо файлу omegat.project та прив’язок</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Note however that the numbers do not indicate how relevant the repetitions are: they could mean relatively long sentences repeated a number of times (in which case you are fortunate) or it could describe a table of keywords (not so fortunate).</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="maximo" changedate="20200624T202102Z" creationid="lesia" creationdate="20200429T202821Z">
@@ -30627,6 +30635,14 @@ the server.</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="fanja9" changedate="20200720T191921Z" creationid="lesia" creationdate="20200420T090139Z">
         <seg>Ця зовнішня команда не підтримує синтаксиси командних оболонок (наприклад, конвеєри). Саме тому для складніших випадків рекомендується створити скрипт.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This feature is intended for gathering source files, but you're not restricted to source files.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20210514T204034Z" creationid="Kos Ivantsov" creationdate="20210514T204034Z">
+        <seg>Ця функція призначена для збору файлів для перекладу з кількох можливих джерел, але її можна використовувати не лише для файлів для перекладу.</seg>
       </tuv>
     </tu>
     <tu>
