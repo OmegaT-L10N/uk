@@ -4681,6 +4681,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>All other local changes to the project are reverted.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20210514T204632Z" creationid="Kos Ivantsov" creationdate="20210514T204632Z">
+        <seg>Усі інші локальні зміни, зроблені в налаштуваннях проєкту, будуть скасовані.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>All preferences protected by the master password will be reset.</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20190820T130122Z" creationid="Kos Ivantsov" creationdate="20190820T130122Z">
@@ -14085,6 +14093,14 @@ their defaults as a result of the location change.</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20210511T123819Z" creationid="Kos Ivantsov" creationdate="20210511T123819Z">
         <seg>Якщо файл вже існує, то він не перевіряється на валідність формату чи кодування. Нові записи завжди розділяються табуляцією, а файл зберігається у кодуванні UTF-8.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If the file doesn't contain mappings, the existing local mappings are re-applied, and only those.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20210514T204602Z" creationid="Kos Ivantsov" creationdate="20210514T204602Z">
+        <seg>Якщо цей файл не містить прив’язок, то застосовані будуть лише локальні прив’язки й жодні інші.</seg>
       </tuv>
     </tu>
     <tu>
