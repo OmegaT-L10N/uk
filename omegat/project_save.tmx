@@ -30405,6 +30405,14 @@ the server.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>This can be either http (which includes https), svn, git or file.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20210514T192624Z" creationid="Kos Ivantsov" creationdate="20210514T192624Z">
+        <seg>http (також https), svn, git або file.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>This chapter is intended for advanced users, who need to define their own variants of segmentation rules or devise more complex and powerful key search items.</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="lesia" changedate="20200719T043901Z" creationid="maximo" creationdate="20200412T044842Z">
