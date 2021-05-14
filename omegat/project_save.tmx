@@ -19985,6 +19985,14 @@ as the Applications folder.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>OmegaT glossary files are simple plain text three-column lists with the source term in the first column, an optional target term in the second column and an optional comment in the third column.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20210514T191221Z" creationid="Kos Ivantsov" creationdate="20210514T191147Z">
+        <seg>Файли глосарія в OmegaT — це прості текстові файли, у яких терміни мовами оригіналу та перекладу подано у колонках. Перша колонка містить термін мовою оригіналу, друга — мовою перекладу. Третя колонка є необов’язковою, вона може містити коментар до терміна.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>OmegaT has a built-in spell checker based on the &lt;l0&gt;spelling checker&lt;/l0&gt; used in Apache OpenOffice, LibreOffice, Firefox and Thunderbird.</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="fanja9" changedate="20200720T175912Z" creationid="maximo" creationdate="20200416T100121Z">
@@ -21629,6 +21637,14 @@ everything.</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="maximo" changedate="20200322T171521Z" creationid="maximo" creationdate="20200322T171521Z">
         <seg>Простий текст</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Plain text glossaries can be "tab separated values" (TSV) files or "comma separated values" (CSV) files.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20210514T191444Z" creationid="Kos Ivantsov" creationdate="20210514T191444Z">
+        <seg>Текстові глосарії можуть бути файлами, у яких значення розділені табуляцією (TSV), або файлами, де значення розділені комами (CSV).</seg>
       </tuv>
     </tu>
     <tu>
