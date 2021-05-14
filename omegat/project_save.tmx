@@ -20355,6 +20355,14 @@ installed on your system.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>OmegaT team projects can also be set up in a different way, where several translators share the project_save.tmx file but not (all of) the (source) files.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20210514T192307Z" creationid="Kos Ivantsov" creationdate="20210514T192307Z">
+        <seg>Командні проєкти OmegaT можна також налаштовувати іншим способом: так, щоб перекладачі користувалися спільною пам’яттю перекладів (файлом project_save.tmx), але не мали доступу до (всіх) файлів оригіналу, які перекладають інші учасники проєкту.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>OmegaT team projects can also be set up in a different way, where several translators share the project_save.tmx file but not the source files.</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="lesia" changedate="20200711T033443Z" creationid="lesia" creationdate="20200704T193835Z">
@@ -26402,8 +26410,8 @@ The scope of a search is by default the project and can be set to be any files l
       <tuv lang="en">
         <seg>Special case: selective sharing</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20210514T192051Z" creationid="Kos Ivantsov" creationdate="20210514T192051Z">
-        <seg>Особливий випадок: вибірна участь</seg>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20210514T192231Z" creationid="Kos Ivantsov" creationdate="20210514T192051Z">
+        <seg>Особливий випадок: лише частини проєкту є спільними</seg>
       </tuv>
     </tu>
     <tu>
