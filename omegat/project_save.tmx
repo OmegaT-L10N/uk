@@ -4705,6 +4705,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>All the contents of &lt;f0&gt;https://repo_for_All_OmegaT_team_project_sources&lt;/f0&gt; are mapped to the local OmegaT project source folder, except all *.bak files but readme.bak.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20210514T193149Z" creationid="Kos Ivantsov" creationdate="20210514T193149Z">
+        <seg>Весь вміст &lt;f0&gt;https://repo_for_All_OmegaT_team_project_sources&lt;/f0&gt; прив’язаний до теки source/subdir у локальному проєкті OmegaT, виключаючи всі файли *.bak, окрім файла readme.bak.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>All the contents of &lt;f0&gt;https://repo_for_All_OmegaT_team_projects/En-US_DE_project&lt;/f0&gt; are mapped to the local OmegaT project.</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="lesia" changedate="20200708T102545Z" creationid="lesia" creationdate="20200704T204849Z">
@@ -17751,6 +17759,22 @@ itself on the first run.</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="lesia" changedate="20200324T155527Z" creationid="maximo" creationdate="20200322T175413Z">
         <seg>Серед вас напевне багато професійних перекладачів, які переклали цілі гори документації.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Mapping for additional sources from remote repository, with filters:</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20210514T192948Z" creationid="Kos Ivantsov" creationdate="20210514T192948Z">
+        <seg>Прив’язки для додаткових джерел з віддаленого сховища (з фільтрами):</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Mapping for projects in a subdirectory of the repository:</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20210514T192840Z" creationid="Kos Ivantsov" creationdate="20210514T192840Z">
+        <seg>Прив’язка для проєктів, які містяться у підтеці сховища:</seg>
       </tuv>
     </tu>
     <tu>
