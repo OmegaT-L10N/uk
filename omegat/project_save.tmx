@@ -15891,6 +15891,14 @@ click on that shortcut.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Instead, the translators copy the files themselves, or add mappings to synchronize files from other locations.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20210514T192522Z" creationid="Kos Ivantsov" creationdate="20210514T192522Z">
+        <seg>Натомість кожен переклад має свої примірники файлів або змінює прив’язки, щоб отримувати файли з інших ресурсів.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Institut Laue-Langevin</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="lesia" changedate="20200708T095823Z" creationid="maximo" creationdate="20200614T164244Z">
