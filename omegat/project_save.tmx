@@ -23964,6 +23964,14 @@ These words: 'Page not found'</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>Right-click on the underlined term and select a target term to insert it at the cursor location in the target part of the segment.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20210514T190958Z" creationid="Kos Ivantsov" creationdate="20210514T190958Z">
+        <seg>Щоб вставити переклад терміна у переклад поточного сегмента, клацніть правою кнопкою миші на підкресленому терміні та виберіть потрібний відповідник.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>замінила спливаюче на контекстне
 
 може всі pop-up menu зробити контекстними?</note>
@@ -31242,6 +31250,14 @@ the server.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>To display the &lt;g0&gt;Autocompletion&lt;/g0&gt; contextual menu for the glossary matches, hit the OS dependant key (&lt;k1&gt;Escape&lt;/k1&gt; for macOS, &lt;k2&gt;Ctrl+Space&lt;/k2&gt; for the other platforms).</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20210514T190603Z" creationid="Kos Ivantsov" creationdate="20210514T190603Z">
+        <seg>Контекстне меню &lt;g0&gt;Автодоповнення&lt;/g0&gt;, яке містить збіги з глосарія, викликається натисненням клавіші &lt;k1&gt;Escape&lt;/k1&gt; на macOS, або сполучення &lt;k2&gt;Ctrl+Пробіл&lt;/k2&gt; на інших платформах.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>To display the instant start guide in the desired language, you need to specify both the language and the country.</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="lesia" changedate="20200701T204544Z" creationid="maximo" creationdate="20200420T203703Z">
@@ -31488,6 +31504,14 @@ the server.</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="fanja9" changedate="20200713T151118Z" creationid="maximo" creationdate="20200425T142355Z">
         <seg>Щоб, наприклад, перекласти сторінку Вікіпедії:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To underline matching terms in the source part of the segment use &lt;g0&gt;View&lt;/g0&gt; &gt; &lt;g1&gt;Mark Glossary Matches&lt;/g1&gt;.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20210514T190817Z" creationid="Kos Ivantsov" creationdate="20210514T190817Z">
+        <seg>Щоб терміни, знайдені в глосаріях, підкреслювалися в поточному сегменті в тексті оригіналу, виберіть пункт &lt;g1&gt;Позначати збіги з глосаріїв&lt;/g1&gt; у меню &lt;g0&gt;Вигляд&lt;/g0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
