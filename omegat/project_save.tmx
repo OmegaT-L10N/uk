@@ -1188,6 +1188,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&amp;Restart</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20210615T110108Z" creationid="Kos Ivantsov" creationdate="20210615T110108Z">
+        <seg>Перезапус&amp;тити</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&amp;Restore Main Window</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20190820T120409Z" creationid="Kos Ivantsov" creationdate="20190422T204734Z">
@@ -6621,6 +6629,22 @@ Buy another drink</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20200325T111828Z" creationid="Kos Ivantsov" creationdate="20190504T130849Z">
         <seg>Символів із пробілами</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Characters (w/ spaces)</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20210615T110209Z" creationid="Kos Ivantsov" creationdate="20210615T110209Z">
+        <seg>Символів із пробілами</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Characters (w/o spaces)</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20210615T110158Z" creationid="Kos Ivantsov" creationdate="20210615T110158Z">
+        <seg>Символів без пробілів</seg>
       </tuv>
     </tu>
     <tu>
@@ -23403,6 +23427,22 @@ These words: 'Page not found'</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Remaining Characters (w/ spaces)</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20210615T111211Z" creationid="Kos Ivantsov" creationdate="20210615T111211Z">
+        <seg>Залишилося символів із пробілами</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Remaining Characters (w/o spaces)</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20210615T110231Z" creationid="Kos Ivantsov" creationdate="20210615T110231Z">
+        <seg>Залишилося символів без пробілів</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Remaining Characters (without spaces)</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20190517T102155Z" creationid="Kos Ivantsov" creationdate="20190504T131342Z">
@@ -30124,6 +30164,14 @@ in /lib/licenses/Licenses.txt.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Theme:</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20210615T110122Z" creationid="Kos Ivantsov" creationdate="20210615T110122Z">
+        <seg>Тема:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Then click on &lt;e0&gt;Search&lt;/e0&gt; button to display all the corresponding occurrences.</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="maximo" changedate="20200503T061527Z" creationid="maximo" creationdate="20200503T061412Z">
@@ -31933,6 +31981,22 @@ linux-install.sh script, and execute the script with ./linux-install.sh.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Total Characters (w/ spaces)</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20210615T111338Z" creationid="Kos Ivantsov" creationdate="20210615T111156Z">
+        <seg>Загалом символів із пробілами</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Total Characters (w/o spaces)</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20210615T110219Z" creationid="Kos Ivantsov" creationdate="20210615T110219Z">
+        <seg>Загалом символів без пробілів</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Total Characters (without spaces)</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20190517T102153Z" creationid="Kos Ivantsov" creationdate="20190504T131331Z">
@@ -32729,6 +32793,22 @@ Exact searches match the whole search string.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Unique Characters (w/ spaces)</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20210615T111226Z" creationid="Kos Ivantsov" creationdate="20210615T111226Z">
+        <seg>Символів із пробілами в унікальних сегментах</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Unique Characters (w/o spaces)</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20210615T110328Z" creationid="Kos Ivantsov" creationdate="20210615T110328Z">
+        <seg>Символів без пробілів в унікальних сегментах</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Unique Characters (without spaces)</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20190517T102157Z" creationid="Kos Ivantsov" creationdate="20190504T131434Z">
@@ -32741,6 +32821,22 @@ Exact searches match the whole search string.</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20200325T111813Z" creationid="Kos Ivantsov" creationdate="20190504T131618Z">
         <seg>Залишилося символів із пробілами в унікальних сегментах</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Unique Remaining Characters (w/ spaces)</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20210615T111359Z" creationid="Kos Ivantsov" creationdate="20210615T111359Z">
+        <seg>Залишилося символів із пробілами в унікальних сегментах</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Unique Remaining Characters (w/o spaces)</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20210615T110352Z" creationid="Kos Ivantsov" creationdate="20210615T110352Z">
+        <seg>Залишилося символів без пробілів в унікальних сегментах</seg>
       </tuv>
     </tu>
     <tu>
