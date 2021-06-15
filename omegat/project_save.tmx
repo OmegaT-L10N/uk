@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.5.0_0_dc6972528" segtype="sentence" srclang="en"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.6.0_0_5340d3e26" segtype="sentence" srclang="en"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -12881,6 +12881,22 @@ provided (omegat.kaptn).</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Got unexpected HTTP response {0}</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20210615T105729Z" creationid="Kos Ivantsov" creationdate="20210615T105729Z">
+        <seg>Отримано несподівану відповідь HTTP {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Got unexpected MIME TYPE {0}</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20210615T105658Z" creationid="Kos Ivantsov" creationdate="20210615T105658Z">
+        <seg>Отримано неочікуваний тип MIME {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Goto &amp;Line...</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20190807T190718Z" creationid="Kos Ivantsov" creationdate="20190807T190718Z">
@@ -19969,6 +19985,22 @@ as the Applications folder.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>OmegaT Classic</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20210615T105840Z" creationid="Kos Ivantsov" creationdate="20210615T105840Z">
+        <seg>Класична тема OmegaT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>OmegaT Default</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20210615T105749Z" creationid="Kos Ivantsov" creationdate="20210615T105749Z">
+        <seg>Типова тема OmegaT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>OmegaT Download Selector</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="maximo" changedate="20200322T172816Z" creationid="maximo" creationdate="20200322T172816Z">
@@ -20065,6 +20097,14 @@ as the Applications folder.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>OmegaT classic theme</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20210615T105848Z" creationid="Kos Ivantsov" creationdate="20210615T105848Z">
+        <seg>Класичне оформлення програми OmegaT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>OmegaT currently requires version 1.6 of the JRE or later.</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="maximo" changedate="20200322T141952Z" creationid="maximo" creationdate="20200322T141952Z">
@@ -20077,6 +20117,14 @@ as the Applications folder.</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20210415T120404Z" creationid="Kos Ivantsov" creationdate="20210415T120404Z">
         <seg>OmegaT вимагає JRE версії 1.8 чи більше.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>OmegaT default theme</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20210615T105808Z" creationid="Kos Ivantsov" creationdate="20210615T105808Z">
+        <seg>Типове оформлення програми OmegaT</seg>
       </tuv>
     </tu>
     <tu>
