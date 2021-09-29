@@ -30324,6 +30324,14 @@ in /lib/licenses/Licenses.txt.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>There may be a delay in publishing the Notarized version.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20210929T052801Z" creationid="Kos Ivantsov" creationdate="20210929T052801Z">
+        <seg>Завірені версії можуть виходити із затримкою.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>There may be cases where you have done a project with e.g. Dutch sources, and a translation in say English.</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="maximo" changedate="20200705T052051Z" creationid="maximo" creationdate="20200705T052026Z">
@@ -33622,6 +33630,14 @@ searchable without subscription:</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="lesia" changedate="20200321T153013Z" creationid="lesia" creationdate="20200321T152837Z">
         <seg>Програму можна безкоштовно завантажувати та використовувати для своїх потреб.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Users in a hurry can use the Unsigned version instead; if you have difficulty launching the app, see &lt;a0&gt;how to open an app from an unidentified developer&lt;/a0&gt;.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20210929T052857Z" creationid="Kos Ivantsov" creationdate="20210929T052857Z">
+        <seg>Якщо часу чекати немає, то можете використовувати і непідписану версію. Якщо виникли труднощі із запуском програми, то перегляньте, &lt;a0&gt;як запустити програму від невідомого розробника&lt;/a0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
