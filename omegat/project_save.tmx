@@ -26070,6 +26070,14 @@ The scope of a search is by default the project and can be set to be any files l
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Show English Version</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20210929T052910Z" creationid="Kos Ivantsov" creationdate="20210929T052906Z">
+        <seg>Show English Version</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Show Find Search Bar</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20190807T190735Z" creationid="Kos Ivantsov" creationdate="20190807T190735Z">
@@ -31219,6 +31227,14 @@ the server.</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20190823T143652Z" creationid="Kos Ivantsov" creationdate="20190823T143652Z">
         <seg>Скрипт призначений для OmegaT версії 3.6 або вище.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This site is also available in English!</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20210929T052939Z" creationid="Kos Ivantsov" creationdate="20210929T052939Z">
+        <seg>This site is also available in English!</seg>
       </tuv>
     </tu>
     <tu>
