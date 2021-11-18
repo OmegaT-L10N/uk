@@ -16615,6 +16615,14 @@ itself on the first run.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Its name and location can be modified in the project properties dialog but its extension must be &lt;f0&gt;.txt&lt;/f0&gt; or &lt;f1&gt;.utf8&lt;/f1&gt; and its location must be contained in the &lt;f2&gt;glossary&lt;/f2&gt; project folder.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20211118T120433Z" creationid="Kos Ivantsov" creationdate="20211118T120433Z">
+        <seg>Назва файлу та його розташування можна змінити у властивостях проєкту, проте розширення файлу повинно бути &lt;f0&gt;.txt&lt;/f0&gt; або &lt;f1&gt;.utf8&lt;/f1&gt;, а сам файл повинен міститися у теці, визначеній як тека для глосаріїв (типово підтека «&lt;f2&gt;glossary&lt;/f2&gt;» теки проєкту). </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Its purpose is to develop, distribute and support the use of OmegaT, an open-source translation memory software application.</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="lesia" changedate="20200708T101959Z" creationid="maximo" creationdate="20200321T124527Z">
