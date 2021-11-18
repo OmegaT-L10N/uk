@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.6.0_0_03b2354e0" segtype="sentence" srclang="en"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.8.0_0_f5c493d1a" segtype="sentence" srclang="en"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -8069,6 +8069,14 @@ Buy another drink</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Copyright © 2000-2021 Keith Godfrey, Maxym Mykhalchuk and others</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20211118T120114Z" creationid="Kos Ivantsov" creationdate="20211118T120114Z">
+        <seg>Авторське право © 2000–2021 Кейт Ґодфрі, Максим Михальчук та інші</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Could not create project dir at {0}</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20190504T124227Z" creationid="Kos Ivantsov" creationdate="20190504T124227Z">
@@ -9135,6 +9143,14 @@ Buy another drink</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Dictionaries in OmegaT are based on the StarDict or on the Lingvo DSL format.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20211118T120124Z" creationid="Kos Ivantsov" creationdate="20211118T120124Z">
+        <seg>Словники в OmegaT використовують формати StarDict чи Lingvo DSL.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Dictionary</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20190420T150935Z" creationid="Kos Ivantsov" creationdate="20190420T150935Z">
@@ -9892,6 +9908,14 @@ Buy another drink</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="lesia" changedate="20200510T165021Z" creationid="maximo" creationdate="20200329T200324Z">
         <seg>Завантажити файл — це має бути архів &lt;f0&gt;tarball&lt;/f0&gt; (розширення &lt;e1&gt;tar.bz&lt;/e1&gt; чи &lt;e2&gt;tar.bz2&lt;/e2&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Download the file - it should be a tarball archive (extension &lt;f0&gt;tar.bz&lt;/f0&gt; or &lt;f1&gt;tar.bz2&lt;/f1&gt;).</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20211118T120130Z" creationid="Kos Ivantsov" creationdate="20211118T120130Z">
+        <seg>Завантажити файл — це має бути архів tarball (розширення &lt;f0&gt;tar.bz&lt;/f0&gt; чи &lt;f1&gt;tar.bz2&lt;/f1&gt;).</seg>
       </tuv>
     </tu>
     <tu>
@@ -13904,6 +13928,14 @@ need not be entered.)</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="lesia" changedate="20200708T093728Z" creationid="maximo" creationdate="20200404T170737Z">
         <seg>Якщо це &lt;e0&gt;tar.bz&lt;/e0&gt;, то це архів — ви забули його розпакувати.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If it is &lt;f0&gt;tar.bz&lt;/f0&gt;, you have forgotten to unpack (untar) it.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20211118T120312Z" creationid="Kos Ivantsov" creationdate="20211118T120312Z">
+        <seg>Якщо це &lt;f0&gt;tar.bz&lt;/f0&gt;, то це архів — ви забули його розпакувати.</seg>
       </tuv>
     </tu>
     <tu>
@@ -30356,6 +30388,14 @@ in /lib/licenses/Licenses.txt.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>There should be three files, with extensions &lt;f2&gt;dz, idx &lt;/f2&gt;and &lt;f3&gt;ifo&lt;/f3&gt;.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20211118T120254Z" creationid="Kos Ivantsov" creationdate="20211118T120254Z">
+        <seg>Там має бути три файли з розширеннями &lt;f2&gt;dz, idx&lt;/f2&gt; та &lt;f3&gt;ifo&lt;/f3&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>There was an error initializing LanguageTool.</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20190821T140938Z" creationid="Kos Ivantsov" creationdate="20190821T140938Z">
@@ -33491,6 +33531,14 @@ on line {1}, column {2}.</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="fanja9" changedate="20200718T123607Z" creationid="maximo" creationdate="20200412T142738Z">
         <seg>Використовуйте його, якщо ви відкріпили, посунули чи сховали якесь із вікон і не можете відновити потрібне розташування.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Use untar utility (or its equivalent, for instance&lt;f0&gt; winrar&lt;/f0&gt; in Windows) to extract its contents into the &lt;f1&gt;dictionary&lt;/f1&gt; project folder.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20211118T120240Z" creationid="Kos Ivantsov" creationdate="20211118T120240Z">
+        <seg>Розпакувати вміст файлу до теки словників у проєкті (типово «&lt;f1&gt;dictionary&lt;/f1&gt;»), використовуючи утиліту untar (чи її еквівалент, на кшталт &lt;f0&gt;winrar&lt;/f0&gt; у Windows).</seg>
       </tuv>
     </tu>
     <tu>
