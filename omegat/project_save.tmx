@@ -316,6 +316,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&amp;Apply this font size to dictionary pane</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20220827T190421Z" creationid="Kos Ivantsov" creationdate="20220827T190421Z">
+        <seg>Застосувати цей розмір шри&amp;фту в області словників</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&amp;Apply this font to tabular data (project files, statistics, etc.)</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="fanja9" changedate="20200720T181426Z" creationid="Kos Ivantsov" creationdate="20190420T125714Z">
@@ -23603,6 +23611,14 @@ These words: 'Page not found'</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Remote project file lacks git setting.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20220827T190038Z" creationid="Kos Ivantsov" creationdate="20220827T190038Z">
+        <seg>У віддаленому файлі проєкту не вказані параметри git.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Remote repository network communication error: {0}</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20190811T113119Z" creationid="Kos Ivantsov" creationdate="20190811T113119Z">
@@ -26218,6 +26234,14 @@ The scope of a search is by default the project and can be set to be any files l
       </tuv>
       <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20190420T125215Z" creationid="Kos Ivantsov" creationdate="20190420T125215Z">
         <seg>Розмір</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Size on Dictionary pane</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20220827T190316Z" creationid="Kos Ivantsov" creationdate="20220827T190316Z">
+        <seg>Розмір в області словників</seg>
       </tuv>
     </tu>
     <tu>
@@ -31127,6 +31151,14 @@ the server.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>This may be intentional, but likely an oversight.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20220827T190123Z" creationid="Kos Ivantsov" creationdate="20220827T190123Z">
+        <seg>Можливо, це зроблено навмисно, проте, ймовірно, це сталося помилково.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>This means that if the source language is LTR and the target language is RTL, or vice versa, it may be necessary to toggle back and forth between RTL and LTR modes to view the source and enter the target easily in their respective modes.</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="lesia" changedate="20200708T094054Z" creationid="maximo" creationdate="20200704T185715Z">
@@ -33281,8 +33313,8 @@ on line {1}, column {2}.</seg>
       <tuv lang="en">
         <seg>Use &amp;Condensed view</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20220827T185848Z" creationid="Kos Ivantsov" creationdate="20220827T185848Z">
-        <seg>Застосовувати стислий вигляд</seg>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20220827T185912Z" creationid="Kos Ivantsov" creationdate="20220827T185848Z">
+        <seg>Застосовувати стис&amp;лий вигляд</seg>
       </tuv>
     </tu>
     <tu>
