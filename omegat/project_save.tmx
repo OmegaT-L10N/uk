@@ -11223,6 +11223,14 @@ Gossamer threads hold you back
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Export Translation Memory Folder:</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20220827T190536Z" creationid="Kos Ivantsov" creationdate="20220827T190459Z">
+        <seg>Тека для експортованих файлів пам’яті перекладів:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Export the segment to text files</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="maximo" changedate="20200412T201806Z" creationid="maximo" creationdate="20200412T201806Z">
@@ -32514,6 +32522,14 @@ linux-install.sh script, and execute the script with ./linux-install.sh.</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="lesia" changedate="20200708T102502Z" creationid="maximo" creationdate="20200704T195144Z">
         <seg>Пам’ять перекладів також може містити допоміжні переклади, наприклад, багатомовні версії законодавчої документації Європейського Союзу.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Translation memories to export:</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20220827T190549Z" creationid="Kos Ivantsov" creationdate="20220827T190532Z">
+        <seg>Файли пам’яті перекладів для експорту:</seg>
       </tuv>
     </tu>
     <tu>
