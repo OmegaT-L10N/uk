@@ -17737,6 +17737,14 @@ itself on the first run.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>MT engine error({0}) {1}</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20220830T165030Z" creationid="Kos Ivantsov" creationdate="20220830T164935Z">
+        <seg>Помилка служби машинного перекладу ({0}): {1}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Mac OS X</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="maximo" changedate="20200614T164020Z" creationid="maximo" creationdate="20200614T164020Z">
@@ -24717,6 +24725,14 @@ These words: 'Page not found'</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20190821T204815Z" creationid="Kos Ivantsov" creationdate="20190821T204729Z">
         <seg>Зберегти зміни у правилах сегментації?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Save origin of &amp;translation</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20220830T164745Z" creationid="Kos Ivantsov" creationdate="20220830T164745Z">
+        <seg>Зберігати по&amp;ходження перекладу</seg>
       </tuv>
     </tu>
     <tu>
