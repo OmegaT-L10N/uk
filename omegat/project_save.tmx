@@ -11247,6 +11247,14 @@ Gossamer threads hold you back
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Export translation memory folder entered does not exist!</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20220830T164353Z" creationid="Kos Ivantsov" creationdate="20220830T164353Z">
+        <seg>Вказана тека для експортованих файлів пам’яті перекладів не існує!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Exports the current selection to a text file for processing.</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="lesia" changedate="20200425T141703Z" creationid="lesia" creationdate="20200425T141631Z">
