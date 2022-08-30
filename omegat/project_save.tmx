@@ -1809,6 +1809,24 @@ To add files to the project, click on the Copy Files to Source Folder... button 
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>- Marco Cevoli (Telegram community manager)
+- Jean-Christophe Helary (Twitter community manager)
+- Kos Ivantsof (localisation manager)
+- Concepción Martin (Facebook community manager)
+- Briac Pilpré (webmaster)
+- Lucie Vecerova (Facebook community manager)</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20220830T181005Z" creationid="Kos Ivantsov" creationdate="20220830T181005Z">
+        <seg>- Marco Cevoli (менеджер спільноти Telegram)
+- Jean-Christophe Helary (менеджер спільноти Twitter)
+- Kos Ivantsov (менеджер з локалізації)
+- Concepción Martin (менеджер спільноти Facebook)
+- Briac Pilpré (розробник сайту)
+- Lucie Vecerova (менеджер спільноти Facebook)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>- Vincent Bidaux (documentation manager)
 - Marco Cevoli (Telegram community manager)
 - Jean-Christophe Helary (Twitter community manager)
@@ -16869,6 +16887,14 @@ itself on the first run.</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20190822T214543Z" creationid="Kos Ivantsov" creationdate="20190822T214543Z">
         <seg>Жан-Христоф Еларі [Jean-Christophe Helary] (власник групи підтримки користувачів, координатор з локалізації);</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Jean-Christophe Helary is the OmegaT project manager.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20220830T180940Z" creationid="Kos Ivantsov" creationdate="20220830T180940Z">
+        <seg>Менеджером проєкту OmegaT нині є Жан-Христоф Еларі [Jean-Christophe Helary].</seg>
       </tuv>
     </tu>
     <tu>
