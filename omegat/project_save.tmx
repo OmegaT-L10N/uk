@@ -6368,6 +6368,15 @@ Buy another drink</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">MT:[MyMemory (machine)]</prop>
+      <tuv lang="en">
+        <seg>Call to external program was interrupted: {0}</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20220830T180054Z" creationid="Kos Ivantsov" creationdate="20220830T180054Z">
+        <seg>Виклик зовнішньої програми перервано: {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en">
         <seg>Camtasia for Windows</seg>
       </tuv>
@@ -6433,6 +6442,14 @@ Buy another drink</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Cannot find GPG executable on the bash $PATH</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20220830T180016Z" creationid="Kos Ivantsov" creationdate="20220830T180016Z">
+        <seg>Неможливо знайти виконуваний файл GPG у $PATH для bash</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Cannot install</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20190820T192128Z" creationid="Kos Ivantsov" creationdate="20190820T192128Z">
@@ -6445,6 +6462,15 @@ Buy another drink</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20190517T141654Z" creationid="Kos Ivantsov" creationdate="20190517T141654Z">
         <seg>Не вдалося завантажити зазначений файл XML!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[MyMemory (machine)]</prop>
+      <tuv lang="en">
+        <seg>Cannot prepare GPG environment properly</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20220830T180038Z" creationid="Kos Ivantsov" creationdate="20220830T180038Z">
+        <seg>Неможливо належним чином підготувати середовище GPG</seg>
       </tuv>
     </tu>
     <tu>
@@ -10875,6 +10901,14 @@ No one hears your screams</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Error while getting output of external program</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20220830T175927Z" creationid="Kos Ivantsov" creationdate="20220830T175927Z">
+        <seg>Сталася помилка під час отримання виводу зовнішньої програми</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Error while reading MT results</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20190422T220049Z" creationid="Kos Ivantsov" creationdate="20190422T220049Z">
@@ -11379,6 +11413,14 @@ Gossamer threads hold you back
       </tuv>
       <tuv lang="uk-UA" changeid="maximo" changedate="20200322T113525Z" creationid="maximo" creationdate="20200322T113525Z">
         <seg>Зовнішня документація</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>External program failed({1}): {0}</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20220830T180122Z" creationid="Kos Ivantsov" creationdate="20220830T180122Z">
+        <seg>Помилка зовнішньої програми ({1}): {0}</seg>
       </tuv>
     </tu>
     <tu>
@@ -33164,8 +33206,8 @@ Exact searches match the whole search string.</seg>
       <tuv lang="en">
         <seg>Unknown/Manual</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20220830T175812Z" creationid="Kos Ivantsov" creationdate="20220830T175812Z">
-        <seg>Невідомо/вставлено вручну</seg>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20220830T175828Z" creationid="Kos Ivantsov" creationdate="20220830T175812Z">
+        <seg>Невідомо/додано вручну</seg>
       </tuv>
     </tu>
     <tu>
