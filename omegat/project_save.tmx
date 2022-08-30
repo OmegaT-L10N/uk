@@ -17809,6 +17809,14 @@ itself on the first run.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Machine Translate Highlight</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20220830T175738Z" creationid="Kos Ivantsov" creationdate="20220830T175738Z">
+        <seg>Підсвічування машинного перекладу</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Machine Translation</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20190807T152417Z" creationid="Kos Ivantsov" creationdate="20190807T152417Z">
@@ -33150,6 +33158,14 @@ Exact searches match the whole search string.</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20190517T151529Z" creationid="Kos Ivantsov" creationdate="20190517T151157Z">
         <seg>Невідомий тип плагіна «{0}» у «{1}»</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Unknown/Manual</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20220830T175812Z" creationid="Kos Ivantsov" creationdate="20220830T175812Z">
+        <seg>Невідомо/вставлено вручну</seg>
       </tuv>
     </tu>
     <tu>
