@@ -12811,6 +12811,14 @@ provided (omegat.kaptn).</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Glossaries must be located in the &lt;f0&gt;glossary&lt;/f0&gt; project folder.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20220830T180542Z" creationid="Kos Ivantsov" creationdate="20220830T180542Z">
+        <seg>Глосарії мають міститися у теці для глосаріїв (типово підтека &lt;f0&gt;glossary&lt;/f0&gt; у теці проєкту).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Glossary</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20190422T204502Z" creationid="Kos Ivantsov" creationdate="20190422T204502Z">
@@ -19359,6 +19367,14 @@ as the Applications folder.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>No glossary file found in the &lt;f0&gt;glossary&lt;/f0&gt; folder.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20220830T180604Z" creationid="Kos Ivantsov" creationdate="20220830T180604Z">
+        <seg>Не знайдено файл глосарія у теці для глосаріїв.&lt;f0&gt;&lt;/f0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>No match:</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20190504T132028Z" creationid="Kos Ivantsov" creationdate="20190504T132028Z">
@@ -20263,6 +20279,14 @@ as the Applications folder.</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="maximo" changedate="20200321T130307Z" creationid="maximo" creationdate="20200321T130307Z">
         <seg>OmegaT має такі списки розсилки, розміщені в Sourceforge:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>OmegaT automatically detects glossary files in this folder when a project is opened.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20220830T180525Z" creationid="Kos Ivantsov" creationdate="20220830T180525Z">
+        <seg>OmegaT автоматично розпізнає файли глосаріїв у цій теці, коли відкривається проєкт.</seg>
       </tuv>
     </tu>
     <tu>
