@@ -33780,6 +33780,14 @@ on line {1}, column {2}.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>User canceled signing (no passphrase provided)</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20220830T180229Z" creationid="Kos Ivantsov" creationdate="20220830T180229Z">
+        <seg>Підпис скасовано користувачем (парольна фраза не була надана) </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>User country</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="maximo" changedate="20200420T203418Z" creationid="maximo" creationdate="20200420T203418Z">
