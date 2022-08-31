@@ -11347,6 +11347,14 @@ Gossamer threads hold you back
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>External GPG did not return a valid signature; got: {0}</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20220831T095553Z" creationid="Kos Ivantsov" creationdate="20220831T095553Z">
+        <seg>Зовнішній GPG не повернув дійсний підпис; отримано: {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>External Lin&amp;ks</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20190822T133009Z" creationid="Kos Ivantsov" creationdate="20190807T103423Z">
@@ -17829,6 +17837,14 @@ itself on the first run.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Looking for a GPG executable: path {0} from $PATH is not accessible; skipping</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20220831T095426Z" creationid="Kos Ivantsov" creationdate="20220831T095414Z">
+        <seg>Пошук виконуваного файлу GPG: шлях {0} недоступний у $PATH; дія пропущена</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Lucene (Apache License 2.0)</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20190424T212222Z" creationid="Kos Ivantsov" creationdate="20190424T212222Z">
@@ -19341,6 +19357,22 @@ as the Applications folder.</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20190516T205249Z" creationid="Kos Ivantsov" creationdate="20190516T205249Z">
         <seg>Немає файлів DOCX для очищення.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>No GPG executable found; set it in the Git preferences in section "Committing", or define it in the git config gpg.program</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20220831T095525Z" creationid="Kos Ivantsov" creationdate="20220831T095525Z">
+        <seg>Виконуваний файл GPG не знайдено; встановіть його в налаштуваннях Git в розділі «Фіксація», або визначте його за допомогою команди git config gpg.program</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>No GPG key found for key ID ''{0}''; check or set git config user.signingKey</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20220831T095220Z" creationid="Kos Ivantsov" creationdate="20220831T095220Z">
+        <seg>Не знайдено ключа GPG для ідентифікатора ключа «{0}»; перевірте або встановіть його (git config user.signingKey)</seg>
       </tuv>
     </tu>
     <tu>
