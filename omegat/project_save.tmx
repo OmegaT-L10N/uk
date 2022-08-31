@@ -644,6 +644,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&amp;Export TMs</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20220831T095040Z" creationid="Kos Ivantsov" creationdate="20220831T095040Z">
+        <seg>Теку з експо&amp;ртованими файлами пам’яті</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&amp;File</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20190422T205228Z" creationid="Kos Ivantsov" creationdate="20190422T205228Z">
