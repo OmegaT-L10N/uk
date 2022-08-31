@@ -32249,6 +32249,14 @@ the server.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>To use an existing glossary, simply place it in the &lt;f0&gt;glossary&lt;/f0&gt; folder after creating the project.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20220831T095621Z" creationid="Kos Ivantsov" creationdate="20220831T095621Z">
+        <seg>Щоб використати власний глосарій, просто розмістіть його у теці для глосаріїв (типово &lt;f0&gt;glossary&lt;/f0&gt;) після створення проєкту.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>To use the selected match in your translation, use &lt;g4&gt;Ctrl+R&lt;/g4&gt; to replace the target field with the match or use &lt;g5&gt;Ctrl+I &lt;/g5&gt; to insert it at the cursor position.</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="Asus" changedate="20200722T131953Z" creationid="maximo" creationdate="20200501T204239Z">
