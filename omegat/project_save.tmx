@@ -25279,6 +25279,14 @@ The scope of a search is by default the project and can be set to be any files l
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>See /docs/libraries.txt</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20220831T095058Z" creationid="Kos Ivantsov" creationdate="20220831T095058Z">
+        <seg>Дивіться файл /docs/libraries.txt</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>See &lt;e2&gt;Translation editing&lt;/e2&gt; for more details.</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="maximo" changedate="20200501T201233Z" creationid="maximo" creationdate="20200501T201233Z">
