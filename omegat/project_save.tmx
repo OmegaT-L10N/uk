@@ -3842,6 +3842,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>A nice collection of useful regex cases can be found in OmegaT itself (see Options &gt; Segmentation).</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20220831T095645Z" creationid="Kos Ivantsov" creationdate="20220831T095645Z">
+        <seg>Непогана підбірка прикладів використання регулярних виразів є у самій OmegaT (див. Налаштування &gt; Сегментація).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>A non-digit: [^0-9]</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="lesia" changedate="20200708T095823Z" creationid="maximo" creationdate="20200412T050937Z">
