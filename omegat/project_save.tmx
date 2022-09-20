@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.8.0_0_dda9f365e" segtype="sentence" srclang="en"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.8.0_0_565376ec5" segtype="sentence" srclang="en"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -8817,6 +8817,14 @@ Buy another drink</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Current project configuration will be override by the remote project configuration content.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20220920T072448Z" creationid="Kos Ivantsov" creationdate="20220920T072448Z">
+        <seg>Поточна конфігурація проєкту буде замінена вмістом віддаленої конфігурації проєкту.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Current team:
 (alphabetical order)</seg>
       </tuv>
@@ -9199,6 +9207,15 @@ Buy another drink</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="maximo" changedate="20200329T200129Z" creationid="maximo" creationdate="20200329T200129Z">
         <seg>Словники</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM:[generic]</prop>
+      <tuv lang="en">
+        <seg>Dictionaries Folder:</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20220920T072328Z" creationid="Kos Ivantsov" creationdate="20220920T072328Z">
+        <seg>Тека для словників:</seg>
       </tuv>
     </tu>
     <tu>
@@ -11306,6 +11323,15 @@ Gossamer threads hold you back
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM:[generic]</prop>
+      <tuv lang="en">
+        <seg>Export Translation Memories Folder:</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20220920T072333Z" creationid="Kos Ivantsov" creationdate="20220920T072333Z">
+        <seg>Тека для експортованих файлів пам’яті перекладів:</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en">
         <seg>Export Translation Memory Files Folder</seg>
       </tuv>
@@ -12764,6 +12790,15 @@ provided (omegat.kaptn).</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">MT:[Google Translate (witout API key)]</prop>
+      <tuv lang="en">
+        <seg>Git notification: {0}</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20220920T072537Z" creationid="Kos Ivantsov" creationdate="20220920T072537Z">
+        <seg>Сповіщення Git: {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en">
         <seg>Give access to the ten last edited projects.</seg>
       </tuv>
@@ -12809,6 +12844,15 @@ provided (omegat.kaptn).</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="maximo" changedate="20200404T170754Z" creationid="maximo" creationdate="20200404T170754Z">
         <seg>Глосарії</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM:[generic]</prop>
+      <tuv lang="en">
+        <seg>Glossaries Folder:</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20220920T072324Z" creationid="Kos Ivantsov" creationdate="20220920T072324Z">
+        <seg>Тека для глосаріїв:</seg>
       </tuv>
     </tu>
     <tu>
@@ -29630,6 +29674,14 @@ in /lib/licenses/Licenses.txt.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The original file is saved as backup: {0}</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20220920T072522Z" creationid="Kos Ivantsov" creationdate="20220920T072522Z">
+        <seg>Початковий файл збережено у резервній копії: {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The password cannot be empty.</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20190808T131631Z" creationid="Kos Ivantsov" creationdate="20190808T131631Z">
@@ -32719,6 +32771,15 @@ linux-install.sh script, and execute the script with ./linux-install.sh.</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20190807T150054Z" creationid="Kos Ivantsov" creationdate="20190807T150054Z">
         <seg>Переклад</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM:[generic]</prop>
+      <tuv lang="en">
+        <seg>Translation Memories Folder:</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20220920T072318Z" creationid="Kos Ivantsov" creationdate="20220920T072318Z">
+        <seg>Тека для файлів пам’яті перекладів:</seg>
       </tuv>
     </tu>
     <tu>
