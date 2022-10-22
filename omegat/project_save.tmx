@@ -2079,13 +2079,13 @@ To add files to the project, click on the Copy Files to Source Folder... button 
 	  --output-file=[stats-output-file]
 	    Prints to that file, or to standard output if absent.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221022T161903Z" creationid="Kos Ivantsov" creationdate="20221022T160747Z">
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221022T162749Z" creationid="Kos Ivantsov" creationdate="20221022T160747Z">
         <seg>--mode=console-stats
 	  (Режим виведення статистики у консоль)
 	  &lt;шлях до проєкту&gt;
 	    Шлях до проєкту
 	  --output-file=[&lt;файл виведення статистики&gt;]
-	    Статистика буде виведена у вказаний файл або у стандартний вивід,
+	    Статистика буде виведена у вказаний файл або у stdout (cтандартний вивід),
 	    якщо цей параметр відсутній або файл не вказано.</seg>
       </tuv>
     </tu>
@@ -2232,6 +2232,16 @@ To add files to the project, click on the Copy Files to Source Folder... button 
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>--script=&lt;path&gt;
+	  A script file to be executed on project events.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221022T162801Z" creationid="Kos Ivantsov" creationdate="20221022T162801Z">
+        <seg>--script=&lt;шлях&gt;
+	  Файл скрипту, який має виконуватися при настанні подій проєкту.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>--source-pattern=&lt;p0&gt;regexp&lt;/p0&gt;</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="lesia" changedate="20200708T095823Z" creationid="lesia" creationdate="20200702T135306Z">
@@ -2264,6 +2274,16 @@ To add files to the project, click on the Copy Files to Source Folder... button 
       <tuv lang="uk-UA" changeid="lesia" changedate="20200708T095823Z" creationid="Kos Ivantsov" creationdate="20190419T182035Z">
         <seg>--tag-validation=[abort|warn]
 		Перевірити теґи.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>--tag-validation=[abort|warn]
+	  Validate tags.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221022T162820Z" creationid="Kos Ivantsov" creationdate="20221022T162820Z">
+        <seg>--tag-validation=[abort|warn]
+	  Перевірка теґів.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4289,8 +4309,8 @@ The current setting is {0}MB;</seg>
       <tuv lang="en">
         <seg>Abort: Exit with an error if tags invalid.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="fanja9" changedate="20200720T181402Z" creationid="Kos Ivantsov" creationdate="20190419T182105Z">
-        <seg>	abort (припинення роботи): вихід із помилкою, якщо є помилки у теґах.</seg>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221022T162825Z" creationid="Kos Ivantsov" creationdate="20190419T182105Z">
+        <seg>abort (припинення роботи): вихід із помилкою, якщо є помилки у теґах.</seg>
       </tuv>
     </tu>
     <tu>
@@ -34880,8 +34900,8 @@ searchable without subscription:</seg>
       <tuv lang="en">
         <seg>Warn: Report invalid tags to stdout.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20190419T183505Z" creationid="Kos Ivantsov" creationdate="20190419T182140Z">
-        <seg>	warn (попередження): виводити повідомлення про помилки у теґах до stdout.</seg>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221022T162828Z" creationid="Kos Ivantsov" creationdate="20190419T182140Z">
+        <seg>warn (попередження): виводити повідомлення про помилки у теґах до stdout.</seg>
       </tuv>
     </tu>
     <tu>
