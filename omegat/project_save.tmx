@@ -24593,6 +24593,14 @@ These words: 'Page not found'</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Repository (type: {0}) URL not defined on path: {1}</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221022T170914Z" creationid="Kos Ivantsov" creationdate="20221022T170914Z">
+        <seg>URL-адреса сховища (тип: {0}) не визначена за шляхом: {1}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Repository Credentials</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20190807T145834Z" creationid="Kos Ivantsov" creationdate="20190807T145834Z">
