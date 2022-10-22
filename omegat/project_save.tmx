@@ -2225,6 +2225,22 @@ To add files to the project, click on the Copy Files to Source Folder... button 
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>/Applications/OmegaT.app/Contents/Java/</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221022T133600Z" creationid="Kos Ivantsov" creationdate="20221022T133600Z">
+        <seg>/Applications/OmegaT.app/Contents/Java/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>/opt/omegat/</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221022T133558Z" creationid="Kos Ivantsov" creationdate="20221022T133558Z">
+        <seg>/opt/omegat/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>1 conflict</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20190821T114928Z" creationid="Kos Ivantsov" creationdate="20190821T114928Z">
@@ -5375,6 +5391,14 @@ The TMX file will not be loaded.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Application Folder</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221022T133457Z" creationid="Kos Ivantsov" creationdate="20221022T133457Z">
+        <seg>Тека програми</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Apply &amp;Fix</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20190807T185654Z" creationid="Kos Ivantsov" creationdate="20190807T185654Z">
@@ -6428,6 +6452,14 @@ Buy another drink</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20190421T152448Z" creationid="Kos Ivantsov" creationdate="20190421T152448Z">
         <seg>П&amp;оточний перекладений документ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>C:\Program Files\OmegaT\</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221022T133555Z" creationid="Kos Ivantsov" creationdate="20221022T133555Z">
+        <seg>C:\Program Files\OmegaT\</seg>
       </tuv>
     </tu>
     <tu>
@@ -9902,6 +9934,14 @@ Buy another drink</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20190821T115100Z" creationid="Kos Ivantsov" creationdate="20190821T115100Z">
         <seg>Готово</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Done and current translations are saved as {0}</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221022T132646Z" creationid="Kos Ivantsov" creationdate="20221022T132646Z">
+        <seg>Готово. Поточні переклади збережено як {0}</seg>
       </tuv>
     </tu>
     <tu>
@@ -21117,6 +21157,14 @@ installed on your system.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>OmegaT-license.txt</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221022T133658Z" creationid="Kos Ivantsov" creationdate="20221022T133658Z">
+        <seg>OmegaT-license.txt</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>OmegaT.css</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20190823T144755Z" creationid="Kos Ivantsov" creationdate="20190823T144755Z">
@@ -23210,6 +23258,14 @@ project without team functionality.</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="maximo" changedate="20200425T154901Z" creationid="maximo" creationdate="20200413T170658Z">
         <seg>Тека проєкту</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Project glossary</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221022T133914Z" creationid="Kos Ivantsov" creationdate="20221022T133914Z">
+        <seg>Глосарій проєкту</seg>
       </tuv>
     </tu>
     <tu>
@@ -28732,6 +28788,14 @@ Please try to correct the error and reload the project.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The application folder location depends on your platform and on the way you have installed OmegaT.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221022T133546Z" creationid="Kos Ivantsov" creationdate="20221022T133546Z">
+        <seg>Розташування теки програми залежить від операційної системи та способу встановлення OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The application runs on your machine only.</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="lesia" changedate="20200708T101729Z" creationid="maximo" creationdate="20200420T195720Z">
@@ -30020,6 +30084,14 @@ in /lib/licenses/Licenses.txt.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The recommended or default locations are the following:</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221022T133651Z" creationid="Kos Ivantsov" creationdate="20221022T133651Z">
+        <seg>Рекомендовані або типові розташування:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The reference to the URL is specified as below (here to a Git repository):</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="lesia" changedate="20200704T191857Z" creationid="lesia" creationdate="20200704T191711Z">
@@ -30651,6 +30723,15 @@ in /lib/licenses/Licenses.txt.</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="lesia" changedate="20200708T101849Z" creationid="lesia" creationdate="20200523T201736Z">
         <seg>Слово або фраза автоматично з’явиться в полі &lt;e3&gt;Шукати&lt;/e3&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM:[generic]</prop>
+      <tuv lang="en">
+        <seg>The writable glossary for the project is always a TSV file saved in UTF-8 encoding.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221022T133850Z" creationid="Kos Ivantsov" creationdate="20221022T133850Z">
+        <seg>Глосарій для запису в кожному проєкті завжди є файлом типу TSV у кодуванні UTF-8.</seg>
       </tuv>
     </tu>
     <tu>
@@ -33754,6 +33835,15 @@ on line {1}, column {2}.</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM:[generic]</prop>
+      <tuv lang="en">
+        <seg>Use &amp;Fuzzy Matching for Glossary Entries</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221022T132530Z" creationid="Kos Ivantsov" creationdate="20221022T132530Z">
+        <seg>Шукати записи у словнику з використанням &amp;нечітких збігів</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en">
         <seg>Use &amp;TAB to Advance</seg>
       </tuv>
@@ -35381,6 +35471,14 @@ Your page is not found</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Wrong URL detected in Linkifier: {0}</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221022T132806Z" creationid="Kos Ivantsov" creationdate="20221022T132806Z">
+        <seg>У Linkifier виявлено неправильну URL-адресу: {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Wrong authentication</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20190821T151734Z" creationid="Kos Ivantsov" creationdate="20190821T151734Z">
@@ -36877,6 +36975,14 @@ create its configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>changes.txt</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221022T133722Z" creationid="Kos Ivantsov" creationdate="20221022T133722Z">
+        <seg>changes.txt</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>clicking a column header changes the sort order for the column,</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="maximo" changedate="20200425T150604Z" creationid="maximo" creationdate="20200425T150604Z">
@@ -36925,6 +37031,14 @@ create its configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>contributors.txt</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221022T133738Z" creationid="Kos Ivantsov" creationdate="20221022T133738Z">
+        <seg>contributors.txt</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>copy the files to the &lt;f0&gt;/source&lt;/f0&gt; folder</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="lesia" changedate="20200708T103745Z" creationid="lesia" creationdate="20200704T185736Z">
@@ -36969,6 +37083,14 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="lesia" changedate="20200708T095823Z" creationid="lesia" creationdate="20200702T135405Z">
         <seg>dir-10\\test\.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>doc-license.txt</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221022T133726Z" creationid="Kos Ivantsov" creationdate="20221022T133726Z">
+        <seg>doc-license.txt</seg>
       </tuv>
     </tu>
     <tu>
@@ -38015,6 +38137,14 @@ create its configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>join.html</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221022T133730Z" creationid="Kos Ivantsov" creationdate="20221022T133730Z">
+        <seg>join.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>jsch-agent-proxy (jsch-agent-proxy License)</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="lesia" changedate="20200708T095823Z" creationid="Kos Ivantsov" creationdate="20190424T212214Z">
@@ -38099,6 +38229,14 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20190424T212311Z" creationid="Kos Ivantsov" creationdate="20190424T212311Z">
         <seg>mALIGNa (ліцензія MIT)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>macOS</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221022T133613Z" creationid="Kos Ivantsov" creationdate="20221022T133613Z">
+        <seg>macOS</seg>
       </tuv>
     </tu>
     <tu>
@@ -38496,6 +38634,14 @@ create its configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>other platforms</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221022T133610Z" creationid="Kos Ivantsov" creationdate="20221022T133610Z">
+        <seg>Інші платформи</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>projectAccessCurrentSourceDocumentMenuItem</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="maximo" changedate="20200607T165617Z" creationid="maximo" creationdate="20200607T165617Z">
@@ -38684,6 +38830,14 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="maximo" changedate="20200614T162212Z" creationid="maximo" creationdate="20200429T205011Z">
         <seg>приєднує область назад до основного вікна</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>readme.txt</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221022T133732Z" creationid="Kos Ivantsov" creationdate="20221022T133732Z">
+        <seg>readme.txt</seg>
       </tuv>
     </tu>
     <tu>
