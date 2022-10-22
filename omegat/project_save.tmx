@@ -2081,14 +2081,13 @@ To add files to the project, click on the Copy Files to Source Folder... button 
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">TM:[generic]</prop>
       <tuv lang="en">
         <seg>--no-team
 	  Disable team project functionality.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221022T132026Z" creationid="Kos Ivantsov" creationdate="20221022T132026Z">
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221022T153035Z" creationid="Kos Ivantsov" creationdate="20221022T132026Z">
         <seg>--no-team
-		Вимкнути функціонал роботи з командними проєктами.</seg>
+	  Вимкнути функціонал роботи з командними проєктами.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2124,16 +2123,15 @@ To add files to the project, click on the Copy Files to Source Folder... button 
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">TM:[generic]</prop>
       <tuv lang="en">
         <seg>--remote-project
 	  Download an omegat.project file from the URL given as &lt;project
 	  path&gt; and load the project.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221022T130927Z" creationid="Kos Ivantsov" creationdate="20221022T130927Z">
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221022T153027Z" creationid="Kos Ivantsov" creationdate="20221022T130927Z">
         <seg>--remote-project
-		Стягнути файл omegat.project з URL-адреси, вказаної
-		у параметрі &lt;шлях до проєкту&gt;, та завантажити проєкт.</seg>
+	  Стягнути файл omegat.project з URL-адреси, вказаної
+	  у параметрі &lt;шлях до проєкту&gt;, та завантажити проєкт.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2243,9 +2241,9 @@ To add files to the project, click on the Copy Files to Source Folder... button 
         <seg>-h, --help
 	  Print this help message.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221022T130557Z" creationid="Kos Ivantsov" creationdate="20221022T130557Z">
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221022T152945Z" creationid="Kos Ivantsov" creationdate="20221022T130557Z">
         <seg>-h, --help
-		Показати це повідомлення.</seg>
+	  Показати це повідомлення.</seg>
       </tuv>
     </tu>
     <tu>
@@ -23425,9 +23423,9 @@ project without team functionality.</seg>
       <tuv lang="en">
         <seg>Project path only: Launch GUI and load specified project</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221022T130510Z" creationid="Kos Ivantsov" creationdate="20221022T130423Z">
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221022T152909Z" creationid="Kos Ivantsov" creationdate="20221022T130423Z">
         <seg>Лише шлях до проєкту: запустити графічний інтерфейс користувача
-		та завантажити відповідний проєкт</seg>
+                      та завантажити відповідний проєкт</seg>
       </tuv>
     </tu>
     <tu>
@@ -39182,9 +39180,9 @@ create its configuration folder.</seg>
         <seg>team init &lt;source language&gt; &lt;target language&gt;
 	  Team project tool.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221022T132440Z" creationid="Kos Ivantsov" creationdate="20221022T132440Z">
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221022T153041Z" creationid="Kos Ivantsov" creationdate="20221022T132440Z">
         <seg>team init &lt;мова оригіналу&gt; &lt;мова перекладу&gt;
-		Запустити інструмент для створення командного проєкту.</seg>
+	  Запустити інструмент для створення командного проєкту.</seg>
       </tuv>
     </tu>
     <tu>
