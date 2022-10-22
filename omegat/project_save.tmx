@@ -1892,18 +1892,18 @@ To add files to the project, click on the Copy Files to Source Folder... button 
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">TM:[generic]</prop>
       <tuv lang="en">
         <seg>--ITokenizer=&lt;classname&gt;
 	--ITokenizerTarget=&lt;classname&gt;
 	  Source- or target-language tokenizer to use (overrides project
 	  settings).</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221022T151556Z" creationid="Kos Ivantsov" creationdate="20221022T151556Z">
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221022T155554Z" creationid="Kos Ivantsov" creationdate="20221022T151556Z">
         <seg>--ITokenizer=&lt;назва класу&gt;
---ITokenizerTarget=&lt;назва класу&gt;
-		Використати токенізатор мови оригіналу чи перекладу
-		(не беручи до уваги параметри, вказані в налаштуваннях проєкту).</seg>
+	--ITokenizerTarget=&lt;назва класу&gt;
+	  Використати токенізатор мови оригіналу чи перекладу
+	  (не беручи до уваги параметри, вказані в налаштуваннях проєкту).
+	  </seg>
       </tuv>
     </tu>
     <tu>
@@ -1972,14 +1972,13 @@ To add files to the project, click on the Copy Files to Source Folder... button 
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">TM:[generic]</prop>
       <tuv lang="en">
         <seg>--disable-location-save
 	  Do not remember the last directory opened in the file picker.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221022T151544Z" creationid="Kos Ivantsov" creationdate="20221022T151544Z">
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221022T155443Z" creationid="Kos Ivantsov" creationdate="20221022T151544Z">
         <seg>--disable-location-save
-		Не запам’ятовувати останню теку, яка була відкрита у діалозі вибору файлів.</seg>
+	  Не запам’ятовувати останню теку, яка була відкрита у діалозі вибору файлів.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1993,14 +1992,13 @@ To add files to the project, click on the Copy Files to Source Folder... button 
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">TM:[generic]</prop>
       <tuv lang="en">
         <seg>--disable-project-locking
 	  Do not attempt to lock the project's omegat.project file.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221022T132505Z" creationid="Kos Ivantsov" creationdate="20221022T132505Z">
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221022T155431Z" creationid="Kos Ivantsov" creationdate="20221022T132505Z">
         <seg>--disable-project-locking
-		Не намагатися блокувати файл проєкту «omegat.project».</seg>
+	  Не намагатися блокувати файл проєкту «omegat.project».</seg>
       </tuv>
     </tu>
     <tu>
@@ -14291,9 +14289,9 @@ need not be entered.)</seg>
         <seg>If invoked in a git working tree or svn checkout, the results
 	  will be staged/added.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221022T132500Z" creationid="Kos Ivantsov" creationdate="20221022T132500Z">
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221022T155402Z" creationid="Kos Ivantsov" creationdate="20221022T132500Z">
         <seg>У разі виклику в теці, що містить робоче дерево git або робочу копію svn,
-		результати будуть додані/помічені для фіксування.</seg>
+	  результати будуть додані/помічені для фіксування.</seg>
       </tuv>
     </tu>
     <tu>
@@ -19725,8 +19723,8 @@ as the Applications folder.</seg>
       <tuv lang="en">
         <seg>No options: Launch GUI</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221022T130435Z" creationid="Kos Ivantsov" creationdate="20221022T130359Z">
-        <seg>Не вказано: Запустити графічний інтерфейс</seg>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221022T153325Z" creationid="Kos Ivantsov" creationdate="20221022T130359Z">
+        <seg>Не вказано: Запустити графічний інтерфейс.</seg>
       </tuv>
     </tu>
     <tu>
@@ -23423,9 +23421,9 @@ project without team functionality.</seg>
       <tuv lang="en">
         <seg>Project path only: Launch GUI and load specified project</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221022T153240Z" creationid="Kos Ivantsov" creationdate="20221022T130423Z">
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221022T153321Z" creationid="Kos Ivantsov" creationdate="20221022T130423Z">
         <seg>Лише шлях до проєкту: запустити графічний інтерфейс користувача
-	                      та завантажити відповідний проєкт</seg>
+	                      та завантажити відповідний проєкт.</seg>
       </tuv>
     </tu>
     <tu>
