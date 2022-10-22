@@ -4309,8 +4309,9 @@ The current setting is {0}MB;</seg>
       <tuv lang="en">
         <seg>Abort: Exit with an error if tags invalid.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221022T162825Z" creationid="Kos Ivantsov" creationdate="20190419T182105Z">
-        <seg>abort (припинення роботи): вихід із помилкою, якщо є помилки у теґах.</seg>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221022T164224Z" creationid="Kos Ivantsov" creationdate="20190419T182105Z">
+        <seg>
+	  abort (припинення роботи): вихід із помилкою, якщо є помилки у теґах.</seg>
       </tuv>
     </tu>
     <tu>
@@ -34011,6 +34012,16 @@ on line {1}, column {2}.</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221022T130123Z" creationid="Kos Ivantsov" creationdate="20221022T130123Z">
         <seg>Використання: java -jar [&lt;параметри Java&gt;] OmegaT.jar [&lt;параметри OmegaT&gt;] [&lt;шлях до проєкту&gt;]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Usage: team init &lt;source language&gt; &lt;target language&gt;
+	See --help</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221022T162920Z" creationid="Kos Ivantsov" creationdate="20221022T162920Z">
+        <seg>Використання: team init &lt;мова оригіналу&gt; &lt;мова перекладу&gt;
+	Див. --help</seg>
       </tuv>
     </tu>
     <tu>
