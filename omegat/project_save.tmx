@@ -2164,6 +2164,16 @@ To add files to the project, click on the Copy Files to Source Folder... button 
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>--quiet
+	  Reduce output to command line stdout.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221022T162701Z" creationid="Kos Ivantsov" creationdate="20221022T162701Z">
+        <seg>--quiet
+	  Зменшити вивід у stdout командного рядка.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>--remote-project
 		Download an omegat.project file from the URL given as &lt;project
 		path&gt; and load the project.</seg>
@@ -2241,8 +2251,8 @@ To add files to the project, click on the Copy Files to Source Folder... button 
         <seg>--stats-type=[xml|text][txt][json]]]
 	    Specifies the output format.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221022T162244Z" creationid="Kos Ivantsov" creationdate="20221022T162244Z">
-        <seg>--stats-type=[xml|text][txt][json]]]
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221022T162541Z" creationid="Kos Ivantsov" creationdate="20221022T162244Z">
+        <seg>--stats-type=[xml|text|txt|json]
 	    Формат виводу.</seg>
       </tuv>
     </tu>
@@ -8028,6 +8038,14 @@ Buy another drink</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221022T151749Z" creationid="Kos Ivantsov" creationdate="20221022T151749Z">
         <seg>Назви консольних режимів та їхні параметри:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Console only options:</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221022T162625Z" creationid="Kos Ivantsov" creationdate="20221022T162625Z">
+        <seg>Параметри лише для консолі:</seg>
       </tuv>
     </tu>
     <tu>
