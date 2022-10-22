@@ -1946,6 +1946,17 @@ To add files to the project, click on the Copy Files to Source Folder... button 
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM:[generic]</prop>
+      <tuv lang="en">
+        <seg>--disable-project-locking
+	  Do not attempt to lock the project's omegat.project file.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221022T132505Z" creationid="Kos Ivantsov" creationdate="20221022T132505Z">
+        <seg>--disable-project-locking
+		Не намагатися блокувати файл проєкту «omegat.project».</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en">
         <seg>--mode=&lt;p3&gt;console-translate|console-createpseudotranslatetmx|console-align&lt;/p3&gt; \</seg>
       </tuv>
@@ -1994,6 +2005,17 @@ To add files to the project, click on the Copy Files to Source Folder... button 
 		Disable team project functionality.</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="lesia" changedate="20200708T095823Z" creationid="Kos Ivantsov" creationdate="20190419T180417Z">
+        <seg>--no-team
+		Вимкнути функціонал роботи з командними проєктами.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM:[generic]</prop>
+      <tuv lang="en">
+        <seg>--no-team
+	  Disable team project functionality.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221022T132026Z" creationid="Kos Ivantsov" creationdate="20221022T132026Z">
         <seg>--no-team
 		Вимкнути функціонал роботи з командними проєктами.</seg>
       </tuv>
@@ -14139,6 +14161,16 @@ need not be entered.)</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If invoked in a git working tree or svn checkout, the results
+	  will be staged/added.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221022T132500Z" creationid="Kos Ivantsov" creationdate="20221022T132500Z">
+        <seg>У разі виклику в теці, що містить робоче дерево git або робочу копію svn,
+		результати будуть додані/помічені для фіксування.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If issue checking is slow, try disabling some of the optional checks.</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20190821T124917Z" creationid="Kos Ivantsov" creationdate="20190821T124642Z">
@@ -15900,6 +15932,14 @@ click on that shortcut.</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="lesia" changedate="20200324T164539Z" creationid="maximo" creationdate="20200322T113538Z">
         <seg>Для досвідчених користувачів: інформація про методи та функції OmegaT з інших сайтів.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Initialize a minimal team project with the specified languages.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221022T132307Z" creationid="Kos Ivantsov" creationdate="20221022T132307Z">
+        <seg>Ініціалізувати мінімальний командний проєкт із зазначеними мовами.</seg>
       </tuv>
     </tu>
     <tu>
@@ -38876,6 +38916,16 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="lesia" changedate="20200503T063608Z" creationid="lesia" creationdate="20200503T063608Z">
         <seg>target = project.getTranslationInfo(currSegment).translation;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>team init &lt;source language&gt; &lt;target language&gt;
+	  Team project tool.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221022T132440Z" creationid="Kos Ivantsov" creationdate="20221022T132440Z">
+        <seg>team init &lt;мова оригіналу&gt; &lt;мова перекладу&gt;
+		Запустити інструмент для створення командного проєкту.</seg>
       </tuv>
     </tu>
     <tu>
