@@ -1924,6 +1924,16 @@ To add files to the project, click on the Copy Files to Source Folder... button 
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>--config-dir=&lt;path&gt;
+	  The directory to read/write OmegaT configuration files from/to.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221022T151639Z" creationid="Kos Ivantsov" creationdate="20221022T151639Z">
+        <seg>--config-dir=&lt;шлях&gt;
+		Тека для читання та запису файлів із налаштуваннями OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>--config-file=&lt;p2&gt;/path/to/config-file/&lt;/p2&gt; \</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="lesia" changedate="20200708T095823Z" creationid="lesia" creationdate="20200702T190314Z">
@@ -2003,6 +2013,17 @@ To add files to the project, click on the Copy Files to Source Folder... button 
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>--mode=[console mode name]
+	  Specify a mode other than default (GUI).</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221022T151730Z" creationid="Kos Ivantsov" creationdate="20221022T151730Z">
+        <seg>--mode=[назва консольного режиму]
+		Вказати режим, відмінний від типового
+		(тобто, графічного інтерфейсу).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>--mode=[console-translate|console-pseudotranslatetmx|console-align]
 		Specify a mode other than default (GUI).</seg>
       </tuv>
@@ -2034,6 +2055,19 @@ To add files to the project, click on the Copy Files to Source Folder... button 
       </tuv>
       <tuv lang="uk-UA" changeid="lesia" changedate="20200708T095823Z" creationid="lesia" creationdate="20200702T190318Z">
         <seg>--mode=console-translate</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>--mode=console-translate
+	  --source-pattern=&lt;pattern&gt;
+	    A regex whitelist of source files to process.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221022T151932Z" creationid="Kos Ivantsov" creationdate="20221022T151851Z">
+        <seg>--mode=console-translate
+	(Режим перекладу у консолі)
+	--source-pattern=&lt;шаблон&gt;
+		Білий список (у формі регулярного виразу) файлів для перекладу, які мають бути опрацьовані.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2114,6 +2148,16 @@ To add files to the project, click on the Copy Files to Source Folder... button 
 		Java-файл «.properties», який бути використаний для локалізації інтерфейсу
 --config-dir=&lt;шлях&gt;
 		Тека для читання та запису файлів із налаштуваннями OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>--resource-bundle=&lt;path&gt;
+	  A Java .properties file to use for interface text</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221022T151649Z" creationid="Kos Ivantsov" creationdate="20221022T151649Z">
+        <seg>--resource-bundle=&lt;шлях&gt;
+		Java-файл «.properties», який бути використаний для локалізації інтерфейсу.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7916,6 +7960,14 @@ Buy another drink</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="lesia" changedate="20200322T155643Z" creationid="lesia" creationdate="20200322T155643Z">
         <seg>Містить навчальні матеріали для студентів, керівника курсу та підбірку пробних файлів для перекладу.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Console mode names and their options:</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221022T151749Z" creationid="Kos Ivantsov" creationdate="20221022T151749Z">
+        <seg>Назви консольних режимів та їхні параметри:</seg>
       </tuv>
     </tu>
     <tu>
