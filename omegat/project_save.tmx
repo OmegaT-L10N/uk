@@ -1898,12 +1898,11 @@ To add files to the project, click on the Copy Files to Source Folder... button 
 	  Source- or target-language tokenizer to use (overrides project
 	  settings).</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221022T155633Z" creationid="Kos Ivantsov" creationdate="20221022T151556Z">
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221022T155831Z" creationid="Kos Ivantsov" creationdate="20221022T151556Z">
         <seg>--ITokenizer=&lt;назва класу&gt;
 	--ITokenizerTarget=&lt;назва класу&gt;
 	  Використати токенізатор мови оригіналу чи перекладу
-	  (не беручи до уваги параметри, вказані в налаштуваннях проєкту).
-	</seg>
+	  (не беручи до уваги параметри, вказані в налаштуваннях проєкту).</seg>
       </tuv>
     </tu>
     <tu>
@@ -1927,9 +1926,9 @@ To add files to the project, click on the Copy Files to Source Folder... button 
         <seg>--config-dir=&lt;path&gt;
 	  The directory to read/write OmegaT configuration files from/to.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221022T151639Z" creationid="Kos Ivantsov" creationdate="20221022T151639Z">
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221022T155938Z" creationid="Kos Ivantsov" creationdate="20221022T151639Z">
         <seg>--config-dir=&lt;шлях&gt;
-		Тека для читання та запису файлів із налаштуваннями OmegaT.</seg>
+	  Тека для читання та запису файлів із налаштуваннями OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1951,14 +1950,13 @@ To add files to the project, click on the Copy Files to Source Folder... button 
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">TM:[generic]</prop>
       <tuv lang="en">
         <seg>--config-file=&lt;path&gt;
 	  A Java .properties file from which to load default settings.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221022T151609Z" creationid="Kos Ivantsov" creationdate="20221022T151609Z">
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221022T155934Z" creationid="Kos Ivantsov" creationdate="20221022T151609Z">
         <seg>--config-file=&lt;шлях&gt;
-		Java-файл «.properties» з налаштуваннями, які будуть використані при запуску програми.</seg>
+	  Java-файл «.properties» з налаштуваннями, які будуть використані при запуску програми.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2014,10 +2012,10 @@ To add files to the project, click on the Copy Files to Source Folder... button 
         <seg>--mode=[console mode name]
 	  Specify a mode other than default (GUI).</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221022T151730Z" creationid="Kos Ivantsov" creationdate="20221022T151730Z">
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221022T160020Z" creationid="Kos Ivantsov" creationdate="20221022T151730Z">
         <seg>--mode=[назва консольного режиму]
-		Вказати режим, відмінний від типового
-		(тобто, графічного інтерфейсу).</seg>
+	  Вказати режим, відмінний від типового
+	  (тобто, графічного інтерфейсу).</seg>
       </tuv>
     </tu>
     <tu>
@@ -2041,10 +2039,54 @@ To add files to the project, click on the Copy Files to Source Folder... button 
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>--mode=console-align
+	  --alignDir=&lt;path&gt;
+	    A directory containing the translated files.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221022T160738Z" creationid="Kos Ivantsov" creationdate="20221022T160629Z">
+        <seg>--mode=console-align
+	  (Режим вирівнювання у консолі)
+	  --alignDir=&lt;path&gt;
+	    Тека, що містить перекладені файли.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>--mode=console-createpseudotranslatetmx</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="lesia" changedate="20200708T095823Z" creationid="lesia" creationdate="20200702T190319Z">
         <seg>--mode=console-createpseudotranslatetmx</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>--mode=console-pseudotranslatetmx
+	  --pseudotranslatetmx=&lt;path&gt;
+	    The output pseudotranslated TMX file.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221022T160323Z" creationid="Kos Ivantsov" creationdate="20221022T160206Z">
+        <seg>--mode=console-pseudotranslatetmx
+	  (Режим псевдоперекладу у консолі)
+	  --pseudotranslatetmx=&lt;шлях&gt;
+	    Вихідний файл TMX, що міститиме псевдопереклад.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>--mode=console-stats
+	  project_path
+	    The path to the project
+	  --output-file=[stats-output-file]
+	    Prints to that file, or to standard output if absent.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221022T161818Z" creationid="Kos Ivantsov" creationdate="20221022T160747Z">
+        <seg>--mode=console-stats
+	  (Режим виведення статистики у консоль)
+	  &lt;шлях до проєкту&gt;
+	    Шлях до проєкту
+	  --output-file=[&lt;файл виведення статистики&gt;]
+	    Статистика буде виведена у вказаний файл або у стандартний вивід,
+	    якщо цей параметр відсутній.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2061,11 +2103,11 @@ To add files to the project, click on the Copy Files to Source Folder... button 
 	  --source-pattern=&lt;pattern&gt;
 	    A regex whitelist of source files to process.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221022T151932Z" creationid="Kos Ivantsov" creationdate="20221022T151851Z">
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221022T160134Z" creationid="Kos Ivantsov" creationdate="20221022T151851Z">
         <seg>--mode=console-translate
-	(Режим перекладу у консолі)
-	--source-pattern=&lt;шаблон&gt;
-		Білий список (у формі регулярного виразу) файлів для перекладу, які мають бути опрацьовані.</seg>
+	  (Режим перекладу у консолі)
+	  --source-pattern=&lt;шаблон&gt;
+	    Білий список (у формі регулярного виразу) файлів для перекладу, які мають бути опрацьовані.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2106,6 +2148,18 @@ To add files to the project, click on the Copy Files to Source Folder... button 
 		Параметр, яким регулюється наповнення псевдоперекладеного файлу TMX.
 	equal (однаковий переклад): підставити текст оригіналу замість перекладу.
 	empty (порожній переклад): залишити переклад без тексту.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>--pseudotranslatetype=[equal|empty]
+	    What to fill the pseudotranslated TMX with.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221022T160557Z" creationid="Kos Ivantsov" creationdate="20221022T160443Z">
+        <seg>--pseudotranslatetype=[equal|empty]
+	    Параметр, яким регулюється вміст псевдоперекладеного файлу TMX.
+	    equal (однаковий переклад): підставити текст оригіналу замість перекладу.
+	    empty (порожній переклад): залишити переклад без тексту.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2151,9 +2205,9 @@ To add files to the project, click on the Copy Files to Source Folder... button 
         <seg>--resource-bundle=&lt;path&gt;
 	  A Java .properties file to use for interface text</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221022T151649Z" creationid="Kos Ivantsov" creationdate="20221022T151649Z">
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221022T155944Z" creationid="Kos Ivantsov" creationdate="20221022T151649Z">
         <seg>--resource-bundle=&lt;шлях&gt;
-		Java-файл «.properties», який бути використаний для локалізації інтерфейсу.</seg>
+	  Java-файл «.properties», який бути використаний для локалізації інтерфейсу.</seg>
       </tuv>
     </tu>
     <tu>
@@ -40041,6 +40095,17 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20190821T115816Z" creationid="Kos Ivantsov" creationdate="20190821T115816Z">
         <seg>Заміна</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">Bundle.properties</prop>
+      <prop type="id">COMMAND_LINE_HELP</prop>
+      <tuv lang="en">
+        <seg>See OmegaT.jar/META-INF/MANIFEST.MF for valid values.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221022T155854Z" creationid="Kos Ivantsov" creationdate="20221022T155854Z">
+        <seg>
+	  Припустимі значення наведено у файлі «OmegaT.jar/META-INF/MANIFEST.MF».</seg>
       </tuv>
     </tu>
     <tu>
