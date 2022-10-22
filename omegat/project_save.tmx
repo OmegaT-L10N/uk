@@ -2079,14 +2079,14 @@ To add files to the project, click on the Copy Files to Source Folder... button 
 	  --output-file=[stats-output-file]
 	    Prints to that file, or to standard output if absent.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221022T161818Z" creationid="Kos Ivantsov" creationdate="20221022T160747Z">
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221022T161903Z" creationid="Kos Ivantsov" creationdate="20221022T160747Z">
         <seg>--mode=console-stats
 	  (Режим виведення статистики у консоль)
 	  &lt;шлях до проєкту&gt;
 	    Шлях до проєкту
 	  --output-file=[&lt;файл виведення статистики&gt;]
 	    Статистика буде виведена у вказаний файл або у стандартний вивід,
-	    якщо цей параметр відсутній.</seg>
+	    якщо цей параметр відсутній або файл не вказано.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2234,6 +2234,16 @@ To add files to the project, click on the Copy Files to Source Folder... button 
       </tuv>
       <tuv lang="uk-UA" changeid="lesia" changedate="20200708T095823Z" creationid="lesia" creationdate="20200702T190315Z">
         <seg>--source-pattern=&lt;p4&gt;regexp&lt;/p4&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>--stats-type=[xml|text][txt][json]]]
+	    Specifies the output format.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221022T162244Z" creationid="Kos Ivantsov" creationdate="20221022T162244Z">
+        <seg>--stats-type=[xml|text][txt][json]]]
+	    Формат виводу.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9223,6 +9233,14 @@ Buy another drink</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="maximo" changedate="20200405T184438Z" creationid="maximo" creationdate="20200405T184438Z">
         <seg>Стандартна комбінація клавіш</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Defaults to xml.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221022T162129Z" creationid="Kos Ivantsov" creationdate="20221022T162129Z">
+        <seg>Типовим значенням є формат xml.</seg>
       </tuv>
     </tu>
     <tu>
@@ -35526,6 +35544,14 @@ Your page is not found</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="lesia" changedate="20200323T214517Z" creationid="maximo" creationdate="20200322T155534Z">
         <seg>З/Без JRE</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Without --stats-type, detects format from file extension.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221022T162054Z" creationid="Kos Ivantsov" creationdate="20221022T162054Z">
+        <seg>Якщо відсутній параметр --stats-type, формат буде визначено з розширення вказаного файлу.</seg>
       </tuv>
     </tu>
     <tu>
