@@ -1892,6 +1892,21 @@ To add files to the project, click on the Copy Files to Source Folder... button 
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM:[generic]</prop>
+      <tuv lang="en">
+        <seg>--ITokenizer=&lt;classname&gt;
+	--ITokenizerTarget=&lt;classname&gt;
+	  Source- or target-language tokenizer to use (overrides project
+	  settings).</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221022T151556Z" creationid="Kos Ivantsov" creationdate="20221022T151556Z">
+        <seg>--ITokenizer=&lt;назва класу&gt;
+--ITokenizerTarget=&lt;назва класу&gt;
+		Використати токенізатор мови оригіналу чи перекладу
+		(не беручи до уваги параметри, вказані в налаштуваннях проєкту).</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en">
         <seg>--alignDir=&lt;p0&gt;&lt;location of translated files&gt;&lt;/p0&gt;</seg>
       </tuv>
@@ -1926,11 +1941,33 @@ To add files to the project, click on the Copy Files to Source Folder... button 
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM:[generic]</prop>
+      <tuv lang="en">
+        <seg>--config-file=&lt;path&gt;
+	  A Java .properties file from which to load default settings.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221022T151609Z" creationid="Kos Ivantsov" creationdate="20221022T151609Z">
+        <seg>--config-file=&lt;шлях&gt;
+		Java-файл «.properties» з налаштуваннями, які будуть використані при запуску програми.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en">
         <seg>--disable-location-save
 		Do not remember the last directory opened in the file picker.</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="lesia" changedate="20200708T095823Z" creationid="Kos Ivantsov" creationdate="20190419T180341Z">
+        <seg>--disable-location-save
+		Не запам’ятовувати останню теку, яка була відкрита у діалозі вибору файлів.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM:[generic]</prop>
+      <tuv lang="en">
+        <seg>--disable-location-save
+	  Do not remember the last directory opened in the file picker.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221022T151544Z" creationid="Kos Ivantsov" creationdate="20221022T151544Z">
         <seg>--disable-location-save
 		Не запам’ятовувати останню теку, яка була відкрита у діалозі вибору файлів.</seg>
       </tuv>
