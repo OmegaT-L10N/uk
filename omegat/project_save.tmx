@@ -10561,6 +10561,14 @@ project_save.tmx не був переданий на віддалений сер
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Each translated user guide comes in a different language folder.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221024T121122Z" creationid="Kos Ivantsov" creationdate="20221024T121122Z">
+        <seg>Кожна перекладена версія посібника розміщена в окремій теці, назва якої збігається з кодом мови.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Ed&amp;it</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20190808T125841Z" creationid="Kos Ivantsov" creationdate="20190808T125841Z">
@@ -25939,6 +25947,14 @@ The scope of a search is by default the project and can be set to be any files l
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>See Preferences – &lt;l0/&gt; for details.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221024T121325Z" creationid="Kos Ivantsov" creationdate="20221024T121325Z">
+        <seg>Докладніше дивіться у розділі Параметри — &lt;l0/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>See additional references and examples below.</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="lesia" changedate="20200719T043832Z" creationid="maximo" creationdate="20200412T044556Z">
@@ -29662,6 +29678,38 @@ instead.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The folder where distributed scripts are located.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221024T121351Z" creationid="Kos Ivantsov" creationdate="20221024T121351Z">
+        <seg>Тека, в якій зберігаються скрипти, що розповсюджуються разом із програмою.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The folder where images used by OmegaT are stored.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221024T121201Z" creationid="Kos Ivantsov" creationdate="20221024T121201Z">
+        <seg>Тека, в якій зберігаються зображення, що використовуються в OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The folder where the libraries used by OmegaT are stored.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221024T121225Z" creationid="Kos Ivantsov" creationdate="20221024T121225Z">
+        <seg>Тека, в якій зберігаються файли бібліотек, що використовуються в OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The folder where you can install external plugins.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221024T121256Z" creationid="Kos Ivantsov" creationdate="20221024T121256Z">
+        <seg>Тека, в яку можна встановлювати зовнішні плагіни.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The following example for the INI file reserves 1 GB of memory, requests French as the user language and Canada as the country:</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="lesia" changedate="20200708T101641Z" creationid="maximo" creationdate="20200418T130825Z">
@@ -29934,6 +29982,14 @@ in /lib/licenses/Licenses.txt.</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221024T121013Z" creationid="Kos Ivantsov" creationdate="20221024T121013Z">
         <seg>Перелік тих, хто брав участь у розробці програми.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The list of libraries used by OmegaT.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221024T121137Z" creationid="Kos Ivantsov" creationdate="20221024T121137Z">
+        <seg>Перелік бібліотек, використаних в OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
@@ -38391,6 +38447,14 @@ create its configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>images/</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221024T121139Z" creationid="Kos Ivantsov" creationdate="20221024T121139Z">
+        <seg>images/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>images/InstantGuide_1.png</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20190823T145428Z" creationid="Kos Ivantsov" creationdate="20190823T145428Z">
@@ -38573,6 +38637,22 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="maximo" changedate="20200704T182155Z" creationid="maximo" creationdate="20200704T182155Z">
         <seg>ліве вирівнювання</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>lib/</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221024T121202Z" creationid="Kos Ivantsov" creationdate="20221024T121202Z">
+        <seg>lib/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>libraries.txt</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221024T121126Z" creationid="Kos Ivantsov" creationdate="20221024T121126Z">
+        <seg>libraries.txt</seg>
       </tuv>
     </tu>
     <tu>
@@ -39026,6 +39106,14 @@ create its configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>plugins/</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221024T121227Z" creationid="Kos Ivantsov" creationdate="20221024T121227Z">
+        <seg>plugins/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>projectAccessCurrentSourceDocumentMenuItem</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="maximo" changedate="20200607T165617Z" creationid="maximo" creationdate="20200607T165617Z">
@@ -39294,6 +39382,14 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="maximo" changedate="20200704T205445Z" creationid="maximo" creationdate="20200704T205445Z">
         <seg>збережіть файл у форматі ODT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>scripts/</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221024T121328Z" creationid="Kos Ivantsov" creationdate="20221024T121328Z">
+        <seg>scripts/</seg>
       </tuv>
     </tu>
     <tu>
