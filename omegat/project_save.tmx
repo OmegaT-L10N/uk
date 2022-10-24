@@ -21351,6 +21351,23 @@ installed on your system.</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">MT:[Google Translate (witout API key)]</prop>
+      <tuv lang="en">
+        <seg>OmegaT's distribution license.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221024T090306Z" creationid="Kos Ivantsov" creationdate="20221024T090306Z">
+        <seg>Ліцензія на розповсюдження OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>OmegaT's executable.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221024T090353Z" creationid="Kos Ivantsov" creationdate="20221024T090353Z">
+        <seg>Виконуваний файл OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>і тут також скрин</note>
       <tuv lang="en">
         <seg>OmegaT, however, will present this sentence in the following fashion:</seg>
@@ -21373,6 +21390,14 @@ installed on your system.</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20190823T144755Z" creationid="Kos Ivantsov" creationdate="20190823T144755Z">
         <seg>OmegaT.css</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>OmegaT.jar</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221024T090331Z" creationid="Kos Ivantsov" creationdate="20221024T090331Z">
+        <seg>OmegaT.jar</seg>
       </tuv>
     </tu>
     <tu>
@@ -25735,6 +25760,14 @@ The scope of a search is by default the project and can be set to be any files l
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>See &lt;l0/&gt; for details.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221024T114801Z" creationid="Kos Ivantsov" creationdate="20221024T114801Z">
+        <seg>Докладніше дивіться у розділі &lt;l0/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>See &lt;l0&gt;Dictionaries&lt;/l0&gt; for more on this subject.</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="fanja9" changedate="20200510T145901Z" creationid="fanja9" creationdate="20200510T145901Z">
@@ -28726,6 +28759,14 @@ current folder will be used instead.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The GPL version 3.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221024T090329Z" creationid="Kos Ivantsov" creationdate="20221024T090329Z">
+        <seg>Ліцензія GPL, версія 3.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The Glossary pane allows you to access your own collection of expressions and specialist terminology which you have built up in your glossary files.</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="maximo" changedate="20200702T160050Z" creationid="maximo" creationdate="20200503T053515Z">
@@ -29004,6 +29045,14 @@ Please try to correct the error and reload the project.</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="lesia" changedate="20200708T094046Z" creationid="maximo" creationdate="20200416T214139Z">
         <seg>Альтернатива — вводити переклад, ідентичний оригіналу.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The application folder contains the &lt;f0&gt;OmegaT.jar&lt;/f0&gt; application and a number of other important files.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221024T090027Z" creationid="Kos Ivantsov" creationdate="20221024T090027Z">
+        <seg>Тека програми містить програмний файл &lt;f0&gt;OmegaT.jar&lt;/f0&gt; та кілька інших важливих файлів.</seg>
       </tuv>
     </tu>
     <tu>
@@ -34367,6 +34416,14 @@ on line {1}, column {2}.</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="fanja9" changedate="20200713T144423Z" creationid="maximo" creationdate="20200329T200416Z">
         <seg>Розпакувати вміст файлу до теки проєкту «Dictionary», використовуючи утиліту untar (чи її еквівалент, на кшталт &lt;f0&gt;winrar&lt;/f0&gt; у Windows) .</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Used when launching OmegaT from the command line.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221024T090440Z" creationid="Kos Ivantsov" creationdate="20221024T090440Z">
+        <seg>Він використовується при запуску OmegaT з командного рядка.</seg>
       </tuv>
     </tu>
     <tu>
