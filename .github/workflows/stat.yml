@@ -1,0 +1,53 @@
+name: daily progress stat
+
+on:
+  schedule:
+    - cron: '3 0 * * *' # every night
+  workflow_dispatch:
+
+jobs:
+  check_latest:
+    runs-on: ubuntu-latest
+    name: check latest commit
+    outputs:
+      should_run: $${{ steps.should_run.outputs.should_run }}
+    steps:
+      - uses: actions/checkout@v3
+      - name: print latest commit
+        run: echo ${{ github.sha }}
+      - name: check latest commit less than a day
+        id: should_run
+        continue-on-error: true
+        run: |
+          test -z "$(git rev-list --after='24 hours' ${{ github.sha }})" && echo "should_run=false" >> $GITHUB_OUTPUT
+          exit 0
+
+  progress-translation:
+    runs-on: ubuntu-20.04
+    needs: check_latest
+    if: ${{ needs.check_latest.outputs.should_run != 'false' }}
+    name: Check translation progress
+    steps:
+      - uses: actions/checkout@v3
+      - name: make source and target directory
+        run: mkdir -p source target
+      - uses: actions/setup-java@v3
+        with:
+          java-version: 11
+          distribution: 'temurin'
+      - name: Prepare gradle config
+        run: |
+          echo "plugins { id 'org.omegat.gradle' version '1.5.9' }" > build.gradle
+          echo "omegat {version='5.7.1'" >> build.gradle
+          echo "projectDir='$rootDir'}" >> build.gradle
+        shell: bash
+      - name: Generate translation
+        uses: gradle/gradle-build-action@v2
+        with:
+          arguments: translate
+          gradle-version: 7.5.1
+      - name: Report coverage
+        uses: miurahr/omegat-stat@v1.2.14
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          min-coverage: 80.0
