@@ -26869,6 +26869,14 @@ The scope of a search is by default the project and can be set to be any files l
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Simple installation and running instructions.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221024T120913Z" creationid="Kos Ivantsov" creationdate="20221024T120913Z">
+        <seg>Прості інструкції зі встановлення та запуску програми.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Simple search and replace script</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20190823T142630Z" creationid="Kos Ivantsov" creationdate="20190823T142630Z">
@@ -29486,6 +29494,14 @@ instead.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The documentation folder.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221024T120925Z" creationid="Kos Ivantsov" creationdate="20221024T120925Z">
+        <seg>Тека з документацією.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The documents are opened by the application chosen by the operating system.</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="maximo" changedate="20200425T145352Z" creationid="maximo" creationdate="20200425T145352Z">
@@ -29910,6 +29926,14 @@ in /lib/licenses/Licenses.txt.</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221024T114830Z" creationid="Kos Ivantsov" creationdate="20221024T114830Z">
         <seg>Перелік покращень та виправлених помилок.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The list of individual contributors.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221024T121013Z" creationid="Kos Ivantsov" creationdate="20221024T121013Z">
+        <seg>Перелік тих, хто брав участь у розробці програми.</seg>
       </tuv>
     </tu>
     <tu>
@@ -37439,6 +37463,14 @@ create its configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>docs/</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221024T120914Z" creationid="Kos Ivantsov" creationdate="20221024T120914Z">
+        <seg>docs/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>done ({0} ms elapsed)</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20190808T092830Z" creationid="Kos Ivantsov" creationdate="20190422T215513Z">
@@ -37683,6 +37715,14 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="maximo" changedate="20200413T170417Z" creationid="maximo" creationdate="20200413T170417Z">
         <seg>uk</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>en/</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221024T121015Z" creationid="Kos Ivantsov" creationdate="20221024T121015Z">
+        <seg>en/</seg>
       </tuv>
     </tu>
     <tu>
