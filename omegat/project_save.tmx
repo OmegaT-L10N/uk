@@ -30402,6 +30402,14 @@ in /lib/licenses/Licenses.txt.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The project conversion was failed.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221024T132103Z" creationid="Kos Ivantsov" creationdate="20221024T132103Z">
+        <seg>Не вдалося здійснити конвертацію проєкту.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The project default writable glossary is always a TSV file saved in UTF-8 encoding.</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20210514T191700Z" creationid="Kos Ivantsov" creationdate="20210514T191700Z">
