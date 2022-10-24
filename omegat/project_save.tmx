@@ -18985,8 +18985,8 @@ itself on the first run.</seg>
       <tuv lang="en">
         <seg>Mine</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20190807T183013Z" creationid="Kos Ivantsov" creationdate="20190807T183013Z">
-        <seg>Ваша версія</seg>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221024T132022Z" creationid="Kos Ivantsov" creationdate="20190807T183013Z">
+        <seg>Ваша версіяц</seg>
       </tuv>
     </tu>
     <tu>
@@ -31723,6 +31723,14 @@ the server.</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="Asus" changedate="20200618T042332Z" creationid="maximo" creationdate="20200412T194759Z">
         <seg>У цьому діалоговому вікні перераховані доступні фільтри файлів.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This document is the official user guide to OmegaT, the free Computer Aided Translation tool.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221024T121932Z" creationid="Kos Ivantsov" creationdate="20221024T121838Z">
+        <seg>Цей документ — офіційний посібник користувача OmegaT, вільної системи автоматизованого перекладу.</seg>
       </tuv>
     </tu>
     <tu>
