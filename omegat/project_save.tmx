@@ -4058,6 +4058,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>A link to the support page.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221024T115020Z" creationid="Kos Ivantsov" creationdate="20221024T115020Z">
+        <seg>Посилання на сторінку підтримки.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>A list of possible arguments is given below.</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="maximo" changedate="20200420T202456Z" creationid="maximo" creationdate="20200420T202456Z">
@@ -7218,6 +7226,14 @@ Buy another drink</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="maximo" changedate="20200708T053959Z" creationid="maximo" creationdate="20200329T200918Z">
         <seg>Для цього зайдіть у &lt;m0&gt;&lt;g5&gt;Проєкт&lt;/g5&gt; &lt;g6&gt;Властивості&lt;/g6&gt; (&lt;s1&gt;&lt;k2&gt; &lt;k3&gt;Ctrl&lt;/k3&gt; &lt;k4&gt;E&lt;/k4&gt;&lt;/k2&gt;&lt;/s1&gt;)&lt;/m0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Check it if you need information on OmegaT's evolution.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221024T114940Z" creationid="Kos Ivantsov" creationdate="20221024T114940Z">
+        <seg>Інформацію про розвиток OmegaT слід шукати саме в цьому файлі.</seg>
       </tuv>
     </tu>
     <tu>
@@ -29462,6 +29478,14 @@ instead.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The documentation distribution license.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221024T114952Z" creationid="Kos Ivantsov" creationdate="20221024T114952Z">
+        <seg>Ліцензія на розповсюдження документації.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The documents are opened by the application chosen by the operating system.</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="maximo" changedate="20200425T145352Z" creationid="maximo" creationdate="20200425T145352Z">
@@ -29779,6 +29803,15 @@ But others await</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">MT:[Google Translate (witout API key)]</prop>
+      <tuv lang="en">
+        <seg>The index to the multilingual user guide.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221024T115008Z" creationid="Kos Ivantsov" creationdate="20221024T115008Z">
+        <seg>Покажчик до багатомовного посібника користувача.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en">
         <seg>The install program can create shortcuts for you in the start menu, on the
 desktop and in the quick launch area.</seg>
@@ -29869,6 +29902,14 @@ in /lib/licenses/Licenses.txt.</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="Asus" changedate="20200722T133607Z" creationid="maximo" creationdate="20200503T052638Z">
         <seg>Рядок із відсотком збігу також показує назву файлу тієї пам’яті перекладів, з якої взято цей збіг.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The list of improvements and bug fixes.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221024T114830Z" creationid="Kos Ivantsov" creationdate="20221024T114830Z">
+        <seg>Перелік покращень та виправлених помилок.</seg>
       </tuv>
     </tu>
     <tu>
