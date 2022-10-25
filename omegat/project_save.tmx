@@ -5045,6 +5045,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>All terms in a segment with a match in &lt;e0&gt;any&lt;/e0&gt; of the glossaries will be displayed in the &lt;l1/&gt; pane.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221025T055742Z" creationid="Kos Ivantsov" creationdate="20221025T055742Z">
+        <seg>Якщо у поточному сегменті присутні терміни, що містяться у &lt;e0&gt;будь-якому&lt;/e0&gt; з наявних глосаріїв, вони будуть показані в області &lt;l1/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>All the changes will be synchronised the next time a connection is available.</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="lesia" changedate="20200708T102547Z" creationid="maximo" creationdate="20200704T203416Z">
@@ -27456,6 +27464,14 @@ The scope of a search is by default the project and can be set to be any files l
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Source terms can be multi-word expressions.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221025T055808Z" creationid="Kos Ivantsov" creationdate="20221025T055808Z">
+        <seg>Терміни мовою оригіналу можуть складатися з кількох слів.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Source text of the match</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="maximo" changedate="20200417T082115Z" creationid="maximo" creationdate="20200417T082046Z">
@@ -30482,6 +30498,15 @@ in /lib/licenses/Licenses.txt.</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM:[generic]</prop>
+      <tuv lang="en">
+        <seg>The project glossary</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221025T055832Z" creationid="Kos Ivantsov" creationdate="20221025T055832Z">
+        <seg>Глосарій проєкту</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en">
         <seg>The project in the example is evidently finished, as all the unique segments have been translated.</seg>
       </tuv>
@@ -31251,6 +31276,14 @@ in /lib/licenses/Licenses.txt.</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="lesia" changedate="20200708T094124Z" creationid="maximo" creationdate="20200419T102310Z">
         <seg>Тоді після вибору потрібного меню додайте підменю/елемент за допомогою підменю &lt;e0&gt;Файл — Новий&lt;/e0&gt; та &lt;e1&gt;Файл — Новий елемент&lt;/e1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>There are 2 kinds of glossary files:</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221025T055828Z" creationid="Kos Ivantsov" creationdate="20221025T055828Z">
+        <seg>Файли глосаріїв можуть бути двох типів:</seg>
       </tuv>
     </tu>
     <tu>
