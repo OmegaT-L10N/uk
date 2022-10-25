@@ -16919,6 +16919,14 @@ click on that shortcut.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>It is called the &lt;e1&gt;writable&lt;/e1&gt; glossary for this reason.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221025T060013Z" creationid="Kos Ivantsov" creationdate="20221025T060013Z">
+        <seg>З цієї причини цей глосарій називається глосарієм &lt;e1&gt;для запису&lt;/e1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>It is consequently able to use the huge range of free spelling dictionaries available for these applications.</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="fanja9" changedate="20200719T193420Z" creationid="maximo" creationdate="20200411T103712Z">
@@ -36354,6 +36362,14 @@ can then launch the Kaptain launch script with:</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>You can also access it with &lt;l0/&gt;, open it in a text editor and modify it.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221025T060105Z" creationid="Kos Ivantsov" creationdate="20221025T060105Z">
+        <seg>Його можна відкрити також за допомогою &lt;l0/&gt;. Файл відкриється у текстовому редакторі, де його можна буде змінити.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>You can also add source files from Internet pages, written in MediaWiki, by clicking on&lt;g3&gt; "Import from MediaWiki"&lt;/g3&gt; button and providing the corresponding URL.</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="lesia" changedate="20200708T095823Z" creationid="lesia" creationdate="20200429T202829Z">
@@ -36745,6 +36761,14 @@ installation script (linux-install.sh).</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="maximo" changedate="20200704T181942Z" creationid="maximo" creationdate="20200704T181942Z">
         <seg>Перемикатися між варіантами вирівнювання можна клавіатурною комбінацією &lt;k0&gt; &lt;k1&gt;Shift&lt;/k1&gt; &lt;k2&gt;Ctrl&lt;/k2&gt; &lt;k3&gt;O&lt;/k3&gt; &lt;/k0&gt; (зверніть увагу, що це буква O, а не нуль).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You can use &lt;l0/&gt; to enter new terms in this glossary.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221025T055943Z" creationid="Kos Ivantsov" creationdate="20221025T055943Z">
+        <seg>Для запису нових термінів до цього глосарія можна використати &lt;l0/&gt;.</seg>
       </tuv>
     </tu>
     <tu>
