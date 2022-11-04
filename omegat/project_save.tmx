@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.8.0_0_4b095d65b" segtype="sentence" srclang="en"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.8.0_0_42b698037" segtype="sentence" srclang="en"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -5789,6 +5789,14 @@ may experience unexpected, but correct behaviour.</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="lesia" changedate="20200708T095823Z" creationid="lesia" creationdate="20200322T145919Z">
         <seg>Однак, як і у випадку із розробками, що приходять зі спільноти, будь-які зміни в OmegaT повинні бути корисними для програми та її користувачів.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Assign &amp;shortcut</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221104T161552Z" creationid="Kos Ivantsov" creationdate="20221104T161552Z">
+        <seg>Призначити комбінацію клавіш</seg>
       </tuv>
     </tu>
     <tu>
@@ -13194,6 +13202,14 @@ provided (omegat.kaptn).</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Global External Searches</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221104T161614Z" creationid="Kos Ivantsov" creationdate="20221104T161614Z">
+        <seg>Глобальний зовнішній пошук</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Global spell checking</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20190822T220055Z" creationid="Kos Ivantsov" creationdate="20190822T220055Z">
@@ -18181,6 +18197,14 @@ itself on the first run.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Local External Searches</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221104T161708Z" creationid="Kos Ivantsov" creationdate="20221104T161708Z">
+        <seg>Зовнішній пошук для поточного проєкту</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Local File/Folder</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20190504T135745Z" creationid="Kos Ivantsov" creationdate="20190504T135745Z">
@@ -18201,6 +18225,15 @@ itself on the first run.</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20190821T135933Z" creationid="Kos Ivantsov" creationdate="20190821T135933Z">
         <seg>Локальний шлях установки:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM:[generic]</prop>
+      <tuv lang="en">
+        <seg>Local project commands are disabled for security reasons.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221104T161721Z" creationid="Kos Ivantsov" creationdate="20221104T161721Z">
+        <seg>Команди, визначені лише для проєкту, вимкнуті з міркувань безпеки.</seg>
       </tuv>
     </tu>
     <tu>
@@ -18786,6 +18819,15 @@ itself on the first run.</seg>
         <seg>Master Password:</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20190820T125900Z" creationid="Kos Ivantsov" creationdate="20190820T125900Z">
+        <seg>Головний пароль:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM:[generic]</prop>
+      <tuv lang="en">
+        <seg>Master password:</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221104T161030Z" creationid="Kos Ivantsov" creationdate="20221104T161030Z">
         <seg>Головний пароль:</seg>
       </tuv>
     </tu>
@@ -20097,6 +20139,15 @@ as the Applications folder.</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="lesia" changedate="20200321T125704Z" creationid="lesia" creationdate="20200321T125704Z">
         <seg>Можна не лише безкоштовно користуватися кодом програми, але й робити його копії та поширювати їх.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM:[generic]</prop>
+      <tuv lang="en">
+        <seg>Not set</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221104T161024Z" creationid="Kos Ivantsov" creationdate="20221104T161024Z">
+        <seg>Не встановлено</seg>
       </tuv>
     </tu>
     <tu>
@@ -26681,6 +26732,15 @@ The scope of a search is by default the project and can be set to be any files l
         <seg>Set &amp; Stored</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20190821T125730Z" creationid="Kos Ivantsov" creationdate="20190821T125730Z">
+        <seg>Установлено та збережено</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM:[generic]</prop>
+      <tuv lang="en">
+        <seg>Set &amp; stored</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221104T161039Z" creationid="Kos Ivantsov" creationdate="20221104T161039Z">
         <seg>Установлено та збережено</seg>
       </tuv>
     </tu>
