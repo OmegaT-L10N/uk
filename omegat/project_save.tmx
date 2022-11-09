@@ -25971,6 +25971,14 @@ The scope of a search is by default the project and can be set to be any files l
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>See &lt;l0/&gt; if you want to modify or add shortcuts.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221109T143423Z" creationid="Kos Ivantsov" creationdate="20221109T143423Z">
+        <seg>Інформацію про те, як змінити або додати комбінації клавіш, шукайте у розділі &lt;l0/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>See &lt;l0&gt;Dictionaries&lt;/l0&gt; for more on this subject.</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="fanja9" changedate="20200510T145901Z" creationid="fanja9" creationdate="20200510T145901Z">
