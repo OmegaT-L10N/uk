@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.8.0_0_42b698037" segtype="sentence" srclang="en"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.8.0_0_2a6151eb0" segtype="sentence" srclang="en"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -7475,6 +7475,14 @@ Buy another drink</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="lesia" changedate="20200322T150627Z" creationid="lesia" creationdate="20200322T150627Z">
         <seg>Перевіряє мовні помилки (граматичні, стилістичні та ін.).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Checks to see if a newer version of OmegaT is available.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221109T075818Z" creationid="Kos Ivantsov" creationdate="20221109T075818Z">
+        <seg>Перевірити, чи вийшла новіша версія OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
@@ -22141,6 +22149,15 @@ installed on your system.</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM:[generic]</prop>
+      <tuv lang="en">
+        <seg>Opens this guide in the default browser.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221109T081734Z" creationid="Kos Ivantsov" creationdate="20221109T081734Z">
+        <seg>Відкрити цей посібник у стандартному браузері.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en">
         <seg>Opens this manual in the default browser.</seg>
       </tuv>
@@ -34737,6 +34754,14 @@ on line {1}, column {2}.</seg>
       <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20190808T091422Z" creationid="Kos Ivantsov" creationdate="20190808T091422Z">
         <seg>Корисні посилання
 =================</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>User Guide... &lt;k0&gt;&lt;k1&gt;F1&lt;/k1&gt;&lt;/k0&gt;</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221109T081726Z" creationid="Kos Ivantsov" creationdate="20221109T081726Z">
+        <seg>Посібник користувача... &lt;k0&gt;&lt;k1&gt;F1&lt;/k1&gt;&lt;/k0&gt;</seg>
       </tuv>
     </tu>
     <tu>
