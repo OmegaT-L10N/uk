@@ -25408,6 +25408,14 @@ These words: 'Page not found'</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Run OmegaT" in the user guide.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221111T153228Z" creationid="Kos Ivantsov" creationdate="20221111T153140Z">
+        <seg>Запуск OmegaT» у посібнику користувача.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Run script on slot #{0}.</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20190807T214225Z" creationid="Kos Ivantsov" creationdate="20190422T215430Z">
@@ -26070,6 +26078,14 @@ The scope of a search is by default the project and can be set to be any files l
       </tuv>
       <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20190420T180628Z" creationid="Kos Ivantsov" creationdate="20190420T180628Z">
         <seg>Дивіться «Розділ 3.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>See "How To...</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221111T153109Z" creationid="Kos Ivantsov" creationdate="20221111T153109Z">
+        <seg>Докладніше дивіться у розділі «Практичні рекомендації...</seg>
       </tuv>
     </tu>
     <tu>
