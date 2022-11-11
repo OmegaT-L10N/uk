@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.8.0_0_55dca6155" segtype="sentence" srclang="en"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.8.0_0_454f9f984" segtype="sentence" srclang="en"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -1911,6 +1911,24 @@ To add files to the project, click on the Copy Files to Source Folder... button 
 	   and then use Project &gt; Reload to reload the project.</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221111T161719Z" creationid="Kos Ivantsov" creationdate="20221111T160448Z">
+        <seg>- перетягнути потрібні файли на цю область редагування;
+	- вибрати пункт «Додати файли...» у меню «Проєкт»;
+	- Відкрити вікно «Файли для перекладу» (меню «Проєкт» &gt; «Файли для перекладу»)
+	  та натиснути кнопку «Додати файли...»;
+	- за допомогою файлового менеджера скопіювати потрібні файли до теки для файлів для перекладу
+	  та перезавантажити проєкт (пункт «Перезавантажити проєкт» в меню «Проєкт»).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM:[generic]</prop>
+      <tuv lang="en">
+        <seg>- drag and drop files on this pane,
+	- use Project &gt; Add Files...,
+	- use Project &gt; Source Files... and click on Add Files...
+	- or use your file manager to copy files to the 'source' folder,
+	  and then use Project &gt; Reload to reload the project.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221111T205214Z" creationid="Kos Ivantsov" creationdate="20221111T205214Z">
         <seg>- перетягнути потрібні файли на цю область редагування;
 	- вибрати пункт «Додати файли...» у меню «Проєкт»;
 	- Відкрити вікно «Файли для перекладу» (меню «Проєкт» &gt; «Файли для перекладу»)
