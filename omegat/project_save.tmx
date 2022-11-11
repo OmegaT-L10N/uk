@@ -1904,6 +1904,23 @@ To add files to the project, click on the Copy Files to Source Folder... button 
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>- drag and drop files on this pane,
+	- use Project &gt; Add Files...,
+	- use Project &gt; Source Files... and click on Add Files...
+	- or use your file manager to copy files to the 'source' folder,
+	   and then use Project &gt; Reload to reload the project.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221111T161233Z" creationid="Kos Ivantsov" creationdate="20221111T160448Z">
+        <seg>- перетягнути потрібні файли на цю область редагування;
+	- вибрати пункт «Додати файли...» у меню «Проєкт»;
+	- Відкрити вікно «Файли для перекладу» (меню «Проєкт» &gt; «Файли для перекладу»)
+	    та натиснути кнопку «Додати файли...»;
+	- за допомогою файлового менеджера скопіювати потрібні файли до теки для файлів для перекладу
+	    та перезавантажити проєкт (пункт «Перезавантажити проєкт» в меню «Проєкт»).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>---- Localization Notes ----</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="lesia" changedate="20200708T095823Z" creationid="Kos Ivantsov" creationdate="20190504T132428Z">
@@ -4670,6 +4687,14 @@ The current setting is {0}MB;</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20190504T135627Z" creationid="Kos Ivantsov" creationdate="20190504T135627Z">
         <seg>Додати</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Add &amp;Files...</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221111T155420Z" creationid="Kos Ivantsov" creationdate="20221111T155420Z">
+        <seg>Додати файли...</seg>
       </tuv>
     </tu>
     <tu>
@@ -21966,6 +21991,14 @@ installed on your system.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Op&amp;en Recent...</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221111T155254Z" creationid="Kos Ivantsov" creationdate="20221111T155254Z">
+        <seg>В&amp;ідкрити останні...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Open</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="maximo" changedate="20200405T184508Z" creationid="maximo" creationdate="20200405T184508Z">
@@ -32807,6 +32840,14 @@ the server.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>To add files to the project you can:</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221111T160452Z" creationid="Kos Ivantsov" creationdate="20221111T160435Z">
+        <seg>Додати файли до проєкту можна одним з таких способів:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>To add new terms to reference glossaries, edit them in an external text editor.</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20210514T081958Z" creationid="Kos Ivantsov" creationdate="20210514T081958Z">
@@ -37220,6 +37261,14 @@ window to be able to launch it from any location.</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="lesia" changedate="20200704T204607Z" creationid="lesia" creationdate="20200704T204607Z">
         <seg>Вказувати ці параметри потрібно лише щоб обійти деякі виключення.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You project does not seem to contain translatable files.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221111T160348Z" creationid="Kos Ivantsov" creationdate="20221111T160207Z">
+        <seg>Відкритий проєкт не містить файлів для перекладу, які підтримуються програмою.</seg>
       </tuv>
     </tu>
     <tu>
