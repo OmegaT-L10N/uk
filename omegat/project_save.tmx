@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.8.0_0_e41dab626" segtype="sentence" srclang="en"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.8.0_0_55dca6155" segtype="sentence" srclang="en"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -2578,6 +2578,14 @@ To add files to the project, click on the Copy Files to Source Folder... button 
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>1) Reduce the number of files in the source folder;</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221111T152506Z" creationid="Kos Ivantsov" creationdate="20221111T152450Z">
+        <seg>1) зменшити кількість файлів у теці для файлів для перекладу;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>1) Reduce the number of source files and translate in batches;</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20190421T150527Z" creationid="Kos Ivantsov" creationdate="20190420T180358Z">
@@ -2612,6 +2620,14 @@ The current setting is {0}MB;</seg>
 «java -Xmx&lt;обсяг-у-МБ&gt;M -jar OmegaT.jar» у командному рядку
 чи стартовому скрипті OmegaT.
 Наразі виділено пам’яті для OmegaT: {0}МБ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>2) Increase the amount of memory available to OmegaT.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221111T152558Z" creationid="Kos Ivantsov" creationdate="20221111T152558Z">
+        <seg>2) збільшити обсяг пам’яті, доступої для OmegaTю</seg>
       </tuv>
     </tu>
     <tu>
@@ -27662,8 +27678,8 @@ The scope of a search is by default the project and can be set to be any files l
       <tuv lang="en">
         <seg>Source folder {0} does not exist.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20190807T191146Z" creationid="Kos Ivantsov" creationdate="20190807T191146Z">
-        <seg>Тека для файлів оригіналу {0} не існує.</seg>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221111T152500Z" creationid="Kos Ivantsov" creationdate="20190807T191146Z">
+        <seg>Тека для файлів для перекладу {0} не існує.</seg>
       </tuv>
     </tu>
     <tu>
