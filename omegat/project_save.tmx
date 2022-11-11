@@ -1981,6 +1981,17 @@ To add files to the project, click on the Copy Files to Source Folder... button 
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM:[generic]</prop>
+      <tuv lang="en">
+        <seg>--config-dir=&lt;path&gt;
+	  The directory used to read or write OmegaT configuration files.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221111T135504Z" creationid="Kos Ivantsov" creationdate="20221111T135504Z">
+        <seg>--config-dir=&lt;шлях&gt;
+	  Тека для читання та запису файлів із налаштуваннями OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en">
         <seg>--config-file=&lt;p2&gt;/path/to/config-file/&lt;/p2&gt; \</seg>
       </tuv>
@@ -2036,6 +2047,17 @@ To add files to the project, click on the Copy Files to Source Folder... button 
       <tuv lang="uk-UA" changeid="lesia" changedate="20200708T095823Z" creationid="Kos Ivantsov" creationdate="20190419T175647Z">
         <seg>--disable-project-locking
 		Не намагатися блокувати файл проєкту «omegat.project».</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM:[generic]</prop>
+      <tuv lang="en">
+        <seg>--disable-project-locking
+	  Do not attempt to lock the omegat.project file.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221111T135330Z" creationid="Kos Ivantsov" creationdate="20221111T135330Z">
+        <seg>--disable-project-locking
+	  Не намагатися блокувати файл проєкту «omegat.project».</seg>
       </tuv>
     </tu>
     <tu>
@@ -2267,6 +2289,16 @@ To add files to the project, click on the Copy Files to Source Folder... button 
       <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221022T155944Z" creationid="Kos Ivantsov" creationdate="20221022T151649Z">
         <seg>--resource-bundle=&lt;шлях&gt;
 	  Java-файл «.properties», який бути використаний для локалізації інтерфейсу.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>--resource-bundle=&lt;path&gt;
+	  A Java .properties file to use for the interface text</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221111T135609Z" creationid="Kos Ivantsov" creationdate="20221111T135609Z">
+        <seg>--resource-bundle=&lt;шлях&gt;
+	  Файл «.properties» Java, який буде використаний для локалізації інтерфейсу.</seg>
       </tuv>
     </tu>
     <tu>
