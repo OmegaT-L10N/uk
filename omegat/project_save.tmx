@@ -1910,13 +1910,13 @@ To add files to the project, click on the Copy Files to Source Folder... button 
 	- or use your file manager to copy files to the 'source' folder,
 	   and then use Project &gt; Reload to reload the project.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221111T161233Z" creationid="Kos Ivantsov" creationdate="20221111T160448Z">
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221111T161719Z" creationid="Kos Ivantsov" creationdate="20221111T160448Z">
         <seg>- перетягнути потрібні файли на цю область редагування;
 	- вибрати пункт «Додати файли...» у меню «Проєкт»;
 	- Відкрити вікно «Файли для перекладу» (меню «Проєкт» &gt; «Файли для перекладу»)
-	    та натиснути кнопку «Додати файли...»;
+	  та натиснути кнопку «Додати файли...»;
 	- за допомогою файлового менеджера скопіювати потрібні файли до теки для файлів для перекладу
-	    та перезавантажити проєкт (пункт «Перезавантажити проєкт» в меню «Проєкт»).</seg>
+	  та перезавантажити проєкт (пункт «Перезавантажити проєкт» в меню «Проєкт»).</seg>
       </tuv>
     </tu>
     <tu>
@@ -14993,6 +14993,14 @@ their defaults as a result of the location change.</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="maximo" changedate="20200423T160017Z" creationid="maximo" creationdate="20200423T160017Z">
         <seg>Якщо цей параметр не передати, всі файли будуть оброблені.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If the project contains files but their content is not displayed here:</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221111T161650Z" creationid="Kos Ivantsov" creationdate="20221111T161650Z">
+        <seg>Якщо проєкт містить файли, але тут не показано їхній вміст,</seg>
       </tuv>
     </tu>
     <tu>
