@@ -2014,9 +2014,10 @@ To add files to the project, click on the Copy Files to Source Folder... button 
         <seg>--config-file=&lt;path&gt;
 	  A Java .properties file from which to load default settings.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221022T155934Z" creationid="Kos Ivantsov" creationdate="20221022T151609Z">
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221111T140622Z" creationid="Kos Ivantsov" creationdate="20221022T151609Z">
         <seg>--config-file=&lt;шлях&gt;
-	  Java-файл «.properties» з налаштуваннями, які будуть використані при запуску програми.</seg>
+	  Файл «.properties» Java з налаштуваннями,
+	  які будуть використані при запуску програми.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2091,6 +2092,17 @@ To add files to the project, click on the Copy Files to Source Folder... button 
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>--mode=[console mode name]
+	  Specify a mode other than the GUI default.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221111T141041Z" creationid="Kos Ivantsov" creationdate="20221111T140407Z">
+        <seg>--mode=[назва консольного режиму]
+	  Запустити OmegaT у режимі, відмінному від типового
+	  (типовим режимом є робота з графічним інтерфейсом).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>--mode=[console-translate|console-pseudotranslatetmx|console-align]
 		Specify a mode other than default (GUI).</seg>
       </tuv>
@@ -2127,6 +2139,19 @@ To add files to the project, click on the Copy Files to Source Folder... button 
       </tuv>
       <tuv lang="uk-UA" changeid="lesia" changedate="20200708T095823Z" creationid="lesia" creationdate="20200702T190319Z">
         <seg>--mode=console-createpseudotranslatetmx</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>--mode=console-createpseudotranslatetmx
+	  --pseudotranslatetmx=&lt;path&gt;
+	    The output pseudotranslated TMX file.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221111T141239Z" creationid="Kos Ivantsov" creationdate="20221111T141239Z">
+        <seg>--mode=console-createpseudotranslatetmx
+	  (Режим створення у консолі файлу TMX з псевдоперекладом)
+	  --pseudotranslatetmx=&lt;шлях&gt;
+	    Вихідний файл TMX, що міститиме псевдопереклад.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2234,6 +2259,19 @@ To add files to the project, click on the Copy Files to Source Folder... button 
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM:[generic]</prop>
+      <tuv lang="en">
+        <seg>--pseudotranslatetype=[equal|empty]
+	    What to put in the pseudotranslated TMX.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221111T141257Z" creationid="Kos Ivantsov" creationdate="20221111T141257Z">
+        <seg>--pseudotranslatetype=[equal|empty]
+	    Параметр, яким регулюється вміст псевдоперекладеного файлу TMX.
+	    equal (однаковий переклад): підставити текст оригіналу замість перекладу.
+	    empty (порожній переклад): залишити переклад без тексту.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en">
         <seg>--quiet
 	  Reduce output to command line stdout.</seg>
@@ -2296,9 +2334,10 @@ To add files to the project, click on the Copy Files to Source Folder... button 
         <seg>--resource-bundle=&lt;path&gt;
 	  A Java .properties file to use for the interface text</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221111T135609Z" creationid="Kos Ivantsov" creationdate="20221111T135609Z">
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221111T140725Z" creationid="Kos Ivantsov" creationdate="20221111T135609Z">
         <seg>--resource-bundle=&lt;шлях&gt;
-	  Файл «.properties» Java, який буде використаний для локалізації інтерфейсу.</seg>
+	  Файл «.properties» Java,
+	  який буде використаний для локалізації інтерфейсу.</seg>
       </tuv>
     </tu>
     <tu>
