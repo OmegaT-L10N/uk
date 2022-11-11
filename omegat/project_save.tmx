@@ -2187,6 +2187,25 @@ To add files to the project, click on the Copy Files to Source Folder... button 
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>--mode=console-stats
+	  project_path
+	    The path to the project
+	  --output-file=[stats-output-file]
+	    Prints to the specified file, or to standard output
+	    if no file is given or the option is not used.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221111T141458Z" creationid="Kos Ivantsov" creationdate="20221111T141458Z">
+        <seg>--mode=console-stats
+	  (Режим виведення статистики у консоль)
+	  &lt;шлях до проєкту&gt;
+	    Шлях до проєкту
+	  --output-file=[&lt;файл виведення статистики&gt;]
+	    Статистика буде виведена у вказаний файл або у стандартний вивід,
+	    якщо цей параметр відсутній або файл не вказано.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>--mode=console-translate</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="lesia" changedate="20200708T095823Z" creationid="lesia" creationdate="20200702T190318Z">
@@ -2382,6 +2401,17 @@ To add files to the project, click on the Copy Files to Source Folder... button 
 	    Specifies the output format.</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221022T162541Z" creationid="Kos Ivantsov" creationdate="20221022T162244Z">
+        <seg>--stats-type=[xml|text|txt|json]
+	    Формат виводу.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM:[generic]</prop>
+      <tuv lang="en">
+        <seg>--stats-type=[xml|text|txt|json]
+	    Specifies the output format.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221111T141507Z" creationid="Kos Ivantsov" creationdate="20221111T141507Z">
         <seg>--stats-type=[xml|text|txt|json]
 	    Формат виводу.</seg>
       </tuv>
@@ -14290,6 +14320,16 @@ not be entered.)</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If --stats-type is not specified, the format is
+	    detected from the file extension.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221111T141529Z" creationid="Kos Ivantsov" creationdate="20221111T141529Z">
+        <seg>Якщо відсутній параметр --stats-type,
+	    формат буде визначено з розширення вказаного файлу.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If &lt;e0&gt;Show Relevant Suggestions Automatically&lt;/e0&gt; option is checked, Auto-completer is launched automatically by typing the first letter of a translated glossary entry, or by typing "&lt;" in case of tags.</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="lesia" changedate="20200708T091334Z" creationid="maximo" creationdate="20200416T100027Z">
@@ -21395,8 +21435,8 @@ be launched.</seg>
       <tuv lang="en">
         <seg>OmegaT ran out of memory and will close when you click OK.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221109T085314Z" creationid="Kos Ivantsov" creationdate="20221109T085314Z">
-        <seg>Недостатньо пам’яті для OmegaT, програма буде закрита, коли ви натиснете «Гаразд».</seg>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221111T142826Z" creationid="Kos Ivantsov" creationdate="20221109T085314Z">
+        <seg>Недостатньо пам’яті для OmegaT, програма буде закрита після того, як буде натиснуто «Гаразд».</seg>
       </tuv>
     </tu>
     <tu>
@@ -23187,6 +23227,14 @@ additional steps need to be taken.</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="maximo" changedate="20200614T164245Z" creationid="maximo" creationdate="20200614T164245Z">
         <seg>Portavita</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Possible solutions:</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221111T142840Z" creationid="Kos Ivantsov" creationdate="20221111T142755Z">
+        <seg>Можливі варіанти усунення проблеми:</seg>
       </tuv>
     </tu>
     <tu>
