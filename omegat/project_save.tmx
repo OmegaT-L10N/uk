@@ -29091,6 +29091,14 @@ The scope of a search is by default the project and can be set to be any files l
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Target segment status</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221112T170536Z" creationid="Kos Ivantsov" creationdate="20221112T170536Z">
+        <seg>Статус перекладеного сегменту</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Target shorter</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20190822T221355Z" creationid="Kos Ivantsov" creationdate="20190822T221355Z">
@@ -35063,6 +35071,14 @@ The current setting is {0}MB;</seg>
 java -Xmx&lt;обсяг-у-МБ&gt;M -jar OmegaT.jar
 у командному рядку чи стартовому скрипті OmegaT.
 Наразі виділено пам’яті для OmegaT: {0}МБ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Use "needs-review-translation" instead of "translated"</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221112T170557Z" creationid="Kos Ivantsov" creationdate="20221112T170557Z">
+        <seg>Використовувати «needs-review-translation», а не на «translated»</seg>
       </tuv>
     </tu>
     <tu>
