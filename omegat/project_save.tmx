@@ -28087,6 +28087,14 @@ The scope of a search is by default the project and can be set to be any files l
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Sort by target term length</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221112T183857Z" creationid="Kos Ivantsov" creationdate="20221112T183857Z">
+        <seg>Сортувати за довжиною перекладених термінів</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Sort fuzzy matches by:</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20190805T185805Z" creationid="Kos Ivantsov" creationdate="20190805T185805Z">
@@ -35377,6 +35385,14 @@ java -Xmx&lt;обсяг-у-МБ&gt;M -jar OmegaT.jar
       </tuv>
       <tuv lang="uk-UA" changeid="lesia" changedate="20200425T153211Z" creationid="lesia" creationdate="20200425T153211Z">
         <seg>Використовуйте &lt;k0&gt; &lt;k1&gt;Shift&lt;/k1&gt; &lt;k2&gt;F3&lt;/k2&gt; &lt;/k0&gt; для циклічного перебирання серед чотирьох варіантів.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Use Create Glossary Entry in the Edit menu to add new entries.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221112T183822Z" creationid="Kos Ivantsov" creationdate="20221112T183822Z">
+        <seg>Для створення нових записів у глосарії слід вибрати пункт «Створення запису в глосарії» у меню «Редагування»</seg>
       </tuv>
     </tu>
     <tu>
