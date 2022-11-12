@@ -10301,6 +10301,12 @@ a description of how this error was produced.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>Alternative translations can be created even for segments that [currently] don't have repetitions</note>
+      <tuv lang="en">
+        <seg>Displays alternative translations you have created for repeated segments in the project.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en">
         <seg>Displays comments in the active segment if they exist in the source file and the file filter supports it (e.g. PO-filter).</seg>
       </tuv>
