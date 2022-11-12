@@ -21067,6 +21067,14 @@ as the Applications folder.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>OmegaT automatically chose the 'Yes' option.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221112T110514Z" creationid="Kos Ivantsov" creationdate="20221112T110514Z">
+        <seg>Програмою OmegaT автоматично було обрано варіант «Так».</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>OmegaT automatically detects glossary files in this folder when a project is opened.</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20220830T180525Z" creationid="Kos Ivantsov" creationdate="20220830T180525Z">
@@ -30863,6 +30871,15 @@ in /lib/licenses/Licenses.txt.</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="maximo" changedate="20200503T060946Z" creationid="maximo" creationdate="20200503T060946Z">
         <seg>Проєкт із прикладу фактично завершений, оскільки всі унікальні сегменти вже були перекладені.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM:[generic]</prop>
+      <tuv lang="en">
+        <seg>The project is empty</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221112T105948Z" creationid="Kos Ivantsov" creationdate="20221112T105948Z">
+        <seg>Проєкт порожній</seg>
       </tuv>
     </tu>
     <tu>
