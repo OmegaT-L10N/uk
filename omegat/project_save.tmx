@@ -14797,6 +14797,18 @@ need not be entered.)</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If access to the desired location is granted later,
+that location will be used and all settings will be reset to
+their default values.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221112T184217Z" creationid="Kos Ivantsov" creationdate="20221112T184217Z">
+        <seg>Якщо згодом з’явиться доступ до потрібного розташування,
+то буде використовуватися саме воно, а всі налаштування
+скинуться до типових значень.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If an &lt;a0&gt;OmegaT&lt;/a0&gt; project contains one or more glossaries, any terms in the glossary which are also found in the current segment will be automatically displayed in the Glossary viewer.</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="maximo" changedate="20200607T152338Z" creationid="maximo" creationdate="20200404T170817Z">
@@ -38015,6 +38027,17 @@ window to be able to launch it from any location.</seg>
 create its configuration folder.</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20190820T170644Z" creationid="Kos Ivantsov" creationdate="20190820T170644Z">
+        <seg>Операційна система не дозволила OmegaT
+створити теку з налаштуваннями.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM:[generic]</prop>
+      <tuv lang="en">
+        <seg>Your operating system refused to let OmegaT
+create the configuration folder.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221112T184136Z" creationid="Kos Ivantsov" creationdate="20221112T184136Z">
         <seg>Операційна система не дозволила OmegaT
 створити теку з налаштуваннями.</seg>
       </tuv>
