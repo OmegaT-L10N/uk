@@ -15328,6 +15328,14 @@ their defaults as a result of the location change.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If there is a declaration, that encoding will be used regardless of the setting specified here.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221112T172705Z" creationid="Kos Ivantsov" creationdate="20221112T172705Z">
+        <seg>Якщо файл містить таке оголошення, то буде використане вказане кодування незалежно від вибраних тут налаштувань.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If there's no file name displayed, the source is the internal project translation memory.</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="fanja9" changedate="20200719T151937Z" creationid="maximo" creationdate="20200503T052721Z">
@@ -20894,6 +20902,15 @@ as the Applications folder.</seg>
         <seg>Note: Source File Encoding setting affects only the HTML files that have no encoding declaration inside.</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20190814T101540Z" creationid="Kos Ivantsov" creationdate="20190814T101540Z">
+        <seg>Примітка: налаштування кодування файлів для перекладу впливають лише на ті файли HTML, які не містять оголошення про кодування.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM:[generic]</prop>
+      <tuv lang="en">
+        <seg>Note: The Source File Encoding setting only affects HTML files with no encoding declaration.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221112T172557Z" creationid="Kos Ivantsov" creationdate="20221112T172557Z">
         <seg>Примітка: налаштування кодування файлів для перекладу впливають лише на ті файли HTML, які не містять оголошення про кодування.</seg>
       </tuv>
     </tu>
