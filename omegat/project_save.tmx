@@ -6165,6 +6165,14 @@ may experience unexpected, but correct behaviour.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Authenticated proxy credentials:</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221112T183358Z" creationid="Kos Ivantsov" creationdate="20221112T183358Z">
+        <seg>Облікові дані для автентифікації на проксі-сервері:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Authentication</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20190821T151604Z" creationid="Kos Ivantsov" creationdate="20190821T151604Z">
@@ -10239,6 +10247,14 @@ a description of how this error was produced.</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="maximo" changedate="20200423T183018Z" creationid="maximo" creationdate="20200423T183018Z">
         <seg>Показати копірайт, список учасників проєкту та інформацію про ліцензії.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Displays entries from in glossary files located in the /glossary/ folder if they are found in the source segment.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221112T183532Z" creationid="Kos Ivantsov" creationdate="20221112T183532Z">
+        <seg>У цій області показуються записи глосаріїв, розміщених у теці для глосаріїв (типово «glossary»), якщо відповідні збіги є у поточному сегменті.</seg>
       </tuv>
     </tu>
     <tu>
