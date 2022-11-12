@@ -4717,10 +4717,34 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Add Files to Source Folder...</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221112T114547Z" creationid="Kos Ivantsov" creationdate="20221112T114547Z">
+        <seg>Додати файли до теки для файлів для перекладу...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Add Glossary Entry</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="lesia" changedate="20200616T203841Z" creationid="Kos Ivantsov" creationdate="20190807T140514Z">
         <seg>Створити запис глосарія</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Add Online Media&amp;Wiki Page...</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221112T114647Z" creationid="Kos Ivantsov" creationdate="20221112T114647Z">
+        <seg>Додати онлайн-сторінку Media&amp;Wiki...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Add Online MediaWiki Page</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221112T114656Z" creationid="Kos Ivantsov" creationdate="20221112T114656Z">
+        <seg>Додати онлайн-сторінку MediaWiki</seg>
       </tuv>
     </tu>
     <tu>
@@ -12119,10 +12143,26 @@ Gossamer threads hold you back
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Failed to copy files</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221112T114740Z" creationid="Kos Ivantsov" creationdate="20221112T114740Z">
+        <seg>Не вдалося скопіювати файли</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Failed to create project!</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20190504T124212Z" creationid="Kos Ivantsov" creationdate="20190504T124212Z">
         <seg>Не вдалося створити проєкт!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Failed to download Mediawiki page</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221112T114727Z" creationid="Kos Ivantsov" creationdate="20221112T114727Z">
+        <seg>Не вдалося стягнути сторінку MediaWiki</seg>
       </tuv>
     </tu>
     <tu>
@@ -21933,6 +21973,15 @@ installed on your system.</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="lesia" changedate="20200708T102013Z" creationid="lesia" creationdate="20200322T131202Z">
         <seg>Справа в тому, що функція, яка вас цікавить, може бути вже реалізована або, навпаки, є об’єктивні причини, з яких її не виходить реалізувати. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[Google Translate (witout API key)]</prop>
+      <tuv lang="en">
+        <seg>Online Mediawiki Page URL</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221112T114709Z" creationid="Kos Ivantsov" creationdate="20221112T114709Z">
+        <seg>URL-адреса онлайн-сторінки Mediawiki</seg>
       </tuv>
     </tu>
     <tu>
