@@ -26245,14 +26245,6 @@ The scope of a search is by default the project and can be set to be any files l
     </tu>
     <tu>
       <tuv lang="en">
-        <seg>See &lt;l6/&gt; for details.</seg>
-      </tuv>
-      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221112T092514Z" creationid="Kos Ivantsov" creationdate="20221112T092514Z">
-        <seg>Докладніше дивіться у розділі &lt;l6/&gt;.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en">
         <seg>See &lt;m1&gt;&lt;g2&gt;Options&lt;/g2&gt;&lt;g3&gt;Preferences...&lt;/g3&gt;&lt;g4&gt;File Filters&lt;/g4&gt;&lt;/m1&gt; for a list of file formats that OmegaT can handle.</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="maximo" changedate="20200708T054334Z" creationid="Kos Ivantsov" creationdate="20190822T155451Z">
