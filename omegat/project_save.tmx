@@ -33441,6 +33441,17 @@ the server.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>This will
+delete your local data and re-download the project contents from
+the server.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221112T190219Z" creationid="Kos Ivantsov" creationdate="20221112T190219Z">
+        <seg>Локальні дані будуть видалені, а вміст проєкту
+буде знову стягнуто з сервера.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>This will create a full distribution of OmegaT in the &lt;f0&gt;./build/distributions&lt;/f0&gt; folder, where you will find a zip containing everything needed to run &lt;a1&gt;OmegaT&lt;/a1&gt;.</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="lesia" changedate="20200708T095823Z" creationid="maximo" creationdate="20200423T161714Z">
