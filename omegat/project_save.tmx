@@ -10416,6 +10416,14 @@ a description of how this error was produced.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>DocBook files must have a proper DOCTYPE declaration.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221112T170352Z" creationid="Kos Ivantsov" creationdate="20221112T170352Z">
+        <seg>У файлах DocBook має бути належне оголошення типу DOCTYPE.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Dock</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20190422T205548Z" creationid="Kos Ivantsov" creationdate="20190422T205548Z">
@@ -25824,6 +25832,15 @@ These words: 'Page not found'</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM:[generic]</prop>
+      <tuv lang="en">
+        <seg>SVG  / Adobe Illustrator Export</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221112T170223Z" creationid="Kos Ivantsov" creationdate="20221112T170223Z">
+        <seg>Файли зображень SVG та Adobe Illustrator Export</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en">
         <seg>SVG Image and Adobe Illustrator Export</seg>
       </tuv>
@@ -28950,6 +28967,14 @@ The scope of a search is by default the project and can be set to be any files l
       </tuv>
       <tuv lang="uk-UA" changeid="maximo" changedate="20200405T190429Z" creationid="maximo" creationdate="20200405T190429Z">
         <seg>Обробка теґів...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Tag handling compatibility</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221112T170507Z" creationid="Kos Ivantsov" creationdate="20221112T170507Z">
+        <seg>Сумісність обробки теґів</seg>
       </tuv>
     </tu>
     <tu>
@@ -36657,6 +36682,14 @@ Your page is not found</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20190706T131539Z" creationid="Kos Ivantsov" creationdate="20190706T131539Z">
         <seg>Файли Wordpress</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Wordpress XML export</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221112T170242Z" creationid="Kos Ivantsov" creationdate="20221112T170242Z">
+        <seg>Файли експорту Wordpress XML</seg>
       </tuv>
     </tu>
     <tu>
