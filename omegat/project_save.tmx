@@ -4583,6 +4583,15 @@ The current setting is {0}MB;</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM:[generic]</prop>
+      <tuv lang="en">
+        <seg>API key (optional)</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221112T184846Z" creationid="Kos Ivantsov" creationdate="20221112T184846Z">
+        <seg>Ключ API (необов’язково):</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en">
         <seg>API keys can be requested using &lt;u0&gt;API key request form&lt;/u0&gt;, and viewed on &lt;u1&gt;My Keys&lt;/u1&gt; page.</seg>
       </tuv>
@@ -11243,6 +11252,12 @@ project_save.tmx не був переданий на віддалений сер
       </tuv>
       <tuv lang="uk-UA" changeid="maximo" changedate="20200412T051954Z" creationid="maximo" creationdate="20200412T051954Z">
         <seg>X чи Y</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Java 1.6?</note>
+      <tuv lang="en">
+        <seg>Either update to the latest JDK 1.6, or remove the jaxb-*.jar files from the OmegaT /lib dir</seg>
       </tuv>
     </tu>
     <tu>
