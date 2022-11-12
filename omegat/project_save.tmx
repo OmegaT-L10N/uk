@@ -1221,6 +1221,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&amp;Reset Colour</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221112T191611Z" creationid="Kos Ivantsov" creationdate="20221112T191611Z">
+        <seg>Відновити типовий &amp;колір</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&amp;Reset Master Password</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20190820T125923Z" creationid="Kos Ivantsov" creationdate="20190820T125923Z">
