@@ -10305,6 +10305,9 @@ a description of how this error was produced.</seg>
       <tuv lang="en">
         <seg>Displays alternative translations you have created for repeated segments in the project.</seg>
       </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221112T185340Z">
+        <seg>Якщо для сегмента були створені варіанти перекладу, вони будуть показані в цій області.</seg>
+      </tuv>
     </tu>
     <tu>
       <tuv lang="en">
