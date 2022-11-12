@@ -15898,6 +15898,14 @@ click on that shortcut.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Ignore &amp;PO header</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221112T161242Z" creationid="Kos Ivantsov" creationdate="20221112T161242Z">
+        <seg>Пропустити заголовок файлу &amp;PO</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Ignore All</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20190820T184759Z" creationid="Kos Ivantsov" creationdate="20190820T184236Z">
@@ -17820,6 +17828,14 @@ itself on the first run.</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20190807T183038Z" creationid="Kos Ivantsov" creationdate="20190807T183038Z">
         <seg>Зберегти іншу</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Keep Unico&amp;de literals (\uXXXX)</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221112T161339Z" creationid="Kos Ivantsov" creationdate="20221112T161339Z">
+        <seg>Збе&amp;рігати літерали Юнікоду (\uXXXX)</seg>
       </tuv>
     </tu>
     <tu>
@@ -29724,6 +29740,22 @@ Please try to correct the error and reload the project.</seg>
       <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20190701T130145Z" creationid="Kos Ivantsov" creationdate="20190701T130145Z">
         <seg>Файл TMX не буде завантажено.
 Спробуйте виправити помилку та перезавантажити проєкт.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The TMX file will still be loaded.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221112T155107Z" creationid="Kos Ivantsov" creationdate="20221112T155107Z">
+        <seg>Файл TMX усе одно буде завантажено.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The TMX source language ({0}) differs from the project source language ({1}).</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221112T155140Z" creationid="Kos Ivantsov" creationdate="20221112T155140Z">
+        <seg>Мова оригіналу у файлі TMX ({0}) відрізняється від мови оригіналу, зазначеної у властивостях проєкту ({1}).</seg>
       </tuv>
     </tu>
     <tu>
