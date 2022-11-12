@@ -724,6 +724,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&amp;Force &lt;it pos="end"&gt; tags shortcut to "&lt;f &gt;"</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221112T171247Z" creationid="Kos Ivantsov" creationdate="20221112T171155Z">
+        <seg>Скоро&amp;чувати теґи &lt;it pos="end"&gt; до &lt;f&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&amp;Force shortcut to "f" for &lt;it pos="end"&gt; tags</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20190823T184621Z" creationid="Kos Ivantsov" creationdate="20190805T111007Z">
@@ -28983,6 +28991,14 @@ The scope of a search is by default the project and can be set to be any files l
       </tuv>
       <tuv lang="uk-UA" changeid="fanja9" changedate="20200719T144007Z" creationid="Kos Ivantsov" creationdate="20190517T142212Z">
         <seg>Назва теґу:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Tag shortcuts (do not apply to OmegaT 2.6 compatible files):</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221112T171240Z" creationid="Kos Ivantsov" creationdate="20221112T171240Z">
+        <seg>Скорочення теґів (не стосується файлів, сумісних з OmegaT 2.6):</seg>
       </tuv>
     </tu>
     <tu>
