@@ -1331,6 +1331,15 @@
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM:[generic]</prop>
+      <tuv lang="en">
+        <seg>&amp;Sentence case</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221112T120945Z" creationid="Kos Ivantsov" creationdate="20221112T120945Z">
+        <seg>&amp;Перше слово з великої літери</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en">
         <seg>&amp;Sheet Names</seg>
       </tuv>
@@ -1462,8 +1471,8 @@
       <tuv lang="en">
         <seg>&amp;Title Case</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20190807T104056Z" creationid="Kos Ivantsov" creationdate="20190807T104056Z">
-        <seg>&amp;Кожне слово з великої літери</seg>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221112T120952Z" creationid="Kos Ivantsov" creationdate="20190807T104056Z">
+        <seg>&amp;Кожне Слово З Великої Літери</seg>
       </tuv>
     </tu>
     <tu>
@@ -1488,6 +1497,14 @@
       </tuv>
       <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20190808T113540Z" creationid="Kos Ivantsov" creationdate="20190516T165501Z">
         <seg>Мова &amp;перекладу:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&amp;UPPER CASE</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221112T121004Z" creationid="Kos Ivantsov" creationdate="20221112T120904Z">
+        <seg>УСЕ У &amp;ВЕРХНЬОМУ РЕГІСТРІ</seg>
       </tuv>
     </tu>
     <tu>
@@ -1561,6 +1578,14 @@
       </tuv>
       <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20190421T152500Z" creationid="Kos Ivantsov" creationdate="20190421T152500Z">
         <seg>Глосарій для &amp;запису</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&amp;lower case</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221112T121028Z" creationid="Kos Ivantsov" creationdate="20221112T120857Z">
+        <seg>усе в &amp;нижньому регістрі</seg>
       </tuv>
     </tu>
     <tu>
