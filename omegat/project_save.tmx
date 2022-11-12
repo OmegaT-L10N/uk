@@ -8310,6 +8310,14 @@ Buy another drink</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Compress whitespace in translated file</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221112T174153Z" creationid="Kos Ivantsov" creationdate="20221112T174153Z">
+        <seg>Стискати про&amp;більні символи в перекладених файлах</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Con&amp;figure</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20190807T185452Z" creationid="Kos Ivantsov" creationdate="20190807T185452Z">
@@ -13609,6 +13617,14 @@ provided (omegat.kaptn).</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Global Segmentation Rules</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221112T174333Z" creationid="Kos Ivantsov" creationdate="20221112T174333Z">
+        <seg>Глобальні правила сегментації</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Global spell checking</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20190822T220055Z" creationid="Kos Ivantsov" creationdate="20190822T220055Z">
@@ -15324,6 +15340,15 @@ their defaults as a result of the location change.</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="maximo" changedate="20200423T160333Z" creationid="maximo" creationdate="20200423T160333Z">
         <seg>Якщо в інших теках є ще файли test.html, вони будуть проігноровані.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM:[generic]</prop>
+      <tuv lang="en">
+        <seg>If there is a declaration, that encoding  be used regardless of the setting specified here.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221112T174318Z" creationid="Kos Ivantsov" creationdate="20221112T174318Z">
+        <seg>Якщо файл містить таке оголошення, то буде використане вказане кодування незалежно від вибраних тут налаштувань.</seg>
       </tuv>
     </tu>
     <tu>
@@ -18678,6 +18703,14 @@ itself on the first run.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Local Segmentation Rules</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221112T174345Z" creationid="Kos Ivantsov" creationdate="20221112T174345Z">
+        <seg>Локальні правила сегментації</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Local file mapping:</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20210514T193210Z" creationid="Kos Ivantsov" creationdate="20210514T193210Z">
@@ -20911,6 +20944,14 @@ as the Applications folder.</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20190814T101540Z" creationid="Kos Ivantsov" creationdate="20190814T101540Z">
         <seg>Примітка: налаштування кодування файлів для перекладу впливають лише на ті файли HTML, які не містять оголошення про кодування.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Note: The Source File Encoding setting only affects HHC and HHK files with no encoding declaration.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221112T174257Z" creationid="Kos Ivantsov" creationdate="20221112T174257Z">
+        <seg>Примітка: налаштування кодування файлів для перекладу впливають лише на ті файли HHC та HHK, які не містять оголошення про кодування.</seg>
       </tuv>
     </tu>
     <tu>
@@ -25036,6 +25077,15 @@ These words: 'Page not found'</seg>
         <seg>Remove HTML comments in translated document</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20190822T134841Z" creationid="Kos Ivantsov" creationdate="20190808T143005Z">
+        <seg>Вилу&amp;чати коментарі HTML у перекладених документах</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM:[generic]</prop>
+      <tuv lang="en">
+        <seg>Remove HTML comments in translated file</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221112T174219Z" creationid="Kos Ivantsov" creationdate="20221112T174219Z">
         <seg>Вилу&amp;чати коментарі HTML у перекладених документах</seg>
       </tuv>
     </tu>
