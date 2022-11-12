@@ -860,6 +860,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&amp;Install new language...</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221112T184546Z" creationid="Kos Ivantsov" creationdate="20221112T184546Z">
+        <seg>Установити &amp;нову мову...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&amp;Jump To Segment</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20190821T125018Z" creationid="Kos Ivantsov" creationdate="20190821T125018Z">
@@ -6357,6 +6365,14 @@ may experience unexpected, but correct behaviour.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Available languages:</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221112T184311Z" creationid="Kos Ivantsov" creationdate="20221112T184311Z">
+        <seg>Доступні мови:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Available script engines:</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20190807T213232Z" creationid="Kos Ivantsov" creationdate="20190807T213232Z">
@@ -9637,6 +9653,14 @@ a description of how this error was produced.</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20190422T210018Z" creationid="Kos Ivantsov" creationdate="20190422T210018Z">
         <seg>Чеська</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>D&amp;elete</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221112T184555Z" creationid="Kos Ivantsov" creationdate="20221112T184555Z">
+        <seg>Ви&amp;лучити</seg>
       </tuv>
     </tu>
     <tu>
@@ -28472,6 +28496,14 @@ The scope of a search is by default the project and can be set to be any files l
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Spellcheck the tr&amp;anslation</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221112T184304Z" creationid="Kos Ivantsov" creationdate="20221112T184304Z">
+        <seg>&amp;Перевіряти правопис у перекладеному тексті</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Spellchecker</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20190820T184817Z" creationid="Kos Ivantsov" creationdate="20190820T184817Z">
@@ -28493,6 +28525,14 @@ The scope of a search is by default the project and can be set to be any files l
       </tuv>
       <tuv lang="uk-UA" changeid="maximo" changedate="20200411T110122Z" creationid="maximo" creationdate="20200411T110122Z">
         <seg>Налаштування перевірки правопису</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Spellchecking dictionaries location:</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221112T184524Z" creationid="Kos Ivantsov" creationdate="20221112T184524Z">
+        <seg>Розташування словників для перевірки правопису:</seg>
       </tuv>
     </tu>
     <tu>
@@ -34692,6 +34732,14 @@ Exact searches match the whole search string.</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="lesia" changedate="20200708T095823Z" creationid="Kos Ivantsov" creationdate="20190820T152721Z">
         <seg>Для URL-адреси не вказана ціль</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>URL of downloadable spellchecking dictionaries:</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221112T184619Z" creationid="Kos Ivantsov" creationdate="20221112T184619Z">
+        <seg>URL-адреса словників для перевірки правопису:</seg>
       </tuv>
     </tu>
     <tu>
