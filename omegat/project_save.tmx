@@ -8010,6 +8010,15 @@ Buy another drink</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM:[generic]</prop>
+      <tuv lang="en">
+        <seg>Close the search window.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221112T155001Z" creationid="Kos Ivantsov" creationdate="20221112T155001Z">
+        <seg>Закрийте вікно пошуку.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en">
         <seg>Co&amp;mments</seg>
       </tuv>
@@ -13341,6 +13350,15 @@ provided (omegat.kaptn).</seg>
         <seg>Full/Half &amp;width char insensitive</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20190516T182036Z" creationid="Kos Ivantsov" creationdate="20190516T182036Z">
+        <seg>Не розрізн&amp;яти повну/половинну ширину</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM:[generic]</prop>
+      <tuv lang="en">
+        <seg>Full/half-&amp;width char insensitive</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221112T154834Z" creationid="Kos Ivantsov" creationdate="20221112T154834Z">
         <seg>Не розрізн&amp;яти повну/половинну ширину</seg>
       </tuv>
     </tu>
@@ -19313,6 +19331,14 @@ itself on the first run.</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221022T133958Z" creationid="Kos Ivantsov" creationdate="20221022T133958Z">
         <seg>Збіги будуть показані напівжирним синім шрифтом.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Matching segments: {0}</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221112T155025Z" creationid="Kos Ivantsov" creationdate="20221112T155025Z">
+        <seg>Знайдено сегментів: {0}</seg>
       </tuv>
     </tu>
     <tu>
@@ -26315,8 +26341,8 @@ The scope of a search is by default the project and can be set to be any files l
       <tuv lang="en">
         <seg>Search thread died unexpectedly!</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20190517T104536Z" creationid="Kos Ivantsov" creationdate="20190517T104536Z">
-        <seg>Потік, у якому здійснювався пошуку, неочікувано перервався!</seg>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221112T154957Z" creationid="Kos Ivantsov" creationdate="20190517T104536Z">
+        <seg>Потік, у якому здійснювався пошук, неочікувано перервався!</seg>
       </tuv>
     </tu>
     <tu>
