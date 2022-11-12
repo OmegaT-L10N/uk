@@ -12686,6 +12686,15 @@ Gossamer threads hold you back
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM:[generic]</prop>
+      <tuv lang="en">
+        <seg>Folder exists and is not empty.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221112T153520Z" creationid="Kos Ivantsov" creationdate="20221112T153520Z">
+        <seg>Така тека вже існує і вона не порожня.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en">
         <seg>Folder {0} was automatically created for team mode project</seg>
       </tuv>
@@ -21315,6 +21324,15 @@ as the Applications folder.</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM:[generic]</prop>
+      <tuv lang="en">
+        <seg>OmegaT does not have read and write permissions for this folder.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221112T153531Z" creationid="Kos Ivantsov" creationdate="20221112T153531Z">
+        <seg>OmegaT не має у вказаній теці дозволів на читання та запис.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en">
         <seg>OmegaT does not have read and write permissions to this folder.</seg>
       </tuv>
@@ -26954,6 +26972,15 @@ The scope of a search is by default the project and can be set to be any files l
       </tuv>
       <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20190807T213419Z" creationid="Kos Ivantsov" creationdate="20190807T213419Z">
         <seg>Вибрати файл скрипту</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM:[generic]</prop>
+      <tuv lang="en">
+        <seg>Select a different folder.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221112T153523Z" creationid="Kos Ivantsov" creationdate="20221112T153523Z">
+        <seg>Виберіть іншу теку.</seg>
       </tuv>
     </tu>
     <tu>
