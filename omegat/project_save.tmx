@@ -22680,6 +22680,14 @@ your home folder.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Open it in the OmegaT GUI tTo convert it to the new format.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221112T190120Z" creationid="Kos Ivantsov" creationdate="20221112T190120Z">
+        <seg>Для конвертації у новий формат відкрийте проєкт у графічному інтерфейсі OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Open the &lt;f0&gt;.UTF8&lt;/f0&gt; file generated in the &lt;f1&gt;/target&lt;/f1&gt; folder.</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="lesia" changedate="20200708T104247Z" creationid="maximo" creationdate="20200425T142708Z">
@@ -32008,6 +32016,14 @@ in /lib/licenses/Licenses.txt.</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20190821T204348Z" creationid="Kos Ivantsov" creationdate="20190821T204348Z">
         <seg>Вибрані файли не підтримуються.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The specified project is an OmegaT 3.6 team project.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221112T190029Z" creationid="Kos Ivantsov" creationdate="20221112T190029Z">
+        <seg>Зазначений проєкт — це командний проєкт у форматі OmegaT 3.6.</seg>
       </tuv>
     </tu>
     <tu>
