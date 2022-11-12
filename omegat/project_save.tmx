@@ -8257,6 +8257,15 @@ Buy another drink</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM:[generic]</prop>
+      <tuv lang="en">
+        <seg>Completed and current translations saved as {0}</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221112T153000Z" creationid="Kos Ivantsov" creationdate="20221112T153000Z">
+        <seg>Готово. Поточні переклади збережено як {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en">
         <seg>Compress whitespace in translated document</seg>
       </tuv>
@@ -9102,6 +9111,14 @@ a description of how this error was produced.</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20190504T124052Z" creationid="Kos Ivantsov" creationdate="20190504T124052Z">
         <seg>Створення перекладених документів: {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Creating translated files: {0}</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221112T153010Z" creationid="Kos Ivantsov" creationdate="20221112T153010Z">
+        <seg>Створення перекладених файлів: {0}</seg>
       </tuv>
     </tu>
     <tu>
