@@ -508,6 +508,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&amp;Current Source File</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221112T120536Z" creationid="Kos Ivantsov" creationdate="20221112T120536Z">
+        <seg>Поточний файл для перекладу</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&amp;Cycle</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20190807T104144Z" creationid="Kos Ivantsov" creationdate="20190807T104144Z">
@@ -648,6 +656,14 @@
       </tuv>
       <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20220831T095040Z" creationid="Kos Ivantsov" creationdate="20220831T095040Z">
         <seg>Теку з експо&amp;ртованими файлами пам’яті</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&amp;Exported TMs</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221112T120528Z" creationid="Kos Ivantsov" creationdate="20221112T120528Z">
+        <seg>Теку з експортованими файлами пам’яті</seg>
       </tuv>
     </tu>
     <tu>
@@ -1528,6 +1544,15 @@
       </tuv>
       <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20190807T095257Z" creationid="Kos Ivantsov" creationdate="20190807T095257Z">
         <seg>&amp;Вигляд</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM:[generic]</prop>
+      <tuv lang="en">
+        <seg>&amp;Writable Glossary</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221112T120602Z" creationid="Kos Ivantsov" creationdate="20221112T120602Z">
+        <seg>Глосарій для &amp;запису</seg>
       </tuv>
     </tu>
     <tu>
@@ -6885,6 +6910,14 @@ Buy another drink</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>C&amp;urrent Target File</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221112T120545Z" creationid="Kos Ivantsov" creationdate="20221112T120545Z">
+        <seg>П&amp;оточний перекладений файл</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>C:\Program Files\OmegaT\</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221022T133555Z" creationid="Kos Ivantsov" creationdate="20221022T133555Z">
@@ -8755,10 +8788,26 @@ Buy another drink</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Create &amp;Translated Files</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221112T114750Z" creationid="Kos Ivantsov" creationdate="20221112T114750Z">
+        <seg>Створити перек&amp;ладені файли</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Create Alternative Translation</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20190422T215755Z" creationid="Kos Ivantsov" creationdate="20190422T215705Z">
         <seg>Створити варіант перекладу</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Create Current Translate&amp;d File</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221112T114802Z" creationid="Kos Ivantsov" creationdate="20221112T114802Z">
+        <seg>Створити перекладений поточний файл</seg>
       </tuv>
     </tu>
     <tu>
@@ -18431,6 +18480,14 @@ itself on the first run.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Local File &amp;Filters...</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221112T120321Z" creationid="Kos Ivantsov" creationdate="20221112T120321Z">
+        <seg>Локальні фільтри файлів...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Local File/Folder</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20190504T135745Z" creationid="Kos Ivantsov" creationdate="20190504T135745Z">
@@ -22642,6 +22699,14 @@ installed on your system.</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20190516T165054Z" creationid="Kos Ivantsov" creationdate="20190516T165054Z">
         <seg>Режим заміни</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>P&amp;roject Folder</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221112T120441Z" creationid="Kos Ivantsov" creationdate="20221112T120441Z">
+        <seg>Теку про&amp;єкту</seg>
       </tuv>
     </tu>
     <tu>
@@ -27684,6 +27749,14 @@ The scope of a search is by default the project and can be set to be any files l
       </tuv>
       <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20190822T091213Z" creationid="Kos Ivantsov" creationdate="20190819T194532Z">
         <seg>Сортувати за а&amp;беткою за термінами мовою перекладу</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Source &amp;Files...</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221112T120337Z" creationid="Kos Ivantsov" creationdate="20221112T120337Z">
+        <seg>Файли для перекладу...</seg>
       </tuv>
     </tu>
     <tu>
