@@ -33955,6 +33955,14 @@ linux-install.sh script, and execute the script with ./linux-install.sh.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Translated file created</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221112T153039Z" creationid="Kos Ivantsov" creationdate="20221112T153039Z">
+        <seg>Перекладений файл створено</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Translated file path cannot be identical to the source file path:
 {0}</seg>
       </tuv>
@@ -33968,6 +33976,14 @@ linux-install.sh script, and execute the script with ./linux-install.sh.</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="fanja9" changedate="20200719T144027Z" creationid="maximo" creationdate="20200412T202125Z">
         <seg>Назва перекладеного файлу</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Translated files created</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221112T153023Z" creationid="Kos Ivantsov" creationdate="20221112T153023Z">
+        <seg>Перекладені файли створено</seg>
       </tuv>
     </tu>
     <tu>
