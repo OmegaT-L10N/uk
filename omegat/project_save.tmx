@@ -8449,6 +8449,19 @@ Buy another drink</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Consult the documentation about your recovery options and
+return the information below to the software manufacturer with
+a description of how this error was produced.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221112T152937Z" creationid="Kos Ivantsov" creationdate="20221112T152937Z">
+        <seg>Варіанти відновлення подано в документації.
+Відправте виробнику програмного забезпечення
+наведену нижче інформацію та описання того,
+як сталася ця помилка.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Contact</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="maximo" changedate="20200322T165420Z" creationid="maximo" creationdate="20200322T165420Z">
@@ -27839,6 +27852,22 @@ The scope of a search is by default the project and can be set to be any files l
       </tuv>
       <tuv lang="uk-UA" changeid="fanja9" changedate="20200719T150149Z" creationid="Kos Ivantsov" creationdate="20190814T100900Z">
         <seg>Шаблон для назв файлів для перекладу:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Source Files ({0} of {1})</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221112T152832Z" creationid="Kos Ivantsov" creationdate="20221112T152832Z">
+        <seg>Файли для перекладу ({0} з {1})</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Source Files ({0})</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221112T152819Z" creationid="Kos Ivantsov" creationdate="20221112T152819Z">
+        <seg>Файли для перекладу ({0})</seg>
       </tuv>
     </tu>
     <tu>
