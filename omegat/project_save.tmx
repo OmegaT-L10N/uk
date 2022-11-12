@@ -1300,6 +1300,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&amp;Search...</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221112T121513Z" creationid="Kos Ivantsov" creationdate="20221112T121513Z">
+        <seg>&amp;Шукати...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&amp;Segment Number...</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20190807T121329Z" creationid="Kos Ivantsov" creationdate="20190420T155127Z">
@@ -25126,6 +25134,14 @@ These words: 'Page not found'</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20190516T181440Z" creationid="Kos Ivantsov" creationdate="20190516T181440Z">
         <seg>Замінити на:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Replace...</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221112T121519Z" creationid="Kos Ivantsov" creationdate="20221112T121519Z">
+        <seg>Зам&amp;інити...</seg>
       </tuv>
     </tu>
     <tu>
