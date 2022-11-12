@@ -4592,6 +4592,15 @@ The current setting is {0}MB;</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM:[generic]</prop>
+      <tuv lang="en">
+        <seg>API key:</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221112T184852Z" creationid="Kos Ivantsov" creationdate="20221112T184852Z">
+        <seg>Ключ API:</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en">
         <seg>API keys can be requested using &lt;u0&gt;API key request form&lt;/u0&gt;, and viewed on &lt;u1&gt;My Keys&lt;/u1&gt; page.</seg>
       </tuv>
