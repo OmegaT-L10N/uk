@@ -34859,6 +34859,14 @@ Exact searches match the whole search string.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Unable to commit because remote translation was changed.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221112T190012Z" creationid="Kos Ivantsov" creationdate="20221112T190012Z">
+        <seg>Не вдалося зафіксувати, оскільки була змінена віддалена версія перекладу.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Unable to connect to server.</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20191016T085053Z" creationid="Kos Ivantsov" creationdate="20191016T085024Z">
