@@ -3610,6 +3610,15 @@ The current setting is {0}MB;</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM:[generic]</prop>
+      <tuv lang="en">
+        <seg>&lt;html&gt;&lt;i&gt;Preferences&lt;/i&gt; &amp;gt; &lt;i&gt;General&lt;/i&gt; &amp;gt; &lt;i&gt;Use TAB to advance&lt;/i&gt; is checked&lt;/html&gt;</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221112T191644Z" creationid="Kos Ivantsov" creationdate="20221112T191644Z">
+        <seg>&lt;html&gt;Відмічено &lt;i&gt;«Використовувати TAB для переходу до наступного сегмента»&lt;/i&gt; (розділ &lt;i&gt;«Загальні налаштування»&lt;/i&gt;, меню &lt;i&gt;«Налаштування&lt;/i&gt; → &lt;i&gt;«Параметри»&lt;/i&gt;)&lt;/html&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en">
         <seg>&lt;html&gt;Add patterns using wildcards (Apache Ant format): &lt;code&gt;*&lt;/code&gt;, &lt;code&gt;?&lt;/code&gt;, &lt;code&gt;**&lt;/code&gt;&lt;br&gt;Example: &lt;code&gt;**/.svn/**&lt;/code&gt;&lt;/html&gt;</seg>
       </tuv>
