@@ -4406,6 +4406,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>A note is simply a remark about the source text or its translation.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221112T184102Z" creationid="Kos Ivantsov" creationdate="20221112T184102Z">
+        <seg>Примітка — це зауваження перекладача щодо тексту оригіналу або перекладу в сегменті.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>A number of interactive tools are available to develop and test regular expressions.</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="maximo" changedate="20200412T052124Z" creationid="maximo" creationdate="20200412T052124Z">
@@ -36130,6 +36138,15 @@ searchable without subscription:</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20190805T185421Z" creationid="Kos Ivantsov" creationdate="20190805T185421Z">
         <seg>Перегляд або редагування файлових фільтрів.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM:[generic]</prop>
+      <tuv lang="en">
+        <seg>View, add, remove or edit a note in the active segment.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221112T184036Z" creationid="Kos Ivantsov" creationdate="20221112T184036Z">
+        <seg>У цій області можна переглядати, додавати, вилучати або редагувати примітку до поточного сегмента.</seg>
       </tuv>
     </tu>
     <tu>
