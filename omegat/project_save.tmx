@@ -1091,6 +1091,15 @@
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM:[generic]</prop>
+      <tuv lang="en">
+        <seg>&amp;Preserve whitespace for all tags</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221112T171337Z" creationid="Kos Ivantsov" creationdate="20221112T171337Z">
+        <seg>Зберігати пробіли для всі&amp;х теґів</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en">
         <seg>&amp;Previous Segment</seg>
       </tuv>
@@ -4513,6 +4522,15 @@ The current setting is {0}MB;</seg>
         <seg>A&amp;ggregate Tags</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20190805T120745Z" creationid="Kos Ivantsov" creationdate="20190805T120728Z">
+        <seg>З’&amp;єднувати теґи</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM:[generic]</prop>
+      <tuv lang="en">
+        <seg>A&amp;ggregate tags</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221112T171329Z" creationid="Kos Ivantsov" creationdate="20221112T171329Z">
         <seg>З’&amp;єднувати теґи</seg>
       </tuv>
     </tu>
@@ -8784,6 +8802,15 @@ a description of how this error was produced.</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20211118T120114Z" creationid="Kos Ivantsov" creationdate="20211118T120114Z">
         <seg>Авторське право © 2000–2021 Кейт Ґодфрі, Максим Михальчук та інші</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM:[generic]</prop>
+      <tuv lang="en">
+        <seg>Copyright © 2000-2022 Keith Godfrey, Maxym Mykhalchuk and others</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221112T171414Z" creationid="Kos Ivantsov" creationdate="20221112T171414Z">
+        <seg>Авторське право © 2000–2022 Кейт Ґодфрі, Максим Михальчук та інші</seg>
       </tuv>
     </tu>
     <tu>
@@ -28389,6 +28416,15 @@ The scope of a search is by default the project and can be set to be any files l
         <seg>Start a New Paragraph &amp;on Word Soft Return</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20190823T184611Z" creationid="Kos Ivantsov" creationdate="20190805T121039Z">
+        <seg>Починати абзац на місці м’&amp;якого розриву рядка у Word</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM:[generic]</prop>
+      <tuv lang="en">
+        <seg>Start a new paragraph &amp;on Word soft-return</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221112T171349Z" creationid="Kos Ivantsov" creationdate="20221112T171349Z">
         <seg>Починати абзац на місці м’&amp;якого розриву рядка у Word</seg>
       </tuv>
     </tu>
