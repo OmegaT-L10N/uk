@@ -8381,6 +8381,15 @@ Buy another drink</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM:[generic]</prop>
+      <tuv lang="en">
+        <seg>Confirm deletion</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221112T184637Z" creationid="Kos Ivantsov" creationdate="20221112T184637Z">
+        <seg>Підтвердити видалення</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en">
         <seg>Confirm removal of pattern {0}</seg>
       </tuv>
@@ -9659,8 +9668,8 @@ a description of how this error was produced.</seg>
       <tuv lang="en">
         <seg>D&amp;elete</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221112T184555Z" creationid="Kos Ivantsov" creationdate="20221112T184555Z">
-        <seg>Ви&amp;лучити</seg>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221112T184649Z" creationid="Kos Ivantsov" creationdate="20221112T184555Z">
+        <seg>Вида&amp;лити</seg>
       </tuv>
     </tu>
     <tu>
