@@ -22682,8 +22682,8 @@ your home folder.</seg>
       <tuv lang="en">
         <seg>Open it in the OmegaT GUI tTo convert it to the new format.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221112T190120Z" creationid="Kos Ivantsov" creationdate="20221112T190120Z">
-        <seg>Для конвертації у новий формат відкрийте проєкт у графічному інтерфейсі OmegaT.</seg>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221112T190153Z" creationid="Kos Ivantsov" creationdate="20221112T190120Z">
+        <seg>Для перетворення у новий формат відкрийте проєкт у графічному інтерфейсі OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
@@ -24001,6 +24001,15 @@ project without team functionality.</seg>
       <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20190821T203913Z" creationid="Kos Ivantsov" creationdate="20190821T203913Z">
         <seg>Натисніть «Скасувати», щоб залишити проєкт без змін.
 Він буде завантажений як локальний проєкт без командних функцій.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM:[generic]</prop>
+      <tuv lang="en">
+        <seg>Press 'OK' to convert the project into a 4.x team project.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221112T190140Z" creationid="Kos Ivantsov" creationdate="20221112T190140Z">
+        <seg>Натисніть «Гаразд», щоб перетворити його на командний проєкт формату 4.x.</seg>
       </tuv>
     </tu>
     <tu>
