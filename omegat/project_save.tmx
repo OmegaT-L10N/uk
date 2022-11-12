@@ -28086,6 +28086,7 @@ The scope of a search is by default the project and can be set to be any files l
       </tuv>
     </tu>
     <tu>
+      <note>Fix in the source, Sentence case!</note>
       <tuv lang="en">
         <seg>Sort by target term length</seg>
       </tuv>
