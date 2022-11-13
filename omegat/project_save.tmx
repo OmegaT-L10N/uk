@@ -4882,6 +4882,15 @@ The current setting is {0}MB;</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM:[generic]</prop>
+      <tuv lang="en">
+        <seg>Add Online MediaWiki Pa&amp;ge...</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221113T204725Z" creationid="Kos Ivantsov" creationdate="20221113T204725Z">
+        <seg>Додати онлайн-сторінку Media&amp;Wiki...</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en">
         <seg>Add Online MediaWiki Page</seg>
       </tuv>
@@ -8127,6 +8136,15 @@ Buy another drink</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM:[generic]</prop>
+      <tuv lang="en">
+        <seg>Co&amp;mmit Source Files</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221113T205022Z" creationid="Kos Ivantsov" creationdate="20221113T205022Z">
+        <seg>Зафікс&amp;увати файли для перекладу</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en">
         <seg>Code has been contributed by:
 {0}</seg>
@@ -8150,6 +8168,15 @@ Buy another drink</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20190517T152241Z" creationid="Kos Ivantsov" creationdate="20190517T152241Z">
         <seg>Номер стовпця повинен дорівнювати 1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM:[generic]</prop>
+      <tuv lang="en">
+        <seg>Comm&amp;it Target Files</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221113T205031Z" creationid="Kos Ivantsov" creationdate="20221113T205031Z">
+        <seg>Зафі&amp;ксувати перекладені файли</seg>
       </tuv>
     </tu>
     <tu>
@@ -10547,6 +10574,15 @@ a description of how this error was produced.</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20190821T160337Z" creationid="Kos Ivantsov" creationdate="20190821T160337Z">
         <seg>Замінити його перетягнутим файлом?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM:[generic]</prop>
+      <tuv lang="en">
+        <seg>Do&amp;wnload Team Project...</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221113T204713Z" creationid="Kos Ivantsov" creationdate="20221113T204713Z">
+        <seg>Стягнути ко&amp;мандний проєкт...</seg>
       </tuv>
     </tu>
     <tu>
@@ -24830,6 +24866,14 @@ These words: 'Page not found'</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Re&amp;load</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221113T204812Z" creationid="Kos Ivantsov" creationdate="20221113T204812Z">
+        <seg>Перезаванта&amp;жити</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Re&amp;move Filter</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20190817T184220Z" creationid="Kos Ivantsov" creationdate="20190420T151659Z">
@@ -28136,6 +28180,14 @@ The scope of a search is by default the project and can be set to be any files l
       </tuv>
       <tuv lang="uk-UA" changeid="lesia" changedate="20200616T203841Z" creationid="lesia" creationdate="20200505T191146Z">
         <seg>Якщо термін стоятиме в сегменті не у називному відмінку, вставлену із глосарія пропозицію потрібно буде провідміняти.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>So&amp;urce Files...</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221113T205616Z" creationid="Kos Ivantsov" creationdate="20221113T205616Z">
+        <seg>Файли &amp;для перекладу...</seg>
       </tuv>
     </tu>
     <tu>
