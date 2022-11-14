@@ -6315,6 +6315,14 @@ may experience unexpected, but correct behaviour.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Auto &amp;replace plural specification</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221114T141317Z" creationid="Kos Ivantsov" creationdate="20221114T141317Z">
+        <seg>Автоматично замінювати специфікацію множини</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Auto replace 'nplurals=INTEGER; &amp;plural=EXPRESSION;' in header</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="lesia" changedate="20200708T102058Z" creationid="Kos Ivantsov" creationdate="20190701T155249Z">
@@ -20198,6 +20206,14 @@ itself on the first run.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Monolin&amp;gual</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221114T141356Z" creationid="Kos Ivantsov" creationdate="20221114T141356Z">
+        <seg>Одномовний</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Monolingual</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20190822T135421Z" creationid="Kos Ivantsov" creationdate="20190701T155309Z">
@@ -23459,6 +23475,15 @@ your home folder.</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="maximo" changedate="20200704T203644Z" creationid="maximo" creationdate="20200704T203644Z">
         <seg>Файли PDF особливі.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[Yandex Translate]</prop>
+      <tuv lang="en">
+        <seg>PDF text contents</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221114T141453Z" creationid="Kos Ivantsov" creationdate="20221114T141453Z">
+        <seg>Текстовий вміст PDF</seg>
       </tuv>
     </tu>
     <tu>
@@ -28426,6 +28451,14 @@ The scope of a search is by default the project and can be set to be any files l
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Skipped translation units for which no source segments were found.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221114T141236Z" creationid="Kos Ivantsov" creationdate="20221114T141236Z">
+        <seg>Пропущено одиниці перекладу, в яких не було знайдено сегментів мовою оригіналу.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Skipping previously loaded plugin from class '{0}'</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20190517T151847Z" creationid="Kos Ivantsov" creationdate="20190517T151847Z">
@@ -29098,6 +29131,14 @@ The scope of a search is by default the project and can be set to be any files l
       </tuv>
       <tuv lang="uk-UA" changeid="maximo" changedate="20200322T164306Z" creationid="maximo" creationdate="20200322T164306Z">
         <seg>Спонсори</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Standar&amp;d</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221114T141332Z" creationid="Kos Ivantsov" creationdate="20221114T141332Z">
+        <seg>Стандартний</seg>
       </tuv>
     </tu>
     <tu>
