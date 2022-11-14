@@ -52,7 +52,6 @@ spell checker	перевірка правопису
 spelling dictionary	орфографічний словник
 string	стрічка
 supplier	рушій, сервіс	... машинного перекладу
-tag	теґ	(пропонується - мітка)
 text box	текстове поле
 translated files	перекладені файли
 translation memory	памʼять перекладів	TM
@@ -75,3 +74,5 @@ How To	Практичні рекомендації	назва розділу
 Add Files	Додати файли	пункт меню
 XLIFF	XLIFF
 Create Glossary Entry	Створення запису в глосарії	пункт меню
+tag	тег	(пропонується - мітка)
+Check Issues	Пошука помилок	пункт меню
