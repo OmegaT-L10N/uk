@@ -7829,6 +7829,14 @@ Buy another drink</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Check whether this is intentional.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221114T095700Z" creationid="Kos Ivantsov" creationdate="20221114T095700Z">
+        <seg>Перевірте, чи це зроблено навмисно.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Check whole project</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20190822T220453Z" creationid="Kos Ivantsov" creationdate="20190822T220453Z">
@@ -32559,6 +32567,14 @@ in /lib/licenses/Licenses.txt.</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20190808T093231Z" creationid="Kos Ivantsov" creationdate="20190808T093231Z">
         <seg>В інтернеті є чимало плагінів для OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>There are no Git settings in the remote project file.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221114T095642Z" creationid="Kos Ivantsov" creationdate="20221114T095642Z">
+        <seg>У віддаленому файлі проєкту відсутні параметри Git.</seg>
       </tuv>
     </tu>
     <tu>
