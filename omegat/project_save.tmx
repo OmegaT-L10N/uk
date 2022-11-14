@@ -726,8 +726,8 @@
       <tuv lang="en">
         <seg>&amp;Force &lt;it pos="end"&gt; tags shortcut to "&lt;f &gt;"</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221112T171247Z" creationid="Kos Ivantsov" creationdate="20221112T171155Z">
-        <seg>Скоро&amp;чувати теґи &lt;it pos="end"&gt; до &lt;f&gt;</seg>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221114T095227Z" creationid="Kos Ivantsov" creationdate="20221112T171155Z">
+        <seg>Скоро&amp;чувати теги &lt;it pos="end"&gt; до &lt;f&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -814,8 +814,8 @@
       <tuv lang="en">
         <seg>&amp;Ignore type and ctype attributes when building &lt;ph&gt; tag shortcuts</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20190805T111205Z" creationid="Kos Ivantsov" creationdate="20190805T111205Z">
-        <seg>&amp;Ігнорувати атрибути type і ctype під час створення скорочень теґів &lt;ph&gt;</seg>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221114T095227Z" creationid="Kos Ivantsov" creationdate="20190805T111205Z">
+        <seg>&amp;Ігнорувати атрибути type і ctype під час створення скорочень тегів &lt;ph&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -1099,12 +1099,11 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">TM:[generic]</prop>
       <tuv lang="en">
         <seg>&amp;Preserve whitespace for all tags</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221112T171337Z" creationid="Kos Ivantsov" creationdate="20221112T171337Z">
-        <seg>Зберігати пробіли для всі&amp;х теґів</seg>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221114T095227Z" creationid="Kos Ivantsov" creationdate="20221112T171337Z">
+        <seg>Зберігати пробіли для всі&amp;х тегів</seg>
       </tuv>
     </tu>
     <tu>
@@ -1826,24 +1825,24 @@ To add files to the project, click on the Copy Files to Source Folder... button 
       <tuv lang="en">
         <seg>(close tag)</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20190517T142626Z" creationid="Kos Ivantsov" creationdate="20190517T142626Z">
-        <seg>(кінцевий теґ)</seg>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221114T095227Z" creationid="Kos Ivantsov" creationdate="20190517T142626Z">
+        <seg>(кінцевий тег)</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>(comment tag)</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20190517T142216Z" creationid="Kos Ivantsov" creationdate="20190517T142216Z">
-        <seg>(теґ коментаря)</seg>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221114T095227Z" creationid="Kos Ivantsov" creationdate="20190517T142216Z">
+        <seg>(тег коментаря)</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>(empty tag)</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20190517T142319Z" creationid="Kos Ivantsov" creationdate="20190517T142319Z">
-        <seg>(порожній теґ)</seg>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221114T095227Z" creationid="Kos Ivantsov" creationdate="20190517T142319Z">
+        <seg>(порожній тег)</seg>
       </tuv>
     </tu>
     <tu>
@@ -2565,9 +2564,9 @@ To add files to the project, click on the Copy Files to Source Folder... button 
         <seg>--tag-validation=[abort|warn]
 	  Validate tags.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221022T162820Z" creationid="Kos Ivantsov" creationdate="20221022T162820Z">
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221114T095227Z" creationid="Kos Ivantsov" creationdate="20221022T162820Z">
         <seg>--tag-validation=[abort|warn]
-	  Перевірка теґів.</seg>
+	  Перевірка тегів.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4574,12 +4573,11 @@ The current setting is {0}MB;</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">TM:[generic]</prop>
       <tuv lang="en">
         <seg>A&amp;ggregate tags</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221112T171329Z" creationid="Kos Ivantsov" creationdate="20221112T171329Z">
-        <seg>З’&amp;єднувати теґи</seg>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221114T095227Z" creationid="Kos Ivantsov" creationdate="20221112T171329Z">
+        <seg>З’&amp;єднувати теги</seg>
       </tuv>
     </tu>
     <tu>
@@ -4677,9 +4675,9 @@ The current setting is {0}MB;</seg>
       <tuv lang="en">
         <seg>Abort: Exit with an error if tags invalid.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221022T164224Z" creationid="Kos Ivantsov" creationdate="20190419T182105Z">
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221114T095227Z" creationid="Kos Ivantsov" creationdate="20190419T182105Z">
         <seg>
-	  abort (припинення роботи): вихід із помилкою, якщо є помилки у теґах.</seg>
+	  abort (припинення роботи): вихід із помилкою, якщо є помилки у тегах.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5447,16 +5445,16 @@ The current setting is {0}MB;</seg>
       <tuv lang="en">
         <seg>Allo&amp;w tag editing</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20190820T164044Z" creationid="Kos Ivantsov" creationdate="20190819T112340Z">
-        <seg>Дозво&amp;лити редагування теґів</seg>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221114T095227Z" creationid="Kos Ivantsov" creationdate="20190819T112340Z">
+        <seg>Дозво&amp;лити редагування тегів</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>Allow tag editing</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="maximo" changedate="20200412T201728Z" creationid="maximo" creationdate="20200412T201728Z">
-        <seg>Дозволити редагування теґів</seg>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221114T095227Z" creationid="maximo" creationdate="20200412T201728Z">
+        <seg>Дозволити редагування тегів</seg>
       </tuv>
     </tu>
     <tu>
@@ -5479,8 +5477,8 @@ The current setting is {0}MB;</seg>
       <tuv lang="en">
         <seg>Allow translated tags to be in a di&amp;fferent order</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20190820T165919Z" creationid="Kos Ivantsov" creationdate="20190813T111754Z">
-        <seg>Дозволити з&amp;мінювати порядок теґів у перекладі</seg>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221114T095227Z" creationid="Kos Ivantsov" creationdate="20190813T111754Z">
+        <seg>Дозволити з&amp;мінювати порядок тегів у перекладі</seg>
       </tuv>
     </tu>
     <tu>
@@ -7697,8 +7695,8 @@ Buy another drink</seg>
       <tuv lang="en">
         <seg>Check number of tags</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20190822T221013Z" creationid="Kos Ivantsov" creationdate="20190822T221013Z">
-        <seg>Шукати іншу кількість теґів у перекладі</seg>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221114T095227Z" creationid="Kos Ivantsov" creationdate="20190822T221013Z">
+        <seg>Шукати іншу кількість тегів у перекладі</seg>
       </tuv>
     </tu>
     <tu>
@@ -7945,8 +7943,8 @@ Buy another drink</seg>
       <tuv lang="en">
         <seg>Cleaning entry '{0}'...</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20190516T205406Z" creationid="Kos Ivantsov" creationdate="20190516T205406Z">
-        <seg>Вилучаються теґи в записі «{0}»...</seg>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221114T095227Z" creationid="Kos Ivantsov" creationdate="20190516T205406Z">
+        <seg>Вилучаються теги в записі «{0}»...</seg>
       </tuv>
     </tu>
     <tu>
@@ -8535,8 +8533,8 @@ Buy another drink</seg>
       <tuv lang="en">
         <seg>Confused by false start of comment tag!</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20190517T142203Z" creationid="Kos Ivantsov" creationdate="20190517T142203Z">
-        <seg>Помилковий початок теґу коментаря!</seg>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221114T095227Z" creationid="Kos Ivantsov" creationdate="20190517T142203Z">
+        <seg>Помилковий початок тегу коментаря!</seg>
       </tuv>
     </tu>
     <tu>
@@ -10292,8 +10290,8 @@ a description of how this error was produced.</seg>
       <tuv lang="en">
         <seg>Display &amp;tags</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20190819T112643Z" creationid="Kos Ivantsov" creationdate="20190819T112643Z">
-        <seg>Показувати &amp;теґи</seg>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221114T095227Z" creationid="Kos Ivantsov" creationdate="20190819T112643Z">
+        <seg>Показувати &amp;теги</seg>
       </tuv>
     </tu>
     <tu>
@@ -11760,8 +11758,8 @@ No one hears your screams</seg>
       <tuv lang="en">
         <seg>Error fixing tags</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20190821T155919Z" creationid="Kos Ivantsov" creationdate="20190821T155919Z">
-        <seg>Помилка виправлення теґів</seg>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221114T095227Z" creationid="Kos Ivantsov" creationdate="20190821T155919Z">
+        <seg>Помилка виправлення тегів</seg>
       </tuv>
     </tu>
     <tu>
@@ -12453,8 +12451,8 @@ Gossamer threads hold you back
       <tuv lang="en">
         <seg>Extraneous</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20190811T132736Z" creationid="Kos Ivantsov" creationdate="20190811T132736Z">
-        <seg>Зайвий теґ</seg>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221114T095227Z" creationid="Kos Ivantsov" creationdate="20190811T132736Z">
+        <seg>Зайвий тег</seg>
       </tuv>
     </tu>
     <tu>
@@ -12527,6 +12525,14 @@ Gossamer threads hold you back
       </tuv>
       <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20190504T124212Z" creationid="Kos Ivantsov" creationdate="20190504T124212Z">
         <seg>Не вдалося створити проєкт!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Failed to create the translated files!</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221114T094404Z" creationid="Kos Ivantsov" creationdate="20221114T094404Z">
+        <seg>Не вдалося створити перекладені файли!</seg>
       </tuv>
     </tu>
     <tu>
@@ -13601,8 +13607,8 @@ provided (omegat.kaptn).</seg>
       <tuv lang="en">
         <seg>Full text, including tags and numbers</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20190805T185906Z" creationid="Kos Ivantsov" creationdate="20190805T185906Z">
-        <seg>Повний текст, включно з теґами та числами</seg>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221114T095227Z" creationid="Kos Ivantsov" creationdate="20190805T185906Z">
+        <seg>Повний текст, включно з тегами та числами</seg>
       </tuv>
     </tu>
     <tu>
@@ -16245,8 +16251,8 @@ click on that shortcut.</seg>
       <tuv lang="en">
         <seg>Ignore type and ctype attributes when building &lt;&amp;bpt&gt; and &lt;ept&gt; tag shortcuts</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20190823T185041Z" creationid="Kos Ivantsov" creationdate="20190805T111256Z">
-        <seg>Ігнорувати ат&amp;рибути type і ctype під час створення скорочень теґів &lt;bpt&gt; і &lt;ept&gt;</seg>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221114T095227Z" creationid="Kos Ivantsov" creationdate="20190805T111256Z">
+        <seg>Ігнорувати ат&amp;рибути type і ctype під час створення скорочень тегів &lt;bpt&gt; і &lt;ept&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -17029,16 +17035,16 @@ click on that shortcut.</seg>
       <tuv lang="en">
         <seg>Insert Missing Source &amp;Tags</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20190807T104312Z" creationid="Kos Ivantsov" creationdate="20190421T171235Z">
-        <seg>Вставити всі пропу&amp;щені теґи</seg>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221114T095227Z" creationid="Kos Ivantsov" creationdate="20190421T171235Z">
+        <seg>Вставити всі пропу&amp;щені теги</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>Insert Missing Source Tags</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="maximo" changedate="20200405T185324Z" creationid="maximo" creationdate="20200405T185324Z">
-        <seg>Вставити всі пропущені теґи</seg>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221114T095227Z" creationid="maximo" creationdate="20200405T185324Z">
+        <seg>Вставити всі пропущені теги</seg>
       </tuv>
     </tu>
     <tu>
@@ -17053,8 +17059,8 @@ click on that shortcut.</seg>
       <tuv lang="en">
         <seg>Insert Next Missing Tag</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20190504T160815Z" creationid="Kos Ivantsov" creationdate="20190421T171619Z">
-        <seg>Вставити наступний пропущений теґ</seg>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221114T095227Z" creationid="Kos Ivantsov" creationdate="20190421T171619Z">
+        <seg>Вставити наступний пропущений тег</seg>
       </tuv>
     </tu>
     <tu>
@@ -17077,8 +17083,8 @@ click on that shortcut.</seg>
       <tuv lang="en">
         <seg>Insert Tag {0}</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20190421T171724Z" creationid="Kos Ivantsov" creationdate="20190421T171724Z">
-        <seg>Вставити теґ {0}</seg>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221114T095227Z" creationid="Kos Ivantsov" creationdate="20190421T171724Z">
+        <seg>Вставити тег {0}</seg>
       </tuv>
     </tu>
     <tu>
@@ -18147,8 +18153,8 @@ itself on the first run.</seg>
       <tuv lang="en">
         <seg>Keep tags in translated text</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20210414T143952Z" creationid="Kos Ivantsov" creationdate="20210414T143952Z">
-        <seg>Зберігати теґи в перекладеному тексті</seg>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221114T095227Z" creationid="Kos Ivantsov" creationdate="20210414T143952Z">
+        <seg>Зберігати теги в перекладеному тексті</seg>
       </tuv>
     </tu>
     <tu>
@@ -19900,16 +19906,16 @@ itself on the first run.</seg>
       <tuv lang="en">
         <seg>Missing</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20190811T132634Z" creationid="Kos Ivantsov" creationdate="20190811T132634Z">
-        <seg>Пропущений теґ</seg>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221114T095227Z" creationid="Kos Ivantsov" creationdate="20190811T132634Z">
+        <seg>Пропущений тег</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>Missing tags</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20190812T071114Z" creationid="Kos Ivantsov" creationdate="20190812T071114Z">
-        <seg>Пропущенні теґи</seg>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221114T095227Z" creationid="Kos Ivantsov" creationdate="20190812T071114Z">
+        <seg>Пропущенні теги</seg>
       </tuv>
     </tu>
     <tu>
@@ -20798,8 +20804,8 @@ as the Applications folder.</seg>
       <tuv lang="en">
         <seg>No tags and no numbers</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20190805T185848Z" creationid="Kos Ivantsov" creationdate="20190805T185848Z">
-        <seg>Без теґів та без чисел</seg>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221114T095227Z" creationid="Kos Ivantsov" creationdate="20190805T185848Z">
+        <seg>Без тегів та без чисел</seg>
       </tuv>
     </tu>
     <tu>
@@ -22096,6 +22102,14 @@ be launched.</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20190424T213354Z" creationid="Kos Ivantsov" creationdate="20190424T213354Z">
         <seg>Ліцензія OmegaT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>OmegaT needs to reload the project to take the modifications into account.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221114T093800Z" creationid="Kos Ivantsov" creationdate="20221114T093658Z">
+        <seg>Для застосування змін проєкт потрібно перезавантажити.</seg>
       </tuv>
     </tu>
     <tu>
@@ -24083,8 +24097,8 @@ additional steps need to be taken.</seg>
       <tuv lang="en">
         <seg>Preserve spaces &amp;for all tags</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20190807T105412Z" creationid="Kos Ivantsov" creationdate="20190807T105412Z">
-        <seg>Зберігати пробіли для всі&amp;х теґів</seg>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221114T095227Z" creationid="Kos Ivantsov" creationdate="20190807T105412Z">
+        <seg>Зберігати пробіли для всі&amp;х тегів</seg>
       </tuv>
     </tu>
     <tu>
@@ -25204,6 +25218,14 @@ These words: 'Page not found'</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Reload the project now?</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221114T093715Z" creationid="Kos Ivantsov" creationdate="20221114T093715Z">
+        <seg>Перезавантажити проєкт?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Reloads the project to take external changes in source files and project settings into account.</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="Asus" changedate="20200703T092657Z" creationid="maximo" creationdate="20200425T143414Z">
@@ -25350,8 +25372,8 @@ These words: 'Page not found'</seg>
       <tuv lang="en">
         <seg>Remove &amp;leading and trailing tags</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20190807T105313Z" creationid="Kos Ivantsov" creationdate="20190807T105313Z">
-        <seg>Видалити по&amp;чаткові та кінцеві теґи</seg>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221114T095227Z" creationid="Kos Ivantsov" creationdate="20190807T105313Z">
+        <seg>Видалити по&amp;чаткові та кінцеві теги</seg>
       </tuv>
     </tu>
     <tu>
@@ -25375,8 +25397,8 @@ These words: 'Page not found'</seg>
       <tuv lang="en">
         <seg>Remove OmegaT tags which have &lt;br&gt;lower case letter before and after it</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20190823T142855Z" creationid="Kos Ivantsov" creationdate="20190823T142855Z">
-        <seg>Видалити теґи OmegaT, &lt;br&gt;оточені малими літерами</seg>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221114T095227Z" creationid="Kos Ivantsov" creationdate="20190823T142855Z">
+        <seg>Видалити теги OmegaT, &lt;br&gt;оточені малими літерами</seg>
       </tuv>
     </tu>
     <tu>
@@ -25391,16 +25413,16 @@ These words: 'Page not found'</seg>
       <tuv lang="en">
         <seg>Remove Ta&amp;gs</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20190808T120909Z" creationid="Kos Ivantsov" creationdate="20190516T165810Z">
-        <seg>Вилучити &amp;теґи</seg>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221114T095227Z" creationid="Kos Ivantsov" creationdate="20190516T165810Z">
+        <seg>Вилучити &amp;теги</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>Remove Tags</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="lesia" changedate="20200412T202738Z" creationid="lesia" creationdate="20200412T202738Z">
-        <seg>Вилучити теґи</seg>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221114T095251Z" creationid="lesia" creationdate="20200412T202738Z">
+        <seg>Вилучити теги</seg>
       </tuv>
     </tu>
     <tu>
@@ -25487,8 +25509,8 @@ These words: 'Page not found'</seg>
       <tuv lang="en">
         <seg>Remove tags from DOCX documents</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20190516T205028Z" creationid="Kos Ivantsov" creationdate="20190516T205028Z">
-        <seg>Вилучити зайві теґи у файлах DOCX</seg>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221114T095227Z" creationid="Kos Ivantsov" creationdate="20190516T205028Z">
+        <seg>Вилучити зайві теги у файлах DOCX</seg>
       </tuv>
     </tu>
     <tu>
@@ -25625,8 +25647,8 @@ These words: 'Page not found'</seg>
       <tuv lang="en">
         <seg>Replace custom tags with space</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20190823T142753Z" creationid="Kos Ivantsov" creationdate="20190823T142753Z">
-        <seg>Замінити теґи користувача пробілами</seg>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221114T095227Z" creationid="Kos Ivantsov" creationdate="20190823T142753Z">
+        <seg>Замінити теги користувача пробілами</seg>
       </tuv>
     </tu>
     <tu>
@@ -26214,8 +26236,8 @@ These words: 'Page not found'</seg>
       <tuv lang="en">
         <seg>Running Tagwipe for file '{0}'</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20190516T205128Z" creationid="Kos Ivantsov" creationdate="20190516T205128Z">
-        <seg>Вилучення теґів у файлі «{0}»</seg>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221114T095227Z" creationid="Kos Ivantsov" creationdate="20190516T205128Z">
+        <seg>Вилучення тегів у файлі «{0}»</seg>
       </tuv>
     </tu>
     <tu>
@@ -28953,8 +28975,8 @@ The scope of a search is by default the project and can be set to be any files l
       <tuv lang="en">
         <seg>Stemming, no tags and no numbers</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20190805T185835Z" creationid="Kos Ivantsov" creationdate="20190805T185835Z">
-        <seg>Основи слів, без теґів і без чисел</seg>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221114T095227Z" creationid="Kos Ivantsov" creationdate="20190805T185835Z">
+        <seg>Основи слів, без тегів і без чисел</seg>
       </tuv>
     </tu>
     <tu>
@@ -29049,16 +29071,16 @@ The scope of a search is by default the project and can be set to be any files l
       <tuv lang="en">
         <seg>Strip Tags</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20190823T142509Z" creationid="Kos Ivantsov" creationdate="20190823T142509Z">
-        <seg>Прибрати теґи</seg>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221114T095227Z" creationid="Kos Ivantsov" creationdate="20190823T142509Z">
+        <seg>Прибрати теги</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>Strip tags in current segment</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20190823T142612Z" creationid="Kos Ivantsov" creationdate="20190823T142540Z">
-        <seg>Прибрати теґи з поточного сегмента</seg>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221114T095227Z" creationid="Kos Ivantsov" creationdate="20190823T142540Z">
+        <seg>Прибрати теги з поточного сегмента</seg>
       </tuv>
     </tu>
     <tu>
@@ -29442,16 +29464,16 @@ The scope of a search is by default the project and can be set to be any files l
       <tuv lang="en">
         <seg>Tag Issues</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20190807T185629Z" creationid="Kos Ivantsov" creationdate="20190807T185629Z">
-        <seg>Проблеми з теґами</seg>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221114T095227Z" creationid="Kos Ivantsov" creationdate="20190807T185629Z">
+        <seg>Проблеми з тегами</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>Tag Processing</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20190807T145852Z" creationid="Kos Ivantsov" creationdate="20190807T145852Z">
-        <seg>Обробка теґів</seg>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221114T095227Z" creationid="Kos Ivantsov" creationdate="20190807T145852Z">
+        <seg>Обробка тегів</seg>
       </tuv>
     </tu>
     <tu>
@@ -29474,32 +29496,32 @@ The scope of a search is by default the project and can be set to be any files l
       <tuv lang="en">
         <seg>Tag handling compatibility</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221112T170507Z" creationid="Kos Ivantsov" creationdate="20221112T170507Z">
-        <seg>Сумісність обробки теґів</seg>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221114T095227Z" creationid="Kos Ivantsov" creationdate="20221112T170507Z">
+        <seg>Сумісність обробки тегів</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>Tag name:</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="fanja9" changedate="20200719T144007Z" creationid="Kos Ivantsov" creationdate="20190517T142212Z">
-        <seg>Назва теґу:</seg>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221114T095227Z" creationid="Kos Ivantsov" creationdate="20190517T142212Z">
+        <seg>Назва тегу:</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>Tag shortcuts (do not apply to OmegaT 2.6 compatible files):</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221112T171240Z" creationid="Kos Ivantsov" creationdate="20221112T171240Z">
-        <seg>Скорочення теґів (не стосується файлів, сумісних з OmegaT 2.6):</seg>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221114T095227Z" creationid="Kos Ivantsov" creationdate="20221112T171240Z">
+        <seg>Скорочення тегів (не стосується файлів, сумісних з OmegaT 2.6):</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>Tag validation failed</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20190807T190907Z" creationid="Kos Ivantsov" creationdate="20190807T190907Z">
-        <seg>Не вдалося виконати перевірку теґів</seg>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221114T095227Z" creationid="Kos Ivantsov" creationdate="20190807T190907Z">
+        <seg>Не вдалося виконати перевірку тегів</seg>
       </tuv>
     </tu>
     <tu>
@@ -29546,8 +29568,8 @@ The scope of a search is by default the project and can be set to be any files l
       <tuv lang="en">
         <seg>Tagwipe finished, reloading project...</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20190516T205312Z" creationid="Kos Ivantsov" creationdate="20190516T205312Z">
-        <seg>Процес вилучення теґів закінчено, проєкт перезавантажується...</seg>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221114T095227Z" creationid="Kos Ivantsov" creationdate="20190516T205312Z">
+        <seg>Процес вилучення тегів закінчено, проєкт перезавантажується...</seg>
       </tuv>
     </tu>
     <tu>
@@ -34106,8 +34128,8 @@ the server.</seg>
       <tuv lang="en">
         <seg>To obtain more literal matches closer to 100%, select the &lt;g0&gt;Full text, including tags and numbers&lt;/g0&gt; option.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="maximo" changedate="20200417T081631Z" creationid="maximo" creationdate="20200417T081631Z">
-        <seg>Щоб мати більше буквальних збігів, які були б ближче до 100%, оберіть варіант &lt;g0&gt;Повний текст, включно з теґами та числами&lt;/g0&gt;.</seg>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221114T095227Z" creationid="maximo" creationdate="20200417T081631Z">
+        <seg>Щоб мати більше буквальних збігів, які були б ближче до 100%, оберіть варіант &lt;g0&gt;Повний текст, включно з тегами та числами&lt;/g0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -35054,6 +35076,14 @@ Exact searches match the whole search string.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Unable to create the translated files due to missing or damaged tags.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221114T095249Z" creationid="Kos Ivantsov" creationdate="20221114T095218Z">
+        <seg>Неможливо створити перекладені файли через відсутні або помилкові теги.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Unable to download team project!</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20190504T135611Z" creationid="Kos Ivantsov" creationdate="20190504T135611Z">
@@ -35756,6 +35786,14 @@ java -Xmx&lt;обсяг-у-МБ&gt;M -jar OmegaT.jar
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Use Tools &gt; Check Issues... to correct the tag errors and try again.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221114T095533Z" creationid="Kos Ivantsov" creationdate="20221114T095533Z">
+        <seg>Виправте помилки з тегами (меню «Інструменти» &gt; «Пошук помилок...») та спробуйте знову.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Use a Team Project</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="maximo" changedate="20200704T201726Z" creationid="maximo" creationdate="20200704T201726Z">
@@ -36335,8 +36373,8 @@ searchable without subscription:</seg>
       <tuv lang="en">
         <seg>Validating tags</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20190807T190934Z" creationid="Kos Ivantsov" creationdate="20190807T190934Z">
-        <seg>Перевірка теґів</seg>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221114T095227Z" creationid="Kos Ivantsov" creationdate="20190807T190934Z">
+        <seg>Перевірка тегів</seg>
       </tuv>
     </tu>
     <tu>
@@ -36546,8 +36584,8 @@ searchable without subscription:</seg>
       <tuv lang="en">
         <seg>Warn: Report invalid tags to stdout.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221022T162828Z" creationid="Kos Ivantsov" creationdate="20190419T182140Z">
-        <seg>warn (попередження): виводити повідомлення про помилки у теґах до stdout.</seg>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221114T095227Z" creationid="Kos Ivantsov" creationdate="20190419T182140Z">
+        <seg>warn (попередження): виводити повідомлення про помилки у тегах до stdout.</seg>
       </tuv>
     </tu>
     <tu>
@@ -36820,8 +36858,8 @@ of selecting, obtaining and installing it.</seg>
       <tuv lang="en">
         <seg>When translating between RTL and LTR languages, correctly reading the tags from the source and entering them properly in the target may require the translator to toggle between LTR and RTL modes numerous times.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="fanja9" changedate="20200720T202710Z" creationid="maximo" creationdate="20200704T190048Z">
-        <seg>Під час перекладу між мовами з різними напрямками письма, щоб правильно прочитати теґи в оригінальних сегментах та щоб правильно вставити їх у переклад, можливо, треба буде безліч разів перемикатися між режимами.</seg>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221114T095227Z" creationid="maximo" creationdate="20200704T190048Z">
+        <seg>Під час перекладу між мовами з різними напрямками письма, щоб правильно прочитати теги в оригінальних сегментах та щоб правильно вставити їх у переклад, можливо, треба буде безліч разів перемикатися між режимами.</seg>
       </tuv>
     </tu>
     <tu>
@@ -41800,8 +41838,8 @@ create the configuration folder.</seg>
       <tuv lang="en">
         <seg>Remove Tags</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20190821T214044Z" creationid="Kos Ivantsov" creationdate="20190821T214044Z">
-        <seg>Вилучити теґи</seg>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221114T095227Z" creationid="Kos Ivantsov" creationdate="20190821T214044Z">
+        <seg>Вилучити теги</seg>
       </tuv>
     </tu>
     <tu>
@@ -41850,8 +41888,8 @@ create the configuration folder.</seg>
       <tuv lang="en">
         <seg>Remove Tags</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20190821T211918Z" creationid="Kos Ivantsov" creationdate="20190821T211918Z">
-        <seg>Вилучити теґи</seg>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221114T095227Z" creationid="Kos Ivantsov" creationdate="20190821T211918Z">
+        <seg>Вилучити теги</seg>
       </tuv>
     </tu>
     <tu>
@@ -42439,8 +42477,8 @@ script provided (omegat.kaptn).</prop>
       <tuv lang="en">
         <seg>Tagwipe</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20190823T180305Z" creationid="Kos Ivantsov" creationdate="20190823T180305Z">
-        <seg>Tagwipe — Прибрати зайві теґи</seg>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221114T095227Z" creationid="Kos Ivantsov" creationdate="20190823T180305Z">
+        <seg>Tagwipe — Прибрати зайві теги</seg>
       </tuv>
     </tu>
     <tu>
