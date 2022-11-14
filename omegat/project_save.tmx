@@ -1597,6 +1597,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&amp;Use local segmentation rules</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221114T103014Z" creationid="Kos Ivantsov" creationdate="20221114T103014Z">
+        <seg>Використовувати локальні правила сегментації</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&amp;User Guide...</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221114T092744Z" creationid="Kos Ivantsov" creationdate="20221114T092744Z">
@@ -18929,6 +18937,14 @@ itself on the first run.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Local &amp;Segmentation Rules...</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221114T103000Z" creationid="Kos Ivantsov" creationdate="20221114T102949Z">
+        <seg>Локальні правила сегментації...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Local External Searches</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221104T161708Z" creationid="Kos Ivantsov" creationdate="20221104T161708Z">
@@ -24037,6 +24053,14 @@ additional steps need to be taken.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Post processing command failed.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221114T100130Z" creationid="Kos Ivantsov" creationdate="20221114T100130Z">
+        <seg>Не вдалося виконати команду постобробки.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Post-processing commands completed.</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221114T100043Z" creationid="Kos Ivantsov" creationdate="20221114T100043Z">
@@ -26762,6 +26786,14 @@ The scope of a search is by default the project and can be set to be any files l
       </tuv>
       <tuv lang="uk-UA" changeid="lesia" changedate="20200322T161802Z" creationid="lesia" creationdate="20200322T161802Z">
         <seg>Скрипти та процедури дозволяють:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Se&amp;ntence-level Segmenting</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221114T102940Z" creationid="Kos Ivantsov" creationdate="20221114T102940Z">
+        <seg>Сегментація за &amp;реченнями</seg>
       </tuv>
     </tu>
     <tu>
