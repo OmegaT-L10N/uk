@@ -12409,6 +12409,22 @@ Gossamer threads hold you back
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>External Search Command</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221114T103413Z" creationid="Kos Ivantsov" creationdate="20221114T103413Z">
+        <seg>Команда для зовнішнього пошуку</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>External Search URL</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221114T103401Z" creationid="Kos Ivantsov" creationdate="20221114T103401Z">
+        <seg>URL-адреса для зовнішнього пошуку</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>External Search...</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="lesia" changedate="20200420T170013Z" creationid="Kos Ivantsov" creationdate="20190504T133002Z">
@@ -18947,8 +18963,8 @@ itself on the first run.</seg>
       <tuv lang="en">
         <seg>Local External Searches</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221104T161708Z" creationid="Kos Ivantsov" creationdate="20221104T161708Z">
-        <seg>Зовнішній пошук для поточного проєкту</seg>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221114T103333Z" creationid="Kos Ivantsov" creationdate="20221114T103333Z">
+        <seg>Локальний зовнішній пошук</seg>
       </tuv>
     </tu>
     <tu>
