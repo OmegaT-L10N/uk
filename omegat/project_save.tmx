@@ -268,6 +268,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&amp;Allow blank target segments</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221114T134401Z" creationid="Kos Ivantsov" creationdate="20221114T134401Z">
+        <seg>Дозволити поро&amp;жній текст у перекладі сегментів</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&amp;Allow blank translations in the target files</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20200502T143143Z" creationid="Kos Ivantsov" creationdate="20190517T111415Z">
@@ -34882,6 +34890,14 @@ linux-install.sh script, and execute the script with ./linux-install.sh.</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="fanja9" changedate="20200720T175421Z" creationid="maximo" creationdate="20200414T160919Z">
         <seg>Якщо деякі атрибути у файлах XHTML чи HTML піддаються перекладу, то вони будуть показуватися як окремі сегменти.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Translate &amp;blank source segments</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221114T134424Z" creationid="Kos Ivantsov" creationdate="20221114T134424Z">
+        <seg>Перекладати сегменти з порожнім текстом оригіналу</seg>
       </tuv>
     </tu>
     <tu>
