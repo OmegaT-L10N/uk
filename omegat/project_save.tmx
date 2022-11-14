@@ -20951,6 +20951,14 @@ as the Applications folder.</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>No new languages available at the remote server.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221114T141953Z" creationid="Kos Ivantsov" creationdate="20221114T141953Z">
+        <seg>На віддаленому сервері немає нових доступних мов.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <prop type="origin">TM:[generic]</prop>
       <tuv lang="en">
         <seg>No option: Launch GUI</seg>
