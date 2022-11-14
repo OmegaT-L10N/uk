@@ -11884,6 +11884,14 @@ No one hears your screams</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Error starting post-processing commands: {0}</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221114T100031Z" creationid="Kos Ivantsov" creationdate="20221114T100031Z">
+        <seg>Помилка запуску команд постобробки: {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Error unload plugin from class '{0}': {1}</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20190517T151653Z" creationid="Kos Ivantsov" creationdate="20190517T151620Z">
@@ -12228,6 +12236,14 @@ Gossamer threads hold you back
       </tuv>
       <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20190504T130458Z" creationid="Kos Ivantsov" creationdate="20190504T130458Z">
         <seg>Виконується зовнішня команда...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Executing post-processing commands...</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221114T100008Z" creationid="Kos Ivantsov" creationdate="20221114T100008Z">
+        <seg>Виконання команд постобробки...</seg>
       </tuv>
     </tu>
     <tu>
@@ -24017,6 +24033,22 @@ additional steps need to be taken.</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221111T142840Z" creationid="Kos Ivantsov" creationdate="20221111T142755Z">
         <seg>Можливі варіанти усунення проблеми:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Post-processing commands completed.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221114T100043Z" creationid="Kos Ivantsov" creationdate="20221114T100043Z">
+        <seg>Команди постобробки завершено.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Post-processing commands failed.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221114T100107Z" creationid="Kos Ivantsov" creationdate="20221114T100107Z">
+        <seg>Не вдалося виконати команди постобробки.</seg>
       </tuv>
     </tu>
     <tu>
