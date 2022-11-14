@@ -9148,6 +9148,14 @@ a description of how this error was produced.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Create Project Folder</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221114T110335Z" creationid="Kos Ivantsov" creationdate="20221114T110335Z">
+        <seg>Створити теку проєкту</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Create Translated Documents</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="maximo" changedate="20200405T184542Z" creationid="maximo" creationdate="20200405T184542Z">
@@ -18981,6 +18989,14 @@ itself on the first run.</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221114T103333Z" creationid="Kos Ivantsov" creationdate="20221114T103333Z">
         <seg>Локальний зовнішній пошук</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Local External Searches...</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221114T110253Z" creationid="Kos Ivantsov" creationdate="20221114T110253Z">
+        <seg>Локальний зовнішній пошук...</seg>
       </tuv>
     </tu>
     <tu>
@@ -28864,6 +28880,14 @@ The scope of a search is by default the project and can be set to be any files l
       </tuv>
       <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20190803T190017Z" creationid="Kos Ivantsov" creationdate="20190803T185831Z">
         <seg>Спосіб обробки теґів</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Specify their new location or recreate them.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221114T110320Z" creationid="Kos Ivantsov" creationdate="20221114T110320Z">
+        <seg>Вкажіть їхнє нове розміщення або створіть їх знову.</seg>
       </tuv>
     </tu>
     <tu>
