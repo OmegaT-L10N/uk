@@ -27919,6 +27919,15 @@ The scope of a search is by default the project and can be set to be any files l
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM:[generic]</prop>
+      <tuv lang="en">
+        <seg>Set Empty Translation</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221114T110000Z" creationid="Kos Ivantsov" creationdate="20221114T110000Z">
+        <seg>Зробити переклад порожнім</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en">
         <seg>Set My Own Password</seg>
       </tuv>
@@ -35807,6 +35816,14 @@ java -Xmx&lt;обсяг-у-МБ&gt;M -jar OmegaT.jar
       </tuv>
       <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20220827T185912Z" creationid="Kos Ivantsov" creationdate="20220827T185848Z">
         <seg>Застосовувати стис&amp;лий вигляд</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Use &amp;Fuzzy Matching</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221114T110054Z" creationid="Kos Ivantsov" creationdate="20221114T110054Z">
+        <seg>Використовувати &amp;нечіткі збіги</seg>
       </tuv>
     </tu>
     <tu>
