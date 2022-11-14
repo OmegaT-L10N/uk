@@ -11663,6 +11663,15 @@ Your help page not found</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Enter a language code in xx-YY, xxx-YY, xx_YY or xxx_YY  format, where xx or xxx 
+is the language code and YY is the region or country code (optional).</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221114T120754Z" creationid="Kos Ivantsov" creationdate="20221114T120754Z">
+        <seg>Уведіть код мови у форматі xx-YY, xxx-YY, xxx_YY або xx_YY, де xx — код мови, а YY — код країни або регіону (може не вказуватися).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Enter a source term, a target term and a comment:</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20190821T145835Z" creationid="Kos Ivantsov" creationdate="20190821T145835Z">
