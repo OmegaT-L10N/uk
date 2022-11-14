@@ -9700,6 +9700,14 @@ a description of how this error was produced.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Current project configuration will be overridden by the remote project configuration.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221114T110409Z" creationid="Kos Ivantsov" creationdate="20221114T110409Z">
+        <seg>Поточна конфігурація проєкту буде замінена віддаленою конфігурацією.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Current project configuration will be override by the remote project configuration content.</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20220920T072448Z" creationid="Kos Ivantsov" creationdate="20220920T072448Z">
@@ -31708,6 +31716,15 @@ in /lib/licenses/Licenses.txt.</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="lesia" changedate="20200708T101501Z" creationid="maximo" creationdate="20200418T130649Z">
         <seg>У цьому випадку параметри для запуску програми зчитуються із файлу &lt;f1&gt;OmegaT.l4J.ini&lt;/f1&gt;, який розташований у тій самій теці, що і файл .exe. Його можна редагувати, щоб змінити налаштування.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM:[generic]</prop>
+      <tuv lang="en">
+        <seg>The original file is backed up as: {0}</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221114T110432Z" creationid="Kos Ivantsov" creationdate="20221114T110432Z">
+        <seg>Початковий файл збережено у резервній копії: {0}</seg>
       </tuv>
     </tu>
     <tu>
