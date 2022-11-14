@@ -1670,6 +1670,18 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>'*' matches zero or more characters ('run*' matches 'run', 'runs', 'running', etc.)
+'?' matches exactly one character ('run?' matches 'runs' and 'rung', but not 'run' or 'running').</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221114T130316Z" creationid="Kos Ivantsov" creationdate="20221114T130316Z">
+        <seg>Символ «*» відповідає нулеві або більшій кількості символів
+(наприклад, вказавши «біл*», можна знайти слова «біла», «біль», «білка», «білоцерківський» тощо).
+Символ «?» відповідає тільки одному символові
+(наприклад, вказавши «біл?», можна знайти слова «біла» та «біль», але не «білка» чи «білоцерківський»).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>'*' matches zero or more characters ('run*' matches 'run', 'runs', and'running', etc.)
 '?' matches exactly one character ('run?' matches 'runs' and 'rung', but not 'run' or 'running').</seg>
       </tuv>
@@ -18311,6 +18323,15 @@ itself on the first run.</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM:[generic]</prop>
+      <tuv lang="en">
+        <seg>Keyword searches match all space-separated keywords in any order.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221114T130058Z" creationid="Kos Ivantsov" creationdate="20221114T130058Z">
+        <seg>Пошук за ключовими словами — пошук усіх зазначених слів, розділених пробілами, незалежно від послідовності.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en">
         <seg>Keyword searches match all the space-separated keywords regardless of their order.</seg>
       </tuv>
@@ -25355,6 +25376,15 @@ These words: 'Page not found'</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM:[generic]</prop>
+      <tuv lang="en">
+        <seg>Regular expression searches match Java regular expressions as documented in the user guide.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221114T130117Z" creationid="Kos Ivantsov" creationdate="20221114T130117Z">
+        <seg>Пошук за регулярними виразами — пошук збігів із зазначеним регулярним виразом Java (див. посібник користувача).</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en">
         <seg>Regular expression searches match Java regular expressions as documented in the user manual.</seg>
       </tuv>
@@ -26743,6 +26773,16 @@ These words: 'Page not found'</seg>
     <tu>
       <tuv lang="en">
         <seg>Scope:
+Searches apply to the project and cover its source and target text, reference TMs, glossaries, notes, and comments by default.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221114T122929Z" creationid="Kos Ivantsov" creationdate="20221114T122157Z">
+        <seg>Область пошуку:
+Типовим значенням є пошук у даних проєкту, який охоплює текст оригіналу та перекладу, записи у додаткових файлах пам’яті перекладів, глосаріях, примітках та коментарях.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Scope:
 The scope of a search is by default the project and can be set to be any files located in a specified folder hierarchy.</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="lesia" changedate="20200708T095823Z" creationid="Kos Ivantsov" creationdate="20190517T093814Z">
@@ -27036,6 +27076,14 @@ The scope of a search is by default the project and can be set to be any files l
       </tuv>
       <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221112T154957Z" creationid="Kos Ivantsov" creationdate="20190517T104536Z">
         <seg>Потік, у якому здійснювався пошук, неочікувано перервався!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Searches can also be performed on a specified folder hierarchy.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221114T123042Z" creationid="Kos Ivantsov" creationdate="20221114T122904Z">
+        <seg>Пошук може також здійснюватися у зазначеній теці (рекурсивно).</seg>
       </tuv>
     </tu>
     <tu>
@@ -30038,6 +30086,16 @@ The scope of a search is by default the project and can be set to be any files l
       </tuv>
       <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20190516T183102Z" creationid="Kos Ivantsov" creationdate="20190516T183102Z">
         <seg>Заміна тексту</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Text Replace:
+Replace applies to the target segments of the project.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221114T130401Z" creationid="Kos Ivantsov" creationdate="20221114T130401Z">
+        <seg>Заміна тексту:
+Заміна відбувається у тексті перекладу сегментів у проєкті.</seg>
       </tuv>
     </tu>
     <tu>
@@ -33982,6 +34040,14 @@ the server.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Tick or untick the approrpiate boxes to change these settings.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221114T122842Z" creationid="Kos Ivantsov" creationdate="20221114T122842Z">
+        <seg>Для зміни параметрів пошуку слід встановити або зняти відповідні прапорці.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>To &lt;e0&gt;delete files&lt;/e0&gt;, use an SVN or Git client.</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="lesia" changedate="20200704T190141Z" creationid="lesia" creationdate="20200704T190141Z">
@@ -35194,9 +35260,9 @@ linux-install.sh script, and execute the script with ./linux-install.sh.</seg>
         <seg>Types:
 Exact searches match the whole search string.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="fanja9" changedate="20200704T145219Z" creationid="Kos Ivantsov" creationdate="20190517T094234Z">
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221114T123113Z" creationid="Kos Ivantsov" creationdate="20190517T094234Z">
         <seg>Типи пошуку:
-Точний пошук — це пошук збігів з усією стрічкою, зазначеною у полі пошуку.</seg>
+Точний пошук — це пошук збігів з усією стрічкою, зазначеною у полі пошуку.</seg>
       </tuv>
     </tu>
     <tu>
