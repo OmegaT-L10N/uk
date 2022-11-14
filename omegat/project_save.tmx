@@ -1799,6 +1799,15 @@ To add files to the project, click on the Copy Files to Source Folder... button 
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM:[generic]</prop>
+      <tuv lang="en">
+        <seg>(Leave the Password empty if you are using an API key.)</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221114T141851Z" creationid="Kos Ivantsov" creationdate="20221114T141851Z">
+        <seg>(Якщо використовується ключ API, поле пароля має залишатися порожнім.)</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en">
         <seg>(Not to be confused with the "Text Export" feature, which also enables scripts to be used with OmegaT, but on a more basic level.)</seg>
       </tuv>
@@ -14241,6 +14250,14 @@ provided (omegat.kaptn).</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="maximo" changedate="20200405T185608Z" creationid="maximo" creationdate="20200405T185608Z">
         <seg>Меню «Перехід»</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Google API key not available.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221114T141913Z" creationid="Kos Ivantsov" creationdate="20221114T141913Z">
+        <seg>Ключ API до Google не доступний.</seg>
       </tuv>
     </tu>
     <tu>
@@ -27435,6 +27452,14 @@ The scope of a search is by default the project and can be set to be any files l
       </tuv>
       <tuv lang="uk-UA" changeid="lesia" changedate="20200429T202825Z" creationid="lesia" creationdate="20200429T202825Z">
         <seg>Для більш детальної інформації дивіться розділ &lt;e0&gt;Правила сегментації&lt;/e0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>See the user guide for instructions.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221114T141832Z" creationid="Kos Ivantsov" creationdate="20221114T141832Z">
+        <seg>Додаткову інформацію шукайте у посібнику користувача.</seg>
       </tuv>
     </tu>
     <tu>
