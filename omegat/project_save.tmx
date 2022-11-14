@@ -18462,6 +18462,14 @@ itself on the first run.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Language Installer</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221114T151028Z" creationid="Kos Ivantsov" creationdate="20221114T151028Z">
+        <seg>Установлення мов</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Language Name</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20190819T104939Z" creationid="Kos Ivantsov" creationdate="20190819T104939Z">
@@ -27910,6 +27918,14 @@ The scope of a search is by default the project and can be set to be any files l
       </tuv>
       <tuv lang="uk-UA" changeid="lesia" changedate="20200501T204040Z" creationid="lesia" creationdate="20200501T204040Z">
         <seg>Вибрати перший сегмент.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Select the languages you want to install and press Install.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221114T151107Z" creationid="Kos Ivantsov" creationdate="20221114T151107Z">
+        <seg>Виберіть мови, які ви бажаєте встановити, та натисніть кнопку «Установити».</seg>
       </tuv>
     </tu>
     <tu>
