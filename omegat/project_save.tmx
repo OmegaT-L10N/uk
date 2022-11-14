@@ -1582,6 +1582,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&amp;User Guide...</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221114T092744Z" creationid="Kos Ivantsov" creationdate="20221114T092744Z">
+        <seg>Посібник &amp;користувача...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&amp;User's Manual...</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20190422T204516Z" creationid="Kos Ivantsov" creationdate="20190422T204516Z">
@@ -4575,6 +4583,15 @@ The current setting is {0}MB;</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM:[generic]</prop>
+      <tuv lang="en">
+        <seg>A&amp;uto-Completion</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221114T092557Z" creationid="Kos Ivantsov" creationdate="20221114T092557Z">
+        <seg>А&amp;втодоповнення</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en">
         <seg>A&amp;uto-completion</seg>
       </tuv>
@@ -6364,6 +6381,14 @@ may experience unexpected, but correct behaviour.</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="maximo" changedate="20200704T202147Z" creationid="maximo" creationdate="20200704T202147Z">
         <seg>Автоматичне збереження</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Automatically &amp;Show Relevant Suggestions</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221114T092621Z" creationid="Kos Ivantsov" creationdate="20221114T092621Z">
+        <seg>Автоматично пока&amp;зувати відповідні пропозиції</seg>
       </tuv>
     </tu>
     <tu>
