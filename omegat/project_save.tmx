@@ -316,6 +316,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&amp;Apply a different font size to the dictionary pane</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221114T095900Z" creationid="Kos Ivantsov" creationdate="20221114T095900Z">
+        <seg>Застосувати інший розмір шри&amp;фту в області словників</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&amp;Apply this font size to dictionary pane</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20220827T190421Z" creationid="Kos Ivantsov" creationdate="20220827T190421Z">
@@ -328,6 +336,14 @@
       </tuv>
       <tuv lang="uk-UA" changeid="fanja9" changedate="20200720T181426Z" creationid="Kos Ivantsov" creationdate="20190420T125714Z">
         <seg>&amp;Застосувати цей шрифт до табличних даних (у діалогових вікнах із файлами проєкту, статистикою тощо)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&amp;Apply this font to tabular data (source files list, statistics, etc.)</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221114T095755Z" creationid="Kos Ivantsov" creationdate="20221114T095755Z">
+        <seg>&amp;Застосувати цей шрифт до табличних даних (у вікнах із файлами для перекладу, статистикою тощо)</seg>
       </tuv>
     </tu>
     <tu>
