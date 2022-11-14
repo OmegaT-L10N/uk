@@ -17508,6 +17508,14 @@ click on that shortcut.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Invalid translated file language!</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221114T120815Z" creationid="Kos Ivantsov" creationdate="20221114T120815Z">
+        <seg>Неприпустима мова перекладеного файлу!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Invantive</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="maximo" changedate="20200614T164244Z" creationid="maximo" creationdate="20200614T164244Z">
@@ -32299,6 +32307,14 @@ in /lib/licenses/Licenses.txt.</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20190516T180449Z" creationid="Kos Ivantsov" creationdate="20190516T180449Z">
         <seg>Вказана неприпустима мова оригіналу!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The source files folder does not exist!</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221114T120829Z" creationid="Kos Ivantsov" creationdate="20221114T120829Z">
+        <seg>Тека для файлів для перекладу не існує!</seg>
       </tuv>
     </tu>
     <tu>
