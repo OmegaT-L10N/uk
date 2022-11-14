@@ -30978,6 +30978,14 @@ instead.</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>The dictionary files folder does not exist!</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221114T121715Z" creationid="Kos Ivantsov" creationdate="20221114T121715Z">
+        <seg>Тека для словників не існує!</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>частин
 </note>
       <tuv lang="en">
@@ -31081,6 +31089,14 @@ instead.</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="lesia" changedate="20200708T102328Z" creationid="maximo" creationdate="20200412T045514Z">
         <seg>Символ Esc «\u001B»</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The export translation memory folder does not exist!</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221114T121707Z" creationid="Kos Ivantsov" creationdate="20221114T121707Z">
+        <seg>Тека для експортованих файлів пам’яті перекладів не існує!</seg>
       </tuv>
     </tu>
     <tu>
@@ -31322,6 +31338,14 @@ instead.</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="lesia" changedate="20200616T203841Z" creationid="lesia" creationdate="20200505T203023Z">
         <seg>Файл глосарія порожній.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The glossary files folder does not exist!</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221114T121554Z" creationid="Kos Ivantsov" creationdate="20221114T121554Z">
+        <seg>Тека для глосаріїв не існує!</seg>
       </tuv>
     </tu>
     <tu>
@@ -32567,6 +32591,14 @@ in /lib/licenses/Licenses.txt.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The translated files folder does not exist!</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221114T121549Z" creationid="Kos Ivantsov" creationdate="20221114T121549Z">
+        <seg>Тека для перекладених файлів не існує!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The translated files will then need to be converted back to the original format.</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="maximo" changedate="20200704T205209Z" creationid="maximo" creationdate="20200704T205209Z">
@@ -32579,6 +32611,14 @@ in /lib/licenses/Licenses.txt.</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20190821T155931Z" creationid="Kos Ivantsov" creationdate="20190821T155931Z">
         <seg>Переклад змінено.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The translation memory files folder does not exist!</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221114T121653Z" creationid="Kos Ivantsov" creationdate="20221114T121653Z">
+        <seg>Тека для файлів пам’яті перекладів не існує!</seg>
       </tuv>
     </tu>
     <tu>
@@ -32692,6 +32732,14 @@ in /lib/licenses/Licenses.txt.</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221022T133850Z" creationid="Kos Ivantsov" creationdate="20221022T133850Z">
         <seg>Глосарій для запису в кожному проєкті завжди є файлом типу TSV у кодуванні UTF-8.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The writeable glossary file folder does not exist!</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221114T121624Z" creationid="Kos Ivantsov" creationdate="20221114T121624Z">
+        <seg>Тека для глосарія для запису не існує!</seg>
       </tuv>
     </tu>
     <tu>
