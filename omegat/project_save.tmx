@@ -968,8 +968,8 @@
       <tuv lang="en">
         <seg>&amp;Leave the segment empty</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20190808T132829Z" creationid="Kos Ivantsov" creationdate="20190808T132829Z">
-        <seg>&amp;Залишати поле перекладу порожнім.</seg>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221115T131206Z" creationid="Kos Ivantsov" creationdate="20190808T132829Z">
+        <seg>&amp;Залишати поле перекладу порожнім</seg>
       </tuv>
     </tu>
     <tu>
@@ -37733,6 +37733,14 @@ of selecting, obtaining and installing it.</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="fanja9" changedate="20200720T181008Z" creationid="lesia" creationdate="20200413T200823Z">
         <seg>Якщо ця функція активна, усі теґи форматування вилучаються із сегментів оригіналу.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>When entering an empty segment:</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221115T131159Z" creationid="Kos Ivantsov" creationdate="20221115T131159Z">
+        <seg>Під час переходу у сегмент без перекладу</seg>
       </tuv>
     </tu>
     <tu>
