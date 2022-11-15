@@ -10761,6 +10761,14 @@ a description of how this error was produced.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Displays the translation of the current segment provided by the machine translation services selected in Preferences &gt; Machine Translation if those services are available.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221115T133347Z" creationid="Kos Ivantsov" creationdate="20221115T133347Z">
+        <seg>У цій області показуються переклади оригіналу з поточного сегмента, отримані від служб машинного перекладу, які були ввімкнені в меню «Налаштування» &gt; «Машинний переклад» (якщо ці служби доступні).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Displays the translation of the source segment by the machine translation services you have selected in Preferences &gt; Machine Translation, if those services are available.</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20190807T155953Z" creationid="Kos Ivantsov" creationdate="20190807T155953Z">
