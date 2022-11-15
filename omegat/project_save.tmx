@@ -10894,6 +10894,14 @@ additional steps need to be taken.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Do not use the file name to &amp;identify alternate translations</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221115T134601Z" creationid="Kos Ivantsov" creationdate="20221115T134601Z">
+        <seg>Не використовувати назви файлів для ідентифікаці&amp;ї варіантів перекладу</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Do you have a Java implementation compatible with Oracle's Java 8 JRE?</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="fanja9" changedate="20200720T200631Z" creationid="maximo" creationdate="20200418T125236Z">
