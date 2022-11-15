@@ -38809,6 +38809,15 @@ can then launch the Kaptain launch script with:</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM:[generic]</prop>
+      <tuv lang="en">
+        <seg>You are deleting the spellchecking dictionary that your project currently uses.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221115T133633Z" creationid="Kos Ivantsov" creationdate="20221115T133633Z">
+        <seg>Ви видаляєте правописний словник, який використовується у поточному проєкті.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en">
         <seg>You are going to modify {0} segments.</seg>
       </tuv>
