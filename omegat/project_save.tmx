@@ -9339,6 +9339,14 @@ a description of how this error was produced.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Create paragraphs on:</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221115T130622Z" creationid="Kos Ivantsov" creationdate="20221115T130622Z">
+        <seg>Новий абзац:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Create pseudo-translate TMX</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20190820T200645Z" creationid="Kos Ivantsov" creationdate="20190820T193913Z">
@@ -19136,6 +19144,14 @@ itself on the first run.</seg>
       <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20190808T092158Z" creationid="Kos Ivantsov" creationdate="20190808T092158Z">
         <seg>Інформація щодо ліцензування
 ============================</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Line length in target files (0 = no limit)</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221115T130654Z" creationid="Kos Ivantsov" creationdate="20221115T130654Z">
+        <seg>Довжини рядка в перекладених файлах (0 = без обмежень)</seg>
       </tuv>
     </tu>
     <tu>
