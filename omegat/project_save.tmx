@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.8.0_0_d560bbb22" segtype="sentence" srclang="en"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.8.0_0_c37edea16" segtype="sentence" srclang="en"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -29902,8 +29902,8 @@ The scope of a search is by default the project and can be set to be any files l
       <tuv lang="en">
         <seg>Tag:</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20190807T190842Z" creationid="Kos Ivantsov" creationdate="20190807T190842Z">
-        <seg>Теґ:</seg>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221115T111849Z" creationid="Kos Ivantsov" creationdate="20190807T190842Z">
+        <seg>Тег:</seg>
       </tuv>
     </tu>
     <tu>
@@ -35052,6 +35052,14 @@ linux-install.sh script, and execute the script with ./linux-install.sh.</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20190803T181428Z" creationid="Kos Ivantsov" creationdate="20190803T181428Z">
         <seg>Перекладати наступні елементи:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Translate this plural as plural form #{0}.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221115T111846Z" creationid="Kos Ivantsov" creationdate="20221115T111846Z">
+        <seg>Ця форма множини має перекладатися як № {0}.</seg>
       </tuv>
     </tu>
     <tu>
