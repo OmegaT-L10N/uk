@@ -16643,6 +16643,22 @@ click on that shortcut.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Ignored paragraphs (regular expression)</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221115T130934Z" creationid="Kos Ivantsov" creationdate="20221115T130934Z">
+        <seg>Ігноровані абзаци (регулярний вираз)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Ignored tags (attribute=value)</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221115T131002Z" creationid="Kos Ivantsov" creationdate="20221115T131002Z">
+        <seg>Ігноровані теги (атрибут=значення)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Import the source file to &lt;u0&gt;LibreOffice Draw&lt;/u0&gt;, save it as an ODG file, translate, export to PDF as needed.</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="maximo" changedate="20200704T204526Z" creationid="maximo" creationdate="20200704T204403Z">
