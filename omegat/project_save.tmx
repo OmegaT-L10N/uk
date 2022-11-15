@@ -501,6 +501,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&amp;Check issues when leaving a segment</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221115T131912Z" creationid="Kos Ivantsov" creationdate="20221115T131912Z">
+        <seg>Пе&amp;ревіряти наявність помилок при переході до іншого сегмента</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&amp;Clear Menu</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20190420T132325Z" creationid="Kos Ivantsov" creationdate="20190420T132325Z">
@@ -6338,6 +6346,15 @@ may experience unexpected, but correct behaviour.</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20190820T160056Z" creationid="Kos Ivantsov" creationdate="20190820T160056Z">
         <seg>Намагатися перетворювати &amp;числа у вставлених нечітких збігах</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM:[generic]</prop>
+      <tuv lang="en">
+        <seg>Attempt to convert fuzzy match &amp;numbers</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221115T131312Z" creationid="Kos Ivantsov" creationdate="20221115T131312Z">
+        <seg>Намагатися перетворювати числа у вставлених нечітких збігах</seg>
       </tuv>
     </tu>
     <tu>
@@ -21980,6 +21997,14 @@ as the Applications folder.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Number of segments to initially load:</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221115T131936Z" creationid="Kos Ivantsov" creationdate="20221115T131917Z">
+        <seg>Кількість сегментів для початкового завантаження:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Number of the match from 1 to 5</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="maximo" changedate="20200417T082028Z" creationid="maximo" creationdate="20200417T082028Z">
@@ -23966,6 +23991,14 @@ Vanishing like mist</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20190820T161154Z" creationid="Kos Ivantsov" creationdate="20190819T112603Z">
         <seg>Формат розмежувача абза&amp;ців:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Paragraph delimiter:</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221115T131944Z" creationid="Kos Ivantsov" creationdate="20221115T131944Z">
+        <seg>Розмежувач абзаців:</seg>
       </tuv>
     </tu>
     <tu>
@@ -28653,6 +28686,14 @@ The scope of a search is by default the project and can be set to be any files l
       </tuv>
       <tuv lang="uk-UA" changeid="lesia" changedate="20200704T182641Z" creationid="lesia" creationdate="20200704T182641Z">
         <seg>Налаштування командного проєкту вимагає деяких знань про роботу серверів та систем керування версіями файлів SVN або Git.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Settings for tags originating from non-OmegaT TMX files:</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221115T132012Z" creationid="Kos Ivantsov" creationdate="20221115T132012Z">
+        <seg>Налаштування для тегів у файлах TMX, створених не в OmegaT:</seg>
       </tuv>
     </tu>
     <tu>
@@ -36646,6 +36687,14 @@ java -Xmx&lt;обсяг-у-МБ&gt;M -jar OmegaT.jar
       </tuv>
       <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20190819T112855Z" creationid="Kos Ivantsov" creationdate="20190819T112855Z">
         <seg>Використовувати XML для &amp;автономних теґів (наприклад, &lt;i/&gt;)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Use &amp;XML notation for standalone tags (e.g., &lt;i/&gt;)</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221115T132043Z" creationid="Kos Ivantsov" creationdate="20221115T132043Z">
+        <seg>Використовувати позначення XML для &amp;автономних тегів (наприклад, &lt;i/&gt;)</seg>
       </tuv>
     </tu>
     <tu>
