@@ -5952,6 +5952,14 @@ The TMX file will not be loaded.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>An item with the name "{0}" already exists at this location.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221115T125653Z" creationid="Kos Ivantsov" creationdate="20221115T125653Z">
+        <seg>У цьому місці вже існує елемент {0}.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>An uppercase letter (simple &lt;u0&gt; category&lt;/u0&gt;)</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="Asus" changedate="20200614T042524Z" creationid="maximo" creationdate="20200412T050515Z">
