@@ -16834,6 +16834,14 @@ click on that shortcut.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Ignored &lt;meta&gt; tags "content" attribute</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221115T134643Z" creationid="Kos Ivantsov" creationdate="20221115T134643Z">
+        <seg>Ігнорувати атрибут «content» у тегах &lt;meta&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Ignored paragraphs (regular expression)</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221115T130934Z" creationid="Kos Ivantsov" creationdate="20221115T130934Z">
