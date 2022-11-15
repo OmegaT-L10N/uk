@@ -5521,6 +5521,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Allow local external search commands</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221115T113028Z" creationid="Kos Ivantsov" creationdate="20221115T113028Z">
+        <seg>Дозволити локальні команди для зовнішнього пошуку</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Allow tag editing</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221114T095227Z" creationid="maximo" creationdate="20200412T201728Z">
@@ -12574,6 +12582,14 @@ Gossamer threads hold you back
       </tuv>
       <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221114T103413Z" creationid="Kos Ivantsov" creationdate="20221114T103413Z">
         <seg>Команда для зовнішнього пошуку</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>External Search Set</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221115T113130Z" creationid="Kos Ivantsov" creationdate="20221115T113130Z">
+        <seg>Параметри зовнішнього пошуку</seg>
       </tuv>
     </tu>
     <tu>
