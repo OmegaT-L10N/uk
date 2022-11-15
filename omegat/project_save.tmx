@@ -284,6 +284,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&amp;Allow local post-processing commands</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221115T125427Z" creationid="Kos Ivantsov" creationdate="20221115T125427Z">
+        <seg>Дозволити &amp;локальні команди постобробки</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&amp;Allow only unique characters</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20190821T113839Z" creationid="Kos Ivantsov" creationdate="20190821T113839Z">
@@ -11614,6 +11622,14 @@ Your help page not found</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Enable them in Preferences &gt; Saving and Output....</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221115T125012Z" creationid="Kos Ivantsov" creationdate="20221115T125012Z">
+        <seg>Їх можна ввімкнути у розділі «Збереження та вивід» (меню «Налаштування» &gt; «Параметри...»).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Enabled</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20190517T152210Z" creationid="Kos Ivantsov" creationdate="20190517T152210Z">
@@ -11984,6 +12000,14 @@ No one hears your screams</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20190504T130741Z" creationid="Kos Ivantsov" creationdate="20190504T130741Z">
         <seg>Помилка під час стеження за виконанням зовнішньої команди!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Error monitoring post-processing commands!</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221115T124429Z" creationid="Kos Ivantsov" creationdate="20221115T124429Z">
+        <seg>Помилка відстеження команд постобробки!</seg>
       </tuv>
     </tu>
     <tu>
@@ -14084,6 +14108,14 @@ provided (omegat.kaptn).</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221114T110155Z" creationid="Kos Ivantsov" creationdate="20221114T110108Z">
         <seg>Глобальні фільтри файлів...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Global Post-processing Commands</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221115T125357Z" creationid="Kos Ivantsov" creationdate="20221115T125357Z">
+        <seg>Глобальні команди постобробки</seg>
       </tuv>
     </tu>
     <tu>
@@ -19275,6 +19307,22 @@ itself on the first run.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Local Post-processing Commands</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221115T124601Z" creationid="Kos Ivantsov" creationdate="20221115T124601Z">
+        <seg>Локальні команди постобробки</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Local Post-processing Commands (Disabled):</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221115T124617Z" creationid="Kos Ivantsov" creationdate="20221115T124617Z">
+        <seg>Локальні команди постобробки (вимкнуто):</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Local Segmentation Rules</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221112T174345Z" creationid="Kos Ivantsov" creationdate="20221112T174345Z">
@@ -19295,6 +19343,14 @@ itself on the first run.</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20190821T135933Z" creationid="Kos Ivantsov" creationdate="20190821T135933Z">
         <seg>Локальний шлях установки:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Local post-processing commands are disabled and will not be executed.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221115T124645Z" creationid="Kos Ivantsov" creationdate="20221115T124645Z">
+        <seg>Локальні команди постобробки вимкнуто і не буде виконано.</seg>
       </tuv>
     </tu>
     <tu>
@@ -24457,6 +24513,14 @@ additional steps need to be taken.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Post-processing command failed.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221115T124333Z" creationid="Kos Ivantsov" creationdate="20221115T124333Z">
+        <seg>Не вдалося виконати команди постобробки.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Post-processing commands completed.</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221114T100043Z" creationid="Kos Ivantsov" creationdate="20221114T100043Z">
@@ -24469,6 +24533,14 @@ additional steps need to be taken.</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221114T100107Z" creationid="Kos Ivantsov" creationdate="20221114T100107Z">
         <seg>Не вдалося виконати команди постобробки.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Post-processing commands were interrupted.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221115T124412Z" creationid="Kos Ivantsov" creationdate="20221115T124412Z">
+        <seg>Команди постобробки було перервано.</seg>
       </tuv>
     </tu>
     <tu>
