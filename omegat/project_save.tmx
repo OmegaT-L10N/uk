@@ -852,6 +852,15 @@
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM:[generic]</prop>
+      <tuv lang="en">
+        <seg>&amp;Ignore matches with very different case (e.g. FOO vs foo)</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221115T130228Z" creationid="Kos Ivantsov" creationdate="20221115T130228Z">
+        <seg>Ігнорувати збіги зі значними відмінностями у &amp;регістрі (наприклад, «ДІМ» і «дім»)</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en">
         <seg>&amp;Ignore type and ctype attributes when building &lt;ph&gt; tag shortcuts</seg>
       </tuv>
@@ -10458,6 +10467,14 @@ a description of how this error was produced.</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="maximo" changedate="20200405T185749Z" creationid="maximo" creationdate="20200405T185749Z">
         <seg>Показувати текст оригіналу в перекладених сегментах</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Display TBX &amp;glossaries context description</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221115T125744Z" creationid="Kos Ivantsov" creationdate="20221115T125744Z">
+        <seg>Показувати контекст г&amp;лосаріїв TBX.</seg>
       </tuv>
     </tu>
     <tu>
@@ -20216,6 +20233,15 @@ itself on the first run.</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM:[generic]</prop>
+      <tuv lang="en">
+        <seg>Merge alternate definitions of the same term</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221115T130236Z" creationid="Kos Ivantsov" creationdate="20221115T130236Z">
+        <seg>Якщо термін має кілька визначень, об’єднувати їх в одну групу</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>можливо, варто локалізувати картинку</note>
       <tuv lang="en">
         <seg>Merriam Webster dictionary - use</seg>
@@ -26263,6 +26289,14 @@ These words: 'Page not found'</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="maximo" changedate="20200412T141103Z" creationid="maximo" creationdate="20200412T141103Z">
         <seg>Заміняти у вставленому тексті оригіналу збіги, знайдені у глосарії</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Replace matches when inserting source text</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221115T130214Z" creationid="Kos Ivantsov" creationdate="20221115T130214Z">
+        <seg>Заміняти у вставленому тексті оригіналу збіги з глосарія</seg>
       </tuv>
     </tu>
     <tu>
@@ -36557,6 +36591,14 @@ java -Xmx&lt;обсяг-у-МБ&gt;M -jar OmegaT.jar
       </tuv>
       <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20190420T151105Z" creationid="Kos Ivantsov" creationdate="20190420T151105Z">
         <seg>Шукати записи у словнику з використанням &amp;нечітких збігів</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Use &amp;stemming</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221115T125817Z" creationid="Kos Ivantsov" creationdate="20221115T125817Z">
+        <seg>Застосовувати морфологічний аналіз</seg>
       </tuv>
     </tu>
     <tu>
