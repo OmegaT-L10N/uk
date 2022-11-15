@@ -20297,6 +20297,14 @@ itself on the first run.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Match term groups even if the terms appear separately</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221115T134324Z" creationid="Kos Ivantsov" creationdate="20221115T134303Z">
+        <seg>Знаходити групи термінів, навіть якщо терміни у тексті подано окремо</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Match type</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20190821T204221Z" creationid="Kos Ivantsov" creationdate="20190821T204221Z">
