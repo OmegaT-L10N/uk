@@ -14153,6 +14153,14 @@ provided (omegat.kaptn).</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Global File Filters</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221115T130823Z" creationid="Kos Ivantsov" creationdate="20221115T130823Z">
+        <seg>Глобальні фільтри файлів</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Global Post-processing Commands</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221115T125357Z" creationid="Kos Ivantsov" creationdate="20221115T125357Z">
@@ -29023,6 +29031,14 @@ The scope of a search is by default the project and can be set to be any files l
       </tuv>
       <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20190821T212819Z" creationid="Kos Ivantsov" creationdate="20190821T212819Z">
         <seg>Деякі блоки позначені для перегляду.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Some filters do not allow encoding modifications.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221115T130819Z" creationid="Kos Ivantsov" creationdate="20221115T130819Z">
+        <seg>Деякі фільтри не дають можливості змінювати кодування.</seg>
       </tuv>
     </tu>
     <tu>
