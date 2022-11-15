@@ -9934,6 +9934,14 @@ a description of how this error was produced.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Customize segment modification &amp;information</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221115T132214Z" creationid="Kos Ivantsov" creationdate="20221115T132214Z">
+        <seg>Налаштувати вигляд інформаці&amp;ї про зміни</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Cut</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20190807T183238Z" creationid="Kos Ivantsov" creationdate="20190807T183238Z">
@@ -28890,6 +28898,14 @@ The scope of a search is by default the project and can be set to be any files l
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Simplify tag &amp;tooltips</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221115T132123Z" creationid="Kos Ivantsov" creationdate="20221115T132123Z">
+        <seg>Спрощувати теги &amp;в підказках</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Simultaneous processing of multiple-file projects</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="lesia" changedate="20200323T063902Z" creationid="maximo" creationdate="20200322T171226Z">
@@ -30558,6 +30574,14 @@ The scope of a search is by default the project and can be set to be any files l
       </tuv>
       <tuv lang="uk-UA" changeid="maximo" changedate="20200614T164007Z" creationid="maximo" creationdate="20200614T164007Z">
         <seg>Telegram</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Template for segments without date</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221115T132141Z" creationid="Kos Ivantsov" creationdate="20221115T132141Z">
+        <seg>Шаблон для сегментів без дати</seg>
       </tuv>
     </tu>
     <tu>
