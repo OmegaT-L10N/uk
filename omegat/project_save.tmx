@@ -39333,6 +39333,14 @@ window to be able to launch it from any location.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Your name/ID is used to identify your translations.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221115T131052Z" creationid="Kos Ivantsov" creationdate="20221115T131052Z">
+        <seg>Ім’я або ідентифікатор, яким позначатимуться ваші переклади.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Your new shortcuts should now appear next to the menu items you have modified.</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="lesia" changedate="20200708T102336Z" creationid="maximo" creationdate="20200405T184401Z">
