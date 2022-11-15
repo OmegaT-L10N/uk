@@ -36092,6 +36092,14 @@ Exact searches match the whole search string.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Uncheck the box to disable it.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221115T130859Z" creationid="Kos Ivantsov" creationdate="20221115T130859Z">
+        <seg>Для вимкнення фільтра зніміть відповідний прапорець.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Uncheck this option if the context description shown for each glossary entry is unnecessary or too long.</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="fanja9" changedate="20200720T180932Z" creationid="maximo" creationdate="20200412T140644Z">
