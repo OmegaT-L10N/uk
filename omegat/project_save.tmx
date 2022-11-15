@@ -7331,6 +7331,15 @@ Buy another drink</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM:[generic]</prop>
+      <tuv lang="en">
+        <seg>Cancelled creation of new team project</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221115T134154Z" creationid="Kos Ivantsov" creationdate="20221115T134154Z">
+        <seg>Створення нового командного проєкту скасовано</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en">
         <seg>Cannot access glossary folder!</seg>
       </tuv>
@@ -37257,6 +37266,14 @@ java -Xmx&lt;обсяг-у-МБ&gt;M -jar OmegaT.jar
       </tuv>
       <tuv lang="uk-UA" changeid="maximo" changedate="20200420T203418Z" creationid="maximo" creationdate="20200420T203418Z">
         <seg>Країна користувача</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>User credentials denied</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221115T134211Z" creationid="Kos Ivantsov" creationdate="20221115T134211Z">
+        <seg>Облікові дані користувача відхилено</seg>
       </tuv>
     </tu>
     <tu>
