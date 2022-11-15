@@ -13696,6 +13696,14 @@ provided (omegat.kaptn).</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>For file formats and filters that support comments (e.g. PO-filter), displays the comments for the translator concerning the active segment, if any.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221115T133608Z" creationid="Kos Ivantsov" creationdate="20221115T133608Z">
+        <seg>У цій області показуються коментарі до поточного сегмента, якщо вони містяться у файлі для перекладу та підтримуються фільтром (наприклад, фільтром файлів PO).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>For installation on Linux.</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="fanja9" changedate="20200713T145207Z" creationid="maximo" creationdate="20200322T141114Z">
