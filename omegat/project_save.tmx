@@ -323,6 +323,15 @@
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM:[generic]</prop>
+      <tuv lang="en">
+        <seg>&amp;Always confirm quit</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221115T112848Z" creationid="Kos Ivantsov" creationdate="20221115T112848Z">
+        <seg>&amp;Завжди підтверджувати вихід</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en">
         <seg>&amp;Apply a different font size to the dictionary pane</seg>
       </tuv>
@@ -928,6 +937,14 @@
       </tuv>
       <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20190821T135810Z" creationid="Kos Ivantsov" creationdate="20190821T135745Z">
         <seg>Запустити &amp;локальний сервер</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&amp;Layout:</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221115T112912Z" creationid="Kos Ivantsov" creationdate="20221115T112912Z">
+        <seg>Розмі&amp;щення елементів:</seg>
       </tuv>
     </tu>
     <tu>
@@ -27220,6 +27237,14 @@ The scope of a search is by default the project and can be set to be any files l
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Search &amp;automatically</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221115T112943Z" creationid="Kos Ivantsov" creationdate="20221115T112943Z">
+        <seg>Шукати &amp;автоматично</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Search ({0})</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20190820T125722Z" creationid="Kos Ivantsov" creationdate="20190820T125722Z">
@@ -36419,6 +36444,15 @@ java -Xmx&lt;обсяг-у-МБ&gt;M -jar OmegaT.jar
       </tuv>
       <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20190819T112855Z" creationid="Kos Ivantsov" creationdate="20190819T112855Z">
         <seg>Використовувати XML для &amp;автономних теґів (наприклад, &lt;i/&gt;)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM:[generic]</prop>
+      <tuv lang="en">
+        <seg>Use &amp;fuzzy matching</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221115T112924Z" creationid="Kos Ivantsov" creationdate="20221115T112924Z">
+        <seg>Використовувати &amp;нечіткі збіги</seg>
       </tuv>
     </tu>
     <tu>
