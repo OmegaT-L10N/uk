@@ -9212,6 +9212,14 @@ a description of how this error was produced.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Count &amp;flagged text and custom tags in statistics</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221115T132818Z" creationid="Kos Ivantsov" creationdate="20221115T132818Z">
+        <seg>Враховувати у статистиці &amp;позначений текст та теги, визначені користувачем</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Count &amp;protected text and custom tags in statistics</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20190813T121609Z" creationid="Kos Ivantsov" creationdate="20190813T121609Z">
@@ -9970,6 +9978,14 @@ a description of how this error was produced.</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20190821T113827Z" creationid="Kos Ivantsov" creationdate="20190821T113827Z">
         <seg>Власна таблиця</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Custom tags (regular expression):</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221115T132952Z" creationid="Kos Ivantsov" creationdate="20221115T132952Z">
+        <seg>Теги, визначені користувачем (регулярний вираз):</seg>
       </tuv>
     </tu>
     <tu>
@@ -10733,6 +10749,14 @@ a description of how this error was produced.</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20190813T110301Z" creationid="Kos Ivantsov" creationdate="20190807T145320Z">
         <seg>У цій області показуються збіги з пам’яті перекладів, які відповідають оригіналові в поточному сегменті.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Displays the translation memory segments that match the source segment.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221115T133012Z" creationid="Kos Ivantsov" creationdate="20221115T133012Z">
+        <seg>У цій області показуються збіги з пам’яті перекладів, які відповідають оригіналу в поточному сегменті.</seg>
       </tuv>
     </tu>
     <tu>
@@ -20254,6 +20278,15 @@ itself on the first run.</seg>
         <seg>Matches can be found in your current translation or in the TMX files that you have put in the /tm/ folder.</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20190807T182550Z" creationid="Kos Ivantsov" creationdate="20190807T145438Z">
+        <seg>Збіги шукаються серед уже перекладеного в поточному проєкті, а також у файлах TMX, які містяться у теці для файлів пам’яті перекладів.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM:[generic]</prop>
+      <tuv lang="en">
+        <seg>Matches come from your current translation or the TMX files placed in the /tm/ folder.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221115T133037Z" creationid="Kos Ivantsov" creationdate="20221115T133037Z">
         <seg>Збіги шукаються серед уже перекладеного в поточному проєкті, а також у файлах TMX, які містяться у теці для файлів пам’яті перекладів.</seg>
       </tuv>
     </tu>
