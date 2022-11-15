@@ -5616,6 +5616,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Alternative</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221115T112635Z" creationid="Kos Ivantsov" creationdate="20221115T112635Z">
+        <seg>Варіант</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Alternative Language</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20190807T183723Z" creationid="Kos Ivantsov" creationdate="20190807T183723Z">
@@ -7854,6 +7862,14 @@ Buy another drink</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="maximo" changedate="20200704T210201Z" creationid="maximo" creationdate="20200704T210115Z">
         <seg>Перевірте &lt;u0&gt;головну сторінку OmegaT&lt;/u0&gt;, там є актуальний перелік доступних допоміжних інструментів.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Check the tag issues again.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221115T112222Z" creationid="Kos Ivantsov" creationdate="20221115T112222Z">
+        <seg>Перевірте помилки тегів ще раз.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10878,6 +10894,23 @@ a description of how this error was produced.</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM:[generic]</prop>
+      <tuv lang="en">
+        <seg>Double-check and try again.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221115T112827Z" creationid="Kos Ivantsov" creationdate="20221115T112827Z">
+        <seg>Перевірте і спробуйте ще раз.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Double-check it and try again.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221115T112004Z" creationid="Kos Ivantsov" creationdate="20221115T112004Z">
+        <seg>Перевірте і спробуйте ще раз.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en">
         <seg>Double-click on &lt;f0&gt;OmegaT.app&lt;/f0&gt; or click on its location in the Dock.</seg>
       </tuv>
@@ -11139,6 +11172,14 @@ a description of how this error was produced.</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20190424T212057Z" creationid="Kos Ivantsov" creationdate="20190424T212057Z">
         <seg>Повтори сегмента: {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Duplicated</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221115T112523Z" creationid="Kos Ivantsov" creationdate="20221115T112516Z">
+        <seg>Повтор</seg>
       </tuv>
     </tu>
     <tu>
@@ -11774,6 +11815,14 @@ is the language code and YY is the region or country code (optional).</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Enter your password again for confirmation.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221115T112817Z" creationid="Kos Ivantsov" creationdate="20221115T112817Z">
+        <seg>Для підтвердження введіть пароль ще раз.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Entries</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20190820T124953Z" creationid="Kos Ivantsov" creationdate="20190820T124953Z">
@@ -11937,6 +11986,15 @@ No one hears your screams</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM:[generic]</prop>
+      <tuv lang="en">
+        <seg>Error retrieving {0} as remote project file</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221115T112103Z" creationid="Kos Ivantsov" creationdate="20221115T112103Z">
+        <seg>Помилка завантаження {0} як віддаленого файлу проєкту</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en">
         <seg>Error saving project file!</seg>
       </tuv>
@@ -12006,6 +12064,14 @@ No one hears your screams</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20220830T175927Z" creationid="Kos Ivantsov" creationdate="20220830T175927Z">
         <seg>Сталася помилка під час отримання виводу зовнішньої програми</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Error while loading the source files.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221115T112745Z" creationid="Kos Ivantsov" creationdate="20221115T112745Z">
+        <seg>Помилка під час завантаження файлів для вирівнювання.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13235,6 +13301,14 @@ provided (omegat.kaptn).</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>For best results, install the appropriate dictionaries via Preferences &gt; Spellchecker.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221115T112257Z" creationid="Kos Ivantsov" creationdate="20221115T112257Z">
+        <seg>Для отримання найкращих результатів установіть відповідні словники у розділі «Перевірка правопису» (меню «Налаштування» &gt; «Параметри...»).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>For best results, please install the appropriate dictionaries via Preferences &gt; Spell Checking.</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20190822T164003Z" creationid="Kos Ivantsov" creationdate="20190821T114311Z">
@@ -14426,6 +14500,22 @@ provided (omegat.kaptn).</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20190504T132325Z" creationid="Kos Ivantsov" creationdate="20190504T132325Z">
         <seg>HTTP(S)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Has Comment, see Comments Tab</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221115T112613Z" creationid="Kos Ivantsov" creationdate="20221115T112613Z">
+        <seg>Містить коментар (див. область коментарів)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Has Note, see Notes Tab</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221115T112548Z" creationid="Kos Ivantsov" creationdate="20221115T112548Z">
+        <seg>Містить примітку (див. область приміток)</seg>
       </tuv>
     </tu>
     <tu>
@@ -17087,6 +17177,14 @@ click on that shortcut.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Incorrect password.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221115T112758Z" creationid="Kos Ivantsov" creationdate="20221115T112753Z">
+        <seg>Хибний пароль.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Indicate that this match is fuzzy (currently only for translations from PO files with the #fuzzy mark)</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="maximo" changedate="20200417T082550Z" creationid="maximo" creationdate="20200417T082550Z">
@@ -18317,10 +18415,26 @@ itself on the first run.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Keep Remote Version</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221115T112443Z" creationid="Kos Ivantsov" creationdate="20221115T112443Z">
+        <seg>Залишити віддалену версію</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Keep Unico&amp;de literals (\uXXXX)</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221112T161339Z" creationid="Kos Ivantsov" creationdate="20221112T161339Z">
         <seg>Збе&amp;рігати літерали Юнікоду (\uXXXX)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Keep Your Version</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221115T112436Z" creationid="Kos Ivantsov" creationdate="20221115T112436Z">
+        <seg>Залишити вашу версію</seg>
       </tuv>
     </tu>
     <tu>
@@ -20065,8 +20179,8 @@ itself on the first run.</seg>
       <tuv lang="en">
         <seg>Mine</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221024T132022Z" creationid="Kos Ivantsov" creationdate="20190807T183013Z">
-        <seg>Ваша версіяц</seg>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221115T112332Z" creationid="Kos Ivantsov" creationdate="20190807T183013Z">
+        <seg>Ваша версія</seg>
       </tuv>
     </tu>
     <tu>
@@ -20848,10 +20962,26 @@ as the Applications folder.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>No</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221115T112529Z" creationid="Kos Ivantsov" creationdate="20221115T112529Z">
+        <seg>Ні</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>No .DOCX files to clean.</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20190516T205249Z" creationid="Kos Ivantsov" creationdate="20190516T205249Z">
         <seg>Немає файлів DOCX для очищення.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>No Comment</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221115T112623Z" creationid="Kos Ivantsov" creationdate="20221115T112623Z">
+        <seg>Немає коментаря</seg>
       </tuv>
     </tu>
     <tu>
@@ -20876,6 +21006,14 @@ as the Applications folder.</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20190821T122848Z" creationid="Kos Ivantsov" creationdate="20190821T122848Z">
         <seg>Проблем не виявлено</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>No Note</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221115T112601Z" creationid="Kos Ivantsov" creationdate="20221115T112601Z">
+        <seg>Немає примітки</seg>
       </tuv>
     </tu>
     <tu>
@@ -20989,6 +21127,14 @@ as the Applications folder.</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221022T153325Z" creationid="Kos Ivantsov" creationdate="20221022T130359Z">
         <seg>Не вказано: Запустити графічний інтерфейс.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>No predefined credentials passed.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221115T112049Z" creationid="Kos Ivantsov" creationdate="20221115T112049Z">
+        <seg>Не передано попередньо визначені облікові дані.</seg>
       </tuv>
     </tu>
     <tu>
@@ -21129,6 +21275,14 @@ as the Applications folder.</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="maximo" changedate="20200420T200008Z" creationid="maximo" creationdate="20200420T200008Z">
         <seg>Зазвичай нема потреби запускати &lt;a0&gt;OmegaT&lt;/a0&gt; з командного рядка.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Not Alternative</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221115T112718Z" creationid="Kos Ivantsov" creationdate="20221115T112718Z">
+        <seg>Єдиний варіант</seg>
       </tuv>
     </tu>
     <tu>
@@ -23343,10 +23497,26 @@ your home folder.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Origin</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221115T112657Z" creationid="Kos Ivantsov" creationdate="20221115T112657Z">
+        <seg>Джерело</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Original author of the OmegaT application</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="maximo" changedate="20200321T124622Z" creationid="maximo" creationdate="20200321T124622Z">
         <seg>Автор OmegaT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Original version</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221115T112418Z" creationid="Kos Ivantsov" creationdate="20221115T112418Z">
+        <seg>Початкова версія</seg>
       </tuv>
     </tu>
     <tu>
@@ -24846,6 +25016,14 @@ project without team functionality.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Project data saving interval</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221115T112136Z" creationid="Kos Ivantsov" creationdate="20221115T112136Z">
+        <seg>Інтервал збереження даних проєкту</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Project file should be on http protocol.</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20190821T154123Z" creationid="Kos Ivantsov" creationdate="20190821T154040Z">
@@ -25649,6 +25827,14 @@ These words: 'Page not found'</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20190811T113119Z" creationid="Kos Ivantsov" creationdate="20190811T113119Z">
         <seg>Помилка мережі під час зв’язку з віддаленим сховищем: {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Remote version</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221115T112427Z" creationid="Kos Ivantsov" creationdate="20221115T112427Z">
+        <seg>Віддалена версія</seg>
       </tuv>
     </tu>
     <tu>
@@ -27994,6 +28180,14 @@ The scope of a search is by default the project and can be set to be any files l
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Select your version, the original version or the remote version.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221115T112408Z" creationid="Kos Ivantsov" creationdate="20221115T112318Z">
+        <seg>Виберіть свою, початкову або віддалену версію.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Selected Engine: {0}</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20190807T213459Z" creationid="Kos Ivantsov" creationdate="20190807T213459Z">
@@ -30271,6 +30465,15 @@ The scope of a text replacement is the target segments of the project, whether t
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM:[generic]</prop>
+      <tuv lang="en">
+        <seg>Text to remove</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221115T112148Z" creationid="Kos Ivantsov" creationdate="20221115T112148Z">
+        <seg>Текст, який має бути видалено</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en">
         <seg>Texted dragged from outside the target segment is copied, while text dragged from within the segment is moved.</seg>
       </tuv>
@@ -31970,6 +32173,15 @@ in /lib/licenses/Licenses.txt.</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20190821T214503Z" creationid="Kos Ivantsov" creationdate="20190821T214503Z">
         <seg>Пароль не збігається.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM:[generic]</prop>
+      <tuv lang="en">
+        <seg>The passwords do not match.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221115T112821Z" creationid="Kos Ivantsov" creationdate="20221115T112821Z">
+        <seg>Паролі не збігаються.</seg>
       </tuv>
     </tu>
     <tu>
@@ -38127,6 +38339,14 @@ Your page is not found</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Yes</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221115T112526Z" creationid="Kos Ivantsov" creationdate="20221115T112526Z">
+        <seg>Так</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>You
 can then launch the Kaptain launch script with:</seg>
       </tuv>
@@ -38902,6 +39122,14 @@ create the configuration folder.</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20190420T181203Z" creationid="Kos Ivantsov" creationdate="20190420T181203Z">
         <seg>Проєкт не містить жодного файлу у форматі, що підтримується OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Your version</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221115T112422Z" creationid="Kos Ivantsov" creationdate="20221115T112422Z">
+        <seg>Ваша версія</seg>
       </tuv>
     </tu>
     <tu>
