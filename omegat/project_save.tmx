@@ -6827,6 +6827,14 @@ Buy another drink</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Block the creation of translated files with tag &amp;issues</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221115T132524Z" creationid="Kos Ivantsov" creationdate="20221115T132524Z">
+        <seg>Заборонити створення перекладених документів при наявності помилок у &amp;тегах</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Blog pages on OmegaT.</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="lesia" changedate="20200324T163741Z" creationid="maximo" creationdate="20200322T135725Z">
@@ -7513,6 +7521,14 @@ Buy another drink</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="fanja9" changedate="20200720T124229Z" creationid="lesia" creationdate="20200412T201348Z">
         <seg>Зміна налаштувань сегментації може призвести до того, що вже перекладені сегменти розіб’ються на кілька або ж навпаки, з’єднаються.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Changing the tag order may break the translated file!</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221115T132504Z" creationid="Kos Ivantsov" creationdate="20221115T132504Z">
+        <seg>Зміна порядку тегів може призвести до помилок у перекладеному документі!</seg>
       </tuv>
     </tu>
     <tu>
