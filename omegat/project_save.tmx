@@ -8878,6 +8878,17 @@ a description of how this error was produced.</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM:[generic]</prop>
+      <tuv lang="en">
+        <seg>Contact your project administrator to find out if any
+additional steps need to be taken.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221115T133948Z" creationid="Kos Ivantsov" creationdate="20221115T133948Z">
+        <seg>Зв’яжіться з менеджером проєкту, щоб з’ясувати,
+чи потрібно виконати ще якісь дії.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en">
         <seg>Contains a comprehensive description of OmegaT.</seg>
       </tuv>
@@ -25362,6 +25373,14 @@ project without team functionality.</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20190516T205117Z" creationid="Kos Ivantsov" creationdate="20190516T205117Z">
         <seg>Проєкт не містить файлів.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Project conversion successful.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221115T133929Z" creationid="Kos Ivantsov" creationdate="20221115T133929Z">
+        <seg>Проєкт перетворено успішно.</seg>
       </tuv>
     </tu>
     <tu>
