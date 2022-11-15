@@ -13751,6 +13751,14 @@ provided (omegat.kaptn).</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Force Unicode literals compatibility with Java 8</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221115T130736Z" creationid="Kos Ivantsov" creationdate="20221115T130736Z">
+        <seg>Примусова сумісність літералів Юнікоду з Java 8</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Format, extensions and expected encoding</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20210514T191741Z" creationid="Kos Ivantsov" creationdate="20210514T191741Z">
