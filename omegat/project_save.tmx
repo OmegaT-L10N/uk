@@ -20127,6 +20127,15 @@ itself on the first run.</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM:[generic]</prop>
+      <tuv lang="en">
+        <seg>Mark Gl&amp;ossary Matches</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221116T163547Z" creationid="Kos Ivantsov" creationdate="20221116T163547Z">
+        <seg>Позначати збіги з глосарі&amp;їв</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en">
         <seg>Mark Glossary Matches</seg>
       </tuv>
