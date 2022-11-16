@@ -381,6 +381,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&amp;Auto-Completion</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221116T163629Z" creationid="Kos Ivantsov" creationdate="20221116T163629Z">
+        <seg>&amp;Автодоповнення</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&amp;Auto-propagation of Translations</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20190808T120829Z" creationid="Kos Ivantsov" creationdate="20190516T165805Z">
@@ -585,6 +593,14 @@
       </tuv>
       <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20190421T152211Z" creationid="Kos Ivantsov" creationdate="20190421T151234Z">
         <seg>Теку зі &amp;словниками</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&amp;Dictionary</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221116T163623Z" creationid="Kos Ivantsov" creationdate="20221116T163623Z">
+        <seg>&amp;Словник</seg>
       </tuv>
     </tu>
     <tu>
@@ -1010,6 +1026,14 @@
       </tuv>
       <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20190807T104026Z" creationid="Kos Ivantsov" creationdate="20190807T103926Z">
         <seg>Усе в &amp;нижньому регістрі</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&amp;Machine Translation</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221116T163608Z" creationid="Kos Ivantsov" creationdate="20221116T163608Z">
+        <seg>&amp;Машинний переклад</seg>
       </tuv>
     </tu>
     <tu>
@@ -15019,6 +15043,22 @@ Its winter has come</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20190422T204710Z" creationid="Kos Ivantsov" creationdate="20190422T204710Z">
         <seg>Історія</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>History &amp;Completion</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221116T163637Z" creationid="Kos Ivantsov" creationdate="20221116T163637Z">
+        <seg>Доповнення зі &amp;збереженого</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>History &amp;Prediction</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221116T163646Z" creationid="Kos Ivantsov" creationdate="20221116T163646Z">
+        <seg>&amp;Прогнозовані доповнення зі збереженого</seg>
       </tuv>
     </tu>
     <tu>
