@@ -5681,6 +5681,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>All sets that match the project source language are applied.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221118T104548Z" creationid="Kos Ivantsov" creationdate="20221118T104548Z">
+        <seg>Сегментація здійснюється відповідно до всіх правил з усіх наборів, які відповідають мові оригіналу в проєкті.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>All terms in a segment with a match in &lt;e0&gt;any&lt;/e0&gt; of the glossaries will be displayed in the &lt;l1/&gt; pane.</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221025T055742Z" creationid="Kos Ivantsov" creationdate="20221025T055742Z">
