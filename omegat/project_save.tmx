@@ -39060,6 +39060,17 @@ of selecting, obtaining and installing it.</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM:[generic]</prop>
+      <tuv lang="en">
+        <seg>Wildcards:
+Both exact and keyword searches support the * and ? wildcards.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221118T103202Z" creationid="Kos Ivantsov" creationdate="20221118T103202Z">
+        <seg>Символи узагальнення:
+У точному пошуку та пошуку за ключовими словами можна застосовувати символи узагальнення «*» та «?».</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en">
         <seg>Wildcards:
 Both exact and keyword searches support the wildcard characters * and ?.</seg>
