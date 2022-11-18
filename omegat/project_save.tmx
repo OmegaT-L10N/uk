@@ -25554,6 +25554,14 @@ additional steps need to be taken.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Preserve &amp;spaces for all tags</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221118T170012Z" creationid="Kos Ivantsov" creationdate="20221118T170012Z">
+        <seg>Зберігати пробіли для всіх тегів</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Preserve spaces &amp;for all tags</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221114T095227Z" creationid="Kos Ivantsov" creationdate="20190807T105412Z">
@@ -29183,6 +29191,14 @@ The scope of a search is by default the project and can be set to be any files l
       </tuv>
       <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221112T153523Z" creationid="Kos Ivantsov" creationdate="20221112T153523Z">
         <seg>Виберіть іншу теку.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Select a filter and click on Edit... or Options... to customize it.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221118T165958Z" creationid="Kos Ivantsov" creationdate="20221118T165958Z">
+        <seg>Для налаштування фільтра виберіть його у переліку та натисніть «Редагувати...» або «Параметри...».</seg>
       </tuv>
     </tu>
     <tu>
