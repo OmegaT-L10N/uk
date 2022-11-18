@@ -8988,6 +8988,15 @@ additional steps need to be taken.</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM:[generic]</prop>
+      <tuv lang="en">
+        <seg>Context menu priority:</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221118T100254Z" creationid="Kos Ivantsov" creationdate="20221118T100254Z">
+        <seg>Пріоритет у контекстному меню:</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en">
         <seg>Continue</seg>
       </tuv>
@@ -14686,8 +14695,8 @@ provided (omegat.kaptn).</seg>
       <tuv lang="en">
         <seg>Go to Preferences &gt; Global External Searches to enable.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221115T130330Z" creationid="Kos Ivantsov" creationdate="20221115T130330Z">
-        <seg>Їх можна увімкнути у розділі «Глобальний зовнішній пошук» (меню «Налаштування» → «Параметри...»).</seg>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221118T100243Z" creationid="Kos Ivantsov" creationdate="20221115T130330Z">
+        <seg>Їх можна увімкнути у розділі «Глобальний зовнішній пошук» (меню «Налаштування» &gt; «Параметри...»).</seg>
       </tuv>
     </tu>
     <tu>
