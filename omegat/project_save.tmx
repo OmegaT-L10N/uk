@@ -13397,6 +13397,15 @@ Gossamer threads hold you back
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM:[generic]</prop>
+      <tuv lang="en">
+        <seg>Filename variables:</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221118T101213Z" creationid="Kos Ivantsov" creationdate="20221118T101213Z">
+        <seg>Змінні назви файлу:</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en">
         <seg>Files containing formatting (ODF documents, HTML documents, etc.) are segmented on the block-level (paragraph) tags.</seg>
       </tuv>
@@ -29873,6 +29882,15 @@ The scope of a search is by default the project and can be set to be any files l
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM:[generic]</prop>
+      <tuv lang="en">
+        <seg>Source file encoding:</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221118T101206Z" creationid="Kos Ivantsov" creationdate="20221118T101206Z">
+        <seg>Кодування файлів для перекладу:</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en">
         <seg>Source file loading complete</seg>
       </tuv>
@@ -29886,6 +29904,15 @@ The scope of a search is by default the project and can be set to be any files l
       </tuv>
       <tuv lang="uk-UA" changeid="fanja9" changedate="20200719T150331Z" creationid="maximo" creationdate="20200413T165650Z">
         <seg>Тип файлу для перекладу, шаблон для назви файлу</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM:[generic]</prop>
+      <tuv lang="en">
+        <seg>Source filename pattern:</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221118T101203Z" creationid="Kos Ivantsov" creationdate="20221118T101203Z">
+        <seg>Шаблон для назв файлів для перекладу:</seg>
       </tuv>
     </tu>
     <tu>
@@ -36183,6 +36210,15 @@ linux-install.sh script, and execute the script with ./linux-install.sh.</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM:[generic]</prop>
+      <tuv lang="en">
+        <seg>Translated file encoding:</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221118T101209Z" creationid="Kos Ivantsov" creationdate="20221118T101209Z">
+        <seg>Кодування перекладених файлів:</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en">
         <seg>Translated file path cannot be identical to the source file path:
 {0}</seg>
@@ -36197,6 +36233,15 @@ linux-install.sh script, and execute the script with ./linux-install.sh.</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="fanja9" changedate="20200719T144027Z" creationid="maximo" creationdate="20200412T202125Z">
         <seg>Назва перекладеного файлу</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM:[generic]</prop>
+      <tuv lang="en">
+        <seg>Translated filename pattern</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221118T101302Z" creationid="Kos Ivantsov" creationdate="20221118T101302Z">
+        <seg>Шаблон для назв перекладених файлів</seg>
       </tuv>
     </tu>
     <tu>
