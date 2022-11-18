@@ -6319,6 +6319,15 @@ The TMX file will not be loaded.</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM:[generic]</prop>
+      <tuv lang="en">
+        <seg>Are you sure you want to remove the {0} segmentation rules set?</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221118T104119Z" creationid="Kos Ivantsov" creationdate="20221118T104119Z">
+        <seg>Ви дійсно бажаєте вилучити набір правил сегментації «{0}»?</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en">
         <seg>Are you sure you want to remove the {0} set of segmentation rules?</seg>
       </tuv>
@@ -19287,6 +19296,14 @@ itself on the first run.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Language sets</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221118T104033Z" creationid="Kos Ivantsov" creationdate="20221118T104033Z">
+        <seg>Набори правил</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>LanguageTool</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20190807T185727Z" creationid="Kos Ivantsov" creationdate="20190807T185727Z">
@@ -29389,6 +29406,14 @@ The scope of a search is by default the project and can be set to be any files l
       </tuv>
       <tuv lang="uk-UA" changeid="lesia" changedate="20200708T090212Z" creationid="maximo" creationdate="20200416T091046Z">
         <seg>Сегментувати текст після «。» (японська крапка)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Set contents</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221118T104109Z" creationid="Kos Ivantsov" creationdate="20221118T104049Z">
+        <seg>Правила в наборі</seg>
       </tuv>
     </tu>
     <tu>
