@@ -975,6 +975,15 @@
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM:[generic]</prop>
+      <tuv lang="en">
+        <seg>&amp;Jump to Segment</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221118T102209Z" creationid="Kos Ivantsov" creationdate="20221118T102209Z">
+        <seg>Перейти до &amp;сегмента</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en">
         <seg>&amp;Keyword search</seg>
       </tuv>
@@ -5242,6 +5251,15 @@ The current setting is {0}MB;</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM:[generic]</prop>
+      <tuv lang="en">
+        <seg>Add to Dictionary: “{0}”</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221118T102221Z" creationid="Kos Ivantsov" creationdate="20221118T102221Z">
+        <seg>Додати слово «{0}» до словника</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en">
         <seg>Added {0} glossary entries from {1}</seg>
       </tuv>
@@ -5514,10 +5532,28 @@ The current setting is {0}MB;</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM:[generic]</prop>
+      <tuv lang="en">
+        <seg>Aligner "Accepted" group</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221118T102156Z" creationid="Kos Ivantsov" creationdate="20221118T102156Z">
+        <seg>Вирівнювання файлів: прийняте</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en">
         <seg>Aligner "Needs Review" Group</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20190819T191950Z" creationid="Kos Ivantsov" creationdate="20190819T191950Z">
+        <seg>Вирівнювання файлів: для перегляду</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM:[generic]</prop>
+      <tuv lang="en">
+        <seg>Aligner "Needs Review" group</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221118T102158Z" creationid="Kos Ivantsov" creationdate="20221118T102158Z">
         <seg>Вирівнювання файлів: для перегляду</seg>
       </tuv>
     </tu>
@@ -5534,6 +5570,24 @@ The current setting is {0}MB;</seg>
         <seg>Aligner Table Row Highlight</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20190819T191756Z" creationid="Kos Ivantsov" creationdate="20190819T191756Z">
+        <seg>Вирівнювання файлів: виділення рядка</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM:[generic]</prop>
+      <tuv lang="en">
+        <seg>Aligner highlight</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221118T102201Z" creationid="Kos Ivantsov" creationdate="20221118T102201Z">
+        <seg>Вирівнювання файлів: виділення</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM:[generic]</prop>
+      <tuv lang="en">
+        <seg>Aligner table row highlight</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221118T102204Z" creationid="Kos Ivantsov" creationdate="20221118T102204Z">
         <seg>Вирівнювання файлів: виділення рядка</seg>
       </tuv>
     </tu>
@@ -14550,6 +14604,15 @@ provided (omegat.kaptn).</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM:[generic]</prop>
+      <tuv lang="en">
+        <seg>Global post-processing commands</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221118T102113Z" creationid="Kos Ivantsov" creationdate="20221118T102113Z">
+        <seg>Глобальні команди постобробки</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en">
         <seg>Global spell checking</seg>
       </tuv>
@@ -14728,6 +14791,15 @@ provided (omegat.kaptn).</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM:[generic]</prop>
+      <tuv lang="en">
+        <seg>Glossary matches</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221118T102120Z" creationid="Kos Ivantsov" creationdate="20221118T102120Z">
+        <seg>Збіги з глосаріїв</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en">
         <seg>Glossary note</seg>
       </tuv>
@@ -14838,6 +14910,15 @@ provided (omegat.kaptn).</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221118T095820Z" creationid="Kos Ivantsov" creationdate="20221118T095820Z">
         <seg>Перейти до сегмента</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM:[generic]</prop>
+      <tuv lang="en">
+        <seg>Go to Segment Source</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221118T101658Z" creationid="Kos Ivantsov" creationdate="20221118T101658Z">
+        <seg>Перейти до сегмента, з якого взято текст</seg>
       </tuv>
     </tu>
     <tu>
@@ -17850,6 +17931,15 @@ click on that shortcut.</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM:[generic]</prop>
+      <tuv lang="en">
+        <seg>Insert Match or Selection into Translation</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221118T101714Z" creationid="Kos Ivantsov" creationdate="20221118T101714Z">
+        <seg>Вставити у переклад збіг або вибраний текст</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en">
         <seg>Insert Missing Source &amp;Tags</seg>
       </tuv>
@@ -19179,6 +19269,15 @@ itself on the first run.</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM:[generic]</prop>
+      <tuv lang="en">
+        <seg>Language checker</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221118T102117Z" creationid="Kos Ivantsov" creationdate="20221118T102117Z">
+        <seg>Перевірка граматики</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en">
         <seg>Language not specified for translation unit variant.</seg>
       </tuv>
@@ -20113,6 +20212,15 @@ itself on the first run.</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM:[generic]</prop>
+      <tuv lang="en">
+        <seg>Machine translate highlight</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221118T102206Z" creationid="Kos Ivantsov" creationdate="20221118T102206Z">
+        <seg>Підсвічування машинного перекладу</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en">
         <seg>Magento CE Locale CSV</seg>
       </tuv>
@@ -20672,10 +20780,64 @@ itself on the first run.</seg>
     <tu>
       <prop type="origin">TM:[generic]</prop>
       <tuv lang="en">
+        <seg>Matches changed</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221118T102122Z" creationid="Kos Ivantsov" creationdate="20221118T102122Z">
+        <seg>Змінені фрагменти у збігах</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM:[generic]</prop>
+      <tuv lang="en">
         <seg>Matches come from your current translation or the TMX files placed in the /tm/ folder.</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221115T133037Z" creationid="Kos Ivantsov" creationdate="20221115T133037Z">
         <seg>Збіги шукаються серед уже перекладеного в поточному проєкті, а також у файлах TMX, які містяться у теці для файлів пам’яті перекладів.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM:[generic]</prop>
+      <tuv lang="en">
+        <seg>Matches deleted active</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221118T102140Z" creationid="Kos Ivantsov" creationdate="20221118T102140Z">
+        <seg>Видалений текст в активному збігу</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM:[generic]</prop>
+      <tuv lang="en">
+        <seg>Matches deleted inactive</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221118T102141Z" creationid="Kos Ivantsov" creationdate="20221118T102141Z">
+        <seg>Видалений текст у неактивному збігу</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM:[generic]</prop>
+      <tuv lang="en">
+        <seg>Matches inserted active</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221118T102132Z" creationid="Kos Ivantsov" creationdate="20221118T102132Z">
+        <seg>Новий текст в активному збігу</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM:[generic]</prop>
+      <tuv lang="en">
+        <seg>Matches inserted inactive</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221118T102135Z" creationid="Kos Ivantsov" creationdate="20221118T102135Z">
+        <seg>Новий текст у неактивному збігу</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM:[generic]</prop>
+      <tuv lang="en">
+        <seg>Matches unchanged</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221118T102126Z" creationid="Kos Ivantsov" creationdate="20221118T102126Z">
+        <seg>Незмінені фрагменти у збігах</seg>
       </tuv>
     </tu>
     <tu>
@@ -21856,6 +22018,15 @@ as the Applications folder.</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221114T095227Z" creationid="Kos Ivantsov" creationdate="20190805T185848Z">
         <seg>Без тегів та без чисел</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM:[generic]</prop>
+      <tuv lang="en">
+        <seg>No writable glossary file in the glossary folder.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221118T102058Z" creationid="Kos Ivantsov" creationdate="20221118T102058Z">
+        <seg>У теці для глосаріїв немає глосарія для запису.</seg>
       </tuv>
     </tu>
     <tu>
@@ -25728,6 +25899,15 @@ project without team functionality.</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM:[generic]</prop>
+      <tuv lang="en">
+        <seg>Project conversion failed.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221118T102109Z" creationid="Kos Ivantsov" creationdate="20221118T102109Z">
+        <seg>Не вдалося здійснити конвертацію проєкту.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en">
         <seg>Project conversion successful.</seg>
       </tuv>
@@ -27488,6 +27668,15 @@ These words: 'Page not found'</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM:[generic]</prop>
+      <tuv lang="en">
+        <seg>Run script in slot #{0}.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221118T102052Z" creationid="Kos Ivantsov" creationdate="20221118T102052Z">
+        <seg>Запущено скрипт, прив’язаний до гнізда № {0}.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en">
         <seg>Run script on slot #{0}.</seg>
       </tuv>
@@ -28119,6 +28308,15 @@ The scope of a search is by default the project and can be set to be any files l
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM:[generic]</prop>
+      <tuv lang="en">
+        <seg>Search found mark</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221118T102147Z" creationid="Kos Ivantsov" creationdate="20221118T102147Z">
+        <seg>Знайдений текст</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en">
         <seg>Search in</seg>
       </tuv>
@@ -28148,6 +28346,15 @@ The scope of a search is by default the project and can be set to be any files l
       </tuv>
       <tuv lang="uk-UA" changeid="fanja9" changedate="20200720T160143Z" creationid="maximo" creationdate="20200503T063718Z">
         <seg>Параметри пошуку такі ж, як у розділі &lt;l0&gt;Вікно пошуку&lt;/l0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM:[generic]</prop>
+      <tuv lang="en">
+        <seg>Search replaced mark</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221118T102152Z" creationid="Kos Ivantsov" creationdate="20221118T102152Z">
+        <seg>Текст заміни</seg>
       </tuv>
     </tu>
     <tu>
@@ -30551,6 +30758,15 @@ The scope of a search is by default the project and can be set to be any files l
         <seg>Subscription Key:</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20190807T184220Z" creationid="Kos Ivantsov" creationdate="20190807T184220Z">
+        <seg>Ключ підписки:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM:[generic]</prop>
+      <tuv lang="en">
+        <seg>Subscription key:</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221118T102038Z" creationid="Kos Ivantsov" creationdate="20221118T102038Z">
         <seg>Ключ підписки:</seg>
       </tuv>
     </tu>
@@ -37368,6 +37584,15 @@ java -Xmx&lt;обсяг-у-МБ&gt;M -jar OmegaT.jar
         <seg>Use &amp;TAB to Advance</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20190421T194539Z" creationid="Kos Ivantsov" creationdate="20190421T194539Z">
+        <seg>Використовувати TAB для пере&amp;ходу до наступного сегмента</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM:[generic]</prop>
+      <tuv lang="en">
+        <seg>Use &amp;TAB to advance</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221118T102229Z" creationid="Kos Ivantsov" creationdate="20221118T102229Z">
         <seg>Використовувати TAB для пере&amp;ходу до наступного сегмента</seg>
       </tuv>
     </tu>
