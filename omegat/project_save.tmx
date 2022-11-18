@@ -26775,6 +26775,14 @@ These words: 'Page not found'</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Remo&amp;ve tags</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221118T165539Z" creationid="Kos Ivantsov" creationdate="20221118T165539Z">
+        <seg>Вилучити теги</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Remote &amp;server</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20190821T135828Z" creationid="Kos Ivantsov" creationdate="20190821T135828Z">
@@ -30266,10 +30274,26 @@ The scope of a search is by default the project and can be set to be any files l
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Source files language:</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221118T165328Z" creationid="Kos Ivantsov" creationdate="20221118T165328Z">
+        <seg>Мова оригіналу:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Source folder {0} does not exist.</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221111T152500Z" creationid="Kos Ivantsov" creationdate="20190807T191146Z">
         <seg>Тека для файлів для перекладу {0} не існує.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Source language tokenizer:</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221118T165338Z" creationid="Kos Ivantsov" creationdate="20221118T165338Z">
+        <seg>Морфологічний аналізатор для мови оригіналу:</seg>
       </tuv>
     </tu>
     <tu>
@@ -31351,6 +31375,14 @@ The scope of a search is by default the project and can be set to be any files l
       </tuv>
       <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20190807T191131Z" creationid="Kos Ivantsov" creationdate="20190807T191131Z">
         <seg>Тека для перекладних файлів {0} не існує.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Target language tokenizer:</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221118T165344Z" creationid="Kos Ivantsov" creationdate="20221118T165344Z">
+        <seg>Морфологічний аналізатор для мови перекладу:</seg>
       </tuv>
     </tu>
     <tu>
@@ -36603,6 +36635,14 @@ linux-install.sh script, and execute the script with ./linux-install.sh.</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221118T100525Z" creationid="Kos Ivantsov" creationdate="20221118T100525Z">
         <seg>Тека для перекладених файлів:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Translated files language:</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221118T165332Z" creationid="Kos Ivantsov" creationdate="20221118T165332Z">
+        <seg>Мова перекладу:</seg>
       </tuv>
     </tu>
     <tu>
