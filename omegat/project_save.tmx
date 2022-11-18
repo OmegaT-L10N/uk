@@ -405,6 +405,15 @@
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM:[generic]</prop>
+      <tuv lang="en">
+        <seg>&amp;Auto-propagation of translations</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221118T100553Z" creationid="Kos Ivantsov" creationdate="20221118T100553Z">
+        <seg>Автоматичне &amp;заповнення однакових сегментів</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en">
         <seg>&amp;Automatically Fetch Translations</seg>
       </tuv>
@@ -1583,6 +1592,24 @@
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM:[generic]</prop>
+      <tuv lang="en">
+        <seg>&amp;Source files language:</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221118T100539Z" creationid="Kos Ivantsov" creationdate="20221118T100539Z">
+        <seg>Мова оригінал&amp;у:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM:[generic]</prop>
+      <tuv lang="en">
+        <seg>&amp;Source language tokenizer:</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221118T100549Z" creationid="Kos Ivantsov" creationdate="20221118T100549Z">
+        <seg>Морфологічний &amp;аналізатор для мови оригіналу:</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en">
         <seg>&amp;Statistics</seg>
       </tuv>
@@ -1623,6 +1650,15 @@
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM:[generic]</prop>
+      <tuv lang="en">
+        <seg>&amp;Target language tokenizer:</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221118T100550Z" creationid="Kos Ivantsov" creationdate="20221118T100550Z">
+        <seg>Мо&amp;рфологічний аналізатор для мови перекладу:</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en">
         <seg>&amp;Title Case</seg>
       </tuv>
@@ -1651,6 +1687,15 @@
         <seg>&amp;Translated Files Language:</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20190808T113540Z" creationid="Kos Ivantsov" creationdate="20190516T165501Z">
+        <seg>Мова &amp;перекладу:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM:[generic]</prop>
+      <tuv lang="en">
+        <seg>&amp;Translated files language:</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221118T100543Z" creationid="Kos Ivantsov" creationdate="20221118T100543Z">
         <seg>Мова &amp;перекладу:</seg>
       </tuv>
     </tu>
@@ -10479,6 +10524,15 @@ additional steps need to be taken.</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM:[generic]</prop>
+      <tuv lang="en">
+        <seg>Dictionaries folder:</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221118T100524Z" creationid="Kos Ivantsov" creationdate="20221118T100524Z">
+        <seg>Тека для словників:</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en">
         <seg>Dictionaries in &lt;a0&gt;OmegaT&lt;/a0&gt; are based on the StarDict or on the Lingvo DSL format.</seg>
       </tuv>
@@ -12805,6 +12859,15 @@ Gossamer threads hold you back
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM:[generic]</prop>
+      <tuv lang="en">
+        <seg>Export translation memories folder:</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221118T100532Z" creationid="Kos Ivantsov" creationdate="20221118T100532Z">
+        <seg>Тека для експортованих файлів пам’яті перекладів:</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en">
         <seg>Export translation memory folder entered does not exist!</seg>
       </tuv>
@@ -14489,6 +14552,15 @@ provided (omegat.kaptn).</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20210511T122013Z" creationid="Kos Ivantsov" creationdate="20210511T122013Z">
         <seg>Глосарії — це файли, що містять терміни.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM:[generic]</prop>
+      <tuv lang="en">
+        <seg>Glossaries folder:</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221118T100523Z" creationid="Kos Ivantsov" creationdate="20221118T100523Z">
+        <seg>Тека для глосаріїв:</seg>
       </tuv>
     </tu>
     <tu>
@@ -19761,11 +19833,29 @@ itself on the first run.</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM:[generic]</prop>
+      <tuv lang="en">
+        <seg>Local post-processing commands</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221118T100557Z" creationid="Kos Ivantsov" creationdate="20221118T100557Z">
+        <seg>Локальні команди постобробки</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM:[generic]</prop>
+      <tuv lang="en">
+        <seg>Local post-processing commands (disabled):</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221118T100601Z" creationid="Kos Ivantsov" creationdate="20221118T100601Z">
+        <seg>Локальні команди постобробки (вимкнуто):</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en">
         <seg>Local post-processing commands are disabled and will not be executed.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221115T124645Z" creationid="Kos Ivantsov" creationdate="20221115T124645Z">
-        <seg>Локальні команди постобробки вимкнуто і не буде виконано.</seg>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221118T100658Z" creationid="Kos Ivantsov" creationdate="20221115T124645Z">
+        <seg>Локальні команди постобробки не будуть виконуватися, оскільки вони вимкнуті.</seg>
       </tuv>
     </tu>
     <tu>
@@ -26599,6 +26689,15 @@ These words: 'Page not found'</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20190424T213707Z" creationid="Kos Ivantsov" creationdate="20190424T213707Z">
         <seg>Вилучити шаблон?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM:[generic]</prop>
+      <tuv lang="en">
+        <seg>Remove ta&amp;gs</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221118T100555Z" creationid="Kos Ivantsov" creationdate="20221118T100555Z">
+        <seg>Вилучити &amp;теги</seg>
       </tuv>
     </tu>
     <tu>
@@ -36082,6 +36181,15 @@ linux-install.sh script, and execute the script with ./linux-install.sh.</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM:[generic]</prop>
+      <tuv lang="en">
+        <seg>Translated files folder:</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221118T100525Z" creationid="Kos Ivantsov" creationdate="20221118T100525Z">
+        <seg>Тека для перекладених файлів:</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en">
         <seg>Translated files location not defined</seg>
       </tuv>
@@ -38844,6 +38952,14 @@ Your page is not found</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Writable Glossary File</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221118T100719Z" creationid="Kos Ivantsov" creationdate="20221118T100719Z">
+        <seg>Файл глосарія для запису</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Writeable Glossary File</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="lesia" changedate="20200616T203841Z" creationid="Kos Ivantsov" creationdate="20190504T132910Z">
@@ -38864,6 +38980,15 @@ Your page is not found</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="lesia" changedate="20200616T203841Z" creationid="Kos Ivantsov" creationdate="20190516T181003Z">
         <seg>Вказана тека для глосарія для запису не існує!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM:[generic]</prop>
+      <tuv lang="en">
+        <seg>Writeable glossary file:</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221118T100523Z" creationid="Kos Ivantsov" creationdate="20221118T100523Z">
+        <seg>Файл глосарія для запису:</seg>
       </tuv>
     </tu>
     <tu>
