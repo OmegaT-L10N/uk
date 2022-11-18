@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.8.0_0_b84bb7398" segtype="sentence" srclang="en"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.8.0_0_35682159d" segtype="sentence" srclang="en"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -2247,6 +2247,39 @@ To add files to the project, click on the Copy Files to Source Folder... button 
 	  та натиснути кнопку «Додати файли...»;
 	- за допомогою файлового менеджера скопіювати потрібні файли до теки для файлів для перекладу
 	  та перезавантажити проєкт (пункт «Перезавантажити проєкт» в меню «Проєкт»).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>- drag and drop files on this pane;
+	- use Project &gt; Add Files...;
+	- use Project &gt; Source Files... and click on Add Files...;
+	- use your file manager to copy files to the 'source' folder,
+	  and then use Project &gt; Reload to reload the project.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221118T164244Z" creationid="Kos Ivantsov" creationdate="20221118T164244Z">
+        <seg>- перетягнути потрібні файли на цю область редагування;
+	- вибрати пункт «Додати файли...» у меню «Проєкт»;
+	- відкрити вікно «Файли для перекладу» (меню «Проєкт» &gt; «Файли для перекладу»)
+	  та натиснути кнопку «Додати файли...»;
+	- за допомогою файлового менеджера скопіювати потрібні файли до теки для файлів для перекладу
+	  та перезавантажити проєкт (пункт «Перезавантажити проєкт» в меню «Проєкт»).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>- verify that their format is supported by OmegaT:
+	  if per-project filter settings are enabled
+	  use Project &gt; Properties... &gt; Local File Filters...,
+	  otherwise use Options &gt; Global File Filters...;
+	- open them in their original application and verify that they are not empty.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221118T165305Z" creationid="Kos Ivantsov" creationdate="20221118T164409Z">
+        <seg>- перевірте, чи підтримується їхній формат програмою OmegaT:
+	  якщо фільтри файлів застосовані лише у поточному проєкті, то
+	  відкрийте налаштування фільтрів через меню «Проєкт» &gt; «Властивості...» &gt; «Локальні фільтри файлів...»,
+	  якщо налаштування фільтрів глобальні — меню «Налаштування» &gt; «Глобальні фільтри файлів...»;
+	- відкрийте файли у відповідній програмі та перевірте, чи вони не порожні.</seg>
       </tuv>
     </tu>
     <tu>
