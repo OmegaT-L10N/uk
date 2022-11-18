@@ -9345,6 +9345,15 @@ additional steps need to be taken.</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM:[generic]</prop>
+      <tuv lang="en">
+        <seg>Create A&amp;lternative Translation</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221118T095608Z" creationid="Kos Ivantsov" creationdate="20221118T095608Z">
+        <seg>Створити варіант перекладу</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en">
         <seg>Create Alternative Translation</seg>
       </tuv>
@@ -17715,6 +17724,15 @@ click on that shortcut.</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM:[generic]</prop>
+      <tuv lang="en">
+        <seg>Insert Next Missing T&amp;ag</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221118T095443Z" creationid="Kos Ivantsov" creationdate="20221118T095443Z">
+        <seg>Вставити наступний пропущений тег</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en">
         <seg>Insert Next Missing Tag</seg>
       </tuv>
@@ -17744,6 +17762,15 @@ click on that shortcut.</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221114T095227Z" creationid="Kos Ivantsov" creationdate="20190421T171724Z">
         <seg>Вставити тег {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM:[generic]</prop>
+      <tuv lang="en">
+        <seg>Insert Unicode Control C&amp;haracter</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221118T095500Z" creationid="Kos Ivantsov" creationdate="20221118T095500Z">
+        <seg>Вставити контрольний символ Юнікоду</seg>
       </tuv>
     </tu>
     <tu>
@@ -19307,10 +19334,26 @@ itself on the first run.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Left-to-Right Embedding (LRE U+202&amp;A)</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221118T095536Z" creationid="Kos Ivantsov" creationdate="20221118T095536Z">
+        <seg>Початок вставленого тексту зліва направо (LRE U+202&amp;A)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Left-to-Right Embedding (LRE U+202A)</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20190420T154139Z" creationid="Kos Ivantsov" creationdate="20190420T154139Z">
         <seg>Початок вставленого тексту зліва направо (LRE U+202A)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Left-to-Right Mark (LRM U+200&amp;E)</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221118T095512Z" creationid="Kos Ivantsov" creationdate="20221118T095512Z">
+        <seg>Знак зліва направо (LRM U+200&amp;E)</seg>
       </tuv>
     </tu>
     <tu>
@@ -24878,6 +24921,14 @@ additional steps need to be taken.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Pop Directional Formatting (PDF U+202&amp;C)</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221118T095550Z" creationid="Kos Ivantsov" creationdate="20221118T095550Z">
+        <seg>Кінець тексту з іншим напрямком письма (PDF U+202&amp;C)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Pop Directional Formatting (PDF U+202C)</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20190420T154211Z" creationid="Kos Ivantsov" creationdate="20190420T154211Z">
@@ -26123,6 +26174,14 @@ These words: 'Page not found'</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Register I&amp;dentical Translation</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221118T095812Z" creationid="Kos Ivantsov" creationdate="20221118T095812Z">
+        <seg>Зареєструвати переклад, ідентичний з оригіналом</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Register Identical Translation</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20190421T190521Z" creationid="Kos Ivantsov" creationdate="20190421T190521Z">
@@ -26289,6 +26348,14 @@ These words: 'Page not found'</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20190808T125831Z" creationid="Kos Ivantsov" creationdate="20190808T125831Z">
         <seg>Вилу&amp;чити</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Remo&amp;ve Translation</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221118T095625Z" creationid="Kos Ivantsov" creationdate="20221118T095625Z">
+        <seg>Вилучити переклад</seg>
       </tuv>
     </tu>
     <tu>
@@ -27141,10 +27208,26 @@ These words: 'Page not found'</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Right-to-Left Embedding (RLE U+202&amp;B)</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221118T095542Z" creationid="Kos Ivantsov" creationdate="20221118T095542Z">
+        <seg>Початок вставленого тексту справа наліво (LRE U+202&amp;A)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Right-to-Left Embedding (RLE U+202B)</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20190420T154148Z" creationid="Kos Ivantsov" creationdate="20190420T154148Z">
         <seg>Початок вставленого тексту справа наліво (LRE U+202A)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Right-to-Left Mark (RLM U+200&amp;F)</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221118T095521Z" creationid="Kos Ivantsov" creationdate="20221118T095521Z">
+        <seg>Знак справа наліво (RLM U+200&amp;F)</seg>
       </tuv>
     </tu>
     <tu>
@@ -37172,6 +37255,14 @@ java -Xmx&lt;обсяг-у-МБ&gt;M -jar OmegaT.jar
       </tuv>
       <tuv lang="uk-UA" changeid="lesia" changedate="20200704T185617Z" creationid="lesia" creationdate="20200704T185617Z">
         <seg>Використовуйте клієнт SVN або Git, щоб додати файли для перекладу.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Use as Default Translati&amp;on</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221118T095603Z" creationid="Kos Ivantsov" creationdate="20221118T095558Z">
+        <seg>Використовувати як типовий переклад</seg>
       </tuv>
     </tu>
     <tu>
