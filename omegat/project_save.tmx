@@ -3764,8 +3764,8 @@ The current setting is {0}MB;</seg>
       <tuv lang="en">
         <seg>&lt;html&gt;&lt;i&gt;Preferences&lt;/i&gt; &amp;gt; &lt;i&gt;General&lt;/i&gt; &amp;gt; &lt;i&gt;Use TAB to advance&lt;/i&gt; is checked&lt;/html&gt;</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221112T202451Z" creationid="Kos Ivantsov" creationdate="20221112T191644Z">
-        <seg>&lt;html&gt;Відмічено &lt;i&gt;«Використовувати TAB для переходу до наступного сегмента»&lt;/i&gt; (розділ &lt;i&gt;«Загальні налаштування»&lt;/i&gt;, меню &lt;i&gt;«Налаштування»&lt;/i&gt; → &lt;i&gt;«Параметри»&lt;/i&gt;)&lt;/html&gt;</seg>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221118T095940Z" creationid="Kos Ivantsov" creationdate="20221112T191644Z">
+        <seg>&lt;html&gt;Відмічено &lt;i&gt;«Використовувати TAB для переходу до наступного сегмента»&lt;/i&gt; (розділ &lt;i&gt;«Загальні налаштування»&lt;/i&gt;, меню &lt;i&gt;«Налаштування»&lt;/i&gt; &gt; &lt;i&gt;«Параметри»&lt;/i&gt;)&lt;/html&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -27830,6 +27830,15 @@ The scope of a search is by default the project and can be set to be any files l
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM:[generic]</prop>
+      <tuv lang="en">
+        <seg>Se&amp;ntence-level segmenting</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221118T095827Z" creationid="Kos Ivantsov" creationdate="20221118T095827Z">
+        <seg>Сегментація за &amp;реченнями</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en">
         <seg>Se&amp;t</seg>
       </tuv>
@@ -29768,6 +29777,15 @@ The scope of a search is by default the project and can be set to be any files l
       </tuv>
       <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20190516T180831Z" creationid="Kos Ivantsov" creationdate="20190516T180751Z">
         <seg>Вказана тека для файлів для перекладу не існує!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM:[generic]</prop>
+      <tuv lang="en">
+        <seg>Source files folder:</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221118T095836Z" creationid="Kos Ivantsov" creationdate="20221118T095836Z">
+        <seg>Тека для файлів для перекладу:</seg>
       </tuv>
     </tu>
     <tu>
@@ -36157,6 +36175,15 @@ linux-install.sh script, and execute the script with ./linux-install.sh.</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20190420T125158Z" creationid="Kos Ivantsov" creationdate="20190420T125158Z">
         <seg>Переклад востаннє змінений користувачем {0} ({1}, {2})</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM:[generic]</prop>
+      <tuv lang="en">
+        <seg>Translation memories folder:</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221118T095905Z" creationid="Kos Ivantsov" creationdate="20221118T095905Z">
+        <seg>Тека для файлів пам’яті перекладів:</seg>
       </tuv>
     </tu>
     <tu>
