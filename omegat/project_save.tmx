@@ -4673,6 +4673,15 @@ The current setting is {0}MB;</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM:[generic]</prop>
+      <tuv lang="en">
+        <seg>A rule ID can only contain Latin letters, underscores, and periods.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221118T101615Z" creationid="Kos Ivantsov" creationdate="20221118T101615Z">
+        <seg>Ідентифікатор правила може містити лише латинські літери, підкреслення та крапки.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en">
         <seg>A script bundled with OmegaT called Switch Colour Themes provides a default "Dark" theme.</seg>
       </tuv>
@@ -5221,6 +5230,15 @@ The current setting is {0}MB;</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="maximo" changedate="20200705T092952Z" creationid="lesia" creationdate="20200704T184607Z">
         <seg>Додайте новий проєкт OmegaT до системи керування версіями (&lt;c0&gt;add&lt;/c0&gt; у SVN та Git)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM:[generic]</prop>
+      <tuv lang="en">
+        <seg>Add to Dictionary</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221118T101605Z" creationid="Kos Ivantsov" creationdate="20221118T101605Z">
+        <seg>Додати до словника</seg>
       </tuv>
     </tu>
     <tu>
@@ -28890,6 +28908,14 @@ The scope of a search is by default the project and can be set to be any files l
       </tuv>
       <tuv lang="uk-UA" changeid="fanja9" changedate="20200708T154048Z" creationid="maximo" creationdate="20200419T110705Z">
         <seg>Оберіть файл &lt;f3&gt;OmegaT.png&lt;/f3&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Select the desired languages and click Install.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221118T101642Z" creationid="Kos Ivantsov" creationdate="20221118T101642Z">
+        <seg>Виберіть бажані мови та натисніть кнопку «Установити».</seg>
       </tuv>
     </tu>
     <tu>
