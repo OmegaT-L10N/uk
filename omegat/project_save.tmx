@@ -44109,10 +44109,18 @@ create the configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>~/Library/Preferences/OmegaT</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221122T094244Z" creationid="Kos Ivantsov" creationdate="20221122T094244Z">
+        <seg>~/Library/Preferences/OmegaT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>~\AppData\Roaming\OmegaT</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221122T094220Z" creationid="Kos Ivantsov" creationdate="20221122T094220Z">
-        <seg>~\AppData\Роумінг\OmegaT</seg>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221122T094235Z" creationid="Kos Ivantsov" creationdate="20221122T094220Z">
+        <seg>~\AppData\Roaming\OmegaT</seg>
       </tuv>
     </tu>
     <tu>
