@@ -2680,8 +2680,8 @@ To add files to the project, click on the Copy Files to Source Folder... button 
 	    Prints to the specified file, or to standard output
 	    if no file is given or the option is not used.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221122T092353Z" creationid="Kos Ivantsov" creationdate="20221122T092353Z">
-        <seg>	  --output-file=[&lt;файл виведення статистики&gt;]
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221122T092420Z" creationid="Kos Ivantsov" creationdate="20221122T092353Z">
+        <seg>	  --output-file=&lt;файл виведення статистики&gt;
 	    Статистика буде виведена у вказаний файл або у stdout (cтандартний вивід),
 	    якщо цей параметр відсутній або файл не вказано.</seg>
       </tuv>
