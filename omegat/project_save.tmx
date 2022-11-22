@@ -2372,6 +2372,17 @@ To add files to the project, click on the Copy Files to Source Folder... button 
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM:[generic]</prop>
+      <tuv lang="en">
+        <seg>--config-dir=&lt;path&gt;
+	  The folder used to read or write OmegaT configuration files.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221122T092313Z" creationid="Kos Ivantsov" creationdate="20221122T092313Z">
+        <seg>--config-dir=&lt;шлях&gt;
+	  Тека для читання та запису файлів із налаштуваннями OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en">
         <seg>--config-file=&lt;p2&gt;/path/to/config-file/&lt;/p2&gt; \</seg>
       </tuv>
@@ -2416,6 +2427,17 @@ To add files to the project, click on the Copy Files to Source Folder... button 
 	  Do not remember the last directory opened in the file picker.</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221022T155443Z" creationid="Kos Ivantsov" creationdate="20221022T151544Z">
+        <seg>--disable-location-save
+	  Не запам’ятовувати останню теку, яка була відкрита у діалозі вибору файлів.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM:[generic]</prop>
+      <tuv lang="en">
+        <seg>--disable-location-save
+	  Do not remember the last folder opened in the file picker.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221122T092305Z" creationid="Kos Ivantsov" creationdate="20221122T092305Z">
         <seg>--disable-location-save
 	  Не запам’ятовувати останню теку, яка була відкрита у діалозі вибору файлів.</seg>
       </tuv>
@@ -2514,6 +2536,20 @@ To add files to the project, click on the Copy Files to Source Folder... button 
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM:[generic]</prop>
+      <tuv lang="en">
+        <seg>--mode=console-align
+	  --alignDir=&lt;path&gt;
+	    A folder containing the translated files.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221122T092331Z" creationid="Kos Ivantsov" creationdate="20221122T092331Z">
+        <seg>--mode=console-align
+	  (Режим вирівнювання у консолі)
+	  --alignDir=&lt;path&gt;
+	    Тека, що містить перекладені файли.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en">
         <seg>--mode=console-createpseudotranslatetmx</seg>
       </tuv>
@@ -2586,6 +2622,19 @@ To add files to the project, click on the Copy Files to Source Folder... button 
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>--mode=console-stats
+	  project_path
+	    The path to the project.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221122T092351Z" creationid="Kos Ivantsov" creationdate="20221122T092351Z">
+        <seg>--mode=console-stats
+	  (Режим виведення статистики у консоль)
+	  &lt;шлях до проєкту&gt;
+	    Шлях до проєкту</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>--mode=console-translate</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="lesia" changedate="20200708T095823Z" creationid="lesia" creationdate="20200702T190318Z">
@@ -2623,6 +2672,18 @@ To add files to the project, click on the Copy Files to Source Folder... button 
       <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221022T153035Z" creationid="Kos Ivantsov" creationdate="20221022T132026Z">
         <seg>--no-team
 	  Вимкнути функціонал роботи з командними проєктами.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>--output-file=[stats-output-file]
+	    Prints to the specified file, or to standard output
+	    if no file is given or the option is not used.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221122T092353Z" creationid="Kos Ivantsov" creationdate="20221122T092353Z">
+        <seg>	  --output-file=[&lt;файл виведення статистики&gt;]
+	    Статистика буде виведена у вказаний файл або у stdout (cтандартний вивід),
+	    якщо цей параметр відсутній або файл не вказано.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2734,6 +2795,18 @@ To add files to the project, click on the Copy Files to Source Folder... button 
 	  A Java .properties file to use for the interface text</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221111T140725Z" creationid="Kos Ivantsov" creationdate="20221111T135609Z">
+        <seg>--resource-bundle=&lt;шлях&gt;
+	  Файл «.properties» Java,
+	  який буде використаний для локалізації інтерфейсу.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM:[generic]</prop>
+      <tuv lang="en">
+        <seg>--resource-bundle=&lt;path&gt;
+	  A Java .properties file to use for the interface text.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221122T092320Z" creationid="Kos Ivantsov" creationdate="20221122T092320Z">
         <seg>--resource-bundle=&lt;шлях&gt;
 	  Файл «.properties» Java,
 	  який буде використаний для локалізації інтерфейсу.</seg>
