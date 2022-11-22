@@ -12648,6 +12648,15 @@ No one hears your screams</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM:[generic]</prop>
+      <tuv lang="en">
+        <seg>Error searching folder tree!</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221122T092524Z" creationid="Kos Ivantsov" creationdate="20221122T092524Z">
+        <seg>Помилка пошуку в структурі тек!</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en">
         <seg>Error starting external command: {0}</seg>
       </tuv>
@@ -42568,6 +42577,14 @@ create the configuration folder.</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20190517T142631Z" creationid="Kos Ivantsov" creationdate="20190517T142631Z">
         <seg>завантажено</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>loaded {0} attributes.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221122T092544Z" creationid="Kos Ivantsov" creationdate="20221122T092544Z">
+        <seg>завантажено атрибутів: {0}.</seg>
       </tuv>
     </tu>
     <tu>
