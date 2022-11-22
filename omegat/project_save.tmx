@@ -1627,6 +1627,15 @@
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM:[generic]</prop>
+      <tuv lang="en">
+        <seg>&amp;Stop at segments that are untranslated or have alternative translations</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221122T092629Z" creationid="Kos Ivantsov" creationdate="20221122T092629Z">
+        <seg>Зупинятися на неперекладених сегментах та сегментах з варіантами перекладу</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en">
         <seg>&amp;Stop at untranslated segments and segments with alternative translations</seg>
       </tuv>
@@ -15064,6 +15073,15 @@ provided (omegat.kaptn).</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20190822T164014Z" creationid="Kos Ivantsov" creationdate="20190820T141746Z">
         <seg>Їх можна увімкнути у розділі «Зовнішній пошук» (меню «Налаштування» → «Параметри...»).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM:[generic]</prop>
+      <tuv lang="en">
+        <seg>Go to Preferences &gt; Global External Searches to enable them.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221122T092652Z" creationid="Kos Ivantsov" creationdate="20221122T092652Z">
+        <seg>Їх можна увімкнути у розділі «Глобальний зовнішній пошук» (меню «Налаштування» &gt; «Параметри...»).</seg>
       </tuv>
     </tu>
     <tu>
@@ -30040,6 +30058,15 @@ The scope of a search is by default the project and can be set to be any files l
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM:[generic]</prop>
+      <tuv lang="en">
+        <seg>Skipped translation units for which no source  segment was found.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221122T092615Z" creationid="Kos Ivantsov" creationdate="20221122T092615Z">
+        <seg>Пропущено одиниці перекладу, в яких не було знайдено сегментів мовою оригіналу.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en">
         <seg>Skipped translation units for which no source segments were found.</seg>
       </tuv>
@@ -36700,6 +36727,15 @@ linux-install.sh script, and execute the script with ./linux-install.sh.</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20190803T181428Z" creationid="Kos Ivantsov" creationdate="20190803T181428Z">
         <seg>Перекладати наступні елементи:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM:[generic]</prop>
+      <tuv lang="en">
+        <seg>Translate this plural as a plural form #{0}.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221122T092643Z" creationid="Kos Ivantsov" creationdate="20221122T092643Z">
+        <seg>Ця форма множини має перекладатися як № {0}.</seg>
       </tuv>
     </tu>
     <tu>
