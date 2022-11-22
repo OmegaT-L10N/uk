@@ -43466,6 +43466,14 @@ create the configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>source.txt</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221122T094258Z" creationid="Kos Ivantsov" creationdate="20221122T094258Z">
+        <seg>source.txt</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>specify what parts of text should NOT be separated.</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="maximo" changedate="20200414T193833Z" creationid="maximo" creationdate="20200414T193833Z">
@@ -43510,6 +43518,14 @@ create the configuration folder.</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="lesia" changedate="20200503T063608Z" creationid="lesia" creationdate="20200503T063608Z">
         <seg>target = project.getTranslationInfo(currSegment).translation;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>target.txt</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221122T094259Z" creationid="Kos Ivantsov" creationdate="20221122T094259Z">
+        <seg>target.txt</seg>
       </tuv>
     </tu>
     <tu>
