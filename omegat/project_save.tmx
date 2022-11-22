@@ -28427,6 +28427,14 @@ The scope of a search is by default the project and can be set to be any files l
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Se&amp;lect Source Text</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221122T092512Z" creationid="Kos Ivantsov" creationdate="20221122T092512Z">
+        <seg>Вибрати текст оригіналу</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Se&amp;ntence-level Segmenting</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221114T102940Z" creationid="Kos Ivantsov" creationdate="20221114T102940Z">
@@ -37813,6 +37821,16 @@ on line {1}, column {2}.</seg>
       <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221022T162920Z" creationid="Kos Ivantsov" creationdate="20221022T162920Z">
         <seg>Використання: team init &lt;мова оригіналу&gt; &lt;мова перекладу&gt;
 	Див. --help</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Usage: team init &lt;source language&gt; &lt;target language&gt;
+	See --help.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221122T092451Z" creationid="Kos Ivantsov" creationdate="20221122T092451Z">
+        <seg>Використання: team init &lt;мова оригіналу&gt; &lt;мова перекладу&gt;
+	Див. --help.</seg>
       </tuv>
     </tu>
     <tu>
