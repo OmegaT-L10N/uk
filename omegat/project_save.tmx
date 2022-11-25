@@ -22819,6 +22819,15 @@ as the Applications folder.</seg>
     <tu>
       <prop type="origin">TM:[generic]</prop>
       <tuv lang="en">
+        <seg>Note: The Source file encoding setting only affects HHC and HHK files with no encoding declaration.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221125T202316Z" creationid="Kos Ivantsov" creationdate="20221125T202316Z">
+        <seg>Примітка: налаштування кодування файлів для перекладу впливають лише на ті файли HHC та HHK, які не містять оголошення про кодування.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM:[generic]</prop>
+      <tuv lang="en">
         <seg>Note: The Source file encoding setting only affects HTML files with no encoding declaration.</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221125T202308Z" creationid="Kos Ivantsov" creationdate="20221125T202308Z">
