@@ -22817,6 +22817,15 @@ as the Applications folder.</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM:[generic]</prop>
+      <tuv lang="en">
+        <seg>Note: The Source file encoding setting only affects HTML files with no encoding declaration.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221125T202308Z" creationid="Kos Ivantsov" creationdate="20221125T202308Z">
+        <seg>Примітка: налаштування кодування файлів для перекладу впливають лише на ті файли HTML, які не містять оголошення про кодування.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en">
         <seg>Note: filenames (in first column) can be sorted alphabetically by clicking in the header.</seg>
       </tuv>
@@ -31089,6 +31098,15 @@ The scope of a search is by default the project and can be set to be any files l
         <seg>Start a New Paragraph &amp;on Word Soft Return</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20190823T184611Z" creationid="Kos Ivantsov" creationdate="20190805T121039Z">
+        <seg>Починати абзац на місці м’&amp;якого розриву рядка у Word</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM:[generic]</prop>
+      <tuv lang="en">
+        <seg>Start a new paragraph &amp;on Word soft return</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221125T202251Z" creationid="Kos Ivantsov" creationdate="20221125T202251Z">
         <seg>Починати абзац на місці м’&amp;якого розриву рядка у Word</seg>
       </tuv>
     </tu>
