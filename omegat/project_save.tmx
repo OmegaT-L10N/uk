@@ -24841,6 +24841,15 @@ your home folder.</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM:[generic]</prop>
+      <tuv lang="en">
+        <seg>Other options:</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221125T202243Z" creationid="Kos Ivantsov" creationdate="20221125T202243Z">
+        <seg>Інші параметри:</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en">
         <seg>Other plain text or formatted text file formats suitable for processing in OmegaT may also exist.</seg>
       </tuv>
