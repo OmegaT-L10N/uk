@@ -40436,6 +40436,14 @@ can then launch the Kaptain launch script with:</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>You are trying to use the HunspellTokenizer with {0}, but no spelling dictionaries are installed for this language.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221125T203710Z" creationid="Kos Ivantsov" creationdate="20221125T203326Z">
+        <seg>Обрана мова: {0}. Для неї немає встановлених правописних словників, хоча вказано використовувати HunspellTokenizer.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>You are uninstalling the spellchecking dictionary that your project currently uses.</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20190820T192031Z" creationid="Kos Ivantsov" creationdate="20190820T192031Z">
