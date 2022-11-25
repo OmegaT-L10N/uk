@@ -11948,7 +11948,7 @@ project_save.tmx не був переданий на віддалений сер
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">TM:[generic]</prop>
+      <note>Original text might be wrong</note>
       <tuv lang="en">
         <seg>E&amp;xport the segment to a text file</seg>
       </tuv>
