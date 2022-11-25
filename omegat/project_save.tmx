@@ -7240,6 +7240,14 @@ Buy another drink</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Break/exception</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221125T202330Z" creationid="Kos Ivantsov" creationdate="20221125T202330Z">
+        <seg>Розрив/виключення</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Briac Pilpré</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="maximo" changedate="20200614T163953Z" creationid="maximo" creationdate="20200614T163953Z">
@@ -11937,6 +11945,15 @@ project_save.tmx не був переданий на віддалений сер
       </tuv>
       <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20190807T140239Z" creationid="Kos Ivantsov" creationdate="20190421T171102Z">
         <seg>Е&amp;кспортувати вибраний текст</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM:[generic]</prop>
+      <tuv lang="en">
+        <seg>E&amp;xport the segment to a text file</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221125T202412Z" creationid="Kos Ivantsov" creationdate="20221125T202412Z">
+        <seg>Експортувати &amp;текст сегмента до текстових файлів</seg>
       </tuv>
     </tu>
     <tu>
@@ -19565,11 +19582,29 @@ itself on the first run.</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM:[generic]</prop>
+      <tuv lang="en">
+        <seg>Language name</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221125T202321Z" creationid="Kos Ivantsov" creationdate="20221125T202321Z">
+        <seg>Мова</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en">
         <seg>Language not specified for translation unit variant.</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20190701T133511Z" creationid="Kos Ivantsov" creationdate="20190701T133511Z">
         <seg>Для варіанту одиниці перекладу не вказано мову.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM:[generic]</prop>
+      <tuv lang="en">
+        <seg>Language pattern</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221125T202324Z" creationid="Kos Ivantsov" creationdate="20221125T202324Z">
+        <seg>Шаблон назви мови</seg>
       </tuv>
     </tu>
     <tu>
@@ -21985,6 +22020,15 @@ as the Applications folder.</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20190821T152539Z" creationid="Kos Ivantsov" creationdate="20190821T152539Z">
         <seg>Нова тека для локальної копії проєкту:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM:[generic]</prop>
+      <tuv lang="en">
+        <seg>New language and country</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221125T202338Z" creationid="Kos Ivantsov" creationdate="20221125T202338Z">
+        <seg>Нова мова та країна</seg>
       </tuv>
     </tu>
     <tu>
@@ -25142,6 +25186,24 @@ Vanishing like mist</seg>
         <seg>Pattern Before</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20190819T105009Z" creationid="Kos Ivantsov" creationdate="20190819T105009Z">
+        <seg>Шаблон до</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM:[generic]</prop>
+      <tuv lang="en">
+        <seg>Pattern after</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221125T202334Z" creationid="Kos Ivantsov" creationdate="20221125T202334Z">
+        <seg>Шаблон після</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM:[generic]</prop>
+      <tuv lang="en">
+        <seg>Pattern before</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221125T202332Z" creationid="Kos Ivantsov" creationdate="20221125T202332Z">
         <seg>Шаблон до</seg>
       </tuv>
     </tu>
