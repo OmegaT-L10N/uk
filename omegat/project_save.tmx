@@ -10015,6 +10015,15 @@ additional steps need to be taken.</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM:[generic]</prop>
+      <tuv lang="en">
+        <seg>Creation of new team project cancelled</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221125T202923Z" creationid="Kos Ivantsov" creationdate="20221125T202923Z">
+        <seg>Створення нового командного проєкту скасовано</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en">
         <seg>Creator</seg>
       </tuv>
@@ -12200,6 +12209,9 @@ project_save.tmx не був переданий на віддалений сер
       <note>Java 1.6?</note>
       <tuv lang="en">
         <seg>Either update to the latest JDK 1.6, or remove the jaxb-*.jar files from the OmegaT /lib dir</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221125T202917Z">
+        <seg>Потрібно оновити JDK 1.6 до останньої версії або видалити файли jaxb-*.jar з підтеки /lib у тій теці, куди встановлено OmegaT</seg>
       </tuv>
     </tu>
     <tu>
@@ -16227,8 +16239,8 @@ their default values.</seg>
       <tuv lang="en">
         <seg>If checked, the longer entries are placed on the list first.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20190820T110003Z" creationid="Kos Ivantsov" creationdate="20190820T110003Z">
-        <seg>Якщо позначено, то у переліку перекладених термінів спочатку подаватимуться довші переклади</seg>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221125T202943Z" creationid="Kos Ivantsov" creationdate="20190820T110003Z">
+        <seg>Якщо позначено, то у переліку перекладених термінів спочатку подаватимуться довші переклади.</seg>
       </tuv>
     </tu>
     <tu>
@@ -30560,6 +30572,15 @@ The scope of a search is by default the project and can be set to be any files l
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM:[generic]</prop>
+      <tuv lang="en">
+        <seg>Sort by Target Term Length</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221125T202803Z" creationid="Kos Ivantsov" creationdate="20221125T202803Z">
+        <seg>Сортувати за довжиною перекладених термінів</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en">
         <seg>Sort by len&amp;gth</seg>
       </tuv>
@@ -39421,6 +39442,15 @@ of selecting, obtaining and installing it.</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221125T202751Z" creationid="Kos Ivantsov" creationdate="20190820T161144Z">
         <seg>Якщо у файлі сегментів більше за вказане число, подальші сегменти будуть завантажуватися на вимогу під час прокрутки.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM:[generic]</prop>
+      <tuv lang="en">
+        <seg>When checked, the items in the glossary auto-completer view will also contain the source text.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221125T202933Z" creationid="Kos Ivantsov" creationdate="20221125T202933Z">
+        <seg>Якщо позначено, то у вигульку автодоповнення записи з глосаріїв міститимуть також терміни мовою оригіналу.</seg>
       </tuv>
     </tu>
     <tu>
