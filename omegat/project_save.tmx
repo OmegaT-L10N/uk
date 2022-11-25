@@ -6841,6 +6841,15 @@ may experience unexpected, but correct behaviour.</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM:[generic]</prop>
+      <tuv lang="en">
+        <seg>Auto-sync with editor</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221125T175629Z" creationid="Kos Ivantsov" creationdate="20221125T175629Z">
+        <seg>Синхронізувати з област&amp;ю редагування</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en">
         <seg>Auto-text configuration</seg>
       </tuv>
@@ -13039,6 +13048,15 @@ Gossamer threads hold you back
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM:[generic]</prop>
+      <tuv lang="en">
+        <seg>Exclude pattern</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221125T175616Z" creationid="Kos Ivantsov" creationdate="20221125T175616Z">
+        <seg>Шаблон для виключення</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en">
         <seg>Exclusion Patterns</seg>
       </tuv>
@@ -17993,6 +18011,15 @@ click on that shortcut.</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM:[generic]</prop>
+      <tuv lang="en">
+        <seg>Include pattern</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221125T175618Z" creationid="Kos Ivantsov" creationdate="20221125T175618Z">
+        <seg>Шаблон для включення</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en">
         <seg>Include the &amp;first non-unique segment when marking non-unique segments</seg>
       </tuv>
@@ -20208,6 +20235,15 @@ itself on the first run.</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM:[generic]</prop>
+      <tuv lang="en">
+        <seg>Local file/folder</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221125T175610Z" creationid="Kos Ivantsov" creationdate="20221125T175610Z">
+        <seg>Локальний файл/локальна тека</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en">
         <seg>Local installation path:</seg>
       </tuv>
@@ -20603,6 +20639,15 @@ itself on the first run.</seg>
         <seg>Mapping of Local Folders to Remote Folders in Repositories</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20190516T180242Z" creationid="Kos Ivantsov" creationdate="20190504T135706Z">
+        <seg>Прив’язки локальних тек до тек у віддалених сховищах</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM:[generic]</prop>
+      <tuv lang="en">
+        <seg>Mapping of local folders to remote folders in repositories</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221125T175555Z" creationid="Kos Ivantsov" creationdate="20221125T175555Z">
         <seg>Прив’язки локальних тек до тек у віддалених сховищах</seg>
       </tuv>
     </tu>
@@ -27022,6 +27067,15 @@ These words: 'Page not found'</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM:[generic]</prop>
+      <tuv lang="en">
+        <seg>Remote file/folder</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221125T175613Z" creationid="Kos Ivantsov" creationdate="20221125T175613Z">
+        <seg>Віддалений файл/віддалена тека</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en">
         <seg>Remote location of the files to translate.</seg>
       </tuv>
@@ -27043,6 +27097,15 @@ These words: 'Page not found'</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20220827T190038Z" creationid="Kos Ivantsov" creationdate="20220827T190038Z">
         <seg>У віддаленому файлі проєкту не вказані параметри git.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM:[generic]</prop>
+      <tuv lang="en">
+        <seg>Remote repositories</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221125T175547Z" creationid="Kos Ivantsov" creationdate="20221125T175547Z">
+        <seg>Віддалені сховища</seg>
       </tuv>
     </tu>
     <tu>
@@ -37363,6 +37426,15 @@ Exact searches match the whole search string.</seg>
         <seg>Unable to initialize read of XML file!</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20190517T124846Z" creationid="Kos Ivantsov" creationdate="20190517T124846Z">
+        <seg>Не вдається ініціалізувати читання файлу XML!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM:[generic]</prop>
+      <tuv lang="en">
+        <seg>Unable to initialize reading of XML file!</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221125T175641Z" creationid="Kos Ivantsov" creationdate="20221125T175641Z">
         <seg>Не вдається ініціалізувати читання файлу XML!</seg>
       </tuv>
     </tu>
