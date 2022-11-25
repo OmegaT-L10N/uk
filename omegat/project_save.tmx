@@ -39722,6 +39722,15 @@ Your page is not found</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM:[generic]</prop>
+      <tuv lang="en">
+        <seg>Writable glossary file:</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221125T172343Z" creationid="Kos Ivantsov" creationdate="20221125T172343Z">
+        <seg>Файл глосарія для запису:</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en">
         <seg>Writeable Glossary File</seg>
       </tuv>
