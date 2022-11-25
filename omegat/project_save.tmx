@@ -1513,6 +1513,15 @@
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM:[generic]</prop>
+      <tuv lang="en">
+        <seg>&amp;Sheet names</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221125T175738Z" creationid="Kos Ivantsov" creationdate="20221125T175738Z">
+        <seg>Назви &amp;аркушів</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en">
         <seg>&amp;Show All</seg>
       </tuv>
@@ -8801,6 +8810,15 @@ Buy another drink</seg>
     <tu>
       <prop type="origin">TM:[generic]</prop>
       <tuv lang="en">
+        <seg>Column index must be equal to 1</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221125T175722Z" creationid="Kos Ivantsov" creationdate="20221125T175722Z">
+        <seg>Номер стовпця повинен дорівнювати 1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM:[generic]</prop>
+      <tuv lang="en">
         <seg>Comm&amp;it Target Files</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221113T205031Z" creationid="Kos Ivantsov" creationdate="20221113T205031Z">
@@ -11806,6 +11824,15 @@ additional steps need to be taken.</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM:[generic]</prop>
+      <tuv lang="en">
+        <seg>Duplicate fallbac&amp;k text</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221125T175753Z" creationid="Kos Ivantsov" creationdate="20221125T175753Z">
+        <seg>Ре&amp;зервний текст-дублікат</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en">
         <seg>Duplicate segments: {0}</seg>
       </tuv>
@@ -12610,6 +12637,15 @@ No one hears your screams</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM:[generic]</prop>
+      <tuv lang="en">
+        <seg>Error loading plugin from class '{0}': {1}: {2}</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221125T175710Z" creationid="Kos Ivantsov" creationdate="20221125T175657Z">
+        <seg>Помилка під час завантаження плагіна з класу «{0}»: {1}: {2}</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en">
         <seg>Error monitoring external command!</seg>
       </tuv>
@@ -12712,6 +12748,15 @@ No one hears your screams</seg>
         <seg>Error unload plugin from class '{0}': {1}</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20190517T151653Z" creationid="Kos Ivantsov" creationdate="20190517T151620Z">
+        <seg>Помилка під час вивантаження плагіна з класу «{0}»: {1}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM:[generic]</prop>
+      <tuv lang="en">
+        <seg>Error unloading plugin from class '{0}': {1}</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221125T175706Z" creationid="Kos Ivantsov" creationdate="20221125T175706Z">
         <seg>Помилка під час вивантаження плагіна з класу «{0}»: {1}</seg>
       </tuv>
     </tu>
@@ -22416,6 +22461,15 @@ as the Applications folder.</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM:[generic]</prop>
+      <tuv lang="en">
+        <seg>Non-visible instruction te&amp;xt</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221125T175747Z" creationid="Kos Ivantsov" creationdate="20221125T175747Z">
+        <seg>Невидимий текст &amp;інструкцій</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en">
         <seg>None</seg>
       </tuv>
@@ -30512,6 +30566,15 @@ The scope of a search is by default the project and can be set to be any files l
     <tu>
       <prop type="origin">TM:[generic]</prop>
       <tuv lang="en">
+        <seg>Source file encoding</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221125T175726Z" creationid="Kos Ivantsov" creationdate="20221125T175726Z">
+        <seg>Кодування файлів для перекладу</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM:[generic]</prop>
+      <tuv lang="en">
         <seg>Source file encoding:</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221118T101206Z" creationid="Kos Ivantsov" creationdate="20221118T101206Z">
@@ -30532,6 +30595,15 @@ The scope of a search is by default the project and can be set to be any files l
       </tuv>
       <tuv lang="uk-UA" changeid="fanja9" changedate="20200719T150331Z" creationid="maximo" creationdate="20200413T165650Z">
         <seg>Тип файлу для перекладу, шаблон для назви файлу</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM:[generic]</prop>
+      <tuv lang="en">
+        <seg>Source filename pattern</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221125T175725Z" creationid="Kos Ivantsov" creationdate="20221125T175725Z">
+        <seg>Шаблон для назв файлів для перекладу</seg>
       </tuv>
     </tu>
     <tu>
@@ -36897,6 +36969,15 @@ linux-install.sh script, and execute the script with ./linux-install.sh.</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221112T153039Z" creationid="Kos Ivantsov" creationdate="20221112T153039Z">
         <seg>Перекладений файл створено</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM:[generic]</prop>
+      <tuv lang="en">
+        <seg>Translated file encoding</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221125T175730Z" creationid="Kos Ivantsov" creationdate="20221125T175730Z">
+        <seg>Кодування перекладених файлів</seg>
       </tuv>
     </tu>
     <tu>
