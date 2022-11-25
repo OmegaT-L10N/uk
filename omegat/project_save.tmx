@@ -39419,8 +39419,8 @@ of selecting, obtaining and installing it.</seg>
       <tuv lang="en">
         <seg>When a single file has more segments than this, additional segments will be loaded on-demand as you scroll.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20190820T161144Z" creationid="Kos Ivantsov" creationdate="20190820T161144Z">
-        <seg>Якщо файл містить більше сегментів за вказане число, подальші сегменти будуть завантажуватися на вимогу під час прокрутки.</seg>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221125T202751Z" creationid="Kos Ivantsov" creationdate="20190820T161144Z">
+        <seg>Якщо у файлі сегментів більше за вказане число, подальші сегменти будуть завантажуватися на вимогу під час прокрутки.</seg>
       </tuv>
     </tu>
     <tu>
