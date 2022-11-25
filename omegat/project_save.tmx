@@ -13368,6 +13368,15 @@ Gossamer threads hold you back
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM:[generic]</prop>
+      <tuv lang="en">
+        <seg>External lLin&amp;ks</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221125T202240Z" creationid="Kos Ivantsov" creationdate="20221125T202240Z">
+        <seg>Зовні&amp;шні посилання</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en">
         <seg>External program failed({1}): {0}</seg>
       </tuv>
@@ -25696,6 +25705,14 @@ additional steps need to be taken.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>PowerPoint</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221125T175758Z" creationid="Kos Ivantsov" creationdate="20221125T175758Z">
+        <seg>PowerPoint</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Powerful tools</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="maximo" changedate="20200322T171600Z" creationid="maximo" creationdate="20200322T171600Z">
@@ -28141,6 +28158,15 @@ These words: 'Page not found'</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM:[generic]</prop>
+      <tuv lang="en">
+        <seg>S&amp;lide comments</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221125T175801Z" creationid="Kos Ivantsov" creationdate="20221125T175801Z">
+        <seg>Коментарі до сла&amp;йдів</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en">
         <seg>S&amp;pace matches nbsp</seg>
       </tuv>
@@ -30233,10 +30259,28 @@ The scope of a search is by default the project and can be set to be any files l
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM:[generic]</prop>
+      <tuv lang="en">
+        <seg>Sli&amp;de masters</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221125T175807Z" creationid="Kos Ivantsov" creationdate="20221125T175807Z">
+        <seg>Зразки с&amp;лайдів</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en">
         <seg>Slide La&amp;youts</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20190822T132855Z" creationid="Kos Ivantsov" creationdate="20190805T115926Z">
+        <seg>Мак&amp;ети слайдів</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM:[generic]</prop>
+      <tuv lang="en">
+        <seg>Slide la&amp;youts</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221125T175811Z" creationid="Kos Ivantsov" creationdate="20221125T175811Z">
         <seg>Мак&amp;ети слайдів</seg>
       </tuv>
     </tu>
