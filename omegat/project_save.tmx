@@ -18164,6 +18164,14 @@ click on that shortcut.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Initial number of loaded segments:</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221125T202718Z" creationid="Kos Ivantsov" creationdate="20221125T202718Z">
+        <seg>Початково завантажена кількість сегментів:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Initialize a minimal team project with the specified languages.</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221022T132307Z" creationid="Kos Ivantsov" creationdate="20221022T132307Z">
