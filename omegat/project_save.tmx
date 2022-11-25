@@ -37123,6 +37123,14 @@ linux-install.sh script, and execute the script with ./linux-install.sh.</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>Trying with backup file</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221125T175533Z" creationid="Kos Ivantsov" creationdate="20221125T175533Z">
+        <seg>Спроба відновити файл з резервної копії...</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>це ок що тут тьюторіал? ще є можливість переписати?</note>
       <tuv lang="en">
         <seg>Tutorials</seg>
