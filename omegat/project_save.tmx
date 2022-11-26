@@ -20295,8 +20295,8 @@ itself on the first run.</seg>
       <tuv lang="en">
         <seg>Local File &amp;Filters...</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221112T120321Z" creationid="Kos Ivantsov" creationdate="20221112T120321Z">
-        <seg>Локальні фільтри файлів...</seg>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221126T183032Z" creationid="Kos Ivantsov" creationdate="20221112T120321Z">
+        <seg>Локальні &amp;фільтри файлів...</seg>
       </tuv>
     </tu>
     <tu>
@@ -20332,12 +20332,11 @@ itself on the first run.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">TM:[generic]</prop>
       <tuv lang="en">
         <seg>Local Segmentation R&amp;ules...</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221118T165314Z" creationid="Kos Ivantsov" creationdate="20221118T165314Z">
-        <seg>Локальні правила сегментації...</seg>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221126T182943Z" creationid="Kos Ivantsov" creationdate="20221118T165314Z">
+        <seg>Локальні &amp;правила сегментації...</seg>
       </tuv>
     </tu>
     <tu>
