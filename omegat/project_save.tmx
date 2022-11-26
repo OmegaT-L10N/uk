@@ -20268,12 +20268,11 @@ itself on the first run.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">TM:[generic]</prop>
       <tuv lang="en">
         <seg>Local External Searc&amp;hes...</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221118T165647Z" creationid="Kos Ivantsov" creationdate="20221118T165647Z">
-        <seg>Локальний зовнішній пошук...</seg>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221126T182239Z" creationid="Kos Ivantsov" creationdate="20221118T165647Z">
+        <seg>Локальний зовні&amp;шній пошук...</seg>
       </tuv>
     </tu>
     <tu>
@@ -26846,8 +26845,8 @@ These words: 'Page not found'</seg>
       <tuv lang="en">
         <seg>Re&amp;pository Mapping...</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221118T165638Z" creationid="Kos Ivantsov" creationdate="20221118T165638Z">
-        <seg>Прив’язки сховищ...</seg>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221126T182232Z" creationid="Kos Ivantsov" creationdate="20221118T165638Z">
+        <seg>Прив’язки схови&amp;щ...</seg>
       </tuv>
     </tu>
     <tu>
