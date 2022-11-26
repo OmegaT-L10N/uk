@@ -13937,6 +13937,14 @@ Gossamer threads hold you back
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Flagged text</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221126T205948Z" creationid="Kos Ivantsov" creationdate="20221126T205948Z">
+        <seg>Позначений текст</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Flagged text (regular expression):</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221115T132540Z" creationid="Kos Ivantsov" creationdate="20221115T132540Z">
