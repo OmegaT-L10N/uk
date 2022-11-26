@@ -6724,8 +6724,8 @@ may experience unexpected, but correct behaviour.</seg>
       <tuv lang="en">
         <seg>Aut&amp;hor:</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20190817T190737Z" creationid="Kos Ivantsov" creationdate="20190516T181715Z">
-        <seg>Автор:</seg>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221126T193731Z" creationid="Kos Ivantsov" creationdate="20190516T181715Z">
+        <seg>А&amp;втор:</seg>
       </tuv>
     </tu>
     <tu>
@@ -41618,8 +41618,8 @@ create the configuration folder.</seg>
       <tuv lang="en">
         <seg>all matching segments</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20190817T203014Z" creationid="Kos Ivantsov" creationdate="20190516T182909Z">
-        <seg>усі знайдені сегменти</seg>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221126T193323Z" creationid="Kos Ivantsov" creationdate="20190516T182909Z">
+        <seg>&amp;усі знайдені сегменти</seg>
       </tuv>
     </tu>
     <tu>
@@ -45123,6 +45123,16 @@ create the configuration folder.</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20190821T115256Z" creationid="Kos Ivantsov" creationdate="20190821T115256Z">
         <seg>Сегмент відсутній</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">Bundle.properties</prop>
+      <prop type="id">SW_SEARCH_COMMENTS</prop>
+      <tuv lang="en">
+        <seg>In comments</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221126T193404Z" creationid="Kos Ivantsov" creationdate="20221126T193404Z">
+        <seg>У коме&amp;нтарях</seg>
       </tuv>
     </tu>
     <tu>
