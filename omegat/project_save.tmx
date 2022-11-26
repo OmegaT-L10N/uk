@@ -45203,7 +45203,8 @@ create the configuration folder.</seg>
     <tu>
       <prop type="file">Bundle.properties</prop>
       <prop type="id">TF_MENU_EDIT_SEARCH_DICTIONARY</prop>
-      <note>It's impossible to add a mnemonic here, because the same key is used in the Main Menu and in the Context menu</note>
+      <note>It's impossible to add a mnemonic here, because the same key is used in the Main Menu and in the Context menu
+Україньска мнемоніка: У</note>
       <tuv lang="en">
         <seg>Search Dictionaries</seg>
       </tuv>
