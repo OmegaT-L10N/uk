@@ -9709,12 +9709,11 @@ additional steps need to be taken.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">TM:[generic]</prop>
       <tuv lang="en">
         <seg>Create A&amp;lternative Translation</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221118T095608Z" creationid="Kos Ivantsov" creationdate="20221118T095608Z">
-        <seg>Створити варіант перекладу</seg>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221126T120045Z" creationid="Kos Ivantsov" creationdate="20221118T095608Z">
+        <seg>Створ&amp;ити варіант перекладу</seg>
       </tuv>
     </tu>
     <tu>
@@ -18345,12 +18344,11 @@ click on that shortcut.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">TM:[generic]</prop>
       <tuv lang="en">
         <seg>Insert Unicode Control C&amp;haracter</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221118T095500Z" creationid="Kos Ivantsov" creationdate="20221118T095500Z">
-        <seg>Вставити контрольний символ Юнікоду</seg>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221126T120021Z" creationid="Kos Ivantsov" creationdate="20221118T095500Z">
+        <seg>Вставити контрольний символ &amp;Юнікоду</seg>
       </tuv>
     </tu>
     <tu>
@@ -27056,8 +27054,8 @@ These words: 'Page not found'</seg>
       <tuv lang="en">
         <seg>Register I&amp;dentical Translation</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221118T095812Z" creationid="Kos Ivantsov" creationdate="20221118T095812Z">
-        <seg>Зареєструвати переклад, ідентичний з оригіналом</seg>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221126T120230Z" creationid="Kos Ivantsov" creationdate="20221118T095812Z">
+        <seg>Заре&amp;єструвати переклад, ідентичний з оригіналом</seg>
       </tuv>
     </tu>
     <tu>
@@ -27234,8 +27232,8 @@ These words: 'Page not found'</seg>
       <tuv lang="en">
         <seg>Remo&amp;ve Translation</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221118T095625Z" creationid="Kos Ivantsov" creationdate="20221118T095625Z">
-        <seg>Вилучити переклад</seg>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221126T120052Z" creationid="Kos Ivantsov" creationdate="20221118T095625Z">
+        <seg>Вилу&amp;чити переклад</seg>
       </tuv>
     </tu>
     <tu>
@@ -38512,8 +38510,8 @@ java -Xmx&lt;обсяг-у-МБ&gt;M -jar OmegaT.jar
       <tuv lang="en">
         <seg>Use as Default Translati&amp;on</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221118T095603Z" creationid="Kos Ivantsov" creationdate="20221118T095558Z">
-        <seg>Використовувати як типовий переклад</seg>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221126T120035Z" creationid="Kos Ivantsov" creationdate="20221118T095558Z">
+        <seg>Використовувати &amp;як типовий переклад</seg>
       </tuv>
     </tu>
     <tu>
@@ -45190,6 +45188,26 @@ create the configuration folder.</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20190701T165548Z" creationid="Kos Ivantsov" creationdate="20190701T165548Z">
         <seg>&amp;ніколи</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">Bundle.properties</prop>
+      <prop type="id">TF_MENU_EDIT_EMPTY_TRANSLATION</prop>
+      <tuv lang="en">
+        <seg>Set Empty Translation</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221126T120139Z" creationid="Kos Ivantsov" creationdate="20221126T120139Z">
+        <seg>Зробити переклад поро&amp;жнім</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">Bundle.properties</prop>
+      <prop type="id">TF_MENU_EDIT_SEARCH_DICTIONARY</prop>
+      <tuv lang="en">
+        <seg>Search Dictionaries</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221126T115956Z" creationid="Kos Ivantsov" creationdate="20221126T115956Z">
+        <seg>Ш&amp;укати в словниках</seg>
       </tuv>
     </tu>
     <tu>
