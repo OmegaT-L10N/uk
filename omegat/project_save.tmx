@@ -11310,6 +11310,14 @@ additional steps need to be taken.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Do not automatically display the Source Files list</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221127T211330Z" creationid="Kos Ivantsov" creationdate="20221127T211330Z">
+        <seg>Не показувати автоматично перелік файлів для перекладу</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Do not hesitate to post in the language you feel the most familiar with.</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="maximo" changedate="20200704T194646Z" creationid="maximo" creationdate="20200704T194646Z">
@@ -30590,6 +30598,14 @@ The scope of a search is by default the project and can be set to be any files l
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Some preference do not have an equivalent in the user interface.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221127T211058Z" creationid="Kos Ivantsov" creationdate="20221127T211047Z">
+        <seg>Деякі параметри не можуть бути налаштовані через інтерфейс користувача —</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Some project folders seem to have been moved.</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20190504T134234Z" creationid="Kos Ivantsov" creationdate="20190504T134234Z">
@@ -35378,6 +35394,14 @@ You, victim of one</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>They must be modified manually.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221127T211137Z" creationid="Kos Ivantsov" creationdate="20221127T211137Z">
+        <seg>їхня модифікація здійснюється вручну.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>They will appear as separate segments in the translation.</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="fanja9" changedate="20200720T175025Z" creationid="maximo" creationdate="20200413T113836Z">
@@ -35707,6 +35731,14 @@ the server.</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20210514T204034Z" creationid="Kos Ivantsov" creationdate="20210514T204034Z">
         <seg>Ця функція призначена для збору файлів для перекладу з кількох можливих джерел, але її можна використовувати не лише для файлів для перекладу.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This file includes a number of important user preferences.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221127T210816Z" creationid="Kos Ivantsov" creationdate="20221127T210816Z">
+        <seg>Цей файл містить ряд важливих користувацьких налаштувань.</seg>
       </tuv>
     </tu>
     <tu>
