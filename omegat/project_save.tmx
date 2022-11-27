@@ -12467,6 +12467,17 @@ is the language code and YY is the region or country code (optional).</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM:[generic]</prop>
+      <tuv lang="en">
+        <seg>Enter a language code in xx-YY, xxx-YY, xx_YY or xxx_YY format, where xx or xxx 
+is the language code and YY is the region or country code (optional).</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221127T130947Z" creationid="Kos Ivantsov" creationdate="20221127T130947Z">
+        <seg>Уведіть код мови у форматі xx-YY, xxx-YY, xxx_YY або xx_YY,
+де xx — код мови, а YY — код країни або регіону (може не вказуватися).</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en">
         <seg>Enter a source term, a target term and a comment:</seg>
       </tuv>
@@ -30360,6 +30371,15 @@ The scope of a search is by default the project and can be set to be any files l
         <seg>Skipped translation units for which no source  segment was found.</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221122T092615Z" creationid="Kos Ivantsov" creationdate="20221122T092615Z">
+        <seg>Пропущено одиниці перекладу, в яких не було знайдено сегментів мовою оригіналу.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM:[generic]</prop>
+      <tuv lang="en">
+        <seg>Skipped translation units for which no source segment was found.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221127T130952Z" creationid="Kos Ivantsov" creationdate="20221127T130952Z">
         <seg>Пропущено одиниці перекладу, в яких не було знайдено сегментів мовою оригіналу.</seg>
       </tuv>
     </tu>
