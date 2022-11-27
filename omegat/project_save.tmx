@@ -40680,6 +40680,14 @@ start menu, the desktop or the quick launch area to link it from there.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>You can also use non default configuration folders by starting OmegaT from the command line.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221127T145047Z" creationid="Kos Ivantsov" creationdate="20221127T145047Z">
+        <seg>Можливо використовувати нетипове розташування теки з налаштуваннями, якщо запустити OmegaT з командного рядка.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>You can always access it directly from &lt;l0/&gt; in the &lt;l1/&gt; menu.</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221127T133928Z" creationid="Kos Ivantsov" creationdate="20221127T133928Z">
