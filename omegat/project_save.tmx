@@ -43817,6 +43817,14 @@ create the configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>repositories.properties</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221127T153659Z" creationid="Kos Ivantsov" creationdate="20221127T153659Z">
+        <seg>repositories.properties</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>repository type</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="lesia" changedate="20200704T201657Z" creationid="lesia" creationdate="20200704T200142Z">
