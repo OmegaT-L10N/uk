@@ -42302,6 +42302,14 @@ create the configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>finder.xml</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221127T153650Z" creationid="Kos Ivantsov" creationdate="20221127T153650Z">
+        <seg>finder.xml</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>for (i in 0 ..&lt; files.size())</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="lesia" changedate="20200503T063601Z" creationid="lesia" creationdate="20200503T063601Z">
