@@ -12213,6 +12213,14 @@ project_save.tmx не був переданий на віддалений сер
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>EditorShortcuts.properties</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221127T153639Z" creationid="Kos Ivantsov" creationdate="20221127T153639Z">
+        <seg>EditorShortcuts.properties</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Either X or Y</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="maximo" changedate="20200412T051954Z" creationid="maximo" creationdate="20200412T051954Z">
@@ -20666,6 +20674,14 @@ itself on the first run.</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="lesia" changedate="20200708T094221Z" creationid="maximo" creationdate="20200501T204308Z">
         <seg>Головне вікно — статистика</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>MainMenuShortcuts.properties</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221127T153641Z" creationid="Kos Ivantsov" creationdate="20221127T153641Z">
+        <seg>MainMenuShortcuts.properties</seg>
       </tuv>
     </tu>
     <tu>
