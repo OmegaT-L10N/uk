@@ -5432,6 +5432,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Additional contents</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221127T153629Z" creationid="Kos Ivantsov" creationdate="20221127T153629Z">
+        <seg>Додатковий вміст</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Additional parameter is required in this case, specifying the location of the target data:</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="maximo" changedate="20200423T155622Z" creationid="maximo" creationdate="20200423T155622Z">
