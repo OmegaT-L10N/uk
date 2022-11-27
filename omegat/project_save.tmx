@@ -4402,6 +4402,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;project_files_show_on_load&gt;&lt;t0&gt;false&lt;/t0&gt;&lt;/project_files_show_on_load&gt;</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221127T212911Z" creationid="Kos Ivantsov" creationdate="20221127T212911Z">
+        <seg>&lt;project_files_show_on_load&gt;&lt;t0&gt;false&lt;/t0&gt;&lt;/project_files_show_on_load&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;r0&gt;Note:&lt;/r0&gt; On an Apple Mac, use the &lt;k1&gt;Command&lt;/k1&gt; key instead of the &lt;k2&gt;Control&lt;/k2&gt; key.</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20190516T204932Z" creationid="Kos Ivantsov" creationdate="20190516T204932Z">
@@ -33946,6 +33954,14 @@ in /lib/licenses/Licenses.txt.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The most current is &lt;f0&gt;OmegaT.log&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221127T213138Z" creationid="Kos Ivantsov" creationdate="20221127T213138Z">
+        <seg>найновішим з яких є файл &lt;f0&gt;OmegaT.log&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The most important file here is the &lt;f1&gt;project_save.tmx, &lt;/f1&gt;that is the working translation memory for the project.</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="Asus" changedate="20200712T111736Z" creationid="fanja9" creationdate="20200510T150409Z">
@@ -35743,10 +35759,26 @@ the server.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>This file describes the overall OmegaT layout.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221127T213040Z" creationid="Kos Ivantsov" creationdate="20221127T213040Z">
+        <seg>У цьому файлі описано розташування різних областей у вікні OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>This file includes a number of important user preferences.</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221127T210816Z" creationid="Kos Ivantsov" creationdate="20221127T210816Z">
         <seg>Цей файл містить ряд важливих користувацьких налаштувань.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This folder contains a number of log files.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221127T213120Z" creationid="Kos Ivantsov" creationdate="20221127T213106Z">
+        <seg>У цій теці містяться файли журналу,</seg>
       </tuv>
     </tu>
     <tu>
@@ -43172,6 +43204,14 @@ create the configuration folder.</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221122T092544Z" creationid="Kos Ivantsov" creationdate="20221122T092544Z">
         <seg>завантажено атрибутів: {0}.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>logs/</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221127T213045Z" creationid="Kos Ivantsov" creationdate="20221127T213045Z">
+        <seg>logs/</seg>
       </tuv>
     </tu>
     <tu>
