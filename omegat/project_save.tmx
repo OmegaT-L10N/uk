@@ -24447,6 +24447,14 @@ your home folder.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Only this preference currently requires manual modification.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221127T211517Z" creationid="Kos Ivantsov" creationdate="20221127T211517Z">
+        <seg>Наразі лише цей параметр налаштовується через пряме редагування файлу.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Only works if a spelling dictionary is installed.</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="fanja9" changedate="20200713T201359Z" creationid="maximo" creationdate="20200425T150249Z">
