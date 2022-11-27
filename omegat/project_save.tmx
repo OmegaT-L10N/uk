@@ -35783,6 +35783,14 @@ the server.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>This folder contains your spelling dictionaries.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221127T213727Z" creationid="Kos Ivantsov" creationdate="20221127T213727Z">
+        <seg>У цій теці містяться словники для перевірки правопису.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>This folder is initially empty.</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="fanja9" changedate="20200510T183503Z" creationid="fanja9" creationdate="20200510T131955Z">
@@ -41042,6 +41050,14 @@ installation script (linux-install.sh).</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="lesia" changedate="20200419T094919Z" creationid="maximo" creationdate="20200413T164819Z">
         <seg>Ви можете обрати, які елементи будуть перекладатися:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You can specify a configuration folder other than the default when you start OmegaT from the command line.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221127T213928Z" creationid="Kos Ivantsov" creationdate="20221127T213928Z">
+        <seg>Під час запуску OmegaT з командного рядка можна вказати нетипове розташування теки з налаштуваннями.</seg>
       </tuv>
     </tu>
     <tu>
