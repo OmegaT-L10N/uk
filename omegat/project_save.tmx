@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.8.0_0_f19eaf968" segtype="sentence" srclang="en"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.8.0_0_5ee326f3d" segtype="sentence" srclang="en"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -12461,8 +12461,9 @@ Your help page not found</seg>
         <seg>Enter a language code in xx-YY, xxx-YY, xx_YY or xxx_YY  format, where xx or xxx 
 is the language code and YY is the region or country code (optional).</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221114T120754Z" creationid="Kos Ivantsov" creationdate="20221114T120754Z">
-        <seg>Уведіть код мови у форматі xx-YY, xxx-YY, xxx_YY або xx_YY, де xx — код мови, а YY — код країни або регіону (може не вказуватися).</seg>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221127T124533Z" creationid="Kos Ivantsov" creationdate="20221114T120754Z">
+        <seg>Уведіть код мови у форматі xx-YY, xxx-YY, xxx_YY або xx_YY,
+де xx — код мови, а YY — код країни або регіону (може не вказуватися).</seg>
       </tuv>
     </tu>
     <tu>
