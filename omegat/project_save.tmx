@@ -33008,6 +33008,14 @@ Please try to correct the error and reload the project.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The configuration folder stores the majority of the OmegaT parameters and preferences for the user.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221127T131817Z" creationid="Kos Ivantsov" creationdate="20221127T131817Z">
+        <seg>У теці з налаштуваннями зберігається більшість параметрів і налаштувань OmegaT, встановлених користувачем.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The configuration folder will be used
 instead.</seg>
       </tuv>
@@ -40651,6 +40659,14 @@ start menu, the desktop or the quick launch area to link it from there.</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="maximo" changedate="20200420T165340Z" creationid="maximo" creationdate="20200420T165340Z">
         <seg>Також ви можете використати AppleScript чи Automator, щоб створити сервіси чи скрипти для автоматизації частих дій.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You can always access it directly from &lt;l0/&gt; in the &lt;l1/&gt; menu.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221127T133928Z" creationid="Kos Ivantsov" creationdate="20221127T133928Z">
+        <seg>Відкрити цю теку можна за допомогою пункту &lt;l0/&gt; в меню &lt;l1/&gt;.</seg>
       </tuv>
     </tu>
     <tu>
