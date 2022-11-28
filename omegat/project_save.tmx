@@ -37884,6 +37884,14 @@ linux-install.sh script, and execute the script with ./linux-install.sh.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Translators can very easily reuse an existing projectʼs translation memory by simply adding new translation files to the old project, or by copying the old translation memory to a new project.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221128T115539Z" creationid="Kos Ivantsov" creationdate="20221128T115539Z">
+        <seg>Перекладачі з легкістю можуть повторно використовувати наявну пам’ять перекладів у проєкті, просто додавши нові файли для перекладу до старого проєкту або скопіювавши файл пам’яті перекладів зі старого проєкту до нового.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Translators do not have to &lt;e0&gt;create&lt;/e0&gt; a translation memory or &lt;e1&gt;associate&lt;/e1&gt; one to a new project.</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221128T115056Z" creationid="Kos Ivantsov" creationdate="20221128T115056Z">
