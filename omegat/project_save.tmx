@@ -37428,6 +37428,14 @@ linux-install.sh script, and execute the script with ./linux-install.sh.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Translate your files</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221128T092427Z" creationid="Kos Ivantsov" creationdate="20221128T092427Z">
+        <seg>Переклад файлів</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Translated File Encoding</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20190814T101252Z" creationid="Kos Ivantsov" creationdate="20190517T104858Z">
