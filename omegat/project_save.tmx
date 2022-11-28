@@ -4605,6 +4605,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>@timestamp@</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221128T085719Z" creationid="Kos Ivantsov" creationdate="20221128T085719Z">
+        <seg>28 листопада 2022</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>A character in the Greek block (simple &lt;u0&gt; block&lt;/u0&gt;)</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="Asus" changedate="20200614T040034Z" creationid="maximo" creationdate="20200412T050434Z">
