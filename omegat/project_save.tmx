@@ -6108,6 +6108,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>An OmegaT translation project consists of a number of resources stored in separate folders, of a &lt;l0/&gt; file that stores the location of all the resources and of a &lt;l1/&gt; translation memory file that stores all the translations made while working on that project.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221128T114531Z" creationid="Kos Ivantsov" creationdate="20221128T114531Z">
+        <seg>Проєкт перекладу в OmegaT складається з декількох ресурсів, які зберігаються в окремих теках, файлу &lt;l0/&gt;, в якому зазначено розташування всіх ресурсів, та файлу пам’яті перекладів &lt;l1/&gt;, в якому зберігаються переклад, здійснений у процесі роботи над проєктом.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>An empty line will appear at the bottom of the upper table (you may have to scroll down to see it).</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="fanja9" changedate="20200720T153722Z" creationid="maximo" creationdate="20200415T110820Z">
@@ -37840,6 +37848,14 @@ linux-install.sh script, and execute the script with ./linux-install.sh.</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20190807T190328Z" creationid="Kos Ivantsov" creationdate="20190807T190328Z">
         <seg>Коментарі перекладача:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Translators can easily modify the contents or location of those resources at any time during the translation.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221128T114635Z" creationid="Kos Ivantsov" creationdate="20221128T114635Z">
+        <seg>Перекладачі можуть легко змінювати вміст або розташування файлів, що використовуються у проєкті, у будь-який момент під час перекладу.</seg>
       </tuv>
     </tu>
     <tu>
