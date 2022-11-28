@@ -16832,6 +16832,14 @@ their defaults as a result of the location change.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If the format is not there, use third party plugins or convert the file to a format that is supported.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221128T174321Z" creationid="Kos Ivantsov" creationdate="20221128T174321Z">
+        <seg>Якщо потрібного формату немає у переліку, то скористайтеся додатковими плагінами або конвертуйте файл в один з тих форматів, які підтримуються програмою.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If the language of the user's system is not available, &lt;a7&gt;OmegaT&lt;/a7&gt; defaults to English.</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="fanja9" changedate="20200710T154012Z" creationid="maximo" creationdate="20200420T203029Z">
@@ -39103,6 +39111,14 @@ java -Xmx&lt;обсяг-у-МБ&gt;M -jar OmegaT.jar
       </tuv>
       <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221128T133609Z" creationid="Kos Ivantsov" creationdate="20221128T133115Z">
         <seg>Для цього виберіть пункт меню &lt;l0/&gt;, далі вкажіть порожню теку або створіть нову. Назва теки буде назвою проєкту.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Use &lt;l1/&gt; to open the list of supported file formats.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221128T174204Z" creationid="Kos Ivantsov" creationdate="20221128T174204Z">
+        <seg>Перелік файлів, які підтримуються в OmegaT, можна переглянути, вибравши пункт &lt;l1/&gt;.</seg>
       </tuv>
     </tu>
     <tu>
