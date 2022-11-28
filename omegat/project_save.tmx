@@ -35439,6 +35439,14 @@ in /lib/licenses/Licenses.txt.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>There is no limit to the number of translation memories that can be used as reference in a translation project, and OmegaT makes it very easy to assign different levels of priority to these additional memories.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221128T120448Z" creationid="Kos Ivantsov" creationdate="20221128T120448Z">
+        <seg>У проєкті OmegaT немає обмежень на кількість довідкових файлів пам’яті перекладів. Крім того, у програмі дуже просто призначити різні рівні пріоритету додатковим файлам пам’яті.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>There is no need to instruct OmegaT to use a particular spelling dictionary; OmegaT will use the correct language dictionary based upon the language codes of your project.</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="Asus" changedate="20200616T044935Z" creationid="maximo" creationdate="20200411T133732Z">
