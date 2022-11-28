@@ -9878,6 +9878,14 @@ additional steps need to be taken.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Create a new project</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221128T090848Z" creationid="Kos Ivantsov" creationdate="20221128T090848Z">
+        <seg>Створення нового проєкту</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Create a new, empty OmegaT project in the local repository.</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="lesia" changedate="20200704T184226Z" creationid="lesia" creationdate="20200704T184226Z">
