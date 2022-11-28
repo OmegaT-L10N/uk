@@ -33856,6 +33856,14 @@ instead.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The first line is the original English, the second an old French version, the third the Japanese version, and the 4th the current translation to French.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221128T180945Z" creationid="Kos Ivantsov" creationdate="20221128T180945Z">
+        <seg>Перший рядок — це оригінал англійською, другий — переклад цього сегмента французькою, третій — японською. Останній рядок — це поточний переклад на українську мову.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The first of these is the &lt;a0&gt;OmegaT user group&lt;/a0&gt;.</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="lesia" changedate="20200324T172448Z" creationid="lesia" creationdate="20200322T130523Z">
@@ -45409,10 +45417,10 @@ ja-RV: 空白文字：[ \t\n\x0B\f\r]&lt;/t0&gt;
 Un caractère d'espacement : [ \t\n\r\f\x0B]&lt;t1&gt;&lt;segment 3075 ¶&gt;&lt;/t1&gt;
 — ¶ —————————————————————</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221128T180117Z" creationid="Kos Ivantsov" creationdate="20221128T180117Z">
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221128T180817Z" creationid="Kos Ivantsov" creationdate="20221128T180117Z">
         <seg>— ¶ —————————————————————
 &lt;t0&gt;A whitespace character: [ \t\n\x0B\f\r]
-fr-ZB: Un caractère d'espacement (espace, tabulation, etc.) :  [ \t\n\x0B\f\r]
+fr-FR: Un caractère d'espacement : [ \t\n\r\f\x0B]
 ja-RV: 空白文字：[ \t\n\x0B\f\r]&lt;/t0&gt;
 Символ пробілу: [ \t\n\r\f\x0B]&lt;t1&gt;&lt;сегмент 3075 ¶&gt;&lt;/t1&gt;
 — ¶ —————————————————————</seg>
