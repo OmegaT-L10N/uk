@@ -45394,6 +45394,24 @@ create the configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>— ¶ —————————————————————
+&lt;t0&gt;A whitespace character: [ \t\n\x0B\f\r]
+fr-ZB: Un caractère d'espacement (espace, tabulation, etc.) :  [ \t\n\x0B\f\r]
+ja-RV: 空白文字：[ \t\n\x0B\f\r]&lt;/t0&gt;
+Un caractère d'espacement : [ \t\n\r\f\x0B]&lt;t1&gt;&lt;segment 3075 ¶&gt;&lt;/t1&gt;
+— ¶ —————————————————————</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221128T180117Z" creationid="Kos Ivantsov" creationdate="20221128T180117Z">
+        <seg>— ¶ —————————————————————
+&lt;t0&gt;A whitespace character: [ \t\n\x0B\f\r]
+fr-ZB: Un caractère d'espacement (espace, tabulation, etc.) :  [ \t\n\x0B\f\r]
+ja-RV: 空白文字：[ \t\n\x0B\f\r]&lt;/t0&gt;
+Символ пробілу: [ \t\n\r\f\x0B]&lt;t1&gt;&lt;сегмент 3075 ¶&gt;&lt;/t1&gt;
+— ¶ —————————————————————</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>“{0}”</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20190821T124336Z" creationid="Kos Ivantsov" creationdate="20190821T124336Z">
