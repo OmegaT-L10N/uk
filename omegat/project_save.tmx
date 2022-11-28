@@ -34907,6 +34907,14 @@ in /lib/licenses/Licenses.txt.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The text in the file is replaced each time this function is called.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221128T084832Z" creationid="Kos Ivantsov" creationdate="20221128T084832Z">
+        <seg>Вміст файлу перезаписується при кожному виклику цієї команди.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The text size exceeds the maximum</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20190807T184634Z" creationid="Kos Ivantsov" creationdate="20190807T184634Z">
@@ -35821,6 +35829,14 @@ the server.</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221127T210816Z" creationid="Kos Ivantsov" creationdate="20221127T210816Z">
         <seg>Цей файл містить ряд важливих користувацьких налаштувань.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This file stores the currently selected text when the &lt;l0/&gt; command in the &lt;l1/&gt; menu is used.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221128T084753Z" creationid="Kos Ivantsov" creationdate="20221128T084753Z">
+        <seg>У цьому файлі буде міститися текст, який був вибраний у момент запуску команди &lt;l0/&gt; з меню &lt;l1/&gt;.</seg>
       </tuv>
     </tu>
     <tu>
