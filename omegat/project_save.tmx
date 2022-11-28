@@ -37746,6 +37746,15 @@ linux-install.sh script, and execute the script with ./linux-install.sh.</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM:[generic]</prop>
+      <tuv lang="en">
+        <seg>Translation project</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221128T092643Z" creationid="Kos Ivantsov" creationdate="20221128T092643Z">
+        <seg>Переклад проєкту</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en">
         <seg>Translation unit encountered before TMX header.</seg>
       </tuv>
