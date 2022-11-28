@@ -29806,6 +29806,14 @@ The scope of a search is by default the project and can be set to be any files l
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Segments that are within paragraph can be further segmented, or "unsegmented" (merged).</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221128T205235Z" creationid="Kos Ivantsov" creationdate="20221128T205235Z">
+        <seg>Сегменти у межах одного абзацу можуть сегментуватися на дрібніші фрагменти або «розсегментовуватися» (з’єднуватися).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Segments with notes</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="fanja9" changedate="20200720T181633Z" creationid="Kos Ivantsov" creationdate="20190807T170145Z">
@@ -30717,6 +30725,14 @@ The scope of a search is by default the project and can be set to be any files l
       </tuv>
       <tuv lang="uk-UA" changeid="lesia" changedate="20200708T102009Z" creationid="maximo" creationdate="20200322T171312Z">
         <seg>Одночасне використання кількох файлів пам’яті перекладів</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Since a standard space character is often used as a boundary for a segment, if you want to merge two parts that are separated by a space character,</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221128T211036Z" creationid="Kos Ivantsov" creationdate="20221128T211036Z">
+        <seg>Оскільки стандартний пробіл часто використовується як знак, що розмежовує сегменти,</seg>
       </tuv>
     </tu>
     <tu>
@@ -33618,6 +33634,14 @@ instead.</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="maximo" changedate="20200405T184200Z" creationid="maximo" creationdate="20200405T184200Z">
         <seg>Стандартні комбінації OmegaT для Mac також доступні на Sourceforge, в них замість «ctrl» використовується «meta»: &lt;u0&gt;Стандартні комбінації OmegaT для Mac&lt;/u0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The default setting for a translation project is to create &lt;e0&gt;sentences&lt;/e0&gt; by splitting the &lt;e1&gt;paragraph blocks&lt;/e1&gt; found in the document.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221128T205018Z" creationid="Kos Ivantsov" creationdate="20221128T204833Z">
+        <seg>У типовій конфігурації документи у перекладацьких проєктах сегментуються на &lt;e0&gt;речення&lt;/e0&gt;, на які розбиваються &lt;e1&gt;блоки абзаців&lt;/e1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -37166,6 +37190,14 @@ the server.</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="lesia" changedate="20200324T154640Z" creationid="maximo" creationdate="20200322T172329Z">
         <seg>Визначити, яка версія вам підійде, можна тут:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To further segment them, add a segmentation rule, to merge them, add an exception rule.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221128T210909Z" creationid="Kos Ivantsov" creationdate="20221128T210909Z">
+        <seg>Для більшого подрібнення потрібно додати правило сегментації, а для з’єднання — правило винятку.</seg>
       </tuv>
     </tu>
     <tu>
@@ -42979,6 +43011,14 @@ create the configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>find the location of that space,</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221128T211142Z" creationid="Kos Ivantsov" creationdate="20221128T211142Z">
+        <seg>знати у файлі потрібне місце, де стоїть пробіл,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>findInProjectReuseLastWindow</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="maximo" changedate="20200607T165634Z" creationid="maximo" creationdate="20200607T165634Z">
@@ -43031,6 +43071,22 @@ create the configuration folder.</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="lesia" changedate="20200708T103715Z" creationid="lesia" creationdate="20200704T190407Z">
         <seg>./glossary/glossary.txt</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>go back to OmegaT and &lt;l0/&gt;.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221128T211339Z" creationid="Kos Ivantsov" creationdate="20221128T211339Z">
+        <seg>повернутися до OmegaT та перезавантажити проєкт: &lt;l0/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>go to the source file with &lt;l0/&gt;,</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221128T211112Z" creationid="Kos Ivantsov" creationdate="20221128T211112Z">
+        <seg>ви можете відкрити файл для перекладу за допомогою пункту меню &lt;l0/&gt;,</seg>
       </tuv>
     </tu>
     <tu>
@@ -44510,6 +44566,14 @@ create the configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>replace it by anything that is not a standard space but looks like a standard space, like a "non breakable space" for example,</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221128T211250Z" creationid="Kos Ivantsov" creationdate="20221128T211250Z">
+        <seg>замінити його на інший символ, який має схожий вигляд, але не є звичайним пробілом (наприклад, на нерозривний пробіл),</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>repositories.properties</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221127T153659Z" creationid="Kos Ivantsov" creationdate="20221127T153659Z">
@@ -44562,6 +44626,14 @@ create the configuration folder.</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="maximo" changedate="20200704T205445Z" creationid="maximo" creationdate="20200704T205445Z">
         <seg>збережіть файл у форматі ODT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>save your modifications,</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221128T211304Z" creationid="Kos Ivantsov" creationdate="20221128T211304Z">
+        <seg>зберегти зміни,</seg>
       </tuv>
     </tu>
     <tu>
