@@ -37259,6 +37259,14 @@ the server.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>To start using OmegaT, you first have to create a project to hold all your files.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221128T132901Z" creationid="Kos Ivantsov" creationdate="20221128T132901Z">
+        <seg>Для початку роботи у програмі OmegaT потрібно створити проєкт, який буде містити усі необхідні файли.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>To the open-source movement, the freedom that users have to change the program to suit their own needs is more important than the fact that they do not have to pay for it.</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="lesia" changedate="20200321T130430Z" creationid="lesia" creationdate="20200321T130430Z">
@@ -39016,6 +39024,14 @@ java -Xmx&lt;обсяг-у-МБ&gt;M -jar OmegaT.jar
       </tuv>
       <tuv lang="uk-UA" changeid="lesia" changedate="20200425T153211Z" creationid="lesia" creationdate="20200425T153211Z">
         <seg>Використовуйте &lt;k0&gt; &lt;k1&gt;Shift&lt;/k1&gt; &lt;k2&gt;F3&lt;/k2&gt; &lt;/k0&gt; для циклічного перебирання серед чотирьох варіантів.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Use &lt;l0/&gt;, select an empty folder, or create a new one with the name of your project.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221128T133115Z" creationid="Kos Ivantsov" creationdate="20221128T133115Z">
+        <seg>Для цього виберіть пункт меню &lt;l0/&gt;, виберіть порожню теку або створіть нову. Назва теки буде назвою проєкту.</seg>
       </tuv>
     </tu>
     <tu>
