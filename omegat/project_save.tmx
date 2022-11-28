@@ -16299,6 +16299,14 @@ need not be entered.)</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If a file does not appear into the &lt;l0/&gt; pane, then it could be that it is empty, or in a format that is not supported by OmegaT.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221128T174047Z" creationid="Kos Ivantsov" creationdate="20221128T174047Z">
+        <seg>Якщо вміст файлу не показується в частині вікна, яка називається &lt;l0/&gt;, то це може означати, що файл порожній або його формат не підтримується OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If a file does not load into the &lt;g0&gt;Editor&lt;/g0&gt; pane, then it could be that it is in a format that doesn't work in OmegaT.</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20190822T155321Z" creationid="Kos Ivantsov" creationdate="20190822T155321Z">
