@@ -4615,16 +4615,16 @@ The current setting is {0}MB;</seg>
       <tuv lang="en">
         <seg>A &lt;e0&gt;dialog&lt;/e0&gt; requires you to take action and close it before you can go back to translating.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221128T090128Z" creationid="Kos Ivantsov" creationdate="20221128T090128Z">
-        <seg>&lt;e0&gt;Діалогове вікно&lt;/e0&gt; вимагає від користувача певних дій. Щоб продовжити переклад, воно мусить бути закрите.</seg>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221128T090608Z" creationid="Kos Ivantsov" creationdate="20221128T090128Z">
+        <seg>&lt;e0&gt;Діалогове вікно&lt;/e0&gt; вимагає від користувача певних дій. Допоки діалогове вікно відкрите, воно блокує взаємодію з іншими вікнами. Для повернення до перекладу діалогове вікно потрібно закрити.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>A &lt;e0&gt;window&lt;/e0&gt; can be kept open next to the editor and lets you interact with both.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221128T090015Z" creationid="Kos Ivantsov" creationdate="20221128T090015Z">
-        <seg>&lt;e0&gt;Вікно&lt;/e0&gt; може бути відкрите паралельно з головним вікном, не блокує взаємодію з ним (наприклад, з областю редагування).</seg>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221128T090453Z" creationid="Kos Ivantsov" creationdate="20221128T090015Z">
+        <seg>&lt;e0&gt;Вікно&lt;/e0&gt; може бути відкрите паралельно з головним вікном, яке містить область редагування. Користувач може виконувати дії в будь-якому з відкритих вікон.</seg>
       </tuv>
     </tu>
     <tu>
