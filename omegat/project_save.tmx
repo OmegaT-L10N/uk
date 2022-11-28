@@ -6729,6 +6729,14 @@ may experience unexpected, but correct behaviour.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>At the top of that dialog, select the languages of your source and translated files, set the various options, and click the &lt;g0&gt;OK&lt;/g0&gt; button to continue.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221128T151852Z" creationid="Kos Ivantsov" creationdate="20221128T151852Z">
+        <seg>У верхній частині цього діалогового вікна виберіть мови оригіналу та перекладу, встановіть інші параметри та натисніть кнопку &lt;g0&gt;Гаразд&lt;/g0&gt; для продовження.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>At the top of that dialog, select your source file's language and the language that your translated file will be, and click &lt;g1&gt;OK&lt;/g1&gt; to continue.</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="maximo" changedate="20200614T155341Z" creationid="Kos Ivantsov" creationdate="20190812T103906Z">
