@@ -7599,6 +7599,14 @@ Buy another drink</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>By default, resources include the project’s translation memory, which is automatically created upon project creation, and the files to translate.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221128T114827Z" creationid="Kos Ivantsov" creationdate="20221128T114827Z">
+        <seg>У типовій конфігурації до ресурсів проєкту належить файл пам’яті перекладів (він створюється відразу після створення проєкту) та файли для перекладу.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>By default, scripts are stored in the &lt;f0&gt;scripts&lt;/f0&gt; folder located in the OmegaT installation folder (the folder that contains the &lt;f1&gt;OmegaT.jar&lt;/f1&gt; file).</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="maximo" changedate="20200701T150658Z" creationid="lesia" creationdate="20200503T060218Z">
@@ -35581,6 +35589,14 @@ You, victim of one</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>They can also include reference translation memories, glossaries, and other reference files.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221128T114929Z" creationid="Kos Ivantsov" creationdate="20221128T114929Z">
+        <seg>Додатково проєкт може включати інші файли пам’яті перекладів для довідки, глосарії та інші довідкові файли.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>They can be created and updated manually or imported from other projects.</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20210511T122123Z" creationid="Kos Ivantsov" creationdate="20210511T122055Z">
@@ -37856,6 +37872,14 @@ linux-install.sh script, and execute the script with ./linux-install.sh.</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221128T114635Z" creationid="Kos Ivantsov" creationdate="20221128T114635Z">
         <seg>Перекладачі можуть легко змінювати вміст або розташування файлів, що використовуються у проєкті, у будь-який момент під час перекладу.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Translators do not have to &lt;e0&gt;create&lt;/e0&gt; a translation memory or &lt;e1&gt;associate&lt;/e1&gt; one to a new project.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221128T115056Z" creationid="Kos Ivantsov" creationdate="20221128T115056Z">
+        <seg>Перекладачам не потрібно &lt;e0&gt;створювати&lt;/e0&gt; пам’ять перекладів або &lt;e1&gt;прив’язувати&lt;/e1&gt; до нового проєкту наявний файл пам’яті перекладів.</seg>
       </tuv>
     </tu>
     <tu>
