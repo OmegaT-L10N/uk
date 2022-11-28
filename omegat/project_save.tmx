@@ -4613,6 +4613,22 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>A &lt;e0&gt;dialog&lt;/e0&gt; requires you to take action and close it before you can go back to translating.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221128T090128Z" creationid="Kos Ivantsov" creationdate="20221128T090128Z">
+        <seg>&lt;e0&gt;Діалогове вікно&lt;/e0&gt; вимагає від користувача певних дій. Щоб продовжити переклад, воно мусить бути закрите.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>A &lt;e0&gt;window&lt;/e0&gt; can be kept open next to the editor and lets you interact with both.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221128T090015Z" creationid="Kos Ivantsov" creationdate="20221128T090015Z">
+        <seg>&lt;e0&gt;Вікно&lt;/e0&gt; може бути відкрите паралельно з головним вікном, не блокує взаємодію з ним (наприклад, з областю редагування).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>A character in the Greek block (simple &lt;u0&gt; block&lt;/u0&gt;)</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="Asus" changedate="20200614T040034Z" creationid="maximo" creationdate="20200412T050434Z">
@@ -40157,6 +40173,15 @@ Your page is not found</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="maximo" changedate="20200418T125217Z" creationid="maximo" creationdate="20200418T125217Z">
         <seg>Користувачам Windows</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM:[generic]</prop>
+      <tuv lang="en">
+        <seg>Windows and Dialogs</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221128T085822Z" creationid="Kos Ivantsov" creationdate="20221128T085822Z">
+        <seg>Вікна та діалогові вікна</seg>
       </tuv>
     </tu>
     <tu>
