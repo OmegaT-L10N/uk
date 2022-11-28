@@ -21935,6 +21935,14 @@ itself on the first run.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Most of the action takes place with the help of shortcuts associated to menu items.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221128T130822Z" creationid="Kos Ivantsov" creationdate="20221128T130822Z">
+        <seg>Велика частина дії запускається за допомогою комбінацій клавіш, пов’язаних з пунктами меню.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Most of the items that appear in the main menu can have a new shortcut assigned.</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="Asus" changedate="20200615T041401Z" creationid="maximo" creationdate="20200404T172233Z">
@@ -30634,6 +30642,14 @@ The scope of a search is by default the project and can be set to be any files l
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Single letters are used as a common identifier for modifiers.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221128T131152Z" creationid="Kos Ivantsov" creationdate="20221128T130927Z">
+        <seg>Кожна клавіша-модифікатор позначатиметься однією літерою.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Size</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20190420T125215Z" creationid="Kos Ivantsov" creationdate="20190420T125215Z">
@@ -36835,6 +36851,14 @@ the server.</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="maximo" changedate="20200704T191916Z" creationid="maximo" creationdate="20200704T191916Z">
         <seg>Щоб не міняти напрямок письма щоразу, коли перекладені файли перегенеровуються, можна схитрувати та змінити напрямок письма в оригінальних файлах на потрібний для файлів перекладу.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To avoid duplication of shortcut description, we have adopted the following notation in this guide:</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221128T131209Z" creationid="Kos Ivantsov" creationdate="20221128T131050Z">
+        <seg>Щоб не дублювати описи комбінацій клавіш, у цьому посібнику використовуватиметься така схема:</seg>
       </tuv>
     </tu>
     <tu>
