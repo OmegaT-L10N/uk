@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.8.0_0_5ee326f3d" segtype="sentence" srclang="en"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.8.0_0_2d1484df5" segtype="sentence" srclang="en"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -33080,6 +33080,15 @@ Please try to correct the error and reload the project.</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM:[generic]</prop>
+      <tuv lang="en">
+        <seg>The configuration folder stores the majority of the OmegaT options and preferences for the user.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221128T083218Z" creationid="Kos Ivantsov" creationdate="20221128T083218Z">
+        <seg>У теці з налаштуваннями зберігається більшість параметрів і налаштувань OmegaT, встановлених користувачем.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en">
         <seg>The configuration folder stores the majority of the OmegaT parameters and preferences for the user.</seg>
       </tuv>
@@ -33845,6 +33854,15 @@ in /lib/licenses/Licenses.txt.</seg>
         <seg>The location of the default configuration folder varies by system (the &lt;e0&gt;~&lt;/e0&gt; character represents your home directory):</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221127T134658Z" creationid="Kos Ivantsov" creationdate="20221127T134658Z">
+        <seg>Розміщення теки з налаштуваннями залежить від системи (символ &lt;e0&gt;~&lt;/e0&gt; означає домашню теку):</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM:[generic]</prop>
+      <tuv lang="en">
+        <seg>The location of the default configuration folder varies by system (the &lt;e0&gt;~&lt;/e0&gt; character represents your home folder):</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221128T083222Z" creationid="Kos Ivantsov" creationdate="20221128T083222Z">
         <seg>Розміщення теки з налаштуваннями залежить від системи (символ &lt;e0&gt;~&lt;/e0&gt; означає домашню теку):</seg>
       </tuv>
     </tu>
