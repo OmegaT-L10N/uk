@@ -41547,6 +41547,14 @@ installation script (linux-install.sh).</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>You have not used OmegaT yet, but you remember the times you were translating in your word processor and a computer glitch wiped out the book translation you had been working on for the last six months, or the report that was due in one hour.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221128T125940Z" creationid="Kos Ivantsov" creationdate="20221128T125940Z">
+        <seg>Можливо, досі ви ще не користувалися OmegaT, але добре пам’ятаєте той момент, коли працювали над перекладом у текстовому процесорі, і через комп’ютерний збій втратили матеріал книги, над яким працювали пів року, або звіт, який потрібно було здати за годину.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>You have reached the daily limit for requests</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20190807T184554Z" creationid="Kos Ivantsov" creationdate="20190807T184454Z">
@@ -41697,6 +41705,14 @@ window to be able to launch it from any location.</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="fanja9" changedate="20200719T194315Z" creationid="maximo" creationdate="20200416T211520Z">
         <seg>Щоб ці зміни набули чинності, вам треба перезапустити OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You're considering OmegaT, but…</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221128T130008Z" creationid="Kos Ivantsov" creationdate="20221128T130008Z">
+        <seg>Зараз ви замислюєтесь над тим, щоб почати використовувати OmegaT, але…</seg>
       </tuv>
     </tu>
     <tu>
