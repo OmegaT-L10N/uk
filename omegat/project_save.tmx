@@ -29479,6 +29479,14 @@ The scope of a search is by default the project and can be set to be any files l
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>See &lt;l2/&gt; for details.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221128T174342Z" creationid="Kos Ivantsov" creationdate="20221128T174342Z">
+        <seg>Докладніше дивіться у розділі &lt;l2/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>See &lt;l2&gt;Regular expressions&lt;/l2&gt;.</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="maximo" changedate="20200416T090520Z" creationid="maximo" creationdate="20200416T090520Z">
