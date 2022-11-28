@@ -17245,6 +17245,14 @@ Explorer), change the settings so that file extensions are displayed.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If you don’t remember where your project is, you can use &lt;l0/&gt; from the &lt;l1/&gt; menu.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221128T173357Z" creationid="Kos Ivantsov" creationdate="20221128T173357Z">
+        <seg>Якщо ви не пам’ятаєте розташування проєкту, то можете скористатися пунктом &lt;l0/&gt; з меню &lt;l1/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If you enter names of folders that do not exist yet, &lt;a0&gt;OmegaT&lt;/a0&gt; creates them for you.</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="lesia" changedate="20200420T193954Z" creationid="lesia" creationdate="20200420T171326Z">
