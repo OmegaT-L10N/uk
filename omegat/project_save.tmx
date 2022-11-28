@@ -7454,6 +7454,15 @@ Buy another drink</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">MT:[MyMemory (machine)]</prop>
+      <tuv lang="en">
+        <seg>Buttons are very few in OmegaT.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221128T130601Z" creationid="Kos Ivantsov" creationdate="20221128T130601Z">
+        <seg>Кнопки в OmegaT дуже мало.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en">
         <seg>By Arno Peters and Mariëtte van Drunen (in Dutch).</seg>
       </tuv>
@@ -24074,6 +24083,14 @@ be launched.</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20190424T213354Z" creationid="Kos Ivantsov" creationdate="20190424T213354Z">
         <seg>Ліцензія OmegaT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>OmegaT looks a bit stern, if not outright unfriendly, to people who are used to button based interfaces.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221128T130552Z" creationid="Kos Ivantsov" creationdate="20221128T130552Z">
+        <seg>Людям, які звикли до інтерфейсів на основі кнопок, OmegaT видається дещо аскетичною (щоб не сказати відверто недружньою) програмою.</seg>
       </tuv>
     </tu>
     <tu>
