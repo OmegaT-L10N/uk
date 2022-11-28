@@ -17271,6 +17271,14 @@ to use Java Web Start.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If you have not yet installed OmegaT, check &lt;l0/&gt; and &lt;l1/&gt;.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221128T093015Z" creationid="Kos Ivantsov" creationdate="20221128T093015Z">
+        <seg>Якщо ви ще не встановили OmegaT, подивіться розділи &lt;l0/&gt; та &lt;l1/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If you haven't yet saved the project, this manually confirms whether you really wish to quit.</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="Asus" changedate="20200703T113329Z" creationid="maximo" creationdate="20200425T145552Z">
