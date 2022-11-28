@@ -18130,6 +18130,14 @@ click on that shortcut.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>In the dialog, just tell OmegaT what new resource folders to use.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221128T173044Z" creationid="Kos Ivantsov" creationdate="20221128T173044Z">
+        <seg>У діалоговому вікні вкажіть, які теки з ресурсами має використати OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>In the editor pane, when a match is inserted from a TMX contained in a folder named &lt;f0&gt;mt&lt;/f0&gt;, the background of the active segment is changed to red.</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="Asus" changedate="20200722T070129Z" creationid="fanja9" creationdate="20200510T162716Z">
@@ -41495,6 +41503,14 @@ installation script (linux-install.sh).</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="maximo" changedate="20200420T163135Z" creationid="maximo" creationdate="20200420T163135Z">
         <seg>Ви можете змінити поведінку OmegaT, змінюючи &lt;e0&gt;Properties&lt;/e0&gt; та &lt;f1&gt;Configuration.properties&lt;/f1&gt; всередині пакету.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You can modify the structure of a project at any time after you have started translating.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221128T172941Z" creationid="Kos Ivantsov" creationdate="20221128T172941Z">
+        <seg>Після початку роботи над перекладом можна у будь-який час змінити структуру проєкту.</seg>
       </tuv>
     </tu>
     <tu>
