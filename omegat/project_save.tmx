@@ -35863,6 +35863,15 @@ the server.</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM:[generic]</prop>
+      <tuv lang="en">
+        <seg>This document is the official user guide to OmegaT, the free Computer-Assisted Translation tool.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221128T092614Z" creationid="Kos Ivantsov" creationdate="20221128T092614Z">
+        <seg>Цей документ — офіційний посібник користувача OmegaT, вільної системи автоматизованого перекладу.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en">
         <seg>This document is the official user's guide to OmegaT, the free Computer Aided Translation tool.</seg>
       </tuv>
