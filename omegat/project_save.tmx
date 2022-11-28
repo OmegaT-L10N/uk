@@ -16147,6 +16147,14 @@ need not be entered.)</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If OmegaT behaves erratically, include this file, or the relevant part thereof, to your report.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221128T084337Z" creationid="Kos Ivantsov" creationdate="20221128T084337Z">
+        <seg>У разі нестабільної роботи OmegaT додайте цей файл або відповідну його частину до свого звіту про помилки.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If OmegaT needs to use an authenticated proxy server to access the Internet, enter the details provided by the proxy administrator here.</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="maximo" changedate="20200608T112511Z" creationid="maximo" creationdate="20200417T083720Z">
@@ -33148,6 +33156,14 @@ instead.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The contents of the file can also be viewed using the &lt;l0/&gt; option in the &lt;l1/&gt; menu.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221128T084504Z" creationid="Kos Ivantsov" creationdate="20221128T084504Z">
+        <seg>Вміст файлу можна також переглянути, використавши пункт &lt;l0/&gt; в меню &lt;l1/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The contents of the glossary pane will be updated accordingly.</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="lesia" changedate="20200616T203841Z" creationid="lesia" creationdate="20200505T200725Z">
@@ -35332,6 +35348,14 @@ configuration folder cannot be reliably determined.</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="maximo" changedate="20200624T201049Z" creationid="lesia" creationdate="20200429T202759Z">
         <seg>Це файли, що знаходяться у теці /source та мають формат, який OmegaT може розпізнати.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>These files record various internal state and program event messages generated while OmegaT is running.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221128T083607Z" creationid="Kos Ivantsov" creationdate="20221128T083607Z">
+        <seg>У цих файлах записуються повідомлення про внутрішній стан та програмні події OmegaT, які генеруються під час виконання програми.</seg>
       </tuv>
     </tu>
     <tu>
