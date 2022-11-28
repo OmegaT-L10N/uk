@@ -5592,6 +5592,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>After you have created the project, you can use &lt;l0/&gt; to come back to this dialog as necessary.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221128T165224Z" creationid="Kos Ivantsov" creationdate="20221128T165224Z">
+        <seg>Після створення проєкту повернутися до цього діалогового вікна, якщо потрібно, можна за допомогою пункту &lt;l0/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>After you have translated each segment, press &lt;k0&gt;Ctrl+U&lt;/k0&gt; to move to the next untranslated segment (or &lt;k1&gt;Ctrl+Shift+U&lt;/k1&gt; to move to the next translated segment).</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20190823T145305Z" creationid="Kos Ivantsov" creationdate="20190812T110124Z">
