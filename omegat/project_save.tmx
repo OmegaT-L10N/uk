@@ -7454,12 +7454,11 @@ Buy another drink</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">MT:[MyMemory (machine)]</prop>
       <tuv lang="en">
         <seg>Buttons are very few in OmegaT.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221128T130601Z" creationid="Kos Ivantsov" creationdate="20221128T130601Z">
-        <seg>Кнопки в OmegaT дуже мало.</seg>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221128T133540Z" creationid="Kos Ivantsov" creationdate="20221128T130601Z">
+        <seg>Кнопок в OmegaT дуже мало.</seg>
       </tuv>
     </tu>
     <tu>
