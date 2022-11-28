@@ -39029,8 +39029,8 @@ java -Xmx&lt;обсяг-у-МБ&gt;M -jar OmegaT.jar
       <tuv lang="en">
         <seg>Use &lt;l0/&gt;, select an empty folder, or create a new one with the name of your project.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221128T133115Z" creationid="Kos Ivantsov" creationdate="20221128T133115Z">
-        <seg>Для цього виберіть пункт меню &lt;l0/&gt;, виберіть порожню теку або створіть нову. Назва теки буде назвою проєкту.</seg>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221128T133609Z" creationid="Kos Ivantsov" creationdate="20221128T133115Z">
+        <seg>Для цього виберіть пункт меню &lt;l0/&gt;, далі вкажіть порожню теку або створіть нову. Назва теки буде назвою проєкту.</seg>
       </tuv>
     </tu>
     <tu>
