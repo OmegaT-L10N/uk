@@ -13017,6 +13017,14 @@ No one hears your screams</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Even if things look very broken, do not panic.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221128T124937Z" creationid="Kos Ivantsov" creationdate="20221128T124937Z">
+        <seg>Навіть у разі, коли здається, що все зникло, не варто панікувати.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Even though this software is free, if you find OmegaT useful and would like to express your gratitude, you can make a donation on our Paypal account.</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="maximo" changedate="20200322T152013Z" creationid="maximo" creationdate="20200322T152013Z">
@@ -15794,6 +15802,14 @@ Its winter has come</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="maximo" changedate="20200704T192743Z" creationid="maximo" creationdate="20200413T165852Z">
         <seg>Практичні рекомендації</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>How can OmegaT help against such glitches?</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221128T124456Z" creationid="Kos Ivantsov" creationdate="20221128T124456Z">
+        <seg>Як OmegaT може зарадити у випадку таких збоїв?</seg>
       </tuv>
     </tu>
     <tu>
@@ -19538,6 +19554,14 @@ itself on the first run.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Just follow the simple steps described in &lt;l0/&gt;.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221128T125006Z" creationid="Kos Ivantsov" creationdate="20221128T125006Z">
+        <seg>Достатньо лише виконати кілька простих кроків, описаних у розділі &lt;l0/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Justification of source and target segments depends upon the project languages.</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="maximo" changedate="20200704T181553Z" creationid="maximo" creationdate="20200614T164329Z">
@@ -22825,6 +22849,14 @@ as the Applications folder.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Not to worry.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221128T124515Z" creationid="Kos Ivantsov" creationdate="20221128T124515Z">
+        <seg>Не варто хвилюватися!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Notarized vs Unsigned</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20210929T052443Z" creationid="Kos Ivantsov" creationdate="20210929T052443Z">
@@ -23917,6 +23949,14 @@ published by the Free Software Foundation, either version 3 of the License, or
       </tuv>
       <tuv lang="uk-UA" changeid="lesia" changedate="20200708T095823Z" creationid="Kos Ivantsov" creationdate="20190822T144900Z">
         <seg>Програма OmegaT розповсюджується на умовах ліцензії GNU General Public License, виданої Free Software Foundation, версії 3 або (за потребою) будь-якої пізнішої версії.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>OmegaT is designed not only to facilitate the translation process, but also to ensure the translator does not have to worry about losing data.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221128T124350Z" creationid="Kos Ivantsov" creationdate="20221128T124350Z">
+        <seg>Програма OmegaT створена не лише для полегшення процесу перекладу, але й для того, щоб перекладачеві не доводилося турбуватися про втрату даних.</seg>
       </tuv>
     </tu>
     <tu>
@@ -34646,6 +34686,14 @@ in /lib/licenses/Licenses.txt.</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="maximo" changedate="20200425T150403Z" creationid="maximo" creationdate="20200425T150403Z">
         <seg>Вікно результатів має вигляд таблиці:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The robust design of OmegaT makes it &lt;e0&gt;extremely&lt;/e0&gt; unlikely that you have lost more than a few minutes of work.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221128T124832Z" creationid="Kos Ivantsov" creationdate="20221128T124832Z">
+        <seg>Програма OmegaT розроблена так, що ймовірність втратити більше за кілька хвилин є &lt;e0&gt;украй&lt;/e0&gt; низькою.</seg>
       </tuv>
     </tu>
     <tu>
