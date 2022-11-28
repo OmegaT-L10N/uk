@@ -15862,6 +15862,14 @@ Its winter has come</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>How decorations are displayed in OmegaT</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221128T212838Z" creationid="Kos Ivantsov" creationdate="20221128T212838Z">
+        <seg>Як форматування представлено в OmegaT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>How they do so is very much up to them.</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="lesia" changedate="20200324T170807Z" creationid="lesia" creationdate="20200321T153701Z">
@@ -24035,6 +24043,14 @@ translation leveraging into updated projects.</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="maximo" changedate="20200501T200907Z" creationid="maximo" creationdate="20200501T200907Z">
         <seg>OmegaT може зберігати переклади, що ідентичні до оригіналу.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>OmegaT is an &lt;e0&gt;easy-to-use&lt;/e0&gt; program for &lt;e1&gt;eager&lt;/e1&gt; translators</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221128T212801Z" creationid="Kos Ivantsov" creationdate="20221128T212801Z">
+        <seg>OmegaT is an &lt;e0&gt;easy-to-use&lt;/e0&gt; program for &lt;e1&gt;eager&lt;/e1&gt; translators</seg>
       </tuv>
     </tu>
     <tu>
