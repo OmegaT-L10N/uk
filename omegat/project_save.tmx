@@ -16600,6 +16600,14 @@ their defaults as a result of the location change.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If the applicable functions are used, this folder can contain up to three text files:</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221128T084601Z" creationid="Kos Ivantsov" creationdate="20221128T084601Z">
+        <seg>Якщо активовано відповідна функція, то ця тека може містити до трьох текстових файлів:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If the appropriate filter is found, the file is assigned to it for processing.</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="maximo" changedate="20200413T183840Z" creationid="maximo" creationdate="20200413T183840Z">
@@ -44072,6 +44080,14 @@ create the configuration folder.</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="fanja9" changedate="20200713T202433Z" creationid="maximo" creationdate="20200425T150802Z">
         <seg>виберіть, чи наведіть мишу на рядок, щоб у останній колонці з’явилася іконка із контекстним меню, що дозволяє виправити чи ігнорувати помилку.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>selection.txt</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221128T084602Z" creationid="Kos Ivantsov" creationdate="20221128T084602Z">
+        <seg>selection.txt</seg>
       </tuv>
     </tu>
     <tu>
