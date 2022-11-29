@@ -40578,6 +40578,22 @@ of selecting, obtaining and installing it.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>When you enter a segment that matches some of the content of the project translation memories, OmegaT displays the matches in the &lt;l0/&gt; pane.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221129T093501Z" creationid="Kos Ivantsov" creationdate="20221129T093501Z">
+        <seg>Коли буде активовано сегмент, у якому текст оригіналу певною мірою збігається з тим, що міститься у файлах пам’яті перекладів, наявних у проєкті, ці збіги разом із відповідним перекладом будуть показуватися в області &lt;l0/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>When you enter a segment where terms match terms in your glossaries, the terms and their translations will be displayed in the &lt;l0/&gt; pane.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221129T092619Z" creationid="Kos Ivantsov" creationdate="20221129T092619Z">
+        <seg>Коли буде активовано сегмент, у якому терміни збігаються із записами в глосаріях, ці терміни разом із відповідним перекладом будуть показуватися в області &lt;l0/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>When you exit the project.</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="maximo" changedate="20200705T060320Z" creationid="maximo" creationdate="20200705T060320Z">
