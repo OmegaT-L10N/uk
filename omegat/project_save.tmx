@@ -29525,6 +29525,14 @@ The scope of a search is by default the project and can be set to be any files l
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>See &lt;l0/&gt; and &lt;l1/&gt; for details.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221129T113024Z" creationid="Kos Ivantsov" creationdate="20221129T113024Z">
+        <seg>Докладніше дивіться у розділах &lt;l0/&gt; та &lt;l1/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <prop type="origin">TM:[generic]</prop>
       <tuv lang="en">
         <seg>See &lt;l0/&gt; for details</seg>
@@ -36001,6 +36009,14 @@ You, victim of one</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="maximo" changedate="20200416T212205Z" creationid="maximo" creationdate="20200416T212205Z">
         <seg>Такі сегменти будуть показуватися у вікні редагування як &lt;ПОРОЖНІЙ ПЕРЕКЛАД&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>They are protected to prevent you from modifying their contents, but you can delete them, enter them by hand or move them around in the target sentence.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221129T113013Z" creationid="Kos Ivantsov" creationdate="20221129T113013Z">
+        <seg>Текст тегів захищений, щоб унеможливити зміни, проте у перекладі їх можна видаляти, вводити вручну або переставляти місцями.</seg>
       </tuv>
     </tu>
     <tu>
