@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.8.0_0_2d1484df5" segtype="sentence" srclang="en"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.8.0_0_0f071881d" segtype="sentence" srclang="en"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -10814,6 +10814,14 @@ additional steps need to be taken.</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="Asus" changedate="20200624T034536Z" creationid="maximo" creationdate="20200414T101719Z">
         <seg>Для більшості мов вже є усталені правила сегментації, тому вам скоріш за все не доведеться їх писати самостійно.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Depending on the original format, OmegaT, however, will present this sentence in a fashion similar to this one:</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221129T084642Z" creationid="Kos Ivantsov" creationdate="20221129T084642Z">
+        <seg>Залежно від формату файлу для перекладу це речення в OmegaT буде представлено приблизно таким чином:</seg>
       </tuv>
     </tu>
     <tu>
@@ -32976,6 +32984,14 @@ current folder will be used instead.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The &lt;l0/&gt; pane is the place where you type your translation.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221129T090026Z" creationid="Kos Ivantsov" creationdate="20221129T090026Z">
+        <seg>&lt;l0/&gt; — це область головного вікна, в якому вводиться переклад.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The &lt;l0&gt;-Duser.language=&lt;p1&gt;XX&lt;/p1&gt;&lt;/l0&gt; argument causes &lt;a2&gt;OmegaT&lt;/a2&gt; to use the language specified rather than the language of the user's operating system.</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="lesia" changedate="20200708T095823Z" creationid="maximo" creationdate="20200420T203140Z">
@@ -37192,6 +37208,14 @@ the server.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>To display paragraph marks and see which paragraph each segment is part of, use &lt;l0/&gt;.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221129T085711Z" creationid="Kos Ivantsov" creationdate="20221129T085711Z">
+        <seg>Щоб бачити межі абзаців між сегментами, активуйте параметр &lt;l0/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>To display the &lt;g0&gt;Autocompletion&lt;/g0&gt; contextual menu for the glossary matches, hit the OS dependant key (&lt;k1&gt;Escape&lt;/k1&gt; for macOS, &lt;k2&gt;Ctrl+Space&lt;/k2&gt; for the other platforms).</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20210514T190603Z" creationid="Kos Ivantsov" creationdate="20210514T190603Z">
@@ -37406,6 +37430,14 @@ the server.</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20190823T145711Z" creationid="Kos Ivantsov" creationdate="20190823T145632Z">
         <seg>Щоб переглянути перелік файлів у проєкті, відкрийте діалогове вікно &lt;s2&gt;«Файли проєкту»&lt;/s2&gt;, натиснувши &lt;s3&gt;&lt;s4&gt;Ctrl+L&lt;/s4&gt;&lt;/s3&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To see how efficient you can be with shortcuts, see &lt;l0/&gt;.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221129T090052Z" creationid="Kos Ivantsov" creationdate="20221129T090052Z">
+        <seg>Щоб дізнатися про ефективне використання комбінацій клавіш, дивіться &lt;l0/&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -41589,6 +41621,14 @@ start menu, the desktop or the quick launch area to link it from there.</seg>
       <tuv lang="uk-UA" changeid="lesia" changedate="20200708T095823Z" creationid="Kos Ivantsov" creationdate="20190822T145235Z">
         <seg>Текст ліцензії подано у файлі
 /docs/OmegaT-license.txt.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You can find  how to set the paragraph mark here: &lt;l1/&gt;.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221129T085851Z" creationid="Kos Ivantsov" creationdate="20221129T085851Z">
+        <seg>Щоб дізнатися, як налаштувати розмежувач абзаців, дивіться &lt;l1/&gt;.</seg>
       </tuv>
     </tu>
     <tu>
