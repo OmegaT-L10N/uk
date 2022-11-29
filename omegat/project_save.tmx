@@ -5616,6 +5616,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>After you have typed the translation of a segment, use &lt;l0/&gt; to move to the next untranslated segment.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221129T090308Z" creationid="Kos Ivantsov" creationdate="20221129T090308Z">
+        <seg>Після введення перекладу в поточному сегменті перехід до наступного неперекладеного сегмента відбувається за допомогою &lt;l0/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Again note that the backslash is escaped as well.</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="lesia" changedate="20200702T135524Z" creationid="maximo" creationdate="20200423T160447Z">
