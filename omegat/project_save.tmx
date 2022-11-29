@@ -41843,6 +41843,14 @@ installation script (linux-install.sh).</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>You can replace terms with &lt;l0/&gt; using a similar dialog.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221129T094607Z" creationid="Kos Ivantsov" creationdate="20221129T094431Z">
+        <seg>&lt;l0/&gt; дає можливість заміни у проєкті. Для цієї функції використовується аналогічне вікно.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>You can select a file with &lt;k1&gt;Up&lt;/k1&gt; and &lt;k2&gt;Down&lt;/k2&gt; keys, and open it for translation by pressing &lt;k3&gt;Enter&lt;/k3&gt;</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="maximo" changedate="20200622T135839Z" creationid="lesia" creationdate="20200429T202806Z">
