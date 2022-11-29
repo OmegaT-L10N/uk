@@ -12372,6 +12372,14 @@ project_save.tmx не був переданий на віддалений сер
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>Either a segment is translated, or it is not.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221129T091303Z" creationid="Kos Ivantsov" creationdate="20221129T091303Z">
+        <seg>Сегмент може бути або перекладеним, або ні.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>Java 1.6?</note>
       <tuv lang="en">
         <seg>Either update to the latest JDK 1.6, or remove the jaxb-*.jar files from the OmegaT /lib dir</seg>
@@ -17419,6 +17427,14 @@ to use Java Web Start.</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="lesia" changedate="20200323T215748Z" creationid="maximo" creationdate="20200322T160103Z">
         <seg>Якщо ви встановите версію OmegaT із JRE, то навіть якщо у вас вже було середовище Java, нова його версія встановиться окремо і ніяк не впливатиме на стару чи на програми, що її використовували.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If you need a separate review process, you can for example use the &lt;l0/&gt; panes for problematic segments, or use &lt;l1/&gt; to filter segments based on criteria that you set, and review only those, etc.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221129T091707Z" creationid="Kos Ivantsov" creationdate="20221129T091430Z">
+        <seg>Якщо вам потрібен окремий підхід до процесу перевірки перекладу, ви можете, серед іншого, скористатися областю &lt;l0/&gt; для позначення проблемних сегментів або використати &lt;l1/&gt; для фільтрування сегментів на основі встановлених критеріїв і переглядати лише їх.</seg>
       </tuv>
     </tu>
     <tu>
@@ -23843,6 +23859,14 @@ as the Applications folder.</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>OmegaT does not have different statuses for translated segments.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221129T091248Z" creationid="Kos Ivantsov" creationdate="20221129T091248Z">
+        <seg>В OmegaT немає статусів перекладених сегментів.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <prop type="origin">TM:[generic]</prop>
       <tuv lang="en">
         <seg>OmegaT does not have read and write permissions for this folder.</seg>
@@ -24691,6 +24715,14 @@ your home folder.</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20190823T145501Z" creationid="Kos Ivantsov" creationdate="20190823T145501Z">
         <seg>Переконавшись, що у перекладі відсутні помилки, пов’язані з теґами, натисніть &lt;s0&gt;&lt;s1&gt;Ctrl+D&lt;/s1&gt;&lt;/s0&gt; для створення перекладених файлів. Вони будуть створені у теці, призначеній для перекладних файлів (у типовій конфігурації — тека &lt;c2&gt;/target&lt;/c2&gt; всередині теки проєкту).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Once you leave the segment, its translation is automatically stored into &lt;l0/&gt; and will be used as reference for the rest of your translation.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221129T090912Z" creationid="Kos Ivantsov" creationdate="20221129T090912Z">
+        <seg>Переклад сегмента автоматично зберігається у файлі &lt;l0/&gt;, щойно відбувається перехід до іншого сегмента. Цей переклад автоматично буде звірятися під час роботи над рештою перекладу.</seg>
       </tuv>
     </tu>
     <tu>
@@ -29713,6 +29745,14 @@ The scope of a search is by default the project and can be set to be any files l
       </tuv>
       <tuv lang="uk-UA" changeid="maximo" changedate="20200503T055004Z" creationid="maximo" creationdate="20200503T055004Z">
         <seg>Дивіться більш детальну інформацію про них у розділі &lt;l0&gt;Словники&lt;/l0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>See the &lt;l0/&gt; menu for more navigation options.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221129T091007Z" creationid="Kos Ivantsov" creationdate="20221129T091007Z">
+        <seg>Інші можливості навігації по проєкту представлені в меню &lt;l0/&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -39247,6 +39287,22 @@ java -Xmx&lt;обсяг-у-МБ&gt;M -jar OmegaT.jar
       </tuv>
       <tuv lang="uk-UA" changeid="lesia" changedate="20200425T153211Z" creationid="lesia" creationdate="20200425T153211Z">
         <seg>Використовуйте &lt;k0&gt; &lt;k1&gt;Shift&lt;/k1&gt; &lt;k2&gt;F3&lt;/k2&gt; &lt;/k0&gt; для циклічного перебирання серед чотирьох варіантів.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Use &lt;l0/&gt; in the &lt;l1/&gt; menu and &lt;l2/&gt; to manage glossary matches.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221129T092510Z" creationid="Kos Ivantsov" creationdate="20221129T092510Z">
+        <seg>Для керування збігами з глосаріїв активуйте параметр &lt;l0/&gt; в меню &lt;l1/&gt;, а також &lt;l2/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Use &lt;l0/&gt; to add terms to your glossary.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221129T091743Z" creationid="Kos Ivantsov" creationdate="20221129T091743Z">
+        <seg>Нові записи до глосарія додаються за допомогою функції &lt;l0/&gt;.</seg>
       </tuv>
     </tu>
     <tu>
