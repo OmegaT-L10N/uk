@@ -16371,6 +16371,14 @@ need not be entered.)</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If a file refuses to open in LibreOffice, Word or other application, it is often due to errors in the management of OmegaT tags.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221129T220438Z" creationid="Kos Ivantsov" creationdate="20221129T220438Z">
+        <seg>Якщо перекладений файл не відкривається в LibreOffice, Word або іншій програмі, то нерідко причиною є помилки, пов’язані з тегами.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If a given sentence has already been translated once, and translated correctly, there is no need for it to be retranslated.</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="fanja9" changedate="20200720T202259Z" creationid="maximo" creationdate="20200704T194957Z">
@@ -17443,6 +17451,14 @@ to use Java Web Start.</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="lesia" changedate="20200323T215748Z" creationid="maximo" creationdate="20200322T160103Z">
         <seg>Якщо ви встановите версію OmegaT із JRE, то навіть якщо у вас вже було середовище Java, нова його версія встановиться окремо і ніяк не впливатиме на стару чи на програми, що її використовували.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If you make mistakes when you manage the tags, your translated files might fail to open.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221129T220219Z" creationid="Kos Ivantsov" creationdate="20221129T220219Z">
+        <seg>Якщо у перекладі будуть помилки, пов’язані з тегами, то перекладені файли можуть не відкритися.</seg>
       </tuv>
     </tu>
     <tu>
@@ -28495,6 +28511,14 @@ These words: 'Page not found'</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Return to OmegaT, check your document for tag issues and recreate the translated file.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221129T220546Z" creationid="Kos Ivantsov" creationdate="20221129T220546Z">
+        <seg>Поверніться до OmegaT, перевірте наявність проблем з тегами в документі, виправте їх і знову створіть перекладений файл.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Reuse Translation Memories</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="lesia" changedate="20200708T102501Z" creationid="maximo" creationdate="20200704T194702Z">
@@ -39367,6 +39391,14 @@ java -Xmx&lt;обсяг-у-МБ&gt;M -jar OmegaT.jar
       </tuv>
       <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221129T091743Z" creationid="Kos Ivantsov" creationdate="20221129T091743Z">
         <seg>Нові записи до глосарія додаються за допомогою функції &lt;l0/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Use &lt;l0/&gt; to check your tags before you generate your translated files.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221129T220325Z" creationid="Kos Ivantsov" creationdate="20221129T220325Z">
+        <seg>Перед створенням перекладених файлів варто запустити функцію &lt;l0/&gt; для перевірки тегів.</seg>
       </tuv>
     </tu>
     <tu>
