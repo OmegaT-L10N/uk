@@ -11655,6 +11655,14 @@ additional steps need to be taken.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Documents will often also contain tags that have nothing to do with decorations, but are nevertheless important in the source files (and, consequently, in the translated files as well).</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221129T101126Z" creationid="Kos Ivantsov" creationdate="20221129T101126Z">
+        <seg>У документах також можуть міститися теги, які жодним чином не пов’язані з візуальним оформленням, проте вони відіграють важливу роль у структурі файлів для перекладу (а тому й у структурі перекладених файлів також).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Does the folder contain three files of the same name, with extensions?</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="fanja9" changedate="20200529T171951Z" creationid="maximo" creationdate="20200404T170613Z">
@@ -16820,6 +16828,14 @@ their defaults as a result of the location change.</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="Asus" changedate="20200703T113143Z" creationid="maximo" creationdate="20200425T145424Z">
         <seg>Якщо документи недоступні, пункт меню буде позначено сірим кольором.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If the documents you translate use bold, italics, or other decorative elements, OmegaT will convert them into tags that enclose the decorated text.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221129T100825Z" creationid="Kos Ivantsov" creationdate="20221129T100825Z">
+        <seg>Якщо у документах для перекладу вжито різне оформлення тексту (наприклад, жирний або курсивний шрифт чи інші елементи форматування), OmegaT представить це форматування у вигляді тегів, між якими буде подано форматований текст.</seg>
       </tuv>
     </tu>
     <tu>
@@ -32076,6 +32092,14 @@ The scope of a search is by default the project and can be set to be any files l
       </tuv>
       <tuv lang="uk-UA" changeid="Asus" changedate="20200721T065543Z" creationid="fanja9" creationdate="20200502T180742Z">
         <seg>Ці файли можуть бути трьох варіантів: перший — лише текст, другий — зі збереженою інформацією про форматування, третій — внутрішній формат OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Such files include LibreOffice files, HTML files, Microsoft Office files, etc.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221129T100936Z" creationid="Kos Ivantsov" creationdate="20221129T100936Z">
+        <seg>До таких типів файлів належать документи LibreOffice, файли HTML, документи Microsoft Office тощо.</seg>
       </tuv>
     </tu>
     <tu>
