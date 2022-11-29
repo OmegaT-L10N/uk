@@ -17486,6 +17486,15 @@ to use Java Web Start.</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM:[generic]</prop>
+      <tuv lang="en">
+        <seg>If you need assistance with any aspect of OmegaT, feel free to join the &lt;u1&gt;OmegaT user groups.&lt;/u1&gt;</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221129T220710Z" creationid="Kos Ivantsov" creationdate="20221129T220710Z">
+        <seg>Якщо вам знадобиться допомога щодо будь-якого аспекту роботи OmegaT, приєднуйтесь до &lt;u1&gt;групи користувачів OmegaT&lt;/u1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en">
         <seg>If you need assistance with any aspect of OmegaT, feel free to join the &lt;u1&gt;OmegaT users group.&lt;/u1&gt;</seg>
       </tuv>
