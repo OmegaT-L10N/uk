@@ -40892,6 +40892,14 @@ Your page is not found</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>With &lt;l0/&gt;, you can search the whole project for terms, sentence fragments and so on, using exact, keyword, or regular expression searches, as well as narrow the scope of the search based on information such as author or date.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221129T094212Z" creationid="Kos Ivantsov" creationdate="20221129T094212Z">
+        <seg>За допомогою &lt;l0/&gt; можна здійснювати пошук термінів, фрагментів речень тощо в цілому проєкті. Пошук може бути точним, за ключовими словами та на основі регулярних виразів. Крім того, діапазон пошуку можна звузити на основі такої інформації як, наприклад, авторство та дата.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>With JRE</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="lesia" changedate="20200322T213422Z" creationid="maximo" creationdate="20200322T144635Z">
@@ -41492,6 +41500,14 @@ can then launch the Kaptain launch script with:</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20210511T125042Z" creationid="maximo" creationdate="20200417T080644Z">
         <seg>Також ви можете налаштувати різні параметри, що керують перевіркою теґів, і навіть визначити власні теґи.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You can also focus only on the results by filtering them in the Editor.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221129T094318Z" creationid="Kos Ivantsov" creationdate="20221129T094318Z">
+        <seg>Якщо потрібно зосередити увагу лише на знайдених сегментах, результати пошуку можуть бути відфільтровані — в області редагування будуть показані лише вони.</seg>
       </tuv>
     </tu>
     <tu>
