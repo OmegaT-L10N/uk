@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.8.0_0_0f071881d" segtype="sentence" srclang="en"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.8.0_0_e4f0a8656" segtype="sentence" srclang="en"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -6126,8 +6126,8 @@ The current setting is {0}MB;</seg>
       <tuv lang="en">
         <seg>An OmegaT translation project consists of a number of resources stored in separate folders, of a &lt;l0/&gt; file that stores the location of all the resources and of a &lt;l1/&gt; translation memory file that stores all the translations made while working on that project.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221128T114531Z" creationid="Kos Ivantsov" creationdate="20221128T114531Z">
-        <seg>Проєкт перекладу в OmegaT складається з декількох ресурсів, які зберігаються в окремих теках, файлу &lt;l0/&gt;, в якому зазначено розташування всіх ресурсів, та файлу пам’яті перекладів &lt;l1/&gt;, в якому зберігаються переклад, здійснений у процесі роботи над проєктом.</seg>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221201T121527Z" creationid="Kos Ivantsov" creationdate="20221128T114531Z">
+        <seg>Перекладацький проєкт в OmegaT складається з декількох ресурсів, які зберігаються в окремих теках, файлу &lt;l0/&gt;, в якому зазначено розташування всіх ресурсів, та файлу пам’яті перекладів &lt;l1/&gt;, в якому зберігається переклад, здійснений у процесі роботи над проєктом.</seg>
       </tuv>
     </tu>
     <tu>
@@ -38347,12 +38347,19 @@ linux-install.sh script, and execute the script with ./linux-install.sh.</seg>
       </tuv>
     </tu>
     <tu>
-      <prop type="origin">TM:[generic]</prop>
       <tuv lang="en">
         <seg>Translation project</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221128T092643Z" creationid="Kos Ivantsov" creationdate="20221128T092643Z">
-        <seg>Переклад проєкту</seg>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221201T121459Z" creationid="Kos Ivantsov" creationdate="20221128T092643Z">
+        <seg>Перекладацький проєкт</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Translation projects are just folders containing files.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221201T121850Z" creationid="Kos Ivantsov" creationdate="20221201T121446Z">
+        <seg>Перекладацький проєкт OmegaT — це просто тека, яка містить файли та підтеки.</seg>
       </tuv>
     </tu>
     <tu>
