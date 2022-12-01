@@ -6469,8 +6469,8 @@ The TMX file will not be loaded.</seg>
       <tuv lang="en">
         <seg>Any time you create the translated files, any previously created files with the same name will be overwritten.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221201T170715Z" creationid="Kos Ivantsov" creationdate="20221201T162916Z">
-        <seg>Щоразу, коли створюються &lt;e0&gt;перекладені файли&lt;/e0&gt;, раніше створені файли з такою ж назвою будуть перезаписані.</seg>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221201T170933Z" creationid="Kos Ivantsov" creationdate="20221201T162916Z">
+        <seg>Щоразу, коли створюються перекладені файли, раніше створені файли з такою ж назвою будуть перезаписані.</seg>
       </tuv>
     </tu>
     <tu>
