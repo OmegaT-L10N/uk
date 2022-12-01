@@ -41797,6 +41797,14 @@ start menu, the desktop or the quick launch area to link it from there.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>You can create a new project for each new job, or you can add new source files to an existing project at any time.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221201T122318Z" creationid="Kos Ivantsov" creationdate="20221201T122318Z">
+        <seg>Отримавши нові матеріали для перекладу, ви можете або створити новий проєкт і покласти їх у теку з файлами для перекладу, або додати їх до уже наявного проєкту.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>You can create glossary entries with Create Glossary Entry in the Edit menu.</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="lesia" changedate="20200616T203841Z" creationid="Kos Ivantsov" creationdate="20190807T182030Z">
