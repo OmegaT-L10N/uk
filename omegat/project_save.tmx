@@ -39443,6 +39443,14 @@ java -Xmx&lt;обсяг-у-МБ&gt;M -jar OmegaT.jar
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Use &lt;l0/&gt; to make various checks on the contents.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221201T143122Z" creationid="Kos Ivantsov" creationdate="20221201T143122Z">
+        <seg>Для пошуку різних помилок у тексті можна використати функцію &lt;l0/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Use &lt;l0/&gt;, select an empty folder, or create a new one with the name of your project.</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221128T133609Z" creationid="Kos Ivantsov" creationdate="20221128T133115Z">
@@ -46578,6 +46586,28 @@ ja-RV: 空白文字：[ \t\n\x0B\f\r]&lt;/t0&gt;
       </tuv>
       <tuv lang="uk-UA" changeid="lesia" changedate="20200616T203841Z" creationid="Asus" creationdate="20200610T094529Z">
         <seg>Щойно ви збережете файл глосарія, зміни стануть доступні у програмі.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">doc_src/Introduction.xml</prop>
+      <prop type="prev">Use &lt;l0/&gt; to make various checks on the contents.</prop>
+      <prop type="next">Whenever you want to see what your translation will look like in its final format, use &lt;l0/&gt;.</prop>
+      <tuv lang="en">
+        <seg>Create the translated files</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221201T143201Z" creationid="Kos Ivantsov" creationdate="20221201T143201Z">
+        <seg>Створення перекладених файлів</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">doc_src/index.xml</prop>
+      <prop type="prev">Use &lt;l0/&gt; to make various checks on the contents.</prop>
+      <prop type="next">Whenever you want to see what your translation will look like in its final format, use &lt;l0/&gt;.</prop>
+      <tuv lang="en">
+        <seg>Create the translated files</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221201T143145Z" creationid="Kos Ivantsov" creationdate="20221201T143145Z">
+        <seg>Створення перекладених файлів</seg>
       </tuv>
     </tu>
     <tu>
