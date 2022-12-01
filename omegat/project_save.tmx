@@ -6467,6 +6467,14 @@ The TMX file will not be loaded.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Any time you create the translated files, any previously created files with the same name will be overwritten.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221201T162916Z" creationid="Kos Ivantsov" creationdate="20221201T162916Z">
+        <seg>Щоразу, коли створюються перекладені файли, раніше створені файли з такою ж назвою будуть перезаписані.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Anything after the "//" will be ignored.</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="fanja9" changedate="20200720T180303Z" creationid="maximo" creationdate="20200405T043025Z">
