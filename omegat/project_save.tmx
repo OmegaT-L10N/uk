@@ -968,6 +968,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&amp;Install plugin from disk</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221212T203506Z" creationid="Kos Ivantsov" creationdate="20221212T203506Z">
+        <seg>Установити плагін з диску</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&amp;Jump To Segment</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20190821T125018Z" creationid="Kos Ivantsov" creationdate="20190821T125018Z">
@@ -4698,6 +4706,14 @@ The current setting is {0}MB;</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="maximo" changedate="20200416T090607Z" creationid="maximo" creationdate="20200416T090607Z">
         <seg>Кілька простих прикладів</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>A file is not a plugin archive</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221212T203941Z" creationid="Kos Ivantsov" creationdate="20221212T203941Z">
+        <seg>Файл не є архівом з плагіном</seg>
       </tuv>
     </tu>
     <tu>
@@ -12357,6 +12373,14 @@ project_save.tmx не був переданий на віддалений сер
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Editor Pane</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221212T194903Z" creationid="Kos Ivantsov" creationdate="20221212T194903Z">
+        <seg>Область редагування</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Editor pane: If an OmegaT project file (&lt;f0&gt;omegat.project&lt;/f0&gt;) is dropped on this pane, the corresponding project will be opened, closing first any opened project.</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="Asus" changedate="20200722T121756Z" creationid="maximo" creationdate="20200429T210159Z">
@@ -18789,6 +18813,14 @@ click on that shortcut.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Install plugin file</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221212T203526Z" creationid="Kos Ivantsov" creationdate="20221212T203526Z">
+        <seg>Установити файл плагіна</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Installation Type</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="maximo" changedate="20200322T135913Z" creationid="maximo" creationdate="20200322T135913Z">
@@ -23429,6 +23461,14 @@ as the Applications folder.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Notes Pane</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221212T194834Z" creationid="Kos Ivantsov" creationdate="20221212T194834Z">
+        <seg>Область нотаток</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Nothing speaks against using Notepad++ on Windows, GEdit on Linux for instance or some spreadsheet program for this purpose: any application, that can handle UTF-8 (or UTF-16 LE) and that can show white space (so that you do not miss the required &lt;k1&gt;TAB&lt;/k1&gt; characters) can be used.</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="fanja9" changedate="20200713T144446Z" creationid="lesia" creationdate="20200505T201802Z">
@@ -25056,6 +25096,15 @@ your home folder.</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM:[generic]</prop>
+      <tuv lang="en">
+        <seg>Open it in the OmegaT GUI to convert it to the new format.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221212T203047Z" creationid="Kos Ivantsov" creationdate="20221212T203047Z">
+        <seg>Для перетворення у новий формат відкрийте проєкт у графічному інтерфейсі OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en">
         <seg>Open the &lt;f0&gt;.UTF8&lt;/f0&gt; file generated in the &lt;f1&gt;/target&lt;/f1&gt; folder.</seg>
       </tuv>
@@ -26243,6 +26292,22 @@ additional steps need to be taken.</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="lesia" changedate="20200708T095823Z" creationid="maximo" creationdate="20200614T164045Z">
         <seg>Plug-ins</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Plugin Installer</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221212T202602Z" creationid="Kos Ivantsov" creationdate="20221212T202602Z">
+        <seg>Установлення плагінів</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Plugin installation failed.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221212T203907Z" creationid="Kos Ivantsov" creationdate="20221212T203907Z">
+        <seg>Не вдалося встановити плагін.</seg>
       </tuv>
     </tu>
     <tu>
@@ -30244,6 +30309,14 @@ The scope of a search is by default the project and can be set to be any files l
       </tuv>
       <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221118T165958Z" creationid="Kos Ivantsov" creationdate="20221118T165958Z">
         <seg>Для налаштування фільтра виберіть його у переліку та натисніть «Редагувати...» або «Параметри...».</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Select a plugin file (*.jar, *.zip)</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221212T202806Z" creationid="Kos Ivantsov" creationdate="20221212T202806Z">
+        <seg>Вибір файлу з плагіном (*.jar, *.zip)</seg>
       </tuv>
     </tu>
     <tu>
@@ -37101,6 +37174,15 @@ the server.</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM:[generic]</prop>
+      <tuv lang="en">
+        <seg>Tick or untick the appropriate boxes to change these settings.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221212T194918Z" creationid="Kos Ivantsov" creationdate="20221212T194918Z">
+        <seg>Для зміни параметрів пошуку слід встановити або зняти відповідні прапорці.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en">
         <seg>Tick or untick the approrpiate boxes to change these settings.</seg>
       </tuv>
@@ -38291,6 +38373,14 @@ linux-install.sh script, and execute the script with ./linux-install.sh.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Translation is</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221212T203125Z" creationid="Kos Ivantsov" creationdate="20221212T203125Z">
+        <seg>Переклад</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Translation is fuzzy</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20190821T160515Z" creationid="Kos Ivantsov" creationdate="20190821T160515Z">
@@ -39155,6 +39245,18 @@ on line {1}, column {2}.</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="maximo" changedate="20200607T164247Z" creationid="lesia" creationdate="20200505T200634Z">
         <seg>Тож доповнення словника відбувається просто: натисніть &lt;k0&gt;Ctrl+Shift+G&lt;/k0&gt; і введіть новий термін, його переклад та за необхідності коментар.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Upgrade/override plugin {0}
+current: {1}
+new version: {2}</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221212T211044Z" creationid="Kos Ivantsov" creationdate="20221212T211011Z">
+        <seg>Оновлення/заміна плагіну {0}
+поточна версія: {1}
+нова версія: {2}</seg>
       </tuv>
     </tu>
     <tu>
@@ -43460,6 +43562,14 @@ create the configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>fuzzy</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221212T203212Z" creationid="Kos Ivantsov" creationdate="20221212T203212Z">
+        <seg>зі збігу</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>git clone https://git.code.sf.net/p/omegat/code omegat-code</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="lesia" changedate="20200708T095823Z" creationid="maximo" creationdate="20200614T164037Z">
@@ -44435,6 +44545,14 @@ create the configuration folder.</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="maximo" changedate="20200412T051842Z" creationid="maximo" creationdate="20200412T051842Z">
         <seg>ліниві квантифікатори ловлять мінімальну можливу кількість елементів.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>not fuzzy</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221212T203219Z" creationid="Kos Ivantsov" creationdate="20221212T203219Z">
+        <seg>не зі збігу</seg>
       </tuv>
     </tu>
     <tu>
