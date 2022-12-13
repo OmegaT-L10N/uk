@@ -2238,6 +2238,26 @@ To add files to the project, click on the Copy Files to Source Folder... button 
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>- Marco Cevoli (Telegram community manager)
+- Jean-Christophe Helary (Twitter community manager)
+- Kos Ivantsov (localisation manager)
+- Concepción Martin (Facebook community manager)
+- Hiroshi Miura (lead developer)
+- Briac Pilpré (webmaster)
+- Lucie Vecerova (Facebook community manager)</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221213T211735Z" creationid="Kos Ivantsov" creationdate="20221213T211645Z">
+        <seg>- Marco Cevoli (менеджер спільноти Telegram)
+- Jean-Christophe Helary (менеджер спільноти Twitter)
+- Kos Ivantsov (менеджер з локалізації)
+- Concepción Martin (менеджер спільноти Facebook)
+- Hiroshi Miura (головний розробник)
+- Briac Pilpré (розробник сайту)
+- Lucie Vecerova (менеджер спільноти Facebook)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>- Vincent Bidaux (documentation manager)
 - Marco Cevoli (Telegram community manager)
 - Jean-Christophe Helary (Twitter community manager)
