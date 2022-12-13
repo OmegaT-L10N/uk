@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.8.0_0_72d5686f1" segtype="sentence" srclang="en"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.8.0_0_13c9fddb8" segtype="sentence" srclang="en"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -1161,6 +1161,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&amp;Next Segment with xAUTO</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221213T203752Z" creationid="Kos Ivantsov" creationdate="20221213T203714Z">
+        <seg>До &amp;наступного сегмента з xAUTO</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&amp;Notes</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20190803T181537Z" creationid="Kos Ivantsov" creationdate="20190803T181537Z">
@@ -1245,6 +1253,14 @@
       </tuv>
       <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20190420T172440Z" creationid="Kos Ivantsov" creationdate="20190420T155110Z">
         <seg>До п&amp;опереднього сегмента</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&amp;Previous Segment with xAUTO</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221213T203802Z" creationid="Kos Ivantsov" creationdate="20221213T203802Z">
+        <seg>До &amp;попереднього сегмента з xAUTO</seg>
       </tuv>
     </tu>
     <tu>
@@ -6886,6 +6902,14 @@ may experience unexpected, but correct behaviour.</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20190424T211556Z" creationid="Kos Ivantsov" creationdate="20190424T211417Z">
         <seg>Автодоповнення</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Auto-Popu&amp;lated Segments</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221213T203735Z" creationid="Kos Ivantsov" creationdate="20221213T203654Z">
+        <seg>До автоматично заповнени&amp;х сегментів</seg>
       </tuv>
     </tu>
     <tu>
@@ -22413,6 +22437,14 @@ as the Applications folder.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>N&amp;ext Segment with xENFORCED</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221213T203819Z" creationid="Kos Ivantsov" creationdate="20221213T203819Z">
+        <seg>До н&amp;аступного сегмента з xENFORCED</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>NB:</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="lesia" changedate="20200523T202930Z" creationid="lesia" creationdate="20200523T202930Z">
@@ -23513,6 +23545,14 @@ as the Applications folder.</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20190807T171326Z" creationid="Kos Ivantsov" creationdate="20190807T171326Z">
         <seg>Сповіщення (сталий колір)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Notify Me Even If There Are No Search Results</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221213T203945Z" creationid="Kos Ivantsov" creationdate="20221213T203945Z">
+        <seg>Повідомляти про закінчення пошуку навіть за відсутності результатів</seg>
       </tuv>
     </tu>
     <tu>
@@ -25596,6 +25636,14 @@ your home folder.</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20190516T165054Z" creationid="Kos Ivantsov" creationdate="20190516T165054Z">
         <seg>Режим заміни</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>P&amp;revious Segment with xENFORCED</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221213T203845Z" creationid="Kos Ivantsov" creationdate="20221213T203845Z">
+        <seg>До п&amp;опереднього сегмента з xENFORCED</seg>
       </tuv>
     </tu>
     <tu>
