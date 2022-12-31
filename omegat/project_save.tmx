@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.8.0_0_13c9fddb8" segtype="sentence" srclang="en"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.8.0_0_3bb57a48c" segtype="sentence" srclang="en"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -1161,6 +1161,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&amp;Next Segment from tm/auto/</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221231T161508Z" creationid="Kos Ivantsov" creationdate="20221231T161508Z">
+        <seg>До &amp;наступного сегмента з tm/auto/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&amp;Next Segment with xAUTO</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221213T203752Z" creationid="Kos Ivantsov" creationdate="20221213T203714Z">
@@ -1253,6 +1261,14 @@
       </tuv>
       <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20190420T172440Z" creationid="Kos Ivantsov" creationdate="20190420T155110Z">
         <seg>До п&amp;опереднього сегмента</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&amp;Previous Segment from tm/auto/</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221231T161524Z" creationid="Kos Ivantsov" creationdate="20221231T161524Z">
+        <seg>До &amp;попереднього сегмента з tm/auto/</seg>
       </tuv>
     </tu>
     <tu>
@@ -22465,6 +22481,14 @@ as the Applications folder.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>N&amp;ext Segment from tm/enforce/</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221231T161611Z" creationid="Kos Ivantsov" creationdate="20221231T161611Z">
+        <seg>До н&amp;аступного сегмента з tm/enforce/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>N&amp;ext Segment with xENFORCED</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221213T203819Z" creationid="Kos Ivantsov" creationdate="20221213T203819Z">
@@ -25664,6 +25688,14 @@ your home folder.</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20190516T165054Z" creationid="Kos Ivantsov" creationdate="20190516T165054Z">
         <seg>Режим заміни</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>P&amp;revious Segment from tm/enforce/</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221231T161632Z" creationid="Kos Ivantsov" creationdate="20221231T161632Z">
+        <seg>До п&amp;опереднього сегмента з tm/enforce/</seg>
       </tuv>
     </tu>
     <tu>
@@ -44642,6 +44674,14 @@ create the configuration folder.</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="fanja9" changedate="20200719T145622Z" creationid="maximo" creationdate="20200425T152001Z">
         <seg>n — (назва скрипта)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>no</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221231T161643Z" creationid="Kos Ivantsov" creationdate="20221231T161643Z">
+        <seg>ні</seg>
       </tuv>
     </tu>
     <tu>
