@@ -11257,6 +11257,14 @@ additional steps need to be taken.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Display &amp;Paragraph Delimitations</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20230127T183413Z" creationid="Kos Ivantsov" creationdate="20230127T183413Z">
+        <seg>Показувати ме&amp;жі абзаців</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Display &amp;Source Segments</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20190807T095427Z" creationid="Kos Ivantsov" creationdate="20190807T095333Z">
@@ -15900,6 +15908,22 @@ Its winter has come</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20190821T215746Z" creationid="Kos Ivantsov" creationdate="20190821T215746Z">
         <seg>Виділяти кольором</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Highlight &amp;Translated Segments</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20230127T183347Z" creationid="Kos Ivantsov" creationdate="20230127T183347Z">
+        <seg>Виділяти &amp;перекладені сегменти</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Highlight &amp;Untranslated Segments</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20230127T183400Z" creationid="Kos Ivantsov" creationdate="20230127T183400Z">
+        <seg>Виділяти &amp;неперекладені сегменти</seg>
       </tuv>
     </tu>
     <tu>
