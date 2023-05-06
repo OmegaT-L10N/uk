@@ -22222,9 +22222,8 @@ itself on the first run.</seg>
       <tuv lang="en">
         <seg>Missing attribute '{0}' in &lt;{1}></seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20230506T210946Z" creationid="Kos Ivantsov" creationdate="20230506T210946Z">
-        <seg>Пропущений атрибут «{0}» у &lt;{1}>
-</seg>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20230506T210949Z" creationid="Kos Ivantsov" creationdate="20230506T210946Z">
+        <seg>Пропущений атрибут «{0}» у &lt;{1}></seg>
       </tuv>
     </tu>
     <tu>
@@ -33758,6 +33757,14 @@ current folder will be used instead.</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="maximo" changedate="20200322T153839Z" creationid="maximo" creationdate="20200322T153839Z">
         <seg>Остання версія зазвичай достатньо надійна, але все ж можливі непередбачувані ситуації.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The Moodle PHP filter encountered an error:</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20230506T211027Z" creationid="Kos Ivantsov" creationdate="20230506T211027Z">
+        <seg>У роботі фільтра PHP сталася помилка:</seg>
       </tuv>
     </tu>
     <tu>
