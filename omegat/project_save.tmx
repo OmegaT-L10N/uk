@@ -2583,6 +2583,17 @@ To add files to the project, click on the Copy Files to Source Folder... button 
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>--mode=[console mode name] &lt;project path> &lt;mode options>
+	  Specify a mode other than the GUI default.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20230506T195044Z" creationid="Kos Ivantsov" creationdate="20230506T195044Z">
+        <seg>--mode=[назва консольного режиму] &lt;шлях до проєкту> &lt;параметри режиму>
+	  Запустити OmegaT у режимі, відмінному від типового
+	  (типовим режимом є робота з графічним інтерфейсом).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>--mode=[console-translate|console-pseudotranslatetmx|console-align]
 		Specify a mode other than default (GUI).</seg>
       </tuv>
