@@ -13059,6 +13059,14 @@ No one hears your screams</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>Error loading : {0}</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20230506T210408Z" creationid="Kos Ivantsov" creationdate="20230506T210408Z">
+        <seg>Помилка завантаження: {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
       <prop type="origin">TM:[generic]</prop>
       <tuv lang="en">
         <seg>Error loading plugin from class '{0}': {1}: {2}</seg>
