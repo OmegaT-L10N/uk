@@ -5388,6 +5388,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Add MediaWiki Pa&amp;ge...</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20230506T205253Z" creationid="Kos Ivantsov" creationdate="20230506T205253Z">
+        <seg>Додати сторінку Media&amp;Wiki...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Add Online Media&amp;Wiki Page...</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221112T114647Z" creationid="Kos Ivantsov" creationdate="20221112T114647Z">
