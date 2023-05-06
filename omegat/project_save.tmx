@@ -39113,6 +39113,14 @@ Exact searches match the whole search string.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Unable to create a backup file of {0}</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20230506T210201Z" creationid="Kos Ivantsov" creationdate="20230506T210201Z">
+        <seg>Не вдалося створити резервну копію файлу {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Unable to create the translated files due to missing or damaged tags.</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221114T095249Z" creationid="Kos Ivantsov" creationdate="20221114T095218Z">
