@@ -21306,6 +21306,14 @@ itself on the first run.</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>Machine Translations</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20230506T211516Z" creationid="Kos Ivantsov" creationdate="20230506T211516Z">
+        <seg>Машинні переклади</seg>
+      </tuv>
+    </tu>
+    <tu>
       <prop type="origin">TM:[generic]</prop>
       <tuv lang="en">
         <seg>Machine translate highlight</seg>
