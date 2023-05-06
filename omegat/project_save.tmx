@@ -19677,6 +19677,14 @@ click on that shortcut.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>It is stored in the TMX file.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20230506T211557Z" creationid="Kos Ivantsov" creationdate="20230506T211557Z">
+        <seg>Вона зберігатиметься у файлі TMX.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>It is the recommended version for first-time users.</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="lesia" changedate="20200324T173749Z" creationid="maximo" creationdate="20200322T145421Z">
