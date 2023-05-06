@@ -9780,6 +9780,14 @@ additional steps need to be taken.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Copy error to clipboard</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20230506T205238Z" creationid="Kos Ivantsov" creationdate="20230506T205238Z">
+        <seg>Скопіювати помилку о буфера обміну</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Copy the URL of the page (ending with &lt;g0>action=edit&lt;/g0>) and paste it into &lt;a1>OmegaT&lt;/a1>.</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="fanja9" changedate="20200713T151206Z" creationid="maximo" creationdate="20200425T142537Z">
