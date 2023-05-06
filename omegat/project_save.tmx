@@ -33785,6 +33785,14 @@ current folder will be used instead.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The Mozilla DTD filter encountered an error:</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20230506T211101Z" creationid="Kos Ivantsov" creationdate="20230506T211101Z">
+        <seg>У роботі фільтра Mozilla DTD сталася помилка:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The Mozilla DTD filter threw an exception:</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20190701T155822Z" creationid="Kos Ivantsov" creationdate="20190701T155822Z">
