@@ -775,6 +775,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&amp;Find Next</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20230506T204507Z" creationid="Kos Ivantsov" creationdate="20230506T204507Z">
+        <seg>Зна&amp;йти далі</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&amp;Find...</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20190807T190647Z" creationid="Kos Ivantsov" creationdate="20190807T190647Z">
@@ -1373,6 +1381,14 @@
       </tuv>
       <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20190817T193806Z" creationid="Kos Ivantsov" creationdate="20190420T175920Z">
         <seg>&amp;Замінити та перейти далі</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&amp;Replace and Find Next</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20230506T204534Z" creationid="Kos Ivantsov" creationdate="20230506T204522Z">
+        <seg>Замінити та знайти &amp;далі</seg>
       </tuv>
     </tu>
     <tu>
