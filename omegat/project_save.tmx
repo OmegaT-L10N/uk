@@ -30389,6 +30389,15 @@ The scope of a search is by default the project and can be set to be any files l
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM:[generic]</prop>
+      <tuv lang="en">
+        <seg>See the user manual for instructions.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20230506T211629Z" creationid="Kos Ivantsov" creationdate="20230506T211629Z">
+        <seg>Додаткову інформацію шукайте у посібнику користувача.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en">
         <seg>Segment</seg>
       </tuv>
