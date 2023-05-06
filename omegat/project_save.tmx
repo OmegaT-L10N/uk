@@ -16009,6 +16009,14 @@ Its winter has come</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Hide &amp;Options</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20230506T210248Z" creationid="Kos Ivantsov" creationdate="20230506T210248Z">
+        <seg>&amp;Сховати параметри</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Hide '{0}'</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20190807T183312Z" creationid="Kos Ivantsov" creationdate="20190807T183312Z">
@@ -32780,6 +32788,14 @@ The scope of a search is by default the project and can be set to be any files l
       </tuv>
       <tuv lang="uk-UA" changeid="lesia" changedate="20200708T102106Z" creationid="Kos Ivantsov" creationdate="20190807T164741Z">
         <seg>Параметри збігів із пам’яті перекладів</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>TM Search &amp;Options</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20230506T210237Z" creationid="Kos Ivantsov" creationdate="20230506T210237Z">
+        <seg>Параметри пошуку в файлах пам’яті перекладів</seg>
       </tuv>
     </tu>
     <tu>
