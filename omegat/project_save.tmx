@@ -31918,6 +31918,14 @@ The scope of a search is by default the project and can be set to be any files l
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Source files loaded but skipping files(s) by filter error(s)</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20230506T210130Z" creationid="Kos Ivantsov" creationdate="20230506T210130Z">
+        <seg>Завантаження файлі для перекладу виконано, але з пропусками файлів через помилки фільтрів</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Source folder {0} does not exist.</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221111T152500Z" creationid="Kos Ivantsov" creationdate="20190807T191146Z">
