@@ -31391,6 +31391,14 @@ The scope of a search is by default the project and can be set to be any files l
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>Skipped source file {0} because it could not be loaded.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20230506T205956Z" creationid="Kos Ivantsov" creationdate="20230506T205956Z">
+        <seg>Не вдалося завантажити файл для перекладу {0} — файл буде пропущено.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <prop type="origin">TM:[generic]</prop>
       <tuv lang="en">
         <seg>Skipped translation units for which no source  segment was found.</seg>
