@@ -1185,6 +1185,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&amp;None</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20230506T205619Z" creationid="Kos Ivantsov" creationdate="20230506T205619Z">
+        <seg>&amp;Не показувати</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&amp;Notes</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20190803T181537Z" creationid="Kos Ivantsov" creationdate="20190803T181537Z">
@@ -43888,6 +43896,14 @@ create the configuration folder.</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="lesia" changedate="20200503T063603Z" creationid="lesia" creationdate="20200503T063603Z">
         <seg>for (j in 0 ..&lt; files[i].entries.size())</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>for Current &amp;Segment</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20230506T205632Z" creationid="Kos Ivantsov" creationdate="20230506T205632Z">
+        <seg>Для &amp;поточного сегмента</seg>
       </tuv>
     </tu>
     <tu>
