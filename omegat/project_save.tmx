@@ -13928,6 +13928,12 @@ Gossamer threads hold you back
       </tuv>
     </tu>
     <tu>
+      <note>missing space</note>
+      <tuv lang="en">
+        <seg>Fatal error while parsing "project_save.tmx" file(line {0}, column {1}):</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en">
         <seg>Feature requests tracking system</seg>
       </tuv>
