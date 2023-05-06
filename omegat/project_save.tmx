@@ -33711,6 +33711,15 @@ current folder will be used instead.</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM:[generic]</prop>
+      <tuv lang="en">
+        <seg>The Java Resource Bundles filter encountered an error:</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20230506T210908Z" creationid="Kos Ivantsov" creationdate="20230506T210908Z">
+        <seg>У роботі фільтра пакетів ресурсів Java сталася помилка:</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en">
         <seg>The Java Resource Bundles filter threw an exception:</seg>
       </tuv>
@@ -33842,8 +33851,8 @@ current folder will be used instead.</seg>
       <tuv lang="en">
         <seg>The PO filter encountered an error:</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20230506T210707Z" creationid="Kos Ivantsov" creationdate="20230506T210707Z">
-        <seg>Сталася помилка у фільтра PO:</seg>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20230506T210923Z" creationid="Kos Ivantsov" creationdate="20230506T210707Z">
+        <seg>У роботі фільтра PO сталася помилка:</seg>
       </tuv>
     </tu>
     <tu>
