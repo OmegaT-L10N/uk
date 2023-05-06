@@ -29065,6 +29065,14 @@ These words: 'Page not found'</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>Run OmegaT" in the user manual.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20230506T204703Z" creationid="Kos Ivantsov" creationdate="20230506T204703Z">
+        <seg>Запуск OmegaT» у посібнику користувача.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <prop type="origin">TM:[generic]</prop>
       <tuv lang="en">
         <seg>Run script in slot #{0}.</seg>
