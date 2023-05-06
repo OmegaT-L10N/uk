@@ -13400,6 +13400,14 @@ No one hears your screams</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Exception while parsing "project_save.tmx":</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20230506T202507Z" creationid="Kos Ivantsov" creationdate="20230506T202507Z">
+        <seg>Помилка під час обробки файлу «project_save.tmx»:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Exception while parsing:</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20190517T142854Z" creationid="Kos Ivantsov" creationdate="20190517T142854Z">
