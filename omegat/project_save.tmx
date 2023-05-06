@@ -11316,6 +11316,14 @@ additional steps need to be taken.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Display &amp;Modification Info</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20230506T205544Z" creationid="Kos Ivantsov" creationdate="20230506T205544Z">
+        <seg>Показувати інформацію про &amp;зміни</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Display &amp;Non-Breakable Spaces</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20230127T183512Z" creationid="Kos Ivantsov" creationdate="20230127T183512Z">
@@ -39876,6 +39884,14 @@ java -Xmx&lt;обсяг-у-МБ>M -jar OmegaT.jar
       </tuv>
       <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221128T174204Z" creationid="Kos Ivantsov" creationdate="20221128T174204Z">
         <seg>Перелік файлів, які підтримуються в OmegaT, можна переглянути, вибравши пункт &lt;l1/>.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Use Aggressive &amp;Font Fallback</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20230506T205528Z" creationid="Kos Ivantsov" creationdate="20230506T205528Z">
+        <seg>Примусово використовувати резервний шрифт</seg>
       </tuv>
     </tu>
     <tu>
