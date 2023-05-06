@@ -6953,6 +6953,14 @@ may experience unexpected, but correct behaviour.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Attempt to replace fuzzy match &amp;numbers</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20230506T211421Z" creationid="Kos Ivantsov" creationdate="20230506T211421Z">
+        <seg>Намагатися замінювати числа у вставлених нечітких збігах</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Attribute:</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20190807T190847Z" creationid="Kos Ivantsov" creationdate="20190807T190847Z">
