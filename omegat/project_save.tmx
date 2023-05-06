@@ -29310,6 +29310,14 @@ These words: 'Page not found'</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>SDL project (beta)</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20230506T210732Z" creationid="Kos Ivantsov" creationdate="20230506T210732Z">
+        <seg>Проєкт SDL (бета)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>SQLJet (GPL License)</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20190424T212522Z" creationid="Kos Ivantsov" creationdate="20190424T212522Z">
@@ -41960,6 +41968,14 @@ Your page is not found</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20190422T210747Z" creationid="Kos Ivantsov" creationdate="20190422T210747Z">
         <seg>XLIFF</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>XLIFF (legacy filter)</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20230506T210812Z" creationid="Kos Ivantsov" creationdate="20230506T210812Z">
+        <seg>XLIFF (старий фільтр)</seg>
       </tuv>
     </tu>
     <tu>
