@@ -46871,6 +46871,16 @@ ja-RV: 空白文字：[ \t\n\x0B\f\r]&lt;/t0>
     </tu>
     <tu>
       <prop type="file">5.8/Bundle.properties</prop>
+      <prop type="id">ALIGNER_ENUM_COUNTER_TYPE_WORD</prop>
+      <tuv lang="en">
+        <seg>Word</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20230508T084916Z" creationid="Kos Ivantsov" creationdate="20230508T084916Z">
+        <seg>За словами</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">5.8/Bundle.properties</prop>
       <prop type="id">OpenXML_WORD</prop>
       <tuv lang="en">
         <seg>Word</seg>
