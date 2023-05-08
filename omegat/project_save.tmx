@@ -31883,6 +31883,14 @@ The scope of a search is by default the project and can be set to be any files l
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Source</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20230508T084604Z" creationid="Kos Ivantsov" creationdate="20230508T084604Z">
+        <seg>Оригінал</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Source &amp;Files...</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221112T134633Z" creationid="Kos Ivantsov" creationdate="20221112T120337Z">
