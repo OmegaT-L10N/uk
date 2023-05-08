@@ -23461,6 +23461,14 @@ as the Applications folder.</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>Not present</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20230508T084533Z" creationid="Kos Ivantsov" creationdate="20230508T084533Z">
+        <seg>Немає перекладу</seg>
+      </tuv>
+    </tu>
+    <tu>
       <prop type="origin">TM:[generic]</prop>
       <tuv lang="en">
         <seg>Not set</seg>
