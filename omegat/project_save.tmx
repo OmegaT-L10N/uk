@@ -24426,6 +24426,14 @@ as the Applications folder.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>OmegaT does not have access to the remote repository: verify your connection or your credentials.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20230508T090225Z" creationid="Kos Ivantsov" creationdate="20230508T090225Z">
+        <seg>OmegaT не має доступу до віддаленого сховища: перевірте підключення або облікові дані.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>OmegaT does not have different statuses for translated segments.</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221129T091248Z" creationid="Kos Ivantsov" creationdate="20221129T091248Z">
@@ -35751,8 +35759,8 @@ in /lib/licenses/Licenses.txt.</seg>
       <tuv lang="en">
         <seg>The project is in offline mode.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20230506T224231Z" creationid="Kos Ivantsov" creationdate="20230506T224231Z">
-        <seg>Проєкт в автономному режимі.</seg>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20230508T090250Z" creationid="Kos Ivantsov" creationdate="20230506T224231Z">
+        <seg>Проєкт працює в автономному режимі.</seg>
       </tuv>
     </tu>
     <tu>
