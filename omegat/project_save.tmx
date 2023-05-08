@@ -28602,6 +28602,22 @@ These words: 'Page not found'</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>Repeated segments</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20230508T084649Z" creationid="Kos Ivantsov" creationdate="20230508T084649Z">
+        <seg>Сегменти з повторами</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Repeated segments background</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20230508T084657Z" creationid="Kos Ivantsov" creationdate="20230508T084657Z">
+        <seg>Тло сегментів з повторами</seg>
+      </tuv>
+    </tu>
+    <tu>
       <prop type="origin">TM:[generic]</prop>
       <tuv lang="en">
         <seg>Repeated segments: {0}</seg>
