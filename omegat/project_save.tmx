@@ -28652,6 +28652,14 @@ These words: 'Page not found'</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Replace</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20230508T084707Z" creationid="Kos Ivantsov" creationdate="20230508T084707Z">
+        <seg>Замінити</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Replace &amp;glossary hits when inserting source text</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20190817T204503Z" creationid="Kos Ivantsov" creationdate="20190422T204406Z">
