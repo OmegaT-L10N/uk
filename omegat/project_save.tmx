@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="6.1.0_0_7458c49b8" segtype="sentence" srclang="en"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="6.1.0_0_0e7d8e679" segtype="sentence" srclang="en"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -2688,6 +2688,20 @@ To add files to the project, click on the Copy Files to Source Folder... button 
 	    A folder containing the translated files.</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221122T092331Z" creationid="Kos Ivantsov" creationdate="20221122T092331Z">
+        <seg>--mode=console-align
+	  (Режим вирівнювання у консолі)
+	  --alignDir=&lt;path>
+	    Тека, що містить перекладені файли.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM:[generic]</prop>
+      <tuv lang="en">
+        <seg>--mode=console-align
+	  --alignDir=&lt;path>
+	    The folder containing the translated files.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20230509T080523Z" creationid="Kos Ivantsov" creationdate="20230509T080523Z">
         <seg>--mode=console-align
 	  (Режим вирівнювання у консолі)
 	  --alignDir=&lt;path>
