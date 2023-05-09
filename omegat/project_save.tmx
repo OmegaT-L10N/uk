@@ -12941,10 +12941,26 @@ is the language code and YY is the region or country code (optional).</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Enter the password for {0}</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20230509T081212Z" creationid="Kos Ivantsov" creationdate="20230509T081212Z">
+        <seg>Уведіть пароль для {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Enter the segment number:</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20190424T214407Z" creationid="Kos Ivantsov" creationdate="20190424T214407Z">
         <seg>Вкажіть номер сегмента:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Enter the username for {0}</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20230509T081202Z" creationid="Kos Ivantsov" creationdate="20230509T081202Z">
+        <seg>Уведіть ім’я користувача для {0}</seg>
       </tuv>
     </tu>
     <tu>
@@ -14039,10 +14055,35 @@ Gossamer threads hold you back
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Failed to load the project due to file corruption.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20230509T080856Z" creationid="Kos Ivantsov" creationdate="20230509T080856Z">
+        <seg>Не вдалося завантажити проєкт через пошкодження файлу!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">TM:[generic]</prop>
+      <tuv lang="en">
+        <seg>Failed to load the specified project.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20230509T080740Z" creationid="Kos Ivantsov" creationdate="20230509T080740Z">
+        <seg>Не вдалося завантажити вказаний проєкт!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Failed to load translation memory {0} for project!</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="lesia" changedate="20200708T102038Z" creationid="Kos Ivantsov" creationdate="20190422T204640Z">
         <seg>Не вдалося завантажити пам’ять перекладів {0} для проєкту!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Failed to load translation memory {0} for the project.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20230509T080735Z" creationid="Kos Ivantsov" creationdate="20230509T080720Z">
+        <seg>Не вдалося завантажити пам’ять перекладів {0} для проєкту.</seg>
       </tuv>
     </tu>
     <tu>
@@ -15807,6 +15848,14 @@ provided (omegat.kaptn).</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20210615T105658Z" creationid="Kos Ivantsov" creationdate="20210615T105658Z">
         <seg>Отримано неочікуваний тип MIME {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Got unexpected input.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20230509T081254Z" creationid="Kos Ivantsov" creationdate="20230509T081254Z">
+        <seg>Отримано неочікувані ввідні дані {0}</seg>
       </tuv>
     </tu>
     <tu>
@@ -39605,6 +39654,14 @@ Exact searches match the whole search string.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Unable to parse source XML file</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20230509T081100Z" creationid="Kos Ivantsov" creationdate="20230509T081100Z">
+        <seg>Не вдалося проаналізувати призначений для перекладу файл XML</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Unable to parse translate service response</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20200725T091148Z" creationid="Kos Ivantsov" creationdate="20200725T091148Z">
@@ -39849,6 +39906,14 @@ Exact searches match the whole search string.</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20190504T131009Z" creationid="Kos Ivantsov" creationdate="20190504T131009Z">
         <seg>Унікальних:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Unknown language code {0} specified</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20230509T081130Z" creationid="Kos Ivantsov" creationdate="20230509T081130Z">
+        <seg>Вказано невідомий код мови: {0}</seg>
       </tuv>
     </tu>
     <tu>
@@ -42162,6 +42227,14 @@ Your page is not found</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20190821T151734Z" creationid="Kos Ivantsov" creationdate="20190821T151734Z">
         <seg>Помилка автентифікації</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Wrong password for {0}</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20230509T081233Z" creationid="Kos Ivantsov" creationdate="20230509T081233Z">
+        <seg>Хибний пароль для {0}</seg>
       </tuv>
     </tu>
     <tu>
