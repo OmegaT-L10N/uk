@@ -14106,8 +14106,8 @@ Gossamer threads hold you back
       <tuv lang="en">
         <seg>Failed to load the project due to a file access issue.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20230604T162855Z" creationid="Kos Ivantsov" creationdate="20230604T162855Z">
-        <seg>Не вдалося завантажити проєкт через проблеми з доступом до файлу!</seg>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20230604T163105Z" creationid="Kos Ivantsov" creationdate="20230604T162855Z">
+        <seg>Не вдалося завантажити проєкт через проблеми з доступом до файлів!</seg>
       </tuv>
     </tu>
     <tu>
@@ -21643,6 +21643,14 @@ itself on the first run.</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="lesia" changedate="20200708T101727Z" creationid="maximo" creationdate="20200420T171106Z">
         <seg>Перевірте, щоб налаштування &lt;v2>PATH&lt;/v2> були правильні, та щоб файли &lt;f3>.jar&lt;/f3> були правильно прив’язані до запуску через середовище Java.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Make sure you have the correct permissions or that you can access the files if they are stored in the cloud.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20230604T163102Z" creationid="Kos Ivantsov" creationdate="20230604T163102Z">
+        <seg>Перевірте, чи маєте ви належні права доступу до файлів. Якщо файли зберігаються у хмарному сховищі, перевірте доступ до них.</seg>
       </tuv>
     </tu>
     <tu>
