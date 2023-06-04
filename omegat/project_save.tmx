@@ -1481,6 +1481,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&amp;Restore OmegaT Window</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20230604T162747Z" creationid="Kos Ivantsov" creationdate="20230604T162747Z">
+        <seg>&amp;Відновити області головного вікна</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&amp;Root</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20190421T152209Z" creationid="Kos Ivantsov" creationdate="20190421T151214Z">
