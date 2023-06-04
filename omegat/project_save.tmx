@@ -2401,6 +2401,23 @@ To add files to the project, click on the Copy Files to Source Folder... button 
       </tuv>
     </tu>
     <tu>
+      <prop type="origin">TM:[generic]</prop>
+      <tuv lang="en">
+        <seg>- verify that their format is supported by OmegaT:
+	  if local filter settings are enabled
+	  use Project > Properties... > Local File Filters...,
+	  otherwise use Options > Global File Filters...;
+	- open them in their original application and verify that they are not empty.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20230604T162513Z" creationid="Kos Ivantsov" creationdate="20230604T162513Z">
+        <seg>- перевірте, чи підтримується їхній формат програмою OmegaT:
+	  якщо фільтри файлів застосовані лише у поточному проєкті, то
+	  відкрийте налаштування фільтрів через меню «Проєкт» > «Властивості...» > «Локальні фільтри файлів...»,
+	  якщо налаштування фільтрів глобальні — меню «Налаштування» > «Глобальні фільтри файлів...»;
+	- відкрийте файли у відповідній програмі та перевірте, чи вони не порожні.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en">
         <seg>- verify that their format is supported by OmegaT:
 	  if per-project filter settings are enabled
