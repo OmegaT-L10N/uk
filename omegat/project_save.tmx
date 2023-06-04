@@ -14296,6 +14296,14 @@ Gossamer threads hold you back
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>File (segs):</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20230604T163913Z" creationid="Kos Ivantsov" creationdate="20230604T163851Z">
+        <seg>Файл (сегменти):</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>File > Close (&lt;k0> &lt;k1>Ctrl&lt;/k1> &lt;k2>W&lt;/k2> &lt;/k0>): close the search window (in the same way as &lt;k3>Esc&lt;/k3>)</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="lesia" changedate="20200523T201912Z" creationid="lesia" creationdate="20200523T201912Z">
@@ -27918,6 +27926,14 @@ project without team functionality.</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20190821T153059Z" creationid="Kos Ivantsov" creationdate="20190821T153059Z">
         <seg>Проєкт не буде оновлено.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Project:</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20230604T163827Z" creationid="Kos Ivantsov" creationdate="20230604T163827Z">
+        <seg>Проєкт:</seg>
       </tuv>
     </tu>
     <tu>
