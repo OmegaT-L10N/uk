@@ -47272,6 +47272,16 @@ ja-RV: 空白文字：[ \t\n\x0B\f\r]&lt;/t0&gt;
     </tu>
     <tu>
       <prop type="file">5.8/Bundle.properties</prop>
+      <prop type="id">TF_OPTIONSMENU_DICTIONARY</prop>
+      <tuv lang="en">
+        <seg>&amp;Dictionaries</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20230604T170431Z" creationid="Kos Ivantsov" creationdate="20230604T170431Z">
+        <seg>&amp;Словники</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">5.8/Bundle.properties</prop>
       <prop type="id">TF_OPTIONSMENU_GLOSSARY</prop>
       <tuv lang="en">
         <seg>&amp;Glossaries</seg>
@@ -47288,6 +47298,16 @@ ja-RV: 空白文字：[ \t\n\x0B\f\r]&lt;/t0&gt;
       </tuv>
       <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20230604T170301Z" creationid="Kos Ivantsov" creationdate="20230604T170301Z">
         <seg>У &amp;глосаріях</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">6.0/Bundle.properties</prop>
+      <prop type="id">TF_OPTIONSMENU_DICTIONARY</prop>
+      <tuv lang="en">
+        <seg>&amp;Dictionaries</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20230604T170453Z" creationid="Kos Ivantsov" creationdate="20230604T170453Z">
+        <seg>&amp;Словники</seg>
       </tuv>
     </tu>
     <tu>
@@ -47910,6 +47930,16 @@ ja-RV: 空白文字：[ \t\n\x0B\f\r]&lt;/t0&gt;
       </tuv>
       <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221126T124707Z" creationid="Kos Ivantsov" creationdate="20221126T115956Z">
         <seg>Шукати в словниках</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">Bundle.properties</prop>
+      <prop type="id">TF_OPTIONSMENU_DICTIONARY</prop>
+      <tuv lang="en">
+        <seg>&amp;Dictionaries</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20230604T170523Z" creationid="Kos Ivantsov" creationdate="20230604T170523Z">
+        <seg>&amp;Словники</seg>
       </tuv>
     </tu>
     <tu>
