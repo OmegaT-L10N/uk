@@ -34156,6 +34156,16 @@ current folder will be used instead.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The @language@ version of OmegaT has been translated by:
+@TRANSLATION_NOTICE@</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20230604T164214Z" creationid="Kos Ivantsov" creationdate="20230604T164214Z">
+        <seg>Переклад української версії OmegaT (за абеткою):
+Максим Жолобак, Фаїна Жолобак, Кость Іванцов, Леся Івашкевич, Олександр Нестеренко, Валерія Росовська, Дарія Тітарова © 2018–2023</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The Britannica Concise Encyclopedia</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="lesia" changedate="20200510T145946Z" creationid="lesia" creationdate="20200510T145946Z">
