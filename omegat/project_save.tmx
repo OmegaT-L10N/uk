@@ -12048,8 +12048,8 @@ additional steps need to be taken.</seg>
       <tuv lang="en">
         <seg>Double-click characters, or select them and press the Insert key, to add them to the custom table.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20230604T163647Z" creationid="Kos Ivantsov" creationdate="20230604T163647Z">
-        <seg>Двічі натисніть на бажаному символі або виберіть його у таблиці та натисніть клавішу Insert, щоб додати його до власної таблиці</seg>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20230604T163650Z" creationid="Kos Ivantsov" creationdate="20230604T163647Z">
+        <seg>Двічі натисніть на бажаному символі або виберіть його у таблиці та натисніть клавішу Insert, щоб додати його до власної таблиці.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13027,6 +13027,14 @@ is the language code and YY is the region or country code (optional).</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221115T134104Z" creationid="Kos Ivantsov" creationdate="20221115T134104Z">
         <seg>Уведіть ім’я користувача та пароль для {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Enter your master password</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20230604T163657Z" creationid="Kos Ivantsov" creationdate="20230604T163657Z">
+        <seg>Уведіть головний пароль</seg>
       </tuv>
     </tu>
     <tu>
@@ -18982,6 +18990,14 @@ click on that shortcut.</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20190823T142319Z" creationid="Kos Ivantsov" creationdate="20190823T142319Z">
         <seg>Розбіжності в числах</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Incorrect password</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20230604T163700Z" creationid="Kos Ivantsov" creationdate="20230604T163700Z">
+        <seg>Хибний пароль</seg>
       </tuv>
     </tu>
     <tu>
