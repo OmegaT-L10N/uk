@@ -2786,6 +2786,21 @@ To add files to the project, click on the Copy Files to Source Folder... button 
     <tu>
       <tuv lang="en">
         <seg>--mode=console-stats
+	  --output-file=[stats-output-file]
+	    Prints to the specified file, or to standard output
+	    if no file is given or the option is not used.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20230604T163820Z" creationid="Kos Ivantsov" creationdate="20230604T163820Z">
+        <seg>--mode=console-stats
+	  (Режим виведення статистики у консоль)
+	  --output-file=[&lt;файл виведення статистики>]
+	    Статистика буде виведена у вказаний файл або у стандартний вивід,
+	    якщо цей параметр відсутній або файл не вказано.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>--mode=console-stats
 	  project_path
 	    The path to the project
 	  --output-file=[stats-output-file]
