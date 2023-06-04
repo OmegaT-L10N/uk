@@ -14104,6 +14104,14 @@ Gossamer threads hold you back
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Failed to load the project because the specified source folder contains a symbolic or hard link that points back to itself or one of its subfolders.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20230604T163252Z" creationid="Kos Ivantsov" creationdate="20230604T163252Z">
+        <seg>Не вдалося завантажити проєкт, оскільки вказана тека для файлів для перекладу містить символічне або жорстке посилання на саму цю теку або на одну з її підтек.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Failed to load the project due to a file access issue.</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20230604T163105Z" creationid="Kos Ivantsov" creationdate="20230604T162855Z">
@@ -21611,6 +21619,14 @@ itself on the first run.</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="lesia" changedate="20200705T095411Z" creationid="maximo" creationdate="20200704T193915Z">
         <seg>Робіть регулярні копії /omegat/project_save.tmx на резервні носії, наприклад, у хмарне сховище.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Make sure all links are outside the source folder and subfolders.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20230604T163448Z" creationid="Kos Ivantsov" creationdate="20230604T163448Z">
+        <seg>Перевірте, щоб усі посилання вказували поза межі теки для файлів для перекладу та її підтек.</seg>
       </tuv>
     </tu>
     <tu>
