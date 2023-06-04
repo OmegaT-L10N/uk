@@ -1337,6 +1337,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&amp;Redo</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20230604T162544Z" creationid="Kos Ivantsov" creationdate="20230604T162544Z">
+        <seg>Пов&amp;торити</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&amp;Redo Last Action</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20190421T152553Z" creationid="Kos Ivantsov" creationdate="20190421T152553Z">
@@ -1828,6 +1836,14 @@
       </tuv>
       <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221112T121004Z" creationid="Kos Ivantsov" creationdate="20221112T120904Z">
         <seg>УСЕ У &amp;ВЕРХНЬОМУ РЕГІСТРІ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&amp;Undo</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20230604T162536Z" creationid="Kos Ivantsov" creationdate="20230604T162536Z">
+        <seg>Скасуват&amp;и</seg>
       </tuv>
     </tu>
     <tu>
