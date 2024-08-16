@@ -32193,6 +32193,14 @@ that points back to itself or one of its subfolders.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Sort by Source Term Length</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="userone" changedate="20240816T105023Z" creationid="userone" creationdate="20240816T105023Z">
+        <seg>Сортувати за довжиною термінів мовою оригіналу</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Sort by Target Term Length</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221125T202803Z" creationid="Kos Ivantsov" creationdate="20221125T202803Z">
