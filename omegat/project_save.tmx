@@ -20174,6 +20174,14 @@ itself on the first run.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>JSON</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="userone" changedate="20240816T104904Z" creationid="userone" creationdate="20240816T104904Z">
+        <seg>JSON</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>JSch (JSch License)</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20190424T212211Z" creationid="Kos Ivantsov" creationdate="20190424T212211Z">
@@ -21172,6 +21180,14 @@ itself on the first run.</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="fanja9" changedate="20200719T145659Z" creationid="lesia" creationdate="20200503T055218Z">
         <seg>Завантажити скрипт до редактора, обравши його назву на панелі ліворуч.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Load project source files: {0} ms</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="userone" changedate="20240816T104855Z" creationid="userone" creationdate="20240816T104855Z">
+        <seg>Завантаження файлів для перекладу в проєкті: {0} мс</seg>
       </tuv>
     </tu>
     <tu>
@@ -41053,6 +41069,14 @@ searchable without subscription:</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Username:</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="userone" changedate="20240816T104935Z" creationid="userone" creationdate="20240816T104935Z">
+        <seg>Ім’я користувача:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Users are free to download and use the program.</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="lesia" changedate="20200321T153013Z" creationid="lesia" creationdate="20200321T152837Z">
@@ -42578,6 +42602,14 @@ Your page is not found</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20190803T185733Z" creationid="Kos Ivantsov" creationdate="20190803T185733Z">
         <seg>Параметри фільтра XLIFF</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>XML</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="userone" changedate="20240816T104902Z" creationid="userone" creationdate="20240816T104902Z">
+        <seg>XML</seg>
       </tuv>
     </tu>
     <tu>
@@ -47600,8 +47632,8 @@ ja-RV: 空白文字：[ \t\n\x0B\f\r]&lt;/t0&gt;
       <tuv lang="en">
         <seg>Password:</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20190822T095937Z" creationid="Kos Ivantsov" creationdate="20190822T095937Z">
-        <seg>&amp;Пароль:</seg>
+      <tuv lang="uk-UA" changeid="userone" changedate="20240816T104937Z" creationid="Kos Ivantsov" creationdate="20190822T095937Z">
+        <seg>Пароль:</seg>
       </tuv>
     </tu>
     <tu>
