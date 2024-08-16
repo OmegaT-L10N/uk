@@ -14046,6 +14046,14 @@ Gossamer threads hold you back
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Failed to commit target files.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="userone" changedate="20240816T104808Z" creationid="userone" creationdate="20240816T104808Z">
+        <seg>Не вдалося зафіксувати перекладені файли.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Failed to compile project files!</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20190504T102043Z" creationid="Kos Ivantsov" creationdate="20190504T102043Z">
