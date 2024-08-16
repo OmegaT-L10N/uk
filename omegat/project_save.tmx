@@ -8722,6 +8722,14 @@ Buy another drink</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Check the permissions of {0}</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="userone" changedate="20240816T104621Z" creationid="userone" creationdate="20240816T104621Z">
+        <seg>Перевірте права доступу до {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Check the tag issues again.</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221115T112222Z" creationid="Kos Ivantsov" creationdate="20221115T112222Z">
@@ -14166,6 +14174,16 @@ Gossamer threads hold you back
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Failed to load translation memory: {0}
+Some attributes have invalid values.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="userone" changedate="20240816T104707Z" creationid="userone" creationdate="20240816T104707Z">
+        <seg>Не вдалося завантажити пам’ять перекладів: {0}
+Деякі атрибути мають неприпустимі значення.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Failed to update project properties</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20190504T102643Z" creationid="Kos Ivantsov" creationdate="20190504T102643Z">
@@ -19548,6 +19566,14 @@ click on that shortcut.</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20190504T132346Z" creationid="Kos Ivantsov" creationdate="20190504T132346Z">
         <seg>Неприпустимий формат файлу</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Invalid link: {0}</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="userone" changedate="20240816T104503Z" creationid="userone" creationdate="20240816T104503Z">
+        <seg>Неприпустиме посилання: {0}</seg>
       </tuv>
     </tu>
     <tu>
@@ -31859,6 +31885,24 @@ The scope of a search is by default the project and can be set to be any files l
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Skipped one or more source files
+because the specified source folder contains a symbolic or hard link
+that points back to itself or one of its subfolders.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="userone" changedate="20240816T104446Z" creationid="userone" creationdate="20240816T104446Z">
+        <seg>Пропущено один або кілька файлів для перекладу, оскільки вказана тека для файлів для перекладу містить символічне або жорстке посилання на саму цю теку або на одну з її підтек.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Skipped one or more source files due to an access permission error in the source folder.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="userone" changedate="20240816T104605Z" creationid="userone" creationdate="20240816T104605Z">
+        <seg>Пропущено один або кілька файлів для перекладу через помилку з правами доступу у теці для файлів для перекладу.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Skipped source file {0} because it could not be loaded.</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20230506T205956Z" creationid="Kos Ivantsov" creationdate="20230506T205956Z">
@@ -40570,6 +40614,14 @@ java -Xmx&lt;обсяг-у-МБ&gt;M -jar OmegaT.jar
       </tuv>
       <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221114T095533Z" creationid="Kos Ivantsov" creationdate="20221114T095533Z">
         <seg>Виправте помилки з тегами (меню «Інструменти» &gt; «Пошук помилок...») та спробуйте знову.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Use a TMX validator to find and fix them.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="userone" changedate="20240816T104744Z" creationid="userone" creationdate="20240816T104744Z">
+        <seg>Знайдіть та виправте помилки за допомогою інструментів для валідації TMX.</seg>
       </tuv>
     </tu>
     <tu>
