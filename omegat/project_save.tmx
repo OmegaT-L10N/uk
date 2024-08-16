@@ -10879,6 +10879,14 @@ additional steps need to be taken.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Dark theme:</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="userone" changedate="20240816T104246Z" creationid="userone" creationdate="20240816T104246Z">
+        <seg>Темна тема:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Deactivate &lt;g0&gt;Use stemming for glossary entries&lt;/g0&gt; in the OmegaT global preferences to only find exact matches for a term.</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20210514T082504Z" creationid="Kos Ivantsov" creationdate="20210514T082504Z">
@@ -16297,6 +16305,14 @@ Its winter has come</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>Highlight Segments with Alternative Translation</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="userone" changedate="20240816T104215Z" creationid="userone" creationdate="20240816T104215Z">
+        <seg>Підсвічувати сегменти з варіантами перекладу</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>
 помилка - inserts</note>
       <tuv lang="en">
@@ -21002,6 +21018,14 @@ itself on the first run.</seg>
       <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20190808T092158Z" creationid="Kos Ivantsov" creationdate="20190808T092158Z">
         <seg>Інформація щодо ліцензування
 ============================</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Light theme:</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="userone" changedate="20240816T104241Z" creationid="userone" creationdate="20240816T104241Z">
+        <seg>Світла тема:</seg>
       </tuv>
     </tu>
     <tu>
@@ -33140,6 +33164,14 @@ The scope of a search is by default the project and can be set to be any files l
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Sync with OS colour preference</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="userone" changedate="20240816T104319Z" creationid="userone" creationdate="20240816T104319Z">
+        <seg>Синхронізувати з системними налаштуваннями кольору</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Synchronisation of repositories</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20190811T112915Z" creationid="Kos Ivantsov" creationdate="20190811T112915Z">
@@ -36729,6 +36761,14 @@ in /lib/licenses/Licenses.txt.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Theme</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="userone" changedate="20240816T104237Z" creationid="userone" creationdate="20240816T104237Z">
+        <seg>Тема</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Theme:</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20210615T110122Z" creationid="Kos Ivantsov" creationdate="20210615T110122Z">
@@ -39511,6 +39551,14 @@ Exact searches match the whole search string.</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20190516T182721Z" creationid="Kos Ivantsov" creationdate="20190516T182658Z">
         <seg>Неперек&amp;ладене</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>UI Style</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="userone" changedate="20240816T104232Z" creationid="userone" creationdate="20240816T104232Z">
+        <seg>Стиль інтерфейсу</seg>
       </tuv>
     </tu>
     <tu>
