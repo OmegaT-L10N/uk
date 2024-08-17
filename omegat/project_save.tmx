@@ -14086,6 +14086,14 @@ Gossamer threads hold you back
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Failed to create the translated files.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20240817T182707Z" creationid="Kos Ivantsov" creationdate="20240817T182707Z">
+        <seg>Не вдалося створити перекладені файли.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Failed to download Mediawiki page</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20221112T114727Z" creationid="Kos Ivantsov" creationdate="20221112T114727Z">
