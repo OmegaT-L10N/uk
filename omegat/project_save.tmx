@@ -15946,8 +15946,8 @@ provided (omegat.kaptn).</seg>
       <tuv lang="en">
         <seg>Got error during autosaving: {0}</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20240817T182358Z" creationid="Kos Ivantsov" creationdate="20240817T182358Z">
-        <seg>Сталася помилка під час автоматичного збереження: {0}</seg>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20240817T182530Z" creationid="Kos Ivantsov" creationdate="20240817T182358Z">
+        <seg>Сталася помилка під час автозбереження: {0}</seg>
       </tuv>
     </tu>
     <tu>
@@ -21452,6 +21452,15 @@ itself on the first run.</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20190817T203105Z" creationid="Kos Ivantsov" creationdate="20190516T182920Z">
         <seg>Розміщення</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="origin">MT:[DeepL API Free]</prop>
+      <tuv lang="en">
+        <seg>Lock trying timeout during autosave</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20240817T182525Z" creationid="Kos Ivantsov" creationdate="20240817T182525Z">
+        <seg>Таймаут спроби блокування під час автозбереження</seg>
       </tuv>
     </tu>
     <tu>
