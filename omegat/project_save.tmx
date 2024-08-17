@@ -47329,6 +47329,16 @@ ja-RV: 空白文字：[ \t\n\x0B\f\r]&lt;/t0>
     </tu>
     <tu>
       <prop type="file">6.0/Bundle.properties</prop>
+      <prop type="id">EXTERNALFINDER_SUBEDITOR_TARGET_LABEL</prop>
+      <tuv lang="en">
+        <seg>Target:</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Kos Ivantsov" changedate="20240817T182651Z" creationid="Kos Ivantsov" creationdate="20240817T182651Z">
+        <seg>Текст для пошуку:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">6.0/Bundle.properties</prop>
       <prop type="id">SW_SEARCH_IN_GLOSSARIES</prop>
       <tuv lang="en">
         <seg>&amp;Glossaries</seg>
